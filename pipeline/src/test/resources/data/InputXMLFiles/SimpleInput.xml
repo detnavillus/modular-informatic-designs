@@ -1,0 +1,13 @@
+<ResultSet>
+  <Result>
+    <Field><Name>Title</Name><Value>Title One</Value></Field>
+    <Field><Name>HtmlPageData</Name><Value> Erectile dysfunction is treated with Viagra. On the other hand Zoloft is indicated for the treatment of depression. </Value></Field>
+  </Result>
+
+  <Result>
+    <Field><Name>Title</Name><Value>Another test record</Value></Field>
+    <Field><Name>HtmlPageData</Name><Value> That may be true but it is also clear that BMS 90210 is used to treat arthritis. More drug indications Aspirin is used to treat Atherosclerotic Cardiovascular Disease. </Value></Field>
+    <Field><Name>ExtraData</Name><Value></Value></Field>
+  </Result>
+
+</ResultSet>

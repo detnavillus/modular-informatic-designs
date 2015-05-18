@@ -1,0 +1,66 @@
+<ConfigurationXML>
+
+  <ClassNameMapping elementName="PatternMap" className="com.modinfodesigns.classify.PatternMap" />
+
+  <DataSource name="XMLDataSource" class="com.modinfodesigns.pipeline.source.XMLDataSource"
+              XMLFilePath="data/InputXMLFiles" />
+
+
+  <DataProcessor class="com.modinfodesigns.pipeline.process.DataTransformProcessor" >
+
+    <DataTransform class="com.modinfodesigns.classify.Classifier" >
+
+      <ClassifyField>Title</ClassifyField>
+      <ClassifyField>HtmlPageData</ClassifyField>
+
+      <IndexMatcher class="com.modinfodesigns.classify.PatternMatcher"
+                    patternProperty="Indication"
+                    matchPattern="DRUG treats DISEASE"
+                    nestedTopicProperty="IndicationTopic"
+                    nestedTopicTitleProperty="Title"
+                    nestedTopicPhraseProperty="Excerpt" >
+
+        <Pattern>DRUG [2] indicated [3] treatment [3] DISEASE</Pattern>
+        <Pattern>DISEASE [2] treated [3] DRUG</Pattern>
+        <Pattern>DRUG is used to treat DISEASE</Pattern>
+
+        <PatternMap name="DRUG" >
+         <IndexMatcherFactory class="com.modinfodesigns.classify.IndexMatcherFactory" mode="OR" >
+
+           <IndexMatcher class="com.modinfodesigns.classify.EntityExtractorMatcher" >
+             <EntityExtractor class="com.modinfodesigns.entity.RegularExpressionEntityExtractor" >
+               <Pattern>(BM[ST][-\s]?[0-9][0-9][0-9][0-9][0-9][0-9]?)</Pattern>
+             </EntityExtractor>
+           </IndexMatcher>
+
+           <IndexMatcherFactory class="com.modinfodesigns.classify.ThesaurusIndexMatcherFactory"
+                                termAttribute="KeyTerm"
+                                synonymAttribute="Synonym" >
+              <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/pharmacologicsubstance</ThesaurusDirectory>
+              <ThesaurusDirectory>./pipeline/src/test/resources/AddFDARecords/outputRecords</ThesaurusDirectory>
+            </IndexMatcherFactory>
+
+          </IndexMatcherFactory>
+	</PatternMap>
+
+        <PatternMap name="DISEASE" >
+         <IndexMatcherFactory class="com.modinfodesigns.classify.ThesaurusIndexMatcherFactory"
+                              termAttribute="KeyTerm"
+                              synonymAttribute="Synonym" >
+
+            <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/diseaseorsyndrome</ThesaurusDirectory>
+            <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/mentalorbehavioraldysfunction</ThesaurusDirectory>
+
+          </IndexMatcherFactory>
+	</PatternMap>
+
+      </IndexMatcher>
+
+    </DataTransform>
+
+  </DataProcessor>
+
+  <DataProcessor class="com.modinfodesigns.pipeline.process.FileDataProcessor"
+                 outputDirectory="./pipeline/src/test/resources/data/ClassifiedXMLFiles" />
+
+</ConfigurationXML>

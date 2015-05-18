@@ -1,0 +1,36 @@
+<ConfigurationXML>
+
+  <!-- ============================================================= -->
+  <!--               Reads Data from a Flat File                     -->
+  <!-- ============================================================= -->
+  <DataSource class="com.modinfodesigns.pipeline.FlatFileDataSource" >
+
+    <DataList type="Columns" >
+      <Column name="column_1" type="String" />
+      <Column name="date_1"   type="Date" format="yyyy-MM-dd" />
+      <Column name="Money"    class="com.modinfodesigns.property.quantity.IntegerProperty" />
+    </DataList>
+
+  </DataSource>
+
+  <!-- ============================================================= -->
+  <!--       Transforms Data using IPropertyHolderTransform          -->
+  <!-- ============================================================= -->
+  <DataProcessor class="com.modinfodesigns.pipeline.DataTransformProcessor" >
+
+  </DataProcessor>
+
+  <!-- ============================================================= -->
+  <!--       Writes Data to an Output Flat File                      -->
+  <!-- ============================================================= -->
+  <DataProcessor class="com.modinfodesigns.pipeline.FlatFileDataProcessor" >
+
+    <DataList type="Columns" >
+      <Column name="column_1" />
+      <Column name="date_1" format="MM/dd/yyyy" />
+      <Column name="Money"  format="$dd.dd" />
+    </DataList>
+
+  </DataProcessor>
+
+</ConfigurationXML>

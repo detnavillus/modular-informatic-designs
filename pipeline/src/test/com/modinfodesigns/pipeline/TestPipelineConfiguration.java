@@ -1,0 +1,42 @@
+package com.modinfodesigns.test.objectFactory;
+
+import java.util.List;
+
+import com.modinfodesigns.app.ApplicationManager;
+import com.modinfodesigns.app.IObjectFactory;
+
+import com.modinfodesigns.utils.FileMethods;
+
+import com.modinfodesigns.pipeline.process.IDataObjectProcessor;
+
+public class TestPipelineConfiguration
+{
+    private static String configurationFile = "C:/Projects/Prometheus/TestConfigurationFiles/TestPipelineConfiguration.xml";
+	private static String modInfoClass = "com.modinfodesigns.app.ModInfoObjectFactory";
+
+	public static void main(String[] args)
+	{
+        ApplicationManager appManager = ApplicationManager.getInstance( );
+        
+        String configXML = FileMethods.readFile( configurationFile );
+        System.out.println( "Got Configuration: " + configXML );
+        
+        IObjectFactory objFactory = appManager.createObjectFactory( "MyObjectFactory", modInfoClass, configXML );
+
+        List<Object> dataProcessors = objFactory.getApplicationObjects( "DataProcessor" );
+        if ( dataProcessors != null)
+        {
+        	System.out.println( "Got DataProcessors!" );
+        	for (int i = 0; i < dataProcessors.size(); i++)
+        	{
+        		IDataObjectProcessor dataProc = (IDataObjectProcessor)dataProcessors.get( i );
+        		System.out.println( "   " + dataProc );
+        	}
+        }
+        else
+        {
+        	System.out.println( "No DataProcessors in sight!" );
+        }
+	}
+
+}
