@@ -1,0 +1,391 @@
+<project name="modular-informatic-designs" default="dist" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant" >
+  <description>Builds Modular Informatic Designs Framework</description>
+  
+  <property name="build.lib.dir" location="${basedir}/build-lib" />
+  
+  <property name="ivy.dir" location="${basedir}/ivy"/>
+  <property name="ivy.dep.file" location="ivy.xml" />
+  <property name="ivy.version" value="2.3.0"/>
+  <property name="ivy.lib.dir"  location="${build.lib.dir}/ivy/lib" />
+  
+  <property name="build.dir" location="${basedir}/build" />
+  <property name="classes.dir" location="${build.dir}/classes" />
+  <property name="src.dir" value="src/main/java" />
+  <property name="test.dir" value="src/test" />
+  
+  <property name="src.dir.app"  location="${basedir}/application/${src.dir}" />
+  <property name="test.dir.app" location="${basedir}/application/${test.dir}" />
+  <property name="dest.dir.app"      location="${classes.dir}/application" />
+  <property name="dest.dir.app.test" location="${classes.dir}/test/application" />
+  <property name="res.dir.app"       location="${test.dir.app}/resources" />
+  
+  <property name="src.dir.prop"  location="${basedir}/property/${src.dir}" />
+  <property name="test.dir.prop" location="${basedir}/property/${test.dir}" />
+  <property name="dest.dir.prop" location="${classes.dir}/property" />
+  <property name="dest.dir.prop.test" location="${classes.dir}/test/property" />
+  <property name="res.dir.prop"       location="${test.dir.prop}/resources" />
+  
+  <property name="src.dir.search"  location="${basedir}/search/${src.dir}" />
+  <property name="test.dir.search" location="${basedir}/search/${test.dir}" />
+  <property name="dest.dir.search" location="${classes.dir}/search" />
+  <property name="dest.dir.search.test" location="${classes.dir}/test/search" />
+  <property name="res.dir.search"       location="${test.dir.search}/resources" />
+  
+  <property name="src.dir.net"  location="${basedir}/network/${src.dir}" />
+  <property name="test.dir.net" location="${basedir}/network/${test.dir}" />
+  <property name="dest.dir.net" location="${classes.dir}/network" />
+  <property name="dest.dir.net.test" location="${classes.dir}/test/network" />
+  <property name="res.dir.net"       location="${test.dir.net}/resources" />
+  
+  <property name="src.dir.class"  location="${basedir}/classification/${src.dir}" />
+  <property name="test.dir.class" location="${basedir}/classification/${test.dir}" />
+  <property name="dest.dir.class" location="${classes.dir}/classification" />
+  <property name="dest.dir.class.test" location="${classes.dir}/test/classification" />
+  <property name="res.dir.class"       location="${test.dir.class}/resources" />
+  
+  <property name="src.dir.taxo"  location="${basedir}/ontology/${src.dir}" />
+  <property name="test.dir.taxo" location="${basedir}/ontology/${test.dir}" />
+  <property name="dest.dir.taxo" location="${classes.dir}/ontology" />
+  <property name="dest.dir.taxo.test" location="${classes.dir}/test/ontology" />
+  <property name="res.dir.taxo"       location="${test.dir.taxo}/resources" />
+  
+  <property name="src.dir.pipe"  location="${basedir}/pipeline/${src.dir}" />
+  <property name="test.dir.pipe" location="${basedir}/pipeline/${test.dir}" />
+  <property name="dest.dir.pipe" location="${classes.dir}/pipeline" />
+  <property name="dest.dir.pipe.test" location="${classes.dir}/test/pipeline" />
+  <property name="res.dir.taxo"       location="${test.dir.pipe}/resources" />
+  
+  <property name="dist.name" value="modinfo-designs" />
+  <property name="dist.dir"  location="${basedir}/dist" />
+  <property name="version.number"   value="0.9" />
+  
+  <target name="init" >
+    <mkdir dir="${build.dir}"/>
+    <mkdir dir="${classes.dir}"/>
+    <mkdir dir="${dist.dir}"/>
+  </target>
+  
+  <target name="clean" >
+    <delete dir="${build.dir}"/>
+    <delete dir="${classes.dir}"/>
+    <delete dir="${dist.dir}"/>
+  </target>
+  
+  <target name="compile-app" depends="init,ivy-retrieve" >
+    <mkdir dir="${dest.dir.app}"/>
+    <javac srcdir="${src.dir.app}" destdir="${dest.dir.app}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+      </classpath>
+    </javac>   
+  </target>
+  
+  <target name="compile-network" depends="compile-app" >
+    <mkdir dir="${dest.dir.net}"/>
+    <javac srcdir="${src.dir.net}" destdir="${dest.dir.net}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-property" depends="compile-network" >
+    <mkdir dir="${dest.dir.prop}"/>
+    <javac srcdir="${src.dir.prop}" destdir="${dest.dir.prop}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-search" depends="compile-property" >
+    <mkdir dir="${dest.dir.search}"/>
+    <javac srcdir="${src.dir.search}" destdir="${dest.dir.search}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-classification" depends="compile-search" >
+    <mkdir dir="${dest.dir.class}"/>
+    <javac srcdir="${src.dir.class}" destdir="${dest.dir.class}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-ontology" depends="compile-classification" >
+    <mkdir dir="${dest.dir.taxo}"/>
+    <javac srcdir="${src.dir.taxo}" destdir="${dest.dir.taxo}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+        <pathelement location="${dest.dir.class}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-pipeline" depends="compile-ontology" >
+    <mkdir dir="${dest.dir.pipe}"/>
+    <javac srcdir="${src.dir.pipe}" destdir="${dest.dir.pipe}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+        <pathelement location="${dest.dir.class}" />
+        <pathelement location="${dest.dir.taxo}" />
+      </classpath>
+    </javac>
+  </target>
+
+  <target name="compile-all" depends="compile-app,compile-property,compile-search,compile-pipeline,compile-network,compile-classification,compile-ontology" />
+  
+  <target name="compile-app-test" depends="compile-app" >
+    <mkdir dir="${dest.dir.app.test}"/>
+    <javac srcdir="${test.dir.app}" destdir="${dest.dir.app.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-app" depends="compile-app-test" >
+    <echo message="Running test application"/>
+    <junit printsummary="yes" fork="yes" haltonfailure="yes">
+      <formatter usefile="false" type="plain"/>
+      <classpath>
+        <pathelement location="${dest.dir.app}"/>
+        <pathelement location="${dest.dir.app.test}" />
+        <pathelement location="${res.dir.app}" />
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+      </classpath> 
+      <assertions>
+        <enable/>
+      </assertions>
+      <batchtest>
+        <fileset dir="${dest.dir.app.test}">
+          <include name="**/Test*.class"/>
+          <include name="**/*Test.class"/>
+        </fileset>
+      </batchtest>
+    </junit>
+  </target>
+  
+  <target name="compile-network-test" depends="compile-network" >
+    <mkdir dir="${dest.dir.net.test}"/>
+    <javac srcdir="${test.dir.net}" destdir="${dest.dir.net.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-network" depends="compile-network-test" >
+    <echo message="Running test network"/>
+    <junit printsummary="yes" fork="no" haltonfailure="yes">
+      <formatter usefile="false" type="plain"/>
+      <classpath>
+        <pathelement location="${dest.dir.app}"/>
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.net.test}" />
+        <pathelement location="${res.dir.net}" />
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+      </classpath> 
+      <assertions>
+        <enable/>
+      </assertions>
+      <batchtest>
+        <fileset dir="${dest.dir.net.test}">
+          <include name="**/Test*.class"/>
+          <include name="**/*Test.class"/>
+        </fileset>
+      </batchtest>
+    </junit>
+  </target>
+  
+  <target name="compile-property-test" depends="compile-property" >
+    <mkdir dir="${dest.dir.prop.test}"/>
+    <javac srcdir="${test.dir.prop}" destdir="${dest.dir.prop.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-property" depends="compile-property-test" >
+    <echo message="Running test property"/>
+    <junit printsummary="yes" fork="no" haltonfailure="yes">
+      <formatter usefile="false" type="plain"/>
+      <classpath>
+        <pathelement location="${dest.dir.app}"/>
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}"/>
+        <pathelement location="${dest.dir.prop.test}" />
+        <pathelement location="${res.dir.prop}" />
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+      </classpath> 
+      <assertions>
+        <enable/>
+      </assertions>
+      <batchtest>
+        <fileset dir="${dest.dir.prop.test}">
+          <include name="**/Test*.class"/>
+          <include name="**/*Test.class"/>
+        </fileset>
+      </batchtest>
+    </junit>
+  </target>
+  
+  <target name="compile-search-test" depends="compile-search" >
+    <mkdir dir="${dest.dir.search.test}"/>
+    <javac srcdir="${test.dir.search}" destdir="${dest.dir.search.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-search" depends="compile-search-test" >
+  </target>
+  
+  <target name="compile-classification-test" depends="compile-classification" >
+    <mkdir dir="${dest.dir.class.test}"/>
+    <javac srcdir="${test.dir.class}" destdir="${dest.dir.class.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+        <pathelement location="${dest.dir.class}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-classification" depends="compile-classification-test" >
+  </target>
+  
+  <target name="compile-ontology-test" depends="compile-ontology" >
+    <mkdir dir="${dest.dir.taxo.test}"/>
+    <javac srcdir="${test.dir.taxo}" destdir="${dest.dir.taxo.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+        <pathelement location="${dest.dir.class}" />
+        <pathelement location="${dest.dir.taxo}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-ontology" depends="compile-ontology-test" >
+  </target>
+  
+  <target name="compile-pipeline-test" depends="compile-pipeline" >
+    <mkdir dir="${dest.dir.pipe.test}"/>
+    <javac srcdir="${test.dir.pipe}" destdir="${dest.dir.pipe.test}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.search}" />
+        <pathelement location="${dest.dir.class}" />
+        <pathelement location="${dest.dir.taxo}" />
+        <pathelement location="${dest.dir.pipe}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="test-pipeline" depends="compile-pipeline-test" >
+  </target>
+  
+  <target name="build-app-jar" depends="test-app" >
+    <jar jarfile="${dist.dir}/${dist.name}-app-core-${version.number}.jar" basedir="${dest.dir.app}"/>
+  </target>
+  
+  <target name="build-prop-jar" depends="test-property" >
+    <jar jarfile="${dist.dir}/${dist.name}-property-${version.number}.jar" basedir="${dest.dir.prop}"/>
+  </target>
+  
+  <target name="build-net-jar" depends="test-network" >
+    <jar jarfile="${dist.dir}/${dist.name}-network-${version.number}.jar" basedir="${dest.dir.net}"/>
+  </target>
+  
+  <target name="build-search-jar" depends="test-search" >
+    <jar jarfile="${dist.dir}/${dist.name}-search-${version.number}.jar" basedir="${dest.dir.search}"/>
+  </target>
+  
+  <target name="build-classification-jar" depends="test-classification" >
+    <jar jarfile="${dist.dir}/${dist.name}-classification-${version.number}.jar" basedir="${dest.dir.class}"/>
+  </target>
+  
+  <target name="build-ontology-jar" depends="test-ontology" >
+    <jar jarfile="${dist.dir}/${dist.name}-ontology-${version.number}.jar" basedir="${dest.dir.taxo}"/>
+  </target>
+  
+  <target name="build-pipeline-jar" depends="test-ontology" >
+    <jar jarfile="${dist.dir}/${dist.name}-ontology-${version.number}.jar" basedir="${dest.dir.taxo}"/>
+  </target>
+  
+  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar" />
+  <!-- ,build-search-jar,build-classification-jar,build-ontology-jar,build-pipeline-jar -->
+  
+  <!-- Ivy -->
+  <condition property="ivy.jar.exists">
+    <or>
+      <available file="${build.lib.dir}/ivy-${ivy.version}.jar"/>
+      <isset property="offline"/>
+    </or>
+  </condition>
+
+  <target name="ivy-download" unless="ivy.jar.exists">
+    <mkdir dir="${build.lib.dir}"/>
+    <get src="http://repo2.maven.org/maven2/org/apache/ivy/ivy/${ivy.version}/ivy-${ivy.version}.jar"
+         dest="${build.lib.dir}/ivy-${ivy.version}.jar"
+         usetimestamp="true"/>
+  </target>
+
+  <target name="ivy-init" depends="ivy-download" unless="skip.ivy" description="initialize ivy">
+    <path id="ivy.lib.path">
+      <fileset dir="${build.lib.dir}" includes="ivy-${ivy.version}.jar"/>
+    </path>
+    <taskdef resource="org/apache/ivy/ant/antlib.xml" uri="antlib:org.apache.ivy.ant" classpathref="ivy.lib.path"/>
+    <ivy:settings file="${ivy.dir}/ivy-settings.xml"/>
+  </target>
+  
+  <target name="ivy-resolve" depends="ivy-init" >
+    <ivy:resolve />
+  </target>
+  
+  <target name="ivy-retrieve" depends="ivy-resolve" >
+    <ivy:retrieve pattern="${ivy.lib.dir}/[conf]/[artifact]-[revision].[ext]" sync="true" />
+  </target>
+  
+</project>

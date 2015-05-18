@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <soap:Body>
+    <GetCityForecastByZIPResponse xmlns="http://ws.cdyne.com/WeatherWS/">
+      <GetCityForecastByZIPResult>
+        <Success>true</Success>
+        <ResponseText>City Found</ResponseText>
+        <State>NJ</State>
+        <City>Metuchen</City>
+        <WeatherStationCity>Somerville</WeatherStationCity>
+        <ForecastResult>
+          <Forecast>
+            <Date>2014-11-08T00:00:00</Date>
+            <WeatherID>2</WeatherID>
+            <Desciption>Partly Cloudy</Desciption>
+            <Temperatures>
+              <MorningLow>27</MorningLow>
+              <DaytimeHigh>51</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>10</Nighttime>
+              <Daytime>00</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-09T00:00:00</Date>
+            <WeatherID>2</WeatherID>
+            <Desciption>Partly Cloudy</Desciption>
+            <Temperatures>
+              <MorningLow>36</MorningLow>
+              <DaytimeHigh>53</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>20</Nighttime>
+              <Daytime>20</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-10T00:00:00</Date>
+            <WeatherID>4</WeatherID>
+            <Desciption>Sunny</Desciption>
+            <Temperatures>
+              <MorningLow>33</MorningLow>
+              <DaytimeHigh>56</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>10</Nighttime>
+              <Daytime>10</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-11T00:00:00</Date>
+            <WeatherID>4</WeatherID>
+            <Desciption>Sunny</Desciption>
+            <Temperatures>
+              <MorningLow>40</MorningLow>
+              <DaytimeHigh>60</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>10</Nighttime>
+              <Daytime>10</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-12T00:00:00</Date>
+            <WeatherID>2</WeatherID>
+            <Desciption>Partly Cloudy</Desciption>
+            <Temperatures>
+              <MorningLow>40</MorningLow>
+              <DaytimeHigh>52</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>20</Nighttime>
+              <Daytime>20</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-13T00:00:00</Date>
+            <WeatherID>2</WeatherID>
+            <Desciption>Partly Cloudy</Desciption>
+            <Temperatures>
+              <MorningLow>32</MorningLow>
+              <DaytimeHigh>46</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>20</Nighttime>
+              <Daytime>20</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+          <Forecast>
+            <Date>2014-11-14T00:00:00</Date>
+            <WeatherID>2</WeatherID>
+            <Desciption>Partly Cloudy</Desciption>
+            <Temperatures>
+              <MorningLow>31</MorningLow>
+              <DaytimeHigh>46</DaytimeHigh>
+            </Temperatures>
+            <ProbabilityOfPrecipiation>
+              <Nighttime>20</Nighttime>
+              <Daytime>20</Daytime>
+            </ProbabilityOfPrecipiation>
+          </Forecast>
+        </ForecastResult>
+      </GetCityForecastByZIPResult>
+    </GetCityForecastByZIPResponse>
+  </soap:Body>
+</soap:Envelope>
