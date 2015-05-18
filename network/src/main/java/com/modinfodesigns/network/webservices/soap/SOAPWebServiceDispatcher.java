@@ -7,6 +7,7 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.Node;
 
 import java.io.StringWriter;
+import java.io.IOException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -93,6 +94,10 @@ public class SOAPWebServiceDispatcher
         LOG.debug( "doHandleWebCall got Exception: " + wshe );
         LOG.error( "doHandleWebCall got Exception: " + wshe );
         return getFaultString( wshe.getMessage( ) );
+      }
+      catch (IOException ioe )
+      {
+        return getFaultString( ioe.getMessage( ) );
       }
     }
     	

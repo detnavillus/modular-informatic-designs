@@ -30,8 +30,6 @@ import java.io.StringWriter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-// TO DO:  Add network methods to handle XML includes
-
 public class DOMMethods
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( DOMMethods.class );
@@ -76,7 +74,8 @@ public class DOMMethods
   {
     try
     {
-      InputStreamReader xmlSource = new InputStreamReader( new FileInputStream( filePath ), charSet );
+      InputStream fis = (filePath.startsWith( "/" )) ? new FileInputStream( filePath ) : FileResourceLoader.getResourceAsStream( filePath );
+      InputStreamReader xmlSource = new InputStreamReader( fis, charSet );
       return getDocument( xmlSource, charSet, useNamespace );
     }
     catch ( IOException ioe )

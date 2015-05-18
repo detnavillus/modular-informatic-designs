@@ -332,10 +332,20 @@ public class FileMethods
       String basePath = file.getAbsolutePath( );
       basePath = basePath.replace( "\\", "/" );
       basePath = basePath.substring( 0, basePath.lastIndexOf( "/" ));
-      System.out.println( "returns " + basePath + path.substring( 1 ) );
+      LOG.debug( "returns " + basePath + path.substring( 1 ) );
       return basePath + path.substring( 1 );
     }
     
     return inputPath;
+  }
+    
+  public static String getCurrentPath( )
+  {
+    File file = new File( "." );
+    String basePath = file.getAbsolutePath( );
+    basePath = basePath.replace( "\\", "/" );
+    basePath = basePath.substring( 0, basePath.lastIndexOf( "/" ));
+    LOG.debug( "returns " + basePath  );
+    return basePath;
   }
 }
