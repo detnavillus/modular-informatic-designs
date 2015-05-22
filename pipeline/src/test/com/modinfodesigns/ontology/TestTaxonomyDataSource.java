@@ -1,12 +1,11 @@
-package com.modinfodesigns.test.ontology;
+package com.modinfodesigns.ontology;
 
-public class TestTaxonomyDataSource 
+import junit.framework.TestCase;
+
+public class TestTaxonomyDataSource extends TestCase
 {
+  public void testTaxonomyDataSource( )
+  {
 
-	public static void main( String[] args ) 
-	{
-		// TODO Auto-generated method stub
-
-	}
-
+  }
 }

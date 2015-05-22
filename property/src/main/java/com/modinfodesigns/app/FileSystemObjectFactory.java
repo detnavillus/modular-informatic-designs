@@ -34,6 +34,12 @@ public class FileSystemObjectFactory extends ModInfoObjectFactory
     
   private boolean caching = false;
     
+  public FileSystemObjectFactory( ) { }
+    
+  public FileSystemObjectFactory( String configXML ) {
+    initialize( configXML );
+  }
+    
   @Override
   public void initialize( String configXML )
   {

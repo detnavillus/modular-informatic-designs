@@ -1,19 +1,17 @@
 package com.modinfodesigns.test.pipeline;
 
 import com.modinfodesigns.pipeline.RunPipeline;
-import com.modinfodesigns.logging.LoggingManager;
 
-public class TestRunPipeline
+import junit.framework.TestCase;
+
+public class TestRunPipeline extends TestCase
 {
-    private static String pipelineConfiguration = "G:/Projects/Prometheus/Testing/Pipelines/TestFlatFileDataSource/FlatFileDataSourceConfig.xml";
-    private static String dataSourceName        = "FlatFileDataSource";
+  private static String pipelineConfiguration = "G:/Projects/Prometheus/Testing/Pipelines/TestFlatFileDataSource/FlatFileDataSourceConfig.xml";
+  private static String dataSourceName        = "FlatFileDataSource";
     
-	public static void main(String[] args)
-	{
-		LoggingManager.addDebugClass( "com.modinfodesigns.app.ModInfoObjectFactory" );
-		LoggingManager.addDebugClass( "com.modinfodesigns.app.ApplicationManager" );
-		
-		String[] pipelineArgs = { pipelineConfiguration, dataSourceName };
-		RunPipeline.main( pipelineArgs );
-	}
+  public void testRunPipeline( )
+  {
+    String[] pipelineArgs = { pipelineConfiguration, dataSourceName };
+    RunPipeline.main( pipelineArgs );
+  }
 }

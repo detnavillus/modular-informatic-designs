@@ -16,6 +16,8 @@ public class TestSOAPDataObjectManager extends TestCase
   private static final String weatherWSDL = "WeatherService.wsdl";
   private static final String weatherServiceResponse = "WeatherServiceResponse.xml";
     
+  private static final String authAppWSDL = "AppAuthwSchema.wsdl";
+    
   private static final boolean debugConsole = false;
     
   public void testSOAPDataObjectManager( ) throws Exception
@@ -101,6 +103,18 @@ public class TestSOAPDataObjectManager extends TestCase
     assertEquals( soapResponse.getValue( "GetCityForecastByZIPResult/City" ), "Metuchen" );
     assertEquals( soapResponse.getValue( "GetCityForecastByZIPResult/State" ), "NJ" );
     assertEquals( soapResponse.getValue( "GetCityForecastByZIPResult/WeatherStationCity" ), "Somerville" );
+  }
+    
+  public void testAuthAppWSDL( ) throws Exception
+  {
+    String wsdlString = FileMethods.readFile( authAppWSDL );
+    SOAPDataObjectManager sdoam = new SOAPDataObjectManager( wsdlString, "AppAuth", "BasicHttpBinding_AppAuth" );
+      
+    DataObject schemaOb = sdoam.createDataObject( "GetAppRolesInParam", null );
+    System.out.println( schemaOb.getValue( "JSON" ) );
+      
+    schemaOb = sdoam.createDataObject( "InParamType", null );
+    System.out.println( schemaOb.getValue( "JSON" ) );
   }
 
 }

@@ -1,4 +1,4 @@
-package com.modinfodesigns.test.ontology;
+package com.modinfodesigns.ontology;
 
 import com.modinfodesigns.app.ApplicationManager;
 import com.modinfodesigns.app.ObjectFactoryCreator;
@@ -14,48 +14,33 @@ import com.modinfodesigns.property.transform.PropertyTransformException;
 
 import com.modinfodesigns.utils.FileMethods;
 
-import com.modinfodesigns.logging.LoggingManager;
+import junit.framework.TestCase;
 
 // Needs to use ITaxonomyBuilder ---
 
-public class TestTaxonomyIndexMatcherFactory
+public class TestTaxonomyIndexMatcherFactory extends TestCase
 {
-    private static String textFile   = "C:/Projects/Prometheus/TestTaxonomyClassification/TestData/TestFile.txt";
-    private static String configFile = "C:/Projects/Prometheus/TestTaxonomyClassification/ObjectFactoryCreator.xml";
+  private static String textFile   = "C:/Projects/Prometheus/TestTaxonomyClassification/TestData/TestFile.txt";
+  private static String configFile = "C:/Projects/Prometheus/TestTaxonomyClassification/ObjectFactoryCreator.xml";
     
-	public static void main( String[] args )
-	{
-		// LoggingManager.addDebugClass( "com.modinfodesigns.ontology.TaxonomyIndexMatcherFactory" );
-		// LoggingManager.addDebugClass( "com.modinfodesigns.ontology.DataListTaxonomyBuilder" );
-		// LoggingManager.addDebugClass( "com.modinfodesigns.pipeline.source.RaritanTreeSource" );
-		// LoggingManager.addDebugClass( "com.modinfodesigns.classify.NotIndexMatcher" );
-		LoggingManager.addDebugClass( "com.modinfodesigns.classify.PhraseIndexMatcher" );
-		LoggingManager.addDebugClass( "com.modinfodesigns.classify.TermIndexMatcher" );
-		LoggingManager.addDebugClass( "com.modinfodesigns.classify.AcronymIndexMatcher" );	
-		
-		ObjectFactoryCreator.initialize( configFile );
+  public void testTaxonomyIndexMatcherFactory( ) throws PropertyTransformException
+  {
+    ObjectFactoryCreator.initialize( configFile );
         
-        ApplicationManager appMan = ApplicationManager.getInstance( );
-        TaxonomyIndexMatcherFactory timf = (TaxonomyIndexMatcherFactory)appMan.getApplicationObject( "SoftwareConceptsIndexMatcherFactory", "IndexMatcherFactory" );
+    ApplicationManager appMan = ApplicationManager.getInstance( );
+    TaxonomyIndexMatcherFactory timf = (TaxonomyIndexMatcherFactory)appMan.getApplicationObject( "SoftwareConceptsIndexMatcherFactory", "IndexMatcherFactory" );
         
-        Classifier classifier = new Classifier( );
-        classifier.addIndexMatcherFactory( timf );
-        classifier.addClassifyField( "text" );
+    Classifier classifier = new Classifier( );
+    classifier.addIndexMatcherFactory( timf );
+    classifier.addClassifyField( "text" );
         
-        // Create a DataObject and Classify it...
-        DataObject dobj = new DataObject( );
-        String fileText = FileMethods.readFile( textFile );
-        dobj.addProperty( new StringProperty( "text", fileText ));
+    // Create a DataObject and Classify it...
+    DataObject dobj = new DataObject( );
+    String fileText = FileMethods.readFile( textFile );
+    dobj.addProperty( new StringProperty( "text", fileText ));
         
-        try
-        {
-        	classifier.transformPropertyHolder( dobj );
-        }
-        catch ( PropertyTransformException pte )
-        {
-        	LoggingManager.error( TestTaxonomyIndexMatcherFactory.class, "Got PropertyTransformException" + pte );
-        }
+    classifier.transformPropertyHolder( dobj );
         
-        System.out.println( dobj.getValue( IProperty.XML_FORMAT ));
-	}
+    System.out.println( dobj.getValue( IProperty.XML_FORMAT ));
+  }
 }

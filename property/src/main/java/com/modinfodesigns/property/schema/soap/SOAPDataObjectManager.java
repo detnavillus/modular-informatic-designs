@@ -49,7 +49,7 @@ public class SOAPDataObjectManager
     
   private void initialize( Document soapDoc, String serviceName, String servicePort ) throws Exception
   {
-    Log.info( "initialize ...." );
+    Log.debug( "initialize ...." );
     if (soapDoc == null)
     {
       throw new Exception( "WSDL document is NULL!" );
@@ -95,8 +95,8 @@ public class SOAPDataObjectManager
         }
         else if (tagName.equals( "simpleType" ))
         {
-          PropertyDescriptor simpleProp = createPropertyDescriptor( schemaEl );
-          schemaMap.put( simpleProp.getName(), simpleProp );
+          PropertyDescriptor simpleProp = createPropertyDescriptor( ne );
+          if (simpleProp != null) schemaMap.put( simpleProp.getName(), simpleProp );
         }
       }
     }
@@ -171,31 +171,35 @@ public class SOAPDataObjectManager
   /* Enumeration types */
   private PropertyDescriptor createPropertyDescriptor( Element schemaEl )
   {
+    Log.debug( DOMMethods.getXML( schemaEl, true ) );
     String name = DOMMethods.getAttribute( schemaEl, "name" );
-    Log.info( "createPropertyDescriptor: " + name );
+    Log.debug( "createPropertyDescriptor: " + name );
       
-    NodeList enumLst = schemaEl.getElementsByTagName( "enumeration" );
-    if (enumLst != null && enumLst.getLength() > 0)
+    NodeList resLst = schemaEl.getElementsByTagNameNS( "*", "restriction" );
+    if (resLst != null && resLst.getLength() > 0)
     {
-      PropertyDescriptor enumDesc = new PropertyDescriptor( );
-      enumDesc.setName( name );
-      enumDesc.setPropertyType( enumDesc.getPropertyType( "Enumeration" ));
-      ArrayList<String> propValues = new ArrayList<String>( );
-      for (int i = 0; i < enumLst.getLength(); i++)
-      {
-        Element enumEl = (Element)enumLst.item( i );
-        String value = DOMMethods.getAttribute( enumEl, "value" );
-        propValues.add( value );
+      Element restrictionEl = (Element)resLst.item( 0 );
+      NodeList enumLst = restrictionEl.getElementsByTagNameNS( "*", "enumeration" );
+      if (enumLst != null && enumLst.getLength() > 0) {
+        PropertyDescriptor enumDesc = new PropertyDescriptor( );
+        enumDesc.setName( name );
+        enumDesc.setPropertyType( enumDesc.getPropertyType( "Enumeration" ));
+        ArrayList<String> propValues = new ArrayList<String>( );
+        for (int i = 0; i < enumLst.getLength(); i++)
+        {
+          Element enumEl = (Element)enumLst.item( i );
+          String value = DOMMethods.getAttribute( enumEl, "value" );
+          Log.debug( "Adding enumeration value: " + value );
+          propValues.add( value );
+        }
+        String[] valList = new String[ propValues.size() ];
+        valList = propValues.toArray( valList ); // ???
+        enumDesc.setPropertyValues( valList );
+        return enumDesc;
       }
-      String[] valList = new String[ propValues.size() ];
-      valList = propValues.toArray( valList ); // ???
-      enumDesc.setPropertyValues( valList );
-      return enumDesc;
     }
-    else
-    {
-      return null;  /// something else???
-    }
+
+    return null;  /// something else???
   }
 
    
@@ -210,10 +214,19 @@ public class SOAPDataObjectManager
       dobjSchema.setName( name );
     }
       
+    NodeList elemLst = schemaEl.getElementsByTagNameNS( "*", "extension" );
+    if (elemLst != null && elemLst.getLength() > 0) {
+      Element exEl = (Element)elemLst.item( 0 );
+      String base = DOMMethods.getAttribute( exEl, "base" );
+      base = (base.indexOf( ":" ) > 0) ? base.substring( base.indexOf( ":") + 1 ) : base;
+      // System.out.println( name + " has extension element: " + base );
+      dobjSchema.setParentSchema( base );
+    }
+      
     Log.debug( "createDataObjectSchema: " + name );
     // get 'element' elements
     // get if element name starts with "tns:"
-    NodeList elemLst = schemaEl.getElementsByTagNameNS( "*", "element" );
+    elemLst = schemaEl.getElementsByTagNameNS( "*", "element" );
     if (elemLst != null && elemLst.getLength() > 0) {
       for (int i = 0; i < elemLst.getLength(); i++) {
         Element el = (Element)elemLst.item( i );
@@ -221,6 +234,7 @@ public class SOAPDataObjectManager
       }
     }
       
+    //System.out.println( dobjSchema.getValue( ) );
     return dobjSchema;
   }
     
@@ -336,9 +350,9 @@ public class SOAPDataObjectManager
         Log.info( "Adding properties from parent schema " + parentSchemaName );
         if (parentSchema instanceof PropertyDescriptor )
         {
-            // add this property to the dobj
-            IProperty theProp = ((PropertyDescriptor)parentSchema).createProperty();
-            dobj.setProperty( theProp, false );
+          // add this property to the dobj
+          IProperty theProp = ((PropertyDescriptor)parentSchema).createProperty();
+          dobj.setProperty( theProp, false );
         }
         else
         {
@@ -361,7 +375,7 @@ public class SOAPDataObjectManager
         }
         else
         {
-            System.out.println( "No prop: " + field );
+          Log.error( "No prop: " + field );
         }
       }
     }
@@ -395,7 +409,6 @@ public class SOAPDataObjectManager
     List<DataObjectSchema> childSchemas = schema.getChildSchemas( );
     if (childSchemas != null)
     {
-      Log.debug( "Adding child DataObjects " );
       for (DataObjectSchema childSchema : childSchemas )
       {
         DataObject childObj = null;
@@ -403,14 +416,23 @@ public class SOAPDataObjectManager
         {
           childObj = new DataObject( );
           childObj.setName( childSchema.getName( ) );
-          DataObjectSchema parentSchema = (DataObjectSchema)schemaMap.get( childSchema.getParentSchema( ) );
-          addProperties( parentSchema, childObj, true );
+          Object parentOb = schemaMap.get( childSchema.getParentSchema( ) );
+          if ( parentOb instanceof DataObjectSchema )
+          {
+            DataObjectSchema parentSchema = (DataObjectSchema)parentOb;
+            addProperties( parentSchema, childObj, true );
+          }
+          else
+          {
+            IProperty theProp = ((PropertyDescriptor)parentOb).createProperty();
+            childObj.setProperty( theProp, false );
+          }
         }
         else
         {
           childObj = createDataObject( childSchema, null );
         }
-          
+
         if (dobj instanceof DataList )
         {
           ((DataList)dobj).addDataObject( childObj );
@@ -438,7 +460,8 @@ public class SOAPDataObjectManager
   {
     // build the XML from the dobj.  Check schema for required,
     StringBuilder stb = new StringBuilder( );
-    stb.append( "<" ).append( namespacePrefix ).append( ":" ).append( dobj.getName( ) ).append( " xmlns:" ).append( namespacePrefix ).append( "=\"" ).append( namespaceURI ).append( "\">" );
+    stb.append( "<" ).append( namespacePrefix ).append( ":" ).append( dobj.getName( ) ).append( " xmlns:" )
+       .append( namespacePrefix ).append( "=\"" ).append( namespaceURI ).append( "\">" );
     Iterator<IProperty> properties = dobj.getProperties( );
     while (properties != null && properties.hasNext( ) )
     {

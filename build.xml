@@ -335,7 +335,8 @@
     <jar jarfile="${dist.dir}/${dist.name}-ontology-${version.number}.jar" basedir="${dest.dir.taxo}"/>
   </target>
   
-  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-search-core-jar,build-ontology-jar,build-pipeline-jar" />
+  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar" />
+  <!-- ,build-search-core-jar,build-ontology-jar,build-pipeline-jar" /> -->
   
   <!-- Ivy -->
   <condition property="ivy.jar.exists">
