@@ -54,6 +54,10 @@ public class TestClassifier extends TestCase
       System.out.println( prop.getName() + ":" + prop.getValue( ) );
     }
   }
+    
+  public void testGetMatchersForPhrase( ) {
+        
+  }
 	
   private static String sampleText = "We are watching the Avengers in Cynthia's hospital"
                                    + " room. Iron Man is fighting Loki";

@@ -43,11 +43,44 @@ public class SOAPDataObjectManager
   public SOAPDataObjectManager( String wsdlString, String serviceName, String servicePort ) throws Exception
   {
     // Create a set of DataObjectSchema objects from xsdSchema
-    Document soapDoc = DOMMethods.getDocument( new StringReader( wsdlString ), "UTF-8", true );
-    initialize( soapDoc, serviceName, servicePort );
+    Document soapDoc = getDocument( wsdlString );
+    initialize( soapDoc, null, serviceName, servicePort );
   }
     
-  private void initialize( Document soapDoc, String serviceName, String servicePort ) throws Exception
+  public SOAPDataObjectManager( String wsdlString, String schemaString, String serviceName, String servicePort ) throws Exception
+  {
+    // Create a set of DataObjectSchema objects from xsdSchema
+    Document soapDoc = getDocument( wsdlString );
+    Document schemaDoc = getDocument( schemaString );
+    initialize( soapDoc, schemaDoc, serviceName, servicePort );
+  }
+    
+  private Document getDocument( String xmlStr ) throws Exception
+  {
+    if (xmlStr == null)
+    {
+        throw new Exception( "XML string is NULL!" );
+    }
+
+    String xml = xmlStr.trim( );
+    if (xml.indexOf( "<" ) < 0)
+    {
+      throw new Exception( "XML must be well-formed!\n " + xmlStr );
+    }
+      
+    if (!xml.startsWith( "<" )) xml = xml.substring( xml.indexOf( "<" ));
+    
+    Document doc = DOMMethods.getDocument( new StringReader( xml ), "UTF-8", true );
+      
+    if (doc == null)
+    {
+      throw new Exception( "Could not parse XML String '" + xml + "'" );
+    }
+      
+    return doc;
+  }
+    
+  private void initialize( Document soapDoc, Document schemaDoc, String serviceName, String servicePort ) throws Exception
   {
     Log.debug( "initialize ...." );
     if (soapDoc == null)
@@ -57,14 +90,23 @@ public class SOAPDataObjectManager
     Element docEl = soapDoc.getDocumentElement( );
     Log.debug( docEl.getTagName( ) );
       
-    NodeList schemaEls = docEl.getElementsByTagNameNS( "*", "schema" );
-
-    if (schemaEls.getLength() == 0)
+    Element schemaEl = null;
+      
+    if (schemaDoc != null) {
+      schemaEl = schemaDoc.getDocumentElement();
+    }
+    else
     {
-      throw new Exception( "No Schema element found" );
+      NodeList schemaEls = docEl.getElementsByTagNameNS( "*", "schema" );
+
+      if (schemaEls.getLength() == 0)
+      {
+        throw new Exception( "No Schema element found" );
+      }
+      
+      schemaEl = (Element)schemaEls.item( 0 );
     }
       
-    Element schemaEl = (Element)schemaEls.item( 0 );
     NodeList childNodes = schemaEl.getChildNodes( );
     for (int i = 0; i < childNodes.getLength(); i++)
     {
@@ -321,8 +363,9 @@ public class SOAPDataObjectManager
     DataObject schema = schemaMap.get( objectType );
     if (schema == null)
     {
-      return null;
+      throw new PropertyValidationException( "Cannot get DataObjectSchema from " + objectType );
     }
+      
     if (schema instanceof DataObjectSchema )
     {
       return createDataObject( (DataObjectSchema)schema, values );
@@ -332,11 +375,17 @@ public class SOAPDataObjectManager
       return null;
     }
       
-    return null;
+    // shouldn't get here
+    throw new PropertyValidationException( "Could not interpret " + objectType );
   }
     
   public DataObject createDataObject( DataObjectSchema schema, Map<String,String> values ) throws PropertyValidationException
   {
+    if (schema == null)
+    {
+      throw new PropertyValidationException( "addProperties: schema is NULL!" );
+    }
+      
     Log.debug( "createDataObject from value map " + schema.getName( ) );
     DataObject dobj = new DataObject( );
     dobj.setName( schema.getName( ) );
@@ -347,7 +396,7 @@ public class SOAPDataObjectManager
       DataObject parentSchema = schemaMap.get( parentSchemaName );
       if (parentSchema != null)
       {
-        Log.info( "Adding properties from parent schema " + parentSchemaName );
+        Log.debug( "Adding properties from parent schema " + parentSchemaName );
         if (parentSchema instanceof PropertyDescriptor )
         {
           // add this property to the dobj
@@ -380,7 +429,7 @@ public class SOAPDataObjectManager
       }
     }
     
-    Log.info( "Created DataObject: " + dobj.toString( ) );
+    Log.debug( "Created DataObject: " + dobj.toString( ) );
     return dobj;
   }
     
@@ -447,7 +496,7 @@ public class SOAPDataObjectManager
     
   public String createSOAPRequest( String messageType, Map<String,String> inputValues ) throws Exception
   {
-    Log.info( "createSOAPRequest for " + messageType );
+    Log.debug( "createSOAPRequest for " + messageType );
     // get the request object type
     // get the DataObject for the request type
     // render it for SOAP
@@ -458,6 +507,16 @@ public class SOAPDataObjectManager
     
   public String createSOAPRequest( DataObject dobj, DataObjectSchema dobjSchema ) throws Exception
   {
+    if (dobj == null )
+    {
+        throw new Exception( "createSOAPRequest ERROR: DataObject is NULL!" );
+    }
+      
+    if (dobjSchema == null)
+    {
+        throw new Exception( "createSOAPRequest ERROR: DataObjectSchema is NULL!" );
+    }
+      
     // build the XML from the dobj.  Check schema for required,
     StringBuilder stb = new StringBuilder( );
     stb.append( "<" ).append( namespacePrefix ).append( ":" ).append( dobj.getName( ) ).append( " xmlns:" )
@@ -487,7 +546,7 @@ public class SOAPDataObjectManager
     }
       
     stb.append( "</" ).append( namespacePrefix ).append( ":" ).append( dobj.getName( ) ).append( ">" );
-    Log.info( "createSOAPRequest returning:\n" + stb.toString( ) );
+    Log.debug( "createSOAPRequest returning:\n" + stb.toString( ) );
     return stb.toString( );
   }
     
@@ -498,13 +557,13 @@ public class SOAPDataObjectManager
     Document doc = DOMMethods.getDocument( new StringReader( soapEnvelope ), "UTF-8", true );
     if (doc == null)
     {
-      throw new PropertyValidationException( "XML is not well formed!" );
+      throw new PropertyValidationException( "SOAP Response is not well formed:\n " + soapEnvelope );
     }
       
     NodeList bodyLst = doc.getElementsByTagNameNS( "*", "Body" );
     if (bodyLst == null)
     {
-      throw new PropertyValidationException( "body is missing!" );
+      throw new PropertyValidationException( "SOAP Body is missing!\n: " + soapEnvelope );
     }
       
     Element bodyEl = (Element)bodyLst.item( 0 );
@@ -522,7 +581,7 @@ public class SOAPDataObjectManager
       
     if (dataObjs.size() == 1)
     {
-      Log.info( "returning:\n" + dataObjs.get( 0 ).toString( ) );
+      Log.debug( "returning:\n" + dataObjs.get( 0 ).toString( ) );
       return dataObjs.get( 0 );
     }
     else if (dataObjs.size() > 1)
@@ -533,7 +592,7 @@ public class SOAPDataObjectManager
         dl.addDataObject( dobj );
       }
         
-      Log.info( "returning list:\n" + dl.toString( ));
+      Log.debug( "returning list:\n" + dl.toString( ));
       return dl;
     }
     else
