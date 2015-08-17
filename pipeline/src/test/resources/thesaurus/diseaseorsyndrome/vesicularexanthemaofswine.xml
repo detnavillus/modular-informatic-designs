@@ -1,0 +1,19 @@
+<Record>
+<Term>Vesicular Exanthema of Swine</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Caliciviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Caliciviridae Infections/Vesicular Exanthema of Swine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Swine Diseases/Vesicular Exanthema of Swine</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Vesicular Exanthema of Swine</BroaderTerm>
+<BroaderTerm>Caliciviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Swine Vesicular Exanthemas</Synonym>
+<Synonym>Vesicular Exanthema of Swine</Synonym>
+<Synonym>Swine Vesicular Exanthema</Synonym>
+<Description>A calicivirus infection of swine characterized by hydropic degeneration of the oral and cutaneous epithelia.</Description>
+<Source>MeSH</Source>
+</Record>

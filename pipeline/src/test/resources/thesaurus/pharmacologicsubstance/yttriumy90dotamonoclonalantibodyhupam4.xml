@@ -1,0 +1,15 @@
+<Record>
+<Term>Yttrium Y 90 DOTA Monoclonal Antibody HuPAM4</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 DOTA Monoclonal Antibody HuPAM4</ClassificationPath>
+<BroaderTerm>Yttrium Y 90 DOTA Monoclonal Antibody HuPAM4</BroaderTerm>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Yttrium Y 90 DOTA Monoclonal Antibody HuPAM4</Synonym>
+<Description>A radioimmunoconjugate comprised of the humanized monoclonal antibody HuPAM4, directed against the pancreatic cancer antigen MUC1, that is conjugated to the chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and radiolabeled with the beta-emitting radioisotope Yttrium Y90. Yttrium Y 90 DOTA monoclonal antibody HuPAM4 binds to tumor cells expressing MUC1 antigen, selectively delivering a cytotoxic dose of beta radiation. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

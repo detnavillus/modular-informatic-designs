@@ -1,0 +1,23 @@
+<Record>
+<Term>Pregnancy-Induced Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ParentTerm>Hypertension</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hypertension/Hypertension, Pregnancy-Induced</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Hypertension, Pregnancy-Induced</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hypertension, Pregnancy-Induced</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Pre-Eclampsia</ChildTerm>
+<ChildTerm>Eclampsia</ChildTerm>
+<ChildTerm>HELLP Syndrome</ChildTerm>
+<Synonym>Pregnancy-Induced Hypertension</Synonym>
+<Synonym>Pregnancy Induced Hypertension</Synonym>
+<Synonym>Pregnancy Transient Hypertension</Synonym>
+<Synonym>Gestational Hypertension</Synonym>
+<Description>A condition in pregnant women with elevated systolic (>140 mm Hg) and diastolic (>90 mm Hg) blood pressure on at least two occasions 6 h apart. HYPERTENSION complicates 8-10% of all pregnancies, generally after 20 weeks of gestation. Gestational hypertension can be divided into several broad categories according to the complexity and associated symptoms, such as EDEMA; PROTEINURIA; SEIZURES; abnormalities in BLOOD COAGULATION and liver functions.HYPERTENSION that develops as a result of PREGNANCY and regresses post partum. It is hypertension without PROTEINURIA or pathological EDEMA.</Description>
+<Source>MeSH</Source>
+</Record>

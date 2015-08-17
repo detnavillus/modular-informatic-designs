@@ -1,0 +1,35 @@
+<Record>
+<Term>Nitroprusside</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Ferricyanides</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Electrolytes/Ions/Anions/Cyanides/Ferricyanides/Nitroprusside</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Iron Compounds/Ferric Compounds/Ferricyanides/Nitroprusside</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Hydrogen Cyanide/Cyanides/Ferricyanides/Nitroprusside</ClassificationPath>
+<BroaderTerm>Cyanides</BroaderTerm>
+<BroaderTerm>Ferricyanides</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Nitroprusside</BroaderTerm>
+<BroaderTerm>Hydrogen Cyanide</BroaderTerm>
+<BroaderTerm>Nitrogen Compounds</BroaderTerm>
+<BroaderTerm>Ions</BroaderTerm>
+<BroaderTerm>Ferric Compounds</BroaderTerm>
+<BroaderTerm>Anions</BroaderTerm>
+<BroaderTerm>Electrolytes</BroaderTerm>
+<BroaderTerm>Iron Compounds</BroaderTerm>
+<Synonym>Nitriate</Synonym>
+<Synonym>Nitroprusside</Synonym>
+<Synonym>Cyanonitrosylferrate</Synonym>
+<Synonym>Nipruton</Synonym>
+<Synonym>Disodium Salt Nitroprusside</Synonym>
+<Synonym>Ketostix</Synonym>
+<Synonym>Naniprus</Synonym>
+<Synonym>Nitropress</Synonym>
+<Synonym>Nipride</Synonym>
+<Synonym>Sodium Nitroprusside</Synonym>
+<Synonym>Nitroferricyanide</Synonym>
+<Synonym>Nitroprussiat Fides</Synonym>
+<Description>A powerful vasodilator used in emergencies to lower blood pressure or to improve cardiac function. It is also an indicator for free sulfhydryl groups in proteins.</Description>
+<Source>MeSH</Source>
+</Record>

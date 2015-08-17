@@ -1,0 +1,20 @@
+<Record>
+<Term>Actinomycetales Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Actinomycosis</ChildTerm>
+<ChildTerm>Corynebacterium Infections</ChildTerm>
+<ChildTerm>Mycobacterium Infections</ChildTerm>
+<ChildTerm>Nocardia Infections</ChildTerm>
+<Synonym>Actinomycetales Infections</Synonym>
+<Synonym>Actinomycete Infection</Synonym>
+<Synonym>Actinomycetales Infection</Synonym>
+<Synonym>Actinomycete Infections</Synonym>
+<Description>Infections with bacteria of the order ACTINOMYCETALES.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Premature Rupture Fetal Membranes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Obstetric Labor Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications/Fetal Membranes, Premature Rupture</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Fetal Membranes, Premature Rupture</BroaderTerm>
+<ChildTerm>Chorioamnionitis</ChildTerm>
+<Synonym>PROM (Pregnancy)</Synonym>
+<Synonym>Premature Rupture of Fetal Membranes</Synonym>
+<Synonym>Premature Rupture of Membrane (Pregnancy)</Synonym>
+<Synonym>Membrane Premature Rupture (Pregnancy)</Synonym>
+<Synonym>Membrane Premature Ruptures (Pregnancy)</Synonym>
+<Synonym>Preterm Premature Rupture of Fetal Membranes</Synonym>
+<Synonym>Preterm PROM (Pregnancy)</Synonym>
+<Description>Spontaneous tearing of the membranes surrounding the FETUS any time before the onset of OBSTETRIC LABOR. Preterm PROM is membrane rupture before 37 weeks of GESTATION.</Description>
+<Source>MeSH</Source>
+</Record>

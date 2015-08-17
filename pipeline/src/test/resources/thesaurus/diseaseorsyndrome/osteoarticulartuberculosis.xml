@@ -1,0 +1,29 @@
+<Record>
+<Term>Osteoarticular Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Infectious</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious/Tuberculosis, Osteoarticular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Osteoarticular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious/Tuberculosis, Osteoarticular</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tuberculosis, Osteoarticular</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis, Spinal</ChildTerm>
+<Synonym>Joint Tuberculoses</Synonym>
+<Synonym>Bone Tuberculosis</Synonym>
+<Synonym>Joint Tuberculosis</Synonym>
+<Synonym>Osteoarticular Tuberculosis</Synonym>
+<Synonym>Osteoarticular Tuberculoses</Synonym>
+<Synonym>Bone Tuberculoses</Synonym>
+<Description>Tuberculosis of the bones or joints.</Description>
+<Source>MeSH</Source>
+</Record>

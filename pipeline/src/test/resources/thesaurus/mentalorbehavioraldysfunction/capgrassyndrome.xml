@@ -1,0 +1,20 @@
+<Record>
+<Term>Capgras Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Schizophrenia and Disorders with Psychotic Features</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Capgras Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features/Capgras Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Capgras Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Capgras Syndrome</Synonym>
+<Description>A psychotic disorder characterized by the patient's belief that acquaintances or closely related persons have been replaced by doubles or imposters.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

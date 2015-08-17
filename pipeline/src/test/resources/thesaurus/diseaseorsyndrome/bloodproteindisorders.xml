@@ -1,0 +1,20 @@
+<Record>
+<Term>Blood Protein Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Paraproteinemias</ChildTerm>
+<ChildTerm>Agammaglobulinemia</ChildTerm>
+<ChildTerm>Dysgammaglobulinemia</ChildTerm>
+<ChildTerm>Protein S Deficiency</ChildTerm>
+<ChildTerm>Protein C Deficiency</ChildTerm>
+<ChildTerm>Antithrombin III Deficiency</ChildTerm>
+<ChildTerm>Hypoproteinemia</ChildTerm>
+<ChildTerm>Hypergammaglobulinemia</ChildTerm>
+<Synonym>Blood Protein Disorders</Synonym>
+<Synonym>Blood Protein Disorder</Synonym>
+<Source>MeSH</Source>
+</Record>

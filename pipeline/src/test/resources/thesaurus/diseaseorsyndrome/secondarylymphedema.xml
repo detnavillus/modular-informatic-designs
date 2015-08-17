@@ -1,0 +1,18 @@
+<Record>
+<Term>Secondary Lymphedema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphedema</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Lymphedema/Secondary Lymphedema</ClassificationPath>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Secondary Lymphedema</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Lymphedema</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Secondary Lymphedema</Synonym>
+<Description>A condition that is caused by trauma to the lymph system, which disrupts the normal flow of lymph fluid. This is most often due to surgery that requires lymph node removal or a large amount of lymph tissue. This disruption is especially apparent if the lymph nodes under the arm and arm and around the breast are compromised due to breast cancer surgery, diagnostic dissection, mastectomy, or radiation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Pulmonary Embolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Embolism</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Embolism/Pulmonary Embolism</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Embolism</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Embolism/Pulmonary Embolism</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Embolism</BroaderTerm>
+<ChildTerm>Pulmonary Infarction</ChildTerm>
+<Synonym>Pulmonary Embolism</Synonym>
+<Synonym>Pulmonary Embolisms</Synonym>
+<Synonym>Pulmonary Thromboembolism</Synonym>
+<Synonym>Pulmonary Thromboembolisms</Synonym>
+<Synonym>Embolism, pulmonary</Synonym>
+<Description>The closure of the pulmonary artery or one of its branches by an embolus, sometimes associated with infarction of the lung.</Description>
+<Description>Blocking of the PULMONARY ARTERY or one of its branches by an EMBOLUS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

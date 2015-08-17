@@ -1,0 +1,16 @@
+<Record>
+<Term>Root Caries</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dental Caries</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Demineralization/Dental Caries/Root Caries</ClassificationPath>
+<BroaderTerm>Root Caries</BroaderTerm>
+<BroaderTerm>Tooth Demineralization</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Caries</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Root Caries</Synonym>
+<Synonym>Cervical Cary</Synonym>
+<Synonym>Cervical Caries</Synonym>
+<Description>Dental caries involving the tooth root, cementum, or cervical area of the tooth.</Description>
+<Source>MeSH</Source>
+</Record>

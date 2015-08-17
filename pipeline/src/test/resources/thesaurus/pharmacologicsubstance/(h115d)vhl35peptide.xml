@@ -1,0 +1,19 @@
+<Record>
+<Term>(H115D)VHL35 Peptide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Von Hippel-Lindau Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antigen/Vaccine Antigen/Von Hippel-Lindau Peptide Vaccine/(H115D)VHL35 Peptide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antigen</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Von Hippel-Lindau Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Vaccine Antigen</BroaderTerm>
+<BroaderTerm>(H115D)VHL35 Peptide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(H115D)VHL35</Synonym>
+<Synonym>(H115D)VHL35 Peptide</Synonym>
+<Description>A peptide vaccine derived from the von Hippel-Lindau (VHL) tumor suppressor protein, a general transcription factor.  In (H115D)VHL35 peptide, histidine is substituted for an aspartic acid in position 115.  It might be used to elicit or boost cellular immunity to cancers that expressing the von Hippel-Lindau mutation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

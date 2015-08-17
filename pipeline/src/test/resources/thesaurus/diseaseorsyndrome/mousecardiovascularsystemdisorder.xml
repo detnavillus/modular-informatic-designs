@@ -1,0 +1,15 @@
+<Record>
+<Term>Mouse Cardiovascular System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Disorder by Site</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Cardiovascular System Disorder</ClassificationPath>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mouse Cardiovascular System Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Mouse Cardiovascular System Neoplasms</ChildTerm>
+<Synonym>Mouse Cardiovascular Disorder</Synonym>
+<Synonym>Mouse Cardiovascular System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

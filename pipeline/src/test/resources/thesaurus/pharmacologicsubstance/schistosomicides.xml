@@ -1,0 +1,18 @@
+<Record>
+<Term>Schistosomicides</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiplatyhelmintic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Anthelmintics/Antiplatyhelmintic Agents/Schistosomicides</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Schistosomicides</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antiplatyhelmintic Agents</BroaderTerm>
+<BroaderTerm>Anthelmintics</BroaderTerm>
+<Synonym>Schistosomicides</Synonym>
+<Synonym>Antischistosomal Agents</Synonym>
+<Description>Agents that act systemically to kill adult schistosomes.</Description>
+<Source>MeSH</Source>
+</Record>

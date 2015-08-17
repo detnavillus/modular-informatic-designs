@@ -1,0 +1,14 @@
+<Record>
+<Term>Hypoparathyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parathyroid Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hypoparathyroidism</ClassificationPath>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hypoparathyroidism</BroaderTerm>
+<ChildTerm>DiGeorge Syndrome</ChildTerm>
+<Synonym>Hypoparathyroidism</Synonym>
+<Synonym>Idiopathic Hypoparathyroidism</Synonym>
+<Description>A condition caused by a deficiency of PARATHYROID HORMONE (or PTH). It is characterized by HYPOCALCEMIA and hyperphosphatemia. Hypocalcemia leads to TETANY. The acquired form is due to removal or injuries to the PARATHYROID GLANDS. The congenital form is due to mutations of genes, such as TBX1; (see DIGEORGE SYNDROME); CASR encoding CALCIUM-SENSING RECEPTOR; or PTH encoding parathyroid hormone.A condition of low or absent PTH level and HYPOCALCEMIA. It usually occurs as part of an autoimmune syndrome.</Description>
+<Source>MeSH</Source>
+</Record>

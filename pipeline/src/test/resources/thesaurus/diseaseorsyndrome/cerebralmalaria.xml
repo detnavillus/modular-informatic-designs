@@ -1,0 +1,25 @@
+<Record>
+<Term>Cerebral Malaria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malaria, Falciparum</ParentTerm>
+<ParentTerm>Central Nervous System Protozoal Infections</ParentTerm>
+<ParentTerm>Malaria</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria/Malaria, Falciparum/Malaria, Cerebral</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections/Malaria, Cerebral</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria/Malaria, Cerebral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections/Malaria, Cerebral</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Malaria, Cerebral</BroaderTerm>
+<BroaderTerm>Malaria, Falciparum</BroaderTerm>
+<BroaderTerm>Central Nervous System Protozoal Infections</BroaderTerm>
+<BroaderTerm>Malaria</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Malaria Meningitis</Synonym>
+<Synonym>Cerebral Malaria</Synonym>
+<Description>A condition characterized by somnolence or coma in the presence of an acute infection with PLASMODIUM FALCIPARUM (and rarely other Plasmodium species). Initial clinical manifestations include HEADACHES; SEIZURES; and alterations of mentation followed by a rapid progression to COMA. Pathologic features include cerebral capillaries filled with parasitized erythrocytes and multiple small foci of cortical and subcortical necrosis. (From Adams et al., Principles of Neurology, 6th ed, p136)</Description>
+<Source>MeSH</Source>
+</Record>

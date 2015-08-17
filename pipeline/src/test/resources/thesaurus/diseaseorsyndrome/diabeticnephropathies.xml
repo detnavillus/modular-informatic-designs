@@ -1,0 +1,31 @@
+<Record>
+<Term>Diabetic Nephropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Complications</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Nephropathies</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetic Nephropathies</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetic Nephropathies</ClassificationPath>
+<BroaderTerm>Diabetic Nephropathies</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<Synonym>Diabetic Nephropathies</Synonym>
+<Synonym>Diabetic Kidney Diseases</Synonym>
+<Synonym>Intracapillary Glomerulosclerosis</Synonym>
+<Synonym>Diabetic Glomerulosclerosis</Synonym>
+<Synonym>Kimmelstiel-Wilson Syndrome</Synonym>
+<Synonym>Kimmelstiel Wilson Syndrome</Synonym>
+<Synonym>Diabetic Nephropathy</Synonym>
+<Synonym>Kimmelstiel Wilson Disease</Synonym>
+<Synonym>Diabetic Kidney Disease</Synonym>
+<Synonym>Kimmelstiel-Wilson Disease</Synonym>
+<Synonym>Nodular Glomerulosclerosis</Synonym>
+<Description>KIDNEY injuries associated with diabetes mellitus and affecting KIDNEY GLOMERULUS; ARTERIOLES; KIDNEY TUBULES; and the interstitium. Clinical signs include persistent PROTEINURIA, from microalbuminuria progressing to ALBUMINURIA of greater than 300 mg/24 h, leading to reduced GLOMERULAR FILTRATION RATE and END-STAGE RENAL DISEASE.</Description>
+<Source>MeSH</Source>
+</Record>

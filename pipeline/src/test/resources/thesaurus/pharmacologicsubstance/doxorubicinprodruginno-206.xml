@@ -1,0 +1,21 @@
+<Record>
+<Term>Doxorubicin Prodrug INNO-206</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Doxorubicin Prodrug INNO-206</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Doxorubicin Prodrug INNO-206</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>DOXO-EMCH</Synonym>
+<Synonym>Doxorubicin Prodrug INNO-206</Synonym>
+<Synonym>Doxorubicin-EMCH</Synonym>
+<Synonym>INNO-206</Synonym>
+<Description>A 6-maleimidocaproyl hydrazone derivative prodrug of the anthracycline antibiotic doxorubicin (DOXO-EMCH) with antineoplastic activity. Following intravenous administration, doxorubicin prodrug INNO-206 binds selectively to the cysteine-34 position of albumin via its maleimide moiety. Doxorubicin is released from the albumin carrier after cleavage of the acid-sensitive hydrazone linker within the acidic environment of tumors and, once located intracellularly, intercalates DNA, inhibits DNA synthesis, and induces apoptosis. Albumin tends to accumulate in solid tumors as a result of high metabolic turnover, rapid angiogenesis, hyervasculature, and impaired lymphatic drainage. Because of passive accumulation within tumors, this agent may improve the therapeutic effects of doxorubicin while minimizing systemic toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

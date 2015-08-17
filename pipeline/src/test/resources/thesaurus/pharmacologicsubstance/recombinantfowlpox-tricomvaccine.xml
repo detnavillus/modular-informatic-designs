@@ -1,0 +1,25 @@
+<Record>
+<Term>Recombinant Fowlpox-TRICOM Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-TRICOM Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fowlpox-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Fowlpox-PSA-TRICOM Vaccine</ChildTerm>
+<ChildTerm>rFOWLPOX-PSA(L155)-TRICOM Vaccine</ChildTerm>
+<ChildTerm>Recombinant Fowlpox-CEA(6D):TRICOM Vaccine</ChildTerm>
+<ChildTerm>rF-PSA:PSMA:TRICOM</ChildTerm>
+<ChildTerm>Falimarev</ChildTerm>
+<Synonym>Recombinant Fowlpox-TRICOM</Synonym>
+<Synonym>Recombinant Fowlpox-TRICOM Vaccine</Synonym>
+<Synonym>rF-TRICOM (B7.1.iCAM1-LFA3-Fowlpox)</Synonym>
+<Description>A vaccine comprised of a recombinant fowlpox virus vector encoding a TRIad of COstimulatory Molecules (B7-1, ICAM-1 and LFA-3) (TRICOM), which may enhance antigen presentation and activate cytotoxic T-cells. Fowlpox virus is an attractive vector because its genome is easy to manipulate and it is replication incompetent in mammalian cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

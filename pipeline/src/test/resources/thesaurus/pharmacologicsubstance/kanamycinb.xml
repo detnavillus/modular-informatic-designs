@@ -1,0 +1,17 @@
+<Record>
+<Term>Kanamycin B</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Aminoglycoside Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protein Synthesis Inhibitor/Aminoglycoside Antibiotic/Kanamycin B</ClassificationPath>
+<BroaderTerm>Aminoglycoside Antibiotic</BroaderTerm>
+<BroaderTerm>Protein Synthesis Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Kanamycin B</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Bekanamycin</Synonym>
+<Synonym>KANAMYCIN B</Synonym>
+<Synonym>Kanamycin B</Synonym>
+<Description>An aminoglycoside antibiotic derived from Streptomyces kanamyceticus, with antibacterial activity. Bekanamycin irreversibly binds to the bacterial 30S ribosomal subunit. Specifically, this antibiotic is lodged between 16S rRNA and S12 protein within the 30S subunit. This leads to interference with translational initiation complex, misreading of mRNA, thereby hampering protein synthesis and resulting in bactericidal effect.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,44 @@
+<Record>
+<Term>Acne Keloid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acneiform Eruptions</ParentTerm>
+<ParentTerm>Folliculitis</ParentTerm>
+<ParentTerm>Keloid</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Facial Dermatoses/Acneiform Eruptions/Acne Keloid</ClassificationPath>
+<ClassificationPath>Tissues/Connective Tissue/Granulation Tissue/Cicatrix/Keloid/Acne Keloid</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Reactive Cutaneous Fibrous Lesion/Keloid/Acne Keloid</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Collagen Diseases/Keloid/Acne Keloid</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Acneiform Eruptions/Acne Keloid</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Folliculitis/Acne Keloid</ClassificationPath>
+<BroaderTerm>Reactive Cutaneous Fibrous Lesion</BroaderTerm>
+<BroaderTerm>Acneiform Eruptions</BroaderTerm>
+<BroaderTerm>Acne Keloid</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Granulation Tissue</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Facial Dermatoses</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Keloid</BroaderTerm>
+<BroaderTerm>Tissues</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Connective Tissue</BroaderTerm>
+<BroaderTerm>Collagen Diseases</BroaderTerm>
+<BroaderTerm>Folliculitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cicatrix</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Acne Keloidalis</Synonym>
+<Synonym>Acne Keloid</Synonym>
+<Synonym>Keloidal Folliculitis</Synonym>
+<Synonym>Folliculitis Keloidalis</Synonym>
+<Synonym>Acne Keloids</Synonym>
+<Synonym>Keloidal Acnes</Synonym>
+<Synonym>Keloidal Acne</Synonym>
+<Description>A type of acneiform disorder in which secondary pyogenic infection in and around pilosebaceous structures ends in keloidal scarring. It manifests as persistent folliculitis of the back of the neck associated with occlusion of the follicular orifices. It is most often encountered in black or Asian men.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

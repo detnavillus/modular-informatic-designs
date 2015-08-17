@@ -1,0 +1,59 @@
+<Record>
+<Term>Supraventricular Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Supraventricular Arrhythmia</ParentTerm>
+<ParentTerm>Tachycardia</ParentTerm>
+<ParentTerm>Supraventricular and Nodal Arrhythmia Adverse Event</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Cardiac Arrhythmia/Supraventricular and Nodal Arrhythmia Adverse Event/Supraventricular Tachycardia Adverse Event</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Cardiac Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Supraventricular and Nodal Arrhythmia Adverse Event</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia Adverse Event</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Tachycardia, Supraventricular</BroaderTerm>
+<ChildTerm>Tachycardia, Ectopic Atrial</ChildTerm>
+<ChildTerm>Tachycardia, Ectopic Junctional</ChildTerm>
+<ChildTerm>Tachycardia, Sinus</ChildTerm>
+<ChildTerm>Sinus Tachycardia</ChildTerm>
+<ChildTerm>Paroxysmal Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>Atrial Tachycardia</ChildTerm>
+<ChildTerm>Multifocal Atrial Tachycardia</ChildTerm>
+<ChildTerm>Atrial Flutter</ChildTerm>
+<ChildTerm>Junctional Tachycardia</ChildTerm>
+<Synonym>Supraventricular Tachycardia</Synonym>
+<Synonym>Supraventricular tachycardia</Synonym>
+<Synonym>Supraventricular Tachycardia Adverse Event</Synonym>
+<Synonym>SUPRAVENTRICULAR TACHYCARDIA</Synonym>
+<Synonym>Supraventricular Tachycardias</Synonym>
+<Description>A generic expression for any tachycardia that originates above the BUNDLE OF HIS.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

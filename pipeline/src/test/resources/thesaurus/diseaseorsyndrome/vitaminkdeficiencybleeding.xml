@@ -1,0 +1,32 @@
+<Record>
+<Term>Vitamin K Deficiency Bleeding</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Vitamin K Deficiency</ParentTerm>
+<ParentTerm>Infant Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin K Deficiency/Vitamin K Deficiency Bleeding</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Vitamin K Deficiency Bleeding</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Vitamin K Deficiency/Vitamin K Deficiency Bleeding</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Vitamin K Deficiency/Vitamin K Deficiency Bleeding</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Infant Nutrition Disorders/Vitamin K Deficiency Bleeding</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Vitamin K Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Vitamin K Deficiency Bleeding</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Infant Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Newborn Hemorrhagic Diseases</Synonym>
+<Synonym>Vitamin K Deficiency Bleeding</Synonym>
+<Synonym>Hemorrhagic Disease of Newborn</Synonym>
+<Synonym>Newborn Hemorrhagic Disease</Synonym>
+<Description>Hemorrhage caused by vitamin K deficiency.Neonatal nasogastric or intracranial hemorrhage caused by vitamin K deficiency.</Description>
+<Source>MeSH</Source>
+</Record>

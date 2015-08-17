@@ -1,0 +1,20 @@
+<Record>
+<Term>Recombinant Fas Ligand</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Tumor Necrosis Factor Family Protein</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Tumor Necrosis Factor Family Protein/Recombinant Fas Ligand</ClassificationPath>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fas Ligand</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Tumor Necrosis Factor Family Protein</BroaderTerm>
+<Synonym>FAS-Ligand</Synonym>
+<Synonym>Fas Ligand</Synonym>
+<Synonym>Fas-L</Synonym>
+<Synonym>Recombinant Fas Ligand</Synonym>
+<Description>A recombinant agent, which is chemically identical to or similar to the endogenous protein Fas ligand, a protein related to tumor necrosis factor (TNF) with potential antineoplastic activity.  Fas ligand binds to the Fas receptor, thereby activating caspases and inducing apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

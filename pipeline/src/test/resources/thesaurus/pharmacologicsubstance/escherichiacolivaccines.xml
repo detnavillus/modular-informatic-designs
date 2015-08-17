@@ -1,0 +1,17 @@
+<Record>
+<Term>Escherichia coli Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Escherichia coli Vaccines</ClassificationPath>
+<BroaderTerm>Escherichia coli Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Escherichia coli Vaccines</Synonym>
+<Synonym>E coli Vaccines</Synonym>
+<Synonym>Escherichia coli Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent or treat both enterotoxigenic and enteropathogenic Escherichia coli infections.</Description>
+<Source>MeSH</Source>
+</Record>

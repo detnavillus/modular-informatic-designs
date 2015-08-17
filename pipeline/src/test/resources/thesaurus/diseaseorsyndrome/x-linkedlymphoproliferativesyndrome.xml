@@ -1,0 +1,15 @@
+<Record>
+<Term>X-Linked Lymphoproliferative Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunodeficiency Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/X-Linked Lymphoproliferative Syndrome</ClassificationPath>
+<BroaderTerm>X-Linked Lymphoproliferative Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>X-Linked Lymphoproliferative Syndrome</Synonym>
+<Description>An X-linked immunodeficiency syndrome that exclusivesly affects males, although females can be carriers.  The syndrome is characterized by life-threatening episodes of infectious mononucleosis, hypogammaglobulinemia, and subsequent development of lymphomas (usually B-cell lymphomas) and other lymphoproliferative disorders.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

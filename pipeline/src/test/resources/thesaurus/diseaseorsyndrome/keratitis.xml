@@ -1,0 +1,28 @@
+<Record>
+<Term>Keratitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Corneal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Corneal Disorder/Keratitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Corneal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Keratoconjunctivitis</ChildTerm>
+<ChildTerm>Corneal Ulcer</ChildTerm>
+<ChildTerm>Dendritic Keratitis</ChildTerm>
+<ChildTerm>Keratitis, Herpetic</ChildTerm>
+<ChildTerm>Acanthamoeba Keratitis</ChildTerm>
+<Synonym>Keratitis</Synonym>
+<Synonym>Keratitides</Synonym>
+<Description>Inflammation of the cornea.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

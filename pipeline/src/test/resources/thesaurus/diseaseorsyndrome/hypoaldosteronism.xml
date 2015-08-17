@@ -1,0 +1,15 @@
+<Record>
+<Term>Hypoaldosteronism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Insufficiency</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Insufficiency/Hypoaldosteronism</ClassificationPath>
+<BroaderTerm>Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hypoaldosteronism</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<Synonym>Hypoaldosteronism</Synonym>
+<Synonym>Type IV Renal Tubular Acidosis</Synonym>
+<Synonym>Hyporeninemic Hypoaldosteronism</Synonym>
+<Description>A congenital or acquired condition of insufficient production of ALDOSTERONE by the ADRENAL CORTEX leading to diminished aldosterone-mediated synthesis of Na(+)-K(+)-EXCHANGING ATPASE in renal tubular cells. Clinical symptoms include HYPERKALEMIA, sodium-wasting, HYPOTENSION, and sometimes metabolic ACIDOSIS.A selective aldosterone deficiency resulting from diminished RENIN-generated ANGIOTENSIN II, a key stimulus to aldosterone secretion. Previously, it was called type IV renal tubular acidosis.</Description>
+<Source>MeSH</Source>
+</Record>

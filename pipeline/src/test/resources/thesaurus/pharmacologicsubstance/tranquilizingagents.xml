@@ -1,0 +1,27 @@
+<Record>
+<Term>Tranquilizing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Psychotropic Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Depressants</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Psychotropic Drugs/Tranquilizing Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Tranquilizing Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Tranquilizing Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Psychotropic Drugs</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Tranquilizing Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Antipsychotic Agents</ChildTerm>
+<ChildTerm>Antimanic Agents</ChildTerm>
+<ChildTerm>Anti-Anxiety Agents</ChildTerm>
+<Synonym>Tranquillizing Agents</Synonym>
+<Synonym>Tranquilizing Drugs</Synonym>
+<Synonym>Tranquilizing Agents</Synonym>
+<Synonym>Tranquillizing Drugs</Synonym>
+<Synonym>Ataractics</Synonym>
+<Description>A traditional grouping of drugs said to have a soothing or calming effect on mood, thought, or behavior. Included here are the ANTI-ANXIETY AGENTS (minor tranquilizers), ANTIMANIC AGENTS, and the ANTIPSYCHOTIC AGENTS (major tranquilizers). These drugs act by different mechanisms and are used for different therapeutic purposes.</Description>
+<Source>MeSH</Source>
+</Record>

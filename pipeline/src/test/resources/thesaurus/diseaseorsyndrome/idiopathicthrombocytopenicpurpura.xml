@@ -1,0 +1,22 @@
+<Record>
+<Term>Idiopathic Thrombocytopenic Purpura</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thrombocytopenic Purpura</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Hematologic and Lymphocytic Disorder/Thrombocytopenic Purpura/Idiopathic Thrombocytopenic Purpura</ClassificationPath>
+<BroaderTerm>Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Idiopathic Thrombocytopenic Purpura</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Thrombocytopenic Purpura</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AIDS-Related Idiopathic Thrombocytopenic Purpura</ChildTerm>
+<Synonym>ITP</Synonym>
+<Synonym>Idiopathic Thrombocytopenia</Synonym>
+<Synonym>Idiopathic Thrombocytopenia Purpura</Synonym>
+<Synonym>Idiopathic Thrombocytopenic Purpura</Synonym>
+<Synonym>Thrombocytopenia Due to Platelet Alloimmunization</Synonym>
+<Description>An autoimmune disorder in which the number of circulating platelets is reduced due to their antibody-mediated destruction. ITP is a diagnosis of exclusion and is heterogeneous in origin.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

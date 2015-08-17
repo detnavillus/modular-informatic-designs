@@ -1,0 +1,16 @@
+<Record>
+<Term>VEGFR2-169 Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/VEGFR2-169 Peptide Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>VEGFR2-169 Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>VEGFR2-169 Peptide Vaccine</Synonym>
+<Description>A peptide vaccine containing an HLA-A*2402-restricted epitope of vascular endothelial growth factor receptor (VEGFR) 2 with potential immunostimulatory and antineoplastic activities. Upon administration, VEGFR2-169 peptide vaccine may stimulate a cytotoxic T lymphocyte (CTL) response against VEGFR2-expressing tumor cells. VEGFR2, a receptor tyrosine kinase, is overexpressed by a variety of tumor types; overexpression is associated with tumor cell proliferation and tumor angiogenesis. HLA-A*2402 is an MHC class I molecule that presents antigenic peptides to CD8+ T cells; epitope design restricted to epitopes that bind most efficiently to HLA-A*2402 may improve antigenic peptide immunogenicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

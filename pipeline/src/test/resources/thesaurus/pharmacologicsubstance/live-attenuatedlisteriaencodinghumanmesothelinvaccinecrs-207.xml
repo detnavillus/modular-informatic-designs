@@ -1,0 +1,17 @@
+<Record>
+<Term>Live-Attenuated Listeria Encoding Human Mesothelin Vaccine CRS-207</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Live-Attenuated Listeria Encoding Human Mesothelin Vaccine CRS-207</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Live-Attenuated Listeria Encoding Human Mesothelin Vaccine CRS-207</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>CRS-207</Synonym>
+<Synonym>Live-Attenuated Listeria Encoding Human Mesothelin Vaccine CRS-207</Synonym>
+<Description>A recombinant Listeria-based cancer vaccine containing a live-attenuated strain of the facultative intracellular bacterium Listeria monocytogenes (Lm) expressing human mesothelin with potential immunostimulatory and antineoplastic activities. Upon administration of this vaccine, Listeria invade professional phagocytes within the immune system and express mesothelin, which may activate a cytotoxic T-lymphocyte (CTL) response against mesothelin-expressing tumor cells, resulting in tumor cell lysis. In addition, the Listeria vector itself may induce a potent innate and adaptive immunity unrelated to mesothelin expression. Mesothelin is a cell surface glycoprotein involved in cell adhesion and is overexpressed in many epithelial-derived cancers, including pancreatic, ovarian and lung cancers, and malignant mesotheliomas.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

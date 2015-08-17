@@ -1,0 +1,16 @@
+<Record>
+<Term>Esophageal Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Esophageal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Esophageal Disorder/Esophageal Ulcer</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Esophageal Ulcer</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Esophageal Ulcer</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -2,6 +2,7 @@ package com.modinfodesigns.property.transform.xml;
 
 import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.DataObject;
+import com.modinfodesigns.property.IDataObjectBuilder;
 import com.modinfodesigns.property.string.StringProperty;
 import com.modinfodesigns.property.string.StringListProperty;
 import com.modinfodesigns.property.transform.BasePropertyTransform;
@@ -18,6 +19,10 @@ import org.xml.sax.helpers.DefaultHandler;
 import java.util.Stack;
 
 import java.io.StringReader;
+import java.io.Reader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -39,7 +44,7 @@ import org.slf4j.LoggerFactory;
  * @author Ted Sullivan
  */
 
-public class XMLParserTransform extends BasePropertyTransform
+public class XMLParserTransform extends BasePropertyTransform implements IDataObjectBuilder
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( XMLParserTransform.class );
 
@@ -66,30 +71,42 @@ public class XMLParserTransform extends BasePropertyTransform
     return xmlObject;
   }
 
+  @Override
   public DataObject createDataObject( String xmlString )
   {
     LOG.debug( "createDataObject" );
     	
     DataObjectCreator doc = new DataObjectCreator( );
-    formatDataObjectCreator( doc, xmlString );
+    formatDataObjectCreator( doc, new StringReader( xmlString ) );
+    return doc.getDataObject( );
+  }
+    
+  public DataObject createDataObject( Reader xmlReader )
+  {
+    DataObjectCreator doc = new DataObjectCreator( );
+    formatDataObjectCreator( doc, xmlReader );
     return doc.getDataObject( );
   }
     
   public void formatDataObject( DataObject dobj, String xmlString )
   {
     DataObjectCreator doc = new DataObjectCreator( dobj );
-    formatDataObjectCreator( doc, xmlString );
+    formatDataObjectCreator( doc, new StringReader( xmlString ) );
   }
     
-  private void formatDataObjectCreator( DataObjectCreator doc, String xmlString )
+  public DataObject createDataObject( InputStream xmlStream )
+  {
+    return createDataObject( new InputStreamReader( xmlStream ) );
+  }
+    
+  private void formatDataObjectCreator( DataObjectCreator doc, Reader xmlReader )
   {
     try
     {
       SAXParserFactory factory = SAXParserFactory.newInstance();
       SAXParser saxParser = factory.newSAXParser();
         
-      StringReader sr = new StringReader( xmlString );
-      InputSource is = new InputSource( sr );
+      InputSource is = new InputSource( xmlReader );
     		
       saxParser.parse( is, doc );
     }
@@ -161,13 +178,16 @@ public class XMLParserTransform extends BasePropertyTransform
         {
           StringProperty stringProp = new StringProperty( );
           stringProp.setName( atts.getQName( i ) );
+          
           try
           {
             stringProp.setValue( atts.getValue( i ), null );
             currObject.addProperty( stringProp );
+            LOG.debug( "Adding property: " + stringProp.getName( ) + " : " + stringProp.getValue( ) );
           }
           catch ( PropertyValidationException pve )
           {
+
           }
         }
       }
@@ -185,6 +205,7 @@ public class XMLParserTransform extends BasePropertyTransform
       if (slp == null)
       {
         slp = new StringListProperty( );
+        slp.setName( "text" );
         currObject.addProperty( slp );
       }
     		
@@ -240,7 +261,7 @@ public class XMLParserTransform extends BasePropertyTransform
         }
         catch (Exception e )
         {
-            System.out.println( "Got EXCEPTION " + e );
+            LOG.error( "Got EXCEPTION " + e );
         }
       }
     		

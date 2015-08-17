@@ -1,0 +1,17 @@
+<Record>
+<Term>Greig Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Greig Syndrome</ClassificationPath>
+<BroaderTerm>Greig Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>GCPS</Synonym>
+<Synonym>Greig Cephalosyndactyly Syndrome</Synonym>
+<Synonym>Greig Syndrome</Synonym>
+<Synonym>Greig's Syndrome</Synonym>
+<Description>An autosomal dominant genetic disorder caused by mutations in the GLI3 gene.  It is characterized by physical abnormalities of the fingers and/or toes (extra fingers and/ or toes, fusion of the fingers and/or toes), large size head with prominent forehead and hypertelorism.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

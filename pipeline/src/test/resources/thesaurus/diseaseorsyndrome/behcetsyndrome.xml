@@ -1,0 +1,41 @@
+<Record>
+<Term>Behcet Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Uveitis, Anterior</ParentTerm>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Behcet Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Anterior/Behcet Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Behcet Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Behcet Syndrome</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Behcet Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Uveitis, Anterior</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Behcet Syndrome</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Behcet Disease</Synonym>
+<Synonym>Behcets Syndrome</Synonym>
+<Synonym>Behcet Syndrome</Synonym>
+<Synonym>Behcet's Syndrome</Synonym>
+<Synonym>Triple-Symptom Complex</Synonym>
+<Synonym>Triple Symptom Complex</Synonym>
+<Description>Rare chronic inflammatory disease involving the small blood vessels. It is of unknown etiology and characterized by mucocutaneous ulceration in the mouth and genital region and uveitis with hypopyon. The neuro-ocular form may cause blindness and death. SYNOVITIS; THROMBOPHLEBITIS; gastrointestinal ulcerations; RETINAL VASCULITIS; and OPTIC ATROPHY may occur as well.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

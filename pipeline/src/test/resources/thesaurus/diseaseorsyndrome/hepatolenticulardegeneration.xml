@@ -1,0 +1,63 @@
+<Record>
+<Term>Hepatolenticular Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Hepatolenticular Degeneration</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Hepatolenticular Degeneration</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Hepatolenticular Degeneration</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<Synonym>Neurohepatic Degenerations</Synonym>
+<Synonym>Cerebral Pseudoscleroses</Synonym>
+<Synonym>Westphal Strumpell Syndrome</Synonym>
+<Synonym>Hepato-Neurologic Wilson Disease</Synonym>
+<Synonym>Neurohepatic Degeneration</Synonym>
+<Synonym>Pseudosclerosis</Synonym>
+<Synonym>Wilson Disease</Synonym>
+<Synonym>Hepatocerebral Degeneration</Synonym>
+<Synonym>Wilson's Disease</Synonym>
+<Synonym>Hepatic Form of Wilson Disease</Synonym>
+<Synonym>Kinnier Wilson Disease</Synonym>
+<Synonym>Wilsons Disease</Synonym>
+<Synonym>Hepato-Neurologic Wilson Diseases</Synonym>
+<Synonym>Westphal-Strumpell Syndromes</Synonym>
+<Synonym>Hepatocerebral Degenerations</Synonym>
+<Synonym>Kinnier-Wilson Diseases</Synonym>
+<Synonym>Hepatolenticular Degeneration</Synonym>
+<Synonym>Westphal-Strumpell Syndrome</Synonym>
+<Synonym>Kinnier-Wilson Disease</Synonym>
+<Synonym>Hepato Neurologic Wilson Disease</Synonym>
+<Synonym>Progressive Lenticular Degeneration</Synonym>
+<Synonym>Cerebral Pseudosclerosis</Synonym>
+<Description>A rare autosomal recessive disease characterized by the deposition of copper in the BRAIN; LIVER; CORNEA; and other organs. It is caused by defects in the ATP7B gene encoding copper-transporting ATPase 2 (EC 3.6.3.4), also known as the Wilson disease protein. The overload of copper inevitably leads to progressive liver and neurological dysfunction such as LIVER CIRRHOSIS; TREMOR; ATAXIA and intellectual deterioration. Hepatic dysfunction may precede neurologic dysfunction by several years.</Description>
+<Source>MeSH</Source>
+</Record>

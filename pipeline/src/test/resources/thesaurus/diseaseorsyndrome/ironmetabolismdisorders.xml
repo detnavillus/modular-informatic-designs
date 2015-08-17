@@ -1,0 +1,15 @@
+<Record>
+<Term>Iron Metabolism Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Iron Metabolism Disorders</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Iron Metabolism Disorders</BroaderTerm>
+<ChildTerm>Anemia, Iron-Deficiency</ChildTerm>
+<ChildTerm>Iron Overload</ChildTerm>
+<Synonym>Iron Metabolism Disorders</Synonym>
+<Synonym>Iron Metabolism Disorder</Synonym>
+<Description>Disorders in the processing of iron in the body: its absorption, transport, storage, and utilization. (From Mosby's Medical, Nursing, &amp; Allied Health Dictionary, 4th ed)</Description>
+<Source>MeSH</Source>
+</Record>

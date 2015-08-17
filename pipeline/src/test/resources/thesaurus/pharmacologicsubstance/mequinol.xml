@@ -1,0 +1,19 @@
+<Record>
+<Term>Mequinol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Miscellaneous Adjuvant/Mequinol</ClassificationPath>
+<BroaderTerm>Mequinol</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Adjuvant</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-Methoxyphenol</Synonym>
+<Synonym>4-hydroxyanisole</Synonym>
+<Synonym>Hydroquinone Monomethyl Ether</Synonym>
+<Synonym>MEQUINOL</Synonym>
+<Synonym>Mequinol</Synonym>
+<Description>A synthetic derivate of hydroquinone and depigmenting agent. Although the exact mechanism of the depigmenting effects of mequinol remains unclear, it may exert its effect by oxidation of tyrosinase to cytotoxic products in melanocytes. Mequinol may also act by competitively inhibiting the formation of melanin precursors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

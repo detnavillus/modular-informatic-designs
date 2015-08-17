@@ -1,0 +1,18 @@
+<Record>
+<Term>Bcl-Xs Adenovirus Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Bcl-Xs Adenovirus Vaccine</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Bcl-Xs Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Bcl-Xs Adenovirus Vaccine</Synonym>
+<Description>A vaccine consisting of replication-defective recombinant adenovirus that encodes for Bcl-Xs with potential antineoplastic activity.  Vaccination with Bcl-Xs adenovirus vaccine induces apoptosis in Bcl-2 and Bcl-XL positive cancer cells, resulting in decreased tumor growth while leaving normal cells unaffected.  Bcl-Xs block the function of the protooncogenes Bcl-2 and Bcl-XL which are overexpressed in a variety of solid tumors and promote cancer cell survival by inhibiting apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

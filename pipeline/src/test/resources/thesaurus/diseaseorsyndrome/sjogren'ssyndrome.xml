@@ -1,0 +1,16 @@
+<Record>
+<Term>Sjogren's Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dry Eye Syndromes</ParentTerm>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases/Dry Eye Syndromes/Sjogren's Syndrome</ClassificationPath>
+<BroaderTerm>Dry Eye Syndromes</BroaderTerm>
+<BroaderTerm>Sjogren's Syndrome</BroaderTerm>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Sjogren's Syndrome</Synonym>
+<Synonym>Sjogren Syndrome</Synonym>
+<Synonym>Sjogrens Syndrome</Synonym>
+<Synonym>Sicca Syndrome</Synonym>
+<Description>Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both KERATOCONJUNCTIVITIS SICCA and XEROSTOMIA. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.</Description>
+<Source>MeSH</Source>
+</Record>

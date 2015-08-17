@@ -1,0 +1,5 @@
+<ObjectFactoryCreator>
+  <ObjectFactory factoryName="PipelineClassesFactory"
+                 factoryClass="com.modinfodesigns.app.FileSystemObjectFactory"
+                 configFile="resources/FileSystemConfiguration.xml" />
+</ObjectFactoryCreator>

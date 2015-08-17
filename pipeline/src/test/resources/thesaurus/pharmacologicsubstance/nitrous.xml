@@ -1,0 +1,30 @@
+<Record>
+<Term>Nitrous</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Nitrogen Oxides</ParentTerm>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Nitrogen Oxides/Nitrous Oxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Oxygen Compounds/Oxides/Nitrogen Oxides/Nitrous Oxide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Nitrous Oxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Gases/Nitrogen Oxides/Nitrous Oxide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Oxides</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nitrogen Oxides</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Nitrogen Compounds</BroaderTerm>
+<BroaderTerm>Gases</BroaderTerm>
+<BroaderTerm>Nitrous Oxide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Oxygen Compounds</BroaderTerm>
+<Synonym>Dinitrogen Monoxide</Synonym>
+<Synonym>Nitrogen Protoxide</Synonym>
+<Synonym>Nitrous Oxide</Synonym>
+<Synonym>Laughing Gas</Synonym>
+<Description>A naturally occurring gas that is colorless and non flammable. It can be manufactured and used for a variety of things such as a pharmacologic agent to produce anesthesia, a food additive as a propellant, and an additive to fuels to increase available oxygen in combustion.</Description>
+<Description>Nitrogen oxide (N2O). A colorless, odorless gas that is used as an anesthetic and analgesic. High concentrations cause a narcotic effect and may replace oxygen, causing death by asphyxia. It is also used as a food aerosol in the preparation of whipping cream.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

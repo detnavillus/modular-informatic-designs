@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine I 131 Monoclonal Antibody 8H9</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Iodine I 131 Monoclonal Antibody 8H9</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Iodine I 131 Monoclonal Antibody 8H9</BroaderTerm>
+<Synonym>Iodine I 131 MOAB 8H9</Synonym>
+<Synonym>Iodine I 131 Monoclonal Antibody 8H9</Synonym>
+<Description>A radioimmunoconjugate of a murine IgG1 monoclonal antibody (MoAb) 8H9 labeled with iodine 131 (I 131), with imaging and radioimmunotherapeutic properties. MoAb 8H9 recognizes a 58 KDa cell surface glycoprotein found in many solid tumors, including breast cancers, childhood sarcomas, and neuroblastomas, but is not reactive with normal human tissues. I 131 MoAb 8H9 effectively targets tumor cells expressing this unique glycoprotein and may play a radioimmunotherapic role in a variety of solid tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

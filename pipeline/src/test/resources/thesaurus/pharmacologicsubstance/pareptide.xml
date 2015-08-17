@@ -1,0 +1,15 @@
+<Record>
+<Term>Pareptide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiparkinsonian Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiparkinsonian Agent/Pareptide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Pareptide</BroaderTerm>
+<BroaderTerm>Antiparkinsonian Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PAREPTIDE</Synonym>
+<Synonym>Pareptide</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

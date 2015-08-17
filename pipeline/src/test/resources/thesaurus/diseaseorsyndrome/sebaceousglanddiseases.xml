@@ -1,0 +1,18 @@
+<Record>
+<Term>Sebaceous Gland Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sebaceous Gland Diseases</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Sebaceous Gland Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Acne Vulgaris</ChildTerm>
+<ChildTerm>Mucinosis, Follicular</ChildTerm>
+<ChildTerm>Rhinophyma</ChildTerm>
+<ChildTerm>Sebaceous Gland Neoplasms</ChildTerm>
+<ChildTerm>Dermatitis, Seborrheic</ChildTerm>
+<Synonym>Sebaceous Gland Diseases</Synonym>
+<Synonym>Sebaceous Gland Disease</Synonym>
+<Description>Diseases of the sebaceous glands such as sebaceous hyperplasia and sebaceous cell carcinoma (SEBACEOUS GLAND NEOPLASMS).</Description>
+<Source>MeSH</Source>
+</Record>

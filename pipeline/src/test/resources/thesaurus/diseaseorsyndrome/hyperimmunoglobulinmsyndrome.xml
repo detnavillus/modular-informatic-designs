@@ -1,0 +1,15 @@
+<Record>
+<Term>Hyperimmunoglobulin M Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperimmunoglobulin Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Hyperimmunoglobulin Syndrome/Hyperimmunoglobulin M Syndrome</ClassificationPath>
+<BroaderTerm>Hyperimmunoglobulin Syndrome</BroaderTerm>
+<BroaderTerm>Hyperimmunoglobulin M Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Hyperimmunoglobulin M Syndrome</Synonym>
+<Description>An immunodeficiency state characterized by very low serum IgG and IgA but either a normal or, more frequently, a markedly elevated concentration of polyclonal IgM.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

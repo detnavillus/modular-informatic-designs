@@ -100,9 +100,9 @@ public class DataList extends DataObject implements IDataList
         int itAt = 0;
         while( daIt.hasNext() )
         {
+
           DataObject nextDa = daIt.next( );
           String chLabel = nextDa.jsonNameLabel;
-          nextDa.jsonNameLabel = this.jsonNameLabel;
             
           if (itAt++ > 0) sbr.append( "," );
           sbr.append( nextDa.getValue( IProperty.JSON_FORMAT ) );

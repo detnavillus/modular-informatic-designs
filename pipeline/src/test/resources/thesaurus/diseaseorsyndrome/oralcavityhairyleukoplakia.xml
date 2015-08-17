@@ -1,0 +1,33 @@
+<Record>
+<Term>Oral Cavity Hairy Leukoplakia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Oral Cavity Leukoplakia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/AIDS-Related Disorder/Oral Cavity Hairy Leukoplakia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity and Lip Precancerous Condition/Oral Leukoplakia/Oral Cavity Leukoplakia/Oral Cavity Hairy Leukoplakia</ClassificationPath>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Hairy Leukoplakia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Oral Cavity Leukoplakia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Oral Cavity and Lip Precancerous Condition</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Hairy Leukoplakia,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>AIDS-Related Disorder</BroaderTerm>
+<BroaderTerm>Oral Leukoplakia</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<ChildTerm>Hairy Leukoplakia of Tongue</ChildTerm>
+<Synonym>Hairy Leukoplakia of Mouth</Synonym>
+<Synonym>Hairy Leukoplakia of Oral Mucosa</Synonym>
+<Synonym>Hairy Leukoplakia of the Mouth</Synonym>
+<Synonym>Hairy Leukoplakia of the Oral Mucosa</Synonym>
+<Synonym>Mouth Hairy Leukoplakia</Synonym>
+<Synonym>Oral Cavity Hairy Leukoplakia</Synonym>
+<Synonym>Oral Hairy Keratosis</Synonym>
+<Description>An epithelial hyperplasia of the oral mucosa associated with Epstein-Barr virus and found almost exclusively in persons with HIV infection. The lesion consists of a white patch that is often corrugated or hairy. --2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

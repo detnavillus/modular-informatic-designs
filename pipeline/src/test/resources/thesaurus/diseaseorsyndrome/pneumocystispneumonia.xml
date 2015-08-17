@@ -1,0 +1,29 @@
+<Record>
+<Term>Pneumocystis Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Fungal</ParentTerm>
+<ParentTerm>Pneumonia</ParentTerm>
+<ParentTerm>Pneumocystis Infections</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Fungal/Pneumonia, Pneumocystis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Pneumocystis Infections/Pneumonia, Pneumocystis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Pneumocystis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Lung Diseases, Fungal/Pneumonia, Pneumocystis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Pneumocystis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Lung Diseases, Fungal/Pneumonia, Pneumocystis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pneumonia, Pneumocystis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Fungal</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumocystis Infections</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pneumocystis Pneumonias</Synonym>
+<Synonym>Pneumocystosis</Synonym>
+<Synonym>Pneumocystis Pneumonia</Synonym>
+<Synonym>Pneumocystoses</Synonym>
+<Synonym>Pneumocystis carinii Pneumonia</Synonym>
+<Description>A pulmonary disease in humans occurring in immunodeficient or malnourished patients or infants, characterized by DYSPNEA, tachypnea, and HYPOXEMIA. Pneumocystis pneumonia is a frequently seen opportunistic infection in AIDS. It is caused by the fungus PNEUMOCYSTIS JIROVECII. The disease is also found in other MAMMALS where it is caused by related species of Pneumocystis.</Description>
+<Source>MeSH</Source>
+</Record>

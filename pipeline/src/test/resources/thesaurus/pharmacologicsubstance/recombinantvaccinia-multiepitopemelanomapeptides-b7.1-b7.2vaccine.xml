@@ -1,0 +1,17 @@
+<Record>
+<Term>Recombinant Vaccinia-Multiepitope Melanoma Peptides-B7.1-B7.2 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-Multiepitope Melanoma Peptides-B7.1-B7.2 Vaccine</ClassificationPath>
+<BroaderTerm>Recombinant Vaccinia-Multiepitope Melanoma Peptides-B7.1-B7.2 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-Multiepitope Melanoma Peptides-B7.1-B7.2 Vaccine</Synonym>
+<Description>A cancer vaccine consisting of an inactivated recombinant vaccinia virus encoding epitope peptides derived from melanoma-related HLA-A2-restricted tumor-associated antigens (TAAs), including Melan-A(27-35), gp100(280-288) and tyrosinase(1-9), and two co-stimulatory B7 proteins, B7.1 (CD80) and B7.2 (CD86). Upon administration, recombinant vaccinia-multiepitope melanoma peptides-B7.1-B7.2 vaccine may stimulate a cytotoxic T-lymphocyte response against melanoma cells that express TAAs which share epitopes with the epitope peptides expressed by the vaccine viral vector, resulting in tumor cell lysis; vaccine viral vector-expressed co-stimulatory proteins B7.1 and B7.2 may enhance the cytotoxic T-lymphocyte immune response to the TAAs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

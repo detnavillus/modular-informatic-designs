@@ -1,0 +1,17 @@
+<Record>
+<Term>Sialorrhea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Pathologic Function</SemanticType>
+<ParentTerm>Salivary Gland Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Sialorrhea</ClassificationPath>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Sialorrhea</BroaderTerm>
+<Synonym>Sialorrhea</Synonym>
+<Synonym>Hypersalivation</Synonym>
+<Synonym>Drooling</Synonym>
+<Description>Increased salivary flow.</Description>
+<Source>MeSH</Source>
+</Record>

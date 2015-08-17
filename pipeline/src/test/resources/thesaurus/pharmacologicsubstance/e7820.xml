@@ -1,0 +1,16 @@
+<Record>
+<Term>E7820</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Endothelial-Specific Integrin:Survival Signaling Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial-Specific Integrin:Survival Signaling Inhibitor/E7820</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Endothelial-Specific Integrin:Survival Signaling Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>E7820</BroaderTerm>
+<Synonym>E7820</Synonym>
+<Description>A small molecule and aromatic sulfonamide derivative with potential antiangiogenic and antitumor activities. E7820 inhibits angiogenesis by suppressing integrin alpha 2, a cell adhesion molecule expressed on endothelial cells. Inhibition of integrin alpha 2 leads to an inhibition of cell-cell interactions, endothelial cell-matrix interactions, vascular endothelial cell proliferation and angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

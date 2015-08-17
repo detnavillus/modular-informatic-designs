@@ -1,0 +1,18 @@
+<Record>
+<Term>Traumatic Stress Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Anxiety Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Anxiety Disorders/Stress Disorders, Traumatic</ClassificationPath>
+<BroaderTerm>Anxiety Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Stress Disorders, Traumatic</BroaderTerm>
+<ChildTerm>Combat Disorders</ChildTerm>
+<ChildTerm>Stress Disorders, Post-Traumatic</ChildTerm>
+<ChildTerm>Stress Disorders, Traumatic, Acute</ChildTerm>
+<Synonym>Traumatic Stress Disorder</Synonym>
+<Synonym>Traumatic Stress Disorders</Synonym>
+<Synonym>Stress Disorders</Synonym>
+<Synonym>Stress Disorder</Synonym>
+<Description>Anxiety disorders manifested by the development of characteristic symptoms following a psychologically traumatic event that is outside the normal range of usual human experience. Symptoms include re-experiencing the traumatic event, increased arousal, and numbing of responsiveness to or reduced involvement with the external world. Traumatic stress disorders can be further classified by the time of onset and the duration of these symptoms.</Description>
+<Source>MeSH</Source>
+</Record>

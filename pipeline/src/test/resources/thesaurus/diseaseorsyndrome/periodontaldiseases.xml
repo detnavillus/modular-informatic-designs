@@ -1,0 +1,25 @@
+<Record>
+<Term>Periodontal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Periapical Diseases</ChildTerm>
+<ChildTerm>Periodontitis</ChildTerm>
+<ChildTerm>Gingival Diseases</ChildTerm>
+<ChildTerm>Periodontal Cyst</ChildTerm>
+<ChildTerm>Tooth Migration</ChildTerm>
+<ChildTerm>Tooth Mobility</ChildTerm>
+<ChildTerm>Periodontal Atrophy</ChildTerm>
+<ChildTerm>Tooth Loss</ChildTerm>
+<ChildTerm>Furcation Defects</ChildTerm>
+<Synonym>Periodontal Diseases</Synonym>
+<Synonym>Periodontal Disease</Synonym>
+<Synonym>Parodontosis</Synonym>
+<Synonym>Parodontoses</Synonym>
+<Synonym>Pyorrhea Alveolaris</Synonym>
+<Description>Pathological processes involving the PERIODONTIUM including the gum (GINGIVA), the alveolar bone (ALVEOLAR PROCESS), the DENTAL CEMENTUM, and the PERIODONTAL LIGAMENT.</Description>
+<Source>MeSH</Source>
+</Record>

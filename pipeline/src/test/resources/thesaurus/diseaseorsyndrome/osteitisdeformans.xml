@@ -1,0 +1,33 @@
+<Record>
+<Term>Osteitis Deformans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Bone Paget Disease</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteitis Deformans</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Bone Paget Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Osteitis Deformans</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sternal Paget Disease</ChildTerm>
+<Synonym>Pagets Disease (Bone)</Synonym>
+<Synonym>Osseous Paget's Disease</Synonym>
+<Synonym>Paget's Disease</Synonym>
+<Synonym>Bone Paget Disease</Synonym>
+<Synonym>Paget's Disease of the Bone</Synonym>
+<Synonym>Osteitis Deformans</Synonym>
+<Synonym>Bone Paget's Disease</Synonym>
+<Synonym>Paget Disease of Bone</Synonym>
+<Synonym>Paget's Disease of Bone</Synonym>
+<Description>A disease marked by repeated episodes of increased bone resorption followed by excessive attempts at repair, resulting in weakened, deformed bones of increased mass. The resultant architecture of the bone assumes a mosaic pattern in which the fibers take on a haphazard pattern instead of the normal parallel symmetry.</Description>
+<Description>A disease of bone that initially results in the excessive resorption of bone (by osteoclasts) followed by the replacement of normal bone marrow with vascular and fibrous tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

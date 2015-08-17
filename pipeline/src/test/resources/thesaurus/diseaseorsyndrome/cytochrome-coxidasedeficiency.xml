@@ -1,0 +1,22 @@
+<Record>
+<Term>Cytochrome-c Oxidase Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Mitochondrial Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Cytochrome-c Oxidase Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Cytochrome-c Oxidase Deficiency</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<BroaderTerm>Cytochrome-c Oxidase Deficiency</BroaderTerm>
+<Synonym>Cytochrome-c Oxidase Deficiencies</Synonym>
+<Synonym>Cytochrome Oxidase Deficiencies</Synonym>
+<Synonym>Cytochrome c Oxidase Deficiency</Synonym>
+<Synonym>Cytochrome-c Oxidase Deficiency</Synonym>
+<Synonym>Cytochrome Oxidase Deficiency</Synonym>
+<Description>A disease that results from a congenital defect in ELECTRON TRANSPORT COMPLEX IV. Defects in ELECTRON TRANSPORT COMPLEX IV can be caused by mutations in the SURF1, SCO2, COX10, or SCO1 genes. ELECTRON TRANSPORT COMPLEX IV deficiency caused by mutation in SURF1 manifests itself as LEIGH DISEASE; that caused by mutation in SCO2 as fatal infantile cardioencephalomyopathy; that caused by mutation in COX10 as tubulopathy and leukodystrophy; and that caused by mutation in SCO1 as early-onset hepatic failure and neurologic disorder. (from Online Mendelian Inheritance in Man, http://www.ncbi.nlm.nih.gov/Omim, MIM#220110, May 17, 2001)</Description>
+<Source>MeSH</Source>
+</Record>

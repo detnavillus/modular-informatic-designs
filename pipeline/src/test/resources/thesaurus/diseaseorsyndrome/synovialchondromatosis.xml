@@ -1,0 +1,28 @@
+<Record>
+<Term>Synovial Chondromatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Chondromatosis, Synovial</ClassificationPath>
+<ClassificationPath>Synovial Chondromatosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Chondromatosis, Synovial</BroaderTerm>
+<BroaderTerm>Synovial Chondromatosis</BroaderTerm>
+<Synonym>Synovial Osteochondromatosis</Synonym>
+<Synonym>Henderson-Jones Syndrome</Synonym>
+<Synonym>Reichels Syndrome</Synonym>
+<Synonym>Synovial Osteochondromatoses</Synonym>
+<Synonym>Reichel's Syndrome</Synonym>
+<Synonym>Henderson Jones Syndrome</Synonym>
+<Synonym>Synovial Chondrometaplasia</Synonym>
+<Synonym>Synovial Chondrometaplasias</Synonym>
+<Synonym>Synovial Chondromatoses</Synonym>
+<Synonym>Synovial Chondromatosis</Synonym>
+<Synonym>Reichel Syndrome</Synonym>
+<Description>Rare, benign, chronic, progressive metaplasia in which cartilage is formed in the synovial membranes of joints, tendon sheaths, or bursae. Some of the metaplastic foci can become detached producing loose bodies. When the loose bodies undergo secondary calcification, the condition is called synovial osteochondromatosis.</Description>
+<Description>An uncommon, benign cartilaginous neoplasm usually occurring in adults.  The nodular tumor arises from the synovial membranes of joints.  It is characterized by the presence of chondrocytes, nuclear pleomorphism, and hyaline cartilage differentiation.  Clinical presentation may include joint pain, swelling, and limited range of motion.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

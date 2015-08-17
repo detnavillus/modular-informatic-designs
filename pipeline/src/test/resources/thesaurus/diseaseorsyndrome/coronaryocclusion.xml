@@ -1,0 +1,17 @@
+<Record>
+<Term>Coronary Occlusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Occlusion</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Occlusion</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Occlusion</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<Synonym>Coronary Occlusion</Synonym>
+<Synonym>Coronary Occlusions</Synonym>
+<Description>Complete blockage of blood flow through one of the CORONARY ARTERIES, usually from CORONARY ATHEROSCLEROSIS.</Description>
+<Source>MeSH</Source>
+</Record>

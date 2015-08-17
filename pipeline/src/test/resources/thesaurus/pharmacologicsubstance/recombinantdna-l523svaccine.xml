@@ -1,0 +1,17 @@
+<Record>
+<Term>Recombinant DNA-L523S Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Recombinant DNA-L523S Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant DNA-L523S Vaccine</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant DNA-L523S Vaccine</Synonym>
+<Synonym>pVAX/L523S</Synonym>
+<Description>A recombinant plasmid DNA encoding human L523S, a RNA-binding protein, belongs to the KOC (K homology domain containing protein over-expressed in cancer) family. L523S is normally expressed in early embryonic tissues. However, L523S also was overexpressed in, but not limited to, squamous cell cancers of the lung. Vaccination with DNA-L523S may stimulate a cytotoxic T lymphocytes (CTL) response against tumor cells that express L523S.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Splenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Splenic Rupture</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Rupture/Splenic Rupture/Splenosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Splenic Diseases/Splenic Rupture/Splenosis</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Abdominal Injuries/Splenic Rupture/Splenosis</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Abdominal Injuries</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Splenic Diseases</BroaderTerm>
+<BroaderTerm>Rupture</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Splenosis</BroaderTerm>
+<BroaderTerm>Splenic Rupture</BroaderTerm>
+<Synonym>Splenoses</Synonym>
+<Synonym>Splenosis</Synonym>
+<Description>The spontaneous transplantation of splenic tissue to unusual sites after open splenic trauma, e.g., after automobile accidents, gunshot or stab wounds. The splenic pulp implants appear as red-blue nodules on the peritoneum, omentum, and mesentery, morphologically similar to multifocal pelvic endometriosis. (Segen, Dictionary of Modern Medicine, 1992)</Description>
+<Source>MeSH</Source>
+</Record>

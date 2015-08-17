@@ -1,0 +1,49 @@
+<Record>
+<Term>Inborn Brain Diseases, Metabolic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Lysosomal Storage Diseases, Nervous System</ChildTerm>
+<ChildTerm>Phenylketonurias</ChildTerm>
+<ChildTerm>Pyruvate Carboxylase Deficiency Disease</ChildTerm>
+<ChildTerm>MERRF Syndrome</ChildTerm>
+<ChildTerm>Menkes Kinky Hair Syndrome</ChildTerm>
+<ChildTerm>Galactosemias</ChildTerm>
+<ChildTerm>Peroxisomal Disorders</ChildTerm>
+<ChildTerm>MELAS Syndrome</ChildTerm>
+<ChildTerm>Hyperlysinemias</ChildTerm>
+<ChildTerm>Homocystinuria</ChildTerm>
+<ChildTerm>Maple Syrup Urine Disease</ChildTerm>
+<ChildTerm>Leigh Disease</ChildTerm>
+<ChildTerm>Pyruvate Dehydrogenase Complex Deficiency Disease</ChildTerm>
+<ChildTerm>Oculocerebrorenal Syndrome</ChildTerm>
+<ChildTerm>Hyperglycinemia, Nonketotic</ChildTerm>
+<ChildTerm>Hartnup Disease</ChildTerm>
+<ChildTerm>Tyrosinemias</ChildTerm>
+<ChildTerm>Lesch-Nyhan Syndrome</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<ChildTerm>Urea Cycle Disorders, Inborn</ChildTerm>
+<ChildTerm>Cerebral Amyloid Angiopathy, Familial</ChildTerm>
+<Synonym>Central Nervous System Inborn Metabolic Diseases</Synonym>
+<Synonym>Inborn Metabolic Brain Disorders</Synonym>
+<Synonym>Inborn Metabolic Brain Diseases</Synonym>
+<Synonym>Inherited Metabolic Brain Diseases</Synonym>
+<Synonym>Central Nervous System Inborn Metabolic Disorders</Synonym>
+<Synonym>Familial Metabolic Brain Diseases</Synonym>
+<Description>Brain disorders resulting from inborn metabolic errors, primarily from enzymatic defects which lead to substrate accumulation, product reduction, or increase in toxic metabolites through alternate pathways. The majority of these conditions are familial, however spontaneous mutation may also occur in utero.</Description>
+<Source>MeSH</Source>
+</Record>

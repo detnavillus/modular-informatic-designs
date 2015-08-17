@@ -1,0 +1,14 @@
+<Record>
+<Term>Goat Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Goat Diseases</ClassificationPath>
+<BroaderTerm>Goat Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Goat Diseases</Synonym>
+<Synonym>Goat Disease</Synonym>
+<Synonym>Caprine Diseases</Synonym>
+<Synonym>Caprine Disease</Synonym>
+<Description>Diseases of the domestic or wild goat of the genus Capra.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Pestivirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Flaviviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Pestivirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Pestivirus Infections</BroaderTerm>
+<ChildTerm>Border Disease</ChildTerm>
+<ChildTerm>Bovine Virus Diarrhea-Mucosal Disease</ChildTerm>
+<ChildTerm>Hemorrhagic Syndrome, Bovine</ChildTerm>
+<ChildTerm>Classical Swine Fever</ChildTerm>
+<Synonym>Pestivirus Infections</Synonym>
+<Synonym>Pestivirus Infection</Synonym>
+<Description>Infections with viruses of the genus PESTIVIRUS, family FLAVIVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

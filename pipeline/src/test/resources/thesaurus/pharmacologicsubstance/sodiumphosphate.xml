@@ -1,0 +1,16 @@
+<Record>
+<Term>Sodium Phosphate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Sodium Phosphate</ClassificationPath>
+<BroaderTerm>Sodium Phosphate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SODIUM PHOSPHATE</Synonym>
+<Synonym>Sodium Phosphate</Synonym>
+<Description>An inorganic compound used as a laxative, dietary supplement and for electrolyte-replacement purposes. Phosphate, a predominant intracellular anion, plays an important role in energy storage, osteoblastic and osteoclastic activities, regulating serum calcium concentrations, and numerous cellular phosphate-transfer reactions. Sodium phosphate increases fluidity of the intestinal contents by retention of water by osmotic forces, thereby indirectly inducing intestinal smooth muscle constriction. Sodium phosphate is also used in the renal excretion of hydrogen ions while promoting the reabsorption of sodium ions.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

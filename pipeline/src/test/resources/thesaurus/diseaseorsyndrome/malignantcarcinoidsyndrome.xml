@@ -1,0 +1,24 @@
+<Record>
+<Term>Malignant Carcinoid Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Carcinoid Tumor</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Nerve Tissue/Neuroectodermal Tumors/Neuroendocrine Tumors/Carcinoid Tumor/Malignant Carcinoid Syndrome</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Germ Cell and Embryonal/Neuroectodermal Tumors/Neuroendocrine Tumors/Carcinoid Tumor/Malignant Carcinoid Syndrome</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Glandular and Epithelial/Carcinoma/Adenocarcinoma/Carcinoid Tumor/Malignant Carcinoid Syndrome</ClassificationPath>
+<BroaderTerm>Carcinoma</BroaderTerm>
+<BroaderTerm>Malignant Carcinoid Syndrome</BroaderTerm>
+<BroaderTerm>Neoplasms, Germ Cell and Embryonal</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Neuroendocrine Tumors</BroaderTerm>
+<BroaderTerm>Carcinoid Tumor</BroaderTerm>
+<BroaderTerm>Neuroectodermal Tumors</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Neoplasms, Glandular and Epithelial</BroaderTerm>
+<BroaderTerm>Adenocarcinoma</BroaderTerm>
+<BroaderTerm>Neoplasms, Nerve Tissue</BroaderTerm>
+<ChildTerm>Carcinoid Heart Disease</ChildTerm>
+<Synonym>Malignant Carcinoid Syndrome</Synonym>
+<Synonym>Malignant Carcinoid Syndromes</Synonym>
+<Description>A symptom complex associated with CARCINOID TUMOR and characterized by attacks of severe flushing of the skin, diarrheal watery stools, bronchoconstriction, sudden drops in blood pressure, edema, and ascites. The carcinoid tumors are usually located in the gastrointestinal tract and metastasize to the liver. Symptoms are caused by tumor secretion of serotonin, prostaglandins, and other biologically active substances. Cardiac manifestations constitute CARCINOID HEART DISEASE. (Dorland, 27th ed; Stedman, 25th ed)</Description>
+<Source>MeSH</Source>
+</Record>

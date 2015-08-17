@@ -1,0 +1,27 @@
+<Record>
+<Term>Tetanus Antitoxin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antitoxins</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immune Sera/Antitoxins/Tetanus Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Tetanus Antitoxin</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Antitoxins/Tetanus Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Antitoxins/Tetanus Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Tetanus Antitoxin</ClassificationPath>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Immune Sera</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Antitoxins</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Tetanus Antitoxin</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<Synonym>Tetanus Antitoxin</Synonym>
+<Description>An antitoxin used for the treatment of TETANUS.</Description>
+<Source>MeSH</Source>
+</Record>

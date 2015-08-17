@@ -1,0 +1,24 @@
+<Record>
+<Term>Radioactive Gold Colloid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Gold Radioisotopes</ParentTerm>
+<ParentTerm>Gold Colloid</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Isotopes/Gold Isotopes/Gold Radioisotopes/Gold Colloid, Radioactive</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Isotopes/Radioisotopes/Gold Radioisotopes/Gold Colloid, Radioactive</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Gold Compounds/Gold Colloid/Gold Colloid, Radioactive</ClassificationPath>
+<BroaderTerm>Gold Colloid, Radioactive</BroaderTerm>
+<BroaderTerm>Isotopes</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Gold Isotopes</BroaderTerm>
+<BroaderTerm>Gold Radioisotopes</BroaderTerm>
+<BroaderTerm>Gold Colloid</BroaderTerm>
+<BroaderTerm>Radioisotopes</BroaderTerm>
+<BroaderTerm>Gold Compounds</BroaderTerm>
+<Synonym>Radioactive Gold Colloid</Synonym>
+<Synonym>Radio Colloidal Gold</Synonym>
+<Synonym>Radio-Colloidal Gold</Synonym>
+<Description>A suspension of radioactive gold particles emitting negative beta particles and gamma irradiation. It was formerly used for liver scans and irradiation treatment of some metastatic malignancies.</Description>
+<Source>MeSH</Source>
+</Record>

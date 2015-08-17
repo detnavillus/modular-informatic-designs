@@ -1,0 +1,25 @@
+<Record>
+<Term>Diverticulitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Diverticulitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Diverticulitis</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Diverticulitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Gastric Diverticulitis</ChildTerm>
+<ChildTerm>Meckel Diverticulitis</ChildTerm>
+<Synonym>Diverticulitis</Synonym>
+<Synonym>Diverticulitides</Synonym>
+<Description>Inflammation of a DIVERTICULUM or diverticula.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

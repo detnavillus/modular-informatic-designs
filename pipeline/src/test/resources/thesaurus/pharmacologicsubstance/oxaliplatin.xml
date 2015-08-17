@@ -1,0 +1,41 @@
+<Record>
+<Term>Oxaliplatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Platinum Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Adduct Forming Agent/Platinum Compound/Oxaliplatin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Platinum Compound</BroaderTerm>
+<BroaderTerm>Oxaliplatin</BroaderTerm>
+<BroaderTerm>DNA Adduct Forming Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>[SP-4-2-(1R-trans)]-(1,2,cyclohexanediamine-N,N')[ethanedioato(2--)-O,O']platinum</Synonym>
+<Synonym>oxalato (1R,2R-cyclohexanediamine)platinum(II)</Synonym>
+<Synonym>SR-96669</Synonym>
+<Synonym>1-OHP</Synonym>
+<Synonym>OXALIPLATIN</Synonym>
+<Synonym>DACPLAT</Synonym>
+<Synonym>ELOXATIN</Synonym>
+<Synonym>RP-54780</Synonym>
+<Synonym>Eloxatine</Synonym>
+<Synonym>Dacplat</Synonym>
+<Synonym>Oxaliplatin</Synonym>
+<Synonym>oxaliplatin</Synonym>
+<Synonym>Eloxatin</Synonym>
+<Synonym>JM-83</Synonym>
+<Synonym>trans-l diaminocyclohexane oxalatoplatinum</Synonym>
+<Synonym>Oxalatoplatin</Synonym>
+<Synonym>RP 54780</Synonym>
+<Synonym>[(1R,-2R)-1,2-cyclohexanediamine-N,N'][oxalato (2--)-O,O']platinum</Synonym>
+<Synonym>Diaminocyclohexane Oxalatoplatinum</Synonym>
+<Synonym>Dacotin</Synonym>
+<Synonym>oxalato (trans-l-1,2-diaminocyclohexane)platinum(II)</Synonym>
+<Synonym>Oxalatoplatinum</Synonym>
+<Synonym>trans-l DACH oxalatoplatinum</Synonym>
+<Description>An organoplatinum complex in which the platinum atom is complexed with 1,2-diaminocyclohexane (DACH) and with an oxalate ligand as a 'leaving group.' A 'leaving group' is an atom or a group of atoms that is displaced as a stable species taking with it the bonding electrons. After displacement of the labile oxalate ligand leaving group, active oxaliplatin derivatives, such as monoaquo and diaquo DACH platinum, alkylate macromolecules, forming both inter- and intra-strand platinum-DNA crosslinks, which result in inhibition of DNA replication and transcription and cell-cycle nonspecific cytotoxicity. The DACH side chain appears to inhibit alkylating-agent resistance. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

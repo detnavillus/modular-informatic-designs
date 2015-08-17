@@ -1,0 +1,17 @@
+<Record>
+<Term>BMS-599626</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor/BMS-599626</ClassificationPath>
+<BroaderTerm>BMS-599626</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BMS-599626</Synonym>
+<Description>An orally bioavailable pan-HER tyrosine kinase inhibitor with potential antineoplastic activity. BMS-599626 inhibits human epidermal growth factor receptors (HER) HER1, HER2 and HER4, thereby inhibiting the proliferation of tumor cells that overexpress these receptors. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

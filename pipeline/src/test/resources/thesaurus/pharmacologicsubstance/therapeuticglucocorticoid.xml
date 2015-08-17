@@ -1,0 +1,105 @@
+<Record>
+<Term>Therapeutic Glucocorticoid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Corticosteroid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Flumedroxone</ChildTerm>
+<ChildTerm>Prednisolone Sodium Succinate</ChildTerm>
+<ChildTerm>Methylprednisolone Sodium Succinate</ChildTerm>
+<ChildTerm>Methylprednisolone</ChildTerm>
+<ChildTerm>Zoticasone</ChildTerm>
+<ChildTerm>Diflucortolone Pivalate</ChildTerm>
+<ChildTerm>Fluocinonide</ChildTerm>
+<ChildTerm>Alclometasone Dipropionate</ChildTerm>
+<ChildTerm>Betamethasone Acetate</ChildTerm>
+<ChildTerm>Betamethasone</ChildTerm>
+<ChildTerm>Paramethasone Acetate</ChildTerm>
+<ChildTerm>Triamcinolone Hexacetonide</ChildTerm>
+<ChildTerm>Hydrocortisone Acetate</ChildTerm>
+<ChildTerm>Diflorasone Diacetate</ChildTerm>
+<ChildTerm>Methylprednisolone Acetate</ChildTerm>
+<ChildTerm>Hydrocortamate</ChildTerm>
+<ChildTerm>Triamcinolone</ChildTerm>
+<ChildTerm>Dexamethasone Acetate</ChildTerm>
+<ChildTerm>Doxibetasol</ChildTerm>
+<ChildTerm>Clocortolone</ChildTerm>
+<ChildTerm>Amcinonide</ChildTerm>
+<ChildTerm>Loteprednol Etabonate</ChildTerm>
+<ChildTerm>Diflorasone</ChildTerm>
+<ChildTerm>Desonide</ChildTerm>
+<ChildTerm>Mometasone Furoate</ChildTerm>
+<ChildTerm>Fluticasone</ChildTerm>
+<ChildTerm>Beclomethasone Dipropionate</ChildTerm>
+<ChildTerm>Prednisolone Acetate</ChildTerm>
+<ChildTerm>Betamethasone Dipropionate</ChildTerm>
+<ChildTerm>Betamethasone Acibutate</ChildTerm>
+<ChildTerm>Triamcinolone Acetonide</ChildTerm>
+<ChildTerm>Dexamethasone Sodium Phosphate</ChildTerm>
+<ChildTerm>Prednisolone Valerate Acetate</ChildTerm>
+<ChildTerm>Desoxycorticosterone Acetate</ChildTerm>
+<ChildTerm>Hydrocortisone Valerate</ChildTerm>
+<ChildTerm>Hydrocortisone Hemisuccinate</ChildTerm>
+<ChildTerm>Desoximetasone</ChildTerm>
+<ChildTerm>Hydrocortisone Butyrate</ChildTerm>
+<ChildTerm>Fludrocortisone</ChildTerm>
+<ChildTerm>Hydrocortamate Hydrochloride</ChildTerm>
+<ChildTerm>Beclomethasone</ChildTerm>
+<ChildTerm>Triamcinolone Diacetate</ChildTerm>
+<ChildTerm>Halcinonide</ChildTerm>
+<ChildTerm>Halobetasol Propionate</ChildTerm>
+<ChildTerm>Prednisone</ChildTerm>
+<ChildTerm>Flumethasone Pivalate</ChildTerm>
+<ChildTerm>Therapeutic Hydrocortisone</ChildTerm>
+<ChildTerm>Clobetasol</ChildTerm>
+<ChildTerm>Prednisolone Sodium Phosphate</ChildTerm>
+<ChildTerm>Halobetasol</ChildTerm>
+<ChildTerm>Mometasone</ChildTerm>
+<ChildTerm>Medrysone</ChildTerm>
+<ChildTerm>Fluocinolone</ChildTerm>
+<ChildTerm>Therapeutic Cortisone</ChildTerm>
+<ChildTerm>Fluprednisolone</ChildTerm>
+<ChildTerm>Prednisolone</ChildTerm>
+<ChildTerm>Fluorometholone Acetate</ChildTerm>
+<ChildTerm>Budesonide</ChildTerm>
+<ChildTerm>Fluocinolone Acetonide</ChildTerm>
+<ChildTerm>Domoprednate</ChildTerm>
+<ChildTerm>Beclomethasone Dipropionate Monohydrate</ChildTerm>
+<ChildTerm>Hydrocortisone Probutate</ChildTerm>
+<ChildTerm>Oxisopred</ChildTerm>
+<ChildTerm>Meprednisone</ChildTerm>
+<ChildTerm>Betamethasone Benzoate</ChildTerm>
+<ChildTerm>Betamethasone Sodium Phosphate</ChildTerm>
+<ChildTerm>Clobetasol Propionate</ChildTerm>
+<ChildTerm>Ciclesonide</ChildTerm>
+<ChildTerm>Paramethasone</ChildTerm>
+<ChildTerm>Flunisolide</ChildTerm>
+<ChildTerm>Prednisolone Tebutate</ChildTerm>
+<ChildTerm>Clocortolone Pivalate</ChildTerm>
+<ChildTerm>Fluorometholone</ChildTerm>
+<ChildTerm>Prednicarbate</ChildTerm>
+<ChildTerm>Budesonide:Formoterol Fumarate Dihydrate Inhalation Aerosol</ChildTerm>
+<ChildTerm>Cortisone Acetate</ChildTerm>
+<ChildTerm>Flumethasone</ChildTerm>
+<ChildTerm>Dexamethasone</ChildTerm>
+<ChildTerm>Rimexolone</ChildTerm>
+<ChildTerm>Flurandrenolide</ChildTerm>
+<ChildTerm>Prednisolone Sodium Metasulphobenzoate</ChildTerm>
+<ChildTerm>Betamethasone Valerate</ChildTerm>
+<ChildTerm>Desoxycorticosterone Pivalate</ChildTerm>
+<ChildTerm>Fluticasone Propionate</ChildTerm>
+<ChildTerm>Alclometasone</ChildTerm>
+<ChildTerm>Amebucort</ChildTerm>
+<ChildTerm>Fludrocortisone Acetate</ChildTerm>
+<Synonym>Glucocorticoid</Synonym>
+<Synonym>Therapeutic Glucocorticoid</Synonym>
+<Description>Synthetically derived forms of the naturally occurring Glucocorticoids.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

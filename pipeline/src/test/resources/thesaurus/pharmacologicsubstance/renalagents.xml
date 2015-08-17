@@ -1,0 +1,15 @@
+<Record>
+<Term>Renal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Renal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Renal Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Anti-Infective Agents, Urinary</ChildTerm>
+<ChildTerm>Uricosuric Agents</ChildTerm>
+<Synonym>Renal Agents</Synonym>
+<Description>Drugs used for their effects on the kidneys' regulation of body fluid composition and volume. The most commonly used are the diuretics. Also included are drugs used for their antidiuretic and uricosuric actions, for their effects on the kidneys' clearance of other drugs, and for diagnosis of renal function.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Mite Infestations</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ectoparasitic Infestations</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Ectoparasitic Infestations/Mite Infestations</ClassificationPath>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Mite Infestations</BroaderTerm>
+<BroaderTerm>Ectoparasitic Infestations</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Scabies</ChildTerm>
+<ChildTerm>Trombiculiasis</ChildTerm>
+<Synonym>Mite Infestations</Synonym>
+<Synonym>Mite Infestation</Synonym>
+<Synonym>Acariasis</Synonym>
+<Synonym>Mange</Synonym>
+<Description>Infestations with arthropods of the subclass ACARI, superorder Acariformes.</Description>
+<Source>MeSH</Source>
+</Record>

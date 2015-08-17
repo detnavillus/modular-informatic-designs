@@ -1,0 +1,22 @@
+<Record>
+<Term>Bulimia Nervosa</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ParentTerm>Eating Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Bulimia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Eating Disorders/Bulimia Nervosa</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Eating Disorders</BroaderTerm>
+<BroaderTerm>Bulimia Nervosa</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Bulimia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Bulimia Nervosa</Synonym>
+<Synonym>Bulimia</Synonym>
+<Description>An eating disorder that is characterized by a cycle of binge eating (BULIMIA or bingeing) followed by inappropriate acts (purging) to avert weight gain. Purging methods often include self-induced VOMITING, use of LAXATIVES or DIURETICS, excessive exercise, and FASTING.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

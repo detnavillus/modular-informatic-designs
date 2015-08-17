@@ -1,0 +1,23 @@
+<Record>
+<Term>Trigger Finger Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tendon Entrapment</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Tendinopathy/Tenosynovitis/Tendon Entrapment/Trigger Finger Disorder</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Tenosynovitis</BroaderTerm>
+<BroaderTerm>Tendon Entrapment</BroaderTerm>
+<BroaderTerm>Tendinopathy</BroaderTerm>
+<BroaderTerm>Trigger Finger Disorder</BroaderTerm>
+<Synonym>Trigger Finger Disorder</Synonym>
+<Synonym>Trigger Digits</Synonym>
+<Synonym>Trigger Digit</Synonym>
+<Synonym>Snapping Finger</Synonym>
+<Synonym>Snapping Fingers</Synonym>
+<Synonym>Flexor Tendon Entrapment</Synonym>
+<Synonym>Flexor Tendon Entrapments</Synonym>
+<Synonym>Trigger Thumb</Synonym>
+<Synonym>Trigger Thumbs</Synonym>
+<Description>A painful disability in the hand affecting the finger or thumb. It is caused by mechanical impingement of the digital flexor tendons as they pass through a narrowed retinacular pulley at the level of the metacarpal head. Thickening of the sheath and fibrocartilaginous metaplasia can occur, and nodules can form. (From Green's Operative Hand Surgery, 5th ed, p2137-58).</Description>
+<Source>MeSH</Source>
+</Record>

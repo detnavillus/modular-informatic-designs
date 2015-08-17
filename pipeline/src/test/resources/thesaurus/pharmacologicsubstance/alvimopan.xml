@@ -1,0 +1,21 @@
+<Record>
+<Term>Alvimopan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Opiate Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opiate Antagonist/Alvimopan</ClassificationPath>
+<BroaderTerm>Alvimopan</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Opiate Antagonist</BroaderTerm>
+<Synonym>Alvimopan</Synonym>
+<Synonym>ADL8-2698</Synonym>
+<Synonym>LY-246376</Synonym>
+<Synonym>ALVIMOPAN</Synonym>
+<Synonym>Entereg</Synonym>
+<Description>A synthetic trans-3,4-dimethyl-4-(3-hydroxyphenyl) piperidine with peripherally selective opioid mu receptor antagonist activity. Alvimopan is a selective and competitive antagonist at mu-opioid receptors, found in myenteric and submucosal neurons and the immune cells of the lamina propria in the human gut. Upon administration, this agent binds to mu-opioid receptors in the gut, thereby reversing opioid-related disturbances in gut motility. Alvimopan is approximately three to nine times more potent than naloxone.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

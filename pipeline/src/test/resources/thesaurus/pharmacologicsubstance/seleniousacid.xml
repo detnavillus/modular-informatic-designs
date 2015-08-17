@@ -1,0 +1,13 @@
+<Record>
+<Term>Selenious Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Selenium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Selenium Compounds/Selenious Acid</ClassificationPath>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Selenious Acid</BroaderTerm>
+<BroaderTerm>Selenium Compounds</BroaderTerm>
+<Synonym>Selenious Acid</Synonym>
+<Description>A selenium compound used as a source of SELENIUM, especially for patients that develop selenium deficiency following prolonged PARENTERAL NUTRITION.</Description>
+<Source>MeSH</Source>
+</Record>

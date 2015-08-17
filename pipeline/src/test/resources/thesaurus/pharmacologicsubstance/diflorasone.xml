@@ -1,0 +1,32 @@
+<Record>
+<Term>Diflorasone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Diflorasone Diacetate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Diflorasone</ClassificationPath>
+<BroaderTerm>Diflorasone Diacetate</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Diflorasone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Psorcon</Synonym>
+<Synonym>Diflorasone Diacetate</Synonym>
+<Synonym>DIFLORASONE DIACETATE</Synonym>
+<Synonym>6alpha-Fluorobetamethasone-17,21 Diacetate</Synonym>
+<Synonym>Florone</Synonym>
+<Synonym>Diflorasone diacetate</Synonym>
+<Synonym>6alpha,9-Difluoro-11beta,17,21-trihydroxy-16beta-methylpregna-1,4-diene-3,20-dione 17,21-Diacetate</Synonym>
+<Synonym>Psorcon e</Synonym>
+<Synonym>Florone e</Synonym>
+<Synonym>Diflorasone</Synonym>
+<Synonym>DIFLORASONE</Synonym>
+<Description>The acetate salt form of diflorasone, a synthetic glucocorticoid with anti-inflammatory and immunosuppressive properties. Like other glucocorticoids, diflorasone enters the cell by diffusion across the cell membrane and binds to the glucocorticoid receptor (GR) in the cytoplasm. The receptor complex subsequently translocates to the nucleus and activates or represses genes by interacting with short, palindromic DNA sequences called glucocorticoid response element (GRE). Gene activation leads to the exertion of anti-inflammatory effects, e.g. upregulation of IkappaB, while gene repression inhibits production of pro-inflammatory cytokines such as interleukin-1 (IL-1), IL-2 and IL-6, thereby preventing activation of cytotoxic T-lymphocytes.</Description>
+<Description>A synthetic glucocorticoid with anti-inflammatory and immunosuppressive properties. Like other glucocorticoids, diflorasone enters the cell by diffusion across the cell membrane and binds to the glucocorticoid receptor (GR) in the cytoplasm. The receptor complex subsequently translocates to the nucleus and activates or represses genes by interacting with short, palindromic DNA sequences called glucocorticoid response element (GRE). Gene activation leads to the exertion of anti-inflammatory effects, e.g. upregulation of IkappaB, while gene repression inhibits production of pro-inflammatory cytokines such as interleukin-1 (IL-1), IL-2 and IL-6, thereby preventing activation of cytotoxic T-lymphocytes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

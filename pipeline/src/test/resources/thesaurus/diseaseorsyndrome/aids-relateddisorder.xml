@@ -1,0 +1,32 @@
+<Record>
+<Term>AIDS-Related Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunodeficiency-Related Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/AIDS-Related Disorder</ClassificationPath>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>AIDS-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AIDS-Related Isosporiasis</ChildTerm>
+<ChildTerm>AIDS-Related Toxoplasmosis</ChildTerm>
+<ChildTerm>AIDS-Related Enterocolitis</ChildTerm>
+<ChildTerm>AIDS-Related Vulvovaginal Candidiasis</ChildTerm>
+<ChildTerm>HIV-Associated Nephropathy</ChildTerm>
+<ChildTerm>AIDS-Related Idiopathic Thrombocytopenic Purpura</ChildTerm>
+<ChildTerm>AIDS Encephalopathy</ChildTerm>
+<ChildTerm>AIDS-Related Herpes Zoster</ChildTerm>
+<ChildTerm>AIDS-Related Oropharyngeal Candidiasis</ChildTerm>
+<ChildTerm>AIDS-Related Cryptococcosis</ChildTerm>
+<ChildTerm>AIDS-Related Retinopathy</ChildTerm>
+<ChildTerm>AIDS-Related Pelvic Inflammatory Disease</ChildTerm>
+<ChildTerm>Oral Cavity Hairy Leukoplakia</ChildTerm>
+<ChildTerm>AIDS-Related Pneumocystis Carinii Pneumonia</ChildTerm>
+<Synonym>AIDS-Related Disorder</Synonym>
+<Synonym>Disease Associated with AIDS</Synonym>
+<Synonym>Diseases Associated with AIDS</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

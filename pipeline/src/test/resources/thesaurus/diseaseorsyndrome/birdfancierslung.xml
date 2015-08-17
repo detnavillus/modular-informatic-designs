@@ -1,0 +1,47 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alveolitis, Extrinsic Allergic</ParentTerm>
+<ParentTerm>Extrinsic Allergic Alveolitis</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic/Bird Fancier's Lung</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Alveolitis, Extrinsic Allergic/Bird Fancier's Lung</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic/Bird Fancier's Lung</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Alveolitis/Extrinsic Allergic Alveolitis/Bird Fancier's Lung</ClassificationPath>
+<BroaderTerm>Bird Fancier's Lung</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Alveolitis, Extrinsic Allergic</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Alveolitis</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Extrinsic Allergic Alveolitis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Bird Fancier's Lung</Synonym>
+<Synonym>Bird Fanciers Lung</Synonym>
+<Synonym>Avian Hypersensitivity Pneumonitis</Synonym>
+<Synonym>Avian Hypersensitivity Pneumonitides</Synonym>
+<Synonym>Pigeon Breeder's Lung</Synonym>
+<Synonym>Budgerigar Fancier's Lungs</Synonym>
+<Synonym>Bird Fancier's Lungs</Synonym>
+<Synonym>Budgerigar Fancier Lung</Synonym>
+<Synonym>Pigeon Breeder's Lungs</Synonym>
+<Synonym>Budgerigar Fanciers Lung</Synonym>
+<Synonym>Pigeon Breeder Lung</Synonym>
+<Synonym>Pigeon Breeders Lung</Synonym>
+<Synonym>Budgerigar Fancier's Lung</Synonym>
+<Synonym>Bird Fancier Lung</Synonym>
+<Description>A form of alveolitis or pneumonitis due to an acquired hypersensitivity to inhaled avian antigens, usually proteins in the dust of bird feathers and droppings.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

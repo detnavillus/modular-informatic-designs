@@ -1,0 +1,19 @@
+<Record>
+<Term>DL-Alanine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Non-Essential Amino Acid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid/Non-Essential Amino Acid/DL-Alanine</ClassificationPath>
+<BroaderTerm>Amino Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>DL-Alanine</BroaderTerm>
+<BroaderTerm>Non-Essential Amino Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ALANINE, DL-</Synonym>
+<Synonym>DL-2-Aminopropionic Acid</Synonym>
+<Synonym>DL-Alanine</Synonym>
+<Description>A racemic mixture of alanine, a non-essential alpha-amino acid. Alanine is one of the most common residues for protein synthesis and is involved in the metabolism of tryptophan and vitamin pyridoxine. Furthermore, alanine is an important source of energy for muscles and central nervous system. It strengthens the immune system, helps in the metabolism of sugars and organic acids, and displays a cholesterol-reducing effect in animals.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

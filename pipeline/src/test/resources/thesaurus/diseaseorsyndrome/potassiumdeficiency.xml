@@ -1,0 +1,15 @@
+<Record>
+<Term>Potassium Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Deficiency Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Potassium Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Potassium Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<Synonym>Potassium Deficiency</Synonym>
+<Synonym>Potassium Deficiencies</Synonym>
+<Description>A condition due to decreased dietary intake of potassium, as in starvation or failure to administer in intravenous solutions, or to gastrointestinal loss in diarrhea, chronic laxative abuse, vomiting, gastric suction, or bowel diversion. Severe potassium deficiency may produce muscular weakness and lead to paralysis and respiratory failure. Muscular malfunction may result in hypoventilation, paralytic ileus, hypotension, muscle twitches, tetany, and rhabomyolysis. Nephropathy from potassium deficit impairs the concentrating mechanism, producing polyuria and decreased maximal urinary concentrating ability with secondary polydipsia. (Merck Manual, 16th ed)</Description>
+<Source>MeSH</Source>
+</Record>

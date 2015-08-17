@@ -1,0 +1,24 @@
+<Record>
+<Term>Physiological Sexual Dysfunction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexual Dysfunction, Physiological</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexual Dysfunction, Physiological</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction, Physiological</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Erectile Dysfunction</ChildTerm>
+<ChildTerm>Vaginismus</ChildTerm>
+<ChildTerm>Dyspareunia</ChildTerm>
+<Synonym>Sex Disorders</Synonym>
+<Synonym>Physiological Sexual Disorder</Synonym>
+<Synonym>Physiological Sexual Disorders</Synonym>
+<Synonym>Physiological Sexual Dysfunction</Synonym>
+<Synonym>Physiological Sexual Dysfunctions</Synonym>
+<Description>Physiological disturbances in normal sexual performance in either the male or the female.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Nesidioblastosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Endocrine Pancreas Disorder</ParentTerm>
+<ParentTerm>Pancreatic Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Pancreatic Disorder/Endocrine Pancreas Disorder/Nesidioblastosis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Nesidioblastosis</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nesidioblastosis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Endocrine Pancreas Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Nesidioblastosis</Synonym>
+<Synonym>Pancreatic Nesidioblastosis</Synonym>
+<Synonym>Nesidioblastosis of Pancreas</Synonym>
+<Synonym>Islet Cell Adenomatosis</Synonym>
+<Description>An inherited autosomal recessive syndrome characterized by the disorganized formation of new islets in the PANCREAS and PERSISTENT HYPERINSULINEMIA HYPOGLYCEMIA OF INFANCY. It is due to focal hyperplasia of pancreatic ISLET CELLS budding off from the ductal structures and forming new islets of Langerhans. Mutations in the islet cells involve the potassium channel gene KCNJ11 or the ATP-binding cassette transporter gene ABCC8, both on CHROMOSOME 11.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

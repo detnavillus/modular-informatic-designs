@@ -1,0 +1,17 @@
+<Record>
+<Term>ZD4054</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Endothelin Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Miscellaneous Angiogenesis Inhibitor/Endothelin Receptor Antagonist/ZD4054</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>ZD4054</BroaderTerm>
+<BroaderTerm>Endothelin Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ZD4054</Synonym>
+<Description>An orally available selective antagonist of the endothelin-A (ET-A) receptor with potential antineoplastic activity. ZD4054 binds selectively to the ET-A receptor, thereby inhibiting endothelin-mediated mechanisms that promote tumor cell proliferation. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

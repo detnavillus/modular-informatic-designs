@@ -1,0 +1,48 @@
+<Record>
+<Term>Antidiarrheals</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Gastrointestinal Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidiarrheal Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Gastrointestinal Agents/Antidiarrheals</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Gastrointestinal Agents</BroaderTerm>
+<BroaderTerm>Antidiarrheals</BroaderTerm>
+<BroaderTerm>Antidiarrheal Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Attapulgite</ChildTerm>
+<ChildTerm>Alosetron Hydrochloride</ChildTerm>
+<ChildTerm>Mebiquine</ChildTerm>
+<ChildTerm>Calcium Polycarbophil</ChildTerm>
+<ChildTerm>Loperamide</ChildTerm>
+<ChildTerm>Difenoxin Hydrochloride</ChildTerm>
+<ChildTerm>Difenoxin</ChildTerm>
+<ChildTerm>Racecadotril</ChildTerm>
+<ChildTerm>Bismuth Subsalicylate</ChildTerm>
+<ChildTerm>Loperamide Hydrochloride</ChildTerm>
+<ChildTerm>Diphenoxylate</ChildTerm>
+<ChildTerm>Fluperamide</ChildTerm>
+<ChildTerm>Diethylhomospermine</ChildTerm>
+<ChildTerm>Zaldaride</ChildTerm>
+<ChildTerm>Diphenoxylate Hydrochloride</ChildTerm>
+<Synonym>Antidiarrhea Agents</Synonym>
+<Synonym>Antiperistaltics</Synonym>
+<Synonym>Antidiarrhea Drugs</Synonym>
+<Synonym>Antidiarrheas</Synonym>
+<Synonym>Antidiarrheals</Synonym>
+<Synonym>Antidiarrheal Agents</Synonym>
+<Synonym>Antidiarrheal Agent</Synonym>
+<Synonym>Antiperistaltic Agents</Synonym>
+<Synonym>Antiperistaltic Drugs</Synonym>
+<Synonym>Antidiarrheal Drugs</Synonym>
+<Description>Miscellaneous agents found useful in the symptomatic treatment of diarrhea. They have no effect on the agent(s) that cause diarrhea, but merely alleviate the condition. (MeSH)</Description>
+<Description>Miscellaneous agents found useful in the symptomatic treatment of diarrhea. They have no effect on the agent(s) that cause diarrhea, but merely alleviate the condition.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Paranasal Sinus Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Paranasal Sinus Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Nasal Cavity and Paranasal Sinus Disorder/Paranasal Sinus Disorder/Paranasal Sinus Polyp</ClassificationPath>
+<BroaderTerm>Paranasal Sinus Polyp</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Polyp,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Frontal Sinus Polyp</ChildTerm>
+<ChildTerm>Ethmoid Sinus Polyp</ChildTerm>
+<ChildTerm>Maxillary Sinus Polyp</ChildTerm>
+<ChildTerm>Sphenoid Sinus Polyp</ChildTerm>
+<Synonym>Accessory Sinus Polyp</Synonym>
+<Synonym>Paranasal Sinus Polyp</Synonym>
+<Synonym>Polyp of Accessory Sinus</Synonym>
+<Synonym>Polyp of Paranasal Sinus</Synonym>
+<Synonym>Polyp of the Accessory Sinus</Synonym>
+<Synonym>Polyp of the Paranasal Sinus</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

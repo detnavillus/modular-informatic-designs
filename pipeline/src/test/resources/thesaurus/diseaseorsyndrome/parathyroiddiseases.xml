@@ -1,0 +1,17 @@
+<Record>
+<Term>Parathyroid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases</ClassificationPath>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Hypoparathyroidism</ChildTerm>
+<ChildTerm>Hyperparathyroidism</ChildTerm>
+<ChildTerm>Parathyroid Neoplasms</ChildTerm>
+<Synonym>Parathyroid Diseases</Synonym>
+<Synonym>Parathyroid Disease</Synonym>
+<Synonym>Parathyroid Disorders</Synonym>
+<Synonym>Parathyroid Disorder</Synonym>
+<Description>Pathological processes of the PARATHYROID GLANDS. They usually manifest as hypersecretion or hyposecretion of PARATHYROID HORMONE that regulates the balance of CALCIUM; PHOSPHORUS; and MAGNESIUM in the body.</Description>
+<Source>MeSH</Source>
+</Record>

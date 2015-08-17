@@ -1,0 +1,17 @@
+<Record>
+<Term>Neuromuscular Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peripheral Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Neuromuscular Agents</ClassificationPath>
+<BroaderTerm>Neuromuscular Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Neuromuscular Blocking Agents</ChildTerm>
+<ChildTerm>Muscle Relaxants, Central</ChildTerm>
+<Synonym>Neuromuscular Agents</Synonym>
+<Synonym>Skeletal Muscle Relaxants</Synonym>
+<Description>Drugs used for their actions on skeletal muscle. Included are agents that act directly on skeletal muscle, those that alter neuromuscular transmission (NEUROMUSCULAR BLOCKING AGENTS), and drugs that act centrally as skeletal muscle relaxants (MUSCLE RELAXANTS, CENTRAL). Drugs used in the treatment of movement disorders are ANTI-DYSKINESIA AGENTS.</Description>
+<Source>MeSH</Source>
+</Record>

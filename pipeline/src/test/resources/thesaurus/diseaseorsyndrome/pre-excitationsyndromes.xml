@@ -1,0 +1,20 @@
+<Record>
+<Term>Pre-Excitation Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmias, Cardiac</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Pre-Excitation Syndromes</ClassificationPath>
+<BroaderTerm>Pre-Excitation Syndromes</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Pre-Excitation, Mahaim-Type</ChildTerm>
+<ChildTerm>Wolff-Parkinson-White Syndrome</ChildTerm>
+<ChildTerm>Lown-Ganong-Levine Syndrome</ChildTerm>
+<Synonym>Pre-Excitation Syndromes</Synonym>
+<Synonym>Pre Excitation Syndromes</Synonym>
+<Synonym>Pre-Excitation Syndrome</Synonym>
+<Synonym>Preexcitation Syndrome</Synonym>
+<Synonym>Preexcitation Syndromes</Synonym>
+<Description>A group of conditions in which HEART VENTRICLE activation by the atrial impulse is faster than the normal impulse conduction from the SINOATRIAL NODE. In these pre-excitation syndromes, atrial impulses often bypass the ATRIOVENTRICULAR NODE delay and travel via accessory pathways connecting the atrium directly to the BUNDLE OF HIS.</Description>
+<Source>MeSH</Source>
+</Record>

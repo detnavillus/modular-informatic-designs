@@ -1,0 +1,33 @@
+<Record>
+<Term>Calusterone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Anabolic Steroid/Calusterone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen/Calusterone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Calusterone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Anabolic Steroid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Calusterone,</BroaderTerm>
+<Synonym>17 Beta-OH-7 beta, 17 alpha-dimethyl-androst-4-ene-3-one</Synonym>
+<Synonym>17-Beta-hydroxy-7-beta, 17-dimethylandrost-4-ene-3-one</Synonym>
+<Synonym>7 Beta, 17 Alpha-dimethyltestosterone</Synonym>
+<Synonym>7-.beta.-17-.alpha.-dimethyltestosterone</Synonym>
+<Synonym>7.beta., 17.alpha.-Dimethyltestosterone</Synonym>
+<Synonym>Androst-4-en-3-one, 17-hydroxy-7,17-dimethyl-, (7.beta., 17.beta.)- (9CI)</Synonym>
+<Synonym>Androst-4-en-3-one, 17-hydroxy-7,17-dimethyl-, (7.beta.17.beta.)- (9CI)</Synonym>
+<Synonym>Androst-4-en-3-one, 17.beta.-hydroxy-7.beta.,17-dimethyl- (8CI)</Synonym>
+<Synonym>Androst-4-en-3-one, 7.beta., 17.alpha.-dimethyl-17.beta.-hydroxy-</Synonym>
+<Synonym>CALUSTERONE</Synonym>
+<Synonym>Calusterone</Synonym>
+<Synonym>Dimethyltestosterone</Synonym>
+<Synonym>Methosarb</Synonym>
+<Synonym>U-22,550</Synonym>
+<Description>A 17-alkylated orally active androgenic steroid. Calusterone may alter the metabolism of estradiol and reduce estrogen production. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

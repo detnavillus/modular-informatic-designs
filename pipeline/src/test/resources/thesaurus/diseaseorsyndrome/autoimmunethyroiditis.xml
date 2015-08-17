@@ -1,0 +1,46 @@
+<Record>
+<Term>Autoimmune Thyroiditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroiditis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Lymphocytic Thyroiditis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Thyroiditis/Lymphocytic Thyroiditis/Hashimoto Thyroiditis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Hashimoto Thyroiditis</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroiditis/Thyroiditis, Autoimmune</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Thyroiditis, Autoimmune</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Hashimoto Thyroiditis</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Thyroiditis, Autoimmune</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thyroiditis</BroaderTerm>
+<BroaderTerm>Hashimoto Thyroiditis,</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Lymphocytic Thyroiditis</BroaderTerm>
+<ChildTerm>Postpartum Thyroiditis</ChildTerm>
+<ChildTerm>Hashimoto Disease</ChildTerm>
+<Synonym>Autoimmune Thyroiditides</Synonym>
+<Synonym>Lymphomatous Thyroiditides</Synonym>
+<Synonym>Lymphocytic Thyroiditides</Synonym>
+<Synonym>Lymphomatous Thyroiditis</Synonym>
+<Synonym>Hashimoto's Thyroiditis</Synonym>
+<Synonym>Autoimmune Thyroiditis</Synonym>
+<Synonym>Hashimoto Thyroiditis</Synonym>
+<Synonym>Lymphocytic Thyroiditis</Synonym>
+<Description>Inflammatory disease of the THYROID GLAND due to autoimmune responses leading to lymphocytic infiltration of the gland. It is characterized by the presence of circulating thyroid antigen-specific T-CELLS and thyroid AUTOANTIBODIES. The clinical signs can range from HYPOTHYROIDISM to THYROTOXICOSIS depending on the type of autoimmune thyroiditis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Gouty Arthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gout</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Gout/Arthritis, Gouty</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors/Gout/Arthritis, Gouty</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Gout/Arthritis, Gouty</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors/Gout/Arthritis, Gouty</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Gout</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Purine-Pyrimidine Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Arthritis, Gouty</BroaderTerm>
+<Synonym>Gouty Arthritis</Synonym>
+<Synonym>Gouty Arthritides</Synonym>
+<Description>Arthritis, especially of the great toe, as a result of gout. Acute gouty arthritis often is precipitated by trauma, infection, surgery, etc. The initial attacks are usually monoarticular but later attacks are often polyarticular.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Familial Cardiomyopathy, Hypertrophic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Cardiomyopathy, Hypertrophic</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Cardiomyopathy, Hypertrophic/Cardiomyopathy, Hypertrophic, Familial</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Cardiomyopathy, Hypertrophic, Familial</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Hypertrophic</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Hypertrophic, Familial</BroaderTerm>
+<Synonym>Familial Ventricular Hypertrophies</Synonym>
+<Synonym>Hereditary Ventricular Hypertrophy</Synonym>
+<Synonym>Familial Hypertrophic Cardiomyopathies</Synonym>
+<Synonym>Familial Hypertrophic Cardiomyopathy</Synonym>
+<Synonym>Familial Ventricular Hypertrophy</Synonym>
+<Synonym>Hereditary Ventricular Hypertrophies</Synonym>
+<Description>An autosomal dominant inherited form of HYPERTROPHIC CARDIOMYOPATHY. It results from any of more than 50 mutations involving genes encoding contractile proteins such as VENTRICULAR MYOSINS; cardiac TROPONIN T; ALPHA-TROPOMYOSIN.</Description>
+<Source>MeSH</Source>
+</Record>

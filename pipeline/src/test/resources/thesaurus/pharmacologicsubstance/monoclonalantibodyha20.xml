@@ -1,0 +1,15 @@
+<Record>
+<Term>Monoclonal Antibody hA20</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody hA20</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody hA20</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Monoclonal Antibody hA20</Synonym>
+<Description>A monoclonal antibody directed against the CD20 antigen with potential antineoplastic activity. Monoclonal antibody hA20 (mAb hA20) is a fully humanized antibody that targets the CD20 antigen, a hydrophobic transmembrane protein located on normal pre-B and mature B lymphocytes. Following binding, mAb hA20 triggers a complement-dependent cell lysis and antibody-dependent cell-mediated cytotoxicity in cells overexpressing CD20. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Hereditary Hyperbilirubinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Hyperbilirubinemia, Hereditary</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Hyperbilirubinemia, Hereditary</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hyperbilirubinemia, Hereditary</BroaderTerm>
+<ChildTerm>Gilbert Disease</ChildTerm>
+<ChildTerm>Crigler-Najjar Syndrome</ChildTerm>
+<ChildTerm>Jaundice, Chronic Idiopathic</ChildTerm>
+<Synonym>Hereditary Hyperbilirubinemia</Synonym>
+<Synonym>Hereditary Hyperbilirubinemias</Synonym>
+<Synonym>Rotor Type Hyperbilirubinemia</Synonym>
+<Synonym>Rotor Syndrome</Synonym>
+<Description>Inborn errors of bilirubin metabolism resulting in excessive amounts of bilirubin in the circulating blood, either because of increased bilirubin production or because of delayed clearance of bilirubin from the blood.</Description>
+<Source>MeSH</Source>
+</Record>

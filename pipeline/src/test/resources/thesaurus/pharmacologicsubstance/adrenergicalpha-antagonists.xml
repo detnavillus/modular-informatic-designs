@@ -1,0 +1,77 @@
+<Record>
+<Term>Adrenergic alpha-Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adrenergic Antagonist</ParentTerm>
+<ParentTerm>Adrenergic Antagonists</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Antagonists/Adrenergic alpha-Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Antagonists/Adrenergic alpha-Antagonists</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Adrenergic Antagonist/Alpha-Adrenergic Antagonist</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Adrenergic Agents</BroaderTerm>
+<BroaderTerm>Adrenergic Antagonists</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adrenergic alpha-Antagonists</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Adrenergic Antagonist</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Alpha-Adrenergic Antagonist</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Efaroxan</ChildTerm>
+<ChildTerm>Esproquin</ChildTerm>
+<ChildTerm>Tolazoline Hydrochloride</ChildTerm>
+<ChildTerm>Phenoxybenzamine Hydrochloride</ChildTerm>
+<ChildTerm>Tolazoline</ChildTerm>
+<ChildTerm>Terazosin Hydrochloride</ChildTerm>
+<ChildTerm>Piperoxan</ChildTerm>
+<ChildTerm>Abanoquil</ChildTerm>
+<ChildTerm>Tamsulosin Hydrochloride</ChildTerm>
+<ChildTerm>Taprizosin</ChildTerm>
+<ChildTerm>Phentolamine</ChildTerm>
+<ChildTerm>Alfuzosin Hydrochloride</ChildTerm>
+<ChildTerm>Phentolamine Mesylate</ChildTerm>
+<ChildTerm>Labetalol Hydrochloride</ChildTerm>
+<ChildTerm>Prazosin Hydrochloride</ChildTerm>
+<ChildTerm>Alfuzosin</ChildTerm>
+<ChildTerm>Dapiprazole Hydrochloride</ChildTerm>
+<ChildTerm>Fiduxosin</ChildTerm>
+<ChildTerm>Esproquin Hydrochloride</ChildTerm>
+<ChildTerm>Prazosin</ChildTerm>
+<ChildTerm>Tiodazosin</ChildTerm>
+<ChildTerm>Terazosin</ChildTerm>
+<ChildTerm>Quinazosin</ChildTerm>
+<ChildTerm>Atipamezole</ChildTerm>
+<ChildTerm>Butanserin</ChildTerm>
+<ChildTerm>Naftopidil</ChildTerm>
+<ChildTerm>Spiroxatrine</ChildTerm>
+<ChildTerm>Doxazosin Mesylate</ChildTerm>
+<ChildTerm>Doxazosin</ChildTerm>
+<ChildTerm>Phenoxybenzamine</ChildTerm>
+<ChildTerm>Fipamezole</ChildTerm>
+<ChildTerm>Bunazosin</ChildTerm>
+<ChildTerm>Ergoloid Mesylates</ChildTerm>
+<ChildTerm>Aceperone</ChildTerm>
+<Synonym>Adrenergic alpha-Receptor Blockaders</Synonym>
+<Synonym>Adrenergic alpha Antagonists</Synonym>
+<Synonym>alpha-Adrenergic Blocking Agents</Synonym>
+<Synonym>alpha-Adrenergic Blockers</Synonym>
+<Synonym>Adrenergic alpha-Antagonists</Synonym>
+<Synonym>Alpha-adrenergic Blocking Agent</Synonym>
+<Synonym>alpha Adrenergic Receptor Blockaders</Synonym>
+<Synonym>alpha-Adrenergic Receptor Blockaders</Synonym>
+<Synonym>Adrenergic alpha Blockers</Synonym>
+<Synonym>Adrenergic alpha-Blockers</Synonym>
+<Synonym>alpha Adrenergic Blocking Agents</Synonym>
+<Synonym>Alpha-Adrenergic Antagonist</Synonym>
+<Synonym>alpha Adrenergic Blockers</Synonym>
+<Synonym>Adrenergic alpha Receptor Blockaders</Synonym>
+<Description>Natural or synthetic Alpha-adrenergic Blocking Agents selectively bind to adrenergic receptors, or compete with natural adrenergic mediators, and inactivate alpha adrenergic receptors of the sympathetic nervous system. These agents block the action of natural sympathomimetic neurotransmitters (norepinephrine and related substances), and can initiate physiological responses such as vasodilation, bradycardia, and pupil contraction. (NCI04)</Description>
+<Description>Drugs that bind to but do not activate alpha-adrenergic receptors thereby blocking the actions of endogenous or exogenous adrenergic agonists. Adrenergic alpha-antagonists are used in the treatment of hypertension, vasospasm, peripheral vascular disease, shock, and pheochromocytoma.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

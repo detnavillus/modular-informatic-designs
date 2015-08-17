@@ -1,0 +1,49 @@
+<Record>
+<Term>Intracranial Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Aneurysm</ParentTerm>
+<ParentTerm>Intracranial Arterial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Aneurysm</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Aneurysm/Intracranial Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Intracranial Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Aneurysm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Aneurysm</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<ChildTerm>Brain Aneurysm</ChildTerm>
+<Synonym>Brain Aneurysms</Synonym>
+<Synonym>Posterior Communicating Artery Aneurysm</Synonym>
+<Synonym>Basilar Artery Aneurysms</Synonym>
+<Synonym>Giant Intracranial Aneurysm</Synonym>
+<Synonym>Intracranial Aneurysms</Synonym>
+<Synonym>Cerebral Aneurysm</Synonym>
+<Synonym>Middle Cerebral Artery Aneurysm</Synonym>
+<Synonym>Intracranial Aneurysm</Synonym>
+<Synonym>Intracranial Mycotic Aneurysms</Synonym>
+<Synonym>Basilar Artery Aneurysm</Synonym>
+<Synonym>Posterior Cerebral Artery Aneurysm</Synonym>
+<Synonym>Anterior Cerebral Artery Aneurysm</Synonym>
+<Synonym>Intracranial Mycotic Aneurysm</Synonym>
+<Synonym>Berry Aneurysm</Synonym>
+<Synonym>Brain Aneurysm</Synonym>
+<Synonym>Giant Intracranial Aneurysms</Synonym>
+<Synonym>Berry Aneurysms</Synonym>
+<Synonym>Anterior Communicating Artery Aneurysm</Synonym>
+<Synonym>Cerebral Aneurysms</Synonym>
+<Description>Abnormal outpouching in the wall of intracranial blood vessels. Most common are the saccular (berry) aneurysms located at branch points in CIRCLE OF WILLIS at the base of the brain. Vessel rupture results in SUBARACHNOID HEMORRHAGE or INTRACRANIAL HEMORRHAGES. Giant aneurysms (>2.5 cm in diameter) may compress adjacent structures, including the OCULOMOTOR NERVE. (From Adams et al., Principles of Neurology, 6th ed, p841)Outpouching of BASILAR ARTERY at the base of the skull. The basilar artery is the most important artery in the posterior cerebral circulation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

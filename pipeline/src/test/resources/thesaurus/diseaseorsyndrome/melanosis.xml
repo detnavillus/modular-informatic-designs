@@ -1,0 +1,24 @@
+<Record>
+<Term>Melanosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperpigmentation</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders/Hyperpigmentation/Melanosis</ClassificationPath>
+<BroaderTerm>Melanosis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Hyperpigmentation</BroaderTerm>
+<ChildTerm>Acanthosis Nigricans</ChildTerm>
+<ChildTerm>Lentigo</ChildTerm>
+<Synonym>Melanosis</Synonym>
+<Synonym>Melanoses</Synonym>
+<Synonym>Melanism</Synonym>
+<Synonym>Freckles</Synonym>
+<Synonym>Freckle</Synonym>
+<Synonym>Chloasma</Synonym>
+<Synonym>Chloasmas</Synonym>
+<Synonym>Melasma</Synonym>
+<Synonym>Melasmas</Synonym>
+<Description>Disorders of increased melanin pigmentation that develop without preceding inflammatory disease.</Description>
+<Source>MeSH</Source>
+</Record>

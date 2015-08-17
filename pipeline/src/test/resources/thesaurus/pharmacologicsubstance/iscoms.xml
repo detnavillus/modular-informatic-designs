@@ -1,0 +1,19 @@
+<Record>
+<Term>ISCOMs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Subunit</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Subunit/ISCOMs</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>ISCOMs</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines, Subunit</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>ISCOMs</Synonym>
+<Synonym>Immuno-Stimulating Complexes</Synonym>
+<Synonym>Immuno Stimulating Complexes</Synonym>
+<Synonym>Immunostimulating Complexes</Synonym>
+<Synonym>ISCOM</Synonym>
+<Description>A formulation for presenting an antigen to induce specific immunologic responses. It consists of an assembly of antigens in multimeric form. The assembly is attached to a matrix with a built-in adjuvant, saponin. ISCOMs induce strong serum antibody responses, and are used as highly immunogenic forms of subunit vaccines.</Description>
+<Source>MeSH</Source>
+</Record>

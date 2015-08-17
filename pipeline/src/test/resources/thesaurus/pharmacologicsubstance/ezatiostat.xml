@@ -1,0 +1,19 @@
+<Record>
+<Term>Ezatiostat</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Glutathione Transferase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Glutathione Transferase Inhibitor/Ezatiostat Hydrochloride</ClassificationPath>
+<BroaderTerm>Glutathione Transferase Inhibitor</BroaderTerm>
+<BroaderTerm>Ezatiostat Hydrochloride</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>EZATIOSTAT HYDROCHLORIDE</Synonym>
+<Synonym>Ezatiostat Hydrochloride</Synonym>
+<Synonym>TER199</Synonym>
+<Synonym>TLK199</Synonym>
+<Synonym>Telintra</Synonym>
+<Description>A liposomal small-molecule glutathione analog inhibitor of glutathione S-transferase (GST) P1-1 with hematopoiesis-stimulating activity. After intracellular de-esterification, the active form of TLK199 (TLK117) binds to and inhibits GST P1-1, thereby restoring Jun kinase and MAPK pathway activities and promoting MAPK-mediated cellular proliferation and differentiation pathways. This agent promotes the proliferation and maturation of hematopoietic precursor cells, granulocytes, monocytes, erythrocytes and platelets.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

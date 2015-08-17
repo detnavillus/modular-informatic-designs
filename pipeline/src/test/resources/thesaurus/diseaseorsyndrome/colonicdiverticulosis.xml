@@ -1,0 +1,24 @@
+<Record>
+<Term>Colonic Diverticulosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Colonic Diseases</ParentTerm>
+<ParentTerm>Diverticulosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Diverticulosis/Colonic Diverticulosis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Diverticulosis, Colonic</ClassificationPath>
+<BroaderTerm>Diverticulosis, Colonic</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Diverticulosis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Colonic Diverticulosis</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Diverticulitis, Colonic</ChildTerm>
+<Synonym>Colonic Diverticulosis</Synonym>
+<Description>A pathological condition characterized by the presence of a number of COLONIC DIVERTICULA in the COLON. Its pathogenesis is multifactorial, including colon aging, motor dysfunction, increases in intraluminal pressure, and lack of dietary fibers.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

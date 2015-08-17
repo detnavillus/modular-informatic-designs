@@ -1,0 +1,25 @@
+<Record>
+<Term>Esomeprazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-ulcer Agent</ParentTerm>
+<ParentTerm>Proton Pump Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-ulcer Agent/Proton Pump Inhibitor/Esomeprazole Sodium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-ulcer Agent/Esomeprazole</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Esomeprazole Sodium</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-ulcer Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Esomeprazole</BroaderTerm>
+<BroaderTerm>Proton Pump Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ESOMEPRAZOLE SODIUM</Synonym>
+<Synonym>Esomeprazole Sodium</Synonym>
+<Synonym>Nexium Iv</Synonym>
+<Synonym>Esomeprazole sodium</Synonym>
+<Synonym>Esomeprazole</Synonym>
+<Synonym>ESOMEPRAZOLE</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

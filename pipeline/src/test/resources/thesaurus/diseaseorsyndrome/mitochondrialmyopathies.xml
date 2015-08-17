@@ -1,0 +1,30 @@
+<Record>
+<Term>Mitochondrial Myopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Mitochondrial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Mitochondrial Myopathies</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Mitochondrial Myopathies</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Mitochondrial Myopathies</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Myopathies</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Ophthalmoplegia, Chronic Progressive External</ChildTerm>
+<ChildTerm>Mitochondrial Encephalomyopathies</ChildTerm>
+<Synonym>Mitochondrial Myopathy</Synonym>
+<Synonym>Lufts Disease</Synonym>
+<Synonym>Mitochondrial Myopathies</Synonym>
+<Synonym>Megaconial Myopathies</Synonym>
+<Synonym>Pleoconial Myopathies</Synonym>
+<Synonym>Megaconial Myopathy</Synonym>
+<Synonym>Luft Disease</Synonym>
+<Synonym>Luft's Disease</Synonym>
+<Synonym>Pleoconial Myopathy</Synonym>
+<Description>A group of muscle diseases associated with abnormal mitochondria function.</Description>
+<Source>MeSH</Source>
+</Record>

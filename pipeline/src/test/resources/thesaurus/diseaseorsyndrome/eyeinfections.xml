@@ -1,0 +1,23 @@
+<Record>
+<Term>Eye Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Eye Infections, Bacterial</ChildTerm>
+<ChildTerm>Corneal Ulcer</ChildTerm>
+<ChildTerm>Eye Infections, Parasitic</ChildTerm>
+<ChildTerm>Eye Infections, Fungal</ChildTerm>
+<ChildTerm>Eye Infections, Viral</ChildTerm>
+<Synonym>Eye Infection</Synonym>
+<Synonym>Ocular Infections</Synonym>
+<Synonym>Eye Infections</Synonym>
+<Synonym>Ocular Infection</Synonym>
+<Description>Infection, moderate to severe, caused by bacteria, fungi, or viruses, which occurs either on the external surface of the eye or intraocularly with probable inflammation, visual impairment, or blindness.</Description>
+<Source>MeSH</Source>
+</Record>

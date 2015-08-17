@@ -1,0 +1,20 @@
+<Record>
+<Term>Retaspimycin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Geldanamycin Analogue</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Heat Shock Protein Inhibitor/Ansamycin Antineoplastic Antibiotic/Geldanamycin Analogue/Retaspimycin Hydrochloride</ClassificationPath>
+<BroaderTerm>Ansamycin Antineoplastic Antibiotic</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Geldanamycin Analogue</BroaderTerm>
+<BroaderTerm>Retaspimycin Hydrochloride</BroaderTerm>
+<BroaderTerm>Heat Shock Protein Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>17-Allylamino-17-demethoxygeldanamycin hydroquinone hydrochloride</Synonym>
+<Synonym>Geldanamycin, 18,21-didehydro-17-demethoxy-18,21-dideoxo-18,21-dihydroxy-17-(2-propenylamino)-, monohydrochloride</Synonym>
+<Synonym>IPI-504</Synonym>
+<Synonym>Retaspimycin Hydrochloride</Synonym>
+<Description>The hydrochloride salt of a small-molecule inhibitor of heat shock protein 90 (HSP90) with antiproliferative and antineoplastic activities. Retaspimycin binds to and inhibits the cytosolic chaperone functions of HSP90, which maintains the stability and functional shape of many oncogenic signaling proteins and may be overexpressed or overactive in tumor cells. Retaspimycin-mediated inhibition of HSP90 promotes the proteasomal degradation of oncogenic signaling proteins in susceptible tumor cell populations, which may result in the induction of apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

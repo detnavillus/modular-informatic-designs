@@ -1,0 +1,24 @@
+<Record>
+<Term>Malignant Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Hypertension</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hypertension/Hypertension, Malignant</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Blood Pressure Finding/Hypertension/Malignant Hypertension</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Malignant Hypertension</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Blood Pressure Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hypertension, Malignant</BroaderTerm>
+<ChildTerm>Malignant Essential Hypertension</ChildTerm>
+<Synonym>Malignant Hypertension</Synonym>
+<Description>A condition of markedly elevated BLOOD PRESSURE with DIASTOLIC PRESSURE usually greater than 120 mm Hg. Malignant hypertension is characterized by widespread vascular damage, PAPILLEDEMA, retinopathy, HYPERTENSIVE ENCEPHALOPATHY, and renal dysfunction.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

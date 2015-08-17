@@ -1,0 +1,30 @@
+<Record>
+<Term>Supraventricular Arrhythmia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ectopic Supraventricular Rhythm</ChildTerm>
+<ChildTerm>Nodal Arrhythmia</ChildTerm>
+<ChildTerm>Ectopic Atrial Rhythm</ChildTerm>
+<ChildTerm>Atrial Fibrillation</ChildTerm>
+<ChildTerm>Sinus Arrhythmia</ChildTerm>
+<ChildTerm>Atrial Premature Complex</ChildTerm>
+<ChildTerm>Junctional Rhythm</ChildTerm>
+<ChildTerm>Sinus Arrest</ChildTerm>
+<ChildTerm>Supraventricular Tachycardia</ChildTerm>
+<ChildTerm>Wandering Atrial Pacemaker</ChildTerm>
+<ChildTerm>Sinus Bradycardia</ChildTerm>
+<Synonym>Supraventricular Arrhythmia</Synonym>
+<Description>An arrhythmia originating from centers proximal to the ventricles, namely in the atrium, AV node, or AV junction, in contrast to arrhythmias arising in the ventricles themselves.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

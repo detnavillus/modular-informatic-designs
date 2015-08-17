@@ -1,0 +1,20 @@
+<Record>
+<Term>Sporotrichosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Sporotrichosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Sporotrichosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Sporotrichosis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Sporotrichosis</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Sporotrichoses</Synonym>
+<Synonym>Sporotrichosis</Synonym>
+<Description>The commonest and least serious of the deep mycoses, characterized by nodular lesions of the cutaneous and subcutaneous tissues. It is caused by inhalation of contaminated dust or by infection of a wound.</Description>
+<Source>MeSH</Source>
+</Record>

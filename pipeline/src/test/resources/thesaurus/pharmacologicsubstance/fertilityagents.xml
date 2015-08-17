@@ -1,0 +1,21 @@
+<Record>
+<Term>Fertility Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reproductive Control Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Fertility Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Fertility Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Fertility Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Fertility Agents, Female</ChildTerm>
+<ChildTerm>Fertility Agents, Male</ChildTerm>
+<Synonym>Infertility Drugs</Synonym>
+<Synonym>Infertility Agents</Synonym>
+<Synonym>Fertility Drugs</Synonym>
+<Synonym>Fertility Agents</Synonym>
+<Description>Drugs used to increase fertility or to treat infertility.</Description>
+<Source>MeSH</Source>
+</Record>

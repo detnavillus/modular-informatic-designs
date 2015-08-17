@@ -1,0 +1,23 @@
+<Record>
+<Term>Technetium Tc-99m Apcitide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Technetium Tc-99m Apcitide</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Technetium Tc-99m Apcitide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Acutect</Synonym>
+<Synonym>AcuTect</Synonym>
+<Synonym>A9504</Synonym>
+<Synonym>Technetium Tc-99m Apcitide</Synonym>
+<Synonym>Technetium tc-99m apcitide</Synonym>
+<Synonym>(99m)Tc-P280</Synonym>
+<Synonym>TECHNETIUM TC-99M APCITIDE</Synonym>
+<Description>A radioconjugate comprised of the small peptide apcitide labeled with the gamma-emitting technetium TC99m (metastable Tc-99). Apcitide binds to platelet glycoprotein (GP) GPIIb/IIIa receptors on the surface of activated platelets. Labeling apcitide with TC99m allows localization of thrombus formation by gamma-ray imaging equipment and the ability to distinguish between old, inactive thrombi and new, active thrombi.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

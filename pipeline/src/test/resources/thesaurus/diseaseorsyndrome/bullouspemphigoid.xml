@@ -1,0 +1,19 @@
+<Record>
+<Term>Bullous Pemphigoid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Skin Diseases, Vesiculobullous</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Pemphigoid, Bullous</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Pemphigoid, Bullous</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Pemphigoid, Bullous</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<Synonym>Pemphigoid</Synonym>
+<Synonym>Pemphigoids</Synonym>
+<Synonym>Bullous Pemphigoid</Synonym>
+<Description>A chronic and relatively benign subepidermal blistering disease usually of the elderly and without histopathologic acantholysis.</Description>
+<Source>MeSH</Source>
+</Record>

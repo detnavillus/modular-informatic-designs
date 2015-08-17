@@ -1,0 +1,22 @@
+<Record>
+<Term>Peptic Esophagitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peptic Ulcer</ParentTerm>
+<ParentTerm>Esophagitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Esophagitis/Esophagitis, Peptic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Esophagitis/Esophagitis, Peptic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Peptic Ulcer/Esophagitis, Peptic</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Esophagitis, Peptic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Esophagitis</BroaderTerm>
+<Synonym>Reflux Esophagitides</Synonym>
+<Synonym>Reflux Esophagitis</Synonym>
+<Synonym>Peptic Esophagitides</Synonym>
+<Synonym>Peptic Esophagitis</Synonym>
+<Description>INFLAMMATION of the ESOPHAGUS that is caused by the reflux of GASTRIC JUICE with contents of the STOMACH and DUODENUM.</Description>
+<Source>MeSH</Source>
+</Record>

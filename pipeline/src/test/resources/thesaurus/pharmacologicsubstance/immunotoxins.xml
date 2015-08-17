@@ -1,0 +1,48 @@
+<Record>
+<Term>Immunotoxins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Immunoconjugates</ParentTerm>
+<ParentTerm>Noxae</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immunoconjugates/Immunotoxins</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Immunoconjugates/Immunotoxins</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Immunotoxins</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Immunoconjugates/Immunotoxins</ClassificationPath>
+<BroaderTerm>Immunoconjugates</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<BroaderTerm>Immunotoxins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<Synonym>Monoclonal Antibody-Toxin Conjugates</Synonym>
+<Synonym>Toxin Carriers</Synonym>
+<Synonym>Antibody-Toxin Hybrids</Synonym>
+<Synonym>Monoclonal Antibody Toxin Conjugates</Synonym>
+<Synonym>Antibody Toxin Conjugates</Synonym>
+<Synonym>Toxin Carrier</Synonym>
+<Synonym>Toxin-Antibody Conjugates</Synonym>
+<Synonym>Chimeric Toxin</Synonym>
+<Synonym>Toxin-Antibody Hybrids</Synonym>
+<Synonym>Cytotoxin-Antibody Conjugates</Synonym>
+<Synonym>Antibody-Toxin Conjugates</Synonym>
+<Synonym>Toxin Antibody Conjugates</Synonym>
+<Synonym>Toxin Conjugate</Synonym>
+<Synonym>Immunotoxin</Synonym>
+<Synonym>Affinotoxins</Synonym>
+<Synonym>Targeted Toxins</Synonym>
+<Synonym>Chimeric Toxins</Synonym>
+<Synonym>Antibody Toxin Hybrids</Synonym>
+<Synonym>Toxin Conjugates</Synonym>
+<Synonym>Immunotoxins</Synonym>
+<Synonym>Toxin Antibody Hybrids</Synonym>
+<Synonym>Cytotoxin Antibody Conjugates</Synonym>
+<Description>Semisynthetic conjugates of various toxic molecules, including RADIOACTIVE ISOTOPES and bacterial or plant toxins, with specific immune substances such as IMMUNOGLOBULINS; MONOCLONAL ANTIBODIES; and ANTIGENS. The antitumor or antiviral immune substance carries the toxin to the tumor or infected cell where the toxin exerts its poisonous effect.</Description>
+<Source>MeSH</Source>
+</Record>

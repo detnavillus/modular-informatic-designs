@@ -1,0 +1,21 @@
+<Record>
+<Term>Irbesartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Irbesartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Irbesartan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Irbesartan</Synonym>
+<Synonym>Avapro</Synonym>
+<Synonym>IRBESARTAN</Synonym>
+<Description>A nonpeptide angiotensin II antagonist with antihypertensive activity. Irbesartan selectively and competitively blocks the binding of angiotensin II to the angiotensin I receptor. Angiotensin II stimulates aldosterone synthesis and secretion by adrenal cortex, which decreases the excretion of sodium and increases the excretion of potassium. Angiotensin II also acts as a vasoconstrictor in vascular smooth muscle. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

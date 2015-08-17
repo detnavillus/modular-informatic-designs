@@ -1,0 +1,23 @@
+<Record>
+<Term>Piridronic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Malignancy-Associated Hypercalcemia Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Malignancy-Associated Hypercalcemia Inhibitor/Piridronic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Biphosphonate/Piridronic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Piridronic Acid</ClassificationPath>
+<BroaderTerm>Biphosphonate</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Malignancy-Associated Hypercalcemia Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Piridronic Acid</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Piridronic Acid,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>2-(2-Pyridyl)ethylidine-1,1-bisphosphonate</Synonym>
+<Synonym>PIRIDRONIC ACID</Synonym>
+<Synonym>Piridronic Acid</Synonym>
+<Description>A synthetic pyridinyl bisphosphonate with anti-resorptive activity. Although the exact mechanism of action has yet to be fully elucidated, piridronic acid likely binds to hydroxyapatite crystals in the bone matrix and inhibits farnesyl pyrophosphate synthase, an enzyme that plays an important role in the mevalonate pathway. This inhibits the formation of isoprenoid metabolites that are substrates for protein prenylation. This prevents farnesylation and geranylgeranylation of proteins essential for osteoclast function, leading to the induction of apoptosis and eventually, osteoclast-cell death. By preventing osteoclast-mediated bone resorption, piridronic acid decreases bone turnover and stabilizes the bone matrix.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

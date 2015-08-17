@@ -1,0 +1,27 @@
+<Record>
+<Term>Renal Aminoacidurias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Tubular Transport, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Renal Aminoacidurias</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Renal Aminoacidurias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Renal Aminoacidurias</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Renal Aminoacidurias</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Renal Aminoacidurias</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Renal Tubular Transport, Inborn Errors</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Hartnup Disease</ChildTerm>
+<ChildTerm>Cystinuria</ChildTerm>
+<Synonym>Renal Aminoaciduria</Synonym>
+<Synonym>Renal Aminoacidurias</Synonym>
+<Description>A group of inherited kidney disorders characterized by the abnormally elevated levels of AMINO ACIDS in URINE. Genetic mutations of transport proteins result in the defective reabsorption of free amino acids at the PROXIMAL RENAL TUBULES. Renal aminoaciduria are classified by the specific amino acid or acids involved.</Description>
+<Source>MeSH</Source>
+</Record>

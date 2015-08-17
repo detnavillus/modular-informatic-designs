@@ -1,0 +1,28 @@
+<Record>
+<Term>Congenital Myopathies, Structural</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myopathies, Structural, Congenital</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myopathies, Structural, Congenital</ClassificationPath>
+<BroaderTerm>Myopathies, Structural, Congenital</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Myopathy, Central Core</ChildTerm>
+<ChildTerm>Myopathies, Nemaline</ChildTerm>
+<Synonym>Myotubular Myopathies</Synonym>
+<Synonym>Centronuclear Myopathy</Synonym>
+<Synonym>Congenital Structural Myopathy</Synonym>
+<Synonym>Congenital Non Progressive Myopathies</Synonym>
+<Synonym>Myotubular Myopathy</Synonym>
+<Synonym>Congenital Structural Myopathies</Synonym>
+<Synonym>Congenital Non-Progressive Myopathies</Synonym>
+<Synonym>Tubular Aggregate Myopathies</Synonym>
+<Synonym>Congenital Non-Progressive Myopathy</Synonym>
+<Synonym>Tubular Aggregate Myopathy</Synonym>
+<Synonym>Centronuclear Myopathies</Synonym>
+<Synonym>Congenital Fiber Type Disproportion</Synonym>
+<Description>A heterogeneous group of diseases characterized by the early onset of hypotonia, developmental delay of motor skills, non-progressive weakness. Each of these disorders is associated with a specific histologic muscle fiber abnormality.</Description>
+<Source>MeSH</Source>
+</Record>

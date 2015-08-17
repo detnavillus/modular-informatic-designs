@@ -1,0 +1,42 @@
+<Record>
+<Term>Acanthamoeba Keratitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Protozoal Infection</ParentTerm>
+<ParentTerm>Keratitis</ParentTerm>
+<ParentTerm>Eye Infections, Parasitic</ParentTerm>
+<ParentTerm>Amebiasis</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Acanthamoeba Keratitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Corneal Disorder/Keratitis/Acanthamoeba Keratitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Protozoal Infection/Acanthamoeba Keratitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Parasitic/Acanthamoeba Keratitis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Eye Infections, Parasitic/Acanthamoeba Keratitis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis/Acanthamoeba Keratitis</ClassificationPath>
+<BroaderTerm>Protozoal Infection</BroaderTerm>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Acanthamoeba Keratitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Corneal Disorder</BroaderTerm>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Acanthamoeba Keratitis,</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Eye Infections, Parasitic</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Keratitis, Acanthamoeba</Synonym>
+<Synonym>Acanthamoeba Keratitides</Synonym>
+<Synonym>Acanthamoeba Keratitis</Synonym>
+<Synonym>Acanthamoeba keratitis</Synonym>
+<Description>Infection of the cornea by an ameboid protozoan which may cause corneal ulceration leading to blindness.</Description>
+<Description>Keratitis due to infection by acanthamoeba; it is usually associated with soft contact lens wear, particularly overnight wear.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

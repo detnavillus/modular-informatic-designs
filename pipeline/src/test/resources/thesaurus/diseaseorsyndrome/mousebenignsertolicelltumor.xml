@@ -1,0 +1,19 @@
+<Record>
+<Term>Mouse Benign Sertoli Cell Tumor</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Benign Ovarian Neoplasm</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Reproductive System Disorder/Mouse Female Reproductive System Disorder/Mouse Ovarian Disorder/Mouse Ovarian Neoplasm/Mouse Benign Ovarian Neoplasm/Mouse Benign Sertoli Cell Tumor</ClassificationPath>
+<BroaderTerm>Mouse Ovarian Disorder</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mouse Benign Ovarian Neoplasm</BroaderTerm>
+<BroaderTerm>Mouse Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Mouse Benign Sertoli Cell Tumor</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Ovarian Neoplasm</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Reproductive System Disorder</BroaderTerm>
+<Synonym>Benign Sertoli Cell Tumor</Synonym>
+<Synonym>Mouse Benign Sertoli Cell Tumor</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocyte</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Cell</SemanticType>
+<ParentTerm>Therapeutic Autologous Lymphocytes</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Autologous Lymphocytes/Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocyte</ClassificationPath>
+<BroaderTerm>Therapeutic Autologous Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocyte</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Melanoma Tumor-Reactive Autologous TIL</Synonym>
+<Synonym>Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocyte</Synonym>
+<Synonym>Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocytes (TIL)</Synonym>
+<Description>Tumor infiltrating lymphocytes (TIL) harvested directly from infiltrate of a patient's melanoma and cultured with interleukin-2 to expand the TIL cell population. Tumor infiltrating lymphocytes have specific activity against the melanoma from which they are derived. Introducing these melanoma tumor-reactive autologous tumor infiltrating lymphocytes back into the same patient may enhance a cytotoxic T-cell-mediated immune response against the melanoma cancer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

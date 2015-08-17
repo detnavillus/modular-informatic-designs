@@ -1,0 +1,17 @@
+<Record>
+<Term>DN-101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vitamin D Analog</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Vitamin D Analog/DN-101</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Vitamin D Analog</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>DN-101</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Calcijex</Synonym>
+<Synonym>DN-101</Synonym>
+<Synonym>Ro 21-5535</Synonym>
+<Synonym>Rocaltrol</Synonym>
+<Description>An oral high dose formulation of calcitriol, the biologically active form of Vitamin D.  Acting as a ligand for the Vitamin D receptor (VDR), DN-101 binds to the VDR inhibiting VDR-regulated gene transcription involved in cell proliferation, differentiation and apoptosis. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

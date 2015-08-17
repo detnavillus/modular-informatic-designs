@@ -1,0 +1,23 @@
+<Record>
+<Term>Serotonin Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Serotonin Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Serotonin Agents/Serotonin Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Serotonin Agents/Serotonin Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Serotonin Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Serotonin Antagonists</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Serotonin Blockaders</Synonym>
+<Synonym>5-Hydroxytryptamine Antagonists</Synonym>
+<Synonym>Antiserotonergic Agents</Synonym>
+<Synonym>5 HT Antagonists</Synonym>
+<Synonym>5-HT Antagonists</Synonym>
+<Synonym>5 Hydroxytryptamine Antagonists</Synonym>
+<Synonym>Serotonin Antagonists</Synonym>
+<Description>Drugs that bind to but do not activate serotonin receptors, thereby blocking the actions of serotonin or serotonin agonists.</Description>
+<Source>MeSH</Source>
+</Record>

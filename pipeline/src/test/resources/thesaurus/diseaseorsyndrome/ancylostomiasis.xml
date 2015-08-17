@@ -1,0 +1,30 @@
+<Record>
+<Term>Ancylostomiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Hookworm Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Ancylostomiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Hookworm Infections/Ancylostomiasis</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Ancylostomiasis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Hookworm Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Ancylostomiasis due to Ancylostoma Ceylanicum</ChildTerm>
+<ChildTerm>Ancylostomiasis due to Ancylostoma Braziliense</ChildTerm>
+<ChildTerm>Ancylostomiasis due to Ancylostoma Duodenale</ChildTerm>
+<Synonym>Ancylostomiases</Synonym>
+<Synonym>Ancylostomiasis</Synonym>
+<Description>Infection of humans or animals with hookworms of the genus ANCYLOSTOMA. Characteristics include anemia, dyspepsia, eosinophilia, and abdominal swelling.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

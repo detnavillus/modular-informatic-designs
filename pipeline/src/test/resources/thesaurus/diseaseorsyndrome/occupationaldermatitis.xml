@@ -1,0 +1,34 @@
+<Record>
+<Term>Occupational Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis, Contact</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ParentTerm>Occupational Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Occupational</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Dermatitis, Occupational</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Occupational</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Occupational Dermatitis</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Dermatitis, Occupational</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Occupational Dermatitis</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Industrial Dermatoses</Synonym>
+<Synonym>Industrial Dermatosis</Synonym>
+<Synonym>Occupational Dermatitides</Synonym>
+<Synonym>Occupational Dermatitis</Synonym>
+<Description>A recurrent contact dermatitis caused by substances found in the work place.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

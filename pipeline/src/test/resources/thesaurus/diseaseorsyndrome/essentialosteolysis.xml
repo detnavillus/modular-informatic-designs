@@ -1,0 +1,25 @@
+<Record>
+<Term>Essential Osteolysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Osteolysis</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Osteolysis, Essential</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Resorption/Osteolysis/Osteolysis, Essential</ClassificationPath>
+<BroaderTerm>Osteolysis, Essential</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Resorption</BroaderTerm>
+<BroaderTerm>Osteolysis</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Idiopathic Multicentric Osteolyses</Synonym>
+<Synonym>Massive Osteolysis</Synonym>
+<Synonym>Massive Osteolyses</Synonym>
+<Synonym>Essential Osteolyses</Synonym>
+<Synonym>Idiopathic Multicentric Osteolysis</Synonym>
+<Synonym>Disappearing Bone Disease</Synonym>
+<Synonym>Essential Osteolysis</Synonym>
+<Synonym>Gorham Disease</Synonym>
+<Description>Syndromes of bone destruction where the cause is not obvious such as neoplasia, infection, or trauma. The destruction follows various patterns: massive (Gorham disease), multicentric (HAJDU-CHENEY SYNDROME), or carpal/tarsal.</Description>
+<Source>MeSH</Source>
+</Record>

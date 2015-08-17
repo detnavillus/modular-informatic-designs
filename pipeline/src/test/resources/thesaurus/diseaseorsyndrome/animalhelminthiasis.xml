@@ -1,0 +1,25 @@
+<Record>
+<Term>Animal Helminthiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases, Animal</ParentTerm>
+<ParentTerm>Helminthiasis</ParentTerm>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Strongyle Infections, Equine</ChildTerm>
+<ChildTerm>Dirofilariasis</ChildTerm>
+<ChildTerm>Setariasis</ChildTerm>
+<ChildTerm>Toxocariasis</ChildTerm>
+<ChildTerm>Dictyocaulus Infections</ChildTerm>
+<ChildTerm>Fascioloidiasis</ChildTerm>
+<ChildTerm>Monieziasis</ChildTerm>
+<Synonym>Animal Helminthiases</Synonym>
+<Synonym>Animal Helminthiasis</Synonym>
+<Description>Infestation of animals with parasitic worms of the helminth class. The infestation may be experimental or veterinary.</Description>
+<Source>MeSH</Source>
+</Record>

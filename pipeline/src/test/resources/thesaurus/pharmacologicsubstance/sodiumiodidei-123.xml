@@ -1,0 +1,18 @@
+<Record>
+<Term>Sodium Iodide I-123</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioactive Sodium Iodide</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Radioactive Sodium Iodide/Sodium Iodide I-123</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Sodium Iodide I-123</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Radioactive Sodium Iodide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(123-I)Sodium Iodide</Synonym>
+<Synonym>SODIUM IODIDE, I-123</Synonym>
+<Synonym>Sodium Iodide I-123</Synonym>
+<Description>A radiopharmaceutical containing the radioisotope I-123 with diagnostic property. After absorption, the iodide is distributed through the extracellular fluid of the body and accumulates in the thyroid gland, thereby allowing measurement of thyroid function.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

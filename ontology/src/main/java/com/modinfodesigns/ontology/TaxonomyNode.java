@@ -37,6 +37,7 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
   public static final String NODE_QUERY = "NodeQuery";
   public static final String NODE_TYPE  = "NodeType";
   public static final String PARENT_KEY = "ParentKey";
+  public static final String PATH = "path";
     
   public static final String[] NODE_TYPES = { ITaxonomyNode.CATEGORY_NODE, ITaxonomyNode.VALUE_NODE,
                                                 ITaxonomyNode.EVIDENCE_NODE, ITaxonomyNode.NONE };
@@ -115,6 +116,7 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
   }
     
     
+    
   @Override
   public List<ITaxonomyNode> getDescendants()
   {
@@ -127,7 +129,7 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
       ITaxonomyNode child = children.get( i );
       descendants.add( child );
       List<ITaxonomyNode> grandKids = child.getDescendants( );
-      if (grandKids != null)
+      if (grandKids != null && grandKids.size( ) > 0 )
       {
         descendants.addAll( grandKids );
       }
@@ -136,6 +138,9 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     return descendants;
   }
     
+  /**
+   * return true if node is descendant of this node, false otherwise
+   */
   @Override
   public boolean isDescendant( ITaxonomyNode node )
   {
@@ -199,6 +204,9 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     return ancestors;
   }
     
+  /**
+   * returns true if node is ancestor of this node, false otherwise
+   */
   @Override
   public boolean isAncestor( ITaxonomyNode node )
   {
@@ -229,8 +237,6 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
   @Override
   public void addDataObject( DataObject dObj )
   {
-    LOG.debug( "addDataObject: " + dObj );
-        
     ITaxonomyNode taxoNode = null;
     if (dObj instanceof ITaxonomyNode)
     {
@@ -238,10 +244,7 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     }
     else
     {
-      taxoNode = new TaxonomyNode( );
-      taxoNode.setName( dObj.getName( ) );
-      taxoNode.setID( dObj.getID( ) );
-      taxoNode.setProperties( dObj.getProperties( ) );
+      taxoNode = createTaxonomyNode( dObj );
     }
         
     try
@@ -257,8 +260,6 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
   @Override
   public void addChildNode( ITaxonomyNode childNode ) throws TaxonomyException
   {
-    LOG.debug( "addChildNode: " + childNode );
-        
     if (isAncestor( childNode ) || childNode.equals( this ))
     {
       LOG.debug( "Got Taxonomy Exception!" );
@@ -277,10 +278,21 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     
     if (childNode instanceof DataObject)
     {
+      ((DataObject)childNode).setJsonNameLabel( "name" );
       super.addDataObject( (DataObject)childNode );
     }
         
     LOG.debug( "addChildNode: " + childNode + " DONE." );
+  }
+    
+  public static TaxonomyNode createTaxonomyNode( DataObject fromObject )
+  {
+    TaxonomyNode taxoNode = new TaxonomyNode( );
+    taxoNode.setName( fromObject.getName( ) );
+    taxoNode.setID( fromObject.getID( ) );
+    taxoNode.setProperties( fromObject.getProperties( ) );
+      
+    return taxoNode;
   }
     
   @Override
@@ -336,6 +348,9 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     parents.add( parentNode );
            
     setParentKeys( );
+      
+    List<String> paths = getPaths( );
+    setProperty( new StringListProperty( PATH, paths ) );
   }
     
   @Override
@@ -368,15 +383,20 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
     else
     {
       StringListProperty parentKeys = new StringListProperty( PARENT_KEY );
+      boolean hasKeys = false;
       for ( ITaxonomyNode parent: parents )
       {
         if (parent.getID() != null)
         {
           parentKeys.addString( parent.getValue( DataObject.NAME_ID_SCHEMA ) );
+          hasKeys = true;
         }
       }
-            
-      setProperty( parentKeys );
+       
+      if (hasKeys)
+      {
+        setProperty( parentKeys );
+      }
     }
   }
 
@@ -431,12 +451,7 @@ public class TaxonomyNode extends DataList implements ITaxonomyNode, ICreateData
   @Override
   public IProperty getProperty( String name )
   {
-    if (name != null && name.equalsIgnoreCase( "path" ))
-    {
-      List<String> paths = getPaths( );
-      return new StringListProperty( "path", paths );
-    }
-    else if (name != null && name.equalsIgnoreCase( NODE_TYPE ))
+    if (name != null && name.equalsIgnoreCase( NODE_TYPE ))
     {
       IProperty nodeTypeProp = super.getProperty( NODE_TYPE );
       return (nodeTypeProp != null) ? nodeTypeProp : new StringProperty (NODE_TYPE, ITaxonomyNode.NONE );

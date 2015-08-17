@@ -1,0 +1,33 @@
+<Record>
+<Term>Radium</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Metals, Heavy</ParentTerm>
+<ParentTerm>Radioactive Element</ParentTerm>
+<ParentTerm>Elements, Radioactive</ParentTerm>
+<ParentTerm>Metals, Alkaline Earth</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Elements/Elements, Radioactive/Radium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Metals, Heavy/Radium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Metals/Metals, Alkaline Earth/Radium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Radioactive Element/Radium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Metals/Metals, Heavy/Radium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Metals, Alkaline Earth/Radium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Elements</BroaderTerm>
+<BroaderTerm>Metals, Heavy</BroaderTerm>
+<BroaderTerm>Elements, Radioactive</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Radium</BroaderTerm>
+<BroaderTerm>Radioactive Element</BroaderTerm>
+<BroaderTerm>Metals</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Metals, Alkaline Earth</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Radium</Synonym>
+<Description>Radium. A radioactive element of the alkaline earth series of metals. It has the atomic symbol Ra, atomic number 88, and atomic weight 226. Radium is the product of the disintegration of uranium and is present in pitchblende and all ores containing uranium. It is used clinically as a source of beta and gamma-rays in radiotherapy, particularly BRACHYTHERAPY.</Description>
+<Description>An element with atomic symbol Ra, atomic number of 88, and atomic weight 226.0</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

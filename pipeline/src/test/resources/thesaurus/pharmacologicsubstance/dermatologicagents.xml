@@ -1,0 +1,22 @@
+<Record>
+<Term>Dermatologic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Dermatologic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Dermatologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Astringents</ChildTerm>
+<ChildTerm>Emollients</ChildTerm>
+<ChildTerm>Antipruritics</ChildTerm>
+<ChildTerm>Sunscreening Agents</ChildTerm>
+<ChildTerm>Photosensitizing Agents</ChildTerm>
+<ChildTerm>Keratolytic Agents</ChildTerm>
+<Synonym>Dermatologic Agents</Synonym>
+<Synonym>Dermatological Agents</Synonym>
+<Synonym>Dermatologic Agent</Synonym>
+<Synonym>Dermatological Agent</Synonym>
+<Description>Drugs used to treat or prevent skin disorders or for the routine care of skin.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Lyme Neuroborreliosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Lyme Disease</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Borrelia Infections/Lyme Disease/Lyme Neuroborreliosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Borrelia Infections/Lyme Disease/Lyme Neuroborreliosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Lyme Neuroborreliosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Lyme Disease/Lyme Neuroborreliosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Lyme Neuroborreliosis</ClassificationPath>
+<BroaderTerm>Borrelia Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lyme Neuroborreliosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Lyme Disease</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Lyme Neuroborreliosis</Synonym>
+<Synonym>Nervous System Lyme Borreliosis</Synonym>
+<Synonym>Lyme Disease Encephalopathies</Synonym>
+<Synonym>Lyme Polyradiculitis</Synonym>
+<Synonym>Borrelia burgdorferi Neuroborreliosis</Synonym>
+<Synonym>Lyme Polyradiculopathies</Synonym>
+<Synonym>Lyme Meningoencephalitis</Synonym>
+<Synonym>Lyme Disease Mononeuritis Multiplex</Synonym>
+<Synonym>Lyme Disease Encephalopathy</Synonym>
+<Synonym>Nervous System Lyme Disease</Synonym>
+<Synonym>Central Nervous System Lyme Disease</Synonym>
+<Synonym>Peripheral Nervous System Lyme Disease</Synonym>
+<Synonym>Lyme Polyradiculopathy</Synonym>
+<Synonym>Lyme Meningoradiculitis</Synonym>
+<Synonym>Lyme Polyradiculitides</Synonym>
+<Description>Nervous system infections caused by tick-borne spirochetes of the BORRELIA BURGDORFERI GROUP. The disease may affect elements of the central or peripheral nervous system in isolation or in combination. Common clinical manifestations include a lymphocytic meningitis, cranial neuropathy (most often a facial neuropathy), POLYRADICULOPATHY, and a mild loss of memory and other cognitive functions. Less often more extensive inflammation involving the central nervous system (encephalomyelitis) may occur. In the peripheral nervous system, B. burgdorferi infection is associated with mononeuritis multiplex and polyradiculoneuritis. (From J Neurol Sci 1998 Jan 8;153(2):182-91)</Description>
+<Source>MeSH</Source>
+</Record>

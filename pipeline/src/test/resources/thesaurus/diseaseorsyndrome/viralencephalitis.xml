@@ -1,0 +1,43 @@
+<Record>
+<Term>Viral Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Encephalitis</ParentTerm>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalitis/Viral Encephalitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Viral Encephalitis</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<ChildTerm>Encephalitis, Arbovirus</ChildTerm>
+<ChildTerm>Encephalitis, Herpes Simplex</ChildTerm>
+<ChildTerm>Acute Hemorrhagic Encephalitis</ChildTerm>
+<ChildTerm>Acute Necrotizing Encephalitis</ChildTerm>
+<ChildTerm>Mosquito-Born Viral Encephalitis</ChildTerm>
+<ChildTerm>Leukoencephalopathy, Progressive Multifocal</ChildTerm>
+<ChildTerm>Encephalomyelitis, Equine</ChildTerm>
+<ChildTerm>Epidemic Encephalitis</ChildTerm>
+<ChildTerm>Tick-born Viral Encephalitis</ChildTerm>
+<ChildTerm>Subacute Sclerosing Panencephalitis</ChildTerm>
+<ChildTerm>Encephalitis, Varicella Zoster</ChildTerm>
+<ChildTerm>Encephalitis Lethargica</ChildTerm>
+<Synonym>Viral Encephalitis</Synonym>
+<Synonym>Viral Infectious Encephalomyelitis</Synonym>
+<Description>Inflammation of brain parenchymal tissue as a result of viral infection. Encephalitis may occur as primary or secondary manifestation of TOGAVIRIDAE INFECTIONS; HERPESVIRIDAE INFECTIONS; ADENOVIRIDAE INFECTIONS; FLAVIVIRIDAE INFECTIONS; BUNYAVIRIDAE INFECTIONS; PICORNAVIRIDAE INFECTIONS; PARAMYXOVIRIDAE INFECTIONS; ORTHOMYXOVIRIDAE INFECTIONS; RETROVIRIDAE INFECTIONS; and ARENAVIRIDAE INFECTIONS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

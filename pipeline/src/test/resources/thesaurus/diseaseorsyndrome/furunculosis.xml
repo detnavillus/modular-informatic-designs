@@ -1,0 +1,43 @@
+<Record>
+<Term>Furunculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Skin Infection</ParentTerm>
+<ParentTerm>Fish Diseases</ParentTerm>
+<ParentTerm>Staphylococcal Skin Infections</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Furunculosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Furunculosis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Fish Diseases/Furunculosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Staphylococcal Infections/Staphylococcal Skin Infections/Furunculosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Skin Infection/Furunculosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Furunculosis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Fish Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Staphylococcal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Infection</BroaderTerm>
+<BroaderTerm>Furunculosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Staphylococcal Skin Infections</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<ChildTerm>Carbuncle</ChildTerm>
+<Synonym>Furunculoses</Synonym>
+<Synonym>Furunculosis</Synonym>
+<Synonym>Furuncle</Synonym>
+<Synonym>Boils</Synonym>
+<Synonym>Furuncles</Synonym>
+<Description>A persistent skin infection marked by the presence of furuncles, often chronic and recurrent. In humans, the causative agent is various species of STAPHYLOCOCCUS. In salmonid fish (SALMONIDS), the pathogen is AEROMONAS SALMONICIDA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Peripheral Vascular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Erythromelalgia</ChildTerm>
+<ChildTerm>Phlebitis</ChildTerm>
+<ChildTerm>Raynaud Disease</ChildTerm>
+<ChildTerm>Blue Toe Syndrome</ChildTerm>
+<ChildTerm>Livedo Reticularis</ChildTerm>
+<Synonym>Peripheral Vascular Diseases</Synonym>
+<Synonym>Peripheral Vascular Disease</Synonym>
+<Synonym>Peripheral Angiopathies</Synonym>
+<Synonym>Peripheral Angiopathy</Synonym>
+<Synonym>Peripheral Arterial Diseases</Synonym>
+<Synonym>Peripheral Arterial Disease</Synonym>
+<Description>Pathological processes involving any one of the BLOOD VESSELS in the vasculature outside the HEART.</Description>
+<Source>MeSH</Source>
+</Record>

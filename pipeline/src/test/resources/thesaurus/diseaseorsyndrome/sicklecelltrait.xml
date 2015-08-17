@@ -1,0 +1,33 @@
+<Record>
+<Term>Sickle Cell Trait</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Sickle Cell</ParentTerm>
+<ParentTerm>Hemoglobinopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Hemoglobinopathy/Sickle Cell Trait</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Sickle Cell Trait</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Sickle Cell Trait</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Anemia, Sickle Cell/Sickle Cell Trait</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Anemia, Sickle Cell/Sickle Cell Trait</ClassificationPath>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hemoglobinopathy</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Anemia, Sickle Cell</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Sickle Cell Trait</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Sickle Cell Traits</Synonym>
+<Synonym>Sickle Cell Trait</Synonym>
+<Description>The condition of being heterozygous for hemoglobin S.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

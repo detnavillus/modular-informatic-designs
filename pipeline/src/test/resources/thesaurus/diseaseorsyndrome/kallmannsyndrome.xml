@@ -1,0 +1,33 @@
+<Record>
+<Term>Kallmann Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Sex Differentiation Disorders</ParentTerm>
+<ParentTerm>Hypogonadism</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Kallmann Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Urogenital Abnormalities/Sex Differentiation Disorders/Kallmann Syndrome</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urogenital Abnormalities/Sex Differentiation Disorders/Kallmann Syndrome</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urogenital Abnormalities/Sex Differentiation Disorders/Kallmann Syndrome</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Sex Differentiation Disorders/Kallmann Syndrome</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Hypogonadism/Kallmann Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Sex Differentiation Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kallmann Syndrome</BroaderTerm>
+<BroaderTerm>Urogenital Abnormalities</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hypogonadism</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Kallmanns Syndrome</Synonym>
+<Synonym>Autosomal Dominant Form of Kallmann Syndrome</Synonym>
+<Synonym>Kallmann Syndrome</Synonym>
+<Synonym>Kallmann Syndrome 1</Synonym>
+<Synonym>Kallmann's Syndrome</Synonym>
+<Synonym>Kallmann Syndrome 2</Synonym>
+<Description>A genetically heterogeneous disorder caused by hypothalamic GNRH deficiency and OLFACTORY NERVE defects. It is characterized by congenital HYPOGONADOTROPIC HYPOGONADISM and ANOSMIA, possibly with additional midline defects. It can be transmitted as an X-linked (GENETIC DISEASES, X-LINKED), an autosomal dominant, or an autosomal recessive trait.Type 1 is the X-linked form with mutations of gene Kal1 which encodes anosmin-1 protein that plays a key role in the migration of GNRH-containing neurons and olfactory nerves to the HYPOTHALAMUS.Type 2 is an autosomal dominant form with loss-of-function mutations of gene Kal2 which encodes fibroblast growth-factor receptor-1 (FGFR1 PROTEIN).</Description>
+<Source>MeSH</Source>
+</Record>

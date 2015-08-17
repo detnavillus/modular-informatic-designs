@@ -1,0 +1,33 @@
+<Record>
+<Term>Temporomandibular Joint Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatognathic Diseases</ParentTerm>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ParentTerm>Craniomandibular Disorders</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Temporomandibular Joint Disorders</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Temporomandibular Joint Disorders</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Craniomandibular Disorders</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Temporomandibular Joint Disorders</BroaderTerm>
+<BroaderTerm>Mandibular Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<ChildTerm>Temporomandibular Joint Dysfunction Syndrome</ChildTerm>
+<Synonym>TMJ Disease</Synonym>
+<Synonym>Temporomandibular Joint Disorder</Synonym>
+<Synonym>Temporomandibular Joint Disease</Synonym>
+<Synonym>Temporomandibular Disorder</Synonym>
+<Synonym>Temporomandibular Joint Disorders</Synonym>
+<Synonym>TMJ Disorders</Synonym>
+<Synonym>TMJ Disorder</Synonym>
+<Synonym>Temporomandibular Joint Diseases</Synonym>
+<Synonym>TMJ Diseases</Synonym>
+<Synonym>Temporomandibular Disorders</Synonym>
+<Description>A variety of conditions affecting the anatomic and functional characteristics of the temporomandibular joint. Factors contributing to the complexity of temporomandibular diseases are its relation to dentition and mastication and the symptomatic effects in other areas which account for referred pain to the joint and the difficulties in applying traditional diagnostic procedures to temporomandibular joint pathology where tissue is rarely obtained and x-rays are often inadequate or nonspecific. Common diseases are developmental abnormalities, trauma, subluxation, luxation, arthritis, and neoplasia. (From Thoma's Oral Pathology, 6th ed, pp577-600)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Endarteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arteritis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arteritis/Endarteritis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Arteritis/Endarteritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Arterial Disorder/Arteritis/Endarteritis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Arteritis</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Endarteritis</BroaderTerm>
+<BroaderTerm>Arterial Disorder</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Endarteritis</Synonym>
+<Synonym>Endarteritides</Synonym>
+<Description>Inflammation of the inner endothelial lining (TUNICA INTIMA) of an artery.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

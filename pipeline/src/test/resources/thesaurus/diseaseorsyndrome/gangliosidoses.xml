@@ -1,0 +1,42 @@
+<Record>
+<Term>Gangliosidoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sphingolipidoses</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Gangliosidoses</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Sandhoff Disease</ChildTerm>
+<ChildTerm>Gangliosidoses, GM2</ChildTerm>
+<ChildTerm>Gangliosidosis, GM1</ChildTerm>
+<Synonym>Gangliosidosis</Synonym>
+<Synonym>Gangliosidoses</Synonym>
+<Synonym>Ganglioside Storage Disease</Synonym>
+<Synonym>Ganglioside Storage Diseases</Synonym>
+<Synonym>Ganglioside Storage Disorders</Synonym>
+<Synonym>Ganglioside Storage Disorder</Synonym>
+<Description>A group of autosomal recessive lysosomal storage disorders marked by the accumulation of GANGLIOSIDES. They are caused by impaired enzymes or defective cofactors required for normal ganglioside degradation in the LYSOSOMES. Gangliosidoses are classified by the specific ganglioside accumulated in the defective degradation pathway.</Description>
+<Source>MeSH</Source>
+</Record>

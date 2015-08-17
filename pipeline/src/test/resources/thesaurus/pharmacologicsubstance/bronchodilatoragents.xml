@@ -1,0 +1,24 @@
+<Record>
+<Term>Bronchodilator Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Asthmatic Agents</ParentTerm>
+<ParentTerm>Autonomic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Anti-Asthmatic Agents/Bronchodilator Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents/Bronchodilator Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Anti-Asthmatic Agents</BroaderTerm>
+<BroaderTerm>Bronchodilator Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Bronchodilator Agents</Synonym>
+<Synonym>Bronchial-Dilating Agents</Synonym>
+<Synonym>Broncholytic Agents</Synonym>
+<Synonym>Bronchodilators</Synonym>
+<Synonym>Bronchial Dilating Agents</Synonym>
+<Description>Agents that cause an increase in the expansion of a bronchus or bronchial tubes.</Description>
+<Source>MeSH</Source>
+</Record>

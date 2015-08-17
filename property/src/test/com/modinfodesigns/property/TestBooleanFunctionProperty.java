@@ -55,7 +55,7 @@ public class TestBooleanFunctionProperty extends TestCase
     // assertEquals( calculated age, property age)
     Date now = new Date( );
     int theYear = now.getYear(  ) + 1900;
-    System.out.println( theYear );
+    // System.out.println( theYear );
     int realAge = theYear - 1999;
     assertEquals( Integer.toString( realAge ), dObj.getProperty( "Age" ).getValue( "years" ));
 		

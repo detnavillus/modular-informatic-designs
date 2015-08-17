@@ -1,0 +1,33 @@
+<Record>
+<Term>Hypercalcemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Calcium Metabolism Disorders</ParentTerm>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Water-Electrolyte Imbalance</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Hypercalcemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Water-Electrolyte Imbalance/Hypercalcemia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypercalcemia</ClassificationPath>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Hypercalcemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Water-Electrolyte Imbalance</BroaderTerm>
+<ChildTerm>Hypercalcemia of Malignancy</ChildTerm>
+<Synonym>Milk-Alkali Syndrome</Synonym>
+<Synonym>Hypercalcemias</Synonym>
+<Synonym>Hypercalcemia</Synonym>
+<Synonym>Milk Alkali Syndrome</Synonym>
+<Synonym>hypercalcemia</Synonym>
+<Description>Abnormally high concentration of calcium in the peripheral blood. -- 2004</Description>
+<Description>Abnormally high level of calcium in the blood.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

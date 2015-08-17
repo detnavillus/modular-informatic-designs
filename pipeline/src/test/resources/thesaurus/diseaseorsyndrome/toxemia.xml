@@ -1,0 +1,26 @@
+<Record>
+<Term>Toxemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Toxemia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Toxemia</ClassificationPath>
+<BroaderTerm>Bacterial Toxemia</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Toxemia</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Endotoxemia</ChildTerm>
+<Synonym>Toxemias</Synonym>
+<Synonym>Bacterial Toxemia</Synonym>
+<Synonym>Toxemia</Synonym>
+<Description>A condition produced by the presence of toxins or other harmful substances in the BLOOD.</Description>
+<Description>The condition resulting from the spread of bacterial products (toxins) by the bloodstream.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

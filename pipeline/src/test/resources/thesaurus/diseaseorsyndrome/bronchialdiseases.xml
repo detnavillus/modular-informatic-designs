@@ -1,0 +1,22 @@
+<Record>
+<Term>Bronchial Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<ChildTerm>Asthma</ChildTerm>
+<ChildTerm>Bronchial Fistula</ChildTerm>
+<ChildTerm>Bronchial Neoplasms</ChildTerm>
+<ChildTerm>Bronchial Spasm</ChildTerm>
+<ChildTerm>Bronchiectasis</ChildTerm>
+<ChildTerm>Bronchitis</ChildTerm>
+<ChildTerm>Bronchogenic Cyst</ChildTerm>
+<ChildTerm>Bronchopneumonia</ChildTerm>
+<ChildTerm>Tracheobronchomegaly</ChildTerm>
+<ChildTerm>Bronchial Hyperreactivity</ChildTerm>
+<ChildTerm>Tracheobronchomalacia</ChildTerm>
+<Synonym>Bronchial Diseases</Synonym>
+<Synonym>Bronchial Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

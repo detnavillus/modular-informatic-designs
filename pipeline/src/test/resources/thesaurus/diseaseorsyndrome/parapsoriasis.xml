@@ -1,0 +1,31 @@
+<Record>
+<Term>Parapsoriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Papulosquamous</ParentTerm>
+<ParentTerm>Cutaneous Precancerous Condition</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Parapsoriasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Cutaneous Precancerous Condition/Parapsoriasis</ClassificationPath>
+<BroaderTerm>Parapsoriasis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Cutaneous Precancerous Condition</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Large Plaque Parapsoriasis</ChildTerm>
+<ChildTerm>Parapsoriasis Lichenoides</ChildTerm>
+<ChildTerm>Pityriasis Lichenoides</ChildTerm>
+<Synonym>Parapsoriasis</Synonym>
+<Synonym>Parapsoriasis en Plaque</Synonym>
+<Synonym>Parapsoriasis en Plaques</Synonym>
+<Synonym>Parapsoriases</Synonym>
+<Synonym>Maculopapular Erythroderma</Synonym>
+<Synonym>Parakeratosis Variegata</Synonym>
+<Synonym>Maculopapular Erythrodermas</Synonym>
+<Description>The term applied to a group of relatively uncommon inflammatory, maculopapular, scaly eruptions of unknown etiology and resistant to conventional treatment. Eruptions are both psoriatic and lichenoid in appearance, but the diseases are distinct from psoriasis, lichen planus, or other recognized dermatoses. Proposed nomenclature divides parapsoriasis into two distinct subgroups, PITYRIASIS LICHENOIDES and parapsoriasis en plaques (small- and large-plaque parapsoriasis).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

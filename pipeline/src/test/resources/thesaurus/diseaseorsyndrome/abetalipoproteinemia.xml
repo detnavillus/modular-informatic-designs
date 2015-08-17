@@ -1,0 +1,29 @@
+<Record>
+<Term>Abetalipoproteinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypobetalipoproteinemias</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypobetalipoproteinemias/Abetalipoproteinemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypobetalipoproteinemias/Abetalipoproteinemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hypolipoproteinemias/Hypobetalipoproteinemias/Abetalipoproteinemia</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Abetalipoproteinemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypolipoproteinemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<BroaderTerm>Hypobetalipoproteinemias</BroaderTerm>
+<Synonym>Microsomal Triglyceride Transfer Protein Deficiency</Synonym>
+<Synonym>Betalipoprotein Deficiency Disease</Synonym>
+<Synonym>Abetalipoproteinemia</Synonym>
+<Synonym>Microsomal Triglyceride Transfer Protein Deficiency Disease</Synonym>
+<Synonym>Bassen-Kornzweig Disease</Synonym>
+<Synonym>Bassen Kornzweig Disease</Synonym>
+<Synonym>Bassen-Kornzweig Syndrome</Synonym>
+<Synonym>Bassen Kornzweig Syndrome</Synonym>
+<Description>An autosomal recessive disorder of lipid metabolism. It is caused by mutation of the microsomal triglyceride transfer protein that catalyzes the transport of lipids (TRIGLYCERIDES; CHOLESTEROL ESTERS; PHOSPHOLIPIDS) and is required in the secretion of BETA-LIPOPROTEINS (low density lipoproteins or LDL). Features include defective intestinal lipid absorption, very low serum cholesterol level, and near absent LDL.</Description>
+<Source>MeSH</Source>
+</Record>

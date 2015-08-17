@@ -1,0 +1,46 @@
+<Record>
+<Term>Neuromyelitis Optica</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Optic Neuritis</ParentTerm>
+<ParentTerm>Demyelinating Autoimmune Diseases, CNS</ParentTerm>
+<ParentTerm>Multiple Sclerosis</ParentTerm>
+<ParentTerm>Myelitis, Transverse</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases/Optic Neuritis/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases/Optic Neuritis/Neuromyelitis Optica</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Neuromyelitis Optica</ClassificationPath>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Optic Neuritis</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Neuromyelitis Optica</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis</BroaderTerm>
+<BroaderTerm>Myelitis, Transverse</BroaderTerm>
+<Synonym>Devic Disease</Synonym>
+<Synonym>Devic's Syndromes</Synonym>
+<Synonym>Devic's Neuromyelitis Opticas</Synonym>
+<Synonym>Devic's Syndrome</Synonym>
+<Synonym>Devics Disease</Synonym>
+<Synonym>Devics Neuromyelitis Optica</Synonym>
+<Synonym>Devic Syndrome</Synonym>
+<Synonym>Devic Neuromyelitis Optica</Synonym>
+<Synonym>Neuromyelitis Optica</Synonym>
+<Synonym>Devics Syndrome</Synonym>
+<Synonym>Devic's Disease</Synonym>
+<Synonym>Devic's Neuromyelitis Optica</Synonym>
+<Description>A syndrome characterized by acute OPTIC NEURITIS in combination with acute MYELITIS, TRANSVERSE. Demyelinating and/or necrotizing lesions form in one or both optic nerves and in the spinal cord. The onset of optic neuritis and myelitis may be simultaneous or separated by several months. (J Neurol Neurosurg Psychiatry 1996 Apr;60(4):382-387)</Description>
+<Source>MeSH</Source>
+</Record>

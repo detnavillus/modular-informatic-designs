@@ -1,0 +1,22 @@
+<Record>
+<Term>Lactation Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Diseases</ParentTerm>
+<ParentTerm>Puerperal Disorders</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Puerperal Disorders/Lactation Disorders</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases/Lactation Disorders</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Puerperal Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Lactation Disorders</BroaderTerm>
+<ChildTerm>Galactorrhea</ChildTerm>
+<Synonym>Hypogalactia</Synonym>
+<Synonym>Lactation Disorder</Synonym>
+<Synonym>Hypogalactias</Synonym>
+<Synonym>Lactation Disorders</Synonym>
+<Description>Disturbances of MILK secretion in either SEX, not necessarily related to PREGNANCY.A condition of less than normal MILK secretion.</Description>
+<Source>MeSH</Source>
+</Record>

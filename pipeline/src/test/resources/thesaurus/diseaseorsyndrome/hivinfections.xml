@@ -1,0 +1,39 @@
+<Record>
+<Term>HIV Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Sexually Transmitted Diseases, Viral</ParentTerm>
+<ParentTerm>Lentivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<ChildTerm>AIDS Arteritis, Central Nervous System</ChildTerm>
+<ChildTerm>AIDS Dementia Complex</ChildTerm>
+<ChildTerm>AIDS-Related Opportunistic Infections</ChildTerm>
+<ChildTerm>HIV Seropositivity</ChildTerm>
+<ChildTerm>AIDS-Associated Nephropathy</ChildTerm>
+<ChildTerm>HIV-Associated Lipodystrophy Syndrome</ChildTerm>
+<ChildTerm>AIDS-Related Complex</ChildTerm>
+<ChildTerm>HIV Wasting Syndrome</ChildTerm>
+<ChildTerm>Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>HIV Enteropathy</ChildTerm>
+<Synonym>HTLV III Infections</Synonym>
+<Synonym>HTLV III LAV Infections</Synonym>
+<Synonym>HTLV-III Infection</Synonym>
+<Synonym>HIV Infections</Synonym>
+<Synonym>HTLV-III-LAV Infections</Synonym>
+<Synonym>HTLV-III-LAV Infection</Synonym>
+<Synonym>HTLV-III Infections</Synonym>
+<Synonym>HIV Infection</Synonym>
+<Description>Includes the spectrum of human immunodeficiency virus infections that range from asymptomatic seropositivity, thru AIDS-related complex (ARC), to acquired immunodeficiency syndrome (AIDS).</Description>
+<Source>MeSH</Source>
+</Record>

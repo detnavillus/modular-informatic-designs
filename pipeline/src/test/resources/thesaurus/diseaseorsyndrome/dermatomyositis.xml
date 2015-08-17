@@ -1,0 +1,57 @@
+<Record>
+<Term>Dermatomyositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Myositis</ParentTerm>
+<ParentTerm>Rheumatologic Disorder</ParentTerm>
+<ParentTerm>Polymyositis</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Polymyositis/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Dermatomyositis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Dermatomyositis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Dermatomyositis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis/Polymyositis/Dermatomyositis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Dermatomyositis</BroaderTerm>
+<BroaderTerm>Dermatomyositis,</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Polymyositis</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Childhood Dermatomyositis</ChildTerm>
+<ChildTerm>Adult Dermatomyositis</ChildTerm>
+<Synonym>Dermatomyositides</Synonym>
+<Synonym>Polymyositis-Dermatomyositides</Synonym>
+<Synonym>Polymyositis-Dermatomyositis</Synonym>
+<Synonym>Adult Type Dermatomyositis</Synonym>
+<Synonym>Dermatopolymyositides</Synonym>
+<Synonym>Polymyositis Dermatomyositis</Synonym>
+<Synonym>Dermatomyositis</Synonym>
+<Synonym>Dermatopolymyositis</Synonym>
+<Synonym>Adult Type Dermatomyositides</Synonym>
+<Synonym>Childhood Type Dermatomyositis</Synonym>
+<Synonym>Childhood Type Dermatomyositides</Synonym>
+<Description>A subacute or chronic inflammatory disease of muscle and skin, marked by proximal muscle weakness and a characteristic skin rash. The illness occurs with approximately equal frequency in children and adults. The skin lesions usually take the form of a purplish rash (or less often an exfoliative dermatitis) involving the nose, cheeks, forehead, upper trunk, and arms. The disease is associated with a complement mediated intramuscular microangiopathy, leading to loss of capillaries, muscle ischemia, muscle-fiber necrosis, and perifascicular atrophy. The childhood form of this disease tends to evolve into a systemic vasculitis. Dermatomyositis may occur in association with malignant neoplasms. (From Adams et al., Principles of Neurology, 6th ed, pp1405-6)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Virulizin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/Virulizin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Virulizin</BroaderTerm>
+<Synonym>Virulizin</Synonym>
+<Description>A natural biological response modifier (BRM) isolated from bovine reticuloendothelial tissue. Viruzlin may enhance cell-mediated immune response to tumor cells by direct macrophage activation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

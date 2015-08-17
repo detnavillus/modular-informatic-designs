@@ -1,0 +1,14 @@
+<Record>
+<Term>Ozone-based Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Ozone-based Agent</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ozone-based Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ozone-based Agent</Synonym>
+<Description>Compounds that contain Ozone, a highly active oxidizing agent that have application in the treatment of bacterial and viral infections, cancer diagnosis, treatment, and evaluation of disease progression. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

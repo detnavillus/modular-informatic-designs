@@ -1,0 +1,16 @@
+<Record>
+<Term>AVR118</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Response Modifier</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/AVR118</ClassificationPath>
+<BroaderTerm>AVR118</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AVR118</Synonym>
+<Synonym>Product R</Synonym>
+<Synonym>Reticulose</Synonym>
+<Description>A peptide-nucleic acid immunomodulator with proinflammatory, broad-spectrum antiviral, and potential antineoplastic activities. AVR118 stimulates the peripheral blood mononuclear cell (PBMC) production of the proinflammatory cytokines IFN-y, IL-1b, IL-6 and TNF-a. This agent may reduce HIV-1 p24 antigen; viral reverse transcriptase activity; syncytial cell formation; and viral mRNA in infected PBMCs and human CD4+ lymphocyte H9 cells, and may decrease viral loads and increase CD4+ and CD8+ T-cell counts in HIV patients. In vitro, AVR118 has been shown to induce the maturation of HL60 leukemic cells and to inhibit the invasive and metastatic properties of a highly malignant breast cancer cell line.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Glyoktyl</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Laxative Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Laxative Preparation/Glyoktyl</ClassificationPath>
+<BroaderTerm>Laxative Preparation</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Glyoktyl</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Glycerin/Docusate</Synonym>
+<Synonym>Glyoktyl</Synonym>
+<Description>A Danish brand name for a laxative product containing glycerin and docusate sodium.  As a hyperosmotic laxative, glycerin draws water into the bowel from surrounding tissues, thereby softening the stool and increasing bowel action.  Docusate sodium acts as a surface-active agent (emollient) that promotes the mixing of intestinal liquid and dry stool. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

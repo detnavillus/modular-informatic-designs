@@ -1,0 +1,21 @@
+<Record>
+<Term>Cationic Liposome-Encapsulated Paclitaxel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Cationic Liposome-Encapsulated Paclitaxel</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Cationic Liposome-Encapsulated Paclitaxel</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cationic Liposome-Encapsulated Paclitaxel</Synonym>
+<Synonym>EndoTAG-1</Synonym>
+<Synonym>LipoPac</Synonym>
+<Synonym>MBT-0206</Synonym>
+<Description>A cationic liposome preparation of paclitaxel with antineoplastic activity. Paclitaxel, the active ingredient in cationic liposome-encapsulated paclitaxel, binds to tubulin and inhibits the disassembly of microtubules, resulting in the inhibition of mitosis and cellular proliferation, and apoptosis. Cationic liposome encapsulation of paclitaxel allows the delivery of high doses of paclitaxel to target tissues while minimizing systemic toxicity. Tumor endothelial cells may preferentially bind and internalize cationic liposomes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

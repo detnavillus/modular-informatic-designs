@@ -1,0 +1,32 @@
+<Record>
+<Term>Sleep Apnea Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Apnea</ParentTerm>
+<ParentTerm>Sleep Disorders, Intrinsic</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Apnea/Sleep Apnea Syndromes</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Apnea Syndromes</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Apnea</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Sleep Apnea Syndromes</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Sleep Apnea, Central</ChildTerm>
+<ChildTerm>Sleep Apnea, Obstructive</ChildTerm>
+<Synonym>Hypersomnia with Periodic Respiration</Synonym>
+<Synonym>Sleep Disordered Breathing</Synonym>
+<Synonym>Sleep Hypopneas</Synonym>
+<Synonym>Sleep Apnea Syndromes</Synonym>
+<Synonym>Sleep-Disordered Breathing</Synonym>
+<Synonym>Sleep Hypopnea</Synonym>
+<Synonym>Sleep Apnea Syndrome</Synonym>
+<Synonym>Sleep Apneas</Synonym>
+<Synonym>Sleep Apnea</Synonym>
+<Synonym>Mixed Sleep Apneas</Synonym>
+<Synonym>Mixed Sleep Apnea</Synonym>
+<Synonym>Mixed Central and Obstructive Sleep Apnea</Synonym>
+<Description>Disorders characterized by multiple cessations of respirations during sleep that induce partial arousals and interfere with the maintenance of sleep. Sleep apnea syndromes are divided into central (see SLEEP APNEA, CENTRAL), obstructive (see SLEEP APNEA, OBSTRUCTIVE), and mixed central-obstructive types.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,36 @@
+<Record>
+<Term>Chronic Bronchitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bronchitis</ParentTerm>
+<ParentTerm>Chronic Obstructive Pulmonary Disease</ParentTerm>
+<ParentTerm>Pulmonary Disease, Chronic Obstructive</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Bronchitis/Chronic Bronchitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Chronic Obstructive Pulmonary Disease/Chronic Bronchitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Bronchitis/Bronchitis, Chronic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Bronchitis/Bronchitis, Chronic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchitis/Bronchitis, Chronic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Pulmonary Disease, Chronic Obstructive/Bronchitis, Chronic</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Chronic Obstructive Pulmonary Disease</BroaderTerm>
+<BroaderTerm>Pulmonary Disease, Chronic Obstructive</BroaderTerm>
+<BroaderTerm>Bronchitis, Chronic</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchitis</BroaderTerm>
+<BroaderTerm>Chronic Bronchitis,</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Chronic Bronchitis</BroaderTerm>
+<Synonym>Chronic Bronchitis</Synonym>
+<Description>A subcategory of CHRONIC OBSTRUCTIVE PULMONARY DISEASE. The disease is characterized by hypersecretion of mucus accompanied by a chronic (more than 3 months in 2 consecutive years) productive cough. Infectious agents are a major cause of chronic bronchitis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

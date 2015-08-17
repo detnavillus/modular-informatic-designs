@@ -1,0 +1,20 @@
+<Record>
+<Term>Talaporfin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Photosensitizing Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Photosensitizing Agent/Talaporfin Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Talaporfin Sodium</BroaderTerm>
+<BroaderTerm>Photosensitizing Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>LS11</Synonym>
+<Synonym>Laserphyrin</Synonym>
+<Synonym>ME2906</Synonym>
+<Synonym>Mono-L-aspartyl Chlorin e6</Synonym>
+<Synonym>NPe6</Synonym>
+<Synonym>Talaporfin Sodium</Synonym>
+<Synonym>Taporfin Sodium</Synonym>
+<Description>An agent consisting of chlorin e6, derived from chlorophyll, and L-aspartic acid with photosensitizing activity.  After intratumoral activation by light emitting diodes, taporfin sodium forms an extended high energy conformational state that generates singlet oxygen, resulting in free radical-mediated cell death. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

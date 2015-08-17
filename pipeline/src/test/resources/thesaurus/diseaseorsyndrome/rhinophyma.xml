@@ -1,0 +1,28 @@
+<Record>
+<Term>Rhinophyma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rosacea</ParentTerm>
+<ParentTerm>Non-Neoplastic Nasal Cavity Disorder</ParentTerm>
+<ParentTerm>Sebaceous Gland Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Nasal Cavity and Paranasal Sinus Disorder/Non-Neoplastic Nasal Cavity Disorder/Rhinophyma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Rosacea/Rhinophyma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sebaceous Gland Diseases/Rhinophyma</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nasal Cavity Disorder</BroaderTerm>
+<BroaderTerm>Sebaceous Gland Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Rosacea</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Rhinophyma</BroaderTerm>
+<Synonym>Rhinophymas</Synonym>
+<Synonym>Rhinophyma</Synonym>
+<Description>A manifestation of severe ROSACEA resulting in significant enlargement of the NOSE and occurring primarily in men. It is caused by hypertrophy of the SEBACEOUS GLANDS and surrounding CONNECTIVE TISSUE. The nose is reddened and marked with TELANGIECTASIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Bulbar Poliomyelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Poliomyelitis</ParentTerm>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Myelitis/Poliomyelitis/Poliomyelitis, Bulbar</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Poliomyelitis/Poliomyelitis, Bulbar</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Poliomyelitis/Poliomyelitis, Bulbar</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Poliomyelitis</BroaderTerm>
+<BroaderTerm>Poliomyelitis, Bulbar</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Myelitis</BroaderTerm>
+<Synonym>Bulbar Poliomyelitis</Synonym>
+<Synonym>Medullary Involvement Poliomyelitis</Synonym>
+<Synonym>Bulbar Polio</Synonym>
+<Description>A form of paralytic poliomyelitis affecting neurons of the MEDULLA OBLONGATA of the brain stem. Clinical features include impaired respiration, HYPERTENSION, alterations of vasomotor control, and dysphagia. Weakness and atrophy of the limbs and trunk due to spinal cord involvement is usually associated. (From Adams et al., Principles of Neurology, 6th ed, p765)</Description>
+<Source>MeSH</Source>
+</Record>

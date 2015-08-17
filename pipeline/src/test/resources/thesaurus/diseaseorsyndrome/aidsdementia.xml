@@ -1,0 +1,18 @@
+<Record>
+<Term>AIDS Dementia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>AIDS Encephalopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/AIDS-Related Disorder/AIDS Encephalopathy/AIDS Dementia</ClassificationPath>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>AIDS Encephalopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>AIDS-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>AIDS Dementia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>AIDS Dementia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

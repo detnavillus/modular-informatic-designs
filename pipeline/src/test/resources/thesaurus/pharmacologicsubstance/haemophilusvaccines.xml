@@ -1,0 +1,18 @@
+<Record>
+<Term>Haemophilus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Haemophilus Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Haemophilus Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Haemophilus Vaccines</Synonym>
+<Synonym>Hemophilus Vaccines</Synonym>
+<Synonym>Haemophilus influenzae Vaccines</Synonym>
+<Synonym>Haemophilus Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines containing antigenic polysaccharides from Haemophilus influenzae and designed to prevent infection. The vaccine can contain the polysaccharides alone or more frequently polysaccharides conjugated to carrier molecules. It is also seen as a combined vaccine with diphtheria-tetanus-pertussis vaccine.</Description>
+<Source>MeSH</Source>
+</Record>

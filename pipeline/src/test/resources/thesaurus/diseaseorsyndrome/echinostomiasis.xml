@@ -1,0 +1,14 @@
+<Record>
+<Term>Echinostomiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Trematode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Echinostomiasis</ClassificationPath>
+<BroaderTerm>Echinostomiasis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Echinostomiasis</Synonym>
+<Synonym>Echinostomiases</Synonym>
+<Description>Infection by flukes of the genus Echinostoma.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,93 @@
+<Record>
+<Term>Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event by CTCAE Category</ParentTerm>
+<ParentTerm>Non-Neoplastic Disorder by Special Category</ParentTerm>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Infection</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Bone Diseases, Infectious</ChildTerm>
+<ChildTerm>Community-Acquired Infections</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases</ChildTerm>
+<ChildTerm>Cross Infection</ChildTerm>
+<ChildTerm>Indirect Contact Transmission Infection</ChildTerm>
+<ChildTerm>Skin Diseases, Infectious</ChildTerm>
+<ChildTerm>Protozoal Infection</ChildTerm>
+<ChildTerm>Respiratory Tract Infections</ChildTerm>
+<ChildTerm>Latent Infection</ChildTerm>
+<ChildTerm>Opportunistic Infections</ChildTerm>
+<ChildTerm>Ludwig's Angina</ChildTerm>
+<ChildTerm>Aneurysm, Infected</ChildTerm>
+<ChildTerm>Infectious Colitis Adverse Event</ChildTerm>
+<ChildTerm>Chlamydial Infection</ChildTerm>
+<ChildTerm>Subclinical Infection</ChildTerm>
+<ChildTerm>Opportunistic Infection Adverse Event Associated with Grade 2 or Greater Lymphopenia</ChildTerm>
+<ChildTerm>Focal Infection</ChildTerm>
+<ChildTerm>Zoonotic Infection</ChildTerm>
+<ChildTerm>Soft Tissue Infections</ChildTerm>
+<ChildTerm>Viral Infection</ChildTerm>
+<ChildTerm>Viral Hepatitis Adverse Event</ChildTerm>
+<ChildTerm>Eye Infections</ChildTerm>
+<ChildTerm>Communicable Diseases</ChildTerm>
+<ChildTerm>Suppuration</ChildTerm>
+<ChildTerm>Sepsis</ChildTerm>
+<ChildTerm>Wound Infection</ChildTerm>
+<ChildTerm>Opportunistic Infection</ChildTerm>
+<ChildTerm>Febrile Neutropenia without Clinically or Microbiologically Documented Infection with Absolute Neutrophil Count Less Than 1 X 10e9 per Liter and Temperature Greater Than or Equal to 38 Point 5 Degrees Celsius</ChildTerm>
+<ChildTerm>Parasitic Infection</ChildTerm>
+<ChildTerm>Bacterial Infection</ChildTerm>
+<ChildTerm>Lymphogranuloma Venereum</ChildTerm>
+<ChildTerm>Sexually Transmitted Disorder</ChildTerm>
+<ChildTerm>Toxemia</ChildTerm>
+<ChildTerm>Arthritis, Infectious</ChildTerm>
+<ChildTerm>Lymphangitis</ChildTerm>
+<ChildTerm>Infection Adverse Event Documented Clinically or Microbiologically with Grade 3 or 4 Neutrophils Absolute Neutrophil Count Less Than 1 X 10e9 per Liter</ChildTerm>
+<ChildTerm>Infection Adverse Event with Unknown Absolute Neutrophil Count</ChildTerm>
+<ChildTerm>Prosthesis-Related Infections</ChildTerm>
+<ChildTerm>Tropical Disease</ChildTerm>
+<ChildTerm>Direct Contact Transmission Infection</ChildTerm>
+<ChildTerm>Cardiovascular Infections</ChildTerm>
+<ChildTerm>Fungal Infection</ChildTerm>
+<ChildTerm>Laboratory Infection</ChildTerm>
+<ChildTerm>Urinary Tract Infections</ChildTerm>
+<ChildTerm>Bacterial Toxemia</ChildTerm>
+<ChildTerm>Pyrogenic Infection</ChildTerm>
+<ChildTerm>Infection Other Adverse Event</ChildTerm>
+<ChildTerm>Catheter-Related Infections</ChildTerm>
+<ChildTerm>Infection Adverse Event with Normal Absolute Neutrophil Count or Grade 1 or 2 Neutrophils</ChildTerm>
+<ChildTerm>Granuloma Inguinale</ChildTerm>
+<ChildTerm>Pelvic Infection</ChildTerm>
+<ChildTerm>Infectious Disorder by Site</ChildTerm>
+<ChildTerm>Pregnancy Complications, Infectious</ChildTerm>
+<ChildTerm>Gingivitis, Necrotizing Ulcerative</ChildTerm>
+<Synonym>Infection</Synonym>
+<Synonym>Adverse Event Associated with Infection</Synonym>
+<Synonym>Infectious</Synonym>
+<Synonym>Infectious Diseases</Synonym>
+<Synonym>Infectious Disorder</Synonym>
+<Synonym>INFECTIONS AND INFESTATIONS</Synonym>
+<Synonym>Infections</Synonym>
+<Synonym>INFECTION</Synonym>
+<Synonym>Infectious Disease</Synonym>
+<Synonym>Infectious Diseases and Manifestations</Synonym>
+<Synonym>infection</Synonym>
+<Description>Invasion of the host organism by microorganisms that can cause pathological conditions or diseases.</Description>
+<Description>A disorder resulting from the presence and activity of a microbial, viral, or parasitic agent. It can be transmitted by direct or indirect contact. -- 2003</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

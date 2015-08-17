@@ -1,0 +1,22 @@
+<Record>
+<Term>Uterine Cervical Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uterine Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases/Uterine Cervical Diseases</ClassificationPath>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Uterine Cervical Diseases</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Uterine Cervicitis</ChildTerm>
+<ChildTerm>Uterine Cervical Dysplasia</ChildTerm>
+<ChildTerm>Uterine Cervical Erosion</ChildTerm>
+<ChildTerm>Uterine Cervical Incompetence</ChildTerm>
+<ChildTerm>Uterine Cervical Neoplasms</ChildTerm>
+<Synonym>Uterine Cervical Diseases</Synonym>
+<Synonym>Uterine Cervical Disease</Synonym>
+<Synonym>Cervix Diseases</Synonym>
+<Synonym>Cervix Disease</Synonym>
+<Description>Pathological processes of the UTERINE CERVIX.</Description>
+<Source>MeSH</Source>
+</Record>

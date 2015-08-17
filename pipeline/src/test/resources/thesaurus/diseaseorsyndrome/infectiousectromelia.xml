@@ -1,0 +1,19 @@
+<Record>
+<Term>Infectious Ectromelia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rodent Diseases</ParentTerm>
+<ParentTerm>Poxviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Poxviridae Infections/Ectromelia, Infectious</ClassificationPath>
+<ClassificationPath>Animal Diseases/Rodent Diseases/Ectromelia, Infectious</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Rodent Diseases</BroaderTerm>
+<BroaderTerm>Ectromelia, Infectious</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Poxviridae Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Infectious Ectromelia</Synonym>
+<Synonym>Mousepox</Synonym>
+<Synonym>Mouse Pox</Synonym>
+<Description>A viral infection of mice, causing edema and necrosis followed by limb loss.</Description>
+<Source>MeSH</Source>
+</Record>

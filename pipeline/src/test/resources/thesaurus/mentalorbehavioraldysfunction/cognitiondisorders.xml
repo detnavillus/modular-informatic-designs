@@ -1,0 +1,15 @@
+<Record>
+<Term>Cognition Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Cognition Disorders</ClassificationPath>
+<BroaderTerm>Cognition Disorders</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Auditory Perceptual Disorders</ChildTerm>
+<ChildTerm>Huntington Disease</ChildTerm>
+<Synonym>Cognition Disorders</Synonym>
+<Synonym>Overinclusion</Synonym>
+<Description>Disturbances in the mental process related to thinking, reasoning, and judgment.</Description>
+<Source>MeSH</Source>
+</Record>

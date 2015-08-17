@@ -1,0 +1,26 @@
+<Record>
+<Term>Nervous System Alcohol-Induced Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ParentTerm>Neurotoxicity Syndromes</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Alcohol-Induced Disorders, Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<ChildTerm>Alcohol Amnestic Disorder</ChildTerm>
+<ChildTerm>Alcohol Withdrawal Seizures</ChildTerm>
+<ChildTerm>Alcohol Withdrawal Delirium</ChildTerm>
+<ChildTerm>Alcoholic Neuropathy</ChildTerm>
+<Synonym>Ethyl Alcohol Abuse Neurologic Syndromes</Synonym>
+<Synonym>Ethanol-Induced Nervous System Disorders</Synonym>
+<Synonym>Ethanol Induced Nervous System Disorders</Synonym>
+<Description>Acute and chronic neurologic disorders associated with the various neurologic effects of ETHANOL. Primary sites of injury include the brain and peripheral nerves.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Yttrium Y 90 Anti-CD45 Monoclonal Antibody AHN-12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Anti-CD45 Monoclonal Antibody AHN-12</ClassificationPath>
+<BroaderTerm>Yttrium Y 90 Anti-CD45 Monoclonal Antibody AHN-12</BroaderTerm>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y 90 AHN-12</Synonym>
+<Synonym>Yttrium Y 90 Anti-CD45 Monoclonal Antibody AHN-12</Synonym>
+<Description>A radioimmunoconjugate comprised of the monoclonal antibody AHN-12 conjugated to the radioisotope yttrium 90 with potential radioimmunotherapeutic activity. Yttrium Y 90 monoclonal antibody AHN-12 binds to the tyrosine phosphatase CD45, expressed on the surface of normal and malignant hematopoietic cells. After binding and internalization by CD45-expressing tumor cells, this agent may deliver a cytotoxic dose of beta radiation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

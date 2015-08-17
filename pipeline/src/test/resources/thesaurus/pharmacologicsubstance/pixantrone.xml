@@ -1,0 +1,17 @@
+<Record>
+<Term>Pixantrone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Intercalating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Intercalating Agent/Pixantrone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Intercalating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Pixantrone</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>PIXANTRONE</Synonym>
+<Synonym>Pixantrone</Synonym>
+<Description>A synthetic noncardiotoxic aza-anthracenedione analogue. Pixantrone intercalates into DNA and induces topoisomerase II-mediated DNA strand crosslinks, resulting in inhibition of DNA replication and tumor cell cytotoxicity. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Feline Infectious Peritonitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronavirus Infections</ParentTerm>
+<ParentTerm>Cat Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cat Diseases/Feline Infectious Peritonitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections/Coronavirus Infections/Feline Infectious Peritonitis</ClassificationPath>
+<BroaderTerm>Feline Infectious Peritonitis</BroaderTerm>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Coronavirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<BroaderTerm>Cat Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Feline Infectious Peritonitis</Synonym>
+<Synonym>Feline Infectious Peritonitides</Synonym>
+<Description>Common coronavirus infection of cats caused by the feline infectious peritonitis virus (CORONAVIRUS, FELINE). The disease is characterized by a long incubation period, fever, depression, loss of appetite, wasting, and progressive abdominal enlargement. Infection of cells of the monocyte-macrophage lineage appears to be essential in FIP pathogenesis.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>GI-4000 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/GI-4000 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>GI-4000 Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>GI-4000 Vaccine</Synonym>
+<Description>A vaccine containing a heat-killed recombinant Saccharomyces cerevisiae yeast transfected with mutated forms of Ras, an oncogene frequently found in solid tumors, with potential immunostimulant and antitumor activity. Upon administration, GI-4000 vaccine elicits an immune response by stimulating a specific cytotoxic T-cell response against the mutated forms of Ras. This may lead to a destruction of cancer cells expressing a Ras mutation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

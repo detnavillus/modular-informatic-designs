@@ -1,0 +1,20 @@
+<Record>
+<Term>Eating Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Eating Disorders</ClassificationPath>
+<BroaderTerm>Eating Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Coprophagia</ChildTerm>
+<ChildTerm>Anorexia Nervosa</ChildTerm>
+<ChildTerm>Pica</ChildTerm>
+<ChildTerm>Bulimia Nervosa</ChildTerm>
+<ChildTerm>Female Athlete Triad Syndrome</ChildTerm>
+<ChildTerm>Binge-Eating Disorder</ChildTerm>
+<Synonym>Eating Disorders</Synonym>
+<Synonym>Eating Disorder</Synonym>
+<Synonym>Appetite Disorders</Synonym>
+<Synonym>Appetite Disorder</Synonym>
+<Description>A group of disorders characterized by physiological and psychological disturbances in appetite or food intake.</Description>
+<Source>MeSH</Source>
+</Record>

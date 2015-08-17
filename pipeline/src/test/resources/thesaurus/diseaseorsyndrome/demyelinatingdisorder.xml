@@ -1,0 +1,20 @@
+<Record>
+<Term>Demyelinating Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Demyelinating Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Demyelinating Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Demyelinating Disorder of Central Nervous System</ChildTerm>
+<ChildTerm>Demyelinating Polyneuropathy</ChildTerm>
+<Synonym>Demyelinating Disease</Synonym>
+<Synonym>Demyelinating Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

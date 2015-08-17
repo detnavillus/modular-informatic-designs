@@ -1,0 +1,19 @@
+<Record>
+<Term>Microscopic Polyarteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vasculitis/Microscopic Polyarteritis</ClassificationPath>
+<BroaderTerm>Microscopic Polyarteritis</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>MPA</Synonym>
+<Synonym>Microscopic Polyarteritis</Synonym>
+<Description>A systemic necrotizing vasculitis that typically affects the small and medium-sized muscular arteries. In some cases, however, microscopic vessels are also affected (e.g., in the kidneys), a condition that has been called microscopic polyarteritis or polyangiitis; this disorder is felt to be more closely associated with Wegener's granulomatosis than to classic polyarteritis nodosa.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Colorectal Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Colorectal Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Colorectal Polyp</ClassificationPath>
+<BroaderTerm>Colorectal Polyp,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Colorectal Polyp</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Colon Polyp</ChildTerm>
+<ChildTerm>Colorectal Juvenile Polyp</ChildTerm>
+<ChildTerm>Colorectal Hyperplastic Polyp</ChildTerm>
+<ChildTerm>Colorectal Inflammatory Polyp</ChildTerm>
+<Synonym>Colorectal Polyp</Synonym>
+<Synonym>Large Bowel Polyp</Synonym>
+<Synonym>Large Intestine Polyp</Synonym>
+<Synonym>Polyp of Large Bowel</Synonym>
+<Synonym>Polyp of Large Intestine</Synonym>
+<Synonym>Polyp of the Large Bowel</Synonym>
+<Synonym>Polyp of the Large Intestine</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

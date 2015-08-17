@@ -1,0 +1,16 @@
+<Record>
+<Term>URLC10 Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/URLC10 Peptide Vaccine</ClassificationPath>
+<BroaderTerm>URLC10 Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>URLC10 Peptide Vaccine</Synonym>
+<Description>A cancer vaccine containing URLC10 (up-regulated lung cancer 10) epitopes with potential immunostimulatory and antineoplastic activities. Upon administration, URL peptide vaccine may stimulate a cytotoxic T lymphocyte (CTL) response against URLC10-expressing tumor cells. Up-regulated in lung and esophageal cancers, the function of URLC10 is unknown.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

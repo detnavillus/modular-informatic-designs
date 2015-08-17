@@ -1,0 +1,17 @@
+<Record>
+<Term>Tularemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Tularemia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tularemia</ClassificationPath>
+<BroaderTerm>Tularemia</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Tularemia</Synonym>
+<Synonym>Tularemias</Synonym>
+<Description>A plague-like disease of rodents, transmissible to man. It is caused by FRANCISELLA TULARENSIS and is characterized by fever, chills, headache, backache, and weakness.</Description>
+<Source>MeSH</Source>
+</Record>

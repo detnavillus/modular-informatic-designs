@@ -1,0 +1,20 @@
+<Record>
+<Term>Nephrogenic Fibrosing Dermopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fibrosis</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Nephrogenic Fibrosing Dermopathy</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Fibrosis/Nephrogenic Fibrosing Dermopathy</ClassificationPath>
+<BroaderTerm>Fibrosis</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nephrogenic Fibrosing Dermopathy</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<Synonym>Nephrogenic Fibrosing Dermopathies</Synonym>
+<Synonym>Nephrogenic Fibrosing Dermopathy</Synonym>
+<Synonym>Nephrogenic Systemic Fibroses</Synonym>
+<Synonym>Nephrogenic Systemic Fibrosis</Synonym>
+<Description>A chronic, acquired, idiopathic, progressive eruption of the skin that occurs in the context of RENAL FAILURE. It is sometimes accompanied by systemic fibrosis. The pathogenesis seems to be multifactorial, with postulated involvement of circulating fibrocytes. There is a strong association between this disorder and the use of gadolinium-based contrast agents.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,38 @@
+<Record>
+<Term>Acquired Dyslexia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ParentTerm>
+<ParentTerm>Dyslexia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Learning Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Communication Disorders/Learning Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders/Dyslexia/Dyslexia, Acquired</ClassificationPath>
+<BroaderTerm>Learning Disorders</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Dyslexia</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Dyslexia, Acquired</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Alexia, Pure</ChildTerm>
+<Synonym>Acquired Dyslexia</Synonym>
+<Synonym>Acquired Word Blindnesses</Synonym>
+<Synonym>Acquired Reading Disabilities</Synonym>
+<Synonym>Acquired Alexia</Synonym>
+<Synonym>Acquired Spelling Dyslexia</Synonym>
+<Synonym>Acquired Word Blindness</Synonym>
+<Synonym>Acquired Reading Disability</Synonym>
+<Synonym>Acquired Global Dyslexia</Synonym>
+<Description>A receptive visual aphasia characterized by the loss of a previously possessed ability to comprehend the meaning or significance of handwritten words, despite intact vision. This condition may be associated with posterior cerebral artery infarction (INFARCTION, POSTERIOR CEREBRAL ARTERY) and other BRAIN DISEASES.</Description>
+<Source>MeSH</Source>
+</Record>

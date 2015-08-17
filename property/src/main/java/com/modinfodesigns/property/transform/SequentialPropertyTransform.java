@@ -5,9 +5,10 @@ import com.modinfodesigns.property.IPropertyHolder;
 import com.modinfodesigns.property.PropertyList;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
- * Enables a set of IPropertyTransforms to be applied to an IPropertyHolder property in sequence.
+ * Enables one or more IPropertyTransforms to be applied to an IPropertyHolder property in sequence.
  * 
  * @author Ted Sullivan
  */
@@ -46,12 +47,14 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
-    IProperty outputProperty = transform( getInputProperty( input ) );
+    IProperty inputProp = getInputProperty( input );
+
+    IProperty outputProperty = transform( inputProp );
 		
     if (outputProperty != null)
     {
       if (outputPropertyName != null) outputProperty.setName( outputPropertyName );
-      input.addProperty( outputProperty );
+      input.setProperty( outputProperty );
     }
 		
     return input;

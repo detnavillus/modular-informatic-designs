@@ -1,0 +1,39 @@
+<Record>
+<Term>Systemic Lupus Erythematosus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Lupus Erythematosus</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Lupus Erythematosus, Systemic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Lupus Erythematosus/Systemic Lupus Erythematosus</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Lupus Erythematosus, Systemic</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus, Systemic</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Systemic Lupus Erythematosus</BroaderTerm>
+<ChildTerm>Lupus Nephritis</ChildTerm>
+<ChildTerm>Lupus Vasculitis, Central Nervous System</ChildTerm>
+<ChildTerm>Systemic Lupus Erythematosus Rash</ChildTerm>
+<ChildTerm>Lupus Encephalitis</ChildTerm>
+<Synonym>SLE - Lupus Erythematosus, Systemic</Synonym>
+<Synonym>SLE</Synonym>
+<Synonym>Libman-Sacks Disease</Synonym>
+<Synonym>Libman Sacks Disease</Synonym>
+<Synonym>systemic lupus erythematosus</Synonym>
+<Synonym>Lupus Erythematosus Disseminatus</Synonym>
+<Synonym>Systemic Lupus Erythematosus</Synonym>
+<Description>A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

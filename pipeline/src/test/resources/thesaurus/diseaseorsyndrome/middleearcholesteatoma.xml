@@ -1,0 +1,40 @@
+<Record>
+<Term>Middle Ear Cholesteatoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cholesteatoma</ParentTerm>
+<ParentTerm>Non-Neoplastic Ear Disorder</ParentTerm>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Cholesteatoma/Middle Ear Cholesteatoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Middle Ear Cholesteatoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder/Middle Ear Disorder/Middle Ear Cholesteatoma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Cholesteatoma/Cholesteatoma, Middle Ear</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Cholesteatoma, Middle Ear</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Cholesteatoma, Middle Ear</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Middle Ear Cholesteatoma</BroaderTerm>
+<BroaderTerm>Cholesteatoma</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Middle Ear Cholesteatoma,</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Middle Ear Disorder</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<Synonym>Middle Ear Cholesteatoma</Synonym>
+<Synonym>Aural Cholesteatoma</Synonym>
+<Synonym>Aural Cholesteatomas</Synonym>
+<Synonym>Middle Ear Cholesteatomas</Synonym>
+<Synonym>Cholesteatoma of the Middle Ear</Synonym>
+<Synonym>Cholesteatoma of Middle Ear</Synonym>
+<Description>A mass of KERATIN-producing squamous EPITHELIUM that resembles an inverted (suck-in) bag of skin in the MIDDLE EAR. It arises from the eardrum (TYMPANIC MEMBRANE) and grows into the MIDDLE EAR causing erosion of EAR OSSICLES and MASTOID that contains the INNER EAR.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

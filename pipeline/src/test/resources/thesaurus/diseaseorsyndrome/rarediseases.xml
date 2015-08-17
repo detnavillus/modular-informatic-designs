@@ -1,0 +1,27 @@
+<Record>
+<Term>Rare Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Rare Disorder</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Rare Diseases</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Rare Diseases</BroaderTerm>
+<BroaderTerm>Rare Disorder</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Rare Non-Neoplastic Disorder</ChildTerm>
+<ChildTerm>Rare Cancer-Associated Syndrome</ChildTerm>
+<Synonym>Orphan Disease</Synonym>
+<Synonym>Orphan Diseases</Synonym>
+<Synonym>Rare Diseases</Synonym>
+<Synonym>Rare Disorder</Synonym>
+<Synonym>Rare Disease</Synonym>
+<Description>A non-malignant disease that affects fewer than 200,000 people in the United States. (from National Organization for Rare Disorders)</Description>
+<Description>A large group of diseases which are characterized by a low prevalence in the population. They frequently are associated with problems in diagnosis and treatment.Rare diseases that have not been well studied.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Pyometra</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Uterine Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases/Pyometra</ClassificationPath>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Pyometra</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Pyometra</Synonym>
+<Synonym>Pyometras</Synonym>
+<Description>An accumulation of PUS in the uterine cavity (UTERUS). Pyometra generally indicates the presence of infections.</Description>
+<Source>MeSH</Source>
+</Record>

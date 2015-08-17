@@ -1,0 +1,25 @@
+<Record>
+<Term>Urinary System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ureter Disorder</ChildTerm>
+<ChildTerm>Renal Disorder</ChildTerm>
+<ChildTerm>Obstructive Uropathy</ChildTerm>
+<ChildTerm>Bladder Disorder</ChildTerm>
+<ChildTerm>Urethra Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Urinary System Disorder</ChildTerm>
+<Synonym>RENAL AND URINARY DISORDERS</Synonym>
+<Synonym>Urinary System Disorder</Synonym>
+<Synonym>Urinary Tract Disease</Synonym>
+<Synonym>Urinary Tract Disorder</Synonym>
+<Synonym>Urologic Disorder</Synonym>
+<Synonym>Urological Disorders</Synonym>
+<Description>Disorders of any part of the urologic system.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Hematinics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Hematinics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Hematinics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<Synonym>Hematinics</Synonym>
+<Synonym>Hematopoietic Agents</Synonym>
+<Synonym>Erythropoiesis Stimulating Agents</Synonym>
+<Description>Agents which improve the quality of the blood, increasing the hemoglobin level and the number of erythrocytes. They are used in the treatment of anemias.</Description>
+<Source>MeSH</Source>
+</Record>

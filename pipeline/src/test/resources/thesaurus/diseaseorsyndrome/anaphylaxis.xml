@@ -1,0 +1,31 @@
+<Record>
+<Term>Anaphylaxis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Hypersensitivity, Immediate</ParentTerm>
+<ParentTerm>Shock</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Anaphylaxis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Shock/Anaphylactic Shock</ClassificationPath>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Anaphylaxis</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Anaphylactic Shock</BroaderTerm>
+<BroaderTerm>Shock</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Anaphylaxis</Synonym>
+<Synonym>Anaphylactic shock</Synonym>
+<Synonym>Anaphylactic Shock</Synonym>
+<Synonym>Shock, Anaphylactic</Synonym>
+<Synonym>Anaphylactic Reaction</Synonym>
+<Synonym>Anaphylactic Reactions</Synonym>
+<Description>An acute inflammatory reaction resulting from combination of a soluble antigen with IgE bound to a mast cell that leads to degranulation of the mast cell and release of histamine and histamine like substances, causing localized or global hypersensitivity immune reponses.</Description>
+<Description>An acute hypersensitivity reaction due to exposure to a previously encountered ANTIGEN. The reaction may include rapidly progressing URTICARIA, respiratory distress, vascular collapse, systemic SHOCK, and death.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

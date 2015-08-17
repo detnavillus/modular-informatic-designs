@@ -1,0 +1,27 @@
+<Record>
+<Term>Visceral Leishmaniasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leishmaniasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Leishmaniasis/Leishmaniasis, Visceral</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Leishmaniasis/Kala-Azar</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Leishmaniasis, Visceral</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Leishmaniasis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Euglenozoa Infections</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Kala-Azar</BroaderTerm>
+<Synonym>Black Fever</Synonym>
+<Synonym>Kala Azar</Synonym>
+<Synonym>Visceral Leishmaniasis</Synonym>
+<Synonym>Kala-Azar</Synonym>
+<Description>A chronic disease caused by LEISHMANIA DONOVANI and transmitted by the bite of several sandflies of the genera Phlebotomus and Lutzomyia. It is commonly characterized by fever, chills, vomiting, anemia, hepatosplenomegaly, leukopenia, hypergammaglobulinemia, emaciation, and an earth-gray color of the skin. The disease is classified into three main types according to geographic distribution: Indian, Mediterranean (or infantile), and African.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

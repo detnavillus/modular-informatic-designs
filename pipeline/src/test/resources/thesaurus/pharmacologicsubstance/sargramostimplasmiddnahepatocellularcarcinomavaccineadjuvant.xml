@@ -1,0 +1,17 @@
+<Record>
+<Term>Sargramostim Plasmid DNA Hepatocellular Carcinoma Vaccine Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Sargramostim Plasmid DNA Hepatocellular Carcinoma Vaccine Adjuvant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Sargramostim Plasmid DNA Hepatocellular Carcinoma Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>GM-CSF Plasmid DNA Hepatocellular Carcinoma Vaccine</Synonym>
+<Synonym>Sargramostim Plasmid DNA Hepatocellular Carcinoma Vaccine Adjuvant</Synonym>
+<Description>A vaccine adjuvant consisting of a plasmid DNA encoding sargramostim (granulocyte-macrophage colony-stimulating factor). Upon administration, expressed sargramostim may stimulate a cytotoxic T cell response enhancing the host immune response to a concomitantly administered hepatocellular carcinoma vaccine. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Intracranial Arteriosclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Arterial Diseases</ParentTerm>
+<ParentTerm>Arteriosclerosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Arteriosclerosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Arteriosclerosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Arteriosclerosis/Intracranial Arteriosclerosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Arteriosclerosis</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Arteriosclerosis</BroaderTerm>
+<ChildTerm>Dementia, Vascular</ChildTerm>
+<Synonym>Cerebral Atheroscleroses</Synonym>
+<Synonym>Cerebral Arteriosclerosis</Synonym>
+<Synonym>Cerebral Atherosclerosis</Synonym>
+<Synonym>Intracranial Atheroscleroses</Synonym>
+<Synonym>Intracranial Arterioscleroses</Synonym>
+<Synonym>Intracranial Atherosclerosis</Synonym>
+<Synonym>Cerebral Arterioscleroses</Synonym>
+<Synonym>Intracranial Arteriosclerosis</Synonym>
+<Description>Vascular diseases characterized by thickening and hardening of the walls of ARTERIES inside the SKULL. There are three subtypes: (1) atherosclerosis with fatty deposits in the ARTERIAL INTIMA; (2) Monckeberg's sclerosis with calcium deposits in the media and (3) arteriolosclerosis involving the small caliber arteries. Clinical signs include HEADACHE; CONFUSION; transient blindness (AMAUROSIS FUGAX); speech impairment; and HEMIPARESIS.</Description>
+<Source>MeSH</Source>
+</Record>

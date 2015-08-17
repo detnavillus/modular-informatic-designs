@@ -1,0 +1,23 @@
+<Record>
+<Term>Anti-Inflammatory Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Functional Drug Class</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Inflammatory Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Inflammatory Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Anti-Inflammatory Agents, Non-Steroidal</ChildTerm>
+<Synonym>Anti-Inflammatories</Synonym>
+<Synonym>Anti Inflammatories</Synonym>
+<Synonym>Anti-Inflammatory Agents</Synonym>
+<Synonym>Anti Inflammatory Agents</Synonym>
+<Synonym>anti-inflammatory</Synonym>
+<Synonym>Antiinflammatory Agents</Synonym>
+<Synonym>Antiinflammatories</Synonym>
+<Description>Substances that reduce or suppress INFLAMMATION.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

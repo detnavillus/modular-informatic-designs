@@ -1,0 +1,14 @@
+<Record>
+<Term>Proton Pump Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Proton Pump Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Proton Pump Inhibitors</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Proton Pump Inhibitors</Synonym>
+<Description>Compounds that inhibit H(+)-K(+)-EXCHANGING ATPASE. They are used as ANTI-ULCER AGENTS and sometimes in place of HISTAMINE H2 ANTAGONISTS for GASTROESOPHAGEAL REFLUX.</Description>
+<Source>MeSH</Source>
+</Record>

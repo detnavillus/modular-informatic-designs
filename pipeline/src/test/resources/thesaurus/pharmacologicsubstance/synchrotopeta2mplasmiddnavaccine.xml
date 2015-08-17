@@ -1,0 +1,16 @@
+<Record>
+<Term>Synchrotope TA2M Plasmid DNA Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Synchrotope TA2M Plasmid DNA Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Synchrotope TA2M Plasmid DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Synchrotope TA2M Plasmid DNA Vaccine</Synonym>
+<Description>A recombinant plasmid DNA vaccine encoding epitopes of tyrosinase with potential antineoplastic activity. Synchrotope TA2M vaccine contains a plasmid encoding 2 epitopes, amino acid sequences 207-216 and 1-17 of tyrosinase, a protein frequently expressed by melanoma cells. Vaccination with the TA2M plasmid DNA vaccine may induce the production of anti-tyrosinase antibodies as well as elicit a cytotoxic T-lymphocyte (CTL) response against tyrosinase-expressing tumor cells, resulting in decreased tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

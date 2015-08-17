@@ -1,0 +1,24 @@
+<Record>
+<Term>Hysteria</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Histrionic Personality Disorder</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ClassificationPath>Mental Disorders/Personality Disorders/Histrionic Personality Disorder/Hysteria</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Hysteria</ClassificationPath>
+<BroaderTerm>Histrionic Personality Disorder</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hysteria</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Personality Disorders</BroaderTerm>
+<ChildTerm>Globus Hystericus</ChildTerm>
+<Synonym>Hysteria</Synonym>
+<Synonym>Hysterical Neuroses</Synonym>
+<Description>Historical term for a chronic, but fluctuating, disorder beginning in early life and characterized by recurrent and multiple somatic complaints not apparently due to physical illness. This diagnosis is not used in contemporary practice.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

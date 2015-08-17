@@ -1,0 +1,27 @@
+<Record>
+<Term>Non-Neoplastic Peripheral Nervous System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Non-Neoplastic Peripheral Nervous System Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Peripheral Nervous System Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Peripheral Nervous System Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Median Nerve Paralysis</ChildTerm>
+<ChildTerm>Dysautonomia</ChildTerm>
+<ChildTerm>Peroneal Nerve Paralysis</ChildTerm>
+<ChildTerm>Neuroma</ChildTerm>
+<ChildTerm>Cauda Equina Syndrome</ChildTerm>
+<ChildTerm>Peripheral Nervous System Infectious Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Peripheral Nervous System Disease</Synonym>
+<Synonym>Non-Neoplastic Peripheral Nervous System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

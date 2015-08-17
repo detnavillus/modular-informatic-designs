@@ -1,0 +1,30 @@
+<Record>
+<Term>Osteochondritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ParentTerm>Cartilage Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Cartilage Diseases/Osteochondritis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Cartilage Diseases/Osteochondritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Osteochondritis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteochondritis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Osteochondritis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Cartilage Diseases</BroaderTerm>
+<ChildTerm>Osteochondritis Dissecans</ChildTerm>
+<Synonym>Osteochondritides</Synonym>
+<Synonym>Osteochondritis</Synonym>
+<Description>Inflammation of a bone and its overlaying CARTILAGE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

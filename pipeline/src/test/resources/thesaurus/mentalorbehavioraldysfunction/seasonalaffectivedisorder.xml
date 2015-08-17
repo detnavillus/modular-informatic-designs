@@ -1,0 +1,16 @@
+<Record>
+<Term>Seasonal Affective Disorder</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depressive Disorder</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders/Depressive Disorder/Seasonal Affective Disorder</ClassificationPath>
+<BroaderTerm>Seasonal Affective Disorder</BroaderTerm>
+<BroaderTerm>Depressive Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<Synonym>Seasonal Affective Disorder</Synonym>
+<Synonym>Seasonal Mood Disorder</Synonym>
+<Synonym>Seasonal Mood Disorders</Synonym>
+<Synonym>Seasonal Affective Disorders</Synonym>
+<Description>A syndrome characterized by depressions that recur annually at the same time each year, usually during the winter months. Other symptoms include anxiety, irritability, decreased energy, increased appetite (carbohydrate cravings), increased duration of sleep, and weight gain. SAD (seasonal affective disorder) can be treated by daily exposure to bright artificial lights (PHOTOTHERAPY), during the season of recurrence.</Description>
+<Source>MeSH</Source>
+</Record>

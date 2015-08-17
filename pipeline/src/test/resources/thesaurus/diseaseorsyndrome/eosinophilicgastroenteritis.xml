@@ -1,0 +1,18 @@
+<Record>
+<Term>Eosinophilic Gastroenteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection/Gastroenteritis/Eosinophilic Gastroenteritis</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Eosinophilic Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Eosinophilic Gastritis</ChildTerm>
+<Synonym>Eosinophilic Gastroenteritis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

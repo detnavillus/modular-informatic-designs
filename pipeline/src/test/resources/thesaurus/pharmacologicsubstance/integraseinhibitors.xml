@@ -1,0 +1,16 @@
+<Record>
+<Term>Integrase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Integrase Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Integrase Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>HIV Integrase Inhibitors</ChildTerm>
+<Synonym>Integrase Inhibitors</Synonym>
+<Description>Compounds which inhibit or antagonize biosynthesis or actions of integrase.</Description>
+<Source>MeSH</Source>
+</Record>

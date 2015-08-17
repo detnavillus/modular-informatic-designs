@@ -1,0 +1,27 @@
+<Record>
+<Term>Diphtheria-Tetanus Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Combined</ParentTerm>
+<ParentTerm>Diphtheria Toxoid</ParentTerm>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ParentTerm>Tetanus Toxoid</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Tetanus Toxoid/Diphtheria-Tetanus Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Combined/Diphtheria-Tetanus Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Diphtheria Toxoid/Diphtheria-Tetanus Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Diphtheria-Tetanus Vaccine</ClassificationPath>
+<BroaderTerm>Vaccines, Combined</BroaderTerm>
+<BroaderTerm>Diphtheria Toxoid</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Diphtheria-Tetanus Vaccine</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Tetanus Toxoid</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Diphtheria Tetanus Vaccine</Synonym>
+<Synonym>Diphtheria-Tetanus Vaccine</Synonym>
+<Synonym>DT Vaccine</Synonym>
+<Description>A combined vaccine used to prevent infection with diphtheria and tetanus toxoid. This is used in place of DTP vaccine (DIPHTHERIA-TETANUS-PERTUSSIS VACCINE) when PERTUSSIS VACCINE is contraindicated.</Description>
+<Source>MeSH</Source>
+</Record>

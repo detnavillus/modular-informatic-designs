@@ -1,0 +1,28 @@
+<Record>
+<Term>Zolpidem</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Sedative and Hypnotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Zolpidem</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Zolpidem Tartrate</ClassificationPath>
+<BroaderTerm>Zolpidem</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Zolpidem Tartrate</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Zolpimist</Synonym>
+<Synonym>Zolpidem</Synonym>
+<Synonym>ZOLPIDEM TARTRATE</Synonym>
+<Synonym>Zolpidem Tartrate</Synonym>
+<Synonym>ZOLPIDEM</Synonym>
+<Synonym>Zolpidem tartrate</Synonym>
+<Synonym>Ambien</Synonym>
+<Synonym>Ambien cr</Synonym>
+<Synonym>Edluar</Synonym>
+<Synonym>Tovalt odt</Synonym>
+<Description>The tartrate salt of an imidazopyridine with non-benzodiazepine benzodiazepine-receptor agonist and sedative-hypnotic activities. Zolpidem binds selectively to the alpha 1 subunit of the omega-1 (BZ1) receptor of the gamma-aminobutyric acid type A (GABA-A ) receptor-chloride ionophore complex, thereby opening neuronal chloride channels, hyperpolarizing neuronal cell membranes, and inhibiting neuronal firing. In contrast, benzodiazepines non-selectively bind to and activate all omega receptor subtypes, exhibiting anticonvulsant and myorelaxant activities in addition to a sedative-hypnotic activity.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Bronchoconstrictor Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Autonomic Agents</ParentTerm>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents/Bronchoconstrictor Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Bronchoconstrictor Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Bronchoconstrictor Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Bronchial Constricting Agents</Synonym>
+<Synonym>Bronchoconstrictors</Synonym>
+<Synonym>Bronchoconstrictor Agents</Synonym>
+<Synonym>Bronchial-Constricting Agents</Synonym>
+<Description>Agents causing the narrowing of the lumen of a bronchus or bronchiole.</Description>
+<Source>MeSH</Source>
+</Record>

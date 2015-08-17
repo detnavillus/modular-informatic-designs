@@ -1,0 +1,50 @@
+<Record>
+<Term>Ataxia Telangiectasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Neurocutaneous Syndromes</ParentTerm>
+<ParentTerm>Spinocerebellar Ataxias</ParentTerm>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ParentTerm>Telangiectasis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebellar Diseases/Cerebellar Ataxia/Spinocerebellar Ataxias/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Dyskinesias/Ataxia/Cerebellar Ataxia/Spinocerebellar Ataxias/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Ataxia Telangiectasia Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Telangiectasis/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Ataxia Telangiectasia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurocutaneous Syndromes/Ataxia Telangiectasia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cerebellar Ataxia</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Ataxia Telangiectasia</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Neurocutaneous Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebellar Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Ataxia Telangiectasia Syndrome</BroaderTerm>
+<BroaderTerm>Spinocerebellar Ataxias</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<BroaderTerm>Ataxia</BroaderTerm>
+<BroaderTerm>Telangiectasis</BroaderTerm>
+<Synonym>Ataxia-Telangiectasia</Synonym>
+<Synonym>Ataxia Telangiectasia</Synonym>
+<Synonym>Ataxia Telangiectasia Syndrome</Synonym>
+<Synonym>Louis Bar Syndrome</Synonym>
+<Synonym>Louis-Bar Syndrome</Synonym>
+<Description>Rare hereditary disease characterized by extreme sensitivity to ionizing radiation or radiomimetic drugs because of a defect in DNA repair. AT heterozygosity is estimated to occur in more than 2% of the U.S. population; heterozygotes exhibit increased radiation sensitivity and are at increased risk for several types of cancer. The normal version of the gene that is defective in AT appears to activate the p53-dependent response to DNA damage.</Description>
+<Description>An autosomal recessive inherited disorder characterized by choreoathetosis beginning in childhood, progressive CEREBELLAR ATAXIA; TELANGIECTASIS of CONJUNCTIVA and SKIN; DYSARTHRIA; B- and T-cell immunodeficiency, and RADIOSENSITIVITY to IONIZING RADIATION. Affected individuals are prone to recurrent sinobronchopulmonary infections, lymphoreticular neoplasms, and other malignancies. Serum ALPHA-FETOPROTEINS are usually elevated. (Menkes, Textbook of Child Neurology, 5th ed, p688) The gene for this disorder (ATM) encodes a cell cycle checkpoint protein kinase and has been mapped to chromosome 11 (11q22-q23).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

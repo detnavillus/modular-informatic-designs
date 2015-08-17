@@ -1,0 +1,21 @@
+<Record>
+<Term>of Turkeys Enteritis, Transmissible</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronavirus Infections</ParentTerm>
+<ParentTerm>Poultry Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Bird Diseases/Poultry Diseases/Enteritis, Transmissible, of Turkeys</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections/Coronavirus Infections/Enteritis, Transmissible, of Turkeys</ClassificationPath>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Enteritis, Transmissible, of Turkeys</BroaderTerm>
+<BroaderTerm>Coronavirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<BroaderTerm>Poultry Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bluecomb of Turkeys</Synonym>
+<Synonym>Transmissible Enteritis of Turkeys</Synonym>
+<Description>An acute, highly contagious virus disease of turkeys characterized by chilling, anorexia, decreased water intake, diarrhea, dehydration and weight loss. The infectious agent is a CORONAVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

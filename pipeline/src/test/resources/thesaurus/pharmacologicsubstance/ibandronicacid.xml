@@ -1,0 +1,21 @@
+<Record>
+<Term>Ibandronic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Bone Resorption Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Biphosphonate/Ibandronic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Ibandronic Acid</ClassificationPath>
+<BroaderTerm>Biphosphonate</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ibandronic Acid,</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Ibandronic Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>IBANDRONIC ACID</Synonym>
+<Synonym>Ibandronic Acid</Synonym>
+<Description>A third-generation amino-bisphosphonate with anti-resorptive and anti-hypercalcemic activities. Ibandronic acid binds to and adsorbs onto the surface of hydroxyapatite crystals in the bone matrix, thereby preventing osteoclast resorption. This agent also inhibits farnesyl pyrophosphate synthase, an enzyme involved in the mevalonate pathway. Inhibition of this enzyme prevents the formation of isoprenoids, thereby leading to a reduction in the farnesylation and geranylgeranylation of signaling proteins of G protein-coupled signaling, and, eventually, inducing apoptosis of osteoclasts. By inhibiting osteoclast-mediated bone resorption, ibandronic acid increases bone mineral density, decreases bone remodeling and turnover, as well as reduces bone pain.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

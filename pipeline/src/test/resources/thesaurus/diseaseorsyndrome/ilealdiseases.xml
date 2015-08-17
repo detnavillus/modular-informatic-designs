@@ -1,0 +1,16 @@
+<Record>
+<Term>Ileal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Ileal Diseases</ClassificationPath>
+<BroaderTerm>Ileal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Ileitis</ChildTerm>
+<ChildTerm>Ileal Neoplasms</ChildTerm>
+<Synonym>Ileal Diseases</Synonym>
+<Synonym>Ileal Disease</Synonym>
+<Description>Pathological development in the ILEUM including the ILEOCECAL VALVE.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Deserpidine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antihypertensive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Deserpidine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Deserpidine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Deserpidine</Synonym>
+<Synonym>Harmonyl</Synonym>
+<Synonym>DESERPIDINE</Synonym>
+<Description>An ester alkaloid derived from Rauwolfia canescens with antihypertensive activity. Deserpidine is a competitive inhibitor of the angiotensin converting enzyme (ACE). By competing with angiotensin I for ACE, deserpidine blocks the conversion of angiotensin I to angiotensin II, which is a potent vasoconstrictor. Reduced level of serum angiotensin II causes a decrease in blood pressure. Deserpidine also decreases angiotensin II-induced aldosterone secretion by the adrenal cortex.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Hepatitis B Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Recombinant Viral Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Hepatitis B Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hepatitis B Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Hepatitis B Vaccine</Synonym>
+<Description>A non-infectious mixture containing recombinant hepatitis B surface antigen (HBsAg) in a liquid vehicle.  Immunization with the hepatitis B vaccine induces the formation of specific anti-hepatitis B antibodies and an active immunity against hepatitis B infection. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

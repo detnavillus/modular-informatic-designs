@@ -1,0 +1,24 @@
+<Record>
+<Term>Falimarev</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Recombinant Fowlpox-TRICOM Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-TRICOM Vaccine/Falimarev</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fowlpox-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Falimarev</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Falimarev</Synonym>
+<Synonym>Fowlpox-CEA(D609)-MUC1(L93)-Tricom Vaccine</Synonym>
+<Synonym>PANVAC-F</Synonym>
+<Synonym>Recombinant Fowlpox-CEA-MUC-1-TRICOM Vaccine</Synonym>
+<Synonym>fCEA-MUC-1-TRI</Synonym>
+<Synonym>rFowlpox-CEA(D609)/MUC1(L93)/Tricom Vaccine</Synonym>
+<Description>A cancer vaccine comprised of a recombinant fowlpox viral vector encoding the carcinoembryonic antigen (CEA), MUC-1, a transmembrane glycoprotein secreted by glandular epithelial tissues, and TRICOM, comprised of three co-stimulatory molecule transgenes (B7-1, ICAM-1 and LFA-3). This agent may enhance CEA and MUC-1 presentation to antigen-presenting cells (APC) and may activate a cytotoxic T-cell response against CEA- and MUC-1-expressing tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

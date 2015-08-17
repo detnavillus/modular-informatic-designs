@@ -1,0 +1,18 @@
+<Record>
+<Term>Prediabetic State</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Prediabetic State</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Prediabetic State</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Prediabetic State</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<Synonym>Prediabetic States</Synonym>
+<Synonym>Prediabetic State</Synonym>
+<Synonym>Prediabetes</Synonym>
+<Description>The time period before the development of symptomatic diabetes. For example, certain risk factors can be observed in subjects who subsequently develop INSULIN RESISTANCE as in type 2 diabetes (DIABETES MELLITUS, TYPE 2).</Description>
+<Source>MeSH</Source>
+</Record>

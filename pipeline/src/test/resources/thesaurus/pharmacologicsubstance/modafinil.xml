@@ -1,0 +1,20 @@
+<Record>
+<Term>Modafinil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>CNS Stimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/CNS Stimulant/Modafinil</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>CNS Stimulant</BroaderTerm>
+<BroaderTerm>Modafinil</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Provigil</Synonym>
+<Synonym>MODAFINIL</Synonym>
+<Synonym>Modafinil</Synonym>
+<Synonym>modafinil</Synonym>
+<Description>A synthetic central nervous system stimulant with wakefulness-promoting activity. Modafinil appears to inhibit dopamine reuptake, resulting in an increase in extracellular dopamine.  This agent exhibits pronounced wakefulness-promoting activity (without sympathomimetic activity) and may improve cognitive function in certain clinical settings. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

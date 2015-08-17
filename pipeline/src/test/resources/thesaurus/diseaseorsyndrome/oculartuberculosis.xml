@@ -1,0 +1,25 @@
+<Record>
+<Term>Ocular Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections, Bacterial</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Ocular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Tuberculosis, Ocular</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Tuberculosis, Ocular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Tuberculosis, Ocular</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Ocular</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Ocular Tuberculoses</Synonym>
+<Synonym>Ocular Tuberculosis</Synonym>
+<Description>Tuberculous infection of the eye, primarily the iris, ciliary body, and choroid.</Description>
+<Source>MeSH</Source>
+</Record>

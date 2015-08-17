@@ -1,0 +1,21 @@
+<Record>
+<Term>Recombinant Vaccinia-CEA(6D)-TRICOM</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Recombinant Vaccinia-TRICOM Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-TRICOM Vaccine/Recombinant Vaccinia-CEA(6D)-TRICOM</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-CEA(6D)-TRICOM</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-CEA(6D)-TRICOM</Synonym>
+<Synonym>Vaccinia-CEA-TRICOM Vaccine</Synonym>
+<Synonym>rV-CEA(6D)/TRICOM</Synonym>
+<Description>A vaccine consisting of recombinant vaccinia virus encoding the tumor-associated antigen carcinoembryonic antigen (CEA) and a TRIad of COstimulatory Molecules (B7-1, ICAM-1, and LFA-3; also called TRICOM). Vaccination with recombinant vaccinia-CEA(6D)-TRICOM vaccine stimulates the host immune system to mount a T-cell response against tumor cells expressing the CEA antigen.  The use of TRICOM in the vaccine may elicit a greater antitumor cytotoxic T lymphocyte (CTL) immune response compared to the use of vaccinia-CEA alone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

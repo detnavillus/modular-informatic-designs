@@ -1,0 +1,33 @@
+<Record>
+<Term>Hepatoerythropoietic Porphyria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Porphyrias, Hepatic</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Porphyrias/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria, Hepatoerythropoietic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias, Hepatic</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Porphyria, Hepatoerythropoietic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<Synonym>Erythrohepatic Porphyrias</Synonym>
+<Synonym>Hepatoerythropoietic Porphyria</Synonym>
+<Synonym>Erythrohepatic Porphyria</Synonym>
+<Synonym>Hepatoerythropoietic Porphyrias</Synonym>
+<Description>An autosomal recessive cutaneous porphyria that is due to a deficiency of UROPORPHYRINOGEN DECARBOXYLASE in both the LIVER and the BONE MARROW. Similar to PORPHYRIA CUTANEA TARDA, this disorder is caused by defects in the fifth enzyme in the 8-enzyme biosynthetic pathway of HEME, but is a homozygous enzyme deficiency with less than 10% of the normal enzyme activity. Cutaneous lesions are severe and mutilating.</Description>
+<Source>MeSH</Source>
+</Record>

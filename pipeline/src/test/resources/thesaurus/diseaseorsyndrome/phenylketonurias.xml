@@ -1,0 +1,48 @@
+<Record>
+<Term>Phenylketonurias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amino Acid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Phenylketonurias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Phenylketonurias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Phenylketonurias</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Phenylketonurias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Phenylketonurias</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Phenylketonurias</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Phenylketonurias</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Phenylketonuria, Maternal</ChildTerm>
+<Synonym>Folling Disease</Synonym>
+<Synonym>Phenylketonurias</Synonym>
+<Synonym>Dihydropteridine Reductase Deficiency Disease</Synonym>
+<Synonym>Phenylketonuria II</Synonym>
+<Synonym>Phenylketonuria</Synonym>
+<Synonym>Phenylketonuria Type 2s</Synonym>
+<Synonym>Phenylketonuria Is</Synonym>
+<Synonym>Hyperphenylalaninaemias</Synonym>
+<Synonym>Phenylalanine Hydroxylase Deficiency Disease</Synonym>
+<Synonym>Classical Phenylketonurias</Synonym>
+<Synonym>Atypical Phenylketonuria</Synonym>
+<Synonym>Folling's Disease</Synonym>
+<Synonym>Non-Phenylketonuric Hyperphenylalaninemias</Synonym>
+<Synonym>Folling Diseases</Synonym>
+<Synonym>Phenylketonuria Type 2</Synonym>
+<Synonym>Atypical Phenylketonurias</Synonym>
+<Synonym>Classical Phenylketonuria</Synonym>
+<Synonym>Hyperphenylalaninaemia</Synonym>
+<Synonym>Non-Phenylketonuric Hyperphenylalaninemia</Synonym>
+<Synonym>Phenylketonuria IIs</Synonym>
+<Synonym>Phenylketonuria I</Synonym>
+<Description>A group of autosomal recessive disorders marked by a deficiency of the hepatic enzyme PHENYLALANINE HYDROXYLASE or less frequently by reduced activity of DIHYDROPTERIDINE REDUCTASE (i.e., atypical phenylketonuria). Classical phenylketonuria is caused by a severe deficiency of phenylalanine hydroxylase and presents in infancy with developmental delay; SEIZURES; skin HYPOPIGMENTATION; ECZEMA; and demyelination in the central nervous system. (From Adams et al., Principles of Neurology, 6th ed, p952).</Description>
+<Source>MeSH</Source>
+</Record>

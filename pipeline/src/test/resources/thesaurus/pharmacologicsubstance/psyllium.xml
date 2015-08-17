@@ -1,0 +1,39 @@
+<Record>
+<Term>Psyllium</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Plant Extracts</ParentTerm>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Plant Preparations/Plant Extracts/Psyllium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Psyllium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Psyllium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Psyllium,</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<BroaderTerm>Plant Extracts</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Laxative</BroaderTerm>
+<BroaderTerm>Psyllium</BroaderTerm>
+<BroaderTerm>Plant Preparations</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Reguval</Synonym>
+<Synonym>Metamucil</Synonym>
+<Synonym>Psyllium Gum</Synonym>
+<Synonym>Isogel</Synonym>
+<Synonym>Ispaghula</Synonym>
+<Synonym>Psyllium</Synonym>
+<Synonym>Psyllium Seed Husk</Synonym>
+<Synonym>Psyllium Seed Gum</Synonym>
+<Synonym>Plantaglucide</Synonym>
+<Synonym>Psyllium Husk</Synonym>
+<Synonym>Ispaghule Gum</Synonym>
+<Synonym>Plantago Seed</Synonym>
+<Description>The husk of the dried ripe seeds of the Plantago psyllium, P. Indica, P. Ovata, and P. Arenaria plants with laxative and cholesterol lowering activities. The husks contain mucilage that swells on exposure to water and provides an indigestible mucilaginous mass in the intestines, thereby causing lubrication, contraction of the smooth muscles of the intestinal walls, and thus stimulating bowel movement. Psyllium husk is rich in soluble fiber and has a cholesterol-lowering effect.</Description>
+<Description>Dried, ripe seeds of Plantago psyllium, P. indica, and P. ovata (Plantaginaceae). Plantain seeds swell in water and are used as demulcents and bulk laxatives.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

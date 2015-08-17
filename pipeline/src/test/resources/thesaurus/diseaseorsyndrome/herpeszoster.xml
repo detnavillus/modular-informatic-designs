@@ -1,0 +1,30 @@
+<Record>
+<Term>Herpes Zoster</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Infection</ParentTerm>
+<ParentTerm>Herpesviridae Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Herpes Zoster</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Herpes Zoster</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Herpes Zoster</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Herpes Zoster Ophthalmicus</ChildTerm>
+<ChildTerm>Zoster Sine Herpete</ChildTerm>
+<ChildTerm>Herpes Zoster Oticus</ChildTerm>
+<Synonym>Shingles</Synonym>
+<Synonym>Zoster</Synonym>
+<Synonym>Herpes Zoster</Synonym>
+<Synonym>Zona</Synonym>
+<Description>An acute infectious, usually self-limited, disease believed to represent activation of latent varicella-zoster virus (HERPESVIRUS 3, HUMAN) in those who have been rendered partially immune after a previous attack of CHICKENPOX. It involves the SENSORY GANGLIA and their areas of innervation and is characterized by severe neuralgic pain along the distribution of the affected nerve and crops of clustered vesicles over the area. (From Dorland, 27th ed)</Description>
+<Description>A common dermal and neurologic disorder caused by reactivation of the varicella-zoster virus that has remained dormant within dorsal root ganglia, often for decades, after the patient's initial exposure to the virus in the form of varicella (chickenpox). It is characterized by severe neuralgic pain along the distribution of the affected nerve and crops of clustered vesicles over the area.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

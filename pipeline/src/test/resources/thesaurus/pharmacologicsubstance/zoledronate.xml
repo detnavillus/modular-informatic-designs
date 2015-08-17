@@ -1,0 +1,22 @@
+<Record>
+<Term>Zoledronate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Malignancy-Associated Hypercalcemia Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Malignancy-Associated Hypercalcemia Inhibitor/Zoledronate Disodium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Biphosphonate/Zoledronate Disodium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Zoledronate Disodium</ClassificationPath>
+<BroaderTerm>Biphosphonate</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Malignancy-Associated Hypercalcemia Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Zoledronate Disodium,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Zoledronate Disodium</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>ZOLEDRONATE DISODIUM</Synonym>
+<Synonym>Zoledronate Disodium</Synonym>
+<Description>The disodium salt form of zoledronate, a synthetic imidazole, third generation bisphosphonate analog of pyrophosphate with antiresorptive activity. Zoledronate binds to hydroxyapatite crystals in the bone matrix and inhibits farnesyl pyrophosphate (diphosphate) synthase, thereby preventing protein prenylation within the mevalonate pathway. This leads to the loss of downstream metabolites essential for osteoclast function, leading to the induction of apoptosis and eventually, osteoclast-cell death. By preventing osteoclast-mediated bone resorption, zoledronate decreases bone turnover and stabilizes the bone matrix.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

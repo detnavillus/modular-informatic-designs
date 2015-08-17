@@ -1,0 +1,25 @@
+<Record>
+<Term>Eletriptan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Eletriptan Hydrobromide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Eletriptan</ClassificationPath>
+<BroaderTerm>Eletriptan Hydrobromide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Serotonin Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Eletriptan</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Eletriptan Hydrobromide</Synonym>
+<Synonym>Relpax</Synonym>
+<Synonym>Eletriptan</Synonym>
+<Synonym>Eletriptan hydrobromide</Synonym>
+<Synonym>ELETRIPTAN HYDROBROMIDE</Synonym>
+<Synonym>3-[[(R)-1-Methyl-2-pyrrolidinyl]methyl]-5-[2-(phenylsulfonyl)ethyl]indole, Monohydrobromide</Synonym>
+<Synonym>ELETRIPTAN</Synonym>
+<Description>A triptan with specific affinity for the 5-hydroxytriptamine1B/1D receptor. Eletriptan hydrobromide binds to and acts at serotonin 5-HT1B receptors located on intracranial blood vessels which leads to vasoconstriction. This drug may also exerts its effects by binding to and activating 5-HT 1D receptors on sensory nerve endings in the trigeminal system, which results in the inhibition of pro-inflammatory neuropeptide release. Eletriptan hydrobromide is used to relieve pain or symptoms associated with migraine headaches.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

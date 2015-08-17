@@ -1,0 +1,16 @@
+<Record>
+<Term>Ventricular Septal Rupture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Rupture, Post-Infarction</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Rupture/Heart Rupture, Post-Infarction/Ventricular Septal Rupture</ClassificationPath>
+<BroaderTerm>Heart Rupture, Post-Infarction</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Rupture</BroaderTerm>
+<BroaderTerm>Ventricular Septal Rupture</BroaderTerm>
+<Synonym>Ventricular Septal Rupture</Synonym>
+<Synonym>Ventricular Septal Ruptures</Synonym>
+<Synonym>Ventricular Septal Perforation</Synonym>
+<Description>Laceration or tearing of the VENTRICULAR SEPTUM, usually caused by MYOCARDIAL INFARCTION.Presence of a hole or holes in the ventricular septum.</Description>
+<Source>MeSH</Source>
+</Record>

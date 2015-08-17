@@ -1,0 +1,20 @@
+<Record>
+<Term>Female Fertility Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Fertility Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Fertility Agents/Fertility Agents, Female</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Fertility Agents/Fertility Agents, Female</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Fertility Agents, Female</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Fertility Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Female Infertility Agents</Synonym>
+<Synonym>Female Infertility Drugs</Synonym>
+<Synonym>Female Fertility Agents</Synonym>
+<Synonym>Synthetic Female Fertility Agents</Synonym>
+<Description>Compounds which increase the capacity to conceive in females.</Description>
+<Source>MeSH</Source>
+</Record>

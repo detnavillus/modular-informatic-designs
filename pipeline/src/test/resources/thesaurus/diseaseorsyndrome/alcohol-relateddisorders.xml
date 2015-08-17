@@ -1,0 +1,23 @@
+<Record>
+<Term>Alcohol-Related Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Alcohol-Related Disorders</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<ChildTerm>Alcohol Amnestic Disorder</ChildTerm>
+<ChildTerm>Alcoholic Intoxication</ChildTerm>
+<ChildTerm>Alcohol-Induced Disorders</ChildTerm>
+<ChildTerm>Psychoses, Alcoholic</ChildTerm>
+<ChildTerm>Alcoholism</ChildTerm>
+<ChildTerm>Alcohol Withdrawal Delirium</ChildTerm>
+<ChildTerm>Wernicke Encephalopathy</ChildTerm>
+<Synonym>Alcohol-Related Disorder</Synonym>
+<Synonym>Alcohol Related Disorders</Synonym>
+<Synonym>Alcohol-Related Disorders</Synonym>
+<Description>Disorders related to or resulting from abuse or mis-use of alcohol.</Description>
+<Source>MeSH</Source>
+</Record>

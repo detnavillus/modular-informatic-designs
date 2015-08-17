@@ -1,0 +1,21 @@
+<Record>
+<Term>Lyso-Thermosensitive Liposome Doxorubicin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Lyso-Thermosensitive Liposome Doxorubicin</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Lyso-Thermosensitive Liposome Doxorubicin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>Heat-Activated Liposomal Doxorubicin Hydrochloride</Synonym>
+<Synonym>Lyso-Thermosensitive Liposome Doxorubicin</Synonym>
+<Synonym>Temperature Sensitive Liposome Encapsulated Doxorubicin</Synonym>
+<Synonym>ThermoDox</Synonym>
+<Description>A temperature-sensitive liposomal formulation of the anthracycline antibiotic doxorubicin with potential antineoplastic activity. Upon intravenous administration, circulating thermosensitive liposomes are activated locally by increasing the tumor temperature to 40-41 degrees Celsius using an external heat source. The elevated temperature causes compositional changes in the liposomes, creating openings that allow for the release of encapsulated doxorubicin. Compared to non-thermosensitive liposomes, lyso-thermosensitive liposomes deliver higher concentrations of a cytotoxic agent to a heat-treated tumor site while sparing normal tissues unexposed to heat treatment.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Ear Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otorhinolaryngologic Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<ChildTerm>Retrocochlear Diseases</ChildTerm>
+<ChildTerm>Hearing Disorders</ChildTerm>
+<ChildTerm>Ear Deformities, Acquired</ChildTerm>
+<ChildTerm>Ear Neoplasms</ChildTerm>
+<ChildTerm>Earache</ChildTerm>
+<ChildTerm>Labyrinth Diseases</ChildTerm>
+<ChildTerm>Herpes Zoster Oticus</ChildTerm>
+<ChildTerm>Tympanic Membrane Perforation</ChildTerm>
+<ChildTerm>Cholesteatoma, Middle Ear</ChildTerm>
+<ChildTerm>Susac Syndrome</ChildTerm>
+<ChildTerm>Otitis</ChildTerm>
+<ChildTerm>Otosclerosis</ChildTerm>
+<Synonym>Ear Diseases</Synonym>
+<Synonym>Ear Disease</Synonym>
+<Synonym>Otologic Diseases</Synonym>
+<Synonym>Otologic Disease</Synonym>
+<Synonym>Otological Diseases</Synonym>
+<Synonym>Otological Disease</Synonym>
+<Description>Pathological processes of the ear, the hearing, and the equilibrium system of the body.</Description>
+<Source>MeSH</Source>
+</Record>

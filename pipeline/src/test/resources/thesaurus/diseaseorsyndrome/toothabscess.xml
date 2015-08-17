@@ -1,0 +1,28 @@
+<Record>
+<Term>Tooth Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Dental Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Non-Neoplastic Dental Disorder/Tooth Abscess,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Abscess/Tooth Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Tooth Abscess,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Tooth Abscess</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Dental Disorder</BroaderTerm>
+<ChildTerm>Periodontal Abscess</ChildTerm>
+<ChildTerm>Dentoalveolar Abscess</ChildTerm>
+<ChildTerm>Periapical Dental Abscess</ChildTerm>
+<Synonym>Tooth Abscess</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

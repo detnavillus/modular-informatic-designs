@@ -1,0 +1,53 @@
+<Record>
+<Term>Cardiovascular Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Prisotinol</ChildTerm>
+<ChildTerm>Deslanoside</ChildTerm>
+<ChildTerm>Antihypertensive Agents</ChildTerm>
+<ChildTerm>Cardiotonic Agents</ChildTerm>
+<ChildTerm>Natriuretic Agents</ChildTerm>
+<ChildTerm>Dexrazoxane</ChildTerm>
+<ChildTerm>Anti-Arrhythmia Agents</ChildTerm>
+<ChildTerm>IH636 Grape Seed Proanthocyanidin Extract</ChildTerm>
+<ChildTerm>Sabiporide</ChildTerm>
+<ChildTerm>Calcium Channel Blockers</ChildTerm>
+<ChildTerm>Sodium Channel Blockers</ChildTerm>
+<ChildTerm>Potassium Channel Blockers</ChildTerm>
+<ChildTerm>Vasodilator Agents</ChildTerm>
+<ChildTerm>Cardioplegic Solutions</ChildTerm>
+<ChildTerm>Aganodine</ChildTerm>
+<ChildTerm>Fosmenic Acid</ChildTerm>
+<ChildTerm>Medorinone</ChildTerm>
+<ChildTerm>Ivabradine</ChildTerm>
+<ChildTerm>Vasoconstrictor Agents</ChildTerm>
+<ChildTerm>Nitric Oxide Donors</ChildTerm>
+<ChildTerm>Sclerosing Solutions</ChildTerm>
+<ChildTerm>Razoxane</ChildTerm>
+<ChildTerm>Dexrazoxane Hydrochloride</ChildTerm>
+<ChildTerm>Fibrinolytic Agents</ChildTerm>
+<ChildTerm>Antihypertensive Agent</ChildTerm>
+<ChildTerm>Adibendan</ChildTerm>
+<ChildTerm>Antiarrhythmic Agent</ChildTerm>
+<Synonym>Cardiovascular Agent</Synonym>
+<Synonym>Cardioprotective Agent</Synonym>
+<Synonym>Cardiovascular Drugs</Synonym>
+<Synonym>Cardiovascular Agents</Synonym>
+<Description>Agents that affect the rate or intensity of cardiac contraction, blood vessel diameter, or blood volume to prevent or treat abnormal cardiovascular functions.</Description>
+<Description>Agents that affect the rate or intensity of cardiac contraction, blood vessel diameter, or blood volume.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

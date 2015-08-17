@@ -1,0 +1,18 @@
+<Record>
+<Term>K-RAS ASP-13 Mutant Protein</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Mutated Ras Peptide</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antigen/Vaccine Antigen/Mutated Ras Peptide/K-RAS ASP-13 Mutant Protein</ClassificationPath>
+<BroaderTerm>Mutated Ras Peptide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antigen</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Antigen</BroaderTerm>
+<BroaderTerm>K-RAS ASP-13 Mutant Protein</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>K-RAS ASP-13 Mutant Protein</Synonym>
+<Description>A synthetic form of the ras protein containing a point mutation at position 13 (glycine to asparagine). Vaccines using mutant K-ras proteins may be used in the immunotherapy of various cancers that express mutated K-ras proteins. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

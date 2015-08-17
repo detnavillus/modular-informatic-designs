@@ -1,0 +1,16 @@
+<Record>
+<Term>Insulin Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hormone Antagonists</ParentTerm>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Insulin Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Insulin Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Insulin Antagonists</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Insulin Antagonists</Synonym>
+<Description>Compounds which inhibit or antagonize the biosynthesis or action of insulin.</Description>
+<Source>MeSH</Source>
+</Record>

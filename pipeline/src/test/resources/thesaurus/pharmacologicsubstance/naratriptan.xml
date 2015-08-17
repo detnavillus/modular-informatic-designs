@@ -1,0 +1,26 @@
+<Record>
+<Term>Naratriptan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Naratriptan</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Naratriptan Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Serotonin Agonist</BroaderTerm>
+<BroaderTerm>Naratriptan Hydrochloride</BroaderTerm>
+<BroaderTerm>Naratriptan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Amerge</Synonym>
+<Synonym>Naratriptan Hydrochloride</Synonym>
+<Synonym>Naratriptan</Synonym>
+<Synonym>N-methyl-3-( 1-methyl-4-piperidinyl)-1H-indole-5-ethanesulfonamide Monohydrochloride</Synonym>
+<Synonym>NARATRIPTAN HYDROCHLORIDE</Synonym>
+<Synonym>GR 85548A</Synonym>
+<Synonym>Naratriptan hydrochloride</Synonym>
+<Synonym>NARATRIPTAN</Synonym>
+<Description>The hydrochloride salt form of naratriptan, a sulfonamide with selective serotonin (5-HT) 1 receptor agonistic activity and anti-migraine property. Naratriptan hydrochloride binds selectively and with high affinity to the 5-HT1D and 5-HT1B receptor subtypes. Activation of these 5-HT1D/B receptors located on intracranial blood vessels leads to vasoconstriction and provides relief of migraine headaches. Naratriptan hydrochloride may also exerts its effect by stimulation of 5-HT1D/1B receptors on sensory nerve endings in the trigeminal system thereby decreasing the release of pro-inflammatory neuropeptides.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

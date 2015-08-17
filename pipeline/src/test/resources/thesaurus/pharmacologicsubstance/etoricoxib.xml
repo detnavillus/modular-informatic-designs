@@ -1,0 +1,22 @@
+<Record>
+<Term>Etoricoxib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cyclooxygenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/Etoricoxib</ClassificationPath>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Etoricoxib</BroaderTerm>
+<BroaderTerm>Cyclooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<Synonym>5-Chloro-2-(6-methylpyridin-3-yl)-3-(4-methylsulfonylphenyl) Pyridine</Synonym>
+<Synonym>Arcoxia</Synonym>
+<Synonym>Etoricoxib</Synonym>
+<Synonym>L-791456</Synonym>
+<Synonym>MK-0663</Synonym>
+<Description>A synthetic, nonsteroidal anti-inflammatory drug (NSAID) with antipyretic, analgesic, and potential antineoplastic properties. Etoricoxib specifically binds to and inhibits the enzyme cyclooxygenase-2 (COX-2), resulting in inhibition of the conversion of arachidonic acid into prostaglandins. Inhibition of COX-2 may induce apoptosis and inhibit tumor cell proliferation and angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

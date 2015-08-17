@@ -1,0 +1,30 @@
+<Record>
+<Term>Endocarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Endocarditis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Endocarditis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Endocarditis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Subacute Bacterial Endocarditis</ChildTerm>
+<ChildTerm>Endocarditis, Bacterial</ChildTerm>
+<ChildTerm>Acute Endocarditis</ChildTerm>
+<Synonym>Endocarditides</Synonym>
+<Synonym>Endocarditis</Synonym>
+<Synonym>Infective Endocarditis</Synonym>
+<Synonym>Infective Endocarditides</Synonym>
+<Description>Inflammation of the endocardium.</Description>
+<Description>Inflammation of the inner lining of the heart (ENDOCARDIUM), the continuous membrane lining the four chambers and HEART VALVES. It is often caused by microorganisms including bacteria, viruses, fungi, and rickettsiae. Left untreated, endocarditis can damage heart valves and become life-threatening.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

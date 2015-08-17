@@ -1,0 +1,17 @@
+<Record>
+<Term>Spinal Curvatures</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Curvatures</ClassificationPath>
+<BroaderTerm>Spinal Curvatures</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Kyphosis</ChildTerm>
+<ChildTerm>Scoliosis</ChildTerm>
+<ChildTerm>Lordosis</ChildTerm>
+<Synonym>Spinal Curvatures</Synonym>
+<Synonym>Spinal Curvature</Synonym>
+<Description>Deformities of the SPINE characterized by abnormal bending or flexure in the vertebral column. They may be bending forward (KYPHOSIS), backward (LORDOSIS), or sideway (SCOLIOSIS).</Description>
+<Source>MeSH</Source>
+</Record>

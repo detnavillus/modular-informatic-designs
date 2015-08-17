@@ -1,0 +1,15 @@
+<Record>
+<Term>Phosphorus Metabolism Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Phosphorus Metabolism Disorders</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Phosphorus Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Hypophosphatemia</ChildTerm>
+<ChildTerm>Hyperphosphatemia</ChildTerm>
+<Synonym>Phosphorus Metabolism Disorders</Synonym>
+<Synonym>Phosphorus Metabolism Disorder</Synonym>
+<Description>Disorders in the processing of phosphorus in the body: its absorption, transport, storage, and utilization.</Description>
+<Source>MeSH</Source>
+</Record>

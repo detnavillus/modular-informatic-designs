@@ -1,0 +1,16 @@
+<Record>
+<Term>Cancer Other</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malignant Neoplasm</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Neoplasm/Neoplasm by Special Category/Malignant Neoplasm/Cancer Other</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cancer Other</BroaderTerm>
+<BroaderTerm>Neoplasm</BroaderTerm>
+<BroaderTerm>Neoplasm by Special Category</BroaderTerm>
+<BroaderTerm>Malignant Neoplasm</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cancer Other</Synonym>
+<Synonym>Cancer, Other</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

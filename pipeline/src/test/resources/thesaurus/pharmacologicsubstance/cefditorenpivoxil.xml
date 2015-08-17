@@ -1,0 +1,24 @@
+<Record>
+<Term>Cefditoren Pivoxil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cephalosporin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Cefditoren Pivoxil</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Cefditoren Pivoxil</BroaderTerm>
+<BroaderTerm>Cephalosporin Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ME 1207</Synonym>
+<Synonym>CEFDITOREN PIVOXIL</Synonym>
+<Synonym>CCRIS 7768</Synonym>
+<Synonym>Cefditoren Pivoxil</Synonym>
+<Synonym>5-Thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic Acid, 7-(((2-amino-4-thiazolyl)(methoxyimino)acetyl)amino)-3-((1Z)-2-(4-methyl-5-thiazolyl)ethenyl)-8-oxo-,2,2-dimethyl-1-oxopropoxy)methyl Ester,(6R,7R)-</Synonym>
+<Synonym>Cefditoren pivoxil</Synonym>
+<Synonym>Spectracef</Synonym>
+<Description>A semi-synthetic, broad-spectrum, beta-lactamase resistant, third-generation cephalosporin antibiotic with bactericidal activity. Cefditoren pivoxil is a prodrug that is rapidly hydrolyzed by intestinal esterases during absorption to the microbiologically active cefditoren, an active aminothiazolyl cephalosporin. Cefditoren inactivates penicillin binding proteins (PBPs) thereby interfering with peptidoglycan synthesis and inhibiting bacterial cell wall synthesis. Another consequence of beta-lactam exposure results in the loss of lipoteichoic acids from the cell wall. Lipoteichoic acids inhibit murein hydrolase activity and their absence from the cell wall triggers uncontrolled autolytic activity rendering bacterial cells susceptible to osmotic shock. This results in a reduction of cell wall stability and causes cell lysis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

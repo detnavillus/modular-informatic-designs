@@ -1,0 +1,49 @@
+<Record>
+<Term>Hereditary Hemorrhagic Telangiectasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Malformations</ParentTerm>
+<ParentTerm>Telangiectasia</ParentTerm>
+<ParentTerm>Hemostatic Disorders</ParentTerm>
+<ParentTerm>Telangiectasis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Hereditary Hemorrhagic Telangiectasia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vascular Ectasia/Telangiectasia/Hereditary Hemorrhagic Telangiectasia</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hemostatic Disorders/Telangiectasia, Hereditary Hemorrhagic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemostatic Disorders/Telangiectasia, Hereditary Hemorrhagic</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Telangiectasis/Telangiectasia, Hereditary Hemorrhagic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Vascular Malformations/Telangiectasia, Hereditary Hemorrhagic</ClassificationPath>
+<BroaderTerm>Telangiectasia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Hereditary Hemorrhagic Telangiectasia,</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Vascular Ectasia</BroaderTerm>
+<BroaderTerm>Telangiectasia, Hereditary Hemorrhagic</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hemostatic Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Vascular Malformations</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Telangiectasis</BroaderTerm>
+<BroaderTerm>Hereditary Hemorrhagic Telangiectasia</BroaderTerm>
+<Synonym>Osler-Weber-Rendu Disease</Synonym>
+<Synonym>Osler-Weber-Rendu Syndrome</Synonym>
+<Synonym>Osler Weber Rendu Syndrome</Synonym>
+<Synonym>Osler-Rendu Disease</Synonym>
+<Synonym>Osler-Rendu-Weber Disease</Synonym>
+<Synonym>Osler Rendu Disease</Synonym>
+<Synonym>Osler Rendu Weber Disease</Synonym>
+<Synonym>Hereditary Hemorrhagic Telangiectasia</Synonym>
+<Description>An autosomal dominant vascular anomaly characterized by telangiectases of the skin and mucous membranes and by recurrent gastrointestinal bleeding. This disorder is caused by mutations of a gene (on chromosome 9q3) which encodes endoglin, a membrane glycoprotein that binds TRANSFORMING GROWTH FACTOR BETA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Refractive Errors</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors</ClassificationPath>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Astigmatism</ChildTerm>
+<ChildTerm>Aniseikonia</ChildTerm>
+<ChildTerm>Presbyopia</ChildTerm>
+<ChildTerm>Anisometropia</ChildTerm>
+<ChildTerm>Myopia</ChildTerm>
+<ChildTerm>Corneal Wavefront Aberration</ChildTerm>
+<ChildTerm>Hyperopia</ChildTerm>
+<Synonym>Refractive Errors</Synonym>
+<Synonym>Refractive Error</Synonym>
+<Synonym>Refractive Disorders</Synonym>
+<Synonym>Refractive Disorder</Synonym>
+<Synonym>Ametropia</Synonym>
+<Synonym>Ametropias</Synonym>
+<Description>Deviations from the average or standard indices of refraction of the eye through its dioptric or refractive apparatus.</Description>
+<Source>MeSH</Source>
+</Record>

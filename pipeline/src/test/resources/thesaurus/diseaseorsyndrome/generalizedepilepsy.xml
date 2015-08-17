@@ -1,0 +1,44 @@
+<Record>
+<Term>Generalized Epilepsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Epilepsy/Generalized Epilepsy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Epilepsy, Generalized</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy, Generalized</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Generalized Epilepsy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<ChildTerm>Epilepsy, Absence</ChildTerm>
+<ChildTerm>Spasms, Infantile</ChildTerm>
+<ChildTerm>Epilepsy, Tonic-Clonic</ChildTerm>
+<Synonym>Generalized Onset Seizure Disorder</Synonym>
+<Synonym>Tonic Epilepsy</Synonym>
+<Synonym>Akinetic Epilepsy</Synonym>
+<Synonym>Tonic Epilepsies</Synonym>
+<Synonym>Generalized Seizure Disorder</Synonym>
+<Synonym>Generalized Epilepsies</Synonym>
+<Synonym>Atonic Epilepsy</Synonym>
+<Synonym>Symptomatic Generalized Epilepsy</Synonym>
+<Synonym>Generalized Convulsive Epilepsy</Synonym>
+<Synonym>Generalized Nonconvulsive Seizure Disorder</Synonym>
+<Synonym>Convulsive Generalized Seizure Disorder</Synonym>
+<Synonym>Generalized Seizure Disorders</Synonym>
+<Synonym>Atonic Epilepsies</Synonym>
+<Synonym>Generalized Epilepsy</Synonym>
+<Synonym>Generalized Nonconvulsive Epilepsy</Synonym>
+<Synonym>Generalized Convulsive Epilepsies</Synonym>
+<Synonym>Akinetic Epilepsies</Synonym>
+<Synonym>Nonconvulsive Generalized Seizure Disorder</Synonym>
+<Description>Recurrent conditions characterized by epileptic seizures which arise diffusely and simultaneously from both hemispheres of the brain. Classification is generally based upon motor manifestations of the seizure (e.g., convulsive, nonconvulsive, akinetic, atonic, etc.) or etiology (e.g., idiopathic, cryptogenic, and symptomatic). (From Mayo Clin Proc, 1996 Apr;71(4):405-14)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

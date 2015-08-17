@@ -1,0 +1,27 @@
+<Record>
+<Term>Ischemic Contracture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Compartment Syndromes</ParentTerm>
+<ParentTerm>Contracture</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Compartment Syndromes/Ischemic Contracture</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Compartment Syndromes/Ischemic Contracture</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Contracture/Ischemic Contracture</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Contracture/Ischemic Contracture</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Compartment Syndromes</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Contracture</BroaderTerm>
+<BroaderTerm>Ischemic Contracture</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Volkmann Ischemic Contracture</Synonym>
+<Synonym>Ischemic Contractures</Synonym>
+<Synonym>Volkmann Contractures</Synonym>
+<Synonym>Volkmann's Ischemic Contracture</Synonym>
+<Synonym>Volkmanns Ischemic Contracture</Synonym>
+<Synonym>Volkmann Contracture</Synonym>
+<Synonym>Ischemic Contracture</Synonym>
+<Description>A type of permanent damage to muscles and nerves that results from prolonged lack blood flow to those tissues. It is characterized by shortening and stiffening of the muscles.</Description>
+<Source>MeSH</Source>
+</Record>

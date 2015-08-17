@@ -1,0 +1,23 @@
+<Record>
+<Term>Tendon Entrapment</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tenosynovitis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Tendinopathy/Tenosynovitis/Tendon Entrapment</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Tenosynovitis</BroaderTerm>
+<BroaderTerm>Tendon Entrapment</BroaderTerm>
+<BroaderTerm>Tendinopathy</BroaderTerm>
+<ChildTerm>Trigger Finger Disorder</ChildTerm>
+<ChildTerm>De Quervain Disease</ChildTerm>
+<Synonym>Tendon Entrapment</Synonym>
+<Synonym>Tendon Entrapments</Synonym>
+<Synonym>Stenosing Tenosynovitis</Synonym>
+<Synonym>Stenosing Tenosynovitides</Synonym>
+<Synonym>Stenosing Tenovaginitides</Synonym>
+<Synonym>Stenosing Tenovaginitis</Synonym>
+<Synonym>Stenosing Tendovaginitis</Synonym>
+<Synonym>Stenosing Tendovaginitides</Synonym>
+<Description>Narrowing or stenosis of a tendon's retinacular sheath. It occurs most often in the hand or wrist but can also be found in the foot or ankle. The most common types are DE QUERVAIN DISEASE and TRIGGER FINGER DISORDER.</Description>
+<Source>MeSH</Source>
+</Record>

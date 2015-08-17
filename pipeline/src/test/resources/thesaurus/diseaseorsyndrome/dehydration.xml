@@ -1,0 +1,46 @@
+<Record>
+<Term>Dehydration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Pathologic Processes</ParentTerm>
+<ParentTerm>Other Finding</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Gastrointestinal System</ParentTerm>
+<ParentTerm>Water-Electrolyte Imbalance</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Gastrointestinal System/Dehydration Adverse Event</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Water-Electrolyte Imbalance/Dehydration</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Dehydration</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Dehydration,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Dehydration</ClassificationPath>
+<BroaderTerm>Dehydration,</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Water-Electrolyte Imbalance</BroaderTerm>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Dehydration</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Dehydration Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Gastrointestinal System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Dehydration</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Dehydration</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Dehydration</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Dehydration</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Dehydration</ChildTerm>
+<Synonym>Dehydration</Synonym>
+<Synonym>Dehydrated</Synonym>
+<Synonym>Dehydration Adverse Event</Synonym>
+<Synonym>Water Stress</Synonym>
+<Synonym>dehydration</Synonym>
+<Description>The condition that results from excessive loss of water from a living organism.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

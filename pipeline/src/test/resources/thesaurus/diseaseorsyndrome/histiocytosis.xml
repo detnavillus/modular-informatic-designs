@@ -1,0 +1,27 @@
+<Record>
+<Term>Histiocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ParentTerm>Morphologic Finding</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Morphologic Finding/Histiocytic Infiltrate</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Morphologic Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Histiocytic Infiltrate</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Massive Sinusoidal Histiocytic Infiltrate</ChildTerm>
+<ChildTerm>Histiocytosis, Non-Langerhans-Cell</ChildTerm>
+<ChildTerm>Histiocytosis, Langerhans-Cell</ChildTerm>
+<ChildTerm>Histiocytic Disorders, Malignant</ChildTerm>
+<Synonym>Histiocytoses</Synonym>
+<Synonym>Histiocytosis</Synonym>
+<Synonym>Histiocytic Infiltrate</Synonym>
+<Description>General term for the abnormal appearance of histiocytes in the blood. Based on the pathological features of the cells involved rather than on clinical findings, the histiocytic diseases are subdivided into three groups: HISTIOCYTOSIS, LANGERHANS CELL; HISTIOCYTOSIS, NON-LANGERHANS-CELL; and HISTIOCYTIC DISORDERS, MALIGNANT.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

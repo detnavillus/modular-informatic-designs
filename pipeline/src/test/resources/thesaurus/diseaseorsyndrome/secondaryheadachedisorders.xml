@@ -1,0 +1,22 @@
+<Record>
+<Term>Secondary Headache Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Headache Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders/Headache Disorders, Secondary</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders, Secondary</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Vascular Headaches</ChildTerm>
+<ChildTerm>Post-Traumatic Headache</ChildTerm>
+<ChildTerm>Post-Dural Puncture Headache</ChildTerm>
+<Synonym>Secondary Headache Disorder</Synonym>
+<Synonym>Secondary Headache Disorders</Synonym>
+<Synonym>Analgesic Rebound Headache</Synonym>
+<Synonym>Analgesic Rebound Headaches</Synonym>
+<Synonym>Analgesic Overuse Headache</Synonym>
+<Synonym>Analgesic Overuse Headaches</Synonym>
+<Description>Conditions with HEADACHE symptom that can be attributed to a variety of causes including BRAIN VASCULAR DISORDERS; WOUNDS AND INJURIES; INFECTION; drug use or its withdrawal.</Description>
+<Source>MeSH</Source>
+</Record>

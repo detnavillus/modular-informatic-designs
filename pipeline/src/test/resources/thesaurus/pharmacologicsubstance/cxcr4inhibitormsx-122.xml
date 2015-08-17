@@ -1,0 +1,16 @@
+<Record>
+<Term>CXCR4 Inhibitor MSX-122</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chemokine Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Chemokine Receptor Antagonist/CXCR4 Inhibitor MSX-122</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CXCR4 Inhibitor MSX-122</BroaderTerm>
+<BroaderTerm>Chemokine Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CXCR4 Inhibitor MSX-122</Synonym>
+<Synonym>MSX-122</Synonym>
+<Description>An orally bioavailable inhibitor of CXCR4 with potential antineoplastic and antiviral activities. CXCR4 inhibitor MSX-122 binds to the chemokine receptor CXCR4, preventing the binding of stromal derived factor-1 (SDF-1) to the CXCR4 receptor and receptor activation, which may result in decreased tumor cell proliferation and migration. CXCR4, a chemokine receptor belonging to the GPCR (G protein-coupled receptor) gene family, plays an important role in chemotaxis and angiogenesis and is upregulated in several tumor cell types; it is also a co-receptor for HIV entry into T cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>DC-Cholesterol Liposome</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Drug Vehicle</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/DC-Cholesterol Liposome</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>DC-Cholesterol Liposome</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DC-Chol Liposomes</Synonym>
+<Synonym>DC-Cholesterol Liposome</Synonym>
+<Synonym>Dimethylaminoethane-carbamoyl-cholesterol Liposomes</Synonym>
+<Description>A cationic cholesterol derivative mixed with dimethylaminoethane-carbamoyl and sonicated to form small unilamellar vesicles that can complex with DNA, DNA/protein complexes and other drug complexes and mediates the delivery into the cytosol from the endosome compartment. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

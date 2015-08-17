@@ -1,0 +1,33 @@
+<Record>
+<Term>Blindness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Vision Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Blindness</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Blindness</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Amaurosis Fugax</ChildTerm>
+<ChildTerm>Hemianopsia</ChildTerm>
+<ChildTerm>Blindness, Cortical</ChildTerm>
+<ChildTerm>Deaf-Blind Disorders</ChildTerm>
+<Synonym>Complete Blindness</Synonym>
+<Synonym>Amaurosis</Synonym>
+<Synonym>Acquired Blindness</Synonym>
+<Synonym>Monocular Blindness</Synonym>
+<Synonym>Hysterical Blindness</Synonym>
+<Synonym>Legal Blindness</Synonym>
+<Synonym>Transient Blindness</Synonym>
+<Synonym>Blindness</Synonym>
+<Synonym>Amauroses</Synonym>
+<Description>The inability to see or the loss or absence of perception of visual stimuli. This condition may be the result of EYE DISEASES; OPTIC NERVE DISEASES; OPTIC CHIASM diseases; or BRAIN DISEASES affecting the VISUAL PATHWAYS or OCCIPITAL LOBE.</Description>
+<Source>MeSH</Source>
+</Record>

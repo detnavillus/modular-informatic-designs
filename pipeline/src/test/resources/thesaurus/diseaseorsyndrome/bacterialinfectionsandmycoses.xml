@@ -1,0 +1,16 @@
+<Record>
+<Term>Bacterial Infections and Mycoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses</ClassificationPath>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Infection</ChildTerm>
+<ChildTerm>Mycoses</ChildTerm>
+<ChildTerm>Bacterial Infections</ChildTerm>
+<ChildTerm>Brain Abscess</ChildTerm>
+<ChildTerm>Central Nervous System Infections</ChildTerm>
+<ChildTerm>Zoonoses</ChildTerm>
+<Synonym>Bacterial Infections and Mycoses</Synonym>
+<Description>Infections caused by bacteria and fungi, general, specified, or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

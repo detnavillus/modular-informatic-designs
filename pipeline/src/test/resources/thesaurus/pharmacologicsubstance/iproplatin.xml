@@ -1,0 +1,21 @@
+<Record>
+<Term>Iproplatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Platinum Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Adduct Forming Agent/Platinum Compound/Iproplatin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Platinum Compound</BroaderTerm>
+<BroaderTerm>Iproplatin</BroaderTerm>
+<BroaderTerm>DNA Adduct Forming Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>(OC-6-33)-dichlorodihydroxybis(2-propanamine)platinum</Synonym>
+<Synonym>CHIP</Synonym>
+<Synonym>Iproplatin</Synonym>
+<Synonym>JM-9</Synonym>
+<Synonym>Platinum, dichlorodihydroxybis(2-propanamine)-, (oc-6-33)-</Synonym>
+<Description>A synthetic second-generation platinum-containing compound related to cisplatin. Iproplatin binds to and forms DNA crosslinks and platinum-DNA adducts, resulting in DNA replication failure and cell death.  Although less prone to glutathione inactivation compared to cisplatin, resistance to this agent has been observed in vitro due to repair of platination damage by tumor cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

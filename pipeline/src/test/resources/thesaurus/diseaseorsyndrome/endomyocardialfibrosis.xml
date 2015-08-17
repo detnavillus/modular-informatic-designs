@@ -1,0 +1,26 @@
+<Record>
+<Term>Endomyocardial Fibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Endomyocardial Fibrosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Endomyocardial Fibrosis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Endomyocardial Fibrosis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Endomyocardial Fibrosis</Synonym>
+<Synonym>Endomyocardial Fibroses</Synonym>
+<Description>A disease characterized by fibrotic thickening of the endocardium, particularly the right and/or left inflow tracts. The disease often involves the atrioventricular valves, leading to valvular regurgitaion.  It most commonly occurs in children living within 15 degrees of the equator.</Description>
+<Description>A condition characterized by the thickening of the ventricular ENDOCARDIUM and subendocardium (MYOCARDIUM), seen mostly in children and young adults in the TROPICAL CLIMATE. The fibrous tissue extends from the apex toward and often involves the HEART VALVES causing restrictive blood flow into the respective ventricles (CARDIOMYOPATHY, RESTRICTIVE).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

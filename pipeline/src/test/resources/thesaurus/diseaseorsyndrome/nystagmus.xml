@@ -1,0 +1,34 @@
+<Record>
+<Term>Nystagmus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Nystagmus Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Nystagmus,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Nystagmus</ClassificationPath>
+<BroaderTerm>Nystagmus,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Nystagmus</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Nystagmus Adverse Event</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Nystagmus</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Nystagmus</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Nystagmus</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Nystagmus</ChildTerm>
+<Synonym>Nystagmus Adverse Event</Synonym>
+<Synonym>Nystagmus</Synonym>
+<Description>Involuntary movements of the eyeballs.  The presence or absence of nystagmus is often used in the diagnosis of a variety of neurological and visual disorders.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

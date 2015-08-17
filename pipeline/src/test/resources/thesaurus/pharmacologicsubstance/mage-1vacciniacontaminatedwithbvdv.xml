@@ -1,0 +1,17 @@
+<Record>
+<Term>MAGE-1 Vaccinia Contaminated with BVDV</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/MAGE-1 Vaccinia Contaminated with BVDV</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>MAGE-1 Vaccinia Contaminated with BVDV</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>MAGE-1 Vaccinia Contaminated with BVDV</Synonym>
+<Description>A cancer vaccine consisting of a recombinant vaccinia virus encoding the tumor-associated gene MAGE-1 that is contaminated with bovine viral diarrhea virus (BVDV).  The MAGE-1 gene is a member of the melanoma antigen-encoding gene family which is expressed in various malignant tumors such as hepatocellular carcinoma and germ cell tumors in addition to melanoma.  Vaccination with vaccinia virus expressing human MAGE-1 may generate antitumoral T-cell responses.  BVDV is an RNA pestivirus that may contaminate vaccines due to its presence in the fetal calf serum used as a growth supplement in the tissue culture of mammalian cells used in vaccine production. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

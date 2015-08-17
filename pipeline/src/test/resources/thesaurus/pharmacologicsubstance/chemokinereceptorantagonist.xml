@@ -1,0 +1,17 @@
+<Record>
+<Term>Chemokine Receptor Antagonist</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Chemokine Receptor Antagonist</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemokine Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Reparixin</ChildTerm>
+<ChildTerm>CXCR4 Inhibitor MSX-122</ChildTerm>
+<ChildTerm>Ancriviroc</ChildTerm>
+<ChildTerm>Plerixafor</ChildTerm>
+<Synonym>Chemokine Receptor Antagonist</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

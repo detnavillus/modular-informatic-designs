@@ -1,0 +1,39 @@
+<Record>
+<Term>Antimetabolites</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ParentTerm>Noxae</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Antimetabolites</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<ChildTerm>Torcitabine</ChildTerm>
+<ChildTerm>Antimetabolites, Antineoplastic</ChildTerm>
+<ChildTerm>Fiacitabine</ChildTerm>
+<ChildTerm>Galocitabine</ChildTerm>
+<ChildTerm>Purine Antagonist</ChildTerm>
+<ChildTerm>Pyrimidine Antagonist</ChildTerm>
+<ChildTerm>Miscellaneous Antimetabolite</ChildTerm>
+<ChildTerm>Elvucitabine</ChildTerm>
+<ChildTerm>Folate Antagonist</ChildTerm>
+<ChildTerm>Antilipemic Agents</ChildTerm>
+<Synonym>Antimetabolites</Synonym>
+<Synonym>Antimetabolite</Synonym>
+<Synonym>antimetabolite</Synonym>
+<Description>Agents that inhibit the biosynthesis of pyrimidine or purine nucleotides or mimic natural nucleotides so they interfere with their synthesis or function and subsequently interrupt DNA, RNA, and/or protein synthesis.</Description>
+<Description>Drugs that are chemically similar to naturally occurring metabolites, but differ enough to interfere with normal metabolic pathways. (From AMA Drug Evaluations Annual, 1994, p2033)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Flurandrenolide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Flurandrenolide</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Flurandrenolide</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FLURANDRENOLIDE</Synonym>
+<Synonym>Flurandrenolide</Synonym>
+<Synonym>6alpha-Fluoro-11beta,16alpha,17,21-tetrahydroxypregn-4-ene-3,20-dione, cyclic 16,17-acetal with Acetone</Synonym>
+<Synonym>Fludroxycortide</Synonym>
+<Synonym>Cordran</Synonym>
+<Synonym>Cordran sp</Synonym>
+<Description>A synthetic glucocorticoid with anti-inflammatory and anti-allergic properties. Flurandrenolide exerts its effects by interacting with specific cytoplasmic glucocorticoid receptors and subsequently activates glucocorticoid receptor mediated gene expression. The synthesis of certain anti-inflammatory proteins is induced while the synthesis of certain inflammatory mediators is inhibited. As a result, there is an overall reduction in chronic inflammation and autoimmune reactions.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

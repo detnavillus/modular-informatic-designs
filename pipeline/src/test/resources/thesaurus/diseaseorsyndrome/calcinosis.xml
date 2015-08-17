@@ -1,0 +1,18 @@
+<Record>
+<Term>Calcinosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Calcium Metabolism Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Calcinosis</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Calcinosis</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Calciphylaxis</ChildTerm>
+<ChildTerm>CREST Syndrome</ChildTerm>
+<ChildTerm>Nephrocalcinosis</ChildTerm>
+<Synonym>Calcinosis</Synonym>
+<Synonym>Calcinoses</Synonym>
+<Synonym>Pathologic Calcification</Synonym>
+<Description>Pathologic deposition of calcium salts in tissues.</Description>
+<Source>MeSH</Source>
+</Record>

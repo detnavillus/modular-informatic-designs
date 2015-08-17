@@ -1,0 +1,20 @@
+<Record>
+<Term>Dichloroallyl Lawsone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pyrimidine Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Pyrimidine Antagonist/Dichloroallyl Lawsone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Dihydroorotate Dehydrogenase Inhibitor/Dichloroallyl Lawsone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pyrimidine Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Dichloroallyl Lawsone</BroaderTerm>
+<BroaderTerm>Dichloroallyl Lawsone,</BroaderTerm>
+<BroaderTerm>Dihydroorotate Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Dichloroallyl Lawsone</Synonym>
+<Description>A triazine derivative with antineoplastic activity.  Dichloroallyl lawsone inhibits mitochondrial dihydroorotate dehydrogenase (DHOD), an enzyme that catalyzes the only redox step in de novo pyrimidine biosynthesis, and nucleotide (RNA and DNA) biosynthesis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

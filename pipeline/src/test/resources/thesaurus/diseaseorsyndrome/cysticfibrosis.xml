@@ -1,0 +1,44 @@
+<Record>
+<Term>Cystic Fibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Pancreatic Disorder</ParentTerm>
+<ParentTerm>Pancreatic Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Cystic Fibrosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Cystic Fibrosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Cystic Fibrosis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Cystic Fibrosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Cystic Fibrosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Pancreatic Disorder/Non-Neoplastic Pancreatic Disorder/Cystic Fibrosis</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Cystic Fibrosis</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cystic Fibrosis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<Synonym>cystic fibrosis</Synonym>
+<Synonym>Pancreatic Cystic Fibrosis</Synonym>
+<Synonym>Cystic Fibrosis</Synonym>
+<Synonym>Pulmonary Cystic Fibrosis</Synonym>
+<Synonym>Pancreas Fibrocystic Diseases</Synonym>
+<Synonym>Mucoviscidosis</Synonym>
+<Synonym>Fibrocystic Disease of Pancreas</Synonym>
+<Synonym>Pancreas Fibrocystic Disease</Synonym>
+<Description>A congenital metabolic disorder affecting the exocrine glands, inherited as an autosomal trait. The secretions of exocrine glands are abnormal, resulting in excessively viscid mucus production which causes obstruction of passageways (including pancreatic and bile ducts, intestines, and bronchi).  The sweat sodium and chloride content are increased.  Symptoms usually appear in childhood and include meconium ileus, poor growth despite good appetite, malabsorption and foul bulky stools, chronic bronchitis with cough, recurrent pneumonia, bronchiectasis, emphysema, clubbing of the fingers, and salt depletion in hot weather. -- 2003</Description>
+<Description>An autosomal recessive genetic disease of the EXOCRINE GLANDS. It is caused by mutations in the gene encoding the CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE REGULATOR expressed in several organs including the LUNG, the PANCREAS, the BILIARY SYSTEM, and the SWEAT GLANDS. Cystic fibrosis is characterized by epithelial secretory dysfunction associated with ductal obstruction resulting in AIRWAY OBSTRUCTION; chronic RESPIRATORY INFECTIONS; PANCREATIC INSUFFICIENCY; maldigestion; salt depletion; and HEAT PROSTRATION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

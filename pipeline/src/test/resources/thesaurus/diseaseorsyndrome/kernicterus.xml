@@ -1,0 +1,37 @@
+<Record>
+<Term>Kernicterus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Erythroblastosis, Fetal</ParentTerm>
+<ParentTerm>Hyperbilirubinemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Group Incompatibility/Erythroblastosis, Fetal/Kernicterus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Kernicterus</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Hyperbilirubinemia/Kernicterus</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Erythroblastosis, Fetal/Kernicterus</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Blood Group Incompatibility/Erythroblastosis, Fetal/Kernicterus</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Kernicterus</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Kernicterus</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Erythroblastosis, Fetal</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Blood Group Incompatibility</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Hyperbilirubinemia</BroaderTerm>
+<Synonym>Hyperbilirubinemic Encephalopathies</Synonym>
+<Synonym>Bilirubin Encephalopathy</Synonym>
+<Synonym>Kernicterus</Synonym>
+<Synonym>Hyperbilirubinemic Encephalopathy</Synonym>
+<Synonym>Bilirubin Encephalopathies</Synonym>
+<Description>A term used pathologically to describe BILIRUBIN staining of the BASAL GANGLIA; BRAIN STEM; and CEREBELLUM and clinically to describe a syndrome associated with HYPERBILIRUBINEMIA. Clinical features include athetosis, MUSCLE SPASTICITY or hypotonia, impaired vertical gaze, and DEAFNESS. Nonconjugated bilirubin enters the brain and acts as a neurotoxin, often in association with conditions that impair the BLOOD-BRAIN BARRIER (e.g., SEPSIS). This condition occurs primarily in neonates (INFANT, NEWBORN),  but may rarely occur in adults. (Menkes, Textbook of Child Neurology, 5th ed, p613)</Description>
+<Source>MeSH</Source>
+</Record>

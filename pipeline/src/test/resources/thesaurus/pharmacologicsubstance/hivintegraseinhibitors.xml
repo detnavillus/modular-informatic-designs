@@ -1,0 +1,22 @@
+<Record>
+<Term>HIV Integrase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-HIV Agents</ParentTerm>
+<ParentTerm>Integrase Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents/Anti-Retroviral Agents/Anti-HIV Agents/HIV Integrase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Integrase Inhibitors/HIV Integrase Inhibitors</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>HIV Integrase Inhibitors</BroaderTerm>
+<BroaderTerm>Anti-HIV Agents</BroaderTerm>
+<BroaderTerm>Integrase Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Anti-Retroviral Agents</BroaderTerm>
+<Synonym>HIV Integrase Inhibitors</Synonym>
+<Description>Inhibitors of HIV INTEGRASE, an enzyme required for integration of viral DNA into cellular DNA.</Description>
+<Source>MeSH</Source>
+</Record>

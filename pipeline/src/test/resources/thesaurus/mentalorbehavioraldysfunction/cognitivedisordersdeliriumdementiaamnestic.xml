@@ -1,0 +1,22 @@
+<Record>
+<Term>Cognitive Disorders Delirium, Dementia, Amnestic</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders</ClassificationPath>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Cognition Disorders</ChildTerm>
+<ChildTerm>Consciousness Disorders</ChildTerm>
+<ChildTerm>Delirium</ChildTerm>
+<ChildTerm>Dementia</ChildTerm>
+<ChildTerm>Amnesia</ChildTerm>
+<ChildTerm>Dyslexia, Acquired</ChildTerm>
+<Synonym>Organic Mental Disorders</Synonym>
+<Synonym>Organic Mental Disorder</Synonym>
+<Synonym>Traumatic Psychoses</Synonym>
+<Synonym>Kandinsky Syndrome</Synonym>
+<Synonym>Clerambault Syndrome</Synonym>
+<Synonym>Nonpsychotic Organic Brain Syndrome</Synonym>
+<Description>Cognitive disorders including delirium, dementia, and other cognitive disorders. These may be the result of substance use, trauma, or other causes.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Salmonella Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Salmonella Infections</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Salmonella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Salmonella Food Poisoning</ChildTerm>
+<ChildTerm>Salmonella Infections, Animal</ChildTerm>
+<ChildTerm>Typhoid Fever</ChildTerm>
+<ChildTerm>Paratyphoid Fever</ChildTerm>
+<Synonym>Salmonella Infections</Synonym>
+<Synonym>Salmonellosis</Synonym>
+<Synonym>Salmonelloses</Synonym>
+<Synonym>Salmonella Infection</Synonym>
+<Description>Infections with bacteria of the genus SALMONELLA.</Description>
+<Source>MeSH</Source>
+</Record>

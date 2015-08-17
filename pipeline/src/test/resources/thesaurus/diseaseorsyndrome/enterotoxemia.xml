@@ -1,0 +1,18 @@
+<Record>
+<Term>Enterotoxemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Clostridium Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Clostridium Infections/Enterotoxemia</ClassificationPath>
+<ClassificationPath>Animal Diseases/Enterotoxemia</ClassificationPath>
+<BroaderTerm>Clostridium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Enterotoxemia</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Enterotoxemia</Synonym>
+<Synonym>Enterotoxemias</Synonym>
+<Description>Disease caused by the liberation of exotoxins of CLOSTRIDIUM PERFRINGENS in the intestines of sheep, goats, cattle, foals, and piglets. Type B enterotoxemia in lambs is lamb dysentery; type C enterotoxemia in mature sheep produces "struck", and in calves, lambs and piglets it produces hemorrhagic enterotoxemia; type D enterotoxemia in sheep and goats is pulpy-kidney disease or overeating disease.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Bcr-Abl (b3a2)-Derived Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>BCR-ABL Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/BCR-ABL Peptide Vaccine/Bcr-Abl (b3a2)-Derived Peptide Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Bcr-Abl (b3a2)-Derived Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>BCR-ABL Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Bcr-Abl (b3a2)-Derived Peptide Vaccine</Synonym>
+<Synonym>CML-VAX B3</Synonym>
+<Description>A peptide vaccine consisting of the bcr-abl b3a2 fusion oncoprotein, frequently expressed in chronic myelogenous leukemia (CML), with potential antineoplastic activity. Vaccination with the bcr-abl (b3a2)-derived peptide vaccine may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against tumor cells that express the bcr-abl b3a2 fusion protein. Fusion genes in CML typically result from the fusion of either BCR exon b2 or BCR exon b3 to ABL exon a2, a 'b3a2' or a 'b2a2' fusion.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

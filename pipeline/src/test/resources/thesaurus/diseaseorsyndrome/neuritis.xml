@@ -1,0 +1,24 @@
+<Record>
+<Term>Neuritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Neuritis</ClassificationPath>
+<BroaderTerm>Neuritis</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Brachial Plexus Neuritis</ChildTerm>
+<ChildTerm>Neuritis, Autoimmune, Experimental</ChildTerm>
+<Synonym>Neuritis</Synonym>
+<Synonym>Neuritides</Synonym>
+<Synonym>Peripheral Neuritides</Synonym>
+<Synonym>Peripheral Neuritis</Synonym>
+<Synonym>Sensory Neuritides</Synonym>
+<Synonym>Sensory Neuritis</Synonym>
+<Synonym>Polyneuritis</Synonym>
+<Synonym>Polyneuritides</Synonym>
+<Synonym>Motor Neuritides</Synonym>
+<Synonym>Motor Neuritis</Synonym>
+<Description>A general term indicating inflammation of a peripheral or cranial nerve. Clinical manifestation may include PAIN; PARESTHESIAS; PARESIS; or HYPESTHESIA.Inflammation of multiple nerves.</Description>
+<Source>MeSH</Source>
+</Record>

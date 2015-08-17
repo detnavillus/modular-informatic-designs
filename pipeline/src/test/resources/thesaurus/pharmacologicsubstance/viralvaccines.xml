@@ -1,0 +1,37 @@
+<Record>
+<Term>Viral Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Poliovirus Vaccines</ChildTerm>
+<ChildTerm>Rabies Vaccines</ChildTerm>
+<ChildTerm>Rubella Vaccine</ChildTerm>
+<ChildTerm>Smallpox Vaccine</ChildTerm>
+<ChildTerm>Viral Hepatitis Vaccines</ChildTerm>
+<ChildTerm>AIDS Vaccines</ChildTerm>
+<ChildTerm>SAIDS Vaccines</ChildTerm>
+<ChildTerm>Herpesvirus Vaccines</ChildTerm>
+<ChildTerm>Parainfluenza Vaccines</ChildTerm>
+<ChildTerm>Rotavirus Vaccines</ChildTerm>
+<ChildTerm>Respiratory Syncytial Virus Vaccines</ChildTerm>
+<ChildTerm>Japanese Encephalitis Vaccines</ChildTerm>
+<ChildTerm>Yellow Fever Vaccine</ChildTerm>
+<ChildTerm>Pseudorabies Vaccines</ChildTerm>
+<ChildTerm>Cytomegalovirus Vaccines</ChildTerm>
+<ChildTerm>Measles-Mumps-Rubella Vaccine</ChildTerm>
+<ChildTerm>Measles Vaccine</ChildTerm>
+<ChildTerm>Mumps Vaccine</ChildTerm>
+<ChildTerm>Ebola Vaccines</ChildTerm>
+<ChildTerm>Dengue Vaccines</ChildTerm>
+<ChildTerm>West Nile Virus Vaccines</ChildTerm>
+<ChildTerm>Papillomavirus Vaccines</ChildTerm>
+<ChildTerm>Influenza Vaccines</ChildTerm>
+<Synonym>Viral Vaccines</Synonym>
+<Description>Suspensions of attenuated or killed viruses administered for the prevention or treatment of infectious viral disease.</Description>
+<Source>MeSH</Source>
+</Record>

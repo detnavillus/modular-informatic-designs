@@ -1,0 +1,28 @@
+<Record>
+<Term>Mycophenolate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Inosine Monophosphate Dehydrogenase Inhibitor</ParentTerm>
+<ParentTerm>Antiviral Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Mycophenolate Sodium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Mycophenolate Sodium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Inosine Monophosphate Dehydrogenase Inhibitor/Mycophenolate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Mycophenolate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Mycophenolate Sodium,</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mycophenolate,</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Mycophenolate Sodium</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Inosine Monophosphate Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Mycophenolate</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Mycophenolate</Synonym>
+<Synonym>MYCOPHENOLATE SODIUM</Synonym>
+<Synonym>Mycophenolate Sodium</Synonym>
+<Description>The morpholinoethyl ester of mycophenolic acid (MPA).  As an immunosuppressive agent in vivo, the active metabolite mycophenolate reversibly inhibits inosine 5'-monophosphate dehydrogenase (IMPDH), an enzyme involved in the de novo synthesis of guanine nucleotides, thereby retarding T-cell and B-cell proliferation.  MPA displays high lymphocyte specificity and cytotoxicity because lymphocyte metabolism is highly dependent on both salvage and de novo synthesis of guanine nucleotides. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Edotreotide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Somatostatin Receptor Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Somatostatin Receptor Agonist/Edotreotide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Edotreotide</BroaderTerm>
+<BroaderTerm>Somatostatin Receptor Agonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DOTA-Tyr3-octreotide</Synonym>
+<Synonym>DOTATOC</Synonym>
+<Synonym>Edotreotide</Synonym>
+<Synonym>SMT-487</Synonym>
+<Description>A chelated octreotide derivative with somatostatin activity. Edotreotide is produced by substituting tyrosine for phenylalanine at the 3 position of octreotide and chelated via dodecanetetraacetic acid (DOTA). Like octreotide, this edotreotide binds to somatostatin receptors (SSTRs), especially type 2, present on the cell membrane of many types of neuroendocrine tumors. When labeled with nuclides, edotreotide conjugates could result in tissue specific cytotoxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

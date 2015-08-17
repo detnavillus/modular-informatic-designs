@@ -1,0 +1,18 @@
+<Record>
+<Term>Antitubercular Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Bacterial Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Anti-Bacterial Agents/Antitubercular Agents</ClassificationPath>
+<BroaderTerm>Antitubercular Agents</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Bacterial Agents</BroaderTerm>
+<ChildTerm>Antibiotics, Antitubercular</ChildTerm>
+<Synonym>Antitubercular Agents</Synonym>
+<Synonym>Antitubercular Drugs</Synonym>
+<Synonym>Tuberculostatic Agents</Synonym>
+<Description>Drugs used in the treatment of tuberculosis. They are divided into two main classes: "first-line" agents, those with the greatest efficacy and acceptable degrees of toxicity used successfully in the great majority of cases; and "second-line" drugs used in drug-resistant cases or those in which some other patient-related condition has compromised the effectiveness of primary therapy.</Description>
+<Source>MeSH</Source>
+</Record>

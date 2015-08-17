@@ -1,0 +1,19 @@
+<Record>
+<Term>Eszopiclone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Sedative and Hypnotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Eszopiclone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Eszopiclone</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ESZOPICLONE</Synonym>
+<Synonym>Eszopiclone</Synonym>
+<Synonym>Lunesta</Synonym>
+<Description>A nonbenzodiazepine, cyclopyrrolone and active stereoisomer of zopiclone with hypnotic and sedative activity and without significant anxiolytic activity. Although the exact mechanism of action remains to be fully elucidated, eszopiclone is able to bind to and activate the omega-1 subtype of the alpha subunit of the gamma-aminobutyric acid-benzodiazepine GABA receptor complex (GABA-A), a chloride ionophore complex in the central nervous system (CNS). This leads to the opening of chloride channels, causing hyperpolarization, inhibition of neuronal firing, and enhancement of the inhibitory effect of GABA. This eventually leads to a hypnotic effect and allows for an induction of sleep.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

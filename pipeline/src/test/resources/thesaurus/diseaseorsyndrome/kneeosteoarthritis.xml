@@ -1,0 +1,17 @@
+<Record>
+<Term>Knee Osteoarthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteoarthritis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Osteoarthritis/Osteoarthritis, Knee</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Osteoarthritis/Osteoarthritis, Knee</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Osteoarthritis, Knee</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Osteoarthritis</BroaderTerm>
+<Synonym>Knee Osteoarthritides</Synonym>
+<Synonym>Knee Osteoarthritis</Synonym>
+<Description>Noninflammatory degenerative disease of the knee joint consisting of three large categories: conditions that block normal synchronous movement, conditions that produce abnormal pathways of motion, and conditions that cause stress concentration resulting in changes to articular cartilage. (Crenshaw, Campbell's Operative Orthopaedics, 8th ed, p2019)</Description>
+<Source>MeSH</Source>
+</Record>

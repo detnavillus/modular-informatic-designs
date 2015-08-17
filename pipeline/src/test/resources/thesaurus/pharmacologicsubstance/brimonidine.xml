@@ -1,0 +1,34 @@
+<Record>
+<Term>Brimonidine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-glaucoma Agent</ParentTerm>
+<ParentTerm>Alpha-Adrenergic Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Brimonidine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Alpha-Adrenergic Agonist/Brimonidine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Alpha-Adrenergic Agonist/Brimonidine Tartrate</ClassificationPath>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Brimonidine</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Brimonidine,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Brimonidine Tartrate</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Alpha-Adrenergic Agonist</BroaderTerm>
+<Synonym>Alphagan</Synonym>
+<Synonym>Lumigan</Synonym>
+<Synonym>Brimonidine</Synonym>
+<Synonym>Brimonidine Tartrate</Synonym>
+<Synonym>Brimonidine tartrate</Synonym>
+<Synonym>Alphagan p</Synonym>
+<Synonym>BRIMONIDINE</Synonym>
+<Synonym>6-Quinoxalinamine, 5-Bromo-N-(4,5-dihydro-1H-imidazol-2-yl)-,(2R,3R)-2,3-dihydroxybutanedioate(1:1)</Synonym>
+<Synonym>Brimodine</Synonym>
+<Synonym>BRIMONIDINE TARTRATE</Synonym>
+<Description>The tartrate salt form of brimonidine, an imidazole derivative and a selective alpha-2 adrenergic receptor agonist. Upon ocular administration, brimonidine tartrate acts on the blood vessels causing them to constrict which leads to a decrease in the production of aqueous humor. Brimonidine tartrate also enhances the outflow of aqueous humor. This drug is used in the treatment of glaucoma to reduce intraocular pressure.</Description>
+<Description>An imidazole derivative and a selective alpha-2 adrenergic receptor agonist. Upon ocular administration, brimonidine acts on the blood vessels causing them to constrict which leads to a decrease in the production of aqueous humor. Brimonidine also enhances the uveoscleral outflow of aqueous humor. This reduces intraocular pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Induced Cataract</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cataract</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Cataract/Induced Cataract</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Induced Cataract</BroaderTerm>
+<BroaderTerm>Cataract</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cataract, Induced</Synonym>
+<Synonym>Induced Cataract</Synonym>
+<Synonym>Induced cataract</Synonym>
+<Description>A cataract that has been produced artificially or by induction, e.g. as a result of device use, medication, trauma, tears, falls, accidental injury, etc.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

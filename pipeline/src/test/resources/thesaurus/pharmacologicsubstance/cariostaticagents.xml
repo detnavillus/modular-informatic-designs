@@ -1,0 +1,27 @@
+<Record>
+<Term>Cariostatic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protective Agents</ParentTerm>
+<ParentTerm>Biomedical and Dental Materials</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Cariostatic Agents</ClassificationPath>
+<ClassificationPath>Biomedical and Dental Materials/Cariostatic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Cariostatic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Biomedical and Dental Materials/Cariostatic Agents</ClassificationPath>
+<ClassificationPath>Technology, Industry, and Agriculture/Manufactured Materials/Biomedical and Dental Materials/Cariostatic Agents</ClassificationPath>
+<BroaderTerm>Manufactured Materials</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Cariostatic Agents</BroaderTerm>
+<BroaderTerm>Technology, Industry, and Agriculture</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Biomedical and Dental Materials</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<ChildTerm>Sodium Fluoride</ChildTerm>
+<ChildTerm>Tin Fluorides</ChildTerm>
+<ChildTerm>Fluorides, Topical</ChildTerm>
+<ChildTerm>Acidulated Phosphate Fluoride</ChildTerm>
+<Synonym>Cariostatic Agents</Synonym>
+<Description>Substances that inhibit or arrest DENTAL CARIES formation. (Boucher's Clinical Dental Terminology, 4th ed)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Cystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Urinary Bladder Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Bladder Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Kidney and Genitourinary System</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Non-Neoplastic Urinary System Disorder/Non-Neoplastic Bladder Disorder/Cystitis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Kidney and Genitourinary System/Cystitis Adverse Event</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bladder Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Urinary Bladder Diseases</BroaderTerm>
+<BroaderTerm>Cystitis Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Kidney and Genitourinary System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Cystitis</BroaderTerm>
+<ChildTerm>Acute Cystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Cystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Cystitis</ChildTerm>
+<ChildTerm>Pyelocystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Cystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Cystitis</ChildTerm>
+<ChildTerm>Cystitis, Interstitial</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Cystitis</ChildTerm>
+<ChildTerm>Chronic Cystitis</ChildTerm>
+<Synonym>Cystitis Adverse Event</Synonym>
+<Synonym>Cystitides</Synonym>
+<Synonym>Cystitis</Synonym>
+<Description>Inflammation of the URINARY BLADDER, either from bacterial or non-bacterial causes. Cystitis is usually associated with painful urination (dysuria), increased frequency, urgency, and suprapubic pain.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

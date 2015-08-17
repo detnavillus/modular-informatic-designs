@@ -1,0 +1,21 @@
+<Record>
+<Term>DHEA Mustard</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Nitrogen Mustard Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Mustard Agent/Nitrogen Mustard Compound/DHEA Mustard</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mustard Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Nitrogen Mustard Compound</BroaderTerm>
+<BroaderTerm>DHEA Mustard</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DHEA Mustard</Synonym>
+<Synonym>Dehydroepiandrosterone mustard</Synonym>
+<Synonym>dehydroepiandrosterone mustard</Synonym>
+<Description>A steroidal alkylating agent with potential antineoplastic activity.  Alkylating agents exert cytotoxic and, in some cases, chemotherapeutic effects by transferring alkyl groups to DNA, thereby damaging DNA and interfering with DNA replication and cell division. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

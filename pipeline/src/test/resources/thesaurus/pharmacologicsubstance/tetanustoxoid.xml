@@ -1,0 +1,30 @@
+<Record>
+<Term>Tetanus Toxoid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Toxoids</ParentTerm>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/Tetanus Toxoid</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Tetanus Toxoid</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Tetanus Toxoid</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-Pertussis Vaccine</ChildTerm>
+<Synonym>Tetanus Vaccine</Synonym>
+<Synonym>tetanus toxoid</Synonym>
+<Synonym>Tetanus Toxoid</Synonym>
+<Description>A solution of formaldehyde-deactivated toxin isolated from the bacterium Clostridium tetani. Tetanus toxoid stimulates the production of antitoxin antibodies. This agent may be used as an adjuvant in cancer vaccines. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Serotonin Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Neuroreactive Substance or Biogenic Amine</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Serotonin Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Serotonin Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Serotonin Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Serotonin Uptake Inhibitors</ChildTerm>
+<ChildTerm>Serotonin Antagonists</ChildTerm>
+<ChildTerm>Serotonin Agonists</ChildTerm>
+<Synonym>Serotonergic Agents</Synonym>
+<Synonym>Serotonin Agents</Synonym>
+<Synonym>serotoninergic neuroenteric modulators</Synonym>
+<Synonym>Serotonergic Drugs</Synonym>
+<Synonym>Serotonin Drugs</Synonym>
+<Description>Drugs used for their effects on serotonergic systems. Among these are drugs that affect serotonin receptors, the life cycle of serotonin, and the survival of serotonergic neurons.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

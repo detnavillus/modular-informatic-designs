@@ -1,0 +1,21 @@
+<Record>
+<Term>Acute Bronchitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Lung Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Bronchitis/Acute Bronchitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Infectious Lung Disorder/Acute Bronchitis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Acute Bronchitis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Acute Bronchitis</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchitis</BroaderTerm>
+<BroaderTerm>Infectious Lung Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Acute Bronchitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

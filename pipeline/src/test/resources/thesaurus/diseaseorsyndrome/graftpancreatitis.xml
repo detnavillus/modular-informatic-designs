@@ -1,0 +1,13 @@
+<Record>
+<Term>Graft Pancreatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pancreatitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Pancreatitis/Pancreatitis, Graft</ClassificationPath>
+<BroaderTerm>Pancreatitis</BroaderTerm>
+<BroaderTerm>Pancreatitis, Graft</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<Synonym>Graft Pancreatitis</Synonym>
+<Description>An inflammatory disease and serious complication of PANCREAS TRANSPLANTATION. It is caused by a premature activation of pancreatic proenzymes leading to autodigestion of the gland and can be attributed to immunological or nonimmunological causes.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Glycogen Storage Disease Type IV</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type IV</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type IV</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type IV</BroaderTerm>
+<Synonym>Glycogenosis 4</Synonym>
+<Synonym>Amylopectinoses</Synonym>
+<Synonym>Glycogen Storage Disease Type IV</Synonym>
+<Synonym>Brancher Deficiencies</Synonym>
+<Synonym>Andersen's Disease</Synonym>
+<Synonym>Andersen Disease</Synonym>
+<Synonym>Glycogenosis 4s</Synonym>
+<Synonym>Type IV Glycogenosis</Synonym>
+<Synonym>Type IV Glycogenoses</Synonym>
+<Synonym>Andersens Disease</Synonym>
+<Synonym>Amylopectinosis</Synonym>
+<Synonym>Glycogen Storage Disease Type 4</Synonym>
+<Synonym>Brancher Deficiency</Synonym>
+<Synonym>Glycogen Branching Enzyme Deficiency</Synonym>
+<Description>An autosomal recessive metabolic disorder due to a deficiency in expression of glycogen branching enzyme 1 (alpha-1,4-glucan-6-alpha-glucosyltransferase), resulting in an accumulation of abnormal GLYCOGEN with long outer branches. Clinical features are MUSCLE HYPOTONIA and CIRRHOSIS. Death from liver disease usually occurs before age 2.</Description>
+<Source>MeSH</Source>
+</Record>

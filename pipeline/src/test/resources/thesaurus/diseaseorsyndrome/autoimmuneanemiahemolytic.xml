@@ -1,0 +1,23 @@
+<Record>
+<Term>Autoimmune Anemia, Hemolytic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Anemia, Hemolytic, Autoimmune</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Autoimmune</ClassificationPath>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Autoimmune</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Cold Agglutinin Diseases</Synonym>
+<Synonym>Cold Agglutinin Disease</Synonym>
+<Synonym>Autoimmune Hemolytic Anemia</Synonym>
+<Synonym>Autoimmune Hemolytic Anemias</Synonym>
+<Synonym>Idiopathic Autoimmune Hemolytic Anemia</Synonym>
+<Synonym>Acquired Autoimmune Hemolytic Anemia</Synonym>
+<Description>Acquired hemolytic anemia due to the presence of AUTOANTIBODIES which agglutinate or lyse the patient's own RED BLOOD CELLS.</Description>
+<Source>MeSH</Source>
+</Record>

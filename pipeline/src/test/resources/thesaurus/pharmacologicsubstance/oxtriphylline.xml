@@ -1,0 +1,29 @@
+<Record>
+<Term>Oxtriphylline</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Phosphodiesterase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Phosphodiesterase Inhibitor/Oxtriphylline,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Oxtriphylline</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Oxtriphylline,</BroaderTerm>
+<BroaderTerm>Phosphodiesterase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Oxtriphylline</BroaderTerm>
+<Synonym>Zy 15061</Synonym>
+<Synonym>Choline, hydroxide, compound with Theophylline(1:1)</Synonym>
+<Synonym>Ethanaminium, 2-hydroxy-N,N,N-trimethyl-, salt with 3,7-dihydro-1,3-dimethyl-1H-purine-2,6-dione(1:1)</Synonym>
+<Synonym>OXTRIPHYLLINE</Synonym>
+<Synonym>Choledyl</Synonym>
+<Synonym>Choledyl sa</Synonym>
+<Synonym>Oxtriphylline pediatric</Synonym>
+<Synonym>Oxtriphylline</Synonym>
+<Description>The choline salt of theophylline with an anti-asthmatic property. Oxtriphylline appears to inhibit phosphodiesterase and prostaglandin production, regulates calcium flux and intracellular calcium distribution, and antagonizes adenosine. Physiologically, this agent causes relaxation of bronchial smooth muscle, produces vasodilation (except in cerebral vessels), stimulates cardiac muscle, as well as induces diuresis and gastric acid secretion. It may also suppress inflammation and improve contractility of the diaphragm.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

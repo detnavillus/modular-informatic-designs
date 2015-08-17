@@ -1,0 +1,15 @@
+<Record>
+<Term>Aortic Arch Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aortic Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aortic Diseases/Aortic Arch Syndromes</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aortic Arch Syndromes</BroaderTerm>
+<BroaderTerm>Aortic Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Takayasu Arteritis</ChildTerm>
+<Synonym>Aortic Arch Syndromes</Synonym>
+<Synonym>Aortic Arch Syndrome</Synonym>
+<Description>Conditions resulting from abnormalities in the arteries branching from the ASCENDING AORTA, the curved portion of the aorta. These syndromes are results of occlusion or abnormal blood flow to the head-neck or arm region leading to neurological defects and weakness in an arm. These syndromes are associated with vascular malformations; ATHEROSCLEROSIS; TRAUMA; and blood clots.</Description>
+<Source>MeSH</Source>
+</Record>

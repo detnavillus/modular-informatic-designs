@@ -1,0 +1,21 @@
+<Record>
+<Term>Food Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity, Immediate</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Milk Hypersensitivity</ChildTerm>
+<ChildTerm>Egg Hypersensitivity</ChildTerm>
+<ChildTerm>Wheat Hypersensitivity</ChildTerm>
+<ChildTerm>Peanut Hypersensitivity</ChildTerm>
+<ChildTerm>Nut Hypersensitivity</ChildTerm>
+<Synonym>Food Hypersensitivity</Synonym>
+<Synonym>Food Hypersensitivities</Synonym>
+<Synonym>Food Allergy</Synonym>
+<Synonym>Food Allergies</Synonym>
+<Description>Gastrointestinal disturbances, skin eruptions, or shock due to allergic reactions to allergens in food.</Description>
+<Source>MeSH</Source>
+</Record>

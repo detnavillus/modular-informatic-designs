@@ -1,0 +1,29 @@
+<Record>
+<Term>Lymphatic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemic and Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<ChildTerm>Lymphoproliferative Disorders</ChildTerm>
+<ChildTerm>Lymphadenitis</ChildTerm>
+<ChildTerm>Lymphedema</ChildTerm>
+<ChildTerm>Histiocytosis</ChildTerm>
+<ChildTerm>Splenic Diseases</ChildTerm>
+<ChildTerm>Thymus Neoplasms</ChildTerm>
+<ChildTerm>Thymus Hyperplasia</ChildTerm>
+<ChildTerm>Tuberculosis, Lymph Node</ChildTerm>
+<ChildTerm>Pseudolymphoma</ChildTerm>
+<ChildTerm>Lymphatic Abnormalities</ChildTerm>
+<ChildTerm>Lymphangiectasis</ChildTerm>
+<ChildTerm>Lymphangitis</ChildTerm>
+<ChildTerm>Lymphocele</ChildTerm>
+<ChildTerm>Mucocutaneous Lymph Node Syndrome</ChildTerm>
+<Synonym>Lymphatic Diseases</Synonym>
+<Synonym>Lymphatic Disease</Synonym>
+<Synonym>Status Lymphaticus</Synonym>
+<Synonym>Lymphadenopathy</Synonym>
+<Synonym>Lymphatism</Synonym>
+<Description>Diseases of LYMPH; LYMPH NODES; or LYMPHATIC VESSELS.</Description>
+<Source>MeSH</Source>
+</Record>

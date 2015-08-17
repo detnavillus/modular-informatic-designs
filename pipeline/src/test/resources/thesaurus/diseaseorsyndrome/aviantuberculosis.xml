@@ -1,0 +1,21 @@
+<Record>
+<Term>Avian Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Bird Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Bird Diseases/Tuberculosis, Avian</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Avian</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Avian</BroaderTerm>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Avian Tuberculoses</Synonym>
+<Synonym>Avian Tuberculosis</Synonym>
+<Description>A variety of TUBERCULOSIS affecting various birds, including chickens and ducks. It is caused by MYCOBACTERIUM AVIUM and characterized by tubercles consisting principally of epithelioid cells.</Description>
+<Source>MeSH</Source>
+</Record>

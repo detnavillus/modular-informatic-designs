@@ -1,0 +1,16 @@
+<Record>
+<Term>Yttrium Y 90 Monoclonal Antibody BrE-3</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Monoclonal Antibody BrE-3</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Yttrium Y 90 Monoclonal Antibody BrE-3</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MOAB BrE-3, Yttrium Y 90</Synonym>
+<Synonym>Yttrium Y 90 Monoclonal Antibody BrE-3</Synonym>
+<Description>A radioimmunotherapeutic agent consisting of a monoclonal antibody (BrE-3) directed against the tumor-associated antigen epithelial glycoprotein mucin chelated to the radioisotope yttrium-90.  Yttrium Y 90 monoclonal antibody BrE-3 binds to tumor cells expressing epithelial glycoprotein mucin, selectively delivering a cytotoxic dose of beta radiation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

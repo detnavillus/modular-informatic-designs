@@ -1,0 +1,31 @@
+<Record>
+<Term>Tracheobronchomalacia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tracheal Diseases</ParentTerm>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ParentTerm>Musculoskeletal Abnormalities</ParentTerm>
+<ParentTerm>Cartilage Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Cartilage Diseases/Tracheobronchomalacia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Tracheobronchomalacia</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Cartilage Diseases/Tracheobronchomalacia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Tracheal Diseases/Tracheobronchomalacia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Musculoskeletal Abnormalities/Tracheobronchomalacia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Tracheal Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Tracheobronchomalacia</BroaderTerm>
+<BroaderTerm>Musculoskeletal Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cartilage Diseases</BroaderTerm>
+<ChildTerm>Tracheomalacia</ChildTerm>
+<ChildTerm>Bronchomalacia</ChildTerm>
+<Synonym>Chondromalacia of Trachea and Bronchi</Synonym>
+<Synonym>Tracheobronchomalacia</Synonym>
+<Synonym>Tracheobronchomalacias</Synonym>
+<Description>A congenital or acquired condition of underdeveloped or degeneration of CARTILAGE in the TRACHEA and the BRONCHI. This results in a floppy non-rigid airway making patency difficult to maintain.</Description>
+<Source>MeSH</Source>
+</Record>

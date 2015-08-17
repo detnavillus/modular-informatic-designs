@@ -1,0 +1,33 @@
+<Record>
+<Term>Telangiectasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Dermatology and Skin</ParentTerm>
+<ParentTerm>Vascular Ectasia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vascular Ectasia/Telangiectasia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Dermatology and Skin/Telangiectasia Adverse Event</ClassificationPath>
+<BroaderTerm>Telangiectasia Adverse Event</BroaderTerm>
+<BroaderTerm>Telangiectasia</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Dermatology and Skin</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Vascular Ectasia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Cutis Marmorata</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Telangiectasia</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Telangiectasia</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Telangiectasia</ChildTerm>
+<ChildTerm>Hereditary Hemorrhagic Telangiectasia</ChildTerm>
+<Synonym>Telangiectasia Adverse Event</Synonym>
+<Synonym>Telangiectasia</Synonym>
+<Synonym>telangiectasia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

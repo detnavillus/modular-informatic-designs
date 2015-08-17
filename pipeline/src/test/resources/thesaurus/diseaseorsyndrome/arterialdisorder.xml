@@ -1,0 +1,25 @@
+<Record>
+<Term>Arterial Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Vascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Arterial Disorder</ClassificationPath>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Arterial Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Arterial Occlusion</ChildTerm>
+<ChildTerm>Intimal Dissection Of Blood Vessel</ChildTerm>
+<ChildTerm>Arteriosclerosis</ChildTerm>
+<ChildTerm>Aortic Dissection</ChildTerm>
+<ChildTerm>Arteritis</ChildTerm>
+<ChildTerm>Chronic Allograft Arteriopathy</ChildTerm>
+<Synonym>Arterial Disease</Synonym>
+<Synonym>Arterial Disorder</Synonym>
+<Synonym>Arteriopathy</Synonym>
+<Description>An impairment of the structure or function of the blood vessels which carry blood away from the heart.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

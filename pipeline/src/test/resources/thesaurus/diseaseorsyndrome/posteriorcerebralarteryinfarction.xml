@@ -1,0 +1,33 @@
+<Record>
+<Term>Posterior Cerebral Artery Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebral Infarction</ParentTerm>
+<ParentTerm>Cerebral Arterial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Posterior Cerebral Artery</ClassificationPath>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Infarction, Posterior Cerebral Artery</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebral Infarction</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<Synonym>Posterior Cerebral Artery Syndrome</Synonym>
+<Synonym>Posterior Cerebral Artery Infarction</Synonym>
+<Synonym>Posterior Cerebral Artery Thrombotic Infarction</Synonym>
+<Synonym>Posterior Cerebral Artery Stroke</Synonym>
+<Synonym>Posterior Cerebral Artery Embolic Infarction</Synonym>
+<Synonym>PCA Infarction</Synonym>
+<Description>NECROSIS induced by ISCHEMIA in the POSTERIOR CEREBRAL ARTERY distribution system which supplies portions of the BRAIN STEM; the THALAMUS; TEMPORAL LOBE, and OCCIPITAL LOBE. Depending on the size and location of infarction, clinical features include OLFACTION DISORDERS and visual problems (AGNOSIA; ALEXIA; HEMIANOPSIA).</Description>
+<Source>MeSH</Source>
+</Record>

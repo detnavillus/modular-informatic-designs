@@ -1,0 +1,24 @@
+<Record>
+<Term>Encopresis</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Signs and Symptoms, Digestive</ParentTerm>
+<ParentTerm>Elimination Disorders</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Encopresis</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Elimination Disorders/Encopresis</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Signs and Symptoms, Digestive/Encopresis</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms, Digestive</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Elimination Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Encopresis</BroaderTerm>
+<Synonym>Encopresis</Synonym>
+<Description>Incontinence of feces not due to organic defect or illness.</Description>
+<Source>MeSH</Source>
+</Record>

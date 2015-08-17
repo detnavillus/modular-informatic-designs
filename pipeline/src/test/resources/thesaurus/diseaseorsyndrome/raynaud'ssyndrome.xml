@@ -1,0 +1,23 @@
+<Record>
+<Term>Raynaud's Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Peripheral Vascular Disorder/Raynaud's Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Raynaud's Syndrome</ClassificationPath>
+<BroaderTerm>Raynaud's Syndrome,</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Raynaud's Syndrome</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Phenomenon, Raynauds</Synonym>
+<Synonym>Raynaud's Syndrome</Synonym>
+<Synonym>Raynauds Phenomenon</Synonym>
+<Description>A set of symptoms characteristic of peripheral vascular disease, namely caused by an inappropriate response of the peripheral arteries in reaction to environmental stimuli, usually to the cold. The term is used when an underlying disease (mostly connective tissue/autoimmune disorders such as lupus, scleroderma, rheumatoid arthritis, etc.) is primarily causative and a range of symptoms including the peripheral vascular spasm is secondary. The term does not refer to the primary Raynauds or Raynauds disease.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

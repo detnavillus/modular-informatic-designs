@@ -1,0 +1,19 @@
+<Record>
+<Term>Micellar Paclitaxel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Micellar Paclitaxel</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Micellar Paclitaxel</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Micellar Paclitaxel</Synonym>
+<Synonym>Paxceed</Synonym>
+<Description>A systemic administered polymeric micelle containing paclitaxel that may be used for chronic inflammatory diseases, such as rheumatoid arthritis and psoriasis. Paclitaxel, a toxoid, binds to and stabilizes tubulin and inhibits the disassembly of microtubules, thereby inhibiting cell division. Paclitaxel also inhibits metalloproteinase, thereby blocking the activities of matrix metalloproteinases (MMPs) and preventing collagen degradation in cartilage and bone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

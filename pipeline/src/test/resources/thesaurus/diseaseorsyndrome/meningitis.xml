@@ -1,0 +1,34 @@
+<Record>
+<Term>Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Meningitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Meningitis</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Meningoencephalitis</ChildTerm>
+<ChildTerm>Meningitis, Fungal</ChildTerm>
+<ChildTerm>Meningitis, Viral</ChildTerm>
+<ChildTerm>Arachnoiditis</ChildTerm>
+<ChildTerm>Meningitis, Aseptic</ChildTerm>
+<ChildTerm>Meningitis, Bacterial</ChildTerm>
+<Synonym>Pachymeningitis</Synonym>
+<Synonym>Pachymeningitides</Synonym>
+<Synonym>Meningitis</Synonym>
+<Synonym>Meningitides</Synonym>
+<Description>Inflammation of the coverings of the brain and/or spinal cord, which consist of the PIA MATER; ARACHNOID; and DURA MATER. Infections (viral, bacterial, and fungal) are the most common causes of this condition, but subarachnoid hemorrhage (HEMORRHAGES, SUBARACHNOID), chemical irritation (chemical MENINGITIS), granulomatous conditions, neoplastic conditions (CARCINOMATOUS MENINGITIS), and other inflammatory conditions may produce this syndrome. (From Joynt, Clinical Neurology, 1994, Ch24, p6)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Tibolone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Anabolic Steroid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Anabolic Steroid/Tibolone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Anabolic Steroid</BroaderTerm>
+<BroaderTerm>Tibolone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Livial</Synonym>
+<Synonym>ORG OD 14</Synonym>
+<Synonym>Tibolone</Synonym>
+<Synonym>Xyvion</Synonym>
+<Description>A synthetic anabolic steroid with estrogenic, androgenic and progestagenic activities. The 3alpha- and 3beta-hydroxy metabolites of tibilone activate estrogenic receptors (ERs) in bone and vaginal tissue leading to a decrease in bone turnover, and decreased vaginal dryness, respectively; derived from the 3beta-hydroxy metabolite, its delta4-isomer activates androgenic receptors (ARs) in the brain and liver and progestogenic receptors (PRs) in endometrial tissue, affecting sexual function, lipid metabolism, and endometrial function, respectively. In breast and endometrial tissue, tibolone metabolites inhibit sulfatase, preventing the conversion of circulating estrone sulfate and estradiol sulfate to estrone and estradiol, respectively; estrogen-mediated effects in the breast and uterus are thus reduced.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Mast Cell Stabilizer TF002</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mast Cell Stabilizer</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Mast Cell Stabilizer/Mast Cell Stabilizer TF002</ClassificationPath>
+<BroaderTerm>Mast Cell Stabilizer TF002</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Mast Cell Stabilizer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Mast Cell Stabilizer TF002</Synonym>
+<Synonym>TF002</Synonym>
+<Description>A small molecule with mast cell stabilizing activity. Mast cell stabilizer TF002 inhibits the formation of lipid rafts of mast cell membranes that contain the signaling machinery which triggers the release of mast cell allergic and inflammatory mediators. Inhibition of lipid raft assembly by this agent results in mast cell stabilization, preventing mast cell degranulation and the release of the inflammatory mediators involved in type I allergic reactions (histamine, leukotrienes, prostaglandins, and cytokines). The assembly of the signaling machinery in mast cell lipid rafts, specialized membrane microdomains rich in cholesterol and sphingolipids, is initiated by IgE binding to its receptor on the mast cell surface; subsequently, allergens crosslink with the IgE/receptor complex and other proteins and lipids are recruited into the signaling machinery.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

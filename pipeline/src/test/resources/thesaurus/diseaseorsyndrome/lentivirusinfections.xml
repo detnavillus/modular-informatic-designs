@@ -1,0 +1,20 @@
+<Record>
+<Term>Lentivirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retroviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<ChildTerm>HIV Infections</ChildTerm>
+<ChildTerm>Equine Infectious Anemia</ChildTerm>
+<ChildTerm>Pneumonia, Progressive Interstitial, of Sheep</ChildTerm>
+<ChildTerm>Simian Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Feline Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Visna</ChildTerm>
+<Synonym>Lentivirus Infections</Synonym>
+<Synonym>Lentivirus Infection</Synonym>
+<Description>Virus diseases caused by the Lentivirus genus. They are multi-organ diseases characterized by long incubation periods and persistent infection.</Description>
+<Source>MeSH</Source>
+</Record>

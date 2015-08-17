@@ -1,0 +1,24 @@
+<Record>
+<Term>Secondary Parkinson Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parkinsonian Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Parkinsonian Disorders/Parkinson Disease, Secondary</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Parkinsonian Disorders/Parkinson Disease, Secondary</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinson Disease, Secondary</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinsonian Disorders</BroaderTerm>
+<ChildTerm>MPTP Poisoning</ChildTerm>
+<ChildTerm>Parkinson Disease, Postencephalitic</ChildTerm>
+<Synonym>Symptomatic Parkinsonism</Synonym>
+<Synonym>Symptomatic Parkinson Disease</Synonym>
+<Synonym>Secondary Parkinson Disease</Synonym>
+<Synonym>Secondary Parkinsonism</Synonym>
+<Synonym>Secondary Vascular Parkinson Disease</Synonym>
+<Synonym>Atherosclerotic Parkinsonism</Synonym>
+<Description>Conditions which feature clinical manifestations resembling primary Parkinson disease that are caused by a known or suspected condition. Examples include parkinsonism caused by vascular injury, drugs, trauma, toxin exposure, neoplasms, infections and degenerative or hereditary conditions. Clinical features may include bradykinesia, rigidity, parkinsonian gait, and masked facies. In general, tremor is less prominent in secondary parkinsonism than in the primary form. (From Joynt, Clinical Neurology, 1998, Ch38, pp39-42)</Description>
+<Source>MeSH</Source>
+</Record>

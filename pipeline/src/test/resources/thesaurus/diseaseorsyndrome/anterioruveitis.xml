@@ -1,0 +1,29 @@
+<Record>
+<Term>Anterior Uveitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Panuveitis</ParentTerm>
+<ParentTerm>Uveitis</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Anterior</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Uveal Disorder/Non-Neoplastic Uveal Disorder/Uveitis/Anterior Uveitis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Uveitis, Anterior</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Uveal Disorder</BroaderTerm>
+<BroaderTerm>Uveal Disorder</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Anterior Uveitis</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<ChildTerm>Behcet Syndrome</ChildTerm>
+<ChildTerm>Iritis</ChildTerm>
+<ChildTerm>Iridocyclitis</ChildTerm>
+<Synonym>Anterior Uveitis</Synonym>
+<Synonym>Anterior Uveitides</Synonym>
+<Description>Inflammation of the anterior uvea comprising the iris, angle structures, and the ciliary body. Manifestations of this disorder include ciliary injection, exudation into the anterior chamber, iris changes, and adhesions between the iris and lens (posterior synechiae). Intraocular pressure may be increased or reduced.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

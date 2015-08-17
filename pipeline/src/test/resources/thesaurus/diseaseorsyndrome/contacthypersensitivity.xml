@@ -1,0 +1,18 @@
+<Record>
+<Term>Contact Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Hypersensitivity/Contact Hypersensitivity</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Contact Hypersensitivity</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Contact Hypersensitivity</Synonym>
+<Description>Contact hypersensitivity is an inflammatory response induced by antigen-reactive T cells that are exposed to antigen on the skin surface (epidermis).  Poison ivy is a frequent cause of such reactivity, due to the urushiol from the plant, as are a variety of antigens derived from industrial exposure (e.g. rubber, chromate, nickel).  These antigens induce the appearance of Th1-like T cells, which presumably produce IFN to activate macrophages.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

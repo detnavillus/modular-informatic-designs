@@ -1,0 +1,23 @@
+<Record>
+<Term>Paramyxoviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mononegavirales Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Morbillivirus Infections</ChildTerm>
+<ChildTerm>Respirovirus Infections</ChildTerm>
+<ChildTerm>Pneumovirus Infections</ChildTerm>
+<ChildTerm>Rubulavirus Infections</ChildTerm>
+<ChildTerm>Avulavirus Infections</ChildTerm>
+<ChildTerm>Henipavirus Infections</ChildTerm>
+<Synonym>Paramyxoviridae Infections</Synonym>
+<Synonym>Paramyxoviridae Infection</Synonym>
+<Synonym>Parainfluenza Virus Infections</Synonym>
+<Synonym>Parainfluenza Virus Infection</Synonym>
+<Synonym>Parainfluenza</Synonym>
+<Description>Infections with viruses of the family PARAMYXOVIRIDAE. This includes MORBILLIVIRUS INFECTIONS; RESPIROVIRUS INFECTIONS; PNEUMOVIRUS INFECTIONS; HENIPAVIRUS INFECTIONS; AVULAVIRUS INFECTIONS; and RUBULAVIRUS INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

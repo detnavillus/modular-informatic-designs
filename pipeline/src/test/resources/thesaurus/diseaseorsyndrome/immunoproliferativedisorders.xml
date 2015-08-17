@@ -1,0 +1,15 @@
+<Record>
+<Term>Immunoproliferative Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<ChildTerm>Lymphoproliferative Disorders</ChildTerm>
+<ChildTerm>Paraproteinemias</ChildTerm>
+<ChildTerm>Hypergammaglobulinemia</ChildTerm>
+<Synonym>Immunoproliferative Disorders</Synonym>
+<Synonym>Immunoproliferative Disorder</Synonym>
+<Description>Disorders characterized by abnormal proliferation of primary cells of the immune system or by excessive production of immunoglobulins.</Description>
+<Source>MeSH</Source>
+</Record>

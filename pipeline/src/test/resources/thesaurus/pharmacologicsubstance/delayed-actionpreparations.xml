@@ -1,0 +1,36 @@
+<Record>
+<Term>Delayed-Action Preparations</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dosage Forms</ParentTerm>
+<ParentTerm>Drug Delivery Systems</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Dosage Forms/Delayed-Action Preparations</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Dosage Forms/Delayed-Action Preparations</ClassificationPath>
+<ClassificationPath>Therapeutics/Drug Therapy/Drug Delivery Systems/Delayed-Action Preparations</ClassificationPath>
+<BroaderTerm>Drug Therapy</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Delayed-Action Preparations</BroaderTerm>
+<BroaderTerm>Dosage Forms</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Therapeutics</BroaderTerm>
+<BroaderTerm>Drug Delivery Systems</BroaderTerm>
+<ChildTerm>Tablets, Enteric-Coated</ChildTerm>
+<ChildTerm>Drug Implants</ChildTerm>
+<Synonym>Sustained-Release Preparation</Synonym>
+<Synonym>Delayed-Action Preparations</Synonym>
+<Synonym>Delayed Action Preparations</Synonym>
+<Synonym>Controlled Release Preparations</Synonym>
+<Synonym>Prolonged-Action Preparations</Synonym>
+<Synonym>Depot Preparations</Synonym>
+<Synonym>Depot Preparation</Synonym>
+<Synonym>Timed Release Preparations</Synonym>
+<Synonym>Timed-Release Preparation</Synonym>
+<Synonym>Controlled-Release Preparations</Synonym>
+<Synonym>Sustained-Release Preparations</Synonym>
+<Synonym>Controlled-Release Preparation</Synonym>
+<Synonym>Timed-Release Preparations</Synonym>
+<Synonym>Prolonged-Action Preparation</Synonym>
+<Synonym>Delayed-Action Preparation</Synonym>
+<Description>Dosage forms of a drug that act over a period of time by controlled-release processes or technology.</Description>
+<Source>MeSH</Source>
+</Record>

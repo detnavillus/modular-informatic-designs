@@ -1,0 +1,23 @@
+<Record>
+<Term>Fatal Familial Insomnia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sleep Initiation and Maintenance Disorders</ParentTerm>
+<ParentTerm>Prion Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Prion Diseases/Insomnia, Fatal Familial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Prion Diseases/Insomnia, Fatal Familial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Initiation and Maintenance Disorders/Insomnia, Fatal Familial</ClassificationPath>
+<BroaderTerm>Sleep Initiation and Maintenance Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Insomnia, Fatal Familial</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<BroaderTerm>Prion Diseases</BroaderTerm>
+<Synonym>Fatal Familial Insomnias</Synonym>
+<Synonym>Fatal Familial Insomnia</Synonym>
+<Description>An autosomal dominant disorder characterized by degeneration of the THALAMUS and progressive insomnia. It is caused by a mutation in the prion protein (PRIONS).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>INO-1001</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Poly (ADP-Ribose) Polymerase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Poly (ADP-Ribose) Polymerase Inhibitor/INO-1001</ClassificationPath>
+<BroaderTerm>INO-1001</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Poly (ADP-Ribose) Polymerase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>INO-1001</Synonym>
+<Description>A isoindolinone derivative and potent inhibitor of the nuclear enzyme poly (ADP-ribose) polymerase (PARP) with chemosensitization and radiosensitization properties. INO-1001 inhibits PARP, which may result in inhibition of tumor cell DNA repair mechanisms and, so, tumor cell resistance to chemotherapy and radiation therapy. PARP enzymes are activated by DNA breaks and have been implicated in the repair of DNA single-strand breaks (SSB).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

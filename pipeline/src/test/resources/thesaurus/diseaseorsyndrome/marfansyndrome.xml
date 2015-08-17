@@ -1,0 +1,43 @@
+<Record>
+<Term>Marfan Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ParentTerm>Heart Defects, Congenital</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Abnormalities/Heart Defects, Congenital/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Defects, Congenital/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Marfan Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Marfan Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Marfan Syndrome</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Marfan's Syndrome</Synonym>
+<Synonym>Marfans Syndrome</Synonym>
+<Synonym>Marfan Syndrome</Synonym>
+<Description>An autosomal dominant disorder of CONNECTIVE TISSUE with abnormal features in the heart, the eye, and the skeleton. Cardiovascular manifestations include MITRAL VALVE PROLAPSE, dilation of the AORTA, and aortic dissection. Other features include lens displacement (ectopia lentis), disproportioned long limbs and enlarged DURA MATER (dural ectasia). Marfan syndrome is associated with mutations in the gene encoding fibrillin, a major element of extracellular microfibrils of connective tissue.</Description>
+<Description>A genetic syndrome inherited as an autosomal dominant trait.  It is caused by mutations in the FBN1 gene.  It is characterized by tall stature, elongated extremities, mitral valve prolapse, aortic dilatation, aortic dissection, and sublaxation of the lens.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

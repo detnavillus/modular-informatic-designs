@@ -1,0 +1,31 @@
+<Record>
+<Term>Factor V Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Protein Disorders</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Factor V Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Factor V Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/Factor V Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Factor V Deficiency</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Factor V Deficiency</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Factor V Deficiencies</Synonym>
+<Synonym>Owren's Disease</Synonym>
+<Synonym>Factor V Deficiency</Synonym>
+<Synonym>Owrens Disease</Synonym>
+<Synonym>Parahemophilia</Synonym>
+<Synonym>Owren's Diseases</Synonym>
+<Synonym>Parahemophilias</Synonym>
+<Synonym>Owren Diseases</Synonym>
+<Synonym>Owren Disease</Synonym>
+<Description>A deficiency of blood coagulation factor V (known as proaccelerin or accelerator globulin or labile factor) leading to a rare hemorrhagic tendency known as Owren's disease or parahemophilia. It varies greatly in severity. Factor V deficiency is an autosomal recessive trait. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

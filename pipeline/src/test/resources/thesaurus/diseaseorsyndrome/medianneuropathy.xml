@@ -1,0 +1,25 @@
+<Record>
+<Term>Median Neuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Mononeuropathies</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Mononeuropathies/Median Neuropathy</ClassificationPath>
+<BroaderTerm>Median Neuropathy</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mononeuropathies</BroaderTerm>
+<ChildTerm>Carpal Tunnel Syndrome</ChildTerm>
+<Synonym>Median Neuropathy</Synonym>
+<Synonym>Median Neuropathies</Synonym>
+<Synonym>Median Nerve Diseases</Synonym>
+<Synonym>Median Nerve Disease</Synonym>
+<Synonym>Median Nerve Neuralgia</Synonym>
+<Synonym>Median Nerve Neuralgias</Synonym>
+<Synonym>Proximal Median Neuropathies</Synonym>
+<Synonym>Proximal Median Neuropathy</Synonym>
+<Synonym>Distal Medial Neuropathies</Synonym>
+<Synonym>Distal Medial Neuropathy</Synonym>
+<Description>Disease involving the median nerve, from its origin at the BRACHIAL PLEXUS to its termination in the hand. Clinical features include weakness of wrist and finger flexion, forearm pronation, thenar abduction, and loss of sensation over the lateral palm, first three fingers, and radial half of the ring finger. Common sites of injury include the elbow, where the nerve passes through the two heads of the pronator teres muscle (pronator syndrome) and in the carpal tunnel (CARPAL TUNNEL SYNDROME).</Description>
+<Source>MeSH</Source>
+</Record>

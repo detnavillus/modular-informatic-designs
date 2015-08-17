@@ -1,0 +1,18 @@
+<Record>
+<Term>Neuromuscular Depolarizing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neuromuscular Blocking Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Neuromuscular Agents/Neuromuscular Blocking Agents/Neuromuscular Depolarizing Agents</ClassificationPath>
+<BroaderTerm>Neuromuscular Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Neuromuscular Depolarizing Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Neuromuscular Blocking Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Neuromuscular Depolarizing Agents</Synonym>
+<Synonym>Depolarizing Blockers</Synonym>
+<Synonym>Depolarizing Muscle Relaxants</Synonym>
+<Description>Drugs that interrupt transmission at the skeletal neuromuscular junction by causing sustained depolarization of the motor end plate. These agents are primarily used as adjuvants in surgical anesthesia to cause skeletal muscle relaxation.</Description>
+<Source>MeSH</Source>
+</Record>

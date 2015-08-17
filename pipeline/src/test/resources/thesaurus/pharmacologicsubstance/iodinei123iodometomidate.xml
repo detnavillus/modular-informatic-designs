@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine I 123 Iodometomidate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iodine I 123 Iodometomidate</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Iodine I 123 Iodometomidate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I-123-IMTO</Synonym>
+<Synonym>Iodine I 123 Iodometomidate</Synonym>
+<Description>An iodine I-123 conjugate of metomidate (MTO) with potential application in adrenal imaging. Metomidate is a potent and selective inhibitor of the cytochrome P-450 enzymes, especially CYP11B1 (11 beta-hydroxylase) and CYP11B2 (aldosterone synthase). Because both CYP11B1 and CYP11B2 are expressed exclusively in the adrenal cortex, I-123 iodometomidate can be used as a radiotracer for adrenal scintigraphy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

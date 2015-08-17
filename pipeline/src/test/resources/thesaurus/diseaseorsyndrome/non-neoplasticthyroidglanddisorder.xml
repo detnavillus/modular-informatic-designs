@@ -1,0 +1,31 @@
+<Record>
+<Term>Non-Neoplastic Thyroid Gland Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Neck Disorder/Non-Neoplastic Thyroid Gland Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Neck Disorder</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder,</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<ChildTerm>Goiter</ChildTerm>
+<ChildTerm>Thyroid Gland Atrophy</ChildTerm>
+<ChildTerm>Hyperthyroidism</ChildTerm>
+<ChildTerm>Congenital Thyroid Gland Disorder</ChildTerm>
+<ChildTerm>Thyroiditis</ChildTerm>
+<ChildTerm>Thyroid Gland Malformation</ChildTerm>
+<ChildTerm>Thyroid Gland Abscess</ChildTerm>
+<ChildTerm>Thyrotoxicosis</ChildTerm>
+<ChildTerm>Hypothyroidism</ChildTerm>
+<Synonym>Non-Neoplastic Thyroid Gland Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

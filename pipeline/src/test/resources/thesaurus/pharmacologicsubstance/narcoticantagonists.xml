@@ -1,0 +1,22 @@
+<Record>
+<Term>Narcotic Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Sensory System Agents</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Narcotic Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Narcotic Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Narcotic Antagonists</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Narcotic Antagonists</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Opioid Antagonists</Synonym>
+<Synonym>Narcotic Antagonists</Synonym>
+<Description>Agents inhibiting the effect of narcotics on the central nervous system.</Description>
+<Source>MeSH</Source>
+</Record>

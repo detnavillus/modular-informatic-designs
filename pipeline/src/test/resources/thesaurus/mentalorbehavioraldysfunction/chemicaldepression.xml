@@ -1,0 +1,16 @@
+<Record>
+<Term>Chemical Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Pharmacological Processes</ParentTerm>
+<ClassificationPath>Physiological Phenomena/Physiological Processes/Pharmacological Processes/Depression, Chemical</ClassificationPath>
+<ClassificationPath>Physiological Phenomena/Pharmacological Phenomena/Pharmacological Processes/Depression, Chemical</ClassificationPath>
+<BroaderTerm>Pharmacological Phenomena</BroaderTerm>
+<BroaderTerm>Depression, Chemical</BroaderTerm>
+<BroaderTerm>Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Pharmacological Processes</BroaderTerm>
+<BroaderTerm>Physiological Processes</BroaderTerm>
+<Synonym>Chemical Depressions</Synonym>
+<Synonym>Chemical Depression</Synonym>
+<Description>The decrease in a measurable parameter of a PHYSIOLOGICAL PROCESS, including cellular, microbial, and plant; immunological, cardiovascular, respiratory, reproductive, urinary, digestive, neural, musculoskeletal, ocular, and skin physiological processes; or METABOLIC PROCESS, including enzymatic and other pharmacological processes, by a drug or other chemical.</Description>
+<Source>MeSH</Source>
+</Record>

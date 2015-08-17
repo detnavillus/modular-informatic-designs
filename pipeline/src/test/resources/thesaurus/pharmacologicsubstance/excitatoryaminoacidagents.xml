@@ -1,0 +1,21 @@
+<Record>
+<Term>Excitatory Amino Acid Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Excitatory Amino Acid Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Excitatory Amino Acid Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Excitatory Amino Acid Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Excitatory Amino Acid Antagonists</ChildTerm>
+<ChildTerm>Excitatory Amino Acid Agonists</ChildTerm>
+<Synonym>Excitatory Amino Acid Agents</Synonym>
+<Synonym>Glutamatergic Agents</Synonym>
+<Synonym>Glutamate Agents</Synonym>
+<Synonym>EAA Agents</Synonym>
+<Description>Drugs used for their actions on any aspect of excitatory amino acid neurotransmitter systems. Included are drugs that act on excitatory amino acid receptors, affect the life cycle of excitatory amino acid transmitters, or affect the survival of neurons using excitatory amino acids.</Description>
+<Source>MeSH</Source>
+</Record>

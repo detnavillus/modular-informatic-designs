@@ -1,0 +1,24 @@
+<Record>
+<Term>Arterial Occlusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arterial Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Arterial Disorder/Arterial Occlusion</ClassificationPath>
+<BroaderTerm>Arterial Occlusion</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Arterial Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Aortic Arch Syndrome</ChildTerm>
+<ChildTerm>Femoropopliteal Occlusive Disease</ChildTerm>
+<ChildTerm>Vertebral Artery Syndrome</ChildTerm>
+<ChildTerm>Leriche Syndrome</ChildTerm>
+<ChildTerm>Retinal Artery Occlusion</ChildTerm>
+<Synonym>Arterial Obstruction</Synonym>
+<Synonym>Arterial Occlusion</Synonym>
+<Description>Complete closure of the normally patent lumen of the blood vessels which carry blood away from the heart.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

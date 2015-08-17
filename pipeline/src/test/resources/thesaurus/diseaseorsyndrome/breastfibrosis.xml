@@ -1,0 +1,22 @@
+<Record>
+<Term>Breast Fibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Fibrocystic Change, Non-Proliferative Type</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Breast Fibrocystic Change/Breast Fibrocystic Change, Non-Proliferative Type/Breast Fibrosis</ClassificationPath>
+<BroaderTerm>Breast Fibrocystic Change</BroaderTerm>
+<BroaderTerm>Breast Fibrosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Breast Fibrocystic Change, Non-Proliferative Type</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Breast Fibrosclerosis</Synonym>
+<Synonym>Breast Fibrosis</Synonym>
+<Synonym>Fibrosclerosis of Breast</Synonym>
+<Synonym>Fibrosclerosis of the Breast</Synonym>
+<Synonym>Fibrosis of Breast</Synonym>
+<Synonym>Fibrosis of the Breast</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

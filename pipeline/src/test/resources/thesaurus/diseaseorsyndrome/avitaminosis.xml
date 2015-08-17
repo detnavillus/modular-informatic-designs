@@ -1,0 +1,34 @@
+<Record>
+<Term>Avitaminosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin Deficiency Disorder</ParentTerm>
+<ParentTerm>Deficiency Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Nutritional Disorder/Vitamin Deficiency Disorder/Avitaminosis</ClassificationPath>
+<BroaderTerm>Vitamin Deficiency Disorder</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Nutritional Disorder</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<ChildTerm>Vitamin B Deficiency</ChildTerm>
+<ChildTerm>Vitamin K Deficiency</ChildTerm>
+<ChildTerm>Vitamin E Deficiency</ChildTerm>
+<ChildTerm>Vitamin D Deficiency</ChildTerm>
+<ChildTerm>Ascorbic Acid Deficiency</ChildTerm>
+<ChildTerm>Vitamin A Deficiency</ChildTerm>
+<Synonym>Vitamin Deficiency</Synonym>
+<Synonym>Avitaminosis</Synonym>
+<Synonym>Vitamin Deficiencies</Synonym>
+<Synonym>Avitaminoses</Synonym>
+<Description>A condition due to a deficiency of one or more essential vitamins. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

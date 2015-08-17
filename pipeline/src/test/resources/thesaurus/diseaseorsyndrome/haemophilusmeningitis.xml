@@ -1,0 +1,37 @@
+<Record>
+<Term>Haemophilus Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ParentTerm>Haemophilus Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Haemophilus Infections/Meningitis, Haemophilus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Meningitis, Haemophilus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Haemophilus</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Haemophilus</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Meningitis, Haemophilus</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<BroaderTerm>Haemophilus Infections</BroaderTerm>
+<Synonym>Haemophilus Meningitides</Synonym>
+<Synonym>Haemophilus aphrophilus Meningitides</Synonym>
+<Synonym>Haemophilus influenzae Meningitis Type B</Synonym>
+<Synonym>Haemophilus parainfluenzae Meningitides</Synonym>
+<Synonym>Haemophilus parainfluenzae Meningitis</Synonym>
+<Synonym>Type B Haemophilus influenzae Meningitis</Synonym>
+<Synonym>Hemophilus Meningitides</Synonym>
+<Synonym>Type B Hemophilus influenzae Meningitis</Synonym>
+<Synonym>Hemophilus influenzae Meningitis Type B</Synonym>
+<Synonym>Haemophilus aphrophilus Meningitis</Synonym>
+<Synonym>Hemophilus Meningitis</Synonym>
+<Synonym>Haemophilus Meningitis</Synonym>
+<Synonym>HiB Meninigitis</Synonym>
+<Description>BACTERIAL INFECTIONS of the nervous system caused by HAEMOPHILUS organisms, and marked by prominent inflammation of the meninges. HAEMOPHILUS INFLUENZAE TYPE B is the most common causative organism. The condition primarily affects children under 6 years of age but may occur in adults. Clinical manifestations include fever; nuchal rigidity; PHOTOPHOBIA; SEIZURES; HEARING LOSS, SENSORINEURAL; COMA; and cerebrovascular thrombosis. The organism tends to enter the central nervous system following infections of adjacent structures, including the middle ear (see also OTITIS MEDIA), sinuses, and pharynx. (From Menkes, Textbook of Child Neurology, 5th ed, pp396-7)</Description>
+<Source>MeSH</Source>
+</Record>

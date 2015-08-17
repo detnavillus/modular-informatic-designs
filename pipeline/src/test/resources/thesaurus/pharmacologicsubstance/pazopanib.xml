@@ -1,0 +1,27 @@
+<Record>
+<Term>Pazopanib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Pazopanib Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Pazopanib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Pazopanib</BroaderTerm>
+<BroaderTerm>Pazopanib Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>Pazopanib hydrochloride</Synonym>
+<Synonym>Votrient</Synonym>
+<Synonym>GW786034</Synonym>
+<Synonym>PAZOPANIB</Synonym>
+<Synonym>PAZOPANIB HYDROCHLORIDE</Synonym>
+<Synonym>Pazopanib Hydrochloride</Synonym>
+<Synonym>Pazopanib</Synonym>
+<Description>The hydrochloride salt of a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. Pazopanib selectively inhibits vascular endothelial growth factor receptors (VEGFR)-1, -2 and -3, c-kit and platelet derived growth factor receptor (PDGF-R), which may result in inhibition of angiogenesis in tumors in which these receptors are upregulated.</Description>
+<Description>A small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. Pazopanib selectively inhibits vascular endothelial growth factor receptors (VEGFR)-1, -2 and -3, c-kit and platelet derived growth factor receptor (PDGF-R), which may result in inhibition of angiogenesis in tumors in which these receptors are upregulated.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

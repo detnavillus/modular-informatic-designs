@@ -1,0 +1,15 @@
+<Record>
+<Term>Yttrium Y90 (or Indium 111) labeled humanized monoclonal antibody BrE-3</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y90 (or Indium 111) labeled humanized monoclonal antibody BrE-3</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Yttrium Y90 (or Indium 111) labeled humanized monoclonal antibody BrE-3</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Yttrium Y90 (or Indium 111) labeled humanized monoclonal antibody BrE-3</Synonym>
+<Description>A humanized BrE-3 monoclonal antibody (MoAb) conjugated with either Yttrium Y90 or Indium 111. MoAb BrE-3 is an IgG1-kappa murine monoclonal antibody, which recognizes breast epithelial mucin, a surface antigen expressed by breast cancer cells. This human/mouse chimeric antibody (by joining the murine variable domains to human constant domains) has the same binding affinity and is considerably less immunogenic to humans than the original murine antibody. This MoAb has both imaging and therapeutic uses, when conjugated with either Yttrium Y90 or Indium 111, which emits beta particles and causes cytotoxicity to breast cancer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

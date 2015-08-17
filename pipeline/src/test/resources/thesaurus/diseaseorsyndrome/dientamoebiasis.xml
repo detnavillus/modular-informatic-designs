@@ -1,0 +1,20 @@
+<Record>
+<Term>Dientamoebiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Dientamoebiasis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Dientamoebiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Dientamoebiasis</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Dientamoebiasis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Dientamoebiases</Synonym>
+<Synonym>Dientamoebiasis</Synonym>
+<Description>Gastrointestinal infection with organisms of the genus DIENTAMOEBA.</Description>
+<Source>MeSH</Source>
+</Record>

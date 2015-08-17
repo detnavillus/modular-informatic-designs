@@ -1,0 +1,20 @@
+<Record>
+<Term>Facial Dermatoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Facial Dermatoses</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Facial Dermatoses</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Acneiform Eruptions</ChildTerm>
+<ChildTerm>Dermatitis, Perioral</ChildTerm>
+<Synonym>Facial Dermatoses</Synonym>
+<Synonym>Facial Dermatosis</Synonym>
+<Synonym>Nodular Elastoidosis</Synonym>
+<Synonym>Nodular Elastoidoses</Synonym>
+<Synonym>Favre-Racouchot Syndrome</Synonym>
+<Synonym>Favre Racouchot Syndrome</Synonym>
+<Synonym>Nodular Elastosis</Synonym>
+<Synonym>Nodular Elastoses</Synonym>
+<Source>MeSH</Source>
+</Record>

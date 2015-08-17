@@ -1,0 +1,27 @@
+<Record>
+<Term>Paclitaxel Liposome</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Taxane Compound/Paclitaxel Liposome,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Paclitaxel Liposome</ClassificationPath>
+<BroaderTerm>Paclitaxel Liposome</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Paclitaxel Liposome,</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Taxane Compound</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Liposome-Encapsulated Paclitaxel</Synonym>
+<Synonym>PNU-93914</Synonym>
+<Synonym>Paclitaxel Liposome</Synonym>
+<Description>A liposome-encapsulated formulation of paclitaxel, a taxoid compound extracted from the Pacific yew tree Taxus brevifolia, with antineoplastic property. Paclitaxel binds to tubulin and interferes with the assembly/disassembly dynamics of microtubules, thereby resulting in the inhibition of cell division. This agent also induces apoptosis via inactivation of the apoptosis inhibitor, B-cell Leukemia 2 (Bcl-2) protein. Paclitaxel liposome formulation potentially enhances delivery of higher doses of paclitaxel to the target tissues and exhibits lower systemic toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

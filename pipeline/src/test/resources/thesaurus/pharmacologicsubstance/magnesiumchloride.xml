@@ -1,0 +1,27 @@
+<Record>
+<Term>Magnesium Chloride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ParentTerm>Chlorides</ParentTerm>
+<ParentTerm>Magnesium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Magnesium Compounds/Magnesium Chloride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Hydrochloric Acid/Chlorides/Magnesium Chloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Magnesium Chloride</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Magnesium Chloride</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Chlorides</BroaderTerm>
+<BroaderTerm>Hydrochloric Acid</BroaderTerm>
+<BroaderTerm>Magnesium Compounds</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Magnesium Chloride</Synonym>
+<Synonym>MgCl2</Synonym>
+<Synonym>MAGNESIUM CHLORIDE</Synonym>
+<Description>Magnesium chloride. An inorganic compound consisting of one magnesium and two chloride ions. The compound is used in medicine as a source of magnesium ions, which are essential for many cellular activities. It has also been used as a cathartic and in alloys.</Description>
+<Description>Magnesium Chloride was used as a laxative. An alkaline earth metal, magnesium is important for many biochemical functions and reactions; for bone and muscle function, protein and fatty acid formation, activation of B vitamins, blood clotting, insulin secretion, and ATP formation. More than 300 enzymes require magnesium for catalytic action. The adult daily requirement is about 300 mg/day. Magnesium is found in many green plants, vegetables, and seeds; chlorophyll is a magnesium-centered porphyrin compound. Magnesium salts are used for magnesium deficiency supplementation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

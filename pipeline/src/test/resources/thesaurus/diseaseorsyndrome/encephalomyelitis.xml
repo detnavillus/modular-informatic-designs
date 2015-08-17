@@ -1,0 +1,37 @@
+<Record>
+<Term>Encephalomyelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ParentTerm>Encephalitis</ParentTerm>
+<ParentTerm>Central Nervous System Infectious Disorder</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Encephalomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalomyelitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Central Nervous System Infectious Disorder/Encephalomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Encephalitis/Encephalomyelitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Central Nervous System Infectious Disorder</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Encephalomyelitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<ChildTerm>Leukoencephalitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Fatigue Syndrome, Chronic</ChildTerm>
+<ChildTerm>Acute Disseminated Encephalomyelitis</ChildTerm>
+<ChildTerm>Encephalomyelitis, Equine</ChildTerm>
+<Synonym>Encephalomyelitis</Synonym>
+<Synonym>Myeloencephalitis</Synonym>
+<Synonym>Myeloencephalitides</Synonym>
+<Synonym>Inflammatory Encephalomyelitis</Synonym>
+<Description>A general term indicating inflammation of the BRAIN and SPINAL CORD, often used to indicate an infectious process, but also applicable to a variety of autoimmune and toxic-metabolic conditions. There is significant overlap regarding the usage of this term and ENCEPHALITIS in the literature.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

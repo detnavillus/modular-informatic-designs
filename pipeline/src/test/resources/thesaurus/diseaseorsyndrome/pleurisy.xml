@@ -1,0 +1,31 @@
+<Record>
+<Term>Pleurisy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ParentTerm>Pleural Disorder</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Pleurisy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Pleural Disorder/Pleuritis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pleurisy</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pleurisy</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Pleural Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pleuritis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pleuropneumonia</ChildTerm>
+<ChildTerm>Tuberculous Pleuritis</ChildTerm>
+<Synonym>Pleurisy</Synonym>
+<Synonym>Pleurisies</Synonym>
+<Synonym>Pleuritis</Synonym>
+<Synonym>Pleuritides</Synonym>
+<Description>INFLAMMATION of PLEURA, the lining of the LUNG. When PARIETAL PLEURA is involved, there is pleuritic CHEST PAIN.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

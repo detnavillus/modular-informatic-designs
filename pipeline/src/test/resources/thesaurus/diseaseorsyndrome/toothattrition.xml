@@ -1,0 +1,17 @@
+<Record>
+<Term>Tooth Attrition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tooth Wear</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Wear/Tooth Attrition</ClassificationPath>
+<BroaderTerm>Tooth Attrition</BroaderTerm>
+<BroaderTerm>Tooth Wear</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Tooth Attrition</Synonym>
+<Synonym>Dental Attrition</Synonym>
+<Synonym>Occlusal Wear</Synonym>
+<Synonym>Occlusal Wears</Synonym>
+<Synonym>Dental Attritions</Synonym>
+<Description>The wearing away of a tooth as a result of tooth-to-tooth contact, as in mastication, occurring only on the occlusal, incisal, and proximal surfaces. It is chiefly associated with aging. It is differentiated from TOOTH ABRASION (the pathologic wearing away of the tooth substance by friction, as brushing, bruxism, clenching, and other mechanical causes) and from TOOTH EROSION (the loss of substance caused by chemical action without bacterial action). (Jablonski, Dictionary of Dentistry, 1992, p86)</Description>
+<Source>MeSH</Source>
+</Record>

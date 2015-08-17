@@ -1,0 +1,28 @@
+<Record>
+<Term>Chalazion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cysts</ParentTerm>
+<ParentTerm>Non-Neoplastic Eyelid Disorder</ParentTerm>
+<ParentTerm>Eyelid Diseases</ParentTerm>
+<ClassificationPath>Neoplasms/Cysts/Chalazion</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Eyelid Disorder/Chalazion</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eyelid Diseases/Chalazion</ClassificationPath>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eyelid Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Eyelid Diseases</BroaderTerm>
+<BroaderTerm>Chalazion</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Meibomian Cyst</Synonym>
+<Synonym>Chalazions</Synonym>
+<Synonym>Chalazion</Synonym>
+<Description>A non-neoplastic cyst of the MEIBOMIAN GLANDS of the eyelid.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

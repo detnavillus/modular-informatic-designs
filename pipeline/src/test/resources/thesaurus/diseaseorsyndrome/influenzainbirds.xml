@@ -1,0 +1,25 @@
+<Record>
+<Term>Influenza in Birds</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Orthomyxoviridae Infections</ParentTerm>
+<ParentTerm>Bird Diseases</ParentTerm>
+<ParentTerm>Poultry Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Orthomyxoviridae Infections/Influenza in Birds</ClassificationPath>
+<ClassificationPath>Animal Diseases/Bird Diseases/Poultry Diseases/Influenza in Birds</ClassificationPath>
+<ClassificationPath>Animal Diseases/Bird Diseases/Influenza in Birds</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Orthomyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Influenza in Birds</BroaderTerm>
+<BroaderTerm>Poultry Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Influenza in Bird</Synonym>
+<Synonym>Avian Influenza</Synonym>
+<Synonym>Avian Flu</Synonym>
+<Synonym>Influenza in Birds</Synonym>
+<Synonym>Fowl Plague</Synonym>
+<Synonym>Avian Influenzas</Synonym>
+<Description>Infection of domestic and wild fowl and other BIRDS with INFLUENZA A VIRUS. Avian influenza usually does not sicken birds, but can be highly pathogenic and fatal in domestic POULTRY.</Description>
+<Source>MeSH</Source>
+</Record>

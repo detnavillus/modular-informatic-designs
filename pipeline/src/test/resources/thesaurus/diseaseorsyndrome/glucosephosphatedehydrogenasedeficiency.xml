@@ -1,0 +1,29 @@
+<Record>
+<Term>Glucosephosphate Dehydrogenase Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic, Congenital</ParentTerm>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Glucosephosphate Dehydrogenase Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glucosephosphate Dehydrogenase Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Glucosephosphate Dehydrogenase Deficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glucosephosphate Dehydrogenase Deficiency</ClassificationPath>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glucosephosphate Dehydrogenase Deficiency</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Favism</ChildTerm>
+<Synonym>Glucosephosphate Dehydrogenase Deficiencies</Synonym>
+<Synonym>GPD Deficiencies</Synonym>
+<Synonym>GPD Deficiency</Synonym>
+<Synonym>Glucosephosphate Dehydrogenase Deficiency</Synonym>
+<Description>A disease-producing enzyme deficiency subject to many variants, some of which cause a deficiency of enzyme activity in erythrocytes, leading to hemolytic anemia.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Acute Respiratory Distress Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Distress Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Respiratory Failure/Acute Respiratory Failure/Acute Respiratory Distress Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Respiratory Distress Syndrome/Acute Respiratory Distress Syndrome</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Acute Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Respiratory Failure</BroaderTerm>
+<BroaderTerm>Acute Respiratory Distress Syndrome,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Acute Respiratory Failure</BroaderTerm>
+<Synonym>ARDS</Synonym>
+<Synonym>Acute Respiratory Distress Syndrome</Synonym>
+<Description>NIH: Respiratory distress of any etiology, excluding neonatal respiratory distress syndrome.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

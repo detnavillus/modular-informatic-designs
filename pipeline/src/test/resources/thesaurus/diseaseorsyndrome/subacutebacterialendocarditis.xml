@@ -1,0 +1,40 @@
+<Record>
+<Term>Subacute Bacterial Endocarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Streptococcal Infections</ParentTerm>
+<ParentTerm>Endocarditis</ParentTerm>
+<ParentTerm>Endocarditis, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Endocarditis, Bacterial/Endocarditis, Subacute Bacterial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Endocarditis/Endocarditis, Bacterial/Endocarditis, Subacute Bacterial</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Endocarditis/Subacute Bacterial Endocarditis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Endocarditis, Subacute Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections/Endocarditis, Bacterial/Endocarditis, Subacute Bacterial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections/Endocarditis, Bacterial/Endocarditis, Subacute Bacterial</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Endocarditis, Subacute Bacterial</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Subacute Bacterial Endocarditis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Endocarditis, Bacterial</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Endocarditis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Subacute Bacterial Endocarditides</Synonym>
+<Synonym>Endocarditis Lenta</Synonym>
+<Synonym>Subacute Bacterial Endocarditis</Synonym>
+<Description>ENDOCARDIUM infection that is usually caused by STREPTOCOCCUS. Subacute infective endocarditis evolves over weeks and months with modest toxicity and rare metastatic infection.</Description>
+<Description>Subacute inflammation of the endocardium. Streptococcus viridans is the usual etiologic agent of SBE. The distinction between "acute" and "subacute" endocarditis has traditionally been made based on the pathogenic organism and clinical presentation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

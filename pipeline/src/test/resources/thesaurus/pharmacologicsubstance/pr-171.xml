@@ -1,0 +1,15 @@
+<Record>
+<Term>PR-171</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Proteasome Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Proteasome Inhibitor/PR-171</ClassificationPath>
+<BroaderTerm>Proteasome Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>PR-171</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PR-171</Synonym>
+<Description>An epoxomicin derivate with potential antineoplastic activity. PR-171 irreversibly binds to and inhibits the chymotrypsin-like activity of the 20S proteasome, an enzyme responsible for degrading a large variety of cellular proteins. Inhibition of proteasome-mediated proteolysis results in an accumulation of polyubiquinated proteins, which may lead to cell cycle arrest, induction of apoptosis, and inhibition of tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

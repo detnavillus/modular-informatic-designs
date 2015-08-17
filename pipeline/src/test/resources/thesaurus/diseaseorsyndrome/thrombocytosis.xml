@@ -1,0 +1,31 @@
+<Record>
+<Term>Thrombocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Myeloproliferative Disorders</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ParentTerm>Abnormal Hematology Test Result</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Thrombocytosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Hematopoietic System Finding/Abnormal Hematology Test Result/Thrombocytosis</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombocytosis</BroaderTerm>
+<BroaderTerm>Hematopoietic System Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Abnormal Hematology Test Result</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Thrombocythemia, Essential</ChildTerm>
+<Synonym>Thrombocytosis</Synonym>
+<Synonym>Thrombocytoses</Synonym>
+<Synonym>Thrombocythemias</Synonym>
+<Synonym>Thrombocythemia</Synonym>
+<Description>Increased numbers of platelets in the peripheral blood. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

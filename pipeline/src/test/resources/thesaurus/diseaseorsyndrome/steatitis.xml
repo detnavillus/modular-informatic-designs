@@ -1,0 +1,20 @@
+<Record>
+<Term>Steatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin E Deficiency</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Steatitis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin E Deficiency/Steatitis</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Vitamin E Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Steatitis</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Steatitides</Synonym>
+<Synonym>Steatitis</Synonym>
+<Description>A disease of cats and mink characterized by a marked inflammation of adipose tissue and the deposition of "ceroid" pigment in the interstices of the adipose cells. It is believed to be caused by feeding diets containing too much unsaturated fatty acid and too little vitamin E. (Merck Veterinary Manual, 5th ed; Stedman, 25th ed)</Description>
+<Source>MeSH</Source>
+</Record>

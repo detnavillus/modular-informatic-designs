@@ -1,0 +1,35 @@
+<Record>
+<Term>Disorders of Excessive Somnolence</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sleep Disorders, Intrinsic</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Disorders of Excessive Somnolence</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Kleine-Levin Syndrome</ChildTerm>
+<ChildTerm>Narcolepsy</ChildTerm>
+<ChildTerm>Hypersomnolence, Idiopathic</ChildTerm>
+<Synonym>Secondary Hypersomnolence Disorders</Synonym>
+<Synonym>Hypersomnia</Synonym>
+<Synonym>Hypersomnolence Disorder</Synonym>
+<Synonym>Hypersomnolence Disorders</Synonym>
+<Synonym>DOESs (Disorders of Excessive Somnolence)</Synonym>
+<Synonym>DOES (Disorders of Excessive Somnolence)</Synonym>
+<Synonym>Recurrent Hypersomnia</Synonym>
+<Synonym>Primary Hypersomnolence Disorders</Synonym>
+<Synonym>Recurrent Hypersomnias</Synonym>
+<Synonym>Primary Hypersomnolence Disorder</Synonym>
+<Synonym>Excessive Somnolence Disorders</Synonym>
+<Synonym>Disorders of Excessive Somnolence</Synonym>
+<Synonym>Hypersomnias</Synonym>
+<Synonym>Excessive Somnolence Disorder</Synonym>
+<Synonym>Secondary Hypersomnolence Disorder</Synonym>
+<Synonym>Hypersomnolence</Synonym>
+<Description>Disorders characterized by hypersomnolence during normal waking hours that may impair cognitive functioning. Subtypes include primary hypersomnia disorders (e.g., IDIOPATHIC HYPERSOMNOLENCE; NARCOLEPSY; and KLEINE-LEVIN SYNDROME) and secondary hypersomnia disorders where excessive somnolence can be attributed to a known cause (e.g., drug affect, MENTAL DISORDERS, and SLEEP APNEA SYNDROME). (From  J Neurol Sci 1998 Jan 8;153(2):192-202; Thorpy, Principles and Practice of Sleep Medicine, 2nd ed, p320)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Meningococcal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neisseriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Neisseriaceae Infections/Meningococcal Infections</ClassificationPath>
+<BroaderTerm>Neisseriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Meningitis, Meningococcal</ChildTerm>
+<Synonym>Meningococcal Infections</Synonym>
+<Synonym>Meningococcal Infection</Synonym>
+<Description>Infections with bacteria of the species NEISSERIA MENINGITIDIS.</Description>
+<Source>MeSH</Source>
+</Record>

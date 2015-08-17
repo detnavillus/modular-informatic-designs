@@ -1,0 +1,24 @@
+<Record>
+<Term>Olmesartan Medoxomil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Olmesartan Medoxomil</ClassificationPath>
+<BroaderTerm>Olmesartan Medoxomil</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Olmesartan Medoxomil</Synonym>
+<Synonym>CS 866</Synonym>
+<Synonym>1H-Imidazole-5-carboxylic Acid, 4-(1-hydroxy-1-methylethyl)-2-propyl-1-((2'-(1H-tetrazol-5-yl)(1,1'-biphenyl)-4-yl)methyl)-,(5-methyl-2-oxo-1,3-dioxol-4-yl)methyl Ester</Synonym>
+<Synonym>OLMESARTAN MEDOXOMIL</Synonym>
+<Synonym>Benicar</Synonym>
+<Synonym>Olmesartan medoxomil</Synonym>
+<Description>A synthetic imidazole derivative prodrug with an antihypertensive property. Upon hydrolysis, olmesartan medoxomil is converted to olmesartan. Olmesartan selectively binds to the angiotensin type 1 (AT1) receptor of angiotensin II in vascular smooth muscle and adrenal gland, thereby competing angiotensin II binding to the receptor. This prevents angiotensin II-induced vasoconstriction and decreases aldosterone production, thereby preventing aldosterone-stimulated sodium retention and potassium excretion.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

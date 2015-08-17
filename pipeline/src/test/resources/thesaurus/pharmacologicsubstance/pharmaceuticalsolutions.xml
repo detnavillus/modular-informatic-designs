@@ -1,0 +1,23 @@
+<Record>
+<Term>Pharmaceutical Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dosage Forms</ParentTerm>
+<ParentTerm>Solutions</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Pharmaceutical Solutions</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Dosage Forms/Pharmaceutical Solutions</ClassificationPath>
+<ClassificationPath>Pharmaceutical Preparations/Dosage Forms/Pharmaceutical Solutions</ClassificationPath>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Dosage Forms</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Pharmaceutical Solutions</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<ChildTerm>Sclerosing Solutions</ChildTerm>
+<ChildTerm>Cardioplegic Solutions</ChildTerm>
+<ChildTerm>Dialysis Solutions</ChildTerm>
+<ChildTerm>Ophthalmic Solutions</ChildTerm>
+<Synonym>Pharmaceutical Solutions</Synonym>
+<Synonym>Pharmaceutic Solutions</Synonym>
+<Description>Homogeneous liquid preparations that contain one or more chemical substances dissolved, i.e., molecularly dispersed, in a suitable solvent or mixture of mutually miscible solvents. For reasons of their ingredients, method of preparation, or use, they do not fall into another group of products.</Description>
+<Source>MeSH</Source>
+</Record>

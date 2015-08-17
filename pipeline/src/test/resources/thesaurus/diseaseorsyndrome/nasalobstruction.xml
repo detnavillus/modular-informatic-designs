@@ -1,0 +1,34 @@
+<Record>
+<Term>Nasal Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Nose Diseases</ParentTerm>
+<ParentTerm>Airway Obstruction</ParentTerm>
+<ParentTerm>Obstruction</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Nasal Obstruction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Obstruction/Nasal Obstruction</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Nasal Obstruction</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Insufficiency/Airway Obstruction/Nasal Obstruction</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Airway Obstruction</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Obstruction</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Nasal Obstruction</BroaderTerm>
+<BroaderTerm>Respiratory Insufficiency</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Bilateral Nasal Obstruction</Synonym>
+<Synonym>Unilateral Nasal Obstruction</Synonym>
+<Synonym>Nasal Blockage</Synonym>
+<Synonym>Obstruction, nasal</Synonym>
+<Synonym>Nasal Obstruction</Synonym>
+<Synonym>Nasal Airway Obstruction</Synonym>
+<Synonym>Nasal Blockages</Synonym>
+<Description>Any hindrance to the passage of air into and out of the nose. The obstruction may be unilateral or bilateral, and may involve any part of the NASAL CAVITY.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

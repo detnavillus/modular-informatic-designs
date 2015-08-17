@@ -1,0 +1,21 @@
+<Record>
+<Term>Felbamate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Felbamate</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Felbamate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FELBAMATE</Synonym>
+<Synonym>Felbatol</Synonym>
+<Synonym>Felbamate</Synonym>
+<Synonym>Carbamic Acid, 2-phenyltrimethylene Ester</Synonym>
+<Synonym>2-Phenyl-1,3-propanediol Dicarbamate</Synonym>
+<Description>A propanediol compound with anticonvulsant and antiepileptic properties. Although the exact mechanism of action is unknown, Felbamate may be an antagonist at the strychnine-insensitive glycine-recognition site of the N-methyl-D-aspartate (NMDA) receptor-ionophore complex, thereby blocking the effects of the excitatory amino acids, suppressing neuronal firing, and preventing seizure activity. Felbamate also has weak inhibitory effects on gamma-aminobutyric acid (GABA) receptor binding sites which may contribute to its inhibitory effect on neuronal excitatory.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

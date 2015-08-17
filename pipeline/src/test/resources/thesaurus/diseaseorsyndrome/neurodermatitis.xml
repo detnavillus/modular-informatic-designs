@@ -1,0 +1,22 @@
+<Record>
+<Term>Neurodermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Eczematous</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Neurodermatitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Neurodermatitis</ClassificationPath>
+<BroaderTerm>Neurodermatitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<Synonym>Circumscribed Neurodermatitis</Synonym>
+<Synonym>Localized Neurodermatitides</Synonym>
+<Synonym>Neurodermatitis</Synonym>
+<Synonym>Localized Neurodermatitis</Synonym>
+<Synonym>Circumscribed Neurodermatitides</Synonym>
+<Synonym>Lichen Simplex Chronicus</Synonym>
+<Synonym>Neurodermatitides</Synonym>
+<Description>An extremely variable eczematous skin disease that is presumed to be a response to prolonged vigorous scratching, rubbing, or pinching to relieve intense pruritus. It varies in intensity, severity, course, and morphologic expression in different individuals. Neurodermatitis is believed by some to be psychogenic. The circumscribed or localized form is often referred to as lichen simplex chronicus.</Description>
+<Source>MeSH</Source>
+</Record>

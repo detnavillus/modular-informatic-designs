@@ -1,0 +1,26 @@
+<Record>
+<Term>Bacampicillin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Penicillin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Penicillin Antibiotic/Bacampicillin Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Penicillin Antibiotic/Bacampicillin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Bacampicillin</BroaderTerm>
+<BroaderTerm>Bacampicillin Hydrochloride</BroaderTerm>
+<BroaderTerm>Penicillin Antibiotic</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Spectrobid</Synonym>
+<Synonym>BACAMPICILLIN</Synonym>
+<Synonym>Bacampicillin</Synonym>
+<Synonym>Bacampicillin Hydrochloride</Synonym>
+<Synonym>Bacampicillin hydrochloride</Synonym>
+<Synonym>BACAMPICILLIN HYDROCHLORIDE</Synonym>
+<Description>The hydrochloride salt of bacampicillin, a prodrug of ampicillin, a broad-spectrum, semisynthetic, beta-lactam aminopenicillin antibiotic with bactericidal activity. Bacampicillin is hydrolyzed in vivo by esterases to its active metabolite ampicillin. Ampicillin binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and causes cell lysis.</Description>
+<Description>A prodrug of ampicillin, a broad-spectrum, semisynthetic, beta-lactam aminopenicillin antibiotic with bactericidal activity. Bacampicillin is hydrolyzed in vivo by esterases to its active metabolite ampicillin. Ampicillin binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and causes cell lysis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Romano-Ward Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Long QT Syndrome</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Long QT Syndrome/Romano-Ward Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Long QT Syndrome/Romano-Ward Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Long QT Syndrome/Romano-Ward Syndrome</ClassificationPath>
+<BroaderTerm>Long QT Syndrome</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Romano-Ward Syndrome</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Romano-Ward Syndrome</Synonym>
+<Synonym>Ward-Romano Syndrome</Synonym>
+<Synonym>Long QT Syndrome 1</Synonym>
+<Synonym>Romano Ward Syndrome</Synonym>
+<Synonym>Ward Romano Syndrome</Synonym>
+<Description>A form of long QT syndrome that is without congenital deafness. It is caused by mutation of the KCNQ1 gene which encodes a protein in the VOLTAGE-GATED POTASSIUM CHANNEL.</Description>
+<Source>MeSH</Source>
+</Record>

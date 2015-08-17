@@ -1,0 +1,47 @@
+<Record>
+<Term>Type A Niemann-Pick Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Niemann-Pick Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type A</ClassificationPath>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Niemann-Pick Disease, Type A</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Niemann-Pick Diseases</BroaderTerm>
+<Synonym>Niemann Pick's Disease Type A</Synonym>
+<Synonym>Classical Niemann-Pick Disease</Synonym>
+<Synonym>Type A Niemann-Pick Disease</Synonym>
+<Synonym>Niemann-Pick's Disease Type A</Synonym>
+<Synonym>Type A Niemann Pick Disease</Synonym>
+<Synonym>Sphingomyelinase Deficiency Diseases</Synonym>
+<Synonym>Classical Niemann Pick Disease</Synonym>
+<Synonym>Sphingomyelinase Deficiency Disease</Synonym>
+<Description>The classic infantile form of Niemann-Pick Disease, caused by mutation in SPHINGOMYELIN PHOSPHODIESTERASE. It is characterized by accumulation of SPHINGOMYELINS in the cells of the MONONUCLEAR PHAGOCYTE SYSTEM and other cell throughout the body leading to cell death. Clinical signs include JAUNDICE, hepatosplenomegaly, and severe brain damage.</Description>
+<Source>MeSH</Source>
+</Record>

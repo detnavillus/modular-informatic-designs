@@ -1,0 +1,20 @@
+<Record>
+<Term>Deficiency of Humoral Immunity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunodeficiency Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Deficiency of Humoral Immunity</ClassificationPath>
+<BroaderTerm>Deficiency of Humoral Immunity</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hypogammaglobulinemia</ChildTerm>
+<ChildTerm>Immunoglobulin Heavy Chain Deletion</ChildTerm>
+<ChildTerm>Selective Immunoglobulin G Subclass Deficiency</ChildTerm>
+<ChildTerm>Selective Immunoglobulin Isotype Deficiency</ChildTerm>
+<ChildTerm>X-Linked Agammaglobulinemia</ChildTerm>
+<Synonym>B-Cell Deficiency</Synonym>
+<Synonym>Deficiency of Humoral Immunity</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

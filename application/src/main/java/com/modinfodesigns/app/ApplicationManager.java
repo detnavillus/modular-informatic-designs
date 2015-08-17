@@ -46,7 +46,7 @@ public class ApplicationManager
    */
   public IObjectFactory createObjectFactory( String objFacName, String className, String config )
   {
-    LOG.debug( "createObjectFFFactory( " + objFacName + ", " + className + ", " + config + " ) - ???" );
+    LOG.debug( "createObjectFactory( " + objFacName + ", " + className + ", " + config + " ) - ???" );
         
     try
     {

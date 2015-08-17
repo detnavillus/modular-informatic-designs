@@ -1,0 +1,16 @@
+<Record>
+<Term>Tylenol Sinus</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cough and Cold Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Cough and Cold Preparation/Tylenol Sinus</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Tylenol Sinus</BroaderTerm>
+<BroaderTerm>Cough and Cold Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Tylenol Sinus</Synonym>
+<Description>A commercial combination preparation, by Johnson and Johnson, containing acetaminophen and pseudoephedrine hydrochloride used to relieve symptoms of cold and flu. Acetaminophen exerts analgesic and antipyretic actions by inhibiting prostaglandin synthesis. Pseudoephedrine hydrochloride, a sympathomimetic agent, acts as a decongestant by inducing vasoconstriction mediated through alpha-adrenergic receptors, thereby reducing blood flow which decreases swelling and prevents and relieves nasal and sinus congestion.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

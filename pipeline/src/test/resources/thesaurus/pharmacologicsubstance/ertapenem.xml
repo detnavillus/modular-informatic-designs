@@ -1,0 +1,26 @@
+<Record>
+<Term>Ertapenem</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Lactam Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Beta-Lactam Antibiotic/Ertapenem</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Beta-Lactam Antibiotic/Ertapenem Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Beta-Lactam Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ertapenem Sodium</BroaderTerm>
+<BroaderTerm>Ertapenem</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ERTAPENEM SODIUM</Synonym>
+<Synonym>Ertapenem sodium</Synonym>
+<Synonym>Ertapenem Sodium</Synonym>
+<Synonym>Ertapenem</Synonym>
+<Synonym>ERTAPENEM</Synonym>
+<Synonym>Invanz</Synonym>
+<Description>A 1-beta-methyl carbapenem and broad-spectrum beta-lactam antibiotic with bactericidal property. Ertapenem binds to penicillin binding proteins (PBPs) located on the bacterial cell wall, in particular PBPs 2 and 3, thereby inhibiting the final transpeptidation step in the synthesis of peptidoglycan, an essential component of the bacterial cell wall. Inhibition results in a weakening and subsequent lysis of the cell wall leading to cell death of Gram-positive and Gram-negative aerobic and anaerobic pathogens. This agent is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, cephalosporinases and extended-spectrum beta-lactamases.</Description>
+<Description>The sodium salt of ertapenem, a 1-beta-methyl carbapenem and a broad-spectrum beta-lactam antibiotic with bactericidal activity. Ertapenem binds to penicillin binding proteins (PBPs) located on the bacterial cell wall, in particular PBPs 2 and 3, thereby inhibiting the final transpeptidation step in the synthesis of peptidoglycan, an essential component of the bacterial cell wall. Inhibition of peptidoglycan synthesis results in weakening and lysis of the cell wall and cell death. In vitro, this agent has shown activity against Gram-positive and Gram-negative aerobic and anaerobic bacteria. Erapenem is resistant to hydrolysis by a variety of beta-lactamases, including penicillinases, cephalosporinases and extended-spectrum beta-lactamases.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

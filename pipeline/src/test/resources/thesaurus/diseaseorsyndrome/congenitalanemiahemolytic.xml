@@ -1,0 +1,29 @@
+<Record>
+<Term>Congenital Anemia, Hemolytic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic</ParentTerm>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hemoglobin C Disease</ChildTerm>
+<ChildTerm>Spherocytosis, Hereditary</ChildTerm>
+<ChildTerm>Anemia, Sickle Cell</ChildTerm>
+<ChildTerm>Elliptocytosis, Hereditary</ChildTerm>
+<ChildTerm>Anemia, Dyserythropoietic, Congenital</ChildTerm>
+<ChildTerm>Glucosephosphate Dehydrogenase Deficiency</ChildTerm>
+<ChildTerm>Thalassemia</ChildTerm>
+<ChildTerm>Anemia, Hemolytic, Congenital Nonspherocytic</ChildTerm>
+<Synonym>Congenital Hemolytic Anemias</Synonym>
+<Synonym>Hereditary Hemolytic Anemias</Synonym>
+<Synonym>Hereditary Hemolytic Anemia</Synonym>
+<Synonym>Congenital Hemolytic Anemia</Synonym>
+<Description>Hemolytic anemia due to various intrinsic defects of the erythrocyte.</Description>
+<Source>MeSH</Source>
+</Record>

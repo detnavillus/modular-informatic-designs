@@ -1,0 +1,17 @@
+<Record>
+<Term>Sodium Dichloroacetate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Orphan Drug</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Orphan Drug/Sodium Dichloroacetate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Orphan Drug</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sodium Dichloroacetate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CPC 211</Synonym>
+<Synonym>Dichloroacetic Acid, Sodium Salt</Synonym>
+<Synonym>SODIUM DICHLOROACETATE</Synonym>
+<Synonym>Sodium Dichloroacetate</Synonym>
+<Description>The sodium salt of dichloroacetic acid with potential antineoplastic activity. Dichloroacetate ion inhibits pyruvate dehydrogenase kinase, resulting in the inhibition of glycolysis and a decrease in lactate production. This agent may stimulate apoptosis in cancer cells by restoring normal mitochondrial-induced apoptotic signaling.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

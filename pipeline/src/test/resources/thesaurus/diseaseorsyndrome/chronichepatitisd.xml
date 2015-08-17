@@ -1,0 +1,24 @@
+<Record>
+<Term>Chronic Hepatitis D</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis D</ParentTerm>
+<ParentTerm>Hepatitis, Chronic</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Chronic/Hepatitis D, Chronic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human/Hepatitis D/Hepatitis D, Chronic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human/Hepatitis D/Hepatitis D, Chronic</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hepatitis D/Hepatitis D, Chronic</ClassificationPath>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis D</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis, Chronic</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis D, Chronic</BroaderTerm>
+<Synonym>Chronic Hepatitis D</Synonym>
+<Synonym>Chronic Delta Hepatitides</Synonym>
+<Synonym>Chronic Delta Hepatitis</Synonym>
+<Description>INFLAMMATION of the LIVER in humans caused by HEPATITIS DELTA VIRUS in conjunction with HEPATITIS B VIRUS and lasting six months or more.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Interstitial Lung Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<ChildTerm>Pneumoconiosis</ChildTerm>
+<ChildTerm>Alveolitis, Extrinsic Allergic</ChildTerm>
+<ChildTerm>Histiocytosis, Langerhans-Cell</ChildTerm>
+<ChildTerm>Wegener Granulomatosis</ChildTerm>
+<ChildTerm>Radiation Pneumonitis</ChildTerm>
+<ChildTerm>Sarcoidosis, Pulmonary</ChildTerm>
+<ChildTerm>Idiopathic Interstitial Pneumonias</ChildTerm>
+<ChildTerm>Anti-Glomerular Basement Membrane Disease</ChildTerm>
+<Synonym>Interstitial Lung Disease</Synonym>
+<Synonym>Interstitial Lung Diseases</Synonym>
+<Synonym>Diffuse Parenchymal Lung Diseases</Synonym>
+<Synonym>Interstitial Pneumonia</Synonym>
+<Synonym>Interstitial Pneumonias</Synonym>
+<Synonym>Interstitial Pneumonitides</Synonym>
+<Synonym>Interstitial Pneumonitis</Synonym>
+<Description>A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features.</Description>
+<Source>MeSH</Source>
+</Record>

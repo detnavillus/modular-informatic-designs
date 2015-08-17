@@ -1,0 +1,19 @@
+<Record>
+<Term>Hearing Impairment</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hearing Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Hearing Disorder/Hearing Impairment</ClassificationPath>
+<BroaderTerm>Hearing Impairment</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Hearing Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Neonatal Hearing Impairment</ChildTerm>
+<Synonym>Hearing Impairment</Synonym>
+<Synonym>Impairment, hearing</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

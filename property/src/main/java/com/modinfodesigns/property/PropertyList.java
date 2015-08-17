@@ -158,6 +158,32 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
     return false;
   }
     
+  public void removeProperty( IProperty prop )
+  {
+    // if property is a dataObject - remove from propList based on ObjectID
+    if (prop instanceof DataObject) {
+      int ndx = -1;
+      DataObject remProp = (DataObject)prop;
+      for (int i = 0; i < propList.size( ); i++) {
+        IProperty chProp = propList.get( i );
+        if (chProp instanceof DataObject && ((DataObject)chProp).getID().equals( remProp.getID( ) ) )
+        {
+          ndx = i;
+          break;
+        }
+      }
+          
+      if (ndx >= 0)
+      {
+        propList.remove( ndx );
+      }
+    }
+    else
+    {
+      removeProperty( prop.getName( ) );
+    }
+  }
+    
   public void removeProperty( String propName )
   {
     if (propList == null) return;
@@ -176,7 +202,15 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
         
     if (propNdx >= 0)
     {
-      propList.remove( propNdx );
+      removeProperty( propNdx );
+    }
+  }
+    
+  public void removeProperty( int index )
+  {
+    if (propList != null && index >= 0 && index < propList.size() )
+    {
+      propList.remove( index );
     }
   }
     
@@ -375,7 +409,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
         for (int i = 0; i < propList.getLength(); i++)
         {
           Element propEl = (Element)propList.item( i );
-          IProperty prop = XMLDataObjectParser.createProperty( propEl );
+          IProperty prop = new XMLDataObjectParser( ).createProperty( propEl );
           addProperty( prop );
         }
       }

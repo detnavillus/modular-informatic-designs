@@ -1,0 +1,19 @@
+<Record>
+<Term>Bovine Respiratory Disease Complex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Bovine Respiratory Disease Complex</ClassificationPath>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Bovine Respiratory Disease Complex</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Bovine Respiratory Disease Complex</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Pasteurellosis, Pneumonic</ChildTerm>
+<ChildTerm>Pneumonia, Atypical Interstitial, of Cattle</ChildTerm>
+<ChildTerm>Pneumonia of Calves, Enzootic</ChildTerm>
+<Synonym>Bovine Respiratory Disease Complex</Synonym>
+<Description>A multifactorial disease of CATTLE resulting from complex interactions between environmental factors, host factors, and pathogens. The environmental factors act as stressors adversely affecting the IMMUNE SYSTEM and other host defenses and enhancing transmission of infecting agents.</Description>
+<Source>MeSH</Source>
+</Record>

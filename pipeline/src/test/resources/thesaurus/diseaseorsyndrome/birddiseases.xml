@@ -1,0 +1,24 @@
+<Record>
+<Term>Bird Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Bird Diseases</ClassificationPath>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Avian Leukosis</ChildTerm>
+<ChildTerm>Sarcoma, Avian</ChildTerm>
+<ChildTerm>Poultry Diseases</ChildTerm>
+<ChildTerm>Tuberculosis, Avian</ChildTerm>
+<ChildTerm>Reticuloendotheliosis, Avian</ChildTerm>
+<ChildTerm>Influenza in Birds</ChildTerm>
+<ChildTerm>Fowlpox</ChildTerm>
+<ChildTerm>Malaria, Avian</ChildTerm>
+<ChildTerm>Marek Disease</ChildTerm>
+<ChildTerm>Newcastle Disease</ChildTerm>
+<Synonym>Bird Diseases</Synonym>
+<Synonym>Bird Disease</Synonym>
+<Synonym>Avian Diseases</Synonym>
+<Synonym>Avian Disease</Synonym>
+<Description>Diseases of birds not considered poultry, therefore usually found in zoos, parks, and the wild. The concept is differentiated from POULTRY DISEASES which is for birds raised as a source of meat or eggs for human consumption, and usually found in barnyards, hatcheries, etc.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Cyclothiazide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Thiazide Diuretic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Diuretic/Thiazide Diuretic/Cyclothiazide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Thiazide Diuretic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Cyclothiazide</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Diuretic</BroaderTerm>
+<Synonym>Anhydron</Synonym>
+<Synonym>CYCLOTHIAZIDE</Synonym>
+<Synonym>Cyclothiazide</Synonym>
+<Synonym>Fluidil</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Tinea Capitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Scalp Dermatoses</ParentTerm>
+<ParentTerm>Tinea</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Capitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Scalp Dermatoses/Tinea Capitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea/Tinea Capitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Capitis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tinea Capitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Scalp Dermatoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tinea</BroaderTerm>
+<ChildTerm>Tinea Favosa</ChildTerm>
+<Synonym>Tinea Capitis</Synonym>
+<Description>Ringworm of the scalp caused by species of Microsporum and Trichophyton, which may occasionally involve the eyebrows and eyelashes. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

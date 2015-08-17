@@ -1,0 +1,43 @@
+<Record>
+<Term>Tick-Borne Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Tick-Borne Diseases</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Relapsing Fever</ChildTerm>
+<ChildTerm>Tularemia</ChildTerm>
+<ChildTerm>Colorado Tick Fever</ChildTerm>
+<ChildTerm>Kyasanur Forest Disease</ChildTerm>
+<ChildTerm>Nairobi Sheep Disease</ChildTerm>
+<ChildTerm>Boutonneuse Fever</ChildTerm>
+<ChildTerm>Ehrlichiosis</ChildTerm>
+<ChildTerm>Babesiosis</ChildTerm>
+<ChildTerm>Encephalitis, Tick-Borne</ChildTerm>
+<ChildTerm>Heartwater Disease</ChildTerm>
+<ChildTerm>Rocky Mountain Spotted Fever</ChildTerm>
+<ChildTerm>Hemorrhagic Fever, Omsk</ChildTerm>
+<ChildTerm>Lyme Disease</ChildTerm>
+<ChildTerm>Anaplasmosis</ChildTerm>
+<ChildTerm>Hemorrhagic Fever, Crimean</ChildTerm>
+<ChildTerm>African Swine Fever</ChildTerm>
+<ChildTerm>Theileriasis</ChildTerm>
+<Synonym>Tick-Borne Disease</Synonym>
+<Synonym>Tick-Borne Infections</Synonym>
+<Synonym>Tick Borne Diseases</Synonym>
+<Synonym>Tick-Borne Diseases</Synonym>
+<Synonym>Tick Borne Infections</Synonym>
+<Synonym>Tick-Borne Infection</Synonym>
+<Description>Bacterial, viral, or parasitic diseases transmitted to humans and animals by the bite of infected ticks. The families Ixodidae and Argasidae contain many bloodsucking species that are important pests of man and domestic birds and mammals and probably exceed all other arthropods in the number and variety of disease agents they transmit. Many of the tick-borne diseases are zoonotic.</Description>
+<Source>MeSH</Source>
+</Record>

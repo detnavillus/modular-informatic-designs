@@ -1,0 +1,15 @@
+<Record>
+<Term>Breflate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Breflate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Breflate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>13-(N,N-Dimethylglycyl)brefeldin A</Synonym>
+<Synonym>Breflate</Synonym>
+<Description>A water soluble analogue of the antineoplastic agent brefeldin A (BFA). (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

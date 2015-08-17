@@ -1,0 +1,26 @@
+<Record>
+<Term>Onychomycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nail Diseases</ParentTerm>
+<ParentTerm>Tinea</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea/Onychomycosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea/Onychomycosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea/Onychomycosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Nail Diseases/Onychomycosis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Onychomycosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Nail Diseases</BroaderTerm>
+<BroaderTerm>Tinea</BroaderTerm>
+<Synonym>Tinea Unguium</Synonym>
+<Synonym>Onychomycoses</Synonym>
+<Synonym>Onychomycosis</Synonym>
+<Synonym>Nail Fungus</Synonym>
+<Description>A fungal infection of the nail plate, usually caused by a DERMATOPHYTES; YEASTS; or nondermatophyte MOLDS.</Description>
+<Source>MeSH</Source>
+</Record>

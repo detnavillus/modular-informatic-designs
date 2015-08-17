@@ -1,0 +1,12 @@
+<Record>
+<Term>Hypotonic Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Solutions</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Hypotonic Solutions</ClassificationPath>
+<BroaderTerm>Hypotonic Solutions</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<Synonym>Hypotonic Solutions</Synonym>
+<Description>Solutions that have a lesser osmotic pressure than a reference solution such as blood, plasma, or interstitial fluid.</Description>
+<Source>MeSH</Source>
+</Record>

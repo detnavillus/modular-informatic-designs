@@ -1,0 +1,29 @@
+<Record>
+<Term>Leukemoid Reaction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Myeloproliferative Disorders</ParentTerm>
+<ParentTerm>Leukocytosis</ParentTerm>
+<ParentTerm>Abnormal Hematology Test Result</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Leukocytosis/Leukemoid Reaction</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Leukemoid Reaction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Hematopoietic System Finding/Abnormal Hematology Test Result/Leukemoid Reaction</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Leukemoid Reaction</BroaderTerm>
+<BroaderTerm>Hematopoietic System Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Leukocytosis</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Hematology Test Result</BroaderTerm>
+<Synonym>Leukemoid Reactions</Synonym>
+<Synonym>Leukemoid Reaction</Synonym>
+<Description>A peripheral blood picture resembling that of leukemia or indistinguishable from it on the basis of morphologic appearance alone. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

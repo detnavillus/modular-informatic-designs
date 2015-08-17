@@ -1,0 +1,17 @@
+<Record>
+<Term>Measles</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Morbillivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Morbillivirus Infections/Measles</ClassificationPath>
+<BroaderTerm>Measles</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Morbillivirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Subacute Sclerosing Panencephalitis</ChildTerm>
+<Synonym>Measles</Synonym>
+<Synonym>Rubeola</Synonym>
+<Description>A highly contagious infectious disease caused by MORBILLIVIRUS, common among children but also seen in the nonimmune of any age, in which the virus enters the respiratory tract via droplet nuclei and multiplies in the epithelial cells, spreading throughout the MONONUCLEAR PHAGOCYTE SYSTEM.</Description>
+<Source>MeSH</Source>
+</Record>

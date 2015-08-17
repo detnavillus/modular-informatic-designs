@@ -1,0 +1,19 @@
+<Record>
+<Term>Abdominal Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Abdominal Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Abdominal Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Subphrenic Abscess</ChildTerm>
+<ChildTerm>Liver Abscess</ChildTerm>
+<Synonym>Abdominal Abscess</Synonym>
+<Synonym>Intra-Abdominal Abscess</Synonym>
+<Synonym>Intra-Abdominal Abscesses</Synonym>
+<Synonym>Abdominal Abscesses</Synonym>
+<Description>An abscess located in the abdominal cavity, i.e., the cavity between the diaphragm above and the pelvis below. (From Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

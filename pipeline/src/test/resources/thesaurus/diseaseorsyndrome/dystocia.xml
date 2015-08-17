@@ -1,0 +1,15 @@
+<Record>
+<Term>Dystocia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Obstetric Labor Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications/Dystocia</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Dystocia</BroaderTerm>
+<ChildTerm>Uterine Inertia</ChildTerm>
+<Synonym>Dystocia</Synonym>
+<Synonym>Dystocias</Synonym>
+<Description>Slow or difficult OBSTETRIC LABOR or CHILDBIRTH.</Description>
+<Source>MeSH</Source>
+</Record>

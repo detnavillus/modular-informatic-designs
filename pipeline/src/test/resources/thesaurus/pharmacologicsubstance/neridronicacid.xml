@@ -1,0 +1,22 @@
+<Record>
+<Term>Neridronic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Bone Resorption Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Biphosphonate/Neridronic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Neridronic Acid</ClassificationPath>
+<BroaderTerm>Biphosphonate</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Neridronic Acid,</BroaderTerm>
+<BroaderTerm>Neridronic Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>(6-Amino-1-hydroxyhexylidene)diphosphonic Acid</Synonym>
+<Synonym>NERIDRONIC ACID</Synonym>
+<Synonym>Neridronic Acid</Synonym>
+<Description>A third-generation, aminohexane bisphosphonate with anti-resorptive and anti-hypercalcemic activities. Although the exact mechanism of action has yet to be fully elucidated, neridronic acid binds to and adsorbs onto hydroxyapatite crystals in bone matrix, thereby preventing osteoclast resorption. This agent also binds to and inhibits farnesyl pyrophosphate synthase, an enzyme that plays an important role in the mevalonate pathway. This inhibits the formation of isoprenoids that are substrates for protein prenylation. This prevents farnesylation and geranylgeranylation of proteins essential for osteoclast function, thereby leading to the induction of apoptosis of osteoclasts. By preventing osteoclast-mediated bone resorption, neridronic acid decreases bone turnover rate, stabilizes the bone matrix and reduces hypercalcemia.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

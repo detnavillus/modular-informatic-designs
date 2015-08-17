@@ -1,0 +1,14 @@
+<Record>
+<Term>Anthrax</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacillaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Bacillaceae Infections/Anthrax</ClassificationPath>
+<BroaderTerm>Bacillaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Anthrax</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Anthrax</Synonym>
+<Description>An acute infection caused by the spore-forming bacteria BACILLUS ANTHRACIS. It commonly affects hoofed animals such as sheep and goats. Infection in humans often involves the skin (cutaneous anthrax), the lungs (inhalation anthrax), or the gastrointestinal tract. Anthrax is not contagious and can be treated with antibiotics.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Lymphocytic Choriomeningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arenaviridae Infections</ParentTerm>
+<ParentTerm>Meningitis, Viral</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Meningitis, Viral/Lymphocytic Choriomeningitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Meningitis, Viral/Lymphocytic Choriomeningitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Arenaviridae Infections/Lymphocytic Choriomeningitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Meningitis, Viral/Lymphocytic Choriomeningitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Viral/Lymphocytic Choriomeningitis</ClassificationPath>
+<BroaderTerm>Arenaviridae Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Lymphocytic Choriomeningitis</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Meningitis, Viral</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Lymphocytic Choriomeningitis</Synonym>
+<Synonym>Lymphocytic Choriomeningitis Virus Encephalomyelitis</Synonym>
+<Synonym>Armstrong's Syndrome</Synonym>
+<Synonym>Armstrong Syndrome</Synonym>
+<Description>A form of meningitis caused by LYMPHOCYTIC CHORIOMENINGITIS VIRUS. MICE and other rodents serve as the natural hosts, and infection in humans usually occurs through inhalation or ingestion of infectious particles. Clinical manifestations include an influenza-like syndrome followed by stiff neck, alterations of mentation, ATAXIA, and incontinence. Maternal infections may result in fetal malformations and injury, including neonatal HYDROCEPHALUS, aqueductal stenosis, CHORIORETINITIS, and MICROCEPHALY. (From Joynt, Clinical Neurology, 1996, Ch26, pp1-3)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Mycobacterium avium-intracellulare Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycobacterium Infections, Atypical</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Mycobacterium Infections, Atypical/Mycobacterium avium-intracellulare Infection</ClassificationPath>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Mycobacterium avium-intracellulare Infection</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections, Atypical</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Mycobacterium avium-intracellulare Infection</Synonym>
+<Synonym>Mycobacterium intracellulare Infection</Synonym>
+<Synonym>Mycobacterium avium intracellulare Infection</Synonym>
+<Synonym>Mycobacterium avium-intracellulare Infections</Synonym>
+<Synonym>Mycobacterium intracellulare Infections</Synonym>
+<Description>A nontuberculous infection when occurring in humans. It is characterized by pulmonary disease, lymphadenitis in children, and systemic disease in AIDS patients. Mycobacterium avium-intracellulare infection of birds and swine results in tuberculosis.</Description>
+<Source>MeSH</Source>
+</Record>

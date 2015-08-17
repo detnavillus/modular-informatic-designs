@@ -1,0 +1,21 @@
+<Record>
+<Term>Congenital Disorder of Natural Immunity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunodeficiency Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Congenital Disorder of Natural Immunity,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Disorder of Natural Immunity</ClassificationPath>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital Disorder of Natural Immunity,</BroaderTerm>
+<BroaderTerm>Congenital Disorder of Natural Immunity</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Chronic Granulomatous Disease</ChildTerm>
+<ChildTerm>Leukocyte Adhesion Deficiency</ChildTerm>
+<ChildTerm>Chediak-Higashi Syndrome</ChildTerm>
+<ChildTerm>Neutrophil Actin Defect</ChildTerm>
+<Synonym>Congenital Disorder of Natural Immunity</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

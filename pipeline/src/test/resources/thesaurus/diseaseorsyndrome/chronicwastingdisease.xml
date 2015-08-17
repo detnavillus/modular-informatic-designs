@@ -1,0 +1,19 @@
+<Record>
+<Term>Chronic Wasting Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ParentTerm>Prion Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Wasting Disease, Chronic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Prion Diseases/Wasting Disease, Chronic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Prion Diseases/Wasting Disease, Chronic</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Wasting Disease, Chronic</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Prion Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Chronic Wasting Disease</Synonym>
+<Description>A transmissible spongiform encephalopathy (prion disease) of DEER and elk characterized by chronic weight loss leading to death. It is thought to spread by direct contact between animals or through environmental contamination with the prion protein (PRIONS).</Description>
+<Source>MeSH</Source>
+</Record>

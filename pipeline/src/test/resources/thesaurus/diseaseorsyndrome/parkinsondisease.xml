@@ -1,0 +1,29 @@
+<Record>
+<Term>Parkinson Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Parkinsonian Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Parkinson Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Parkinsonian Disorders/Parkinson Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Parkinsonian Disorders/Parkinson Disease</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinson Disease</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinsonian Disorders</BroaderTerm>
+<Synonym>Primary Parkinsonism</Synonym>
+<Synonym>Parkinson Disease</Synonym>
+<Synonym>Idiopathic Parkinson Disease</Synonym>
+<Synonym>Parkinsons Disease</Synonym>
+<Synonym>Paralysis Agitans</Synonym>
+<Synonym>Lewy Body Parkinson Disease</Synonym>
+<Synonym>Idiopathic Parkinson's Disease</Synonym>
+<Synonym>Lewy Body Parkinson's Disease</Synonym>
+<Synonym>Parkinson's Disease</Synonym>
+<Description>A progressive, degenerative neurologic disease characterized by a TREMOR that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. LEWY BODIES are present in the substantia nigra and locus coeruleus but may also be found in a related condition (LEWY BODY DISEASE, DIFFUSE) characterized by dementia in combination with varying degrees of parkinsonism. (Adams et al., Principles of Neurology, 6th ed, p1059, pp1067-75)</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

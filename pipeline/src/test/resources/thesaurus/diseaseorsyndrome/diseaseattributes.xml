@@ -1,0 +1,26 @@
+<Record>
+<Term>Disease Attributes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathologic Processes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<ChildTerm>Acute Disease</ChildTerm>
+<ChildTerm>Catastrophic Illness</ChildTerm>
+<ChildTerm>Chronic Disease</ChildTerm>
+<ChildTerm>Convalescence</ChildTerm>
+<ChildTerm>Disease Susceptibility</ChildTerm>
+<ChildTerm>Diseases in Twins</ChildTerm>
+<ChildTerm>Emergencies</ChildTerm>
+<ChildTerm>Recurrence</ChildTerm>
+<ChildTerm>Disease Progression</ChildTerm>
+<ChildTerm>Critical Illness</ChildTerm>
+<ChildTerm>Facies</ChildTerm>
+<ChildTerm>Rare Diseases</ChildTerm>
+<ChildTerm>Iatrogenic Disease</ChildTerm>
+<Synonym>Disease Attributes</Synonym>
+<Synonym>Disease Attribute</Synonym>
+<Description>Clinical characteristics of disease or illness.</Description>
+<Source>MeSH</Source>
+</Record>

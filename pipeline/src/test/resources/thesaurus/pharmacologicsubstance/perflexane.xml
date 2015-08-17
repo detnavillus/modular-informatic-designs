@@ -1,0 +1,22 @@
+<Record>
+<Term>Perflexane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Diagnostic Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/Perflexane</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Perflexane</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AF0150</Synonym>
+<Synonym>Flutec PP1</Synonym>
+<Synonym>Imagent</Synonym>
+<Synonym>Imavist</Synonym>
+<Synonym>PERFLEXANE</Synonym>
+<Synonym>Perflexane</Synonym>
+<Synonym>Perfluoro-n-hexane</Synonym>
+<Synonym>Tetradecafluorohexane</Synonym>
+<Description>A fluorinated hydrocarbon and gaseous substance used as an imaging contrast agent in echocardiogram. After administration in microsphere form, perflexane increases ultrasound reflectivity of blood. This leads to an improvement of ultrasound signaling.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

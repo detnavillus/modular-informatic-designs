@@ -1,0 +1,25 @@
+<Record>
+<Term>Polycystic Kidney Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Body Part, Organ, or Organ Component</SemanticType>
+<ParentTerm>Kidney Diseases, Cystic</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic/Polycystic Kidney Diseases</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic/Polycystic Kidney Diseases</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases, Cystic</BroaderTerm>
+<BroaderTerm>Polycystic Kidney Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Polycystic Kidney, Autosomal Recessive</ChildTerm>
+<ChildTerm>Polycystic Kidney, Autosomal Dominant</ChildTerm>
+<Synonym>Polycystic Kidney Disease</Synonym>
+<Synonym>Polycystic Kidney Diseases</Synonym>
+<Synonym>Polycystic Renal Diseases</Synonym>
+<Synonym>Polycystic Renal Disease</Synonym>
+<Synonym>Polycystic Kidney</Synonym>
+<Synonym>Polycystic Kidneys</Synonym>
+<Description>Hereditary diseases that are characterized by the progressive expansion of a large number of tightly packed CYSTS within the KIDNEYS. They include diseases with autosomal dominant and autosomal recessive inheritance.</Description>
+<Source>MeSH</Source>
+</Record>

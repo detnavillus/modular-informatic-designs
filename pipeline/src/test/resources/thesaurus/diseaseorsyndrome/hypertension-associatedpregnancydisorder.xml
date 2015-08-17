@@ -1,0 +1,18 @@
+<Record>
+<Term>Hypertension-Associated Pregnancy Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Pregnancy Disorder/Hypertension-Associated Pregnancy Disorder</ClassificationPath>
+<BroaderTerm>Hypertension-Associated Pregnancy Disorder</BroaderTerm>
+<BroaderTerm>Pregnancy Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Toxemia of Pregnancy</ChildTerm>
+<Synonym>Hypertension Associated Disorders of Pregnancy</Synonym>
+<Synonym>Hypertension-Associated Pregnancy Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

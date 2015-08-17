@@ -1,0 +1,17 @@
+<Record>
+<Term>2,6-Dimethyl-4-(3-Ethylureido)-Pyridine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Nucleic Acid, Nucleoside, or Nucleotide</SemanticType>
+<ParentTerm>Differentiation Inducer</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/2,6-Dimethyl-4-(3-Ethylureido)-Pyridine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>2,6-Dimethyl-4-(3-Ethylureido)-Pyridine</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2,6-Dimethyl-4-(3-Ethylureido)-Pyridine</Synonym>
+<Description>A ureido-derivative of pyrimidine developed to induce leukemic cell differentiation.  This agent has been shown to induce erythroleukemia cell differentiation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Calcium Acetate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Calcium Acetate</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Calcium Acetate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Calcium acetate</Synonym>
+<Synonym>PhosLo</Synonym>
+<Synonym>Phoslo gelcaps</Synonym>
+<Synonym>Phoslo</Synonym>
+<Synonym>Acetic Acid, Calcium Salt</Synonym>
+<Synonym>CALCIUM ACETATE</Synonym>
+<Synonym>Calphron</Synonym>
+<Synonym>Eliphos</Synonym>
+<Synonym>Calcium Acetate</Synonym>
+<Description>A calcium salt of acetic acid. Calcium is a mineral essential for many cellular functions including nerve impulse transmission, muscle contraction, cardiac function, bone formation, and capillary and cell membrane permeability. Calcium acetate is administered orally to prevent or treat calcium deficiency and to treat hyperphosphatemia due to its phosphate-binding properties.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

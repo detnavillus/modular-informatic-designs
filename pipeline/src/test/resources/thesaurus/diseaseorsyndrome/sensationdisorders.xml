@@ -1,0 +1,26 @@
+<Record>
+<Term>Sensation Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<ChildTerm>Dizziness</ChildTerm>
+<ChildTerm>Vision Disorders</ChildTerm>
+<ChildTerm>Hearing Disorders</ChildTerm>
+<ChildTerm>Olfaction Disorders</ChildTerm>
+<ChildTerm>Taste Disorders</ChildTerm>
+<ChildTerm>Somatosensory Disorders</ChildTerm>
+<Synonym>Special Senses Disorders</Synonym>
+<Synonym>Special Senses Disorder</Synonym>
+<Synonym>Sensory Disorder</Synonym>
+<Synonym>Sensory Disorders</Synonym>
+<Synonym>Sensation Disorders</Synonym>
+<Synonym>Sensation Disorder</Synonym>
+<Description>Disorders of the special senses (i.e., VISION; HEARING; TASTE; and SMELL) or somatosensory system (i.e., afferent components of the PERIPHERAL NERVOUS SYSTEM).</Description>
+<Source>MeSH</Source>
+</Record>

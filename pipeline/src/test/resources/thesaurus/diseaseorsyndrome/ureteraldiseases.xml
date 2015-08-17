@@ -1,0 +1,20 @@
+<Record>
+<Term>Ureteral Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urologic Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Ureteral Diseases</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Ureteral Diseases</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Ureteral Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Ureteral Neoplasms</ChildTerm>
+<ChildTerm>Ureterocele</ChildTerm>
+<ChildTerm>Ureteral Obstruction</ChildTerm>
+<ChildTerm>Ureterolithiasis</ChildTerm>
+<Synonym>Ureteral Diseases</Synonym>
+<Synonym>Ureteral Disease</Synonym>
+<Description>Pathological processes involving the URETERS.</Description>
+<Source>MeSH</Source>
+</Record>

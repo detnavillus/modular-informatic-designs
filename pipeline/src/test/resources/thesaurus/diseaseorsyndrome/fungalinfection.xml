@@ -1,0 +1,25 @@
+<Record>
+<Term>Fungal Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Candidiasis</ChildTerm>
+<ChildTerm>Fungal Esophagitis</ChildTerm>
+<ChildTerm>Cryptococcosis</ChildTerm>
+<ChildTerm>Fungal Endophthalmitis</ChildTerm>
+<ChildTerm>Paracoccidioidomycosis</ChildTerm>
+<ChildTerm>Aspergillosis</ChildTerm>
+<ChildTerm>Blastomycosis</ChildTerm>
+<Synonym>Fungal Infection</Synonym>
+<Synonym>Fungal infection</Synonym>
+<Synonym>Infection, Fungal</Synonym>
+<Description>An infection caused by eukaryotic heterotrophic organisms that live as saprobes or parasites, including mushrooms, yeasts, smuts, molds, etc. They reproduce either sexually or asexually, and have life cycles that range from simple to complex. Filamentous fungi refer to those that grow as multicellular colonies (mushrooms and molds).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

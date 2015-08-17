@@ -1,0 +1,23 @@
+<Record>
+<Term>Cardiotonic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ParentTerm>Protective Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Cardiotonic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Cardiotonic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiotonic Agents</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<Synonym>Myocardial Stimulants</Synonym>
+<Synonym>Cardioprotective Agents</Synonym>
+<Synonym>Cardiotonics</Synonym>
+<Synonym>Cardiotonic Drugs</Synonym>
+<Synonym>Cardiac Stimulants</Synonym>
+<Synonym>Cardiotonic Agents</Synonym>
+<Description>Agents that have a strengthening effect on the heart or that can increase cardiac output. They may be CARDIAC GLYCOSIDES; SYMPATHOMIMETICS; or other drugs. They are used after MYOCARDIAL INFARCT; CARDIAC SURGICAL PROCEDURES; in SHOCK; or in congestive heart failure (HEART FAILURE).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Fluorine F18 HX4</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Fluorine F18 HX4</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fluorine F18 HX4</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fluorine F18 HX4</Synonym>
+<Synonym>[F-18]HX4</Synonym>
+<Description>A 2-nitroimidazole labeled with the positron-emitting radioisotope fluorine F 18. HX4, the 2-nitroimidazole moiety of [F-18]HX4, is selectively reduced and bound in hypoxic tumor cells, permitting the imaging of hypoxic tumor cells with positron emission tomography (PET).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

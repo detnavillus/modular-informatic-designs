@@ -1,0 +1,17 @@
+<Record>
+<Term>IV Fluid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Drug Vehicle</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/IV Fluid</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>IV Fluid</BroaderTerm>
+<Synonym>IV Fluid</Synonym>
+<Synonym>Intravenous Fluid</Synonym>
+<Description>A sterile liquid preparation infused into a vein.  IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances.  In addition, IV fluids are used to administer blood products and medications such as chemotherapy.  Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

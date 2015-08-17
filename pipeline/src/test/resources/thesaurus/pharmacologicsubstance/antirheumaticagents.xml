@@ -1,0 +1,25 @@
+<Record>
+<Term>Antirheumatic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antirheumatic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antirheumatic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Anti-Inflammatory Agents, Non-Steroidal</ChildTerm>
+<ChildTerm>Gout Suppressants</ChildTerm>
+<Synonym>Antirheumatic Agents</Synonym>
+<Synonym>Anti-Rheumatic Drugs</Synonym>
+<Synonym>Anti Rheumatic Drugs</Synonym>
+<Synonym>Antirheumatic Drugs</Synonym>
+<Synonym>Anti-Rheumatic Agents</Synonym>
+<Synonym>Anti Rheumatic Agents</Synonym>
+<Synonym>DMARD</Synonym>
+<Synonym>Disease-Modifying Antirheumatic Drugs</Synonym>
+<Synonym>Disease Modifying Antirheumatic Drugs</Synonym>
+<Synonym>Disease-Modifying Second-Line Drugs</Synonym>
+<Synonym>Disease Modifying Second Line Drugs</Synonym>
+<Description>Drugs that are used to treat RHEUMATOID ARTHRITIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Rifamycin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antitubercular Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antitubercular Agent/Rifamycin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antitubercular Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Rifamycin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Rifamycin</Synonym>
+<Description>A natural antibiotic produced by Streptomyces mediterranei, Rifamycin (Ansamycin Family) is a commonly used antimycobacterial drug that inhibits prokaryotic DNA-dependent RNA synthesis and protein synthesis; it blocks RNA-polymerase transcription initiation. Rifamycin has an activity spectrum against Gram-positive and Gram-negative bacteria, but is mainly used against Mycobacterium sp. (especially M. tuberculosis) in association with other agents to overcome resistance. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,48 @@
+<Record>
+<Term>Drops</Term>
+<SemanticType>Quantitative Concept</SemanticType>
+<ParentTerm>Potency Unit</ParentTerm>
+<ParentTerm>Drop Unit of Volume</ParentTerm>
+<ParentTerm>Pharmaceutical Dosage Form</ParentTerm>
+<ClassificationPath>Properties_or_Attributes_Kind/Property or Attribute/Unit of Measure/Unit by Category/Unit of Volume/Drop Unit of Volume/Metric Drop,/NCIThesaurus/Properties_or_Attributes_Kind/Property or Attribute/Unit of Measure/Unit by Category/Potency Unit/Metric Drop</ClassificationPath>
+<ClassificationPath>Properties_or_Attributes_Kind/Property or Attribute/Unit of Measure/Unit by Category/Unit of Volume/Drop Unit of Volume/Medical Drop</ClassificationPath>
+<ClassificationPath>Equipment_Kind/Diagnostic, Therapeutic, and Research Equipment/Pharmaceutical Dosage Form/Drops</ClassificationPath>
+<BroaderTerm>Medical Drop</BroaderTerm>
+<BroaderTerm>Unit of Measure</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Unit of Volume</BroaderTerm>
+<BroaderTerm>Potency Unit</BroaderTerm>
+<BroaderTerm>Properties_or_Attributes_Kind</BroaderTerm>
+<BroaderTerm>Drop Unit of Volume</BroaderTerm>
+<BroaderTerm>Property or Attribute</BroaderTerm>
+<BroaderTerm>Diagnostic, Therapeutic, and Research Equipment</BroaderTerm>
+<BroaderTerm>Metric Drop</BroaderTerm>
+<BroaderTerm>Drops</BroaderTerm>
+<BroaderTerm>Unit by Category</BroaderTerm>
+<BroaderTerm>Metric Drop,</BroaderTerm>
+<BroaderTerm>Pharmaceutical Dosage Form</BroaderTerm>
+<BroaderTerm>Equipment_Kind</BroaderTerm>
+<ChildTerm>Drops Suspension Dosage Form</ChildTerm>
+<ChildTerm>Reconstituted Oral Drops Dosage Form</ChildTerm>
+<Synonym>Drop Dosing Unit</Synonym>
+<Synonym>Medical Drop</Synonym>
+<Synonym>gt</Synonym>
+<Synonym>Drop</Synonym>
+<Synonym>drop(s)</Synonym>
+<Synonym>Gtt</Synonym>
+<Synonym>X4</Synonym>
+<Synonym>Pharmacist's Drop</Synonym>
+<Synonym>drop</Synonym>
+<Synonym>Metric Drop</Synonym>
+<Synonym>Drops</Synonym>
+<Synonym>Drop Unit</Synonym>
+<Synonym>[drp]</Synonym>
+<Synonym>DROPS</Synonym>
+<Synonym>drops</Synonym>
+<Synonym>gtt</Synonym>
+<Synonym>Drops Dosage Form</Synonym>
+<Description>A liquid preparation which has to be administered in a drop-wise fashion, in doses measured by drops.</Description>
+<Description>A unit of volume used in pharmacy and equal to 0.05 milliliter (20 drops/ml).</Description>
+<Description>A unit of volume equal to approximately 0.08333 milliliter (1 mL = 12 medical drops).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

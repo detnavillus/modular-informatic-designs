@@ -1,0 +1,23 @@
+<Record>
+<Term>Lipodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipid Metabolism Disorders</ParentTerm>
+<ParentTerm>Skin Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Lipodystrophy</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Lipodystrophy</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Lipodystrophy</BroaderTerm>
+<ChildTerm>Lipodystrophy, Familial Partial</ChildTerm>
+<ChildTerm>HIV-Associated Lipodystrophy Syndrome</ChildTerm>
+<ChildTerm>Lipodystrophy, Congenital Generalized</ChildTerm>
+<Synonym>Lipodystrophy</Synonym>
+<Synonym>Lipodystrophies</Synonym>
+<Description>A collection of heterogenous conditions resulting from defective LIPID METABOLISM and characterized by ADIPOSE TISSUE atrophy. Often there is redistribution of body fat resulting in peripheral fat wasting and central adiposity. They include generalized, localized, congenital, and acquired lipodystrophy.</Description>
+<Source>MeSH</Source>
+</Record>

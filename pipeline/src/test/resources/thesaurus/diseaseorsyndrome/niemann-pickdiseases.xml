@@ -1,0 +1,46 @@
+<Record>
+<Term>Niemann-Pick Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Histiocytosis, Non-Langerhans-Cell</ParentTerm>
+<ParentTerm>Sphingolipidoses</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell/Niemann-Pick Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Niemann-Pick Diseases</BroaderTerm>
+<ChildTerm>Niemann-Pick Disease, Type A</ChildTerm>
+<ChildTerm>Niemann-Pick Disease, Type B</ChildTerm>
+<ChildTerm>Niemann-Pick Disease, Type C</ChildTerm>
+<Synonym>Niemann Pick Diseases</Synonym>
+<Synonym>Niemann Pick Disease</Synonym>
+<Synonym>Niemann-Pick Disease</Synonym>
+<Synonym>Niemann-Pick Diseases</Synonym>
+<Description>A group of autosomal recessive disorders in which harmful quantities of lipids accumulate in the viscera and the central nervous system. They can be caused by deficiencies of enzyme activities (SPHINGOMYELIN PHOSPHODIESTERASE) or defects in intracellular transport, resulting in the accumulation of SPHINGOMYELINS and CHOLESTEROL. There are various subtypes based on their clinical and genetic differences.</Description>
+<Source>MeSH</Source>
+</Record>

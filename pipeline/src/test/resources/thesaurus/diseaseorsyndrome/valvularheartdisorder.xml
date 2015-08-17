@@ -1,0 +1,25 @@
+<Record>
+<Term>Valvular Heart Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Leaflet Disruption</ChildTerm>
+<ChildTerm>Valvular Regurgitation</ChildTerm>
+<ChildTerm>Prosthetic Valve Thrombosis</ChildTerm>
+<ChildTerm>Valvular Stenosis</ChildTerm>
+<ChildTerm>Cusp Tear</ChildTerm>
+<ChildTerm>Valvular Insufficiency</ChildTerm>
+<ChildTerm>Mitral Valve Prolapse</ChildTerm>
+<Synonym>Valvular Heart Disorder</Synonym>
+<Description>Any heart disorder characterized by a defect in valve structure or function.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

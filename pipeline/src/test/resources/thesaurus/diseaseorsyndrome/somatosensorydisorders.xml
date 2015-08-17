@@ -1,0 +1,35 @@
+<Record>
+<Term>Somatosensory Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sensation Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Somatosensory Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Somatosensory Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Somatosensory Disorders</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<ChildTerm>Paresthesia</ChildTerm>
+<ChildTerm>Hyperalgesia</ChildTerm>
+<ChildTerm>Hyperesthesia</ChildTerm>
+<ChildTerm>Hypesthesia</ChildTerm>
+<Synonym>Pain Sensation Diminisheds</Synonym>
+<Synonym>Somatic Sensation Disorders</Synonym>
+<Synonym>Somatic Sensation Disorder</Synonym>
+<Synonym>Pinprick Sensation Diminished</Synonym>
+<Synonym>Proprioceptive Disorder</Synonym>
+<Synonym>Pinprick Sensation Diminisheds</Synonym>
+<Synonym>Position Sense Disorders</Synonym>
+<Synonym>Somatosensory Disorder</Synonym>
+<Synonym>Pain Sensation Diminished</Synonym>
+<Synonym>Position Sense Disorder</Synonym>
+<Synonym>Light Touch Sensation Impairment</Synonym>
+<Synonym>Thermal Sensation Disorders</Synonym>
+<Synonym>Somatosensory Disorders</Synonym>
+<Synonym>Thermal Sensation Disorder</Synonym>
+<Synonym>Proprioceptive Disorders</Synonym>
+<Description>Disorders of sensory information received from superficial and deep regions of the body. The somatosensory system conveys neural impulses which pertain to proprioception, tactile sensation, thermal sensation, pressure sensation, and pain. PERIPHERAL NERVOUS SYSTEM DISEASES; SPINAL CORD DISEASES; and BRAIN DISEASES may be associated with impaired or abnormal somatic sensation.</Description>
+<Source>MeSH</Source>
+</Record>

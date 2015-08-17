@@ -1,0 +1,38 @@
+<Record>
+<Term>Inborn Errors Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Amino Acid Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Lysosomal Storage Diseases</ChildTerm>
+<ChildTerm>Purine-Pyrimidine Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Peroxisomal Disorders</ChildTerm>
+<ChildTerm>Amino Acid Transport Disorders, Inborn</ChildTerm>
+<ChildTerm>Cytochrome-c Oxidase Deficiency</ChildTerm>
+<ChildTerm>Carbohydrate Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Steroid Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Progeria</ChildTerm>
+<ChildTerm>Brain Diseases, Metabolic, Inborn</ChildTerm>
+<ChildTerm>Amyloidosis, Familial</ChildTerm>
+<ChildTerm>Metal Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Renal Tubular Transport, Inborn Errors</ChildTerm>
+<ChildTerm>Lipid Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Hyperbilirubinemia, Hereditary</ChildTerm>
+<ChildTerm>Porphyrias</ChildTerm>
+<Synonym>Inborn Errors Metabolisms</Synonym>
+<Synonym>Inborn Metabolism Errors</Synonym>
+<Synonym>Metabolism Inborn Error</Synonym>
+<Synonym>Inborn Errors Metabolism</Synonym>
+<Synonym>Metabolism Inborn Errors</Synonym>
+<Synonym>Inborn Errors of Metabolism</Synonym>
+<Synonym>Inborn Metabolism Error</Synonym>
+<Description>Errors in metabolic processes resulting from inborn genetic mutations that are inherited or acquired in utero.</Description>
+<Source>MeSH</Source>
+</Record>

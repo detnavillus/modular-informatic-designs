@@ -1,0 +1,17 @@
+<Record>
+<Term>Hexyl 5-Aminolevulinate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Photosensitizing Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Photosensitizing Agent/Hexyl 5-Aminolevulinate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Photosensitizing Agent</BroaderTerm>
+<BroaderTerm>Hexyl 5-Aminolevulinate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HAL</Synonym>
+<Synonym>Hexaminolevulinate</Synonym>
+<Synonym>HexvixR</Synonym>
+<Synonym>Hexyl 5-Aminolevulinate</Synonym>
+<Description>The hexyl ester of 5-aminolevulinic acid (ALA) with photodynamic properties. As a precursor of photoactive porphorins, hexyl 5-aminolevulinate induces the endogenous production of the photosensitizer protoporphyrin IX (PPIX) which accumulates selectively in tumor tissue.  When exposed to specific wavelengths of light, PPIX is activated and, depending on the wavelength and/or intensity of light, either fluoresces, thereby allowing tumor imaging, or induces tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

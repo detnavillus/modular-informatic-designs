@@ -1,0 +1,20 @@
+<Record>
+<Term>Rubidium Chloride Rb-82</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Rubidium Chloride Rb-82</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Rubidium Chloride Rb-82</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>RUBIDIUM CHLORIDE RB-82</Synonym>
+<Synonym>Rubidium Chloride Rb-82</Synonym>
+<Synonym>Cardiogen-82</Synonym>
+<Synonym>Rubidium chloride rb-82</Synonym>
+<Description>The chloride salt form of rubidium-82, a positron emitting isotope used as an imaging tool. Rubidium chloride Rb-82 accumulates in myocardial cells and other tissues, and can be evaluated as a function of blood flow. By scintigraphic means, areas with decreased blood flow can be visualized due to decreased uptake of Rb-82.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

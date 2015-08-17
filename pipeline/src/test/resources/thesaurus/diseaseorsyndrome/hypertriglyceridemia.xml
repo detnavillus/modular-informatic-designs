@@ -1,0 +1,31 @@
+<Record>
+<Term>Hypertriglyceridemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Hyperlipidemias</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypertriglyceridemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias/Hypertriglyceridemia</ClassificationPath>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Hypertriglyceridemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<ChildTerm>Hyperlipoproteinemia Type IV</ChildTerm>
+<Synonym>Hypertriglyceridemia</Synonym>
+<Synonym>Hypertriglyceridemic</Synonym>
+<Synonym>Hypertriglyceridemias</Synonym>
+<Description>Hypertriglyceridemia; the condition of elevated triglyceride concentration in the blood.</Description>
+<Description>A condition of elevated levels of TRIGLYCERIDES in the blood.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

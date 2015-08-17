@@ -1,0 +1,15 @@
+<Record>
+<Term>Artificial Saliva</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mouthwashes</ParentTerm>
+<ClassificationPath>Biomedical and Dental Materials/Mouthwashes/Saliva, Artificial</ClassificationPath>
+<ClassificationPath>Technology, Industry, and Agriculture/Manufactured Materials/Biomedical and Dental Materials/Mouthwashes/Saliva, Artificial</ClassificationPath>
+<BroaderTerm>Manufactured Materials</BroaderTerm>
+<BroaderTerm>Technology, Industry, and Agriculture</BroaderTerm>
+<BroaderTerm>Mouthwashes</BroaderTerm>
+<BroaderTerm>Saliva, Artificial</BroaderTerm>
+<BroaderTerm>Biomedical and Dental Materials</BroaderTerm>
+<Synonym>Artificial Saliva</Synonym>
+<Description>A solution used for irrigating the mouth in xerostomia and as a substitute for saliva.</Description>
+<Source>MeSH</Source>
+</Record>

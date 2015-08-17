@@ -1,0 +1,15 @@
+<Record>
+<Term>Delusions</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Delusions</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Delusions</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<Synonym>Delusions</Synonym>
+<Synonym>Delusion</Synonym>
+<Description>A false belief regarding the self or persons or objects outside the self that persists despite the facts, and is not considered tenable by one's associates.</Description>
+<Source>MeSH</Source>
+</Record>

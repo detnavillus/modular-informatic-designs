@@ -1,0 +1,15 @@
+<Record>
+<Term>M A Radiolabeled Anti-BRST Cancer</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A Radiolabeled Anti-BRST Cancer</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>M A Radiolabeled Anti-BRST Cancer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A Radiolabeled Anti-BRST Cancer</Synonym>
+<Description>A radiolabeled monoclonal antibody directed against an antigen expressed by breast cancer cells with potential use in cancer immunodiagnostics and immunotherapy. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

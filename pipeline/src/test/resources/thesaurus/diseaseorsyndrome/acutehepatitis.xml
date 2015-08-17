@@ -1,0 +1,19 @@
+<Record>
+<Term>Acute Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis/Acute Hepatitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Acute Hepatitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hepatitis A Infection</ChildTerm>
+<ChildTerm>Acute Alcoholic Hepatitis</ChildTerm>
+<Synonym>Acute Hepatitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

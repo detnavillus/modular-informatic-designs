@@ -1,0 +1,17 @@
+<Record>
+<Term>Ventral Hernia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Hernia, Abdominal</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Hernia/Hernia, Abdominal/Hernia, Ventral</ClassificationPath>
+<BroaderTerm>Hernia, Abdominal</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Hernia, Ventral</BroaderTerm>
+<BroaderTerm>Hernia</BroaderTerm>
+<ChildTerm>Hernia, Umbilical</ChildTerm>
+<Synonym>Ventral Hernias</Synonym>
+<Synonym>Ventral Hernia</Synonym>
+<Description>A hernia caused by weakness of the anterior ABDOMINAL WALL due to midline defects, previous incisions, or increased intra-abdominal pressure. Ventral hernias include UMBILICAL HERNIA, incisional, epigastric, and spigelian hernias.</Description>
+<Source>MeSH</Source>
+</Record>

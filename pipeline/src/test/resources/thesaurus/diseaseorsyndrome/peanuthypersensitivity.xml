@@ -1,0 +1,17 @@
+<Record>
+<Term>Peanut Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Food Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity/Peanut Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Peanut Hypersensitivity</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Peanut Hypersensitivity</Synonym>
+<Synonym>Groundnut Hypersensitivity</Synonym>
+<Synonym>Peanut Allergy</Synonym>
+<Synonym>Peanut Allergies</Synonym>
+<Description>Allergic reaction to peanuts that is triggered by the immune system.</Description>
+<Source>MeSH</Source>
+</Record>

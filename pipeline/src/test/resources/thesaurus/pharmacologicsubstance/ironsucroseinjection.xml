@@ -1,0 +1,15 @@
+<Record>
+<Term>Iron Sucrose Injection</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Iron Sucrose Injection</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Iron Sucrose Injection</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Iron Sucrose Injection</Synonym>
+<Synonym>Iron Sucrose for Injection</Synonym>
+<Synonym>Venofer</Synonym>
+<Description>A sterile aqueous complex of polynuclear iron (III)-hydroxide in sucrose for intravenous use. Following intravenous administration, iron sucrose is dissociated by the reticuloendothelial system into iron and sucrose; the sucrose component is eliminated mainly by urinary excretion. Iron sucrose can be administered with or without erythropoietin to raise hemoglobin levels and may be used in cases of oral iron therapy intolerance or ineffectiveness. Hypersensitivity reactions are less common with iron sucrose compared to other parenteral iron products, such as iron dextran.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

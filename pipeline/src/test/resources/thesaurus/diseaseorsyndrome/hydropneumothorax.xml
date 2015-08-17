@@ -1,0 +1,13 @@
+<Record>
+<Term>Hydropneumothorax</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Hydropneumothorax</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Hydropneumothorax</BroaderTerm>
+<Synonym>Hydropneumothorax</Synonym>
+<Description>A collection of fluid and gas within the pleural cavity. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

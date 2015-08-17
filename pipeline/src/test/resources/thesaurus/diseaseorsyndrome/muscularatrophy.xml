@@ -1,0 +1,30 @@
+<Record>
+<Term>Muscular Atrophy</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Neuromuscular Manifestations</ParentTerm>
+<ParentTerm>Atrophy</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Atrophy/Muscular Atrophy</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neuromuscular Manifestations/Muscular Atrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neuromuscular Manifestations/Muscular Atrophy</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Neuromuscular Manifestations</BroaderTerm>
+<BroaderTerm>Muscular Atrophy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Atrophy</BroaderTerm>
+<ChildTerm>Sarcopenia</ChildTerm>
+<Synonym>Muscle Atrophies</Synonym>
+<Synonym>Muscular Atrophy</Synonym>
+<Synonym>Neurogenic Muscular Atrophies</Synonym>
+<Synonym>Neurotrophic Muscular Atrophy</Synonym>
+<Synonym>Muscle Atrophy</Synonym>
+<Synonym>Muscular Atrophies</Synonym>
+<Synonym>Neurotrophic Muscular Atrophies</Synonym>
+<Synonym>Neurogenic Muscular Atrophy</Synonym>
+<Description>Derangement in size and number of muscle fibers occurring with aging, reduction in blood supply, or following immobilization, prolonged weightlessness, malnutrition, and particularly in denervation.</Description>
+<Source>MeSH</Source>
+</Record>

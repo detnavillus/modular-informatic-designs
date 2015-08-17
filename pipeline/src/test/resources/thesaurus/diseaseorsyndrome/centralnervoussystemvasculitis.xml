@@ -1,0 +1,39 @@
+<Record>
+<Term>Central Nervous System Vasculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases of the Nervous System</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Vasculitis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Vasculitis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Vasculitis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Vasculitis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Vasculitis, Central Nervous System</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Vasculitis, Central Nervous System</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>AIDS Arteritis, Central Nervous System</ChildTerm>
+<ChildTerm>Lupus Vasculitis, Central Nervous System</ChildTerm>
+<ChildTerm>Giant Cell Arteritis</ChildTerm>
+<Synonym>Postzoster Arteritis</Synonym>
+<Synonym>Central Nervous System Vasculitis</Synonym>
+<Synonym>Primary CNS Vasculitis</Synonym>
+<Synonym>Central Nervous System Angiitis</Synonym>
+<Synonym>Granulomatous Angiitis</Synonym>
+<Synonym>CNS Vasculitis</Synonym>
+<Synonym>Cerebral Angiitis</Synonym>
+<Synonym>Primary Central Nervous System Vasculitis</Synonym>
+<Synonym>Cerebral Vasculitis</Synonym>
+<Synonym>Granulomatous Arteritis</Synonym>
+<Synonym>Secondary CNS Vasculitis</Synonym>
+<Description>Inflammation of blood vessels within the central nervous system. Primary vasculitis is usually caused by autoimmune or idiopathic factors, while secondary vasculitis is caused by existing disease process. Clinical manifestations are highly variable but include HEADACHE; SEIZURES; behavioral alterations; INTRACRANIAL HEMORRHAGES; TRANSIENT ISCHEMIC ATTACK; and BRAIN INFARCTION. (From Adams et al., Principles of Neurology, 6th ed, pp856-61)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Atamestane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Steroidal Aromatase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aromatase Inhibitor/Steroidal Aromatase Inhibitor/Atamestane</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Atamestane</BroaderTerm>
+<BroaderTerm>Steroidal Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Atamestane</Synonym>
+<Synonym>atamestane</Synonym>
+<Description>A synthetic steroidal substance with antineoplastic activity.  Atamestane binds irreversibly to and inhibits the enzyme aromatase, thereby blocking the conversion of cholesterol to pregnenolone and the peripheral aromatization of androgenic precursors into estrogens. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

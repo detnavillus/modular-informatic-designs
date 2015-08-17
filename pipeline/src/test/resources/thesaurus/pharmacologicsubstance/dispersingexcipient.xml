@@ -1,0 +1,17 @@
+<Record>
+<Term>Dispersing Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Dispersing Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Dispersing Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Dispersing</Synonym>
+<Synonym>Dispersing Excipient</Synonym>
+<Synonym>Drug Dispersing Agent</Synonym>
+<Description>An inactive ingredient of the solid pharmaceutical dosage form added to cement the active and inert components of tablets together to maintain cohesive and discrete portions. These are especially important in the production of time-release products. Binders provide the matrix from which the drug is gradually secreted. The commonly used binder excipients in U.S.-manufactured drug products are microcrystalline cellulose and starch.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

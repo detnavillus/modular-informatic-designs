@@ -1,0 +1,32 @@
+<Record>
+<Term>Lichen Planus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lichenoid Eruptions</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Lichenoid Eruptions/Lichen Planus</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Lichen Planus</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Lichenoid Eruptions</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Lichen Planus</BroaderTerm>
+<ChildTerm>Lichen Planus, Oral</ChildTerm>
+<ChildTerm>Hypertrophic Lichen Planus</ChildTerm>
+<ChildTerm>Atrophic Lichen Planus</ChildTerm>
+<ChildTerm>Oral Lichen Planus</ChildTerm>
+<ChildTerm>Bullous Lichen Planus</ChildTerm>
+<Synonym>Lichen Ruber Planus</Synonym>
+<Synonym>Lichen Rubra Planus</Synonym>
+<Synonym>Lichen Planus</Synonym>
+<Description>An inflammatory, pruritic disease of the skin and mucous membranes, which can be either generalized or localized. It is characterized by distinctive purplish, flat-topped papules having a predilection for the trunk and flexor surfaces. The lesions may be discrete or coalesce to form plaques. Histologically, there is a "saw-tooth" pattern of epidermal hyperplasia and vacuolar alteration of the basal layer of the epidermis along with an intense upper dermal inflammatory infiltrate composed predominantly of T-cells. Etiology is unknown.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

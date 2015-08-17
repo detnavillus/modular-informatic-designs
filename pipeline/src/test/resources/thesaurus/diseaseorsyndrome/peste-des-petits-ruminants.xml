@@ -1,0 +1,20 @@
+<Record>
+<Term>Peste-des-Petits-Ruminants</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Morbillivirus Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Morbillivirus Infections/Peste-des-Petits-Ruminants</ClassificationPath>
+<ClassificationPath>Animal Diseases/Peste-des-Petits-Ruminants</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Morbillivirus Infections</BroaderTerm>
+<BroaderTerm>Peste-des-Petits-Ruminants</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Peste des Petits Ruminants</Synonym>
+<Synonym>Pseudorinderpest</Synonym>
+<Synonym>Peste-des-Petits-Ruminants</Synonym>
+<Description>A highly fatal contagious disease of goats and sheep caused by PESTE-DES-PETITS-RUMINANTS VIRUS. The disease may be acute or subacute and is characterized by stomatitis, conjunctivitis, diarrhea, and pneumonia.</Description>
+<Source>MeSH</Source>
+</Record>

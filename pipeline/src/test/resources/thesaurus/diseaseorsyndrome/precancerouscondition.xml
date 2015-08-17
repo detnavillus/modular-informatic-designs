@@ -1,0 +1,20 @@
+<Record>
+<Term>Precancerous Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cancer-Related Condition</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition</ClassificationPath>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Leukoplakia</ChildTerm>
+<ChildTerm>Precancerous Condition by Site</ChildTerm>
+<ChildTerm>Neoplasm of Uncertain Malignant Potential</ChildTerm>
+<Synonym>Precancerous Condition</Synonym>
+<Synonym>Precancerous State</Synonym>
+<Synonym>Premalignant Condition</Synonym>
+<Synonym>Premalignant State</Synonym>
+<Description>A pathological process with signs indicating it may become cancerous.  Representative examples include leukoplakia, dysplastic nevus, actinic keratosis, xeroderma pigmentosum, and intraepithelial neoplasia.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

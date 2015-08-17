@@ -1,0 +1,57 @@
+<Record>
+<Term>Myelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Central Nervous System Infectious Disorder</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ParentTerm>Central Nervous System Viral Diseases</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Myelitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Myelitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Central Nervous System Infectious Disorder/Myelitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Myelitis Adverse Event</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Myelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Myelitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Central Nervous System Infectious Disorder</BroaderTerm>
+<BroaderTerm>Myelitis Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Myelitis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Myelitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Myelitis</ChildTerm>
+<ChildTerm>Paraparesis, Tropical Spastic</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Myelitis</ChildTerm>
+<ChildTerm>Poliomyelitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Myelitis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Myelitis</ChildTerm>
+<ChildTerm>Myelitis, Transverse</ChildTerm>
+<Synonym>Subacute Necrotising Myelitis</Synonym>
+<Synonym>Inflammatory Myelopathies</Synonym>
+<Synonym>Infectious Myelitis</Synonym>
+<Synonym>Myelitis Adverse Event</Synonym>
+<Synonym>Myelitides</Synonym>
+<Synonym>Spinal Cord Inflammations</Synonym>
+<Synonym>Inflammatory Myelopathy</Synonym>
+<Synonym>Myelitis</Synonym>
+<Synonym>Spinal Cord Inflammation</Synonym>
+<Description>Inflammation of the spinal cord. Relatively common etiologies include infections; AUTOIMMUNE DISEASES; SPINAL CORD; and ischemia (see also SPINAL CORD VASCULAR DISEASES). Clinical features generally include weakness, sensory loss, localized pain, incontinence, and other signs of autonomic dysfunction.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Tyrosine Kinase Inhibitor BIBF 1120</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Tyrosine Kinase Inhibitor BIBF 1120</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor BIBF 1120</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BIBF 1120</Synonym>
+<Synonym>Tyrosine Kinase Inhibitor BIBF 1120</Synonym>
+<Description>A potent orally available inhibitor of receptor tyrosine kinases with potential antineoplastic activity. The tyrosine kinase inhibitor BIBF 1120 selectively inhibits the activity of several tyrosine kinase receptors, including vascular endothelial growth factor receptors (VEGFRs), platelet-derived growth factor receptors (PDGFRs), and fibroblast growth factor receptors (FGFRs). This prevents tumor vascularization and tumor cell proliferation, eventually leading to tumor cell death. In addition, this agent inhibits members of the Src family of tyrosine kinases, including Src, Lck, and Lyn, thereby further preventing tumor cell proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Mitochondrial Encephalomyopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mitochondrial Myopathies</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Mitochondrial Encephalomyopathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Mitochondrial Encephalomyopathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Myopathies</BroaderTerm>
+<BroaderTerm>Mitochondrial Encephalomyopathies</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>MERRF Syndrome</ChildTerm>
+<ChildTerm>MELAS Syndrome</ChildTerm>
+<Synonym>Mitochondrial Encephalomyopathy</Synonym>
+<Synonym>Mitochondrial Encephalomyopathies</Synonym>
+<Description>A heterogenous group of disorders characterized by alterations of mitochondrial metabolism that result in muscle and nervous system dysfunction. These are often multisystemic and vary considerably in age at onset (usually in the first or second decade of life), distribution of affected muscles, severity, and course. (From Adams et al., Principles of Neurology, 6th ed, pp984-5)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Leishmaniasis Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Protozoan Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Protozoan Vaccines/Leishmaniasis Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Protozoan Vaccines</BroaderTerm>
+<BroaderTerm>Leishmaniasis Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Leishmaniasis Vaccines</Synonym>
+<Synonym>Leishmania Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with LEISHMANIA.</Description>
+<Source>MeSH</Source>
+</Record>

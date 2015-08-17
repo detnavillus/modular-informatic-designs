@@ -1,0 +1,30 @@
+<Record>
+<Term>Hidradenitis Suppurativa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Suppuration</ParentTerm>
+<ParentTerm>Hidradenitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Hidradenitis Suppurativa</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Hidradenitis Suppurativa</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Hidradenitis Suppurativa</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sweat Gland Diseases/Hidradenitis/Hidradenitis Suppurativa</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Hidradenitis Suppurativa</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Hidradenitis Suppurativa</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Hidradenitis</BroaderTerm>
+<BroaderTerm>Sweat Gland Diseases</BroaderTerm>
+<Synonym>Acne Inversa</Synonym>
+<Synonym>Hidradenitis Suppurativa</Synonym>
+<Synonym>Suppurative Hidradenitis</Synonym>
+<Synonym>Suppurative Hidradenitides</Synonym>
+<Synonym>Acne Inversas</Synonym>
+<Description>A chronic suppurative and cicatricial disease of the apocrine glands occurring chiefly in the axillae in women and in the groin and anal regions in men. It is characterized by poral occlusion with secondary bacterial infection, evolving into abscesses which eventually rupture. As the disease becomes chronic, ulcers appear, sinus tracts enlarge, fistulas develop, and fibrosis and scarring become evident.</Description>
+<Source>MeSH</Source>
+</Record>

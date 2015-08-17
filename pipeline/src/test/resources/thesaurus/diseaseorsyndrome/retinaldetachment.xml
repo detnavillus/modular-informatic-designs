@@ -1,0 +1,42 @@
+<Record>
+<Term>Retinal Detachment</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Retinal Detachment and Defect</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Retinal Detachment Adverse Event</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Detachment</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder/Retinal Detachment and Defect/Retinal Detachment</ClassificationPath>
+<BroaderTerm>Retinal Detachment Adverse Event</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Retinal Detachment</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Retinal Detachment and Defect</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 1 Retinal Detachment</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Retinal Detachment</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Retinal Detachment</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Retinal Detachment</ChildTerm>
+<Synonym>Retinal Detachment</Synonym>
+<Synonym>Retinal Detachment Adverse Event</Synonym>
+<Synonym>Retina, detached</Synonym>
+<Synonym>Retinal Detachments</Synonym>
+<Synonym>Retinal Pigment Epithelial Detachment</Synonym>
+<Synonym>Retinal detachment</Synonym>
+<Synonym>Detached retina</Synonym>
+<Description>Separation of the inner layers of the retina (neural retina) from the pigment epithelium. Retinal detachment occurs more commonly in men than in women, in eyes with degenerative myopia, in aging and in aphakia. It may occur after an uncomplicated cataract extraction, but it is seen more often if vitreous humor has been lost during surgery. (Dorland, 27th ed; Newell, Ophthalmology: Principles and Concepts, 7th ed, p310-12).</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Monoclonal Antibody RAV12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody RAV12</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody RAV12</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Monoclonal Antibody RAV12</Synonym>
+<Synonym>anti-RAAG12 MOAB</Synonym>
+<Description>A chimeric monoclonal antibody directed against a primate-restricted N-linked carbohydrate epitope (glycotope) expressed on various human carcinomas with potential antineoplastic activity. Following binding, monoclonal antibody RAV12 disrupts sodium channels of tumor cells expressing this glycotope, resulting in cell and organelle swelling, loss of membrane integrity, and cell death. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

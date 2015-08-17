@@ -1,0 +1,37 @@
+<Record>
+<Term>Mutism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Speech Disorders</ParentTerm>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Mutism</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Mutism</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Mutism</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Mutism</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<Synonym>Mutisms</Synonym>
+<Synonym>Mutism</Synonym>
+<Synonym>Voluntary Mutisms</Synonym>
+<Synonym>Organic Mutisms</Synonym>
+<Synonym>Kussmaul's Aphasia</Synonym>
+<Synonym>Conversion Mutisms</Synonym>
+<Synonym>Selective Mutism</Synonym>
+<Synonym>Voluntary Mutism</Synonym>
+<Synonym>Kussmauls Aphasia</Synonym>
+<Synonym>Kussmaul Aphasia</Synonym>
+<Synonym>Elective Mutisms</Synonym>
+<Synonym>Conversion Mutism</Synonym>
+<Synonym>Organic Mutism</Synonym>
+<Synonym>Elective Mutism</Synonym>
+<Description>The inability to generate oral-verbal expression, despite normal comprehension of speech. This may be associated with BRAIN DISEASES or MENTAL DISORDERS. Organic mutism may be associated with damage to the FRONTAL LOBE; BRAIN STEM; THALAMUS; and CEREBELLUM. Selective mutism is a psychological condition that usually affects children characterized by continuous refusal to speak in social situations by a child who is able and willing to speak to selected persons. Kussmal aphasia refers to mutism in psychosis. (From Fortschr Neurol Psychiatr 1994; 62(9):337-44)</Description>
+<Source>MeSH</Source>
+</Record>

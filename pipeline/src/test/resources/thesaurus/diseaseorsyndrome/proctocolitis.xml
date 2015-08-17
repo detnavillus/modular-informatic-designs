@@ -1,0 +1,34 @@
+<Record>
+<Term>Proctocolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Proctitis</ParentTerm>
+<ParentTerm>Colitis</ParentTerm>
+<ParentTerm>Sigmoid Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Proctocolitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Sigmoid Diseases/Proctocolitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Proctitis/Proctocolitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Rectal Diseases/Proctitis/Proctocolitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Proctocolitis</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Proctitis</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Sigmoid Diseases</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Rectal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Proctocolitis</BroaderTerm>
+<Synonym>Ulcerative Rectocolitis</Synonym>
+<Synonym>Ulcerative Proctocolitis</Synonym>
+<Synonym>Rectocolitis</Synonym>
+<Synonym>Ulcerative Rectocolitides</Synonym>
+<Synonym>Rectosigmoiditis</Synonym>
+<Synonym>Proctosigmoiditis</Synonym>
+<Synonym>Hemorrhagic Proctocolitis</Synonym>
+<Synonym>Proctocolitis</Synonym>
+<Synonym>Hemorrhagic Rectocolitis</Synonym>
+<Synonym>Ulcerative Proctocolitides</Synonym>
+<Description>Inflammation of the RECTUM and the distal portion of the COLON.</Description>
+<Source>MeSH</Source>
+</Record>

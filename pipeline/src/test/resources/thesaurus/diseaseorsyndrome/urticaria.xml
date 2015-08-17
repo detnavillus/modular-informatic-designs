@@ -1,0 +1,33 @@
+<Record>
+<Term>Urticaria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Hypersensitivity, Immediate</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Urticaria</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Urticaria</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Urticaria</ClassificationPath>
+<BroaderTerm>Urticaria</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Angioedema</ChildTerm>
+<Synonym>Urticarias</Synonym>
+<Synonym>Urticaria</Synonym>
+<Synonym>Hives</Synonym>
+<Description>A vascular reaction of the skin characterized by erythema and wheal formation due to localized increase of vascular permeability. The causative mechanism may be allergy, infection, or stress.</Description>
+<Description>An itchy skin eruption characterized by weals with pale interiors and well-defined red margins; usually the result of an allergic response to insect bites or food or drugs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

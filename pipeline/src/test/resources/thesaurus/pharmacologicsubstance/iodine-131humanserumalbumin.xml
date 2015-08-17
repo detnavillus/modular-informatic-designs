@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine-131 Human Serum Albumin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Iodine-131 Human Serum Albumin</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Iodine-131 Human Serum Albumin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I 131 HSA</Synonym>
+<Synonym>Iodine-131 Human Serum Albumin</Synonym>
+<Description>A synthetic radiopharmaceutical in which human serum albumin (HSA) is radiolabelled with iodine 131.  Upon intravenous injection, iodine-131 human serum albumin is slowly deiodinated in vivo, releasing radioactive iodide that is taken up by thyroid gland.  Iodine-131 primarily emits beta particles and has a half-life of 8 days. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

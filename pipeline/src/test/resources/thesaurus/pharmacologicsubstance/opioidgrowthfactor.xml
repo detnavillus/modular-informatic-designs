@@ -1,0 +1,17 @@
+<Record>
+<Term>Opioid Growth Factor</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Angiogenesis Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Miscellaneous Angiogenesis Inhibitor/Opioid Growth Factor</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Opioid Growth Factor</BroaderTerm>
+<BroaderTerm>Miscellaneous Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>OGF</Synonym>
+<Synonym>Opioid Growth Factor</Synonym>
+<Description>An endogenous pentapeptide with potential antineoplastic and antiangiogenic activities. Opioid growth factor (OGF) binds to and activates the OGF receptor, present on some tumor cells and vascular cells, thereby inhibiting tumor cell proliferation and angiogenesis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

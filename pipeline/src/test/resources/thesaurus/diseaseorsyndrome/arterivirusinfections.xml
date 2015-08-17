@@ -1,0 +1,15 @@
+<Record>
+<Term>Arterivirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nidovirales Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Arterivirus Infections</ClassificationPath>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arterivirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Porcine Reproductive and Respiratory Syndrome</ChildTerm>
+<Synonym>Arterivirus Infections</Synonym>
+<Synonym>Arterivirus Infection</Synonym>
+<Description>Infections caused by viruses of the genus ARTERIVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

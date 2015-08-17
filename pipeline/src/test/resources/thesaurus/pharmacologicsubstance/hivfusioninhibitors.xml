@@ -1,0 +1,22 @@
+<Record>
+<Term>HIV Fusion Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-HIV Agents</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents/Anti-Retroviral Agents/Anti-HIV Agents/HIV Fusion Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/HIV Fusion Inhibitors</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>HIV Fusion Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-HIV Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Anti-Retroviral Agents</BroaderTerm>
+<Synonym>HIV Entry Inhibitors</Synonym>
+<Synonym>HIV Fusion Inhibitors</Synonym>
+<Synonym>HIV Cell Fusion Inhibitors</Synonym>
+<Description>Inhibitors of the fusion of HIV to host cells, preventing viral entry. This includes compounds that block attachment of HIV ENVELOPE PROTEIN GP120 to CD4 RECEPTORS.</Description>
+<Source>MeSH</Source>
+</Record>

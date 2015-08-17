@@ -1,0 +1,20 @@
+<Record>
+<Term>Puerperal Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications, Infectious</ParentTerm>
+<ParentTerm>Puerperal Disorders</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Puerperal Disorders/Puerperal Infection</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy Complications, Infectious/Puerperal Infection</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Pregnancy Complications, Infectious/Puerperal Infection</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pregnancy Complications, Infectious</BroaderTerm>
+<BroaderTerm>Puerperal Disorders</BroaderTerm>
+<BroaderTerm>Puerperal Infection</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Puerperal Infection</Synonym>
+<Synonym>Puerperal Infections</Synonym>
+<Description>An infection occurring in PUERPERIUM, the period of 6-8 weeks after giving birth.</Description>
+<Source>MeSH</Source>
+</Record>

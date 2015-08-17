@@ -1,0 +1,16 @@
+<Record>
+<Term>Hsp90 Inhibitor SNX-5542</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Heat Shock Protein Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Heat Shock Protein Inhibitor/Hsp90 Inhibitor SNX-5542 Mesylate</ClassificationPath>
+<BroaderTerm>Hsp90 Inhibitor SNX-5542 Mesylate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Heat Shock Protein Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hsp90 Inhibitor SNX-5542 Mesylate</Synonym>
+<Synonym>SNX-5422 Mesylate</Synonym>
+<Description>The orally bioavailable mesylate salt of a synthetic prodrug targeting the human heat-shock protein 90 (Hsp90) with potential antineoplastic activity. Although the mechanism of action remains to be fully elucidated, Hsp90 inhibitor SNX-5542 is rapidly converted to SNX-2112, which accumulates in tumors relative to normal tissues. SNX-2112 inhibits Hsp90, which may result in the proteasomal degradation of oncogenic client proteins, including HER2/ERBB2, and the inhibition of tumor cell proliferation. Hsp90 is a molecular chaperone that plays a key role in the conformational maturation of oncogenic signaling proteins, such as HER2/ERBB2, AKT, RAF1, BCR-ABL, and mutated p53, as well as many other molecules that are important in cell cycle regulation or immune responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,14 @@
+<Record>
+<Term>GX015-070</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/GX015-070</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>GX015-070</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>GX015-070</Synonym>
+<Description>A small molecule and a pan-inhibitor of Bcl-2 family proteins, with pro-apoptotic activity. GX015-070 is a selective antagonist of the BH3-binding groove of the Bcl-2 family proteins, which are frequently overexpressed in cancers including chronic lymphocytic leukemia (CLL). This agent induces/restores apoptosis in cancer cells by inhibiting apoptosis suppressors in multiple members of the Bcl-2 family simultaneously.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

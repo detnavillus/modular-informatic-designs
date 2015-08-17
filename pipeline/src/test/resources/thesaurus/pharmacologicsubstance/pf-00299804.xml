@@ -1,0 +1,17 @@
+<Record>
+<Term>PF-00299804</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor/PF-00299804</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>PF-00299804</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>PF-00299804</Synonym>
+<Description>A highly selective, orally bioavailable small-molecule inhibitor of the HER family of tyrosine kinases with potential antineoplastic activity. PF-00299804 specifically and irreversibly binds to and inhibits human Her-1, Her-2, and Her-4, resulting in the proliferation inhibition and apoptosis of tumor cells that overexpress these receptors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

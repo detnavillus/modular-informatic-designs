@@ -1,0 +1,18 @@
+<Record>
+<Term>Retrovector Encoding Mutant Anti-Cyclin G1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Retrovector Encoding Mutant Anti-Cyclin G1</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Retrovector Encoding Mutant Anti-Cyclin G1</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Mx-dnG1</Synonym>
+<Synonym>REXIN-G</Synonym>
+<Synonym>Retrovector Encoding Mutant Anti-Cyclin G1</Synonym>
+<Description>A replication-incompetent, pathotropic, tumor matrix (collagen)-targeted, retroviral vector encoding an N-terminal deletion mutant form of the cyclin G1 gene with potential antineoplastic activity. Under the control of a hybrid long-terminal repeat/cytomegalovirus (CMV) promoter, retrovector encoding mutant anti-cyclin G expresses the mutant cyclin G1 construct, resulting in disruption of tumor cell cyclin G1 activity and decreased cellular proliferation and angiogenesis. This agent preferentially targets collagen of the tumor matrix because of the incorporation of the collagen-binding domain of von Willebrand factor (vWF) on the retrovector surface. Exploiting the collagen-targeting mechanism of vWF permits delivery of the retrovector to tumor sites where angiogenesis and collagen matrix exposure occur.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

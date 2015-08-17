@@ -1,0 +1,19 @@
+<Record>
+<Term>Clostridium Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Clostridium Infections</ClassificationPath>
+<BroaderTerm>Clostridium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Botulism</ChildTerm>
+<ChildTerm>Enterocolitis, Pseudomembranous</ChildTerm>
+<ChildTerm>Enterotoxemia</ChildTerm>
+<ChildTerm>Tetanus</ChildTerm>
+<ChildTerm>Gas Gangrene</ChildTerm>
+<Synonym>Clostridium Infections</Synonym>
+<Synonym>Clostridium Infection</Synonym>
+<Description>Infections with bacteria of the genus CLOSTRIDIUM.</Description>
+<Source>MeSH</Source>
+</Record>

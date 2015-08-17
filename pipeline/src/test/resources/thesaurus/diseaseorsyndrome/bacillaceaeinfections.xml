@@ -1,0 +1,15 @@
+<Record>
+<Term>Bacillaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Bacillaceae Infections</ClassificationPath>
+<BroaderTerm>Bacillaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Anthrax</ChildTerm>
+<Synonym>Bacillaceae Infections</Synonym>
+<Synonym>Bacillaceae Infection</Synonym>
+<Description>Infections with bacteria of the family BACILLACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

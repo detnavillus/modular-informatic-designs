@@ -1,0 +1,31 @@
+<Record>
+<Term>Renal Glycosuria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Tubular Transport, Inborn Errors</ParentTerm>
+<ParentTerm>Glycosuria</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Glycosuria/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Glycosuria/Glycosuria, Renal</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Glycosuria/Glycosuria, Renal</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Glycosuria</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Renal Tubular Transport, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Glycosuria, Renal</BroaderTerm>
+<Synonym>Renal Glycosuria</Synonym>
+<Description>An autosomal inherited disorder due to defective reabsorption of GLUCOSE by the PROXIMAL RENAL TUBULES. The urinary loss of glucose can reach beyond 50 g/day. It is attributed to the mutations in the SODIUM-GLUCOSE TRANSPORTER 2 encoded by the SLC5A2 gene.</Description>
+<Source>MeSH</Source>
+</Record>

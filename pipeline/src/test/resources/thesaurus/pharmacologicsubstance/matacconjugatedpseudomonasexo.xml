@@ -1,0 +1,15 @@
+<Record>
+<Term>M A TAC Conjugated Pseudomonas EXO</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A TAC Conjugated Pseudomonas EXO</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>M A TAC Conjugated Pseudomonas EXO</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A TAC Conjugated Pseudomonas EXO</Synonym>
+<Description>An immunotoxin consisting of the monoclonal antibody anti-Tac directed against the interleukin 2 receptor (also known as IL-2R or CD25) conjugated to a derivative of the pseudomonas exotoxin.  M A Tac conjugated pseudomonas exo is cytotoxic against T lymphocytes that express IL-2R. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

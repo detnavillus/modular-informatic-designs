@@ -1,0 +1,23 @@
+<Record>
+<Term>Iridocorneal Endothelial Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Iris Diseases</ParentTerm>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Iris Diseases/Iridocorneal Endothelial Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Iridocorneal Endothelial Syndrome</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Iris Diseases</BroaderTerm>
+<BroaderTerm>Iridocorneal Endothelial Syndrome</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Dystrophy Endothelial Cornea</Synonym>
+<Synonym>Iridocorneal Endothelial Syndrome</Synonym>
+<Synonym>Chandlers Syndrome</Synonym>
+<Synonym>Chandler's Syndrome</Synonym>
+<Synonym>Dystrophy Endothelial Corneas</Synonym>
+<Synonym>Iris Atrophy with Corneal Edema and Glaucoma</Synonym>
+<Synonym>Iridocorneal Endothelial Syndromes</Synonym>
+<Synonym>Chandler Syndrome</Synonym>
+<Description>A grouping of three closely linked conditions: iris nevus (or Cogan-Reese) syndrome, Chandler Syndrome, and essential (progressive) iris atrophy. The most common features of this syndrome are the movement of endothelial cells off the cornea onto the iris leading to corneal swelling, distortion of the iris, and variable degrees of distortion of the pupil. The abnormal cell movement plugs fluid outflow channels of the eye causing GLAUCOMA.</Description>
+<Source>MeSH</Source>
+</Record>

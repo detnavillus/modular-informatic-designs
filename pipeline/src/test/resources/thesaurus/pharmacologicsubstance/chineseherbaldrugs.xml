@@ -1,0 +1,19 @@
+<Record>
+<Term>Chinese Herbal Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Plant Extracts</ParentTerm>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Drugs, Chinese Herbal</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Plant Preparations/Plant Extracts/Drugs, Chinese Herbal</ClassificationPath>
+<BroaderTerm>Plant Extracts</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Drugs, Chinese Herbal</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Plant Preparations</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Chinese Herbal Drugs</Synonym>
+<Synonym>Chinese Plant Extracts</Synonym>
+<Description>Chinese herbal or plant extracts which are used as drugs to treat diseases or promote general well-being. The concept does not include synthesized compounds manufactured in China.</Description>
+<Source>MeSH</Source>
+</Record>

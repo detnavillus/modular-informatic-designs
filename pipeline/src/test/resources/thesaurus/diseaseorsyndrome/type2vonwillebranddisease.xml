@@ -1,0 +1,31 @@
+<Record>
+<Term>Type 2 von Willebrand Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>von Willebrand Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/von Willebrand Diseases/von Willebrand Disease, Type 2</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/von Willebrand Diseases/von Willebrand Disease, Type 2</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/von Willebrand Diseases/von Willebrand Disease, Type 2</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/von Willebrand Diseases/von Willebrand Disease, Type 2</ClassificationPath>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>von Willebrand Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>von Willebrand Disease, Type 2</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Type IIM von Willebrand Disease</Synonym>
+<Synonym>Type 2A von Willebrand Disease</Synonym>
+<Synonym>Type IIA von Willebrand Disease</Synonym>
+<Synonym>Type 2N von Willebrand Disease</Synonym>
+<Synonym>Type IIN von Willebrand Disease</Synonym>
+<Synonym>Type 2M von Willebrand Disease</Synonym>
+<Synonym>Type IIB von Willebrand Disease</Synonym>
+<Synonym>Type II von Willebrand Disease</Synonym>
+<Synonym>Type 2B von Willebrand Disease</Synonym>
+<Synonym>Type 2 von Willebrand Disease</Synonym>
+<Description>A subtype of von Willebrand disease that results from qualitative deficiencies of VON WILLEBRAND FACTOR. The subtype is divided into several variants with each variant having a distinctive pattern of PLATELET-interaction.</Description>
+<Source>MeSH</Source>
+</Record>

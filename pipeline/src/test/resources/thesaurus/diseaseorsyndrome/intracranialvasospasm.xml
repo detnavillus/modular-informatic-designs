@@ -1,0 +1,30 @@
+<Record>
+<Term>Intracranial Vasospasm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Vasospasm, Intracranial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Vasospasm, Intracranial</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Vasospasm, Intracranial</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Cerebrovascular Spasms</Synonym>
+<Synonym>Cerebral Vasospasms</Synonym>
+<Synonym>Cerebral Angiospasms</Synonym>
+<Synonym>Intracranial Vasospasms</Synonym>
+<Synonym>Cerebral Artery Spasm</Synonym>
+<Synonym>Cerebral Artery Spasms</Synonym>
+<Synonym>Intracranial Angiospasms</Synonym>
+<Synonym>Intracranial Vasospasm</Synonym>
+<Synonym>Intracranial Angiospasm</Synonym>
+<Synonym>Intracranial Vascular Spasm</Synonym>
+<Synonym>Cerebral Vasospasm</Synonym>
+<Synonym>Cerebrovascular Spasm</Synonym>
+<Synonym>Intracranial Vascular Spasms</Synonym>
+<Synonym>Cerebral Angiospasm</Synonym>
+<Description>Constriction of arteries in the SKULL due to sudden, sharp, and often persistent smooth muscle contraction in blood vessels. Intracranial vasospasm results in reduced vessel lumen caliber, restricted blood flow to the brain, and BRAIN ISCHEMIA that may lead to hypoxic-ischemic brain injury (HYPOXIA-ISCHEMIA, BRAIN).</Description>
+<Source>MeSH</Source>
+</Record>

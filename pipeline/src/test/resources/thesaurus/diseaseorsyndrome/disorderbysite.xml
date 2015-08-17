@@ -1,0 +1,28 @@
+<Record>
+<Term>Disorder by Site</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Vision Disorder</ChildTerm>
+<ChildTerm>Gastrointestinal Disorder</ChildTerm>
+<ChildTerm>Cardiovascular Disorder</ChildTerm>
+<ChildTerm>Reproductive System Disorder</ChildTerm>
+<ChildTerm>Peritoneal and Retroperitoneal Disorder</ChildTerm>
+<ChildTerm>Head and Neck Disorder</ChildTerm>
+<ChildTerm>Hematopoietic and Lymphoid System Disorder</ChildTerm>
+<ChildTerm>Eye Disorder</ChildTerm>
+<ChildTerm>Respiratory and Thoracic Disorder</ChildTerm>
+<ChildTerm>Connective and Soft Tissue Disorder</ChildTerm>
+<ChildTerm>Urinary System Disorder</ChildTerm>
+<ChildTerm>Skin Disorder</ChildTerm>
+<ChildTerm>Nervous System Disorder</ChildTerm>
+<ChildTerm>Endocrine Disorder</ChildTerm>
+<ChildTerm>Breast Disorder</ChildTerm>
+<Synonym>Disease by Site</Synonym>
+<Synonym>Disorder by Site</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Precancerous Condition by Site</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Precancerous Condition</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site</ClassificationPath>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Urinary Tract Precancerous Condition</ChildTerm>
+<ChildTerm>Head and Neck Precancerous Condition</ChildTerm>
+<ChildTerm>Pulmonary Precancerous Condition</ChildTerm>
+<ChildTerm>Female Reproductive System Precancerous Condition</ChildTerm>
+<ChildTerm>Gastrointestinal Precancerous Condition</ChildTerm>
+<ChildTerm>Male Reproductive System Precancerous Condition</ChildTerm>
+<ChildTerm>Cutaneous Precancerous Condition</ChildTerm>
+<Synonym>Precancerous Condition by Site</Synonym>
+<Synonym>Premalignant Condition by Site</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

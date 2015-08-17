@@ -1,0 +1,49 @@
+<Record>
+<Term>Bacillary Angiomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Angiomatosis</ParentTerm>
+<ParentTerm>Reactive Vascular Proliferation</ParentTerm>
+<ParentTerm>Bartonella Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Reactive Vascular Proliferation/Bacillary Angiomatosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Angiomatosis/Angiomatosis, Bacillary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bartonellaceae Infections/Bartonella Infections/Angiomatosis, Bacillary</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Angiomatosis, Bacillary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Angiomatosis, Bacillary</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Angiomatosis, Bacillary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Angiomatosis, Bacillary</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Angiomatosis</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Bacillary Angiomatosis</BroaderTerm>
+<BroaderTerm>Bartonella Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Bartonellaceae Infections</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Reactive Vascular Proliferation</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Angiomatosis, Bacillary</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<Synonym>Bacillary Epithelioid Angiomatosis</Synonym>
+<Synonym>Bacillary Angiomatosis</Synonym>
+<Synonym>Epithelioid Angiomatoses</Synonym>
+<Synonym>Epithelioid Angiomatosis</Synonym>
+<Synonym>Bacillary Angiomatoses</Synonym>
+<Synonym>Bacillary Epithelioid Angiomatoses</Synonym>
+<Description>A reactive vascular proliferation that is characterized by the multiple tumor-like lesions in skin, bone, brain, and other organs. Bacillary angiomatosis is caused by infection with gram-negative Bartonella bacilli (such as BARTONELLA HENSELAE), and is often seen in AIDS patients and other IMMUNOCOMPROMISED HOSTS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

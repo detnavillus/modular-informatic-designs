@@ -1,0 +1,25 @@
+<Record>
+<Term>Frovatriptan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Frovatriptan Succinate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Frovatriptan</ClassificationPath>
+<BroaderTerm>Frovatriptan</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Serotonin Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Frovatriptan Succinate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Frovatriptan</Synonym>
+<Synonym>1H-Carbazole-6-carboxamide, 2,3,4,9-tetrahydro-3-(methylamino)-,(3R)-, Butanedioate(1:1)</Synonym>
+<Synonym>Frova</Synonym>
+<Synonym>FROVATRIPTAN</Synonym>
+<Synonym>Frovatriptan Succinate</Synonym>
+<Synonym>Frovatriptan succinate</Synonym>
+<Synonym>FROVATRIPTAN SUCCINATE</Synonym>
+<Description>The succinate salt form of frovatriptan, a synthetic triptan with serotonin (5-HT) receptor agonist activity. Frovatriptan succinate binds selectively and with high affinity to 5-HT 1B and presynaptic 5-HT 1D receptors in the extracerebral and intracranial arteries. This leads to an inhibition of serotonin activity and results in vasoconstriction of the painfully dilated blood vessels during migraine attack. Frovatriptan succinate is indicated for the acute treatment of migraine. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

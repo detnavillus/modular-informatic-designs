@@ -1,0 +1,46 @@
+<Record>
+<Term>Immunoconjugate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Response Modifier</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Anti-EpCAM-Pseudomonas-exotoxin Fusion Protein</ChildTerm>
+<ChildTerm>Chelate-Monoclonal Antibody B72.3</ChildTerm>
+<ChildTerm>Conjugated Monoclonal Antibody CC49</ChildTerm>
+<ChildTerm>Tucotuzumab Celmoleukin</ChildTerm>
+<ChildTerm>ZD2767</ChildTerm>
+<ChildTerm>2IT-BAD Monoclonal Antibody 170</ChildTerm>
+<ChildTerm>Anti-CD30 Monoclonal Antibody-MMAE SGN-35</ChildTerm>
+<ChildTerm>Immunotoxin</ChildTerm>
+<ChildTerm>Hu14.18-IL2 Fusion Protein</ChildTerm>
+<ChildTerm>B43-Genistein Immunoconjugate</ChildTerm>
+<ChildTerm>PNU-214565</ChildTerm>
+<ChildTerm>Capromab Pendetide</ChildTerm>
+<ChildTerm>Progenipoietin</ChildTerm>
+<ChildTerm>BR96-Doxorubicin Immunoconjugate</ChildTerm>
+<ChildTerm>Recombinant Human CD4 Immunoglobulin</ChildTerm>
+<ChildTerm>Radioimmunoconjugate</ChildTerm>
+<ChildTerm>Prostatic Acid Phosphatase-Sargramostim Fusion Protein</ChildTerm>
+<ChildTerm>IL-2 Recombinant Fusion Protein ALT-801</ChildTerm>
+<ChildTerm>CC-49:218 sFv</ChildTerm>
+<ChildTerm>BB-10901</ChildTerm>
+<ChildTerm>huBC1-huIL12 Fusion Protein AS1409</ChildTerm>
+<ChildTerm>FVII Icon</ChildTerm>
+<ChildTerm>Ibritumomab Tiuxetan</ChildTerm>
+<ChildTerm>CD20-targeted Polypeptide TRU-015</ChildTerm>
+<ChildTerm>Sialyl Lewis-Keyhole Limpet Hemocyanin Conjugate Vaccine</ChildTerm>
+<ChildTerm>Abatacept</ChildTerm>
+<ChildTerm>Anti-EpCAM Antibody Fragment-Bouganin Fusion Protein</ChildTerm>
+<ChildTerm>MLN2704</ChildTerm>
+<ChildTerm>D1:3-Mage-3-His Fusion Protein</ChildTerm>
+<ChildTerm>Anti-Carcinoembryonic Antigen Antibody-Carboxypeptidase G2 Fusion Protein MFECP1</ChildTerm>
+<ChildTerm>MOAB B-3-CHX-A-DTPA</ChildTerm>
+<ChildTerm>ImmunoCyt</ChildTerm>
+<Synonym>Icon</Synonym>
+<Synonym>Immunoconjugate</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Anaplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anaplasmataceae Infections</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Anaplasmosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Anaplasmosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Anaplasmataceae Infections/Anaplasmosis</ClassificationPath>
+<BroaderTerm>Anaplasmataceae Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Anaplasmosis</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Anaplasmoses</Synonym>
+<Synonym>Anaplasmosis</Synonym>
+<Description>A disease of cattle caused by parasitization of the red blood cells by bacteria of the genus ANAPLASMA.</Description>
+<Source>MeSH</Source>
+</Record>

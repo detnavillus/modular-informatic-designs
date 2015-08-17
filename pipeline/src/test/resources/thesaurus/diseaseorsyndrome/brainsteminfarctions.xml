@@ -1,0 +1,34 @@
+<Record>
+<Term>Brain Stem Infarctions</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Infarction</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Brain Stem Infarctions</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Brain Stem Infarctions</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Brain Stem Infarctions</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Brain Stem Infarctions</ClassificationPath>
+<BroaderTerm>Brain Stem Infarctions</BroaderTerm>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<ChildTerm>Lateral Medullary Syndrome</ChildTerm>
+<Synonym>Brain Stem Infarctions</Synonym>
+<Synonym>Brainstem Infarctions</Synonym>
+<Synonym>Millard Gublar Syndrome</Synonym>
+<Synonym>Brainstem Stroke</Synonym>
+<Synonym>Brain Stem Infarction</Synonym>
+<Synonym>Weber Syndrome</Synonym>
+<Synonym>Benedict Syndrome</Synonym>
+<Synonym>Claude Syndrome</Synonym>
+<Synonym>Foville Syndrome</Synonym>
+<Synonym>Millard-Gublar Syndrome</Synonym>
+<Synonym>Top of the Basilar Syndrome</Synonym>
+<Synonym>Brainstem Infarction</Synonym>
+<Description>Infarctions that occur in the BRAIN STEM which is comprised of the MIDBRAIN; PONS; and MEDULLA OBLONGATA. There are several named syndromes characterized by their distinctive clinical manifestations and specific sites of ischemic injury.</Description>
+<Source>MeSH</Source>
+</Record>

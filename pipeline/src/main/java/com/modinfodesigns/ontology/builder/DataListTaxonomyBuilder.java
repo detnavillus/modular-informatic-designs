@@ -75,7 +75,6 @@ public class DataListTaxonomyBuilder implements ITaxonomyBuilder, IDataObjectPro
   private HashMap<String,ArrayList<DataObject>> parentIDMap = new HashMap<String,ArrayList<DataObject>>( );
   private ArrayList<DataObject> orphans = new ArrayList<DataObject>( );
     
-    
   @Override
   public ITaxonomyNode buildTaxonomy( DataObject context )
   {

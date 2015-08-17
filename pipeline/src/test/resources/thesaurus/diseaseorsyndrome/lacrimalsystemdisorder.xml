@@ -1,0 +1,16 @@
+<Record>
+<Term>Lacrimal System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Lacrimal System Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lacrimal System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Dacryoadenitis</ChildTerm>
+<ChildTerm>Dacryocystitis</ChildTerm>
+<Synonym>Lacrimal System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

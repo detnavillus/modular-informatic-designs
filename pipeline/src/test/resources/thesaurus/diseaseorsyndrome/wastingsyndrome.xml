@@ -1,0 +1,19 @@
+<Record>
+<Term>Wasting Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ParentTerm>Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Wasting Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Wasting Syndrome</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Wasting Syndrome</BroaderTerm>
+<ChildTerm>HIV Wasting Syndrome</ChildTerm>
+<Synonym>Wasting Disease</Synonym>
+<Synonym>Wasting Syndromes</Synonym>
+<Synonym>Wasting Syndrome</Synonym>
+<Synonym>Wasting Diseases</Synonym>
+<Description>A condition of involuntary weight loss of greater then 10% of baseline body weight. It is characterized by atrophy of muscles and depletion of lean body mass. Wasting is a sign of MALNUTRITION as a result of inadequate dietary intake, malabsorption, or hypermetabolism.</Description>
+<Source>MeSH</Source>
+</Record>

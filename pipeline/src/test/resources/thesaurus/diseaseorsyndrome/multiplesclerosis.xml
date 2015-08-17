@@ -1,0 +1,40 @@
+<Record>
+<Term>Multiple Sclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Demyelinating Autoimmune Diseases, CNS</ParentTerm>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Multiple Sclerosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Multiple Sclerosis</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis</ClassificationPath>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis,</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis</BroaderTerm>
+<ChildTerm>Multiple Sclerosis, Relapsing-Remitting</ChildTerm>
+<ChildTerm>Multiple Sclerosis, Chronic Progressive</ChildTerm>
+<ChildTerm>Neuromyelitis Optica</ChildTerm>
+<Synonym>Disseminated Sclerosis</Synonym>
+<Synonym>MS (Multiple Sclerosis)</Synonym>
+<Synonym>multiple sclerosis</Synonym>
+<Synonym>Multiple Sclerosis</Synonym>
+<Description>An autoimmune disorder mainly affecting young adults and characterized by destruction of myelin in the central nervous system. Pathologic findings include multiple sharply demarcated areas of demyelination throughout the white matter of the central nervous system. Clinical manifestations include visual loss, extra-ocular movement disorders, paresthesias, loss of sensation, weakness, dysarthria, spasticity, ataxia, and bladder dysfunction. The usual pattern is one of recurrent attacks followed by partial recovery (see MULTIPLE SCLEROSIS, RELAPSING-REMITTING), but acute fulminating and chronic progressive forms (see MULTIPLE SCLEROSIS, CHRONIC PROGRESSIVE) also occur. (Adams et al., Principles of Neurology, 6th ed, p903)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,32 @@
+<Record>
+<Term>Quetiapine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antipsychotic Agent/Quetiapine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Antagonist/Quetiapine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antipsychotic Agent/Quetiapine Fumarate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Antagonist/Quetiapine Fumarate</ClassificationPath>
+<BroaderTerm>Quetiapine Fumarate</BroaderTerm>
+<BroaderTerm>Quetiapine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Quetiapine Fumarate,</BroaderTerm>
+<BroaderTerm>Quetiapine,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antipsychotic Agent</BroaderTerm>
+<BroaderTerm>Serotonin Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ethanol, 2-(2-(4-dibenzo(b,f)(1,4)thiazepin-11-yl-1-piperazinyl)ethoxy)-,(E)-2-butenedioate(2:1)(salt)</Synonym>
+<Synonym>QUETIAPINE FUMARATE</Synonym>
+<Synonym>Quetiapine Fumarate</Synonym>
+<Synonym>Quetiapine</Synonym>
+<Synonym>Quetiapine fumarate</Synonym>
+<Synonym>QUETIAPINE</Synonym>
+<Synonym>Seroquel xr</Synonym>
+<Synonym>Seroquel XR</Synonym>
+<Synonym>Seroquel</Synonym>
+<Description>The fumarate salt form of quetiapine, a dibenzothiazepine derivative with antipsychotic property. Quetiapine fumarate antagonizes serotonin activity mediated by 5-HT 1A and 5-HT2 receptors. With a lower affinity, this agent also reversibly binds to dopamine D1 and D2 receptors in the mesolimbic and mesocortical areas of the brain leading to decreased psychotic effects, such as hallucinations and delusions. In addition, quetiapine fumarate also binds to other alpha-1, alpha-2 adrenergic and histamine H1 receptors.</Description>
+<Description>A dibenzothiazepine derivative with antipsychotic property. Quetiapine fumarate antagonizes serotonin activity mediated by 5-HT 1A and 5-HT2 receptors. With a lower affinity, this agent also reversibly binds to dopamine D1 and D2 receptors in the mesolimbic and mesocortical areas of the brain leading to decreased psychotic effects, such as hallucinations and delusions. In addition, quetiapine also binds to other alpha-1, alpha-2 adrenergic and histamine H1 receptors.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

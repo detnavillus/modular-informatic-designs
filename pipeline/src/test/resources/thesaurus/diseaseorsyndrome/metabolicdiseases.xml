@@ -1,0 +1,50 @@
+<Record>
+<Term>Metabolic Diseases</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Special Category</ParentTerm>
+<ParentTerm>Nutritional and Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Malabsorption Syndromes</ChildTerm>
+<ChildTerm>Skin Diseases, Metabolic</ChildTerm>
+<ChildTerm>Phosphorus Metabolism Disorders</ChildTerm>
+<ChildTerm>Calcium Metabolism Disorders</ChildTerm>
+<ChildTerm>Nutritional Disorder</ChildTerm>
+<ChildTerm>Wasting Syndrome</ChildTerm>
+<ChildTerm>Water-Electrolyte Imbalance</ChildTerm>
+<ChildTerm>Gout</ChildTerm>
+<ChildTerm>Lipid Metabolism Disorders</ChildTerm>
+<ChildTerm>Pseudogout</ChildTerm>
+<ChildTerm>Acid-Base Imbalance</ChildTerm>
+<ChildTerm>Brain Diseases, Metabolic</ChildTerm>
+<ChildTerm>Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Metabolic Syndrome X</ChildTerm>
+<ChildTerm>Proteostasis Deficiencies</ChildTerm>
+<ChildTerm>Mitochondrial Diseases</ChildTerm>
+<ChildTerm>Porphyrias</ChildTerm>
+<ChildTerm>DNA Repair-Deficiency Disorders</ChildTerm>
+<ChildTerm>Glucose Metabolism Disorders</ChildTerm>
+<ChildTerm>Emaciation</ChildTerm>
+<ChildTerm>Congenital Metabolic Disorder</ChildTerm>
+<ChildTerm>Electrolyte Disorder</ChildTerm>
+<ChildTerm>Iron Metabolism Disorders</ChildTerm>
+<Synonym>Metabolic Diseases</Synonym>
+<Synonym>Metabolic Disease</Synonym>
+<Synonym>Thesaurismosis</Synonym>
+<Synonym>Thesaurismoses</Synonym>
+<Synonym>metabolic disorder</Synonym>
+<Synonym>Metabolic Disorder</Synonym>
+<Description>A congenital (due to inherited enzyme abnormality) or acquired (due to failure of a metabolic important organ) disorder resulting from an abnormal metabolic process. -- 2003</Description>
+<Description>Generic term for diseases caused by an abnormal metabolic process. It can be congenital due to inherited enzyme abnormality (METABOLISM, INBORN ERRORS) or acquired due to disease of an endocrine organ or failure of a metabolically important organ such as the liver. (Stedman, 26th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Goat Milk</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Milk</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food/Dairy Product/Milk/Goat Milk</ClassificationPath>
+<BroaderTerm>Food</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Milk</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Goat Milk</BroaderTerm>
+<BroaderTerm>Dairy Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>GOAT MILK</Synonym>
+<Synonym>Goat Milk</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Brain Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Ischemia</ParentTerm>
+<ParentTerm>Stroke</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction</ClassificationPath>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<ChildTerm>Brain Stem Infarctions</ChildTerm>
+<ChildTerm>Cerebral Infarction</ChildTerm>
+<Synonym>Brain Infarction</Synonym>
+<Synonym>Brain Venous Infarctions</Synonym>
+<Synonym>Anterior Circulation Brain Infarction</Synonym>
+<Synonym>Lacunar Infarctions</Synonym>
+<Synonym>Brain Venous Infarction</Synonym>
+<Synonym>Venous Brain Infarction</Synonym>
+<Synonym>Brain Infarctions</Synonym>
+<Synonym>Anterior Cerebral Circulation Infarction</Synonym>
+<Synonym>Posterior Circulation Brain Infarction</Synonym>
+<Synonym>Venous Brain Infarctions</Synonym>
+<Synonym>Lacunar Infarction</Synonym>
+<Description>Tissue NECROSIS in any area of the brain, including the CEREBRAL HEMISPHERES, the CEREBELLUM, and the BRAIN STEM. Brain infarction is the result of a cascade of events initiated by inadequate blood flow through the brain that is followed by HYPOXIA and HYPOGLYCEMIA in brain tissue. Damage may be temporary, permanent, selective or pan-necrosis.</Description>
+<Source>MeSH</Source>
+</Record>

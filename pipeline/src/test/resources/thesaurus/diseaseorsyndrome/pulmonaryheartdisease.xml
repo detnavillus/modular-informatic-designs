@@ -1,0 +1,14 @@
+<Record>
+<Term>Pulmonary Heart Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Pulmonary Heart Disease</ClassificationPath>
+<BroaderTerm>Pulmonary Heart Disease</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Pulmonary Heart Disease</Synonym>
+<Synonym>Pulmonary Heart Diseases</Synonym>
+<Synonym>Cor Pulmonale</Synonym>
+<Description>Hypertrophy and dilation of the RIGHT VENTRICLE of the heart that is caused by PULMONARY HYPERTENSION. This condition is often associated with pulmonary parenchymal or vascular diseases, such as CHRONIC OBSTRUCTIVE PULMONARY DISEASE and PULMONARY EMBOLISM.</Description>
+<Source>MeSH</Source>
+</Record>

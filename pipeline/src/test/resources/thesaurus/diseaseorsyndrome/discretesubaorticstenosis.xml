@@ -1,0 +1,18 @@
+<Record>
+<Term>Discrete Subaortic Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aortic Stenosis, Subvalvular</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Ventricular Outflow Obstruction/Aortic Valve Stenosis/Aortic Stenosis, Subvalvular/Discrete Subaortic Stenosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Aortic Valve Stenosis/Aortic Stenosis, Subvalvular/Discrete Subaortic Stenosis</ClassificationPath>
+<BroaderTerm>Ventricular Outflow Obstruction</BroaderTerm>
+<BroaderTerm>Aortic Valve Stenosis</BroaderTerm>
+<BroaderTerm>Discrete Subaortic Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Aortic Stenosis, Subvalvular</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<Synonym>Discrete Subaortic Stenoses</Synonym>
+<Synonym>Discrete Subaortic Stenosis</Synonym>
+<Description>A type of constriction that is caused by the presence of a fibrous ring (discrete type) below the AORTIC VALVE, anywhere between the aortic valve and the MITRAL VALVE. It is characterized by restricted outflow from the LEFT VENTRICLE into the AORTA.</Description>
+<Source>MeSH</Source>
+</Record>

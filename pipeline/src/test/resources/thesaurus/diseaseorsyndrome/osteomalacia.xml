@@ -1,0 +1,38 @@
+<Record>
+<Term>Osteomalacia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin D Deficiency</ParentTerm>
+<ParentTerm>Calcium Metabolism Disorders</ParentTerm>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Bone Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin D Deficiency/Osteomalacia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Osteomalacia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Osteomalacia</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Osteomalacia</ClassificationPath>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Vitamin D Deficiency</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Osteomalacia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Oncogenic Osteomalacia</ChildTerm>
+<Synonym>Osteomalacia</Synonym>
+<Synonym>Osteomalacias</Synonym>
+<Description>A condition marked by softening of the bones (due to impaired mineralization, with excess accumulation of osteoid), with pain, tenderness, muscular weakness, anorexia, and loss of weight, resulting from deficiency of vitamin D and calcium. (Dorland, 27th ed)</Description>
+<Description>A metabolic bone disease that results from either a deficiency in vitamin D, or an abnormality in the metabolism of vitamin D, or a deficiency of calcium in the diet.  The most common symptoms are bone pain and muscle weakness.  When it occurs in children it is commonly referred to as rickets. (Diagnostic Surgical Pathology, 3rd ed.) --2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

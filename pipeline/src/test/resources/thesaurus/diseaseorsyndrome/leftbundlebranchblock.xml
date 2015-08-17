@@ -1,0 +1,23 @@
+<Record>
+<Term>Left Bundle Branch Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Left Bundle Branch Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Left Bundle Branch Block</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>LBBB</Synonym>
+<Synonym>LEFT BUNDLE BRANCH BLOCK</Synonym>
+<Synonym>Left Bundle Branch Block</Synonym>
+<Synonym>Left bundle branch block</Synonym>
+<Description>An impairment of transmission of the cardiac electrical impulse along the fibers of the left main bundle branch, or both the left anterior fascicle and left posterior fascicle. This conduction disturbance is characterized by wide (greater than 0.11s) QRS complexes. The diagnostic criteria consist of prolongation of the QRS complexes (over 0.11s) with neither a Q wave nor an S wave in lead V1 and in the "properly placed" V6. A wide R wave with a notch on its top ("plateau") is seen in these leads. In hearts with an electrical (and anatomic) vertical position a small Q wave may be seen in AVL in the absence of MI. Right chest lead V1 may or may not show an initial R wave, but the latter should be present in lead V2.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

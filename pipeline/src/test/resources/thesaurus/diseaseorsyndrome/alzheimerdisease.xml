@@ -1,0 +1,35 @@
+<Record>
+<Term>Alzheimer Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Tauopathies</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Alzheimer Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Tauopathies/Alzheimer Disease</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Alzheimer Disease</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Tauopathies</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Alzheimer Disease</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Presenile Alzheimer Dementia</Synonym>
+<Synonym>Presenile Dementia</Synonym>
+<Synonym>Primary Senile Degenerative Dementia</Synonym>
+<Synonym>Alzheimer Type Dementia</Synonym>
+<Synonym>Alzheimer's Disease</Synonym>
+<Synonym>Focal Onset Alzheimer's Disease</Synonym>
+<Synonym>Alzheimer Type Senile Dementia</Synonym>
+<Synonym>Presenile Dementias</Synonym>
+<Synonym>Alzheimer Disease</Synonym>
+<Synonym>Late Onset Alzheimer Disease</Synonym>
+<Synonym>Early Onset Alzheimer Disease</Synonym>
+<Synonym>Senile Dementia</Synonym>
+<Synonym>Acute Confusional Senile Dementia</Synonym>
+<Synonym>Senile Dementias</Synonym>
+<Description>A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)</Description>
+<Source>MeSH</Source>
+</Record>

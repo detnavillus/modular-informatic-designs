@@ -1,0 +1,23 @@
+<Record>
+<Term>Nitric Oxide-Releasing Compound</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Nitric Oxide-Releasing Compound</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Nitric Oxide-Releasing Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Nitrosulindac</ChildTerm>
+<ChildTerm>Nitric Oxide-Releasing Acetylsalicylic Acid Derivative</ChildTerm>
+<ChildTerm>Linsidomine</ChildTerm>
+<ChildTerm>Nitroflurbiprofen</ChildTerm>
+<ChildTerm>Ipramidil</ChildTerm>
+<ChildTerm>NO-Releasing Indomethacin</ChildTerm>
+<ChildTerm>NO-Releasing Ibuprofen</ChildTerm>
+<Synonym>Nitric Oxide Donor Drug</Synonym>
+<Synonym>Nitric Oxide-Donating Drug</Synonym>
+<Synonym>Nitric Oxide-Releasing Compound</Synonym>
+<Synonym>Nitric Oxide-Releasing Drug</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

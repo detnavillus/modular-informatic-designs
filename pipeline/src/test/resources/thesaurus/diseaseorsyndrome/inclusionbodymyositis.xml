@@ -1,0 +1,18 @@
+<Record>
+<Term>Inclusion Body Myositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myositis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis/Myositis, Inclusion Body</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Myositis, Inclusion Body</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Myositis, Inclusion Body</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Inclusion Body Myositis</Synonym>
+<Synonym>Sporadic Inclusion Body Myositis</Synonym>
+<Synonym>Inclusion Body Myositides</Synonym>
+<Description>Progressive myopathies characterized by the presence of inclusion bodies on muscle biopsy. Sporadic and hereditary forms have been described. The sporadic form is an acquired, adult-onset inflammatory vacuolar myopathy affecting proximal and distal muscles. Familial forms usually begin in childhood and lack inflammatory changes. Both forms feature intracytoplasmic and intranuclear inclusions in muscle tissue. (Adams et al., Principles of Neurology, 6th ed, pp1409-10)</Description>
+<Source>MeSH</Source>
+</Record>

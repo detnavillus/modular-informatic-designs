@@ -1,0 +1,25 @@
+<Record>
+<Term>Cytomegalovirus Retinitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinitis</ParentTerm>
+<ParentTerm>Cytomegalovirus Infections</ParentTerm>
+<ParentTerm>Eye Infections, Viral</ParentTerm>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral/Cytomegalovirus Retinitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Cytomegalovirus Infections/Cytomegalovirus Retinitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinitis/Cytomegalovirus Retinitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral/Cytomegalovirus Retinitis</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Retinitis</BroaderTerm>
+<BroaderTerm>Retinitis</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Infections</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Cytomegalovirus Retinitis</Synonym>
+<Synonym>Cytomegaloviral Retinitis</Synonym>
+<Description>Infection of the retina by cytomegalovirus characterized by retinal necrosis, hemorrhage, vessel sheathing, and retinal edema. Cytomegalovirus retinitis is a major opportunistic infection in AIDS patients and can cause blindness.</Description>
+<Source>MeSH</Source>
+</Record>

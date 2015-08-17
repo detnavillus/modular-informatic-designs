@@ -1,0 +1,25 @@
+<Record>
+<Term>Ranolazine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Ranolazine Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Ranolazine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Ranolazine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Ranolazine</ClassificationPath>
+<BroaderTerm>Ranolazine Hydrochloride,</BroaderTerm>
+<BroaderTerm>Ranolazine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Ranolazine Hydrochloride</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ranolazine,</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ranolazine</Synonym>
+<Synonym>Ranolazine Hydrochloride</Synonym>
+<Synonym>RANOLAZINE HYDROCHLORIDE</Synonym>
+<Synonym>RANOLAZINE</Synonym>
+<Synonym>Ranexa</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

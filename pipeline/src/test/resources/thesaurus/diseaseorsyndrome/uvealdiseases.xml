@@ -1,0 +1,16 @@
+<Record>
+<Term>Uveal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases</ClassificationPath>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Uveitis</ChildTerm>
+<ChildTerm>Choroid Diseases</ChildTerm>
+<ChildTerm>Uveal Neoplasms</ChildTerm>
+<ChildTerm>Iris Diseases</ChildTerm>
+<Synonym>Uveal Diseases</Synonym>
+<Synonym>Uveal Disease</Synonym>
+<Description>Diseases of the uvea.</Description>
+<Source>MeSH</Source>
+</Record>

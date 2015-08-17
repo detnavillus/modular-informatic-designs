@@ -1,0 +1,11 @@
+<Record>
+<Term>Monoclonal Antibody 2A11</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Monoclonal Antibody 2A11</ClassificationPath>
+<BroaderTerm>Monoclonal Antibody 2A11</BroaderTerm>
+<Synonym>MOAB Bombesin</Synonym>
+<Synonym>Monoclonal Antibody 2A11</Synonym>
+<Description>A recombinant, murine monoclonal antibody directed against gastrin-releasing peptide, one of a number of bombesin-like peptides (BLP). Tumor cells, such as small cell lung cancer (SCLC) cells, express and secrete BLP that activate specific cell growth-promoting receptors. Monoclonal antibody 2A11 has been shown to decrease the growth of SCLC cells in vitro and in animal models. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

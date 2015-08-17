@@ -1,0 +1,52 @@
+<Record>
+<Term>Lymphoproliferative Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ParentTerm>Immunoproliferative Disorders</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders</ClassificationPath>
+<ClassificationPath>Lymphoproliferative Disorder</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorder</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<ChildTerm>Heavy Chain Disease</ChildTerm>
+<ChildTerm>Waldenstrom Macroglobulinemia</ChildTerm>
+<ChildTerm>Lymphoma</ChildTerm>
+<ChildTerm>Infectious Mononucleosis</ChildTerm>
+<ChildTerm>Immunoproliferative Small Intestinal Disease</ChildTerm>
+<ChildTerm>Sezary Syndrome</ChildTerm>
+<ChildTerm>Tumor Lysis Syndrome</ChildTerm>
+<ChildTerm>Macrophage Activation Syndrome</ChildTerm>
+<ChildTerm>Giant Lymph Node Hyperplasia</ChildTerm>
+<ChildTerm>Multiple Myeloma</ChildTerm>
+<ChildTerm>Leukemia, Hairy Cell</ChildTerm>
+<ChildTerm>Sarcoidosis</ChildTerm>
+<ChildTerm>Immunoblastic Lymphadenopathy</ChildTerm>
+<ChildTerm>Lymphangiomyoma</ChildTerm>
+<ChildTerm>Granuloma</ChildTerm>
+<ChildTerm>Agammaglobulinemia</ChildTerm>
+<ChildTerm>Leukemia, Lymphoid</ChildTerm>
+<ChildTerm>Autoimmune Lymphoproliferative Syndrome</ChildTerm>
+<ChildTerm>Plasmacytoma</ChildTerm>
+<ChildTerm>Marek Disease</ChildTerm>
+<Synonym>X Linked Lymphoproliferative Disorder</Synonym>
+<Synonym>X-Linked Lymphoproliferative Syndrome</Synonym>
+<Synonym>Duncan Syndrome</Synonym>
+<Synonym>X-Linked Lymphoproliferative Syndromes</Synonym>
+<Synonym>Lymphoproliferative Disorder</Synonym>
+<Synonym>lymphoproliferative disorders</Synonym>
+<Synonym>X-Linked Lymphoproliferative Disorder</Synonym>
+<Synonym>X-Linked Lymphoproliferative Disorders</Synonym>
+<Synonym>Lymphoproliferative Disorders</Synonym>
+<Synonym>Duncans Syndrome</Synonym>
+<Synonym>Duncan's Syndrome</Synonym>
+<Synonym>X Linked Lymphoproliferative Syndrome</Synonym>
+<Description>A disorder characterized by proliferation of lymphocytes at various stages of differentiation. Lymphoproliferative disorders can be neoplastic (clonal, as in lymphomas and leukemias) or reactive (polyclonal, as in infectious mononucleosis).</Description>
+<Description>Disorders characterized by proliferation of lymphoid tissue, general or unspecified.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

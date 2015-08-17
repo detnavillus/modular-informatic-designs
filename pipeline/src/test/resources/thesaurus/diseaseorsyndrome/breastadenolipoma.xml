@@ -1,0 +1,16 @@
+<Record>
+<Term>Breast Adenolipoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Hamartoma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Breast Hamartoma/Breast Adenolipoma</ClassificationPath>
+<BroaderTerm>Breast Adenolipoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Breast Hamartoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Breast Adenolipoma</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

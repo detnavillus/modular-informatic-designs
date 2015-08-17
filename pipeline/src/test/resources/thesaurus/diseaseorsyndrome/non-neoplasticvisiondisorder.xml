@@ -1,0 +1,25 @@
+<Record>
+<Term>Non-Neoplastic Vision Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vision Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Vision Disorder/Non-Neoplastic Vision Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Vision Disorder</ClassificationPath>
+<BroaderTerm>Vision Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vision Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vision Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Binocular Vision Disorder</ChildTerm>
+<ChildTerm>Night Blindness</ChildTerm>
+<ChildTerm>Visual Agnosia</ChildTerm>
+<ChildTerm>Optical Illusion</ChildTerm>
+<ChildTerm>Ametropia</ChildTerm>
+<ChildTerm>Color Blindness</ChildTerm>
+<ChildTerm>Strabismus</ChildTerm>
+<Synonym>Non-Neoplastic Vision Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

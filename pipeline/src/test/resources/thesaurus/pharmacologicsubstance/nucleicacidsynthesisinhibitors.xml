@@ -1,0 +1,18 @@
+<Record>
+<Term>Nucleic Acid Synthesis Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Nucleic Acid Synthesis Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Nucleic Acid Synthesis Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Reverse Transcriptase Inhibitors</ChildTerm>
+<Synonym>Nucleic Acid Synthesis Inhibitors</Synonym>
+<Synonym>RNA Synthesis Inhibitors</Synonym>
+<Synonym>DNA Synthesis Inhibitors</Synonym>
+<Description>Compounds that inhibit cell production of DNA or RNA.</Description>
+<Source>MeSH</Source>
+</Record>

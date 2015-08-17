@@ -1,0 +1,15 @@
+<Record>
+<Term>Schizophrenia and Disorders with Psychotic Features</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features</ClassificationPath>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Capgras Syndrome</ChildTerm>
+<ChildTerm>Psychotic Disorders</ChildTerm>
+<ChildTerm>Schizophrenia</ChildTerm>
+<ChildTerm>Paranoid Disorders</ChildTerm>
+<Synonym>Schizophrenia and Disorders with Psychotic Features</Synonym>
+<Description>Marked disorders of thought (delusions, hallucinations, or other thought disorder accompanied by disordered affect or behavior), and deterioration from a previous level of functioning.</Description>
+<Source>MeSH</Source>
+</Record>

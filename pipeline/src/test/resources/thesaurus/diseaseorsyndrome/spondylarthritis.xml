@@ -1,0 +1,23 @@
+<Record>
+<Term>Spondylarthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spondylitis</ParentTerm>
+<ParentTerm>Arthritis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Spondylarthritis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Spondylarthritis</ClassificationPath>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthritis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Spondylarthropathies</ChildTerm>
+<ChildTerm>Osteoarthritis, Spine</ChildTerm>
+<Synonym>Spinal Arthritis</Synonym>
+<Synonym>Spondylarthritis</Synonym>
+<Synonym>Spinal Arthritides</Synonym>
+<Synonym>Spondylarthritides</Synonym>
+<Description>Inflammation of the joints of the SPINE, the intervertebral articulations.</Description>
+<Source>MeSH</Source>
+</Record>

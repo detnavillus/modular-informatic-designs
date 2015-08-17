@@ -1,0 +1,29 @@
+<Record>
+<Term>Squalamine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Steroid Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Steroid Compound/Squalamine Lactate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial Cell Inhibitor/Squalamine Lactate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Steroid Compound</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Squalamine Lactate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Squalamine Lactate,</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Endothelial Cell Inhibitor</BroaderTerm>
+<Synonym>3beta-N-1-(N-(3-(4-Aminobutyl))-1,3-diaminopropane)-7alpha,24-dihydroxy-5alpha-cholestane 24-sulfate</Synonym>
+<Synonym>MSI-1256F</Synonym>
+<Synonym>MSI-1256F (Squalamine lactate)</Synonym>
+<Synonym>Squalamine</Synonym>
+<Synonym>Squalamine Lactate</Synonym>
+<Synonym>Squalamine/MSI-1256F</Synonym>
+<Synonym>squalamine lactate</Synonym>
+<Description>The lactate salt form of squalamine, an aminosterol isolated from tissues of the dogfish shark Squalus acanthias.  Possessing anti-angiogenic properties, squalamine inhibits the sodium-hydrogen exchanger NHE3, resulting in suppression of endothelial cell proliferation and migration.  This agent also has broad-spectrum antimicrobial properties. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

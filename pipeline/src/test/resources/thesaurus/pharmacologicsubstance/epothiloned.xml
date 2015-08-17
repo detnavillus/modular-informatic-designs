@@ -1,0 +1,28 @@
+<Record>
+<Term>Epothilone D</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane-Pocket Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lactone Compound/Macrolide/Epothilone Compound/Epothilone D,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Epothilone D</ClassificationPath>
+<BroaderTerm>Macrolide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Epothilone Compound</BroaderTerm>
+<BroaderTerm>Lactone Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Epothilone D</BroaderTerm>
+<BroaderTerm>Epothilone D,</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(4S-(4R*,7S,8R*,9R*,13Z,16R*(E)))-4,8-Dihydroxy-5,5,7,9,13-pentamethyl-16-(1-methyl-2-(2-methyl-4-thiazolyl)ethenyl)oxacyclohexadec-13-ene-2,6-dione</Synonym>
+<Synonym>12,13-Deoxyepothilone B</Synonym>
+<Synonym>Desoxyepothilone B</Synonym>
+<Synonym>Epothilone D</Synonym>
+<Synonym>KOS 862</Synonym>
+<Description>A natural polyketide compound isolated from the myxobacterium Sorangium cellulosum. Also known as desoxyepothilone B, epothilone D binds to tubulin and inhibits the disassembly of microtubules, resulting in the inhibition of mitosis, cellular proliferation, and cell motility. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

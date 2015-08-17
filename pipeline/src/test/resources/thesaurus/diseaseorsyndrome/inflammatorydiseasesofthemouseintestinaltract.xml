@@ -1,0 +1,22 @@
+<Record>
+<Term>Inflammatory Diseases of the Mouse Intestinal Tract</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Noncancerous Conditions</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Digestive System Disorder/Inflammatory Diseases of the Mouse Intestinal Tract,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Inflammatory Diseases of the Mouse Intestinal Tract</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Mouse Digestive System Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Inflammatory Diseases of the Mouse Intestinal Tract,</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Inflammatory Diseases of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Necrotizing Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Acute Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Chronic Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<Synonym>Inflammatory Diseases of the Intestinal Tract</Synonym>
+<Synonym>Inflammatory Diseases of the Mouse Intestinal Tract</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

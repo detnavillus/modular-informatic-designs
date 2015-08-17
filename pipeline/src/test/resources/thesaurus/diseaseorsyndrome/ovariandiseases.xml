@@ -1,0 +1,26 @@
+<Record>
+<Term>Ovarian Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adnexal Diseases</ParentTerm>
+<ParentTerm>Gonadal Disorders</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Ovarian Diseases</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Ovarian Diseases</ClassificationPath>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Ovarian Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<ChildTerm>Oophoritis</ChildTerm>
+<ChildTerm>Ovarian Failure, Premature</ChildTerm>
+<ChildTerm>Ovarian Neoplasms</ChildTerm>
+<ChildTerm>Anovulation</ChildTerm>
+<ChildTerm>Ovarian Cysts</ChildTerm>
+<ChildTerm>Ovarian Hyperstimulation Syndrome</ChildTerm>
+<ChildTerm>Menopause, Premature</ChildTerm>
+<Synonym>Ovarian Diseases</Synonym>
+<Synonym>Ovarian Disease</Synonym>
+<Description>Pathological processes of the OVARY.</Description>
+<Source>MeSH</Source>
+</Record>

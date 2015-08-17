@@ -1,0 +1,58 @@
+<Record>
+<Term>Amnesia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Mental and Behavioral Signs and Symptoms</ParentTerm>
+<ParentTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ParentTerm>
+<ParentTerm>Memory Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders/Amnesia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Mental and Behavioral Signs and Symptoms/Amnesia</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Memory Disorders/Amnesia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Amnesia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders/Amnesia</ClassificationPath>
+<BroaderTerm>Mental and Behavioral Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Amnesia</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Memory Disorders</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<ChildTerm>Alcohol Amnestic Disorder</ChildTerm>
+<ChildTerm>Amnesia, Retrograde</ChildTerm>
+<ChildTerm>Amnesia, Anterograde</ChildTerm>
+<ChildTerm>Retrograde Amnesia</ChildTerm>
+<ChildTerm>Amnesia, Transient Global</ChildTerm>
+<Synonym>Dissociative Amnesias</Synonym>
+<Synonym>Hysterical Amnesia</Synonym>
+<Synonym>Global Amnesias</Synonym>
+<Synonym>Amnestic States</Synonym>
+<Synonym>Amnesia Memory Loss</Synonym>
+<Synonym>Amnesia</Synonym>
+<Synonym>Temporary Amnesias</Synonym>
+<Synonym>Hysterical Amnesias</Synonym>
+<Synonym>Amnesia-Memory Loss</Synonym>
+<Synonym>Global Amnesia</Synonym>
+<Synonym>Amnestic State</Synonym>
+<Synonym>Temporary Amnesia</Synonym>
+<Synonym>Amnesia-Memory Losses</Synonym>
+<Synonym>Amnesias</Synonym>
+<Synonym>Loss of memory</Synonym>
+<Synonym>Memory Loss</Synonym>
+<Synonym>Tactile Amnesias</Synonym>
+<Synonym>Tactile Amnesia</Synonym>
+<Synonym>Dissociative Amnesia</Synonym>
+<Description>Systematic and extensive loss of memory caused by organic or psychological factors. The loss may be temporary or permanent, and may involve old or recent memories.</Description>
+<Description>Pathologic partial or complete loss of the ability to recall past experiences (AMNESIA, RETROGRADE) or to form new memories (AMNESIA, ANTEROGRADE). This condition may be of organic or psychologic origin. Organic forms of amnesia are usually associated with dysfunction of the DIENCEPHALON or HIPPOCAMPUS. (From Adams et al., Principles of Neurology, 6th ed, pp426-7)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

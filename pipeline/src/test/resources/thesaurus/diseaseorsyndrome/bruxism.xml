@@ -1,0 +1,30 @@
+<Record>
+<Term>Bruxism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Oral Cavity Finding</ParentTerm>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Head and Neck Finding/Oral Cavity Finding/Bruxism,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Morphologic Finding/Deposit/Bruxism</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Bruxism</ClassificationPath>
+<BroaderTerm>Oral Cavity Finding</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Bruxism</BroaderTerm>
+<BroaderTerm>Head and Neck Finding</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Deposit</BroaderTerm>
+<BroaderTerm>Bruxism,</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Morphologic Finding</BroaderTerm>
+<ChildTerm>Sleep Bruxism</ChildTerm>
+<Synonym>Bruxism</Synonym>
+<Synonym>Teeth Grinding Disorders</Synonym>
+<Synonym>Teeth Grinding Disorder</Synonym>
+<Description>An involuntary or unconscious clenching or grinding the teeth, typically during sleep.</Description>
+<Description>A disorder characterized by grinding and clenching of the teeth.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

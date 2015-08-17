@@ -1,0 +1,18 @@
+<Record>
+<Term>Avian Malaria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malaria</ParentTerm>
+<ParentTerm>Bird Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria/Malaria, Avian</ClassificationPath>
+<ClassificationPath>Animal Diseases/Bird Diseases/Malaria, Avian</ClassificationPath>
+<BroaderTerm>Malaria, Avian</BroaderTerm>
+<BroaderTerm>Malaria</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Avian Malarias</Synonym>
+<Synonym>Avian Malaria</Synonym>
+<Description>Any of a group of infections of fowl caused by protozoa of the genera PLASMODIUM, Leucocytozoon, and Haemoproteus. The life cycles of these parasites and the disease produced bears strong resemblance to those observed in human malaria.</Description>
+<Source>MeSH</Source>
+</Record>

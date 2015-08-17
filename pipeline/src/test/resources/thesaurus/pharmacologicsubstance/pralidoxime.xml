@@ -1,0 +1,32 @@
+<Record>
+<Term>Pralidoxime</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Miscellaneous Chemoprotective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Miscellaneous Chemoprotective Agent/Pralidoxime Iodide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Miscellaneous Chemoprotective Agent/Pralidoxime Mesylate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Pralidoxime Chloride</ClassificationPath>
+<BroaderTerm>Pralidoxime Iodide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemoprotective Agent</BroaderTerm>
+<BroaderTerm>Pralidoxime Mesylate</BroaderTerm>
+<BroaderTerm>Pralidoxime Chloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Miscellaneous Chemoprotective Agent</BroaderTerm>
+<Synonym>Pralidoxime Iodide</Synonym>
+<Synonym>Pralidoxime chloride</Synonym>
+<Synonym>PRALIDOXIME CHLORIDE</Synonym>
+<Synonym>Protopam chloride</Synonym>
+<Synonym>Protopam</Synonym>
+<Synonym>PRALIDOXIME IODIDE</Synonym>
+<Synonym>Pralidoxime</Synonym>
+<Synonym>Pralidoxime Mesylate</Synonym>
+<Synonym>Pralidoxime Chloride</Synonym>
+<Synonym>PRALIDOXIME MESYLATE</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

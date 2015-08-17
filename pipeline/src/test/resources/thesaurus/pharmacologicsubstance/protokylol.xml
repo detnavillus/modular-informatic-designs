@@ -1,0 +1,30 @@
+<Record>
+<Term>Protokylol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Adrenergic Agonist</ParentTerm>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Protokylol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Protokylol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Protokylol Hydrochloride</ClassificationPath>
+<BroaderTerm>Protokylol,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protokylol</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Protokylol Hydrochloride</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PROTOKYLOL</Synonym>
+<Synonym>PROTOKYLOL HYDROCHLORIDE</Synonym>
+<Synonym>Protokylol</Synonym>
+<Synonym>Protokylol Hydrochloride</Synonym>
+<Synonym>Protokylol hydrochloride</Synonym>
+<Synonym>Ventaire</Synonym>
+<Description>The hydrochloride salt form of protokylol, a derivative of the beta-adrenergic receptor agonist isoproterenol with bronchodilator activity. Protokylol binds to beta-2 adrenergic receptors in bronchial smooth muscle, thereby activating intracellular adenyl cyclase, an enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased cAMP levels cause relaxation of bronchial smooth muscle, relieve bronchospasms, improve mucociliary clearance and inhibit the release of mediators of immediate hypersensitivity from cells, especially from mast cells.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

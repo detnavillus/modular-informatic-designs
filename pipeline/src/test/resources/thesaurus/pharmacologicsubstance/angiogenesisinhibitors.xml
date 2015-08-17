@@ -1,0 +1,65 @@
+<Record>
+<Term>Angiogenesis Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ParentTerm>Growth Inhibitors</ParentTerm>
+<ParentTerm>Angiogenesis Modulating Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Growth Substances/Growth Inhibitors/Angiogenesis Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Angiogenesis Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Growth Substances/Angiogenesis Modulating Agents/Angiogenesis Inhibitors</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Growth Inhibitors</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Angiogenesis Modulating Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Growth Substances</BroaderTerm>
+<ChildTerm>Angiogenesis Activator Inhibitor</ChildTerm>
+<ChildTerm>Palladium-Bacteriopheophorbide</ChildTerm>
+<ChildTerm>Tasquinimod</ChildTerm>
+<ChildTerm>Disulfiram</ChildTerm>
+<ChildTerm>Sinomenine</ChildTerm>
+<ChildTerm>SOD1 Inhibitor ATN-224</ChildTerm>
+<ChildTerm>Oltipraz</ChildTerm>
+<ChildTerm>Ammonium Tetrathiomolybdate</ChildTerm>
+<ChildTerm>Endothelial-Specific Integrin:Survival Signaling Inhibitor</ChildTerm>
+<ChildTerm>Angiogenesis Inhibitor GT-111</ChildTerm>
+<ChildTerm>Miscellaneous Angiogenesis Inhibitor</ChildTerm>
+<ChildTerm>Endothelial Cell Inhibitor</ChildTerm>
+<Synonym>Angiogenesis Blockers</Synonym>
+<Synonym>Angiogenesis Antagonists</Synonym>
+<Synonym>Angiogenetic Inhibitors</Synonym>
+<Synonym>angiogenesis inhibitor</Synonym>
+<Synonym>Angiogenesis Inhibitor</Synonym>
+<Synonym>Neovascularization Inhibitors</Synonym>
+<Synonym>Angiogenic Antagonists</Synonym>
+<Synonym>Antiangiogenesis Agents</Synonym>
+<Synonym>Anti Angiogenetic Agents</Synonym>
+<Synonym>Angiogenic Inhibitors</Synonym>
+<Synonym>Angiogenetic Antagonists</Synonym>
+<Synonym>Antiangiogenic Agents</Synonym>
+<Synonym>Anti-Angiogenic Drugs</Synonym>
+<Synonym>Anti-Angiogenetic Agents</Synonym>
+<Synonym>Angiogenesis Factor Inhibitors</Synonym>
+<Synonym>Angiostatic Agents</Synonym>
+<Synonym>Angiogenesis Inhibitors</Synonym>
+<Synonym>Anti Angiogenic Drugs</Synonym>
+<Synonym>Anti-Angiogenic Agents</Synonym>
+<Synonym>antiangiogenic</Synonym>
+<Description>Agents and endogenous substances that antagonize or inhibit the development of new blood vessels.</Description>
+<Description>An agent or endogenous substance that inhibits the formation and growth of blood or lymphatic vessels.  In cancer therapy, angiogenesis inhibitors target blood vessels that supply tumors, thereby inhibiting tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

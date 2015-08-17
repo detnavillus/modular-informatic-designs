@@ -1,0 +1,16 @@
+<Record>
+<Term>Dry Eye Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lacrimal Apparatus Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases/Dry Eye Syndromes</ClassificationPath>
+<BroaderTerm>Dry Eye Syndromes</BroaderTerm>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Sjogren's Syndrome</ChildTerm>
+<ChildTerm>Xerophthalmia</ChildTerm>
+<ChildTerm>Keratoconjunctivitis Sicca</ChildTerm>
+<Synonym>Dry Eye Syndromes</Synonym>
+<Synonym>Dry Eye Syndrome</Synonym>
+<Description>Corneal and conjunctival dryness due to deficient tear production, predominantly in menopausal and post-menopausal women. Filamentary keratitis or erosion of the conjunctival and corneal epithelium may be caused by these disorders. Sensation of the presence of a foreign body in the eye and burning of the eyes may occur.</Description>
+<Source>MeSH</Source>
+</Record>

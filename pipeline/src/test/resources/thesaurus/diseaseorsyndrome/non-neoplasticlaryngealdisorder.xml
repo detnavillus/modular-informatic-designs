@@ -1,0 +1,26 @@
+<Record>
+<Term>Non-Neoplastic Laryngeal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Neck Disorder/Non-Neoplastic Laryngeal Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Laryngeal Disorder/Non-Neoplastic Laryngeal Disorder</ClassificationPath>
+<BroaderTerm>Laryngeal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Neck Disorder</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Laryngeal Disorder,</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Laryngeal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<ChildTerm>Vocal Cord Polyp</ChildTerm>
+<ChildTerm>Laryngitis</ChildTerm>
+<ChildTerm>Voice Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Laryngeal Disease</Synonym>
+<Synonym>Non-Neoplastic Laryngeal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

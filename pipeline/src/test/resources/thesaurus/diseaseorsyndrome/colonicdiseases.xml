@@ -1,0 +1,20 @@
+<Record>
+<Term>Colonic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Colitis</ChildTerm>
+<ChildTerm>Colonic Diseases, Functional</ChildTerm>
+<ChildTerm>Colorectal Neoplasms</ChildTerm>
+<ChildTerm>Diverticulosis, Colonic</ChildTerm>
+<ChildTerm>Sigmoid Diseases</ChildTerm>
+<ChildTerm>Megacolon</ChildTerm>
+<Synonym>Colonic Diseases</Synonym>
+<Synonym>Colonic Disease</Synonym>
+<Description>Pathological processes in the COLON region of the large intestine (INTESTINE, LARGE).</Description>
+<Source>MeSH</Source>
+</Record>

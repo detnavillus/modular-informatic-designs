@@ -1,0 +1,22 @@
+<Record>
+<Term>Pulmonary Subvalvular Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pulmonary Valve Stenosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Pulmonary Valve Stenosis/Pulmonary Subvalvular Stenosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Ventricular Outflow Obstruction/Pulmonary Valve Stenosis/Pulmonary Subvalvular Stenosis</ClassificationPath>
+<BroaderTerm>Ventricular Outflow Obstruction</BroaderTerm>
+<BroaderTerm>Pulmonary Subvalvular Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Valve Stenosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<Synonym>Subvalvular Pulmonary Stenosis</Synonym>
+<Synonym>Subvalvular Pulmonary Stenoses</Synonym>
+<Synonym>Pulmonary Infundibular Stenosis</Synonym>
+<Synonym>Obstructive Subaortic Conus</Synonym>
+<Synonym>Pulmonary Subvalvular Stenosis</Synonym>
+<Synonym>Pulmonary Subvalvular Stenoses</Synonym>
+<Synonym>Pulmonary Infundibular Stenoses</Synonym>
+<Description>Narrowing below the PULMONARY VALVE or well below it in the infundibuluar chamber where the pulmonary artery originates, usually caused by a defective VENTRICULAR SEPTUM or presence of fibrous tissues. It is characterized by restricted blood outflow from the RIGHT VENTRICLE into the PULMONARY ARTERY, exertional fatigue, DYSPNEA, and chest discomfort.</Description>
+<Source>MeSH</Source>
+</Record>

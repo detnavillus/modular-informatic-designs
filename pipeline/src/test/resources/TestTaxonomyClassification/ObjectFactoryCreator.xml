@@ -1,0 +1,7 @@
+<ObjectFactoryCreator>
+
+  <ObjectFactory factoryName="TaxonomyClassificationFactory"
+                 factoryClass="com.modinfodesigns.app.FileSystemObjectFactory"
+                 configFile="C:/Projects/Prometheus/TestTaxonomyClassification/FileSystemConfiguration.xml" />
+                  
+</ObjectFactoryCreator>

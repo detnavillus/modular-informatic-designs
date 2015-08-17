@@ -1,0 +1,22 @@
+<Record>
+<Term>Lepromatous Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leprosy, Multibacillary</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy/Leprosy, Multibacillary/Leprosy, Lepromatous</ClassificationPath>
+<BroaderTerm>Leprosy, Multibacillary</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy, Lepromatous</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Lepromatous Leprosies</Synonym>
+<Synonym>Lepromatous Leprosy</Synonym>
+<Synonym>Cutaneous Leprosies</Synonym>
+<Synonym>Cutaneous Leprosy</Synonym>
+<Synonym>Nodular Leprosies</Synonym>
+<Synonym>Nodular Leprosy</Synonym>
+<Description>A chronic communicable infection which is a principal or polar form of LEPROSY. This disorder is caused by MYCOBACTERIUM LEPRAE and produces diffuse granulomatous skin lesions in the form of nodules, macules, or papules. The peripheral nerves are involved symmetrically and neural sequelae occur in the advanced stage.</Description>
+<Source>MeSH</Source>
+</Record>

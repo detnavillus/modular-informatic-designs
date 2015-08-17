@@ -1,0 +1,50 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Xerostomia</ParentTerm>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Sjogren's Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Sjogren's Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Sjogren's Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Salivary Gland Disorder/Sjogren Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Sjogren Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Sjogren Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Arthritis, Rheumatoid/Sjogren's Syndrome</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Xerostomia/Sjogren's Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Salivary Gland Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Sjogren Syndrome,</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Sjogren's Syndrome</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Xerostomia</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Sjogren Syndrome</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<Synonym>Syndrome, sjogren's</Synonym>
+<Synonym>Sjogren's Syndrome</Synonym>
+<Synonym>Sjogren Syndrome</Synonym>
+<Synonym>Sjogrens Syndrome</Synonym>
+<Synonym>Sicca Syndrome</Synonym>
+<Description>Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both KERATOCONJUNCTIVITIS SICCA and XEROSTOMIA. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

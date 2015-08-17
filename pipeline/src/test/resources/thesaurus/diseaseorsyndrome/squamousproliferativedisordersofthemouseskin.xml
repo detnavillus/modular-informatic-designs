@@ -1,0 +1,21 @@
+<Record>
+<Term>Squamous Proliferative Disorders of the Mouse Skin</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Skin Disorder</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Squamous Proliferative Disorders of the Mouse Skin,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Skin Disorder/Squamous Proliferative Disorders of the Mouse Skin</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Squamous Proliferative Disorders of the Mouse Skin</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Skin Disorder</BroaderTerm>
+<BroaderTerm>Squamous Proliferative Disorders of the Mouse Skin,</BroaderTerm>
+<ChildTerm>Squamous Hyperplasia of the Mouse Skin with Atypia</ChildTerm>
+<ChildTerm>Squamous Hyperplasia of the Mouse Skin</ChildTerm>
+<Synonym>Squamous Proliferative Disorders of the Mouse Skin</Synonym>
+<Synonym>Squamous Proliferative Disorders of the Skin</Synonym>
+<Synonym>Squamous proliferative disorders</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

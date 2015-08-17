@@ -1,0 +1,17 @@
+<Record>
+<Term>Transferrin-CRM107</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunotoxin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Immunotoxin/Transferrin-CRM107</ClassificationPath>
+<BroaderTerm>Transferrin-CRM107</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Immunotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HN-66000</Synonym>
+<Synonym>Transferrin-CRM107</Synonym>
+<Description>A synthetic targeted protein toxin which consists of human transferrin (Tf) conjugated to a diphtheria toxin that contains a point mutation (CRM107). After binding to the transferrin receptor expressed on the tumor cell surface, transferrin-CRM107 is internalized, where the diphtheria toxin moiety exerts its cytotoxic effect intracellularly by inhibiting protein synthesis through ADP-ribosylation of elongation factor. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

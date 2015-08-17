@@ -1,0 +1,19 @@
+<Record>
+<Term>L-Carbidopa</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dopamine Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiparkinsonian Agent/L-Carbidopa Anhydrous,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Dopamine Agonist/L-Carbidopa Anhydrous</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>L-Carbidopa Anhydrous,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>L-Carbidopa Anhydrous</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Dopamine Agonist</BroaderTerm>
+<BroaderTerm>Antiparkinsonian Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CARBIDOPA, L- ANHYDROUS</Synonym>
+<Synonym>L-Carbidopa Anhydrous</Synonym>
+<Description>The anhydrous, levorotatory isomer of a synthetic hydrazine derivative of the neurotransmitter dopamine. Carbidopa, a peripheral dopa decarboxylase inhibitor, is used as an adjunct with levodopa to prevent levodopa degradation to dopamine in extracerebral tissue, thereby decreasing the peripheral side effects of levodopa. Carbidopa does not penetrate the blood brain barrier; therefore, it does not interfere with the central nervous system (CNS) metabolism of levodopa to the active neurotransmitter dopamine which, in high concentrations in the brain, has anti-parkinsonian effects.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

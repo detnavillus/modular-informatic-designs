@@ -1,0 +1,16 @@
+<Record>
+<Term>Therapeutic Estetrol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Estrogen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Estrogen/Therapeutic Estetrol</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Estetrol</BroaderTerm>
+<BroaderTerm>Therapeutic Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Therapeutic E4</Synonym>
+<Synonym>Therapeutic Estetrol</Synonym>
+<Description>A synthetic steroid similar or identical to endogenous estetrol, a short-acting estrogen with both agonistic and antagonistic estrogen receptor activity. Administered orally, therapeutic estetrol binds to the estrogen receptor and as a selective estrogen receptor modulator (SERM) exhibits estrogen agonism in certain tissues and estrogen antagonism in others. Displaying weak estrogen activity in the uterus, estetrol acts as an estrogen antagonist in breast tissue. Produced solely by the human fetal liver, endogenous estetrol is the primary estrogen metabolite of estrogen biosynthesis in the human fetal liver.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

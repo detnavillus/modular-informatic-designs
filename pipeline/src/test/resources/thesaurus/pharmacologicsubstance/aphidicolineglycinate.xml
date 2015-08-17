@@ -1,0 +1,15 @@
+<Record>
+<Term>Aphidicoline Glycinate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Polymerase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/DNA Polymerase Inhibitor/Aphidicoline Glycinate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Polymerase Inhibitor</BroaderTerm>
+<BroaderTerm>Aphidicoline Glycinate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Aphidicoline Glycinate</Synonym>
+<Description>A tetracyclic diterpene antibiotic isolated from the fungus Cephalosporium aphidicola and other fungal species with potential antineoplastic activity.  Aphidicoline glycinate blocks the cell cycle at early S-phase by specifically inhibiting DNA polymerases in eukaryotic cells, induces apoptosis, and stops the growth of eukaryotic cells and certain viruses by selectively inhibiting DNA polymerase II or viral-induced DNA polymerases. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

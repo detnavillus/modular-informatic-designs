@@ -1,0 +1,24 @@
+<Record>
+<Term>Erythrasma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Corynebacterium Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Erythrasma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Corynebacterium Infections/Erythrasma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Erythrasma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Erythrasma</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Erythrasma</BroaderTerm>
+<BroaderTerm>Corynebacterium Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Erythrasma</Synonym>
+<Description>A chronic bacterial infection of major folds of the skin, caused by Corynebacterium minutissimum.</Description>
+<Source>MeSH</Source>
+</Record>

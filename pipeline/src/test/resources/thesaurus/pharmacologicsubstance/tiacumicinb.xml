@@ -1,0 +1,21 @@
+<Record>
+<Term>Tiacumicin B</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Macrolide Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protein Synthesis Inhibitor/Macrolide Antibiotic/Tiacumicin B</ClassificationPath>
+<BroaderTerm>Tiacumicin B</BroaderTerm>
+<BroaderTerm>Protein Synthesis Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Macrolide Antibiotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Clostomicin B1</Synonym>
+<Synonym>Diffimicin</Synonym>
+<Synonym>Lipiarmycin</Synonym>
+<Synonym>Lipiarmycin A3</Synonym>
+<Synonym>OPT-80</Synonym>
+<Synonym>PAR-101</Synonym>
+<Synonym>Tiacumicin B</Synonym>
+<Description>A narrow-spectrum, 18-membered macrolide antibiotic isolated from the actinomycete Dactylosporangium aurantiacum subsp. hamdenensis with potential antibacterial activity. Although the exact mechanism of action has yet to be fully elucidated, tiacumicin B may bind to and inhibit bacterial DNA-dependent RNA polymerase, thereby inhibiting the initiation of bacterial RNA synthesis. When orally administered, this agent is minimally absorbed into the systemic circulation, acting locally in the gastrointestinal tract. Tiacumicin B appears to be active against pathogenic Gram-positive bacteria, such as clostridia, enterococci, and staphylococci, but does not appear to be active against other beneficial intestinal bacteria.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

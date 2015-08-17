@@ -1,0 +1,37 @@
+<Record>
+<Term>Tropical Spastic Paraparesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HTLV-I Infections</ParentTerm>
+<ParentTerm>Myelitis</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Deltaretrovirus Infections/HTLV-I Infections/Paraparesis, Tropical Spastic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Myelitis/Paraparesis, Tropical Spastic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Myelitis/Paraparesis, Tropical Spastic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Myelitis/Paraparesis, Tropical Spastic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Myelitis/Paraparesis, Tropical Spastic</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paraparesis, Tropical Spastic</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Deltaretrovirus Infections</BroaderTerm>
+<BroaderTerm>HTLV-I Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Myelitis</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>HTLV I Associated Myelopathy</Synonym>
+<Synonym>HTLV-I-Associated Myelopathy</Synonym>
+<Synonym>HTLV-I-Associated Myelopathies</Synonym>
+<Synonym>HTLV I Associated Myelopathy Tropical Spastic Paraparesis</Synonym>
+<Synonym>Human T-Lymphotropic Virus Type 1 Associated Myelopathy</Synonym>
+<Synonym>Tropical Spastic Paraplegia</Synonym>
+<Synonym>Human T Lymphotropic Virus Type 1 Associated Myelopathy</Synonym>
+<Synonym>Tropical Spastic Paraparesis</Synonym>
+<Synonym>Tropical Spastic Parapareses</Synonym>
+<Synonym>Tropical Spastic Paraplegias</Synonym>
+<Synonym>HTLV-I-Associated Myelopathy-Tropical Spastic Paraparesis</Synonym>
+<Synonym>HTLV I Associated Myelopathies</Synonym>
+<Description>A subacute paralytic myeloneuropathy occurring endemically in tropical areas such as the Caribbean, Colombia, India, and Africa, as well as in the southwestern region of Japan; associated with infection by HUMAN T-CELL LEUKEMIA VIRUS I. Clinical manifestations include a slowly progressive spastic weakness of the legs, increased reflexes, Babinski signs, incontinence, and loss of vibratory and position sensation. On pathologic examination inflammatory, demyelination, and necrotic lesions may be found in the spinal cord. (Adams et al., Principles of Neurology, 6th ed, p1239)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>OSI-7904L</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Thymidylate Synthase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Thymidylate Synthase Inhibitor/OSI-7904L</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Thymidylate Synthase Inhibitor</BroaderTerm>
+<BroaderTerm>OSI-7904L</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>GS7904L</Synonym>
+<Synonym>OSI-7904L</Synonym>
+<Description>A liposome-encapsulated formulation of the benzoquinazoline folate analog OSI-7904 with antineoplastic activity. As a thymidylate synthase inhibitor, OSI-7904 noncompetitively binds to thymidylate synthase, resulting in inhibition of thymine nucleotide synthesis and DNA replication. Liposome encapsulation improves the efficacy and increases the half-life of OSI-7904. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Neuroacanthocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chorea</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Dyskinesias/Chorea/Neuroacanthocytosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Neuroacanthocytosis</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Neuroacanthocytosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Chorea</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Chorea Acanthocytoses</Synonym>
+<Synonym>Neuroacanthocytosis</Synonym>
+<Synonym>Chorea Acanthocytosis</Synonym>
+<Synonym>Choreoacanthocytosis</Synonym>
+<Synonym>Chorea-Acanthocytosis</Synonym>
+<Synonym>Chorea Acanthocytosis Syndromes</Synonym>
+<Synonym>Chorea Acanthocytosis Syndrome</Synonym>
+<Synonym>Chorea-Acanthocytoses</Synonym>
+<Synonym>Levine Critchley Syndrome</Synonym>
+<Synonym>Levine-Critchley Syndrome</Synonym>
+<Synonym>Choreoacanthocytoses</Synonym>
+<Description>An inherited autosomal disorder that is characterized by neurodegeneration; orofacial and buccal DYSKINESIAS; CHOREA; and thorny-looking red cells (ACANTHOCYTES). This disorder is due to mutations of chorein which is important in protein trafficking and is encoded by Vps13a on chromosome 9q21.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Fibrinolytic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ParentTerm>Fibrin Modulating Agents</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Fibrinolytic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Fibrin Modulating Agents/Fibrinolytic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Fibrinolytic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Fibrin Modulating Agents</BroaderTerm>
+<BroaderTerm>Fibrinolytic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Thrombolytic Drugs</Synonym>
+<Synonym>Fibrinolytic Agents</Synonym>
+<Synonym>Thrombolytic Agents</Synonym>
+<Synonym>Antithrombotic Agents</Synonym>
+<Synonym>Fibrinolytic Drugs</Synonym>
+<Synonym>Antithrombic Drugs</Synonym>
+<Description>Fibrinolysin or agents that convert plasminogen to FIBRINOLYSIN.</Description>
+<Source>MeSH</Source>
+</Record>

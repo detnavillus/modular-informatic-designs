@@ -1,0 +1,16 @@
+<Record>
+<Term>Toxascariasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ascaridida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections/Toxascariasis</ClassificationPath>
+<BroaderTerm>Toxascariasis</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<Synonym>Toxascariasis</Synonym>
+<Synonym>Toxascariases</Synonym>
+<Description>Infections with nematodes of the genus TOXASCARIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>ABT-888</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Poly (ADP-Ribose) Polymerase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Poly (ADP-Ribose) Polymerase Inhibitor/ABT-888</ClassificationPath>
+<BroaderTerm>ABT-888</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Poly (ADP-Ribose) Polymerase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ABT-888</Synonym>
+<Description>A poly(ADP-ribose) polymerase (PARP) -1 and -2 inhibitor with chemosensitizing and antitumor activities. With no antiproliferative effects as a single agent at therapeutic concentrations, ABT-888 inhibits PARPs, thereby inhibiting DNA repair and potentiating the cytotoxicity of DNA-damaging agents. PARP nuclear enzymes are activated by DNA single or double strand breaks, resulting in the poly(ADP-ribosyl)ation of other nuclear DNA binding proteins involved in DNA repair; poly(ADP-ribosyl)ation contributes to efficient DNA repair and to survival of proliferating cells exposed to mild genotoxic stresses as induced by as oxidants, alkylating agents or ionizing radiation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

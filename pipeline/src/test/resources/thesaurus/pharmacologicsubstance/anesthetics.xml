@@ -1,0 +1,123 @@
+<Record>
+<Term>Anesthetics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Pharmacologic Substance</ParentTerm>
+<ParentTerm>Central Nervous System Depressants</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Anesthetics</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Anesthetics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetics</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Thiopental</ChildTerm>
+<ChildTerm>Gavestinel</ChildTerm>
+<ChildTerm>Anesthetics, General</ChildTerm>
+<ChildTerm>Thiamylal Sodium</ChildTerm>
+<ChildTerm>Pribecaine</ChildTerm>
+<ChildTerm>Nofecainide</ChildTerm>
+<ChildTerm>Isoflurane</ChildTerm>
+<ChildTerm>Propoxycaine Hydrochloride</ChildTerm>
+<ChildTerm>Murocainide</ChildTerm>
+<ChildTerm>4-Hydroxybutyric Acid</ChildTerm>
+<ChildTerm>Prilocaine Hydrochloride</ChildTerm>
+<ChildTerm>Fexicaine</ChildTerm>
+<ChildTerm>Mepivacaine Hydrochloride</ChildTerm>
+<ChildTerm>Alfaxalone</ChildTerm>
+<ChildTerm>Hexylcaine</ChildTerm>
+<ChildTerm>Eticyclidine</ChildTerm>
+<ChildTerm>Vadocaine</ChildTerm>
+<ChildTerm>Lidocaine Hydrochloride</ChildTerm>
+<ChildTerm>Anesthetics, Local</ChildTerm>
+<ChildTerm>Dexmedetomidine</ChildTerm>
+<ChildTerm>Ketamine Hydrochloride</ChildTerm>
+<ChildTerm>Hydroxytetracaine</ChildTerm>
+<ChildTerm>Levomenthol</ChildTerm>
+<ChildTerm>Ketocainol</ChildTerm>
+<ChildTerm>Pincainide</ChildTerm>
+<ChildTerm>Milacainide</ChildTerm>
+<ChildTerm>Propipocaine</ChildTerm>
+<ChildTerm>Chloroprocaine Hydrochloride</ChildTerm>
+<ChildTerm>Anesthetics, Combined</ChildTerm>
+<ChildTerm>Etomidate</ChildTerm>
+<ChildTerm>Articaine Hydrochloride</ChildTerm>
+<ChildTerm>Sevoflurane</ChildTerm>
+<ChildTerm>Fomocaine</ChildTerm>
+<ChildTerm>Aptocaine</ChildTerm>
+<ChildTerm>Alfadolone</ChildTerm>
+<ChildTerm>Tetracaine</ChildTerm>
+<ChildTerm>Dyclonine</ChildTerm>
+<ChildTerm>Nitrous Oxide</ChildTerm>
+<ChildTerm>Bucricaine</ChildTerm>
+<ChildTerm>Benoxinate Hydrochloride</ChildTerm>
+<ChildTerm>Levobupivacaine Hydrochloride</ChildTerm>
+<ChildTerm>Pramoxine</ChildTerm>
+<ChildTerm>Desflurane</ChildTerm>
+<ChildTerm>Prilocaine</ChildTerm>
+<ChildTerm>Betoxycaine</ChildTerm>
+<ChildTerm>Lidocaine</ChildTerm>
+<ChildTerm>Ambucaine</ChildTerm>
+<ChildTerm>Quatacaine</ChildTerm>
+<ChildTerm>Halothane</ChildTerm>
+<ChildTerm>Paridocaine</ChildTerm>
+<ChildTerm>Propanocaine</ChildTerm>
+<ChildTerm>Ketamine</ChildTerm>
+<ChildTerm>Dexivacaine</ChildTerm>
+<ChildTerm>Erocainide</ChildTerm>
+<ChildTerm>Bupivacaine</ChildTerm>
+<ChildTerm>Benoxinate</ChildTerm>
+<ChildTerm>Benzocaine</ChildTerm>
+<ChildTerm>Amylocaine</ChildTerm>
+<ChildTerm>Mepivacaine</ChildTerm>
+<ChildTerm>Dyclonine Hydrochloride</ChildTerm>
+<ChildTerm>Propoxycaine</ChildTerm>
+<ChildTerm>Dibucaine Hydrochloride</ChildTerm>
+<ChildTerm>Articaine</ChildTerm>
+<ChildTerm>Thiopental Sodium</ChildTerm>
+<ChildTerm>Betoxycaine Hydrochloride</ChildTerm>
+<ChildTerm>Octacaine</ChildTerm>
+<ChildTerm>Dimethisoquin Hydrochloride</ChildTerm>
+<ChildTerm>Proparacaine Hydrochloride</ChildTerm>
+<ChildTerm>Pramoxine Hydrochloride</ChildTerm>
+<ChildTerm>Thiamylal</ChildTerm>
+<ChildTerm>Amoxecaine</ChildTerm>
+<ChildTerm>Flutomidate</ChildTerm>
+<ChildTerm>Bumecaine</ChildTerm>
+<ChildTerm>Etidocaine</ChildTerm>
+<ChildTerm>Fospropofol Disodium</ChildTerm>
+<ChildTerm>Procaine</ChildTerm>
+<ChildTerm>Dimethisoquin</ChildTerm>
+<ChildTerm>Bupivacaine Hydrochloride</ChildTerm>
+<ChildTerm>Hydroxyprocaine</ChildTerm>
+<ChildTerm>Trimecaine</ChildTerm>
+<ChildTerm>Procaine Hydrochloride</ChildTerm>
+<ChildTerm>Ethyl Piperidinoacetylaminobenzoate</ChildTerm>
+<ChildTerm>Hexylcaine Hydrochloride</ChildTerm>
+<ChildTerm>Proparacaine</ChildTerm>
+<ChildTerm>Cinchocaine</ChildTerm>
+<ChildTerm>Enflurane</ChildTerm>
+<ChildTerm>Sameridine</ChildTerm>
+<ChildTerm>Chloroprocaine</ChildTerm>
+<ChildTerm>Eutectic Mixture of Local Anesthetics</ChildTerm>
+<Synonym>anesthetics</Synonym>
+<Synonym>Anaesthetics</Synonym>
+<Synonym>Anesthetics</Synonym>
+<Synonym>Anaesthetic Agent</Synonym>
+<Synonym>Anesthetic Agent</Synonym>
+<Synonym>Anesthestic Drugs</Synonym>
+<Synonym>Anesthetic Agents</Synonym>
+<Synonym>Anesthetic Drugs</Synonym>
+<Synonym>Anesthetic</Synonym>
+<Description>Agents that are capable of inducing a total or partial loss of sensation, especially tactile sensation and pain. They may act to induce general anesthesia, in which an unconscious state is achieved, or may act locally to induce numbness or lack of sensation at a targeted site. (MeSH)</Description>
+<Description>Agents that are capable of inducing a total or partial loss of sensation, especially tactile sensation and pain. They may act to induce general ANESTHESIA, in which an unconscious state is achieved, or may act locally to induce numbness or lack of sensation at a targeted site.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

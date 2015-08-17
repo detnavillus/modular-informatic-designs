@@ -1,0 +1,13 @@
+<Record>
+<Term>Manuka Honey</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Manuka Honey</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Manuka Honey</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Manuka Honey</Synonym>
+<Description>A monofloral honey with potential wound repair and antibacterial activities. Manuka honey is produced by bees fed on the flowers of the New Zealand Manuka bush (Leptospermum scoparium). Manuka honey contains a significant higher concentration of the 1,2-dicarbonyl quinoxaline methylglyoxal (MGO), which may account for its antibacterial activity; this agent may release small amounts of hydrogen peroxide which may also contribute to its antibacterial activity. Manuka honey has been reported to stimulate the formation of new blood capillaries and the growth of fibroblasts and epithelial cells when applied topically to wounds.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

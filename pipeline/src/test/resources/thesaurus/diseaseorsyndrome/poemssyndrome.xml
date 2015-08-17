@@ -1,0 +1,32 @@
+<Record>
+<Term>POEMS Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paraproteinemias</ParentTerm>
+<ParentTerm>Polyneuropathies</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/POEMS Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Paraproteinemias/POEMS Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Paraproteinemias/POEMS Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/POEMS Syndrome</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>POEMS Syndrome</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Paraproteinemias</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Crow Fukase Syndrome</Synonym>
+<Synonym>Takatsuki's Syndrome</Synonym>
+<Synonym>Takatsuki Syndrome</Synonym>
+<Synonym>Crow-Fukase Syndrome</Synonym>
+<Synonym>POEMS Syndrome</Synonym>
+<Description>A multisystemic disorder characterized by a sensorimotor polyneuropathy (POLYNEUROPATHIES), organomegaly, endocrinopathy, monoclonal gammopathy, and pigmentary skin changes. Other clinical features which may be present include EDEMA; CACHEXIA; microangiopathic glomerulopathy; pulmonary hypertension (HYPERTENSION, PULMONARY); cutaneous necrosis; THROMBOCYTOSIS; and POLYCYTHEMIA. This disorder is frequently associated with osteosclerotic myeloma. (From Adams et al., Principles of Neurology, 6th ed, p1335; Rev Med Interne 1997;18(7):553-62)</Description>
+<Source>MeSH</Source>
+</Record>

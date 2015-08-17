@@ -1,0 +1,29 @@
+<Record>
+<Term>Neuroschistosomiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Helminthiasis</ParentTerm>
+<ParentTerm>Schistosomiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections/Central Nervous System Helminthiasis/Neuroschistosomiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Schistosomiasis/Neuroschistosomiasis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Helminthiasis/Neuroschistosomiasis</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Schistosomiasis</BroaderTerm>
+<BroaderTerm>Central Nervous System Helminthiasis</BroaderTerm>
+<BroaderTerm>Neuroschistosomiasis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Schistosomal Myeloradiculopathies</Synonym>
+<Synonym>Schistosomal Myelitis</Synonym>
+<Synonym>Schistosomal Myeloradiculopathy</Synonym>
+<Synonym>Neuroschistosomiasis</Synonym>
+<Synonym>Neuroschistosomiases</Synonym>
+<Synonym>Schistosomal Myelopathy</Synonym>
+<Synonym>Central Nervous System Schistosomiasis</Synonym>
+<Synonym>Schistosomal Myelopathies</Synonym>
+<Description>SCHISTOSOMIASIS of the brain, spinal cord, or meninges caused by infections with trematodes of the genus SCHISTOSOMA (primarily SCHISTOSOMA JAPONICUM; SCHISTOSOMA MANSONI; and SCHISTOSOMA HAEMATOBIUM in humans). S. japonicum infections of the nervous system may cause an acute meningoencephalitis or a chronic encephalopathy. S. mansoni and S. haematobium nervous system infections are associated with acute transverse myelitis involving the lower portions of the spinal cord. (From Joynt, Clinical Neurology, 1998, Ch27, pp61-2)</Description>
+<Source>MeSH</Source>
+</Record>

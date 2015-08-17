@@ -1,0 +1,28 @@
+<Record>
+<Term>Montelukast</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-asthmatic Agent</ParentTerm>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Montelukast</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Montelukast Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Montelukast Sodium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Montelukast</BroaderTerm>
+<Synonym>MONTELUKAST SODIUM</Synonym>
+<Synonym>MK 476</Synonym>
+<Synonym>Montelukast sodium</Synonym>
+<Synonym>Cyclopropaneacetic Acid, 1-((((1R)-1-(3-((1E)-2-(7-chloro-2-quinolinyl)ethenyl)phenyl)-3-(2-(1-hydroxy-1-methylethyl)phenyl)propyl)thio)methyl)-, Monosodium Salt</Synonym>
+<Synonym>MONTELUKAST</Synonym>
+<Synonym>Montelukast Sodium</Synonym>
+<Synonym>Singulair</Synonym>
+<Synonym>Montelukast</Synonym>
+<Description>The monosodium salt of montelukast, a selective and orally active leukotriene receptor antagonist with anti-inflammatory and bronchodilating activities. Montelukast sodium selectively and competitively blocks the cysteinyl leukotriene 1 (CysLT1) receptor, thereby preventing leukotriene D4 from binding to its receptor. This prevents leukotriene-mediated activities, including enhanced migration of eosinophils and neutrophils, increased adhesion of leukocytes, increased monocyte and neutrophil aggregation, increased airway edema, increased capillary permeability and bronchoconstriction.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

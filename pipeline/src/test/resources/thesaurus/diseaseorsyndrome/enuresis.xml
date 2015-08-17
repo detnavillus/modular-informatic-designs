@@ -1,0 +1,39 @@
+<Record>
+<Term>Enuresis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Urination Disorders</ParentTerm>
+<ParentTerm>Elimination Disorders</ParentTerm>
+<ParentTerm>Genitourinary Signs and Symptoms</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Enuresis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Genitourinary Signs and Symptoms/Enuresis</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Elimination Disorders/Enuresis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Enuresis</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Enuresis</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Genitourinary Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Enuresis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Elimination Disorders</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Nonorganic Enuresis</ChildTerm>
+<ChildTerm>Diurnal Enuresis</ChildTerm>
+<ChildTerm>Nocturnal Enuresis</ChildTerm>
+<Synonym>Enuresis</Synonym>
+<Description>Involuntary discharge of URINE after expected age of completed development of urinary control.  This can happen during the daytime (DIURNAL ENURESIS) while one is awake or during sleep (NOCTURNAL ENURESIS). Enuresis can be in children or in adults (as persistent primary enuresis and secondary adult-onset enuresis).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

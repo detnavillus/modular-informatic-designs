@@ -1,0 +1,39 @@
+<Record>
+<Term>Gastroenteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ParentTerm>Gastrointestinal Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection/Gastroenteritis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Bacterial Gastroenteritis</ChildTerm>
+<ChildTerm>Enteritis</ChildTerm>
+<ChildTerm>Proctitis</ChildTerm>
+<ChildTerm>Cholera Morbus</ChildTerm>
+<ChildTerm>Colitis</ChildTerm>
+<ChildTerm>Inflammatory Bowel Diseases</ChildTerm>
+<ChildTerm>Viral Gastroenteritis</ChildTerm>
+<ChildTerm>Typhlitis</ChildTerm>
+<ChildTerm>Appendicitis</ChildTerm>
+<ChildTerm>Dysentery</ChildTerm>
+<ChildTerm>Gastritis</ChildTerm>
+<ChildTerm>Eosinophilic Gastroenteritis</ChildTerm>
+<ChildTerm>Diverticulitis</ChildTerm>
+<ChildTerm>Mucositis</ChildTerm>
+<ChildTerm>Enterocolitis</ChildTerm>
+<ChildTerm>Esophagitis</ChildTerm>
+<Synonym>Gastroenteritis</Synonym>
+<Synonym>Gastroenteritides</Synonym>
+<Description>INFLAMMATION of any segment of the GASTROINTESTINAL TRACT from ESOPHAGUS to RECTUM. Causes of gastroenteritis are many including genetic, infection, HYPERSENSITIVITY, drug effects, and CANCER.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

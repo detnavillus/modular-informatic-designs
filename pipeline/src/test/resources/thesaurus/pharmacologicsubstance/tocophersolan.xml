@@ -1,0 +1,18 @@
+<Record>
+<Term>Tocophersolan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antioxidant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/Tocophersolan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Tocophersolan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TPGS</Synonym>
+<Synonym>Tocophersolan</Synonym>
+<Synonym>Vitamin E PEG-1000-Succinate</Synonym>
+<Synonym>d-Alpha Tocopheryl Polyethylene Glycol 1000 Succinate</Synonym>
+<Description>A water-soluble amphipathic formulation of d-alpha-tocopherol succinate coupled, through a succinate linker, to polyethylene glycol (PEG) 1000. Due to its amphipathic property in which it forms its own micelles, tocophersolan is easily taken up into enterocytes, even in the absence of bile salts; fat soluble d-alpha-tocopherol is then released after hydrolysis. This formulation enhances the absorption of d-alpha-tocopherol compared to the administration of free d-alpha-tocopherol. In addition, tocophersolan may enhance the absorption of water-insoluble agents and other fat-soluble vitamins.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

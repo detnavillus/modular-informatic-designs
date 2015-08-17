@@ -1,0 +1,16 @@
+<Record>
+<Term>Intestinal Polyposis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Polyposis</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Polyposis</BroaderTerm>
+<ChildTerm>Peutz-Jeghers Syndrome</ChildTerm>
+<ChildTerm>Adenomatous Polyposis Coli</ChildTerm>
+<Synonym>Intestinal Polyposis</Synonym>
+<Synonym>Cronkhite-Canada Syndrome</Synonym>
+<Description>The growth of INTESTINAL POLYPS. Growth processes include neoplastic (ADENOMA and CARCINOMA) and non-neoplastic (hyperplastic, mucosal, inflammatory, and other polyps).A nonfamilial polyposis syndrome that is characterized by the presence of diffuse gastrointestinal polyposis, DIARRHEA, and PROTEIN-LOSING ENTEROPATHY. It was first reported by Cronkhite and Canada in 1955.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,41 @@
+<Record>
+<Term>Dyslexia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Learning Disorders</ParentTerm>
+<ParentTerm>Language Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders/Dyslexia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Communication Disorders/Learning Disorders/Dyslexia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Dyslexia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Learning Disorders/Dyslexia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders/Dyslexia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Dyslexia</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Learning Disorders</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Dyslexia</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Dyslexia, Acquired</ChildTerm>
+<Synonym>Developmental Dyslexia</Synonym>
+<Synonym>Word Blindnesses</Synonym>
+<Synonym>Developmental Reading Disability</Synonym>
+<Synonym>Dyslexias</Synonym>
+<Synonym>Developmental Reading Disorder</Synonym>
+<Synonym>Word Blindness</Synonym>
+<Synonym>Dyslexia</Synonym>
+<Synonym>Developmental Reading Disabilities</Synonym>
+<Synonym>Alexia</Synonym>
+<Synonym>Alexias</Synonym>
+<Synonym>Developmental Dyslexias</Synonym>
+<Synonym>Developmental Reading Disorders</Synonym>
+<Synonym>Reading Disorders</Synonym>
+<Synonym>Reading Disorder</Synonym>
+<Description>A cognitive disorder characterized by an impaired ability to comprehend written and printed words or phrases despite intact vision. This condition may be developmental or acquired. Developmental dyslexia is marked by reading achievement that falls substantially below that expected given the individual's chronological age, measured intelligence, and age-appropriate education. The disturbance in reading significantly interferes with academic achievement or with activities of daily living that require reading skills. (From DSM-IV)</Description>
+<Source>MeSH</Source>
+</Record>

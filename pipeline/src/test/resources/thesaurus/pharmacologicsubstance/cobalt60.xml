@@ -1,0 +1,18 @@
+<Record>
+<Term>Cobalt 60</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<ParentTerm>Radioisotope</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Isotope/Radioisotope/Cobalt 60</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Radioisotope</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cobalt 60</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Isotope</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cobalt 60</Synonym>
+<Synonym>cobalt 60</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

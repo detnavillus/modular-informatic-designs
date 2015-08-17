@@ -1,0 +1,21 @@
+<Record>
+<Term>Nairobi Sheep Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Bunyaviridae Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Nairobi Sheep Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases/Nairobi Sheep Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections/Nairobi Sheep Disease</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Nairobi Sheep Disease</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Nairobi Sheep Disease</Synonym>
+<Description>An arbovirus infection of sheep and goats transmitted by ticks. It is characterized by high fever and hemorrhagic gastroenteritis.</Description>
+<Source>MeSH</Source>
+</Record>

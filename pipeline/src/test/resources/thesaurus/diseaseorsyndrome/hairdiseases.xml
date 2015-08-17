@@ -1,0 +1,19 @@
+<Record>
+<Term>Hair Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Folliculitis</ChildTerm>
+<ChildTerm>Hypotrichosis</ChildTerm>
+<ChildTerm>Monilethrix</ChildTerm>
+<ChildTerm>Hirsutism</ChildTerm>
+<ChildTerm>Hypertrichosis</ChildTerm>
+<ChildTerm>Menkes Kinky Hair Syndrome</ChildTerm>
+<Synonym>Hair Diseases</Synonym>
+<Synonym>Hair Disease</Synonym>
+<Description>Diseases affecting the orderly growth and persistence of hair.</Description>
+<Source>MeSH</Source>
+</Record>

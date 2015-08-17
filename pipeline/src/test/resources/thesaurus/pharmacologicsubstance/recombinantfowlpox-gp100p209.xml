@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Fowlpox-gp100p209</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-gp100p209</ClassificationPath>
+<BroaderTerm>Recombinant Fowlpox-gp100p209</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Fowlpox-gp100p209</Synonym>
+<Synonym>rF-gp100p209</Synonym>
+<Description>A viral vaccine comprised of a recombinant fowlpox vector construct encoding a modified epitope of the melanoma antigen glycoprotein 100 (gp100), ES-2092M(gp100), containing an endoplasmic reticulum signal sequence targeted to the endoplasmic reticulum apparatus. Vaccination with recombinant fowlpox-gp100p209 vaccine may stimulate the host immune system more efficiently to mount a cytotoxic T lymphocyte response against tumor cells expressing the gp100 antigen.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

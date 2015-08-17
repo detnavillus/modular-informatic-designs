@@ -1,0 +1,51 @@
+<Record>
+<Term>CREST Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Calcinosis</ParentTerm>
+<ParentTerm>Scleroderma, Limited</ParentTerm>
+<ParentTerm>Raynaud Disease</ParentTerm>
+<ParentTerm>Telangiectasis</ParentTerm>
+<ParentTerm>Esophageal Motility Disorders</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Deglutition Disorders/Esophageal Motility Disorders/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Raynaud Disease/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Telangiectasis/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Calcinosis/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Scleroderma, Systemic/Scleroderma, Limited/CREST Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Scleroderma, Systemic/Scleroderma, Limited/CREST Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Calcinosis</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>CREST Syndrome</BroaderTerm>
+<BroaderTerm>Scleroderma, Limited</BroaderTerm>
+<BroaderTerm>Deglutition Disorders</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Raynaud Disease</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Scleroderma, Systemic</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Telangiectasis</BroaderTerm>
+<BroaderTerm>Esophageal Motility Disorders</BroaderTerm>
+<Synonym>Calcinosis Raynaud Phenomenon Sclerodactyly Telangiectasia</Synonym>
+<Synonym>CREST Syndrome</Synonym>
+<Synonym>CREST Syndromes</Synonym>
+<Synonym>CRST Syndromes</Synonym>
+<Synonym>CRST Syndrome</Synonym>
+<Synonym>Calcinosis-Raynaud Phenomenon-Sclerodactyly-Telangiectasia</Synonym>
+<Description>A variant of systemic sclerosis characterized by calcinosis, Raynaud phenomenon, esophageal motility disorders, sclerodactyly, and telangiectasia.</Description>
+<Description>A mild form of LIMITED SCLERODERMA, a multi-system disorder. Its features include symptoms of CALCINOSIS; RAYNAUD DISEASE; ESOPHAGEAL MOTILITY DISORDERS; sclerodactyly, and TELANGIECTASIS. When the defect in esophageal function is not prominent, it is known as CRST syndrome.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

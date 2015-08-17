@@ -1,0 +1,24 @@
+<Record>
+<Term>Opioid Analgesics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Central Nervous System Depressants</ParentTerm>
+<ParentTerm>Analgesics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Analgesics/Analgesics, Opioid</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Analgesics, Opioid</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Analgesics/Analgesics, Opioid</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Analgesics, Opioid</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Analgesics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Opioids</Synonym>
+<Synonym>Opioid Analgesics</Synonym>
+<Description>Compounds with activity like OPIATE ALKALOIDS, acting at OPIOID RECEPTORS. Properties include induction of ANALGESIA or NARCOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

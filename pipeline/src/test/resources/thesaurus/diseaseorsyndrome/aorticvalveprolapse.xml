@@ -1,0 +1,15 @@
+<Record>
+<Term>Aortic Valve Prolapse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Valve Prolapse</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Heart Valve Prolapse/Aortic Valve Prolapse</ClassificationPath>
+<BroaderTerm>Heart Valve Prolapse</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Aortic Valve Prolapse</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<Synonym>Aortic Valve Prolapse</Synonym>
+<Synonym>Aortic Valve Prolapses</Synonym>
+<Description>The downward displacement of the cuspal or pointed end of the trileaflet AORTIC VALVE causing misalignment of the cusps. Severe valve distortion can cause leakage and allow the backflow of blood from the ASCENDING AORTA back into the LEFT VENTRICLE, leading to aortic regurgitation.</Description>
+<Source>MeSH</Source>
+</Record>

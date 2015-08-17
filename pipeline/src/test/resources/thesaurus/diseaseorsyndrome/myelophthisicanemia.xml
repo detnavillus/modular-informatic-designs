@@ -1,0 +1,20 @@
+<Record>
+<Term>Myelophthisic Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myeloproliferative Disorders</ParentTerm>
+<ParentTerm>Anemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Myelophthisic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Anemia, Myelophthisic</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Myelophthisic</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Myelophthisic Anemias</Synonym>
+<Synonym>Leukoerythroblastic Anemias</Synonym>
+<Synonym>Myelophthisic Anemia</Synonym>
+<Synonym>Leukoerythroblastic Anemia</Synonym>
+<Description>Anemia characterized by appearance of immature myeloid and nucleated erythrocytes in the peripheral blood, resulting from infiltration of the bone marrow by foreign or abnormal tissue.</Description>
+<Source>MeSH</Source>
+</Record>

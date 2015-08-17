@@ -1,0 +1,19 @@
+<Record>
+<Term>Viral Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Virus Diseases/Pneumonia, Viral</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Viral</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Viral</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia, Viral</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<Synonym>Viral Pneumonia</Synonym>
+<Synonym>Viral Pneumonias</Synonym>
+<Description>Inflammation of the lung parenchyma that is caused by a viral infection.</Description>
+<Source>MeSH</Source>
+</Record>

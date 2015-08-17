@@ -1,0 +1,25 @@
+<Record>
+<Term>Tenofovir Disoproxil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Reverse Transcriptase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Reverse Transcriptase Inhibitor/Tenofovir Disoproxil Fumarate</ClassificationPath>
+<BroaderTerm>Tenofovir Disoproxil Fumarate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Reverse Transcriptase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Tenofovir Disoproxil Fumarate</Synonym>
+<Synonym>Tenofovir Disoproxil</Synonym>
+<Synonym>Tenofovir disoproxil fumarate</Synonym>
+<Synonym>9-((R)-2-((Bis(((isopropoxycarbonyl)oxy)methoxy)phosphinyl)methoxy)propyl)adenine, Fumarate</Synonym>
+<Synonym>Viread</Synonym>
+<Synonym>Tenofovir DF</Synonym>
+<Synonym>TDF</Synonym>
+<Synonym>Tenofovir disoproxil</Synonym>
+<Synonym>TENOFOVIR DISOPROXIL FUMARATE</Synonym>
+<Description>A pro-drug, a fumaric acid salt of tenofovir and an acyclic nucleoside phosphonate diester analog with antiviral property. In vivo tenofovir disoproxil fumarate is converted into tenofovir by diester hydrolysis in the intestinal lumen and plasma, followed by internalization into cells by endocytosis and subsequent phosphorylation into tenofovir diphosphate. Tenofovir diphosphate competes with the natural substrate dATP for incorporation into viral DNA by reverse transcriptase of human immunodeficiency virus (HIV). The substituted DNA-tenofovir diphosphate molecule prevents further DNA elongation, and consequently impairs viral replication and propagation. This agent prevents HIV from reproducing in uninfected cells only. Tenofovir also exhibits activity against the hepatitis B virus (HBV).</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

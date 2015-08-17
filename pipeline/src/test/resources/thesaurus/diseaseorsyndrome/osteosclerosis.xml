@@ -1,0 +1,26 @@
+<Record>
+<Term>Osteosclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Morphologic Finding</ParentTerm>
+<ParentTerm>Osteochondrodysplasias</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Morphologic Finding/Osteosclerosis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Osteochondrodysplasias/Osteosclerosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Morphologic Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Osteosclerosis</BroaderTerm>
+<BroaderTerm>Osteochondrodysplasias</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Osteopetrosis</ChildTerm>
+<ChildTerm>Osteopoikilosis</ChildTerm>
+<ChildTerm>Melorheostosis</ChildTerm>
+<Synonym>Osteosclerosis</Synonym>
+<Synonym>Osteoscleroses</Synonym>
+<Description>An abnormal hardening or increased density of bone tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

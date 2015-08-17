@@ -1,0 +1,41 @@
+<Record>
+<Term>Thrombocytopenic Purpura</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic and Lymphocytic Disorder</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ParentTerm>Thrombotic Microangiopathies</ParentTerm>
+<ParentTerm>Purpura</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura/Purpura, Thrombocytopenic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombotic Microangiopathies/Purpura, Thrombocytopenic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Hematologic and Lymphocytic Disorder/Thrombocytopenic Purpura</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura, Thrombocytopenic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Purpura, Thrombocytopenic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombotic Microangiopathies</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Purpura, Thrombocytopenic</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Purpura</BroaderTerm>
+<BroaderTerm>Thrombocytopenic Purpura</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Idiopathic Thrombocytopenic Purpura</ChildTerm>
+<ChildTerm>Purpura, Thrombotic Thrombocytopenic</ChildTerm>
+<ChildTerm>Purpura, Thrombocytopenic, Idiopathic</ChildTerm>
+<Synonym>Thrombopenic Purpura</Synonym>
+<Synonym>Thrombocytopenic Purpuras</Synonym>
+<Synonym>Thrombopenic Purpuras</Synonym>
+<Synonym>Thrombocytopenic Purpura</Synonym>
+<Description>Purpura associated with a reduction in circulating blood platelets which can result from a variety of factors.</Description>
+<Description>Any form of purpura in which the PLATELET COUNT is decreased. Many forms are thought to be caused by immunological mechanisms.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

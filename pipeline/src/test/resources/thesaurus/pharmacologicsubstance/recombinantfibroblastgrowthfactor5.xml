@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Fibroblast Growth Factor 5</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Fibroblast Growth Factor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Growth Factor/Recombinant Fibroblast Growth Factor/Recombinant Fibroblast Growth Factor 5</ClassificationPath>
+<BroaderTerm>Recombinant Fibroblast Growth Factor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fibroblast Growth Factor 5</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Growth Factor</BroaderTerm>
+<Synonym>FGF5</Synonym>
+<Synonym>HBGF-5</Synonym>
+<Synonym>Recombinant Fibroblast Growth Factor 5</Synonym>
+<Description>A recombinant form of the heparin-binding fibroblast growth factor 5 (FGF-5).  FGF-5 may function as a growth factor during embryogenesis and may have a role in wound repair throughout adulthood because of its mitogenic effects on fibroblasts and endothelial cells.  Overexpressed in certain tumor cell types, this agent may promote tumor growth and angiogenesis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

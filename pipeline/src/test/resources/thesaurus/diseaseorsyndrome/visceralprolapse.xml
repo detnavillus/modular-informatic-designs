@@ -1,0 +1,20 @@
+<Record>
+<Term>Visceral Prolapse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ParentTerm>Pelvic Organ Prolapse</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Prolapse/Pelvic Organ Prolapse/Visceral Prolapse</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Visceral Prolapse</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Visceral Prolapse</BroaderTerm>
+<BroaderTerm>Pelvic Organ Prolapse</BroaderTerm>
+<BroaderTerm>Prolapse</BroaderTerm>
+<Synonym>Visceral Prolapse</Synonym>
+<Synonym>Splanchnoptosis</Synonym>
+<Synonym>Visceroptosis</Synonym>
+<Description>The prolapse or downward displacement of the VISCERA.</Description>
+<Source>MeSH</Source>
+</Record>

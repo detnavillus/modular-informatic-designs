@@ -1,0 +1,25 @@
+<Record>
+<Term>African Horse Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Horse Diseases</ParentTerm>
+<ParentTerm>Reoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Reoviridae Infections/African Horse Sickness</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/African Horse Sickness</ClassificationPath>
+<ClassificationPath>Animal Diseases/Horse Diseases/African Horse Sickness</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Horse Diseases</BroaderTerm>
+<BroaderTerm>African Horse Sickness</BroaderTerm>
+<BroaderTerm>Reoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>African Horse Sicknesses</Synonym>
+<Synonym>African Horsesickness</Synonym>
+<Synonym>African Horse Sickness</Synonym>
+<Synonym>Equine Plagues</Synonym>
+<Synonym>African Horsesicknesses</Synonym>
+<Synonym>Equine Plague</Synonym>
+<Description>An insect-borne reovirus infection of horses, mules and donkeys in Africa and the Middle East; characterized by pulmonary edema, cardiac involvement, and edema of the head and neck.</Description>
+<Source>MeSH</Source>
+</Record>

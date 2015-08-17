@@ -1,0 +1,17 @@
+<Record>
+<Term>IGF1R Antagonist BMS-754807</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/IGF1R Antagonist BMS-754807</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>IGF1R Antagonist BMS-754807</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BMS-754807</Synonym>
+<Synonym>IGF1R Antagonist BMS-754807</Synonym>
+<Description>An orally bioavailable antagonist of human insulin-like growth factor type I receptor (IGF-1R) with potential antineoplastic activity. IGF-1R antagonist BMS-7548077 binds to IGF-1R, preventing IGF-1 ligand binding and activation of IGF-1R-mediated signaling pathways; inhibition of IGF-1R-mediated signaling pathways may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. IGF-1R is a receptor tyrosine kinase expressed on most tumor cells and is involved in mitogenesis, angiogenesis, and tumor cell survival.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

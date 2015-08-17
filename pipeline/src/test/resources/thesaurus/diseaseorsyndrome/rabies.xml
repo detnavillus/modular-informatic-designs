@@ -1,0 +1,26 @@
+<Record>
+<Term>Rabies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Infection</ParentTerm>
+<ParentTerm>Rhabdoviridae Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Rabies</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Rhabdoviridae Infections/Rabies</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Rabies</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Rhabdoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>rabies</Synonym>
+<Synonym>Hydrophobia</Synonym>
+<Synonym>Rabies</Synonym>
+<Description>An acute infectious disease of the central nervous system affecting almost all mammals, including humans. It is caused by a rhabdovirus and usually spread by contamination with virus-laden saliva of bites inflicted by rabid animals. Important animal vectors include the dog, cat, vampire bat, mongoose, skunk, wolf, raccoon, and fox. (From Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

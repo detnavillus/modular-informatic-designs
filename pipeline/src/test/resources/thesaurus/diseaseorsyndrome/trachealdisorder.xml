@@ -1,0 +1,17 @@
+<Record>
+<Term>Tracheal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Tracheal Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tracheal Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Tracheal Disorder</ChildTerm>
+<Synonym>Tracheal Disease</Synonym>
+<Synonym>Tracheal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

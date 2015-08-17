@@ -1,0 +1,17 @@
+<Record>
+<Term>Dog Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Dog Diseases</ClassificationPath>
+<BroaderTerm>Dog Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Distemper</ChildTerm>
+<ChildTerm>Hepatitis, Infectious Canine</ChildTerm>
+<ChildTerm>Hip Dysplasia, Canine</ChildTerm>
+<Synonym>Dog Diseases</Synonym>
+<Synonym>Dog Disease</Synonym>
+<Synonym>Canine Diseases</Synonym>
+<Synonym>Canine Disease</Synonym>
+<Description>Diseases of the domestic dog (Canis familiaris). This term does not include diseases of wild dogs, WOLVES; FOXES; and other Canidae for which the heading CARNIVORA is used.</Description>
+<Source>MeSH</Source>
+</Record>

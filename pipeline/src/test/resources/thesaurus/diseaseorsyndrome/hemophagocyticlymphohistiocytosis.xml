@@ -1,0 +1,31 @@
+<Record>
+<Term>Hemophagocytic Lymphohistiocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Histiocytosis, Non-Langerhans-Cell</ParentTerm>
+<ParentTerm>Hemophagocytic Syndrome</ParentTerm>
+<ClassificationPath>Hemophagocytic Syndrome/Hemophagocytic Lymphohistiocytosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell/Lymphohistiocytosis, Hemophagocytic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hemophagocytic Lymphohistiocytosis</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Lymphohistiocytosis, Hemophagocytic</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Hemophagocytic Syndrome</BroaderTerm>
+<ChildTerm>Familiar Hemophagocytic Lymphohistiocytosis</ChildTerm>
+<Synonym>Familial Hemophagocytic Lymphohistiocytoses</Synonym>
+<Synonym>Hemophagocytic Lymphohistiocytosis</Synonym>
+<Synonym>Hemophagocytic Lymphohistiocytoses</Synonym>
+<Synonym>Primary Hemophagocytic Lymphohistiocytoses</Synonym>
+<Synonym>Primary Hemophagocytic Lymphohistiocytosis</Synonym>
+<Synonym>Familial Hemophagocytic Lymphocytosis</Synonym>
+<Synonym>Hemophagocytic Syndrome</Synonym>
+<Synonym>Familial Hemophagocytic Lymphohistiocytosis</Synonym>
+<Synonym>Reactive Hemophagocytic Syndrome</Synonym>
+<Synonym>Infection-Associated Hemophagocytic Syndrome</Synonym>
+<Synonym>Familial Hemophagocytic Lymphocytoses</Synonym>
+<Synonym>Hemophagocytic Syndromes</Synonym>
+<Description>A group of related disorders characterized by LYMPHOCYTOSIS; HISTIOCYTOSIS; and hemophagocytosis. The two major forms are familial and reactive.Proliferation of HISTIOCYTES in response to viral, bacterial, fungal, or parasitic infections.Rare form of hemophagocytic lymphohistiocytosis with multiorgan involvement seen in infants and young children</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

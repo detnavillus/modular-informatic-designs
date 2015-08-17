@@ -1,0 +1,17 @@
+<Record>
+<Term>Essential Minor Component of Pharmaceutical Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Essential Minor Component of Pharmaceutical Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Essential Minor Component of Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Essential Minor Component of Drug Excipient</Synonym>
+<Synonym>Essential Minor Component of Excipient</Synonym>
+<Synonym>Essential Minor Component of Pharmaceutical Excipient</Synonym>
+<Description>Any material present in a pharmaceutical excipient that is not the main chemical component or components, and is necessary for the excipient's proper performance during use.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

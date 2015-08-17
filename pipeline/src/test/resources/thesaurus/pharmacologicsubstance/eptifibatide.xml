@@ -1,0 +1,20 @@
+<Record>
+<Term>Eptifibatide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiplatelet Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiplatelet Agent/Eptifibatide</ClassificationPath>
+<BroaderTerm>Antiplatelet Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Eptifibatide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Integrilin</Synonym>
+<Synonym>Eptifibatide</Synonym>
+<Synonym>EPTIFIBATIDE</Synonym>
+<Synonym>L-Cysteinamide, N6-(aminoiminomethyl)-N2-(3-mercapto-1-oxopropyl)-L-lysylglycyl-L-alpha-aspartyl-L-tryptophy-L-prolyl-, cyclic(1-6)-disulfide</Synonym>
+<Description>A cyclical heptapeptide with anticoagulant activity. Eptifibatide selectively and reversibly binds to and blocks the platelet glycoprotein IIb/IIIa receptor. This prevents the binding of fibrinogen, von Willebrand factor, and other adhesive ligands and leads to an inhibition of platelet aggregation and prevents thrombus development.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

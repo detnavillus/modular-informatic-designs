@@ -1,0 +1,37 @@
+<Record>
+<Term>Movement Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dyskinesias</ChildTerm>
+<ChildTerm>Dystonic Disorders</ChildTerm>
+<ChildTerm>Multiple System Atrophy</ChildTerm>
+<ChildTerm>Supranuclear Palsy, Progressive</ChildTerm>
+<ChildTerm>Tic Disorders</ChildTerm>
+<ChildTerm>Akathisia, Drug-Induced</ChildTerm>
+<ChildTerm>Angelman Syndrome</ChildTerm>
+<ChildTerm>Parkinsonian Disorders</ChildTerm>
+<ChildTerm>Essential Tremor</ChildTerm>
+<ChildTerm>Pantothenate Kinase-Associated Neurodegeneration</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<Synonym>Movement Disorders</Synonym>
+<Synonym>Movement Disorder</Synonym>
+<Synonym>Movement Disorder Syndromes</Synonym>
+<Synonym>Movement Disorder Syndrome</Synonym>
+<Synonym>Dyskinesia Syndromes</Synonym>
+<Synonym>Dyskinesia Syndrome</Synonym>
+<Synonym>Lingual-Facial-Buccal Dyskinesia</Synonym>
+<Synonym>Lingual Facial Buccal Dyskinesia</Synonym>
+<Synonym>Lingual-Facial-Buccal Dyskinesias</Synonym>
+<Synonym>Orofacial Dyskinesia</Synonym>
+<Synonym>Orofacial Dyskinesias</Synonym>
+<Synonym>Oral Dyskinesia</Synonym>
+<Synonym>Etat Marbre</Synonym>
+<Synonym>Status Marmoratus</Synonym>
+<Description>Syndromes which feature DYSKINESIAS as a cardinal manifestation of the disease process. Included in this category are degenerative, hereditary, post-infectious, medication-induced, post-inflammatory, and post-traumatic conditions.</Description>
+<Source>MeSH</Source>
+</Record>

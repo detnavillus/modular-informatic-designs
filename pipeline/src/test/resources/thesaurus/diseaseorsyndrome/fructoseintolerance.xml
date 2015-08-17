@@ -1,0 +1,25 @@
+<Record>
+<Term>Fructose Intolerance</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fructose Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Fructose Metabolism, Inborn Errors/Fructose Intolerance</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Fructose Metabolism, Inborn Errors/Fructose Intolerance</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Fructose Intolerance</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Fructose Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>Fructose-1-Phosphate Aldolase Deficiencies</Synonym>
+<Synonym>Fructose Aldolase B Deficiency</Synonym>
+<Synonym>Hereditary Fructose Intolerances</Synonym>
+<Synonym>Fructose 1 Phosphate Aldolase Deficiency</Synonym>
+<Synonym>Fructose Intolerance</Synonym>
+<Synonym>Fructose-1-Phosphate Aldolase Deficiency</Synonym>
+<Synonym>Hereditary Fructose Intolerance</Synonym>
+<Synonym>Fructose Intolerances</Synonym>
+<Description>An autosomal recessive fructose metabolism disorder due to deficient fructose-1-phosphate aldolase (EC 2.1.2.13) activity, resulting in accumulation of fructose-1-phosphate. The accumulated fructose-1-phosphate inhibits glycogenolysis and gluconeogenesis, causing severe hypoglycemia following ingestion of fructose. Prolonged fructose ingestion in infants leads ultimately to hepatic failure and death. Patients develop a strong distaste for sweet food, and avoid a chronic course of the disease by remaining on a fructose- and sucrose-free diet.</Description>
+<Source>MeSH</Source>
+</Record>

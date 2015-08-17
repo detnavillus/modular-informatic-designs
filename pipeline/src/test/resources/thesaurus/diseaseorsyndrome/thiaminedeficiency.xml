@@ -1,0 +1,19 @@
+<Record>
+<Term>Thiamine Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Thiamine Deficiency</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Thiamine Deficiency</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Beriberi</ChildTerm>
+<ChildTerm>Wernicke Encephalopathy</ChildTerm>
+<Synonym>Thiamine Deficiency</Synonym>
+<Synonym>Thiamine Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of THIAMINE in the diet, characterized by anorexia, irritability, and weight loss. Later, patients experience weakness, peripheral neuropathy, headache, and tachycardia. In addition to being caused by a poor diet, thiamine deficiency in the United States most commonly occurs as a result of alcoholism, since ethanol interferes with thiamine absorption. In countries relying on polished rice as a dietary staple, BERIBERI prevalence is very high. (From Cecil Textbook of Medicine, 19th ed, p1171)</Description>
+<Source>MeSH</Source>
+</Record>

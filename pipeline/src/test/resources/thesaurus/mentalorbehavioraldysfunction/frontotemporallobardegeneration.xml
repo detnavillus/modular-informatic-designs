@@ -1,0 +1,32 @@
+<Record>
+<Term>Frontotemporal Lobar Degeneration</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>TDP-43 Proteinopathies</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Frontotemporal Lobar Degeneration</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/TDP-43 Proteinopathies/Frontotemporal Lobar Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Frontotemporal Lobar Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/TDP-43 Proteinopathies/Frontotemporal Lobar Degeneration</ClassificationPath>
+<BroaderTerm>TDP-43 Proteinopathies</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Frontotemporal Lobar Degeneration</BroaderTerm>
+<ChildTerm>Primary Progressive Nonfluent Aphasia</ChildTerm>
+<ChildTerm>Frontotemporal Dementia</ChildTerm>
+<Synonym>FTLDs</Synonym>
+<Synonym>FTLD</Synonym>
+<Synonym>Frontotemporal Lobar Degenerations</Synonym>
+<Synonym>Semantic Dementia</Synonym>
+<Synonym>Semantic Dementias</Synonym>
+<Synonym>Frontotemporal Lobar Degeneration</Synonym>
+<Description>Heterogeneous group of neurodegenerative disorders characterized by frontal and temporal lobe atrophy associated with neuronal loss, gliosis, and dementia. Patients exhibit progressive changes in social, behavioral, and/or language function. Multiple subtypes or forms are recognized based on presence or absence of TAU PROTEIN inclusions. FTLD includes three clinical syndromes: FRONTOTEMPORAL DEMENTIA, semantic dementia, and PRIMARY PROGRESSIVE NONFLUENT APHASIA.</Description>
+<Source>MeSH</Source>
+</Record>

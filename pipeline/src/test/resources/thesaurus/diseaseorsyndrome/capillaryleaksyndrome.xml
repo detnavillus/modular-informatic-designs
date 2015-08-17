@@ -1,0 +1,27 @@
+<Record>
+<Term>Capillary Leak Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Capillary Leak Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Capillary Leak Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Capillary Leak Syndrome</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>CLS</Synonym>
+<Synonym>AVLS</Synonym>
+<Synonym>Capillary Leak Syndrome</Synonym>
+<Synonym>Systemic Capillary Leak Syndrome</Synonym>
+<Synonym>Capillary Leak Syndromes</Synonym>
+<Synonym>Clinical Capillary Leak Syndrome</Synonym>
+<Synonym>Clarkson Disease</Synonym>
+<Synonym>Acute Vascular Leak Syndrome</Synonym>
+<Description>A condition characterized by recurring episodes of fluid leaking from capillaries into extra-vascular compartments causing hematocrit to rise precipitously. If not treated, generalized vascular leak can lead to generalized EDEMA; SHOCK; cardiovascular collapse; and MULTIPLE ORGAN FAILURE.</Description>
+<Description>A syndrome characterized by leakage of intravascular fluids into the extravascular space. This syndrome is observed in patients who demonstrate a state of generalized leaky capillaries following shock syndromes, low-flow states, ischemia-reperfusion injuries, toxemias, medications, or poisoning. It can lead to generalized edema and multiple organ failure.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

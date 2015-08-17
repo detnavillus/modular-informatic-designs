@@ -1,0 +1,17 @@
+<Record>
+<Term>Guaifenesin-DM</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cough and Cold Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Cough and Cold Preparation/Guaifenesin-DM</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cough and Cold Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Guaifenesin-DM</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Guaifenesin-DM</Synonym>
+<Synonym>Robitussin DM</Synonym>
+<Description>A combination preparation containing guaifenesin and the opioid agonist dextrometorphan with expectorant and antitussive activities, respectively. Guaifenesin works by drawing water into respiratory tracts, by which reducing adhesiveness and surface tension of mucus as well as increasing hydration of mucus, thereby reducing the viscosity of mucus and making cough more productive. Dextrometorphan, a synthetic, methylated dextrorotary analogue of levorphanol, exhibits antitussive activity by activating opioid receptors in the cough center in the central nervous system, thereby raising the threshold for coughing.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

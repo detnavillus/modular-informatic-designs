@@ -1,0 +1,17 @@
+<Record>
+<Term>Wheat Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Food Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity/Wheat Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Wheat Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Wheat Hypersensitivity</Synonym>
+<Synonym>Wheat Hypersensitivities</Synonym>
+<Synonym>Wheat Allergy</Synonym>
+<Synonym>Wheat Allergies</Synonym>
+<Description>Allergic reaction to wheat that is triggered by the immune system.</Description>
+<Source>MeSH</Source>
+</Record>

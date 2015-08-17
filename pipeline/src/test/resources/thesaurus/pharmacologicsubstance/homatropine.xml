@@ -1,0 +1,41 @@
+<Record>
+<Term>Homatropine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Mydriatic Agent</ParentTerm>
+<ParentTerm>Anticholinergic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Alkaloid/Homatropine Hydrobromide,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Mydriatic Agent/Homatropine Hydrobromide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Homatropine Methylbromide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Homatropine</ClassificationPath>
+<BroaderTerm>Homatropine Methylbromide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Alkaloid</BroaderTerm>
+<BroaderTerm>Homatropine Hydrobromide,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Homatropine Hydrobromide</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Homatropine</BroaderTerm>
+<BroaderTerm>Mydriatic Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Homapin</Synonym>
+<Synonym>Homatropine Methylbromide</Synonym>
+<Synonym>HOMATROPINE HYDROBROMIDE</Synonym>
+<Synonym>Homapin-10</Synonym>
+<Synonym>Homatropine</Synonym>
+<Synonym>HOMATROPINE</Synonym>
+<Synonym>HOMATROPINE METHYLBROMIDE</Synonym>
+<Synonym>Isopto Homatropine</Synonym>
+<Synonym>Homatropine Hydrobromide</Synonym>
+<Synonym>Homapin-5</Synonym>
+<Synonym>Equipin</Synonym>
+<Synonym>Homatropine methylbromide</Synonym>
+<Description>The hydrobromide salt form of homatropine, a synthetic tertiary amine alkaloid with antimuscarinic properties. Homatropine, a competitive inhibitor of acetylcholine at the muscarinic receptor, blocks parasympathetic nerve stimulation. When applied topically to the eye, dilation of the pupil (mydriasis) and paralysis of accommodation (cycloplegia) result from the local anticholinergic effects on the ciliary muscle and iris.</Description>
+<Description>A synthetic tertiary amine alkaloid with antimuscarinic properties. Homatropine, a competitive inhibitor of acetylcholine at the muscarinic receptor, blocks parasympathetic nerve stimulation.</Description>
+<Description>The methylbromide salt of homatropine, a synthetic tertiary amine alkaloid with antimuscarinic properties. Homatropine methylbromide, a competitive inhibitor of acetylcholine at the muscarinic receptor, blocks parasympathetic nerve stimulation, thereby inhibiting pepsin and gastrin secretion. When administered in high doses, this drug produces inhibitory effects on acetylcholine activity, specifically on smooth muscle located in the gastrointestinal, biliary, and genitourinary tracts, resulting in an anti-spasmodic effect.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

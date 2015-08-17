@@ -1,0 +1,30 @@
+<Record>
+<Term>Night Terrors</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Sleep Arousal Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/Sleep Arousal Disorders/Night Terrors</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/Sleep Arousal Disorders/Night Terrors</ClassificationPath>
+<BroaderTerm>Sleep Arousal Disorders</BroaderTerm>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Night Terrors</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Sleep Terror Disorder</Synonym>
+<Synonym>Pavor Nocturnus</Synonym>
+<Synonym>Secondary Night Terrors</Synonym>
+<Synonym>Secondary Night Terror</Synonym>
+<Synonym>Night Terrors</Synonym>
+<Synonym>Childhood Night Terror</Synonym>
+<Synonym>Adult Night Terrors</Synonym>
+<Synonym>Adult Pavor Nocturnus</Synonym>
+<Synonym>Primary Night Terror</Synonym>
+<Synonym>Sleep Terrors</Synonym>
+<Synonym>Childhood Pavor Nocturnus</Synonym>
+<Synonym>Childhood Night Terrors</Synonym>
+<Synonym>Adult Night Terror</Synonym>
+<Synonym>Sleep Terror</Synonym>
+<Synonym>Primary Night Terrors</Synonym>
+<Description>A disorder characterized by incomplete arousals from sleep associated with behavior suggesting extreme fright. This condition primarily affects children and young adults and the individual generally has no recall of the event. Episodes tend to occur during stage III or IV. SOMNAMBULISM is frequently associated with this condition. (Adams et al., Principles of Neurology, 6th ed, p391)</Description>
+<Source>MeSH</Source>
+</Record>

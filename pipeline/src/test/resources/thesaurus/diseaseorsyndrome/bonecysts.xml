@@ -1,0 +1,33 @@
+<Record>
+<Term>Bone Cysts</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cysts</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Neoplasms/Cysts/Bone Cysts</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Cysts</ClassificationPath>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Bone Cysts</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Bone Cysts, Aneurysmal</ChildTerm>
+<ChildTerm>Jaw Cysts</ChildTerm>
+<Synonym>Bone Cysts</Synonym>
+<Synonym>Intra-Osseous Ganglia</Synonym>
+<Synonym>Solitary Cyst</Synonym>
+<Synonym>Intra Osseous Ganglion</Synonym>
+<Synonym>Intra-Osseous Ganglias</Synonym>
+<Synonym>Bone Cyst</Synonym>
+<Synonym>Intraosseous Ganglions</Synonym>
+<Synonym>Intraosseous Ganglion</Synonym>
+<Synonym>Intraosseous Ganglias</Synonym>
+<Synonym>Subchondral Cyst</Synonym>
+<Synonym>Intraosseous Ganglia</Synonym>
+<Synonym>Intra-Osseous Ganglions</Synonym>
+<Synonym>Intra Osseous Ganglia</Synonym>
+<Synonym>Intra-Osseous Ganglion</Synonym>
+<Synonym>Solitary Cysts</Synonym>
+<Synonym>Subchondral Cysts</Synonym>
+<Description>Benign unilocular lytic areas in the proximal end of a long bone with well defined and narrow endosteal margins. The cysts contain fluid and the cyst walls may contain some giant cells. Bone cysts usually occur in males between the ages 3-15 years.</Description>
+<Source>MeSH</Source>
+</Record>

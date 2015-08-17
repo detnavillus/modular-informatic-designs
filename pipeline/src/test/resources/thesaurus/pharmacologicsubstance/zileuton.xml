@@ -1,0 +1,22 @@
+<Record>
+<Term>Zileuton</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Lipooxygenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Lipooxygenase Inhibitor/Zileuton</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Lipooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Zileuton</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Zyflo cr</Synonym>
+<Synonym>Zyflo</Synonym>
+<Synonym>(+-)-N-Hydroxy-N-(1-benzo[b]thien-2-ylethyl)-urea</Synonym>
+<Synonym>Zileuton</Synonym>
+<Synonym>ZILEUTON</Synonym>
+<Synonym>N-(1-Benzo[b]thien-2-ylethyl)-N-hydroxyurea</Synonym>
+<Description>A synthetic derivative of hydroxyurea with antiasthmatic properties. The leukotriene inhibitor zileuton blocks 5-lipoxygenase, which catalyzes the formation of leukotrienes from arachidonic acid; causes bronchodilation; decreases bronchial mucous secretion and edema; and may prevent or decrease the symptoms of asthma. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

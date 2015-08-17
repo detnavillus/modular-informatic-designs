@@ -1,0 +1,31 @@
+<Record>
+<Term>Motion Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Disorders of Environmental Origin</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Motion Sickness</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Motion Sickness</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Motion Sickness</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Air Sickness</ChildTerm>
+<ChildTerm>Car Sickness</ChildTerm>
+<ChildTerm>Sea Sickness</ChildTerm>
+<ChildTerm>Space Motion Sickness</ChildTerm>
+<Synonym>Airsickness</Synonym>
+<Synonym>Seasickness</Synonym>
+<Synonym>Carsickness</Synonym>
+<Synonym>Air Sickness</Synonym>
+<Synonym>Car Sickness</Synonym>
+<Synonym>Sea Sickness</Synonym>
+<Synonym>Motion Sickness</Synonym>
+<Synonym>Travel Sickness</Synonym>
+<Description>Disorder caused by motion, as sea sickness, train sickness, car sickness, air sickness, or SPACE MOTION SICKNESS. It may include nausea, vomiting and dizziness.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

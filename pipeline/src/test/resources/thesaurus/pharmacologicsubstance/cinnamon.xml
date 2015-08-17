@@ -1,0 +1,24 @@
+<Record>
+<Term>Cinnamon</Term>
+<SemanticType>Qualitative Concept</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Structured Product Labeling Flavor</ParentTerm>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Properties_or_Attributes_Kind/Property or Attribute/Characteristic/Medical Product Characteristics/Structured Product Labeling Flavor/Cinnamon Flavor</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Cinnamon</ClassificationPath>
+<BroaderTerm>Cinnamon</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Medical Product Characteristics</BroaderTerm>
+<BroaderTerm>Structured Product Labeling Flavor</BroaderTerm>
+<BroaderTerm>Cinnamon Flavor</BroaderTerm>
+<BroaderTerm>Properties_or_Attributes_Kind</BroaderTerm>
+<BroaderTerm>Property or Attribute</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Characteristic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cinnamon</Synonym>
+<Synonym>Cinnamon Flavor</Synonym>
+<Synonym>CINNAMON</Synonym>
+<Description>A characteristic of a medicinal product, specifying that its most predominant agreeable savor detected by the unified sensation of taste and olfactory receptors resembles cinnamon.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

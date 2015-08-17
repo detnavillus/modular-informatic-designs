@@ -108,7 +108,11 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
     }
         
     Element docElem = doc.getDocumentElement( );
-        
+    initialize( docElem );
+  }
+    
+  protected void initialize( Element docElem )
+  {
     int elem_num = 0;
         
     initializeClassNameMappings( docElem );

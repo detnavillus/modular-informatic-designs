@@ -1,0 +1,20 @@
+<Record>
+<Term>Chronic Graft Versus Host Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Graft Versus Host Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/Transplant-Related Disorder/Graft Versus Host Disease/Chronic Graft Versus Host Disease</ClassificationPath>
+<BroaderTerm>Graft Versus Host Disease</BroaderTerm>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Chronic Graft Versus Host Disease</BroaderTerm>
+<BroaderTerm>Transplant-Related Disorder</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Chronic GVHD</Synonym>
+<Synonym>Chronic Graft Versus Host Disease</Synonym>
+<Description>A syndrome of immologically mediated tissue damage occurring following allogeneic transplant and may affect multiple organs with manifestations similar to autoimmune diseases.  Onset is usually within three years of transplantation or immunologic manipulation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

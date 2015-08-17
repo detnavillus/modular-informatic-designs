@@ -1,0 +1,28 @@
+<Record>
+<Term>Panophthalmitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveitis, Suppurative</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Fungal/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Eye Infections, Fungal/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Fungal/Uveitis, Suppurative/Panophthalmitis</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Uveitis, Suppurative</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Panophthalmitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Eye Infections, Fungal</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Panophthalmitides</Synonym>
+<Synonym>Panophthalmitis</Synonym>
+<Description>Acute suppurative inflammation of the inner eye with necrosis of the sclera (and sometimes the cornea) and extension of the inflammation into the orbit. Pain may be severe and the globe may rupture. In endophthalmitis the globe does not rupture.</Description>
+<Source>MeSH</Source>
+</Record>

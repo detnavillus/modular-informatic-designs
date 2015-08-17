@@ -1,0 +1,17 @@
+<Record>
+<Term>Phosphodiesterase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Phosphodiesterase Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Phosphodiesterase Inhibitors</BroaderTerm>
+<Synonym>Phosphodiesterase Inhibitors</Synonym>
+<Synonym>Phosphoric Diester Hydrolase Inhibitors</Synonym>
+<Synonym>Antiphosphodiesterases</Synonym>
+<Synonym>Phosphodiesterase Antagonists</Synonym>
+<Description>Compounds which inhibit or antagonize the biosynthesis or actions of phosphodiesterases.</Description>
+<Source>MeSH</Source>
+</Record>

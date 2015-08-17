@@ -1,0 +1,30 @@
+<Record>
+<Term>Dendritic Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>APC Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/APC Vaccine/Dendritic Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>APC Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Autologous Dendritic Cell-Tumor Fusion Vaccine</ChildTerm>
+<ChildTerm>DC-OVA Vaccine</ChildTerm>
+<ChildTerm>AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine</ChildTerm>
+<ChildTerm>Idiotype-Pulsed Autologous Dendritic Cell Vaccine APC8020</ChildTerm>
+<ChildTerm>Glioma-Associated Antigen Peptide-Pulsed Autologous Dendritic Cell Vaccine</ChildTerm>
+<ChildTerm>Malignant Glioma Tumor Lysate-Pulsed Autologous Dendritic Cell Vaccine</ChildTerm>
+<ChildTerm>Allogeneic Dendritic Cell-Myeloma Idiotype Vaccine</ChildTerm>
+<ChildTerm>Adenovirus-HER2 Transduced Autologous Dendritic Cell Vaccine</ChildTerm>
+<ChildTerm>Dendritic Cell Tumor Peptide Vaccine</ChildTerm>
+<ChildTerm>Autologous Dendritic Cell-Autologous Tumor mRNA-Human CD40L Vaccine</ChildTerm>
+<ChildTerm>Autologous Dendritic Cell-Allogeneic Melanoma Tumor Cell Lysate Vaccine</ChildTerm>
+<ChildTerm>Autologous Dendritic Cell-Adenovirus CCL21 Vaccine</ChildTerm>
+<ChildTerm>Synthetic Brain Tumor Peptides-Pulsed Autologous Dendritic Cell Vaccine</ChildTerm>
+<Synonym>Dendritic Cell Vaccine</Synonym>
+<Synonym>dendritic cell vaccine</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Recombinant Thyrotropin Alfa</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pituitary Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Pituitary Agent/Recombinant Thyrotropin Alfa</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Thyrotropin Alfa</BroaderTerm>
+<BroaderTerm>Pituitary Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Recombinant Thyrotropin Alfa</Synonym>
+<Synonym>Thyrogen</Synonym>
+<Description>A recombinant form of the human anterior pituitary glycoprotein thyroid stimulating hormone (TSH) with use in the diagnostic setting. With an amino acid sequence identical to that of human TSH, thyrotropin alfa binds to TSH receptors on normal thyroid epithelial cells or well-differentiated thyroid cancer cells, stimulating iodine uptake and organification, synthesis and secretion of thyroglobulin (Tg), triiodothyronine (T3), and thyroxine (T4).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

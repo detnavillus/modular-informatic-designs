@@ -1,0 +1,14 @@
+<Record>
+<Term>Fish Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Fish Diseases</ClassificationPath>
+<BroaderTerm>Fish Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Hemorrhagic Septicemia, Viral</ChildTerm>
+<ChildTerm>Furunculosis</ChildTerm>
+<Synonym>Fish Diseases</Synonym>
+<Synonym>Fish Disease</Synonym>
+<Description>Diseases of freshwater, marine, hatchery or aquarium fish. This term includes diseases of both teleosts (true fish) and elasmobranchs (sharks, rays and skates).</Description>
+<Source>MeSH</Source>
+</Record>

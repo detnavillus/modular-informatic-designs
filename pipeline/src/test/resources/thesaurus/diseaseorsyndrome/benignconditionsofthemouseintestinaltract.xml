@@ -1,0 +1,27 @@
+<Record>
+<Term>Benign Conditions of the Mouse Intestinal Tract</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Noncancerous Conditions</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Digestive System Disorder/Benign Conditions of the Mouse Intestinal Tract,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Benign Conditions of the Mouse Intestinal Tract</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Benign Conditions of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Benign Conditions of the Mouse Intestinal Tract,</BroaderTerm>
+<BroaderTerm>Mouse Digestive System Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Mucosal Atrophy of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Mucosal Herniation of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Erosion of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Congestion of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Hamartoma of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Glandular Cystic Dilation of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Squamous Metaplasia of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Ulceration of the Mouse Intestinal Tract</ChildTerm>
+<Synonym>Benign Conditions of the Intestinal Tract</Synonym>
+<Synonym>Benign Conditions of the Mouse Intestinal Tract</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

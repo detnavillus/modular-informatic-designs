@@ -1,0 +1,24 @@
+<Record>
+<Term>Exemestane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Steroidal Aromatase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aromatase Inhibitor/Steroidal Aromatase Inhibitor/Exemestane</ClassificationPath>
+<BroaderTerm>Exemestane</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Steroidal Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Exemestane</Synonym>
+<Synonym>Aromasin</Synonym>
+<Synonym>6-Methyleneandrosta-1,4-diene-3,17-dione</Synonym>
+<Synonym>FCE-24304</Synonym>
+<Synonym>EXEMESTANE</Synonym>
+<Synonym>exemestane</Synonym>
+<Description>A synthetic androgen analogue.  Exemestane binds irreversibly to and inhibits the enzyme aromatase, thereby blocking the conversion of cholesterol to pregnenolone and the peripheral aromatization of androgenic precursors into estrogens. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

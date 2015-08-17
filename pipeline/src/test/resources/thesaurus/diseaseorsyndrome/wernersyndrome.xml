@@ -1,0 +1,24 @@
+<Record>
+<Term>Werner Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ClassificationPath>Werner Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Werner Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Werner Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<BroaderTerm>Werner Syndrome</BroaderTerm>
+<Synonym>Adult Progeria</Synonym>
+<Synonym>Werner's Syndrome</Synonym>
+<Synonym>Werner Syndrome</Synonym>
+<Synonym>Werners Syndrome</Synonym>
+<Description>Werner Syndrome (WS) is an inherited disease characterized by an early onset of atherosclerosis, osteoporosis, diabetes mellitus, and cancers of non-epithelial cell origin. Cultured cells from WS patients also present a shortened replicative lifespan and increased genetic instability. The genomic instability of WS cells is manifested at the cytogenetic level in the form of chromosome breaks and translocations, and at the molecular level predominately by multiple, large DNA deletions. (J. Biol. Chem., 273(51):34139-34144, 1998)</Description>
+<Description>An autosomal recessive disorder that causes premature aging in adults, characterized by sclerodermal skin changes, cataracts, subcutaneous calcification, muscular atrophy, a tendency to diabetes mellitus, aged appearance of the face, baldness, and a high incidence of neoplastic disease.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

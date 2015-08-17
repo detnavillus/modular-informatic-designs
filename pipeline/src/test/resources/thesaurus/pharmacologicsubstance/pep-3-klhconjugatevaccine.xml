@@ -1,0 +1,17 @@
+<Record>
+<Term>PEP-3-KLH Conjugate Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/PEP-3-KLH Conjugate Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>PEP-3-KLH Conjugate Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>PEP-3-KLH</Synonym>
+<Synonym>PEP-3-KLH Conjugate Vaccine</Synonym>
+<Description>A cancer vaccine consisting of PEP-3, a synthetic peptide encompassing a tumor-specific mutated segment of the epidermal growth factor receptor type vIII (EGFRvIII), conjugated to the naturally-occuring immunoadjuvant keyhole limpet hemocyanin (KLH) with potential immunostimulating and antineoplastic activities. Upon administration, PEP-3-KLH conjugate vaccine may induce a cytotoxic immune response against tumor cells that overexpress EGFRvIII; this antitumoral immune response may involve antibody-dependent cellular cytotoxicity (ADCC).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Phlebitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Disorder</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ParentTerm>Peripheral Vascular Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Phlebitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Phlebitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Phlebitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Phlebitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Thrombophlebitis</ChildTerm>
+<ChildTerm>Postphlebitic Syndrome</ChildTerm>
+<Synonym>Periphlebitis</Synonym>
+<Synonym>Phlebitides</Synonym>
+<Synonym>Phlebitis</Synonym>
+<Synonym>Periphlebitides</Synonym>
+<Description>Phlebitis; inflammation of a vein.</Description>
+<Description>Inflammation of a vein, often a vein in the leg. Phlebitis associated with a blood clot is called (THROMBOPHLEBITIS).Periphlebitis is inflammation of the outer coat of a vein or of tissues surrounding the vein.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

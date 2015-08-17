@@ -1,0 +1,62 @@
+<Record>
+<Term>Autoimmune Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ParentTerm>Immune System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases</ClassificationPath>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Dermatomyositis</ChildTerm>
+<ChildTerm>Hepatitis, Autoimmune</ChildTerm>
+<ChildTerm>Addison Disease</ChildTerm>
+<ChildTerm>Hashimoto Thyroiditis</ChildTerm>
+<ChildTerm>Pemphigus</ChildTerm>
+<ChildTerm>Thyroiditis, Autoimmune</ChildTerm>
+<ChildTerm>Glomerulonephritis, IGA</ChildTerm>
+<ChildTerm>Sarcoidosis</ChildTerm>
+<ChildTerm>Ophthalmia, Sympathetic</ChildTerm>
+<ChildTerm>Pemphigoid, Bullous</ChildTerm>
+<ChildTerm>Scleroderma</ChildTerm>
+<ChildTerm>Dermatitis Herpetiformis</ChildTerm>
+<ChildTerm>Polyendocrinopathies, Autoimmune</ChildTerm>
+<ChildTerm>Purpura, Thrombocytopenic, Idiopathic</ChildTerm>
+<ChildTerm>Anti-Glomerular Basement Membrane Disease</ChildTerm>
+<ChildTerm>Graves Disease</ChildTerm>
+<ChildTerm>Glomerulonephritis, Membranous</ChildTerm>
+<ChildTerm>Autoimmune Diseases of the Nervous System</ChildTerm>
+<ChildTerm>Diabetes Mellitus, Type 1</ChildTerm>
+<ChildTerm>Anemia, Hemolytic, Autoimmune</ChildTerm>
+<ChildTerm>Myasthenia Gravis</ChildTerm>
+<ChildTerm>Evan Syndrome</ChildTerm>
+<ChildTerm>Lupus Erythematosus</ChildTerm>
+<ChildTerm>Lupus Erythematosus, Systemic</ChildTerm>
+<ChildTerm>Lambert-Eaton Myasthenic Syndrome</ChildTerm>
+<ChildTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ChildTerm>
+<ChildTerm>Benign Lymphoepithelial Lesion of the Salivary Gland</ChildTerm>
+<ChildTerm>Sjogren Syndrome</ChildTerm>
+<ChildTerm>Rheumatoid Arthritis</ChildTerm>
+<ChildTerm>Type 1 Diabetes Mellitus</ChildTerm>
+<ChildTerm>Multiple Sclerosis</ChildTerm>
+<ChildTerm>Autoimmune Lymphoproliferative Syndrome</ChildTerm>
+<ChildTerm>Antiphospholipid Syndrome</ChildTerm>
+<ChildTerm>Arthritis, Rheumatoid</ChildTerm>
+<Synonym>Autoimmune Disease</Synonym>
+<Synonym>Autoimmune Disorder</Synonym>
+<Synonym>Disease, autoimmune</Synonym>
+<Synonym>Autoimmune Disorders</Synonym>
+<Synonym>Autoimmune Diseases</Synonym>
+<Synonym>autoimmune disease</Synonym>
+<Description>A disorder resulting from loss of function or tissue destruction of an organ or multiple organs, arising from humoral or cellular immune responses of the individual to his own tissue constituents.  It may be systemic (e.g., systemic lupus erythematosus), or organ specific, (e.g., thyroiditis). -- 2003</Description>
+<Description>Disorders that are characterized by the production of antibodies that react with host tissues or immune effector cells that are autoreactive to endogenous peptides.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

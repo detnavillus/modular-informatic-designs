@@ -1,0 +1,26 @@
+<Record>
+<Term>Hypernatremia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Water-Electrolyte Imbalance</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypernatremia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Water-Electrolyte Imbalance/Hypernatremia</ClassificationPath>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hypernatremia</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Water-Electrolyte Imbalance</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Hypernatremia</Synonym>
+<Synonym>Hypernatremias</Synonym>
+<Description>Excessive amount of sodium in the blood. (Dorland, 27th ed)</Description>
+<Description>Hypernatremia; higher than normal levels of sodium in the circulating blood.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

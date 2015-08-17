@@ -1,0 +1,28 @@
+<Record>
+<Term>AIDS-Related Complex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/AIDS-Related Complex</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/AIDS-Related Complex</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/AIDS-Related Complex</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/AIDS-Related Complex</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>AIDS-Related Complex</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<Synonym>Lymphadenopathy Syndromes</Synonym>
+<Synonym>AIDS Related Complex</Synonym>
+<Synonym>Lymphadenopathy Syndrome</Synonym>
+<Synonym>AIDS-Related Complex</Synonym>
+<Synonym>ARC</Synonym>
+<Description>A prodromal phase of infection with the human immunodeficiency virus (HIV). Laboratory criteria separating AIDS-related complex (ARC) from AIDS include elevated or hyperactive B-cell humoral immune responses, compared to depressed or normal antibody reactivity in AIDS; follicular or mixed hyperplasia in ARC lymph nodes, leading to lymphocyte degeneration and depletion more typical of AIDS; evolving succession of histopathological lesions such as localization of Kaposi's sarcoma, signaling the transition to the full-blown AIDS.</Description>
+<Source>MeSH</Source>
+</Record>

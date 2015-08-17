@@ -1,0 +1,15 @@
+<Record>
+<Term>Smallpox Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Smallpox Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Smallpox Vaccine</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Smallpox Vaccine</Synonym>
+<Description>A live VACCINIA VIRUS vaccine of calf lymph or chick embryo origin, used for immunization against smallpox. It is now recommended only for laboratory workers exposed to smallpox virus. Certain countries continue to vaccinate those in the military service. Complications that result from smallpox vaccination include vaccinia, secondary bacterial infections, and encephalomyelitis. (Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

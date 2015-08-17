@@ -1,0 +1,27 @@
+<Record>
+<Term>Hypophosphatemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Phosphorus Metabolism Disorders</ParentTerm>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypophosphatemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Phosphorus Metabolism Disorders/Hypophosphatemia</ClassificationPath>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Phosphorus Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hypophosphatemia</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hypophosphatemia, Familial</ChildTerm>
+<Synonym>Hypophosphatemias</Synonym>
+<Synonym>Hypophosphatemia</Synonym>
+<Description>A condition of an abnormally low level of PHOSPHATES in the blood. Severe hypophosphatemia (below 1 mg/liter) can affect every organ in the body leading to HEMOLYSIS; LASSITUDE; SEIZURES; and COMA. Chronic hypophosphatemia can lead to MUSCLE WEAKNESS; and bone diseases, such as RICKETS and OSTEOMALACIA.</Description>
+<Description>Hypophosphatemia; lower than normal levels of phosphates in the circulating blood.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

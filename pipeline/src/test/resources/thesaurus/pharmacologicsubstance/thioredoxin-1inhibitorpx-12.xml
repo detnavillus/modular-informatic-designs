@@ -1,0 +1,17 @@
+<Record>
+<Term>Thioredoxin-1 Inhibitor PX-12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Signal Transduction Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Signal Transduction Inhibitor/Thioredoxin-1 Inhibitor PX-12</ClassificationPath>
+<BroaderTerm>Signal Transduction Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Thioredoxin-1 Inhibitor PX-12</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1-Methylpropyl 2-Imidazolyl Disulfide</Synonym>
+<Synonym>PX-12</Synonym>
+<Synonym>Thioredoxin-1 Inhibitor PX-12</Synonym>
+<Description>An orally bioavailable small molecule with potential antineoplastic activity. Thioredoxin-1 inhibitor PX-12 irreversibly binds to thioredoxin-1 (Trx-1) and inhibits its activity, which may result in growth inhibition and the induction of apoptosis. Overexpressed in many cancer cell types, the low molecular weight redox protein Trx-1 regulates transcription factor activity and inhibits apoptosis, promoting cell growth and survival; it also interacts with growth factors extracellularly to stimulate cell growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

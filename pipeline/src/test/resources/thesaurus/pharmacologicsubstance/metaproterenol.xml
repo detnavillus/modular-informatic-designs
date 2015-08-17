@@ -1,0 +1,29 @@
+<Record>
+<Term>Metaproterenol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Metaproterenol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Metaproterenol Sulfate</ClassificationPath>
+<BroaderTerm>Metaproterenol Sulfate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Metaproterenol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Metaproterenol Sulfate</Synonym>
+<Synonym>Prometa</Synonym>
+<Synonym>Metaproterenol sulfate</Synonym>
+<Synonym>1,3-Benzenediol, 5-(1-hydroxy-2-((1-methylethyl)amino)ethyl)-, Sulfate(2:1)(Salt)</Synonym>
+<Synonym>Alupent</Synonym>
+<Synonym>Novasmasol</Synonym>
+<Synonym>METAPROTERENOL SULFATE</Synonym>
+<Synonym>METAPROTERENOL</Synonym>
+<Synonym>3,5-Dihydroxy-alpha-((isopropylamino)methyl)benzyl Alcohol Sulfate</Synonym>
+<Synonym>Metaproterenol</Synonym>
+<Description>The sulfate salt form of metaproterenol, a short-acting and selective sympathomimetic beta-receptor agonist with bronchodilator activity. Metaproterenol sulfate binds beta-2 adrenergic receptors in bronchial smooth muscle and stimulates intracellular adenyl cyclase, thereby increasing the production of cyclic adenosine monophosphate (cAMP). Increased cAMP levels cause relaxation of bronchial smooth muscle, improve mucocliary clearance and reduce inflammatory cell mediator release, especially from mast cells.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

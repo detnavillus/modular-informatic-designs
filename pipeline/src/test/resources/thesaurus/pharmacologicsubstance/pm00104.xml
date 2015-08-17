@@ -1,0 +1,16 @@
+<Record>
+<Term>PM00104</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/PM00104</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>PM00104</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>PM00104</Synonym>
+<Synonym>Zalypsis</Synonym>
+<Description>A synthetic alkaloid compound, related to natural alkaloid compounds, found in molluscs (jorumycin) and sponges (renieramycins), with potential antineoplastic activity. PM00104 reversibly binds to DNA, thereby inducing cytotoxicity due to its interference with DNA replication, transcription, and translation processes. DNA binding by this agent does not trigger DNA damage checkpoint responses, hence PM00104 demonstrates a manageable and reversible cytotoxicity as part of its antitumor activity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

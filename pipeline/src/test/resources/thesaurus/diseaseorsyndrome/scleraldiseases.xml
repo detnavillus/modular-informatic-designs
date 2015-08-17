@@ -1,0 +1,15 @@
+<Record>
+<Term>Scleral Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Scleral Diseases</ClassificationPath>
+<BroaderTerm>Scleral Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Scleritis</ChildTerm>
+<Synonym>Scleral Diseases</Synonym>
+<Synonym>Scleral Disease</Synonym>
+<Synonym>Sclera Diseases</Synonym>
+<Synonym>Sclera Disease</Synonym>
+<Description>General disorders of the sclera or white of the eye. They may include anatomic, embryologic, degenerative, or pigmentation defects.</Description>
+<Source>MeSH</Source>
+</Record>

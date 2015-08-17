@@ -1,0 +1,26 @@
+<Record>
+<Term>Alkalosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Fluid and Electrolyte Manifestation</ParentTerm>
+<ParentTerm>Acid-Base Imbalance</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Acid-Base Imbalance/Alkalosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Alkalosis</ClassificationPath>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Acid-Base Imbalance</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Alkalosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Alkalosis, Respiratory</ChildTerm>
+<Synonym>Alkaloses</Synonym>
+<Synonym>Alkalosis</Synonym>
+<Description>An abnormally high alkalinity (low hydrogen-ion concentration) of the blood and other body tissues.</Description>
+<Description>A pathological condition that removes acid or adds base to the body fluids.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

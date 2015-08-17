@@ -1,0 +1,20 @@
+<Record>
+<Term>Protein S Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Thrombophilia</ParentTerm>
+<ParentTerm>Blood Protein Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Thrombophilia/Protein S Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Protein S Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Protein S Deficiency</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Protein S Deficiency</BroaderTerm>
+<BroaderTerm>Thrombophilia</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Protein S Deficiency</Synonym>
+<Synonym>Protein S Deficiencies</Synonym>
+<Description>An autosomal dominant disorder showing decreased levels of plasma protein S antigen or activity, associated with venous thrombosis and pulmonary embolism. PROTEIN S is a vitamin K-dependent plasma protein that inhibits blood clotting by serving as a cofactor for activated PROTEIN C (also a vitamin K-dependent protein), and the clinical manifestations of its deficiency are virtually identical to those of protein C deficiency. Treatment with heparin for acute thrombotic processes is usually followed by maintenance administration of coumarin drugs for the prevention of recurrent thrombosis. (From Harrison's Principles of Internal Medicine, 12th ed, p1511; Wintrobe's Clinical Hematology, 9th ed, p1523)</Description>
+<Source>MeSH</Source>
+</Record>

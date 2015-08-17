@@ -1,0 +1,29 @@
+<Record>
+<Term>False Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Aneurysm</ParentTerm>
+<ParentTerm>Cardiovascular System Finding</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Pseudoaneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Aneurysm, False</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Aneurysm/Traumatic Aneurysm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Pseudoaneurysm</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Traumatic Aneurysm</BroaderTerm>
+<BroaderTerm>Aneurysm, False</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>False Aneurysm</Synonym>
+<Synonym>False Aneurysms</Synonym>
+<Synonym>Pseudoaneurysm</Synonym>
+<Synonym>Pseudoaneurysms</Synonym>
+<Synonym>Traumatic Aneurysm</Synonym>
+<Description>Not an aneurysm but a well-defined collection of blood and CONNECTIVE TISSUE outside the wall of a blood vessel or the heart. It is the containment of a ruptured blood vessel or heart, such as sealing a rupture of the left ventricle. False aneurysm is formed by organized THROMBUS and HEMATOMA in surrounding tissue.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Cumulative Trauma Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sprains and Strains</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Sprains and Strains/Cumulative Trauma Disorders</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Sprains and Strains</BroaderTerm>
+<BroaderTerm>Cumulative Trauma Disorders</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<ChildTerm>Carpal Tunnel Syndrome</ChildTerm>
+<ChildTerm>Ulnar Nerve Compression Syndromes</ChildTerm>
+<Synonym>Cumulative Trauma Disorders</Synonym>
+<Synonym>Repetition Strain Injury</Synonym>
+<Synonym>Overuse Injury</Synonym>
+<Synonym>Overuse Injuries</Synonym>
+<Synonym>Repetitive Motion Disorders</Synonym>
+<Synonym>Repetitive Motion Disorder</Synonym>
+<Synonym>Repetitive Strain Injury</Synonym>
+<Synonym>Repetitive Strain Injuries</Synonym>
+<Synonym>Overuse Syndrome</Synonym>
+<Synonym>Overuse Syndromes</Synonym>
+<Synonym>Repetition Strain Injuries</Synonym>
+<Synonym>Cumulative Trauma Disorder</Synonym>
+<Description>Harmful and painful condition caused by overuse or overexertion of some part of the musculoskeletal system, often resulting from work-related physical activities. It is characterized by inflammation, pain, or dysfunction of the involved joints, bones, ligaments, and nerves.</Description>
+<Source>MeSH</Source>
+</Record>

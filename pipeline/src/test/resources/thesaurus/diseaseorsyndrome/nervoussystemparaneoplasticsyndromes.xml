@@ -1,0 +1,30 @@
+<Record>
+<Term>Nervous System Paraneoplastic Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nervous System Neoplasms</ParentTerm>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Paraneoplastic Syndromes</ParentTerm>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Syndromes, Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Paraneoplastic Syndromes, Nervous System</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Paraneoplastic Syndromes, Nervous System</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes, Nervous System</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<ChildTerm>Lambert-Eaton Myasthenic Syndrome</ChildTerm>
+<ChildTerm>Paraneoplastic Cerebellar Degeneration</ChildTerm>
+<ChildTerm>Paraneoplastic Polyneuropathy</ChildTerm>
+<ChildTerm>Limbic Encephalitis</ChildTerm>
+<ChildTerm>Opsoclonus-Myoclonus Syndrome</ChildTerm>
+<ChildTerm>Myelitis, Transverse</ChildTerm>
+<Synonym>Paraneoplastic Autonomic Dysfunctions</Synonym>
+<Synonym>Nervous System Paraneoplastic Syndromes</Synonym>
+<Synonym>Paraneoplastic Autonomic Dysfunction</Synonym>
+<Synonym>Paraneoplastic Encephalomyelitides</Synonym>
+<Synonym>Paraneoplastic Encephalomyelitis</Synonym>
+<Description>Degenerative or inflammatory conditions affecting the central or peripheral nervous system that develop in association with a systemic neoplasm without direct invasion by tumor. They may be associated with circulating antibodies that react with the affected neural tissue. (Intern Med 1996 Dec;35(12):925-9)</Description>
+<Source>MeSH</Source>
+</Record>

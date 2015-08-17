@@ -1,0 +1,17 @@
+<Record>
+<Term>Cefpodoxime</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cephalosporin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Cefpodoxime</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Cefpodoxime</BroaderTerm>
+<BroaderTerm>Cephalosporin Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CEFPODOXIME</Synonym>
+<Synonym>Cefpodoxime</Synonym>
+<Description>A third generation semi-synthetic cephalosporin and a beta-lactam antibiotic with bactericidal activity. Cefpodoxime's effect is dependent on its binding to penicillin-binding proteins (PBPs) located in the bacterial cytoplasmic membrane. Binding results in the inhibition of the transpeptidase enzymes, thereby preventing cross-linking of the pentaglycine bridge with the fourth residue of the pentapeptide and interrupting consequent synthesis of peptidoglycan chains. As a result, cefpodoxime inhibits bacterial septum and cell wall synthesis formation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

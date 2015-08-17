@@ -1,0 +1,16 @@
+<Record>
+<Term>huBC1-huIL12 Fusion Protein AS1409</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/huBC1-huIL12 Fusion Protein AS1409</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>huBC1-huIL12 Fusion Protein AS1409</BroaderTerm>
+<Synonym>AS1409</Synonym>
+<Synonym>huBC1-huIL12 Fusion Protein AS1409</Synonym>
+<Description>An immunoconjugate consisting of the anti-tumor cytokine interleukin-12 (IL-12) fused to the tumor-targeting antibody BC1 with potential immunostimulatory and antineoplastic activities. The antibody moiety of huBC1-huIL12 fusion protein AS1409 binds to the human fibronectin splice variant ED-B, delivering IL-12 directly to the tumor vasculature; tumor vasculature-targeted IL-12 initiates localized immune cascade responses and exhibits cytotoxic and anti-angiogenic activity while minimizing the systemic side effects of IL-12. The human fibronectin splice variant ED-B is over-expressed in the extracellular matrix and blood vessels of tumor tissues.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Bacterial Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningitis</ParentTerm>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<ChildTerm>Meningitis, Meningococcal</ChildTerm>
+<ChildTerm>Meningitis, Listeria</ChildTerm>
+<ChildTerm>Tuberculosis, Meningeal</ChildTerm>
+<ChildTerm>Meningitis, Escherichia coli</ChildTerm>
+<ChildTerm>Meningitis, Haemophilus</ChildTerm>
+<ChildTerm>Meningitis, Pneumococcal</ChildTerm>
+<Synonym>Bacterial Meningitides</Synonym>
+<Synonym>Bacterial Meningitis</Synonym>
+<Description>Bacterial infections of the leptomeninges and subarachnoid space, frequently involving the cerebral cortex, cranial nerves, cerebral blood vessels, spinal cord, and nerve roots. The type of causative organism varies with age and clinical status (e.g., post-operative, immunodeficient, or post-traumatic states). Clinical manifestations include the acute onset of fever, stiff neck, altered mentation, seizures, and focal neurologic deficits. Death may occur within 24 hours of disease onset. Pathologic features include a purulent exudate in the subarachnoid space, and diffuse inflammation of neural and vascular structures. (From Joynt, Clinical Neurology, 1994, Ch24, pp1-5)</Description>
+<Source>MeSH</Source>
+</Record>

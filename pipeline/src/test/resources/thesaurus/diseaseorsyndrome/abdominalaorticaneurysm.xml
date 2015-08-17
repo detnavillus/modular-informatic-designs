@@ -1,0 +1,28 @@
+<Record>
+<Term>Abdominal Aortic Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Aortic Aneurysm</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Aortic Aneurysm/Aortic Aneurysm, Abdominal</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Aneurysm/Aortic Aneurysm/Abdominal Aortic Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aortic Diseases/Aortic Aneurysm/Aortic Aneurysm, Abdominal</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Aortic Aneurysm, Abdominal</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Aortic Aneurysm</BroaderTerm>
+<BroaderTerm>Aortic Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Abdominal Aortic Aneurysm</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ruptured Abdominal Aortic Aneurysm</ChildTerm>
+<ChildTerm>Dissecting Abdominal Aortic Aneurysm</ChildTerm>
+<Synonym>Abdominal Aortic Aneurysms</Synonym>
+<Synonym>Abdominal Aortic Aneurysm</Synonym>
+<Description>An abnormal balloon- or sac-like dilatation in the wall of the ABDOMINAL AORTA which gives rise to the visceral, the parietal, and the terminal (iliac) branches below the aortic hiatus at the diaphragm.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Fosinoprilat</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antihypertensive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Fosinoprilat,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/ACE Inhibitor/Fosinoprilat</ClassificationPath>
+<BroaderTerm>Fosinoprilat,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>ACE Inhibitor</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Fosinoprilat</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FOSINOPRILAT</Synonym>
+<Synonym>Fosinoprilat</Synonym>
+<Synonym>SQ 27,519</Synonym>
+<Description>A phosphinic acid-containing angiotensin-converting enzyme (ACE) inhibitor with antihypertensive activity. Fosinoprilat specifically and competitively inhibits angiotensin-converting enzyme thereby decreasing the formation of the potent vasoconstrictor angiotensin II, resulting in diminished vasopressor activity. In addition, angiotensin II-mediated aldosterone secretion by adrenal cortex is decreased, which results in a decrease of sodium retention and an increase in water outflow.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

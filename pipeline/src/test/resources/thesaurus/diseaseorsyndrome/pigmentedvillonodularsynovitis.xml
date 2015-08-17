@@ -1,0 +1,28 @@
+<Record>
+<Term>Pigmented Villonodular Synovitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Synovitis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Synovitis/Synovitis, Pigmented Villonodular</ClassificationPath>
+<ClassificationPath>Diffuse Giant Cell Tumor of Tendon Sheath</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Synovitis, Pigmented Villonodular</BroaderTerm>
+<BroaderTerm>Synovitis</BroaderTerm>
+<BroaderTerm>Diffuse Giant Cell Tumor of Tendon Sheath</BroaderTerm>
+<Synonym>Diffuse Giant Cell Tumor of Tenosynovium</Synonym>
+<Synonym>Diffuse Giant Cell Neoplasm of the Tenosynovium</Synonym>
+<Synonym>Diffuse Giant Cell Neoplasm of Tenosynovium</Synonym>
+<Synonym>Diffuse Tenosynovial Giant Cell Neoplasm</Synonym>
+<Synonym>Pigmented Villonodular Synovitides</Synonym>
+<Synonym>Diffuse Tenosynovial Giant Cell Tumor</Synonym>
+<Synonym>Pigmented Villonodular Synovitis</Synonym>
+<Synonym>Diffuse Giant Cell Tumor of the Tenosynovium</Synonym>
+<Synonym>Diffuse Giant Cell Tumor of Tendon Sheath</Synonym>
+<Synonym>Diffuse Giant Cell Neoplasm of Tendon Sheath</Synonym>
+<Description>A locally aggressive, diffusely infiltrating tumor, arising in the tendon sheath.  It is composed of synovial-like mononuclear cells, hemosiderin-laden macrophages, foam cells, and inflammatory cells.  Multinucleated osteoclast-like giant cells are usually present, although in a minority of cases they may be absent or rare.  It predominantly affects young adults.  Symptoms include joint swelling, pain, and joint effusion.</Description>
+<Description>Outgrowths of synovial membrane composed of villi and fibrous nodules characterized histologically by hemosiderin- and lipid-containing macrophages and multinucleated giant cells. It usually occurs in the knee.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,1685 @@
+<Tree>
+<MetadataSchema><Attribute name="topicSetName" type="String" multiple="false"><Description>Topic Set for Query Rule</Description></Attribute><Attribute name="topicName" type="String" multiple="false"><Description>Topic for Query Rule</Description></Attribute><Attribute name="Taxonomy Rule" type="Select" multiple="false"><Description>Selection criteria for Taxonomy Nodes</Description><Values><Value>NODE</Value><Value>CHILDREN</Value><Value>DESCENDENTS</Value><Value>NONE</Value></Values></Attribute><Attribute name="Synonym" type="string" multiple="true"></Attribute><Attribute name="License" type="select" multiple="true"><Values><Value>Commercial</Value><Value>Open Source</Value><Value>Free Development</Value></Values></Attribute><Attribute name="Interface" type="select" multiple="true"><Values><Value>Java</Value><Value>.NET</Value><Value>REST</Value><Value>Python</Value><Value>Node.js</Value><Value>C++</Value><Value>PHP</Value><Value>Thrift</Value><Value>Ruby</Value><Value>C</Value></Values></Attribute><Attribute name="URL" type="string" multiple="false"></Attribute><Attribute name="Documentation URL" type="string" multiple="false"></Attribute></MetadataSchema><TreeNode name="Information Retrieval Systems" ID="6576" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="Content Management Systems" ID="6577" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6576" /></TreeNode>
+<TreeNode name="Data Storage Systems" ID="6579" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6576" /></TreeNode>
+<TreeNode name="Multi-dimensional Databases" ID="6694" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6579" /></TreeNode>
+<TreeNode name="GT.M" ID="6695" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6694" /></TreeNode>
+<TreeNode name="NoSQL Databases" ID="6598" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6579" /></TreeNode>
+<TreeNode name="Amazon SimpleDB" ID="6610" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/Welcome.html</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://aws.amazon.com/simpledb/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Apache Accumulo" ID="6609" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://accumulo.apache.org/1.5/accumulo_user_manual.html</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://accumulo.apache.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Cassandra" ID="6604" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.datastax.com/docs/1.2/index</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>https://cassandra.apache.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Cloudata" ID="6608" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.cloudata.org/getting_start.html</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.cloudata.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Couchbase Server" ID="6602" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>Python</Value>
+    <Value>PHP</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.couchbase.com/docs/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.couchbase.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="HBase" ID="6603" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://hbase.apache.org/book/quickstart.html</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://hbase.apache.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Hypertable" ID="6703" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>Python</Value>
+    <Value>C++</Value>
+    <Value>PHP</Value>
+    <Value>Thrift</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://hypertable.com/documentation/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://hypertable.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="JSON Databases" ID="6606" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Apache CouchDB" ID="6605" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://wiki.apache.org/couchdb/Technical%20Overview</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://couchdb.apache.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="EJDB" ID="6624" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>Python</Value>
+    <Value>Node.js</Value>
+    <Value>C++</Value>
+    <Value>PHP</Value>
+    <Value>Ruby</Value>
+    <Value>C</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>https://github.com/Softmotions/ejdb/wiki/EJDB-Command-line-interface</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://ejdb.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="JasDB" ID="6620" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.oberasoftware.com/getting-started/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.oberasoftware.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="MongoDB" ID="6612" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>Node.js</Value>
+    <Value>C++</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://docs.mongodb.org/manual/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.mongodb.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="RaptorDB" ID="6619" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.codeproject.com/Articles/375413/RaptorDB-the-Document-Store</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.codeproject.com/Articles/375413/RaptorDB-the-Document-Store</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="RavenDB" ID="6614" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>https://github.com/ravendb/ravendb</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="RethinkDB" ID="6607" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Python</Value>
+    <Value>Node.js</Value>
+    <Value>PHP</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.rethinkdb.com/docs/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.rethinkdb.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="SDB" ID="6622" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>PHP</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://pagenotes.com/wordpress/2011/12/08/sdb/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://pagenotes.com/wordpress/2011/12/08/sdb/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="SisoDb" ID="6621" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.sisodb.com/wiki</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.sisodb.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="Terrastore" ID="6618" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://code.google.com/p/terrastore/wiki/Documentation</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://code.google.com/p/terrastore/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="djondb" ID="6623" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>Python</Value>
+    <Value>Node.js</Value>
+    <Value>PHP</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://djondb.com/docs/docindex</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://djondb.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6606" /></TreeNode>
+<TreeNode name="Key-Value Tuple Stores" ID="6625" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value>key-value datastore</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Aerospike" ID="6630" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Amazon DynamoDB" ID="6626" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Azure Table Storage" ID="6628" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value></Value>
+</Attribute>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="BangDB" ID="6632" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Dynomite Framework" ID="6637" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Elliptics network" ID="6648" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="FairCom" ID="6638" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="GenieDB" ID="6631" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Hibari" ID="6646" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="HyperDex" ID="6644" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Kyoto Cabinet" ID="6635" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="LMDB" ID="6647" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Maxtable" ID="6640" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Mnesia" ID="6645" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Pincaster" ID="6641" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Project Voldemort" ID="6636" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Redis" ID="6629" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Riak" ID="6627" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="STS DB" ID="6639" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Scalaris" ID="6633" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="TIBCO ActiveSpaces" ID="6642" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="Tokyo Cabinet" ID="6634" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="nessDB" ID="6643" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6625" /></TreeNode>
+<TreeNode name="MarkLogic" ID="6615" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Multimodal Databases" ID="6663" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="ArangoDB" ID="6662" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6663" /></TreeNode>
+<TreeNode name="Datomic" ID="6661" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6663" /></TreeNode>
+<TreeNode name="FatDB" ID="6665" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6663" /></TreeNode>
+<TreeNode name="OrientDB" ID="6664" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6663" /></TreeNode>
+<TreeNode name="Property Graph Databases" ID="6649" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="AllegroGraph" ID="6656" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>REST</Value>
+    <Value>Python</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Open Source</Value>
+    <Value>Free Developmnt</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.franz.com/agraph/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Bigdata" ID="6658" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.systap.com/bigdata.htm</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="BrightstarDB" ID="6657" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.brightstardb.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="DEX" ID="6701" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>C++</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value></Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Execom" ID="6660" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://iog.codeplex.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="GraphBase" ID="6654" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://graphbase.net/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="HyperGraphDB" ID="6653" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.kobrix.com/hgdb.jsp</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="InfiniteGraph" ID="6651" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Developmnt</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value></Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="InfoGrid" ID="6652" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://infogrid.org/trac/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Meronymy" ID="6702" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.meronymy.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Neo4j" ID="6650" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.neo4j.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Trinity" ID="6655" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://research.microsoft.com/en-us/projects/trinity/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="VertexDB" ID="6659" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>REST</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.dekorte.com/projects/opensource/vertexdb/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6649" /></TreeNode>
+<TreeNode name="Stratosphere" ID="6611" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6598" /></TreeNode>
+<TreeNode name="Object Databases" ID="6666" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6579" /></TreeNode>
+<TreeNode name="Cache" ID="6693" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="EyeDB" ID="6683" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>C++</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.eyedb.org/documentation/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.eyedb.org/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="HSS Database" ID="6673" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://highspeed-solutions.net/hssdbhelp/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://highspeed-solutions.net/hssdb</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Magma" ID="6675" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value></Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://wiki.squeak.org/squeak/2986</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://wiki.squeak.org/squeak/2665</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Morantex" ID="6678" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="NDatabase" ID="6685" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Ninja Database Pro" ID="6684" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Objectivity" ID="6669" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value></Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.objectivity.com/products/objectivitydb/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.objectivity.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Perst" ID="6671" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Open Source</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.mcobject.com/embedded-database-manuals</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.mcobject.com/perst</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="PicoLisp" ID="6686" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Starcounter" ID="6670" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>.NET</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.starcounter.com/The-product/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Sterling" ID="6677" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="VelocityDB" ID="6672" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Versant Object Database" ID="6667" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+    <Value>C++</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://actian.com/products/versant/vod/howitworks</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://actian.com/products/versant</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="ZODB" ID="6674" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>Python</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value></Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value></Value>
+</Attribute>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="db4objects" ID="6668" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="siaqodb" ID="6676" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6666" /></TreeNode>
+<TreeNode name="Relational Databases" ID="6580" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6579" /></TreeNode>
+<TreeNode name="Derby" ID="6584" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6580" /></TreeNode>
+<TreeNode name="MySQL" ID="6582" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6580" /></TreeNode>
+<TreeNode name="Oracle" ID="6581" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6580" /></TreeNode>
+<TreeNode name="ProgreSQL" ID="6583" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6580" /></TreeNode>
+<TreeNode name="XML Databases" ID="6687" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6579" /></TreeNode>
+<TreeNode name="BaseX" ID="6691" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6687" /></TreeNode>
+<TreeNode name="Documentum xDB" ID="6688" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6687" /></TreeNode>
+<TreeNode name="Qizx" ID="6692" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6687" /></TreeNode>
+<TreeNode name="Sedna" ID="6690" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6687" /></TreeNode>
+<TreeNode name="eXist DB" ID="6689" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6687" /></TreeNode>
+<TreeNode name="Search Engines" ID="6578" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6576" /></TreeNode>
+<TreeNode name="Amazon Cloud Search" ID="6587" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Attivio" ID="6588" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Autonomy IDOL" ID="6591" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Clusterpoint Server" ID="6617" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Interface">
+    <Value>REST</Value>
+    <Value>PHP</Value>
+</Attribute>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value>Commercial</Value>
+    <Value>Free Development</Value>
+</Attribute>
+<Attribute name="Documentation URL">
+    <Value>http://www.clusterpoint.com/Product/Architecture/</Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.clusterpoint.com/</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Fast Search for Sharepoint 2010" ID="6589" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Lucene" ID="6585" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="MarkLogic" ID="6616" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Oracle Endeca" ID="6590" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="SOLR" ID="6586" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="elasticsearch" ID="6613" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6578" /></TreeNode>
+<TreeNode name="Platforms" ID="6480" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value>Operating Systems</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="Apple IOS" ID="6494" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="Cloud Computing" ID="6537" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value>Distributed Computing</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="Amazon Web Services" ID="6570" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6537" /></TreeNode>
+<TreeNode name="Hadoop" ID="6569" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6537" /></TreeNode>
+<TreeNode name="Linux" ID="6495" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="Microsoft Windows" ID="6493" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name=".NET Framework" ID="6514" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6493" /></TreeNode>
+<TreeNode name="Sharepoint" ID="6524" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6493" /></TreeNode>
+<TreeNode name="Mobile" ID="6559" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="Android" ID="6560" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6559" /></TreeNode>
+<TreeNode name="IPhone" ID="6561" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6559" /></TreeNode>
+<TreeNode name="Web Application Servers" ID="6511" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="IIS" ID="6513" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6511" /></TreeNode>
+<TreeNode name="J2EE" ID="6512" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6511" /></TreeNode>
+<TreeNode name="Apache Tomcat" ID="6526" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6512" /></TreeNode>
+<TreeNode name="Web Portals" ID="6573" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="Web Services" ID="6525" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6480" /></TreeNode>
+<TreeNode name="REST" ID="6535" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6525" /></TreeNode>
+<TreeNode name="SOAP Web Services" ID="6534" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6525" /></TreeNode>
+<TreeNode name="Programming Languages" ID="6478" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="C#" ID="6487" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="C++" ID="6500" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="CSS" ID="6504" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="HTML" ID="6507" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="JSON" ID="6536" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="JSTL" ID="6593" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Java" ID="6488" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="JavaScript" ID="6489" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Objective-C" ID="6499" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="PHP" ID="6594" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Perl" ID="6490" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Powershell" ID="6527" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Python" ID="6491" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Regular Expressions" ID="6510" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Ruby" ID="6492" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="SQL" ID="6554" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="XML" ID="6508" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="XPath" ID="6505" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="HTML" ID="6506" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6505" /></TreeNode>
+<TreeNode name="XSLT" ID="6509" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6478" /></TreeNode>
+<TreeNode name="Software Concepts" ID="6498" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="Anonymous Functions" ID="6574" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Lambda Functions" ID="6592" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6574" /></TreeNode>
+<TreeNode name="Anti Patterns" ID="6533" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Aspect Oriented Programming" ID="6516" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Closures" ID="6532" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Component Oriented Programming" ID="6522" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Data Models" ID="6599" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Relational Data Model" ID="6601" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6599" /></TreeNode>
+<TreeNode name="Schema-less Data Model" ID="6600" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6599" /></TreeNode>
+<TreeNode name="Design Patterns" ID="6521" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Facade" ID="6567" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6521" /></TreeNode>
+<TreeNode name="Model View Controller" ID="6555" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6521" /></TreeNode>
+<TreeNode name="Singleton" ID="6566" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6521" /></TreeNode>
+<TreeNode name="Functional Programming" ID="6518" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Inversion of Control" ID="6517" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Object Oriented Programming" ID="6515" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Inheritance" ID="6530" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6515" /></TreeNode>
+<TreeNode name="Interfaces" ID="6575" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6515" /></TreeNode>
+<TreeNode name="Polymorphism" ID="6531" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6515" /></TreeNode>
+<TreeNode name="Separation of Concerns" ID="6520" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Service Oriented Architecture" ID="6523" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Unobtusive JavaScript" ID="6519" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6498" /></TreeNode>
+<TreeNode name="Software Development Tools" ID="6479" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value>Programming Tools</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="Build Management Tools" ID="6482" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Apache Ant" ID="6483" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6482" /></TreeNode>
+<TreeNode name="Code Generation" ID="6562" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Code Complete" ID="6698" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6562" /></TreeNode>
+<TreeNode name="CodeBreeze" ID="6697" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6562" /></TreeNode>
+<TreeNode name="CodeSmith Generator" ID="6696" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6562" /></TreeNode>
+<TreeNode name="Debuggers" ID="6597" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Dependency Management Tools" ID="6556" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Apache Ivy" ID="6558" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6556" /></TreeNode>
+<TreeNode name="Apache Maven" ID="6557" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6556" /></TreeNode>
+<TreeNode name="Documentation Generators" ID="6679" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Doxygen" ID="6680" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6679" /></TreeNode>
+<TreeNode name="Javadoc" ID="6681" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6679" /></TreeNode>
+<TreeNode name="Integrated Development Environments" ID="6481" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="Eclipse" ID="6484" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6481" /></TreeNode>
+<TreeNode name="NetBeans" ID="6595" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6481" /></TreeNode>
+<TreeNode name="Visual Studio" ID="6485" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6481" /></TreeNode>
+<TreeNode name="XCode" ID="6486" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6481" /></TreeNode>
+<TreeNode name="Issue Tracking Systems" ID="6548" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="JIRA" ID="6552" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6548" /></TreeNode>
+<TreeNode name="Profiling Tools" ID="6699" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="YourKit Java Profiler" ID="6700" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Interface">
+    <Value>Java</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value></Value>
+</Attribute>
+<Attribute name="License">
+    <Value></Value>
+</Attribute>
+<Attribute name="URL">
+    <Value>http://www.yourkit.com/overview/index.jsp</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6699" /></TreeNode>
+<TreeNode name="Source Control Tools" ID="6549" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6479" /></TreeNode>
+<TreeNode name="CVS" ID="6550" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6549" /></TreeNode>
+<TreeNode name="Subversion" ID="6551" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6549" /></TreeNode>
+<TreeNode name="Software Libraries" ID="6496" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+<Attribute name="Taxonomy Rule">
+    <Value>NODE</Value>
+</Attribute>
+<Attribute name="Synonym">
+    <Value>Class Libraries</Value>
+    <Value>API</Value>
+</Attribute>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="Dependency Injection Frameworks" ID="6497" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Google Guice" ID="6544" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6497" /></TreeNode>
+<TreeNode name="Spring" ID="6543" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6497" /></TreeNode>
+<TreeNode name="JavaScript Toolkits" ID="6503" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="ActiveWidgets" ID="6682" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="Dojo" ID="6542" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="EXT JS" ID="6568" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="JQuery" ID="6538" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="MooTools" ID="6540" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="Prototype" ID="6541" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="YUI" ID="6539" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6503" /></TreeNode>
+<TreeNode name="MVC Frameworks" ID="6501" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="ASP.NET MVC" ID="6529" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6501" /></TreeNode>
+<TreeNode name="Apache Struts" ID="6528" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6501" /></TreeNode>
+<TreeNode name="Network" ID="6564" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Object Persistence Frameworks" ID="6545" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Hibernate" ID="6546" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6545" /></TreeNode>
+<TreeNode name="Search Integration" ID="6563" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Security" ID="6565" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Text Analytics" ID="6547" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6496" /></TreeNode>
+<TreeNode name="Web Development" ID="6571" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6477" /></TreeNode>
+<TreeNode name="AJAX" ID="6572" class="com.raritantechnologies.utils.tree.ThesaurusNode" >
+<Attributes>
+</Attributes>
+<Parent ID="6571" /></TreeNode>
+<TreeNode name="Software References" ID="6477" class="com.raritantechnologies.utils.tree.TreeRoot" >
+<Attributes>
+<Attribute name="TaxonomyID">
+    <Value>3</Value>
+</Attribute>
+</Attributes>
+<Parent ID="Root" /></TreeNode>
+</Tree>

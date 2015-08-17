@@ -1,0 +1,33 @@
+<Record>
+<Term>Malnutrition</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutritional Disorder</ParentTerm>
+<ParentTerm>Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Nutritional Disorder/Malnutrition</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional Disorder</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Starvation</ChildTerm>
+<ChildTerm>Refeeding Syndrome</ChildTerm>
+<ChildTerm>Fetal Nutrition Disorders</ChildTerm>
+<ChildTerm>Protein Energy Malnutrition</ChildTerm>
+<ChildTerm>Deficiency Diseases</ChildTerm>
+<Synonym>malnutrition</Synonym>
+<Synonym>Malnutrition</Synonym>
+<Synonym>Nutritional Deficiencies</Synonym>
+<Synonym>Undernutrition</Synonym>
+<Synonym>Nutritional Deficiency</Synonym>
+<Description>An imbalanced nutritional status resulted from insufficient intake of nutrients to meet normal physiological requirement.</Description>
+<Description>Inadequate nutrition resulting from poor diet, malabsorption, or abnormal nutrient distribution. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

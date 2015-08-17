@@ -1,0 +1,49 @@
+<Record>
+<Term>Androgen Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Hormone Antagonist</ParentTerm>
+<ParentTerm>Hormone Antagonists</ParentTerm>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Androgen Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Androgen Antagonists</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Androgen</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Androgen Antagonists</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Androgen</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Abiraterone Acetate</ChildTerm>
+<ChildTerm>Selective Androgen Receptor Modulator MDV3100</ChildTerm>
+<ChildTerm>Triptorelin</ChildTerm>
+<ChildTerm>Selective Androgen Receptor Modulator Gtx-024</ChildTerm>
+<ChildTerm>Nilutamide</ChildTerm>
+<ChildTerm>Cioteronel</ChildTerm>
+<ChildTerm>Bicalutamide</ChildTerm>
+<ChildTerm>Cyproterone Acetate</ChildTerm>
+<ChildTerm>BMS-641988</ChildTerm>
+<ChildTerm>Zanoterone</ChildTerm>
+<ChildTerm>Inocoterone Acetate</ChildTerm>
+<ChildTerm>Hydroxyflutamide</ChildTerm>
+<ChildTerm>Topterone</ChildTerm>
+<ChildTerm>Dutasteride</ChildTerm>
+<ChildTerm>Benorterone</ChildTerm>
+<ChildTerm>Topilutamide</ChildTerm>
+<ChildTerm>Cyproterone</ChildTerm>
+<ChildTerm>Finasteride</ChildTerm>
+<Synonym>Anti-Androgen Agents</Synonym>
+<Synonym>Antiandrogens</Synonym>
+<Synonym>Androgen Antagonists</Synonym>
+<Synonym>Anti-Androgen</Synonym>
+<Synonym>Antiandrogen Agents</Synonym>
+<Synonym>antiandrogens</Synonym>
+<Description>Substances that inhibit or antagonize the biosynthesis or biologic effects of androgens by either antagonizing the responsiveness of androgen sensitive tissues or competing with their binding sites.</Description>
+<Description>Compounds which inhibit or antagonize the biosynthesis or actions of androgens.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

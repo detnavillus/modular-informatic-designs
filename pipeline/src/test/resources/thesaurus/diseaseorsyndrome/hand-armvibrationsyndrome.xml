@@ -1,0 +1,23 @@
+<Record>
+<Term>Hand-Arm Vibration Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ParentTerm>Occupational Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Hand-Arm Vibration Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hand-Arm Vibration Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Hand-Arm Vibration Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Hand-Arm Vibration Syndrome</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Hand-Arm Vibration Syndrome</Synonym>
+<Synonym>Hand Arm Vibration Syndrome</Synonym>
+<Synonym>Hand-Arm Vibration Syndromes</Synonym>
+<Description>An occupational disorder resulting from prolonged exposure to vibration, affecting the fingers, hands, and forearms. It occurs in workers who regularly use vibrating tools such as jackhammers, power chain saws, riveters, etc.  Symptoms include episodic finger blanching, NUMBNESS, tingling, and loss of nerve sensitivity.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,53 @@
+<Record>
+<Term>Sodium Chloride</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ParentTerm>Chlorides</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Sodium Chloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Sodium Chloride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Hydrochloric Acid/Chlorides/Sodium Chloride</ClassificationPath>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chlorides</BroaderTerm>
+<BroaderTerm>Sodium Chloride</BroaderTerm>
+<BroaderTerm>Hydrochloric Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Sodium Chloride, Dietary</ChildTerm>
+<Synonym>Bacteriostatic sodium chloride 0.9% in plastic container</Synonym>
+<Synonym>Sodium chloride 0.45% in plastic container</Synonym>
+<Synonym>Sodium chloride 0.45%</Synonym>
+<Synonym>Sodium chloride 0.9% in sterile plastic container</Synonym>
+<Synonym>Sodium chloride 5%</Synonym>
+<Synonym>Sodium Chloride</Synonym>
+<Synonym>Sodium chloride 3% in plastic container</Synonym>
+<Synonym>Sodium chloride 5% in plastic container</Synonym>
+<Synonym>Sodium chloride 0.9% in plastic container</Synonym>
+<Synonym>Sodium chloride in plastic container</Synonym>
+<Synonym>Salt</Synonym>
+<Synonym>NaCl</Synonym>
+<Synonym>Saline Solution</Synonym>
+<Synonym>Sodium chloride 23.4% in plastic container</Synonym>
+<Synonym>Sodium chloride 23.4%</Synonym>
+<Synonym>Sodium chloride 0.9%</Synonym>
+<Synonym>Sodium chloride</Synonym>
+<Synonym>Broncho saline</Synonym>
+<Synonym>Sodium chloride 3%</Synonym>
+<Synonym>Bacteriostatic sodium chloride 0.9%</Synonym>
+<Synonym>SODIUM CHLORIDE</Synonym>
+<Description>A metal halide composed of sodium and chloride with sodium and chloride replacement capabilities. When depleted in the body, sodium must be replaced in order to maintain intracellular osmolarity, nerve conduction, muscle contraction and normal renal function.</Description>
+<Description>A ubiquitous sodium salt that is commonly used to season food. It plays an important biological role in maintaining the osmotic tension of blood and tissues. The OSMOLAR CONCENTRATION this and other SALTS accounts for SALINITY which influences the types of organisms that live in an ENVIRONMENT.</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Infectious Keratoconjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections, Bacterial</ParentTerm>
+<ParentTerm>Keratoconjunctivitis</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Keratoconjunctivitis, Infectious</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Keratoconjunctivitis, Infectious</ClassificationPath>
+<ClassificationPath>Animal Diseases/Keratoconjunctivitis, Infectious</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Keratoconjunctivitis/Keratoconjunctivitis, Infectious</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Keratoconjunctivitis/Keratoconjunctivitis, Infectious</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Keratoconjunctivitis, Infectious</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Keratoconjunctivitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Keratoconjunctivitis, Infectious</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<Synonym>Infectious Keratoconjunctivitis</Synonym>
+<Synonym>Infectious Keratoconjunctivitides</Synonym>
+<Description>Infectious diseases of cattle, sheep, and goats, characterized by blepharospasm, lacrimation, conjunctivitis, and varying degrees of corneal opacity and ulceration. In cattle the causative agent is MORAXELLA (MORAXELLA) BOVIS; in sheep, MYCOPLASMA; RICKETTSIA; CHLAMYDIA; or ACHOLEPLASMA; in goats, RICKETTSIA.</Description>
+<Source>MeSH</Source>
+</Record>

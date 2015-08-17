@@ -1,0 +1,11 @@
+<Record>
+<Term>Essential Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Drugs, Essential</ClassificationPath>
+<BroaderTerm>Drugs, Essential</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<Synonym>Essential Drugs</Synonym>
+<Description>Drugs considered essential to meet the health needs of a population as well as to control drug costs. (World Health Organization Action Programme on Essential Drugs, 1994, p3)</Description>
+<Source>MeSH</Source>
+</Record>

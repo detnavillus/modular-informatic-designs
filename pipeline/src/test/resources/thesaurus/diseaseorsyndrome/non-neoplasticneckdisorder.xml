@@ -1,0 +1,26 @@
+<Record>
+<Term>Non-Neoplastic Neck Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Head and Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Non-Neoplastic Neck Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Neck Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Neck Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Neck Disorder</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Laryngeal Disorder</ChildTerm>
+<ChildTerm>Sore Throat</ChildTerm>
+<ChildTerm>Non-Neoplastic Parathyroid Gland Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Thyroid Gland Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Pharyngeal Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Neck Disease</Synonym>
+<Synonym>Non-Neoplastic Neck Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

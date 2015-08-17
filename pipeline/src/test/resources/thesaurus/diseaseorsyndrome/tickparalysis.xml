@@ -1,0 +1,15 @@
+<Record>
+<Term>Tick Paralysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick Toxicoses</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Bites and Stings/Tick Toxicoses/Tick Paralysis</ClassificationPath>
+<BroaderTerm>Bites and Stings</BroaderTerm>
+<BroaderTerm>Tick Toxicoses</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Tick Paralysis</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<Synonym>Tick Paralysis</Synonym>
+<Synonym>Tick Paralyses</Synonym>
+<Description>Paralysis caused by a neurotropic toxin secreted by the salivary glands of ticks.</Description>
+<Source>MeSH</Source>
+</Record>

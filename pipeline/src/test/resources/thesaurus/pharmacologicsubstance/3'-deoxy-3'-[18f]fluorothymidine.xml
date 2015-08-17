@@ -1,0 +1,16 @@
+<Record>
+<Term>3'-deoxy-3'-[18F]fluorothymidine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Diagnostic Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/3'-deoxy-3'-[18F]fluorothymidine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>3'-deoxy-3'-[18F]fluorothymidine</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>18F-FLT</Synonym>
+<Synonym>3'-deoxy-3'-[18F]fluorothymidine</Synonym>
+<Description>A radioconjugate consisting of a thymidine analogue radiolabeled with fluorine F 18, a positron emitting isotope.  Phosphorylated by S-phase-specific thymidine kinase 1, 3'-deoxy-3'-[18F]fluorothymidine (18F-FLT) is trapped intracellularly by entering the salvage pathway of DNA synthesis without incorporation into DNA. 18F-FLT serves a marker of tumor cell proliferation for imaging with positron emission tomography (PET); as a marker of proliferation rather than metabolism, it is more specific to tumor tissue than 2-deoxy-2-[18F] fluoro-D-glucose (18F-FDG).  This agent is metabolically stable, accumulates in the normal bone marrow and the liver, and does not cross the blood-brain barrier.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

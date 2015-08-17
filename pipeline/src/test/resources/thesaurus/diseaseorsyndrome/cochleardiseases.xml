@@ -1,0 +1,14 @@
+<Record>
+<Term>Cochlear Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Labyrinth Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Labyrinth Diseases/Cochlear Diseases</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Cochlear Diseases</BroaderTerm>
+<BroaderTerm>Labyrinth Diseases</BroaderTerm>
+<Synonym>Cochlear Diseases</Synonym>
+<Synonym>Cochlear Disease</Synonym>
+<Description>Pathological processes of the snail-like structure (COCHLEA) of the inner ear (LABYRINTH) which can involve its nervous tissue, blood vessels, or fluid (ENDOLYMPH).</Description>
+<Source>MeSH</Source>
+</Record>

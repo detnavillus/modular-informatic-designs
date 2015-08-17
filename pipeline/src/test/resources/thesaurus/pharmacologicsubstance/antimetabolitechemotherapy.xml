@@ -1,0 +1,18 @@
+<Record>
+<Term>Antimetabolite Chemotherapy</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chemotherapy</ParentTerm>
+<ClassificationPath>Activity_Kind/Activity/Clinical or Research Activity/Intervention or Procedure/Therapeutic Procedure/Chemotherapy/Antimetabolite Chemotherapy</ClassificationPath>
+<BroaderTerm>Activity</BroaderTerm>
+<BroaderTerm>Intervention or Procedure</BroaderTerm>
+<BroaderTerm>Clinical or Research Activity</BroaderTerm>
+<BroaderTerm>Antimetabolite Chemotherapy</BroaderTerm>
+<BroaderTerm>Therapeutic Procedure</BroaderTerm>
+<BroaderTerm>Chemotherapy</BroaderTerm>
+<BroaderTerm>Activity_Kind</BroaderTerm>
+<Synonym>Antimetabolite Chemotherapy</Synonym>
+<Synonym>Chemotherapy, Antimetabolites</Synonym>
+<Synonym>Chemotherapy, Cancer, Antimetabolites</Synonym>
+<Description>Treatment of cancer that utilizes antimetabolite substances to disrupt DNA, RNA, or protein synthesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

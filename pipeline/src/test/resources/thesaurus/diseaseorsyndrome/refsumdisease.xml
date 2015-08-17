@@ -1,0 +1,54 @@
+<Record>
+<Term>Refsum Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peroxisomal Disorders</ParentTerm>
+<ParentTerm>Hereditary Sensory and Motor Neuropathy</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Hereditary Sensory and Motor Neuropathy/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Motor Neuropathy/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Nervous System Malformations/Hereditary Sensory and Motor Neuropathy/Refsum Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Nervous System Malformations/Hereditary Sensory and Motor Neuropathy/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Motor Neuropathy/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Refsum Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Peroxisomal Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Malformations</BroaderTerm>
+<BroaderTerm>Refsum Disease</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hereditary Sensory and Motor Neuropathy</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<Synonym>Refsum's Disease</Synonym>
+<Synonym>Refsums Disease</Synonym>
+<Synonym>Refsum Disease</Synonym>
+<Synonym>Phytanic Acid Storage Disease</Synonym>
+<Synonym>Refsum-Thiebaut Syndrome</Synonym>
+<Synonym>Refsum Thiebaut Syndrome</Synonym>
+<Synonym>Heredopathia Atactica Polyneuritiformis</Synonym>
+<Synonym>Refsum's Syndrome</Synonym>
+<Synonym>HMSN Type IV</Synonym>
+<Synonym>Hereditary Type IV Motor and Sensory Neuropathy</Synonym>
+<Synonym>Refsum Syndrome</Synonym>
+<Synonym>Hemeralopia Heredoataxia Polyneuritiformis</Synonym>
+<Synonym>Refsum-Thiebaut Syndromes</Synonym>
+<Synonym>Refsums Syndrome</Synonym>
+<Synonym>HMSN 4</Synonym>
+<Description>An autosomal recessive familial disorder that usually presents in childhood with POLYNEUROPATHY; SENSORINEURAL HEARING LOSS; ICHTHYOSIS; ATAXIA; RETINITIS PIGMENTOSA; and CARDIOMYOPATHIES. (From Joynt, Clinical Neurology, 1991, Ch37, p58-9; Rev Med Interne 1996;17(5):391-8) This condition can be caused by mutation in the genes encoding peroxisomal phytanoyl-CoA hydroxylase or proteins associated peroxisomal membrane, leading to impaired catabolism of PHYTANIC ACID in PEROXISOMES.</Description>
+<Source>MeSH</Source>
+</Record>

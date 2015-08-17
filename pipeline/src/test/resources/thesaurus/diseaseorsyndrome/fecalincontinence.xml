@@ -1,0 +1,16 @@
+<Record>
+<Term>Fecal Incontinence</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Rectal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Rectal Diseases/Fecal Incontinence</ClassificationPath>
+<BroaderTerm>Fecal Incontinence</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Rectal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Fecal Incontinence</Synonym>
+<Synonym>Fecal Incontinences</Synonym>
+<Description>Failure of voluntary control of the anal sphincters, with involuntary passage of feces and flatus.</Description>
+<Source>MeSH</Source>
+</Record>

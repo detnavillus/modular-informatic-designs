@@ -1,0 +1,21 @@
+<Record>
+<Term>Chronobiology Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Chronobiology Disorders</ClassificationPath>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Chronobiology Disorders</BroaderTerm>
+<ChildTerm>Sleep Disorders, Circadian Rhythm</ChildTerm>
+<ChildTerm>Jet Lag Syndrome</ChildTerm>
+<Synonym>Chronobiology Disorders</Synonym>
+<Synonym>Chronobiology Disorder</Synonym>
+<Synonym>Biological Clock Disturbances</Synonym>
+<Synonym>Biological Clock Disturbance</Synonym>
+<Synonym>Psychogenic Inversion of Circadian Rhythm</Synonym>
+<Synonym>Circadian Rhythm Disorders</Synonym>
+<Synonym>Circadian Rhythm Disorder</Synonym>
+<Synonym>Circadian Dysregulation</Synonym>
+<Description>Disruptions of the rhythmic cycle of bodily functions or activities.</Description>
+<Source>MeSH</Source>
+</Record>

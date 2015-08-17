@@ -1,0 +1,36 @@
+<Record>
+<Term>Non-Neoplastic Endocrine Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Endocrine Disorder/Non-Neoplastic Endocrine Disorder</ClassificationPath>
+<BroaderTerm>Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Goiter</ChildTerm>
+<ChildTerm>Endocrine Disorder Arising from Mental Factor</ChildTerm>
+<ChildTerm>Glucose Metabolism Disorder</ChildTerm>
+<ChildTerm>Diabetes Insipidus</ChildTerm>
+<ChildTerm>Gonadotropin Secretion Abnormality</ChildTerm>
+<ChildTerm>Thyroid Gland Atrophy</ChildTerm>
+<ChildTerm>Hyperthyroidism</ChildTerm>
+<ChildTerm>Gonadal Agenesis</ChildTerm>
+<ChildTerm>Hypogonadism</ChildTerm>
+<ChildTerm>Pituitary Gland Hypoplasia</ChildTerm>
+<ChildTerm>Adrenal Gland Insufficiency</ChildTerm>
+<ChildTerm>Congenital Thyroid Gland Disorder</ChildTerm>
+<ChildTerm>Hypopituitarism</ChildTerm>
+<ChildTerm>Thyroiditis</ChildTerm>
+<ChildTerm>Thyroid Gland Malformation</ChildTerm>
+<ChildTerm>Congenital Adrenal Gland Disorder</ChildTerm>
+<ChildTerm>Growth Hormone Secretion Abnormality</ChildTerm>
+<ChildTerm>Hypothyroidism</ChildTerm>
+<Synonym>Non-Neoplastic Endocrine Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

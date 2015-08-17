@@ -1,0 +1,18 @@
+<Record>
+<Term>Reactive Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depression</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression/Reactive Depression</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Reactive Depression</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Vital Exhaustion</ChildTerm>
+<ChildTerm>Adjustment Reaction with Brief Depressive Reaction</ChildTerm>
+<ChildTerm>Adjustment Reaction with Prolonged Depressive Reaction</ChildTerm>
+<Synonym>Reactive Depression</Synonym>
+<Description>Depression precipitated by events in a person's life.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

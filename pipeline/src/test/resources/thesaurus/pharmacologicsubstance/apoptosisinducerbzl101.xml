@@ -1,0 +1,15 @@
+<Record>
+<Term>Apoptosis Inducer BZL101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Apoptosis Inducer BZL101</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Apoptosis Inducer BZL101</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Apoptosis Inducer BZL101</Synonym>
+<Synonym>BZL101</Synonym>
+<Description>An orally active aqueous extract derived from the plant Scutellaria barbata with potential antineoplastic activity. Sparing normal cells, apoptosis inducer BZL101 specifically facilitates translocation of the protein apoptosis-inducing factor (AIF) from the mitochondrial membrane into the nucleus in tumor cells, thereby causing tumor cell-specific chromatin condensation and DNA degradation followed by the induction of caspase-independent apoptosis. AIF is both a mitochondrial intermembrane flavoprotein with oxidoreductase activity and a caspase-independent death effector that, similar to cytochrome c, is released from mitochondria early in the apoptotic process.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

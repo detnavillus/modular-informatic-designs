@@ -1,0 +1,15 @@
+<Record>
+<Term>Reolysin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/Reolysin</ClassificationPath>
+<BroaderTerm>Reolysin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Reolysin</Synonym>
+<Description>A serotype 3 Dearing strain (T3D) of reovirus (Respiratory Enteric Orphan VIRUS). Reovirus, a dsRNA virus, is able to replicate specifically in cancer cells bearing an activated Ras pathway. In contrast to normal cells, two-thirds of human cancer cells are Ras-activated, and are deficient in their ability to trigger the antiviral response mediated by the host cellular protein, double-stranded RNA-dependent protein kinase (PKR). In Ras-activated cancer cells, reovirus is able to freely replicate and subsequently cause apoptosis in the tumor cells. Cell lysis frees progeny viral particles to infect surrounding cancer cells. This cycle of infection, replication and cell death is believed to be repeated until no more Ras-activated tumor cells are available. Because the reovirus kills Ras-activated cancer cells, this is a potential therapeutic for malignant glioma, pancreatic, colon and some lung cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

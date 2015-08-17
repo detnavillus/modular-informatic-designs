@@ -1,0 +1,18 @@
+<Record>
+<Term>IgA Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dysgammaglobulinemia</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Dysgammaglobulinemia/IgA Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Dysgammaglobulinemia/IgA Deficiency</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Dysgammaglobulinemia</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>IgA Deficiency</BroaderTerm>
+<Synonym>IgA Deficiencies</Synonym>
+<Synonym>IgA Deficiency</Synonym>
+<Description>A dysgammaglobulinemia characterized by a deficiency of IMMUNOGLOBULIN A.</Description>
+<Source>MeSH</Source>
+</Record>

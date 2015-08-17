@@ -1,0 +1,38 @@
+<Record>
+<Term>Primary Myelofibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Myeloproliferative Disorders</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Chronic Idiopathic Myelofibrosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Primary Myelofibrosis</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Chronic Idiopathic Myelofibrosis</BroaderTerm>
+<BroaderTerm>Primary Myelofibrosis</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Chronic Idiopathic Myelofibrosis</Synonym>
+<Synonym>Idiopathic Myelofibrosis</Synonym>
+<Synonym>Primary Myelofibrosis</Synonym>
+<Synonym>Myeloid Metaplasia</Synonym>
+<Synonym>Idiopathic Bone Marrow Fibrosis</Synonym>
+<Synonym>Agnogenic Myeloid Metaplasia</Synonym>
+<Synonym>Primary Myelofibroses</Synonym>
+<Synonym>Myelofibrosis</Synonym>
+<Synonym>Myelofibroses</Synonym>
+<Synonym>Agnogenic Myeloid Metaplasias</Synonym>
+<Synonym>Bone Marrow Fibrosis</Synonym>
+<Synonym>Bone Marrow Fibroses</Synonym>
+<Synonym>Nonleukemic Myeloses</Synonym>
+<Synonym>Myeloid Metaplasias</Synonym>
+<Synonym>Myelosclerosis</Synonym>
+<Synonym>Myeloscleroses</Synonym>
+<Synonym>Myelosclerosis with Myeloid Metaplasia</Synonym>
+<Synonym>idiopathic myelofibrosis</Synonym>
+<Synonym>Nonleukemic Myelosis</Synonym>
+<Description>A chronic myeloproliferative disorder characterized by bone marrow fibrosis, proliferation of atypical megakaryocytes and granulocytes in the bone marrow, anemia, splenomegaly, and extramedullary hematopoiesis.  The cause is unknown.  The median survival time is 3-5 years from diagnosis. (WHO, 2001)</Description>
+<Description>A de novo myeloproliferation arising from an abnormal stem cell. It is characterized by the replacement of bone marrow by fibrous tissue, a process that is mediated by CYTOKINES arising from the abnormal clone.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

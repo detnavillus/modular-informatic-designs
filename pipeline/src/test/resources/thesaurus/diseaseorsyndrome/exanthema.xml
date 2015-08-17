@@ -1,0 +1,17 @@
+<Record>
+<Term>Exanthema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Exanthema</ClassificationPath>
+<BroaderTerm>Exanthema</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Exanthema Subitum</ChildTerm>
+<Synonym>Exanthema</Synonym>
+<Synonym>Skin Rash</Synonym>
+<Synonym>Rash</Synonym>
+<Synonym>Exanthem</Synonym>
+<Description>Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology.</Description>
+<Source>MeSH</Source>
+</Record>

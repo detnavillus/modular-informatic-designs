@@ -1,0 +1,18 @@
+<Record>
+<Term>Arenaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Arenaviridae Infections</ClassificationPath>
+<BroaderTerm>Arenaviridae Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Hemorrhagic Fever, American</ChildTerm>
+<ChildTerm>Lassa Fever</ChildTerm>
+<ChildTerm>Lymphocytic Choriomeningitis</ChildTerm>
+<Synonym>Arenaviridae Infections</Synonym>
+<Synonym>Arenaviridae Infection</Synonym>
+<Synonym>Arenavirus Infection</Synonym>
+<Synonym>Arenavirus Infections</Synonym>
+<Description>Virus diseases caused by the ARENAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

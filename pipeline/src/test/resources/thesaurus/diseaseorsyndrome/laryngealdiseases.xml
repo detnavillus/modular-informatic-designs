@@ -1,0 +1,29 @@
+<Record>
+<Term>Laryngeal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ParentTerm>Otorhinolaryngologic Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Laryngeal Diseases</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Laryngeal Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Laryngeal Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<ChildTerm>Voice Disorders</ChildTerm>
+<ChildTerm>Laryngeal Edema</ChildTerm>
+<ChildTerm>Laryngitis</ChildTerm>
+<ChildTerm>Laryngostenosis</ChildTerm>
+<ChildTerm>Granuloma, Laryngeal</ChildTerm>
+<ChildTerm>Laryngeal Neoplasms</ChildTerm>
+<ChildTerm>Laryngomalacia</ChildTerm>
+<ChildTerm>Vocal Cord Paralysis</ChildTerm>
+<ChildTerm>Laryngismus</ChildTerm>
+<ChildTerm>Tuberculosis, Laryngeal</ChildTerm>
+<Synonym>Larynx Disease</Synonym>
+<Synonym>Laryngeal Perichondritis</Synonym>
+<Synonym>Laryngeal Diseases</Synonym>
+<Synonym>Larynx Diseases</Synonym>
+<Synonym>Laryngeal Perichondritides</Synonym>
+<Synonym>Laryngeal Disease</Synonym>
+<Description>Pathological processes involving any part of the LARYNX which coordinates many functions such as voice production, breathing, swallowing, and coughing.Inflammation of LARYNGEAL CARTILAGES, usually due to infections.</Description>
+<Source>MeSH</Source>
+</Record>

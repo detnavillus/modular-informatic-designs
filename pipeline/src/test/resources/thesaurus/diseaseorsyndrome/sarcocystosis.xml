@@ -1,0 +1,16 @@
+<Record>
+<Term>Sarcocystosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coccidiosis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Sarcocystosis</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Sarcocystosis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Sarcocystosis</Synonym>
+<Synonym>Sarcocystoses</Synonym>
+<Synonym>Sarcosporidiosis</Synonym>
+<Synonym>Sarcosporidioses</Synonym>
+<Description>Infection of the striated muscle of mammals by parasites of the genus SARCOCYSTIS. Disease symptoms such as vomiting, diarrhea, muscle weakness, and paralysis are produced by sarcocystin, a toxin produced by the organism.</Description>
+<Source>MeSH</Source>
+</Record>

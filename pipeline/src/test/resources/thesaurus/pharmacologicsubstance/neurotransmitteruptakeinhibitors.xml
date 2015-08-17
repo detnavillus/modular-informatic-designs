@@ -1,0 +1,20 @@
+<Record>
+<Term>Neurotransmitter Uptake Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Neurotransmitter Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<ChildTerm>Serotonin Uptake Inhibitors</ChildTerm>
+<ChildTerm>Dopamine Uptake Inhibitors</ChildTerm>
+<ChildTerm>Adrenergic Uptake Inhibitors</ChildTerm>
+<Synonym>Neurotransmitter Reuptake Inhibitors</Synonym>
+<Synonym>Neurotransmitter Uptake Inhibitors</Synonym>
+<Description>Drugs that inhibit the transport of neurotransmitters into axon terminals or into storage vesicles within terminals. For many transmitters, uptake determines the time course of transmitter action so inhibiting uptake prolongs the activity of the transmitter. Blocking uptake may also deplete available transmitter stores. Many clinically important drugs are uptake inhibitors although the indirect reactions of the brain rather than the acute block of uptake itself is often responsible for the therapeutic effects.</Description>
+<Source>MeSH</Source>
+</Record>

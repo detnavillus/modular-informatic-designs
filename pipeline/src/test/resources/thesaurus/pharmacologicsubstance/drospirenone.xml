@@ -1,0 +1,20 @@
+<Record>
+<Term>Drospirenone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Progestin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Progestin/Drospirenone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drospirenone</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Progestin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(6R,7R,8R,9S,10R,13S,14S,15S,16S,17S)-1,3',4',6,6a,7,8,9,10,11,12,13,14,15,15a,16-Hexadecahydro-10,13-dimethylspiro-(17H-dicyclopropa(6,7:15,16)cyclopenta(a)phenanthrene-17,2'(5'H)-furan)-3,5'(2H)-dione</Synonym>
+<Synonym>1,2-Dihydrospirorenone</Synonym>
+<Synonym>6-beta,7-beta;15-beta,16-beta-Dimethylene-3-oxo-17-alpha-pregn-4-ene-21,17-carbolactone</Synonym>
+<Synonym>DROSPIRENONE</Synonym>
+<Synonym>Drospirenone</Synonym>
+<Description>A synthetic spironolactone analogue and progestin with progestational and anti-mineralocorticoid activity. Drospirenone binds to the progesterone receptor, the resulting complex becomes activated and binds to specific sites on DNA. This results in a suppression of LH activity and an inhibition of ovulation as well as an alteration in the cervical mucus and endometrium. This leads to an increased difficulty of sperm entry into the uterus and implantation. This drug is used in oral contraceptives.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

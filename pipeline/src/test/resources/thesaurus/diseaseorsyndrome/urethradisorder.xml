@@ -1,0 +1,16 @@
+<Record>
+<Term>Urethra Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Urethra Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Urethra Disorder</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Urethra Disorder</ChildTerm>
+<Synonym>Urethra Disease</Synonym>
+<Synonym>Urethra Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

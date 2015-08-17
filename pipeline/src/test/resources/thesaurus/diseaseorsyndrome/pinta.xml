@@ -1,0 +1,25 @@
+<Record>
+<Term>Pinta</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Treponemal Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Pinta</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Pinta</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Pinta</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Pinta</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Pinta</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Pinta</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pinta</Synonym>
+<Description>An infectious disease of the skin caused by Treponema carateum that occurs only in the western hemisphere. Age of onset is between 10 and 20 years of age. This condition is characterized by marked changes in the skin color and is believed to be transmitted by direct person-to-person contact.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Cabergoline</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Dopamine Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiparkinsonian Agent/Cabergoline,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Dopamine Agonist/Cabergoline</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Cabergoline,</BroaderTerm>
+<BroaderTerm>Dopamine Agonist</BroaderTerm>
+<BroaderTerm>Cabergoline</BroaderTerm>
+<BroaderTerm>Antiparkinsonian Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CABERGOLINE</Synonym>
+<Synonym>1-((6-Allylergolin-8beta-yl)carbonyl)-1-(3-(dimethylamino)propyl)-3-ethylurea</Synonym>
+<Synonym>Dostinex</Synonym>
+<Synonym>Cabergoline</Synonym>
+<Synonym>FCE 21336</Synonym>
+<Description>A synthetic ergoline derivative and a long-acting dopamine receptor agonist with high affinity for the dopamine D2 receptor. Cabergoline exerts an inhibitory effect on prolactin secretion by acting on dopamine receptors present in pituitary lactotrophs. This drug also binds to dopamine D2 receptors in the corpus striatum, thereby mimicking the actions of dopamine on motor control. Cabergoline also possesses antioxidant and neuroprotective properties due to its free radical scavenging activity. Cabergoline is used in the treatment of Parkinson's disease and in the treatment of hyperprolactinemia.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

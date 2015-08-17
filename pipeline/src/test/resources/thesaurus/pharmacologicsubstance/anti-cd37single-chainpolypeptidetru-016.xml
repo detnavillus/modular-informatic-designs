@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD37 Single-Chain Polypeptide TRU-016</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/Anti-CD37 Single-Chain Polypeptide TRU-016</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-CD37 Single-Chain Polypeptide TRU-016</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD37 Single-Chain Polypeptide TRU-016</Synonym>
+<Synonym>TRU-016</Synonym>
+<Description>A recombinant single-chain polypeptide engineered to exhibit the full binding and activity of an anti-CD37 monoclonal antibody with potential immunostimulatory and antineoplastic activities. Anti-CD37 single-chain polypeptide TRU-016 binds to CD37 on B-cells, which may result in antibody-dependent cell-mediated cytotoxicity (ADCC) and apoptosis. CD37 is a transmembrane glycoprotein expressed at high-levels on B cells and to a lesser extent on T cells and myeloid cells. This agent may have a longer half-life in vivo than conventional monoclonal antibodies.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

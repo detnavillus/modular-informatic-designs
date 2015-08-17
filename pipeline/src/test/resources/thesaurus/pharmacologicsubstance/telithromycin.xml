@@ -1,0 +1,18 @@
+<Record>
+<Term>Telithromycin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Macrolide Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protein Synthesis Inhibitor/Macrolide Antibiotic/Telithromycin</ClassificationPath>
+<BroaderTerm>Protein Synthesis Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Macrolide Antibiotic</BroaderTerm>
+<BroaderTerm>Telithromycin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TELITHROMYCIN</Synonym>
+<Synonym>Telithromycin</Synonym>
+<Synonym>Ketek</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

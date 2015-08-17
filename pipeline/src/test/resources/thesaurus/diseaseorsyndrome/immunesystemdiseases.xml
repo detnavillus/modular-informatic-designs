@@ -1,0 +1,29 @@
+<Record>
+<Term>Immune System Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Immune System Diseases</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<ChildTerm>Autoimmune Diseases</ChildTerm>
+<ChildTerm>Hypersensitivity</ChildTerm>
+<ChildTerm>Immunologic Deficiency Syndromes</ChildTerm>
+<ChildTerm>Blood Group Incompatibility</ChildTerm>
+<ChildTerm>Immunoproliferative Disorders</ChildTerm>
+<ChildTerm>Purpura, Thrombocytopenic</ChildTerm>
+<ChildTerm>Glomerulonephritis, Membranoproliferative</ChildTerm>
+<ChildTerm>Immune Reconstitution Inflammatory Syndrome</ChildTerm>
+<ChildTerm>Graft vs Host Disease</ChildTerm>
+<Synonym>Immune System Diseases</Synonym>
+<Synonym>Immune System Disease</Synonym>
+<Synonym>Immunological Diseases</Synonym>
+<Synonym>Immunological Disease</Synonym>
+<Synonym>Immune Disorders</Synonym>
+<Synonym>Immune Disorder</Synonym>
+<Synonym>Immunologic Diseases</Synonym>
+<Synonym>Immunologic Disease</Synonym>
+<Synonym>Diseases of Immune System</Synonym>
+<Synonym>Immune Diseases</Synonym>
+<Synonym>Immune Disease</Synonym>
+<Description>Disorders caused by abnormal or absent immunologic mechanisms, whether humoral, cell-mediated, or both.</Description>
+<Source>MeSH</Source>
+</Record>

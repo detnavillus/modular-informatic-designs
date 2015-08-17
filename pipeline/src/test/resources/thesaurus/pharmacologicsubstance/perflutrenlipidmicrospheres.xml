@@ -1,0 +1,17 @@
+<Record>
+<Term>Perflutren Lipid Microspheres</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Perflutren Lipid Microspheres</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Perflutren Lipid Microspheres</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Definity</Synonym>
+<Synonym>Perflutren Lipid Microspheres</Synonym>
+<Description>An injectable suspension of liposome-encapsuled microspheres containing the fluorocarbon gas perflutren for contrast enhancement in ultrasound procedures. Because the acoustic impedance of perflutren lipid microspheres is much lower than that of blood, impinging ultrasound waves are scattered and reflected at the microsphere-blood interface and may be visualized with ultrasound imaging.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

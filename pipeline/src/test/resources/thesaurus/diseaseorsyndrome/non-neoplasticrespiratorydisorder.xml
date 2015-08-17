@@ -1,0 +1,22 @@
+<Record>
+<Term>Non-Neoplastic Respiratory Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Non-Neoplastic Respiratory Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Respiratory Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Respiratory Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Respiratory Disorder,</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Tracheal Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Lung Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Respiratory Disease</Synonym>
+<Synonym>Non-Neoplastic Respiratory Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

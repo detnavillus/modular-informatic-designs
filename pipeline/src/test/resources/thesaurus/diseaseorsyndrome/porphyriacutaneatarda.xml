@@ -1,0 +1,41 @@
+<Record>
+<Term>Porphyria Cutanea Tarda</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis</ParentTerm>
+<ParentTerm>Porphyrias, Hepatic</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Porphyrias/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria Cutanea Tarda</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Porphyrias, Hepatic</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Porphyria Cutanea Tarda</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Porphyria Cutanea Tarda</Synonym>
+<Description>An autosomal dominant or acquired porphyria due to a deficiency of UROPORPHYRINOGEN DECARBOXYLASE in the LIVER. It is characterized by photosensitivity and cutaneous lesions with little or no neurologic symptoms. Type I is the acquired form and is strongly associated with liver diseases and hepatic toxicities caused by alcohol or estrogenic steroids. Type II is the familial form.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

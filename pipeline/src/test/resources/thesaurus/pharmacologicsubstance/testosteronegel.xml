@@ -1,0 +1,18 @@
+<Record>
+<Term>Testosterone Gel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Testosterone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen/Therapeutic Testosterone/Testosterone Gel</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Testosterone</BroaderTerm>
+<BroaderTerm>Testosterone Gel</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AndroGel</Synonym>
+<Synonym>Testosterone Gel</Synonym>
+<Description>A topical gel preparation of synthetic testosterone. In vivo, testosterone is irreversibly converted to dihydrotestosterone (DHT) in target tissues by the enzyme 5-alpha reductase. Testosterone or DHT ligand-androgen receptor complexes act as transcription factor complexes, stimulating the expression of various responsive genes, resulting in an increase in protein anabolism, a decrease in amino acid catabolism, and retention of nitrogen, potassium, and phosphorus; DHT binds with higher affinity to nuclear androgen receptors than testosterone. In addition, testosterone is irreversibly converted to estradiol by the enzyme complex aromatase, particularly in the liver and adipose tissue. Testosterone and DHT promote the development and maintenance of male sex characteristics related to the internal and external genitalia, skeletal muscle, and hair follicles; estradiol promotes epiphyseal maturation and bone mineralization.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

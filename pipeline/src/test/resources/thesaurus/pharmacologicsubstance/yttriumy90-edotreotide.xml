@@ -1,0 +1,21 @@
+<Record>
+<Term>Yttrium Y 90-Edotreotide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90-Edotreotide</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Yttrium Y 90-Edotreotide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y-90 OctreoTher</Synonym>
+<Synonym>Yttrium Y 90 -DOTATOC</Synonym>
+<Synonym>Yttrium Y 90 SMT 487</Synonym>
+<Synonym>Yttrium Y 90-DOTA-Tyr3-Octreotide</Synonym>
+<Synonym>Yttrium Y 90-Edotreotide</Synonym>
+<Synonym>yttrium Y 90 SMT 487</Synonym>
+<Synonym>yttrium Y 90-DOTA-tyr3-octreotide</Synonym>
+<Description>A radioconjugate consisting of the octreotide derivative edotreotide labeled with yttrium 90 (Y-90) with potential radiotherapeutic uses. Similar to octreotide, yttrium Y 90-edotreotide binds to somatostatin receptors (SSTRs), especially type 2 receptors, present on the cell membranes of many types of neuroendocrine tumor cells, delivering tissue-specific, beta-emitting nuclide Y-90-mediated cytotoxicity to SSTR-positive cells. Yttrium Y 90-edotreotide is produced by substituting tyrosine for phenylalanine at the 3 position of the somatostatin analogue octreotide and chelating the substituted octreotide to Y-90 via dodecanetetraacetic acid (DOTA).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

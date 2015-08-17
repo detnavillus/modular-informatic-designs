@@ -1,0 +1,15 @@
+<Record>
+<Term>Yttrium Y 90 DOTA Monoclonal Antibody HuAFP31</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 DOTA Monoclonal Antibody HuAFP31</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Yttrium Y 90 DOTA Monoclonal Antibody HuAFP31</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Yttrium Y 90 DOTA Monoclonal Antibody HuAFP31</Synonym>
+<Description>A radioimmunoconjugate comprised of the monoclonal antibody HuAFP31, directed against alpha fetoprotein, that is conjugated to the chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and radiolabeled with the beta-emitting radioisotope Yttrium Y90. Yttrium Y 90 DOTA monoclonal antibody HuAFP31 binds to tumor cells expressing alpha fetoprotein, selectively delivering a cytotoxic dose of beta radiation. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Paraneoplastic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Paraneoplastic Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Paraneoplastic Syndrome</ClassificationPath>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndrome,</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Opsoclonus Myoclonus Syndrome</ChildTerm>
+<ChildTerm>Limbic Encephalitis</ChildTerm>
+<ChildTerm>Oncogenic Osteomalacia</ChildTerm>
+<ChildTerm>Paraneoplastic Opsoclonus Ataxia</ChildTerm>
+<ChildTerm>Paraneoplastic Cerebellar Degeneration</ChildTerm>
+<ChildTerm>Lambert Eaton Myasthenic Syndrome</ChildTerm>
+<ChildTerm>Paraneoplastic Polyneuropathy</ChildTerm>
+<Synonym>Paraneoplastic Syndrome</Synonym>
+<Synonym>paraneoplastic syndrome</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

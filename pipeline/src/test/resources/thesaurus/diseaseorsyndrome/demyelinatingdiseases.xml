@@ -1,0 +1,25 @@
+<Record>
+<Term>Demyelinating Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Pathologic Function</SemanticType>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases</ClassificationPath>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Demyelinating Autoimmune Diseases, CNS</ChildTerm>
+<ChildTerm>Hereditary Central Nervous System Demyelinating Diseases</ChildTerm>
+<ChildTerm>Polyradiculoneuropathy</ChildTerm>
+<ChildTerm>Myelinolysis, Central Pontine</ChildTerm>
+<ChildTerm>Subacute Combined Degeneration</ChildTerm>
+<ChildTerm>Marchiafava-Bignami Disease</ChildTerm>
+<ChildTerm>Leukoencephalopathy, Progressive Multifocal</ChildTerm>
+<Synonym>Demyelinating Diseases</Synonym>
+<Synonym>Demyelinating Disease</Synonym>
+<Synonym>Demyelinating Disorders</Synonym>
+<Synonym>Demyelinating Disorder</Synonym>
+<Synonym>Demyelination</Synonym>
+<Synonym>Demyelinations</Synonym>
+<Synonym>Clinically Isolated CNS Demyelinating Syndrome</Synonym>
+<Description>Diseases characterized by loss or dysfunction of myelin in the central or peripheral nervous system.The first region-restricted episode of CNS inflammatory demyelination in a patient. It is usually characterized by an acute monosymptomatic presentation of the optic nerves, brainstem, or spinal cord. It may not reoccur (isolated), or it may progress to MULTIPLE SCLEROSIS.</Description>
+<Source>MeSH</Source>
+</Record>

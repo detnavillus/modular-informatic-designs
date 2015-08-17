@@ -1,0 +1,19 @@
+<Record>
+<Term>Epidemic Pleurodynia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coxsackievirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Coxsackievirus Infections/Pleurodynia, Epidemic</ClassificationPath>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Pleurodynia, Epidemic</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coxsackievirus Infections</BroaderTerm>
+<Synonym>Epidemic Pleurodynia</Synonym>
+<Synonym>Epidemic Pleurodynias</Synonym>
+<Synonym>Epidemic Myalgia</Synonym>
+<Synonym>Epidemic Myalgias</Synonym>
+<Synonym>Bornholm Disease</Synonym>
+<Description>An acute, febrile, infectious disease generally occurring in epidemics. It is usually caused by coxsackieviruses B and sometimes by coxsackieviruses A; echoviruses; or other enteroviruses.</Description>
+<Source>MeSH</Source>
+</Record>

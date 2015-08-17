@@ -1,0 +1,60 @@
+<Record>
+<Term>Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Experimental Model of Disease</SemanticType>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Acute Pneumonia</ChildTerm>
+<ChildTerm>Bacterial Pneumonia</ChildTerm>
+<ChildTerm>Pneumonia, Viral</ChildTerm>
+<ChildTerm>Idiopathic Pneumonia Syndrome</ChildTerm>
+<ChildTerm>Pleuropneumonia</ChildTerm>
+<ChildTerm>Pneumonia, Bacterial</ChildTerm>
+<ChildTerm>Pneumonia, Ventilator-Associated</ChildTerm>
+<ChildTerm>Cryptogenic Organizing Pneumonia</ChildTerm>
+<ChildTerm>Eosinophilic Pneumonia</ChildTerm>
+<ChildTerm>Farmer's Lung</ChildTerm>
+<ChildTerm>Chemical Pneumonitis</ChildTerm>
+<ChildTerm>Interstitial Pneumonia</ChildTerm>
+<ChildTerm>Pneumocystis Carinii Pneumonia</ChildTerm>
+<ChildTerm>Cryptococcal Pneumonia</ChildTerm>
+<ChildTerm>Pneumonia, Pneumocystis</ChildTerm>
+<ChildTerm>Viral Respiratory Tract Infection</ChildTerm>
+<ChildTerm>Aspiration Pneumonia</ChildTerm>
+<ChildTerm>Alveolitis</ChildTerm>
+<ChildTerm>Toxoplasma Pneumonia</ChildTerm>
+<ChildTerm>Bronchopneumonia</ChildTerm>
+<ChildTerm>Pneumonia, Aspiration</ChildTerm>
+<Synonym>Pulmonary Inflammation</Synonym>
+<Synonym>Lung Inflammation</Synonym>
+<Synonym>Pneumonitis</Synonym>
+<Synonym>Pneumonia</Synonym>
+<Synonym>Pneumonias</Synonym>
+<Synonym>Lung Inflammations</Synonym>
+<Synonym>pneumonia</Synonym>
+<Synonym>Pneumonitides</Synonym>
+<Synonym>Experimental Lung Inflammations</Synonym>
+<Synonym>Experimental Lung Inflammation</Synonym>
+<Synonym>Pulmonary Inflammations</Synonym>
+<Synonym>Lobar Pneumonia</Synonym>
+<Description>An acute, acute and chronic, or chronic inflammation focally or diffusely affecting the lung parenchyma, due to infections (viruses, fungi, mycoplasma, or bacteria), treatment (e.g. radiation), or exposure (inhalation) to chemicals.  Symptoms include cough, shortness of breath, fevers, chills, chest pain, headache, sweating, and weakness.</Description>
+<Description>Inflammation of any part, segment or lobe, of the lung parenchyma.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

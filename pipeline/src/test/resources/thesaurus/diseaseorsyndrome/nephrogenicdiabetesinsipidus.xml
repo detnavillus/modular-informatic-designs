@@ -1,0 +1,19 @@
+<Record>
+<Term>Nephrogenic Diabetes Insipidus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Insipidus</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus/Diabetes Insipidus, Nephrogenic</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus/Diabetes Insipidus, Nephrogenic</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Insipidus</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Insipidus, Nephrogenic</BroaderTerm>
+<Synonym>Congenital Nephrogenic Diabetes Insipidus</Synonym>
+<Synonym>Acquired Nephrogenic Diabetes Insipidus</Synonym>
+<Synonym>Nephrogenic Diabetes Insipidus</Synonym>
+<Description>A genetic or acquired polyuric disorder characterized by persistent hypotonic urine and HYPOKALEMIA. This condition is due to renal tubular insensitivity to VASOPRESSIN and failure to reduce urine volume. It may be the result of mutations of genes encoding VASOPRESSIN RECEPTORS or aquaporin-2 (AQUAPORINS); KIDNEY DISEASES; adverse drug effects; or complications from PREGNANCY.Congenital nephrogenic diabetes insipidus caused by mutations of the aquaporin-2 water channel gene (AOP2) on chromosome 12q13.X-linked congenital nephrogenic diabetes insipidus disorders occurring mostly in males and are caused by one of more than 130 different V2 RECEPTOR mutations.</Description>
+<Source>MeSH</Source>
+</Record>

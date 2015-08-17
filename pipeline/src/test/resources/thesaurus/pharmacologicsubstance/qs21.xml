@@ -1,0 +1,15 @@
+<Record>
+<Term>QS21</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>QS21</ClassificationPath>
+<BroaderTerm>QS21</BroaderTerm>
+<Synonym>NIAID VEU 016</Synonym>
+<Synonym>QS-21</Synonym>
+<Synonym>QS-21 Adjuvant</Synonym>
+<Synonym>QS21</Synonym>
+<Synonym>Stimulon QS-21 Adjuvant</Synonym>
+<Description>A purified, natural saponin isolated from the soapbark tree Quillaja saponaria Molina with potential immunoadjuvant activity. When co-administered with vaccine peptides, QS21 may increase total antitumoral vaccine-specific antibody responses and cytotoxic T-cell responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

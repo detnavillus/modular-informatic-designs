@@ -1,0 +1,25 @@
+<Record>
+<Term>Familial Combined Hyperlipidemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Hyperlipidemias</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hyperlipidemia, Familial Combined</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hyperlipidemia, Familial Combined</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias/Hyperlipidemia, Familial Combined</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hyperlipidemia, Familial Combined</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<Synonym>Multiple Lipoprotein-Type Hyperlipidemias</Synonym>
+<Synonym>Familial Combined Hyperlipidemias</Synonym>
+<Synonym>Multiple Lipoprotein-Type Hyperlipidemia</Synonym>
+<Synonym>Familial Combined Hyperlipidemia</Synonym>
+<Description>A type of familial lipid metabolism disorder characterized by a variable pattern of elevated plasma CHOLESTEROL and/or TRIGLYCERIDES. Multiple genes on different chromosomes may be involved, such as the major late transcription factor (UPSTREAM STIMULATORY FACTORS) on CHROMOSOME 1.</Description>
+<Source>MeSH</Source>
+</Record>

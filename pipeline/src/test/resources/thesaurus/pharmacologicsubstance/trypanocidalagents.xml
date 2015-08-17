@@ -1,0 +1,20 @@
+<Record>
+<Term>Trypanocidal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiprotozoal Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Antiprotozoal Agents/Trypanocidal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Trypanocidal Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agents</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<Synonym>Trypanocidal Agents</Synonym>
+<Synonym>Trypanocidal Drugs</Synonym>
+<Synonym>Trypanosomicides</Synonym>
+<Synonym>Trypanocides</Synonym>
+<Synonym>Trypanosomicidal Agents</Synonym>
+<Description>Agents destructive to the protozoal organisms belonging to the suborder TRYPANOSOMATINA.</Description>
+<Source>MeSH</Source>
+</Record>

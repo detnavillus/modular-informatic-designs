@@ -1,0 +1,43 @@
+<Record>
+<Term>Wolman Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Cholesterol Ester Storage Disease</ParentTerm>
+<ParentTerm>Lysosomal Storage Disease</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Cholesterol Ester Storage Disease/Wolman Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Wolman Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cholesterol Ester Storage Disease/Wolman Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Congenital Metabolic Disorder/Lysosomal Storage Disease/Wolman Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Cholesterol Ester Storage Disease/Wolman Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cholesterol Ester Storage Disease/Wolman Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Cholesterol Ester Storage Disease/Wolman Disease</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Cholesterol Ester Storage Disease</BroaderTerm>
+<BroaderTerm>Wolman Disease</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Disease</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital Metabolic Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<Synonym>Wolman's Disease</Synonym>
+<Synonym>Wolmans Disease</Synonym>
+<Synonym>Familial Xanthomatoses</Synonym>
+<Synonym>Wolman Disease</Synonym>
+<Synonym>Wolman's Xanthomatosis</Synonym>
+<Synonym>Familial Xanthomatosis</Synonym>
+<Description>The severe infantile form of inherited lysosomal lipid storage diseases due to deficiency of acid lipase (STEROL ESTERASE). It is characterized by the accumulation of neutral lipids, particularly CHOLESTEROL ESTERS in leukocytes, fibroblasts, and hepatocytes. It is also known as Wolman's xanthomatosis and is an allelic variant of CHOLESTEROL ESTER STORAGE DISEASE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

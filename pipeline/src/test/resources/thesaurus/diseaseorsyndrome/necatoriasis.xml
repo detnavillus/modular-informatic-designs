@@ -1,0 +1,27 @@
+<Record>
+<Term>Necatoriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Hookworm Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Hookworm Infections/Necatoriasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Necatoriasis</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Necatoriasis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Hookworm Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Necatoriasis</Synonym>
+<Synonym>Necatoriases</Synonym>
+<Description>Infection of humans or animals with hookworms of the genus NECATOR. The resulting anemia from this condition is less severe than that from ANCYLOSTOMIASIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

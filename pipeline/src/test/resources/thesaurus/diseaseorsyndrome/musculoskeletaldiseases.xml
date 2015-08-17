@@ -1,0 +1,23 @@
+<Record>
+<Term>Musculoskeletal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<ChildTerm>Joint Diseases</ChildTerm>
+<ChildTerm>Rheumatic Diseases</ChildTerm>
+<ChildTerm>Muscular Diseases</ChildTerm>
+<ChildTerm>Musculoskeletal Abnormalities</ChildTerm>
+<ChildTerm>Bone Diseases</ChildTerm>
+<ChildTerm>Jaw Diseases</ChildTerm>
+<ChildTerm>Cartilage Diseases</ChildTerm>
+<ChildTerm>Foot Deformities</ChildTerm>
+<ChildTerm>Fasciitis</ChildTerm>
+<ChildTerm>Tennis Elbow</ChildTerm>
+<ChildTerm>Foot Diseases</ChildTerm>
+<ChildTerm>Hand Deformities</ChildTerm>
+<Synonym>Musculoskeletal Diseases</Synonym>
+<Synonym>Musculoskeletal Disease</Synonym>
+<Description>Diseases of the muscles and their associated ligaments and other connective tissue and of the bones and cartilage viewed collectively.</Description>
+<Source>MeSH</Source>
+</Record>

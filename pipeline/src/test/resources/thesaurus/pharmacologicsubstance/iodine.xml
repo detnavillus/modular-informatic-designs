@@ -1,0 +1,35 @@
+<Record>
+<Term>Iodine</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Trace Element</ParentTerm>
+<ParentTerm>Dietary Mineral</ParentTerm>
+<ParentTerm>Halogens</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Elements/Halogens/Iodine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Mineral/Dietary Mineral/Dietary Iodine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Trace Element/Iodine</ClassificationPath>
+<BroaderTerm>Iodine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Elements</BroaderTerm>
+<BroaderTerm>Dietary Iodine</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Trace Element</BroaderTerm>
+<BroaderTerm>Mineral</BroaderTerm>
+<BroaderTerm>Halogens</BroaderTerm>
+<BroaderTerm>Dietary Mineral</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Iodide</ChildTerm>
+<Synonym>Iodine</Synonym>
+<Synonym>IODINE</Synonym>
+<Synonym>Dietary Iodine</Synonym>
+<Synonym>Molecular Iodine</Synonym>
+<Synonym>iodine</Synonym>
+<Description>A nonmetallic element of the halogen group that is represented by the atomic symbol I, atomic number 53, and atomic weight of 126.90. It is a nutritionally essential element, especially important in thyroid hormone synthesis. In solution, it has anti-infective properties and is used topically.</Description>
+<Description>An element with atomic symbol I, atomic number 53, and atomic weight of 126.90.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

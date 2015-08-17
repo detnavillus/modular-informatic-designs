@@ -1,0 +1,23 @@
+<Record>
+<Term>Vesicular Stomatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatitis</ParentTerm>
+<ParentTerm>Rhabdoviridae Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Vesicular Stomatitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Rhabdoviridae Infections/Vesicular Stomatitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Stomatitis/Vesicular Stomatitis</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Stomatitis</BroaderTerm>
+<BroaderTerm>Rhabdoviridae Infections</BroaderTerm>
+<BroaderTerm>Vesicular Stomatitis</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Vesicular Stomatitides</Synonym>
+<Synonym>Vesicular Stomatitis</Synonym>
+<Description>A viral disease caused by at least two distinct species (serotypes) in the VESICULOVIRUS genus: VESICULAR STOMATITIS INDIANA VIRUS and VESICULAR STOMATITIS NEW JERSEY VIRUS. It is characterized by vesicular eruptions on the ORAL MUCOSA in cattle, horses, pigs, and other animals. In humans, vesicular stomatitis causes an acute influenza-like illness.</Description>
+<Source>MeSH</Source>
+</Record>

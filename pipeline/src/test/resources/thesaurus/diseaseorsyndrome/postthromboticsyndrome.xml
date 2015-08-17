@@ -1,0 +1,19 @@
+<Record>
+<Term>Postthrombotic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Venous Thrombosis</ParentTerm>
+<ParentTerm>Venous Insufficiency</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Venous Insufficiency/Postthrombotic Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Venous Thrombosis/Postthrombotic Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Postthrombotic Syndrome</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Venous Thrombosis</BroaderTerm>
+<BroaderTerm>Venous Insufficiency</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Postthrombotic Syndrome</Synonym>
+<Synonym>Venous Stasis Syndrome</Synonym>
+<Description>A condition caused by one or more episodes of DEEP VEIN THROMBOSIS, usually the blood clots are lodged in the legs.  Clinical features include EDEMA; PAIN; aching; heaviness; and MUSCLE CRAMP in the leg. When severe leg swelling leads to skin breakdown, it is called venous STASIS ULCER.</Description>
+<Source>MeSH</Source>
+</Record>

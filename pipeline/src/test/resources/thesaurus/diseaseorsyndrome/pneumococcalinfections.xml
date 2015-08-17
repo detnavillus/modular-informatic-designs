@@ -1,0 +1,19 @@
+<Record>
+<Term>Pneumococcal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Streptococcal Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Pneumococcal Infections</ClassificationPath>
+<BroaderTerm>Pneumococcal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pneumonia, Pneumococcal</ChildTerm>
+<ChildTerm>Meningitis, Pneumococcal</ChildTerm>
+<Synonym>Pneumococcal Infections</Synonym>
+<Synonym>Streptococcus pneumoniae Infections</Synonym>
+<Synonym>Streptococcus pneumoniae Infection</Synonym>
+<Synonym>Pneumococcal Infection</Synonym>
+<Description>Infections with bacteria of the species STREPTOCOCCUS PNEUMONIAE.</Description>
+<Source>MeSH</Source>
+</Record>

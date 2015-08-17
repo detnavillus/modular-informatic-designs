@@ -1,0 +1,14 @@
+<Record>
+<Term>Enzyme Reactivators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Reactivators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Enzyme Reactivators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Cholinesterase Reactivators</ChildTerm>
+<Synonym>Enzyme Reactivators</Synonym>
+<Description>Compounds which restore enzymatic activity by removing an inhibitory group bound to the reactive site of the enzyme.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Diaphragmatic Hernia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Hernia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Congenital or Acquired Anatomic Abnormality/Hernia/Diaphragmatic Hernia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Hernia/Hernia, Diaphragmatic</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hernia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Diaphragmatic Hernia</BroaderTerm>
+<BroaderTerm>Hernia, Diaphragmatic</BroaderTerm>
+<BroaderTerm>Congenital or Acquired Anatomic Abnormality</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Traumatic Diaphragmatic Hernia</ChildTerm>
+<ChildTerm>Hernia, Diaphragmatic, Traumatic</ChildTerm>
+<ChildTerm>Hernia, Hiatal</ChildTerm>
+<Synonym>Diaphragmatic Hernias</Synonym>
+<Synonym>Diaphragmatic Hernia</Synonym>
+<Description>Protrusion of abdominal structures into the THORAX as a result of congenital or traumatic defects in the respiratory DIAPHRAGM.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Histamine Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histamine Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Histamine Agents/Histamine Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Histamine Agents/Histamine Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Histamine Agents</BroaderTerm>
+<BroaderTerm>Histamine Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Histamine H2 Antagonists</ChildTerm>
+<ChildTerm>Histamine H1 Antagonists</ChildTerm>
+<ChildTerm>Histamine H3 Antagonists</ChildTerm>
+<Synonym>Antihistamines</Synonym>
+<Synonym>Histamine Antagonists</Synonym>
+<Description>Drugs that bind to but do not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists. Classical antihistaminics block the histamine H1 receptors only.</Description>
+<Source>MeSH</Source>
+</Record>

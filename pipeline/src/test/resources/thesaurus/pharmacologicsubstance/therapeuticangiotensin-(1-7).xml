@@ -1,0 +1,16 @@
+<Record>
+<Term>Therapeutic Angiotensin-(1-7)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Angiotensin-(1-7)</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Angiotensin-(1-7)</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ang 1-7</Synonym>
+<Synonym>Angiotensin 1-7</Synonym>
+<Synonym>Therapeutic Angiotensin-(1-7)</Synonym>
+<Description>A synthetic heptapeptide identical to endogenous angiotensin-(1-7) with vasodilator and antiproliferative activities. Therapeutic angiotensin 1-7 may inhibit cyclooxygenase 2 (COX-2) and the production of proinflammatory prostaglandins and may activate the angiotensin-(1-7) receptor Mas, resulting in diminished tumor cell proliferation. Activation of the angiotensin-(1-7) receptor Mas, a G-protein coupled, seven transmembrane protein, may down-regulate the phosphorylation and activation of Erk1 and Erk2 in the Erk1/Erk2 MAPK signaling pathway. In the renin-angiotensin system, the vasodilating activity of angiotensin- (1-7), hydrolysed from angiotensin II by the type I transmembrane metallopeptidase and carboxypeptidase angiotensin converting enzyme 2 (ACE2) in vivo, counteracts the vasoconstricting activity of angiotensin II.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

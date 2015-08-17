@@ -1,0 +1,17 @@
+<Record>
+<Term>CAP-3 (CEA Peptide 9-mer)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Carcinoembryonic Antigen Peptide</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/Carcinoembryonic Antigen Peptide/CAP-3 (CEA Peptide 9-mer)</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>CAP-3 (CEA Peptide 9-mer)</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Carcinoembryonic Antigen Peptide</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>CAP-3 (CEA Peptide 9-mer)</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

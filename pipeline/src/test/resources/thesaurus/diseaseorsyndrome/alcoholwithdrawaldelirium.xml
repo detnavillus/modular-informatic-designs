@@ -1,0 +1,32 @@
+<Record>
+<Term>Alcohol Withdrawal Delirium</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Substance Withdrawal Syndrome</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders, Nervous System</ParentTerm>
+<ParentTerm>Alcohol-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Substance Withdrawal Syndrome/Alcohol Withdrawal Delirium</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Delirium</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Substance Withdrawal Syndrome/Alcohol Withdrawal Delirium</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Delirium</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol Withdrawal Delirium</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Delirium</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Alcohol Withdrawal Delirium</BroaderTerm>
+<BroaderTerm>Substance Withdrawal Syndrome</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<Synonym>Alcohol Withdrawal-Induced Delirium Tremens</Synonym>
+<Synonym>Alcohol Withdrawal Induced Delirium Tremens</Synonym>
+<Synonym>Delirium Tremens</Synonym>
+<Synonym>Alcohol Withdrawal Delirium</Synonym>
+<Synonym>Alcohol Withdrawal Associated Autonomic Hyperactivity</Synonym>
+<Synonym>Alcohol Withdrawal Hallucinosis</Synonym>
+<Description>An acute organic mental disorder induced by cessation or reduction in chronic alcohol consumption. Clinical characteristics include CONFUSION; DELUSIONS; vivid HALLUCINATIONS; TREMOR; agitation; insomnia; and signs of autonomic hyperactivity (e.g., elevated blood pressure and heart rate, dilated pupils, and diaphoresis). This condition may occasionally be fatal. It was formerly called delirium tremens. (From Adams et al., Principles of Neurology, 6th ed, p1175)</Description>
+<Source>MeSH</Source>
+</Record>

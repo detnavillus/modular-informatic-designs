@@ -1,0 +1,19 @@
+<Record>
+<Term>Edotecarin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topoisomerase-I Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-I Inhibitor/Edotecarin</ClassificationPath>
+<BroaderTerm>Edotecarin</BroaderTerm>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-I Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>6-N-(1-hydroxymethyla-2-hydroxy)ethylamino-12,13-dihydro-13-(beta-D-gluco pyranosyl)-5H-indolo[2,3-a]-pyrrolol[3,4-c]-carbazole-5,7(6H)-dione</Synonym>
+<Synonym>EDOTECARIN</Synonym>
+<Synonym>Edotecarin</Synonym>
+<Synonym>J-107088</Synonym>
+<Description>A synthetic indolocarbazole with antineoplastic activity. Edotecarin inhibits the enzyme topoisomerase I through stabilization of the DNA-enzyme complex and enhanced single-strand DNA cleavage, resulting in inhibition of DNA replication and decreased tumor cell proliferation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

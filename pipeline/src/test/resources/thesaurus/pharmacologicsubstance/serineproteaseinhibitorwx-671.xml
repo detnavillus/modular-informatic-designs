@@ -1,0 +1,15 @@
+<Record>
+<Term>Serine Protease Inhibitor WX-671</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Serine Protease Inhibitor WX-671</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Serine Protease Inhibitor WX-671</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Serine Protease Inhibitor WX-671</Synonym>
+<Synonym>WX-671</Synonym>
+<Description>An orally active, 3-amidinophenylalanine-derived, second generation serine protease inhibitor prodrug targeting the human urokinase plasminogen activator (uPA) system with potential antineoplastic and antimetastatic activities. After oral administration, serine protease inhibitor WX-671 is converted to the active N-(2,4,6-triisopropylphenylsulfonyl)-3-amidino-(L)-phenylalanine-4-ethoxycarbonylpiperazide (WX-UK1), which inhibits several serine proteases, particularly uPA; inhibition of uPA may result in the inhibition of tumor growth and metastasis. uPA is a serine protease involved in degradation of the extracellular matrix and tumor cell migration and proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

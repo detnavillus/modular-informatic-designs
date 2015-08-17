@@ -1,0 +1,14 @@
+<Record>
+<Term>Cyclosporiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coccidiosis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Cyclosporiasis</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Cyclosporiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Cyclosporiasis</Synonym>
+<Synonym>Cyclosporiases</Synonym>
+<Description>Infection with parasitic protozoa of the genus CYCLOSPORA. It is distributed globally and causes a diarrheal illness. Transmission is waterborne.</Description>
+<Source>MeSH</Source>
+</Record>

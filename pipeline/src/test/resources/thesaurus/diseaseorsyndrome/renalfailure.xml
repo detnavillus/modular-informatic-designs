@@ -1,0 +1,35 @@
+<Record>
+<Term>Renal Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Renal Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Kidney and Genitourinary System</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Renal Failure</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Kidney and Genitourinary System/Renal Failure Adverse Event</ClassificationPath>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Renal Failure Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Kidney and Genitourinary System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<BroaderTerm>Renal Failure</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Renal Failure</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Renal Failure</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Renal Failure</ChildTerm>
+<ChildTerm>Chronic Renal Failure</ChildTerm>
+<ChildTerm>Acute Renal Failure</ChildTerm>
+<Synonym>Failure, renal</Synonym>
+<Synonym>Impaired Renal Function</Synonym>
+<Synonym>Renal Failure Adverse Event</Synonym>
+<Synonym>Renal failure</Synonym>
+<Synonym>Renal Failure</Synonym>
+<Description>Acute or chronic condition, characterized by the inability of the kidneys to adequately filter the blood substances, resulting in uremia and electrolyte imbalances.  Acute renal failure is usually associated with oliguria or anuria, hyperkalemia, and pulmonary edema.  Chronic renal failure is irreversible and requires hemodialysis.--2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

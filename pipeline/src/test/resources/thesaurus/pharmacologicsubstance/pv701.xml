@@ -1,0 +1,16 @@
+<Record>
+<Term>PV701</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/PV701</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>PV701</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PV701</Synonym>
+<Description>An attenuated, replication-competent, oncolytic strain of Newcastle disease virus. PV701 selectively lyses tumor cells. The selectivity of this agent is related to defects in the interferon-mediated antiviral response found in tumor cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

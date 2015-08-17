@@ -1,0 +1,24 @@
+<Record>
+<Term>Purpura</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Manifestations</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Skin Manifestations/Purpura</ClassificationPath>
+<BroaderTerm>Skin Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Purpura</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Purpura, Thrombocytopenic</ChildTerm>
+<ChildTerm>Purpura, Hyperglobulinemic</ChildTerm>
+<ChildTerm>Purpura, Schoenlein-Henoch</ChildTerm>
+<ChildTerm>Purpura Fulminans</ChildTerm>
+<Synonym>Petechiae</Synonym>
+<Synonym>Purpura</Synonym>
+<Synonym>Purpuras</Synonym>
+<Description>Purplish or brownish red discoloration, easily visible through the epidermis, caused by hemorrhage into the tissues.</Description>
+<Source>MeSH</Source>
+</Record>

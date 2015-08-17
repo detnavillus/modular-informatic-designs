@@ -1,0 +1,44 @@
+<Record>
+<Term>Acquired Immunodeficiency Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>T-Cell Immunodeficiency</ParentTerm>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/T-Cell Immunodeficiency/Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/Acquired Immunodeficiency Syndrome</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>T-Cell Immunodeficiency</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Acquired Immunodeficiency Syndrome</BroaderTerm>
+<Synonym>AIDS</Synonym>
+<Synonym>Acquired Immuno-Deficiency Syndromes</Synonym>
+<Synonym>acquired immunodeficiency syndrome</Synonym>
+<Synonym>AIDS, Acquired Immunodeficiency Syndrome</Synonym>
+<Synonym>Acquired Immunodeficiency Syndromes</Synonym>
+<Synonym>Acquired immunodeficiency syndrome, AIDS</Synonym>
+<Synonym>Acquired Immuno Deficiency Syndrome</Synonym>
+<Synonym>Acquired Immune Deficiency</Synonym>
+<Synonym>Acquired Immune Deficiency Syndrome</Synonym>
+<Synonym>Acquired Immunodeficiency Syndrome</Synonym>
+<Synonym>Acquired Immuno-Deficiency Syndrome</Synonym>
+<Description>A syndrome resulting from the acquired deficiency of cellular immunity caused by the human immunodeficiency virus (HIV).  It is characterized by the reduction of the Helper T-lymphocytes in the peripheral blood and the lymph nodes.  Symptoms include generalized lymphadenopathy, fever, weight loss, and chronic diarrhea.  Patients with AIDS are especially susceptible to opportunistic infections (usually pneumocystis carinii pneumonia, cytomegalovirus (CMV) infections, tuberculosis, candida infections, and cryptococcosis), and the development of malignant neoplasms (usually non-Hodgkin's lymphoma and Kaposi's sarcoma).  The human immunodeficiency virus is transmitted through sexual contact, sharing of contaminated needles, or transfusion of contaminated blood. -- 2004</Description>
+<Description>An acquired defect of cellular immunity associated with infection by the human immunodeficiency virus (HIV), a CD4-positive T-lymphocyte count under 200 cells/microliter or less than 14% of total lymphocytes, and increased susceptibility to opportunistic infections and malignant neoplasms. Clinical manifestations also include emaciation (wasting) and dementia. These elements reflect criteria for AIDS as defined by the CDC in 1993.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

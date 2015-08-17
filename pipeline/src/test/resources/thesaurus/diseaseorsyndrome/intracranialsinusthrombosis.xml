@@ -1,0 +1,38 @@
+<Record>
+<Term>Intracranial Sinus Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Thrombosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Thrombosis/Sinus Thrombosis, Intracranial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Thrombosis/Sinus Thrombosis, Intracranial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Thrombosis/Sinus Thrombosis, Intracranial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Thrombosis/Sinus Thrombosis, Intracranial</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thromboembolism</BroaderTerm>
+<BroaderTerm>Sinus Thrombosis, Intracranial</BroaderTerm>
+<BroaderTerm>Intracranial Thrombosis</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism and Thrombosis</BroaderTerm>
+<ChildTerm>Lateral Sinus Thrombosis</ChildTerm>
+<ChildTerm>Sagittal Sinus Thrombosis</ChildTerm>
+<ChildTerm>Cavernous Sinus Thrombosis</ChildTerm>
+<Synonym>Petrous Sinus Thrombosis</Synonym>
+<Synonym>Sinus Thromboses</Synonym>
+<Synonym>Petrous Sinus Thrombophlebitis</Synonym>
+<Synonym>Intracranial Sinus Thrombosis</Synonym>
+<Synonym>Cranial Sinus Thromboses</Synonym>
+<Synonym>Petrous Sinus Thrombophlebitides</Synonym>
+<Synonym>Sinus Thrombosis</Synonym>
+<Synonym>Intracranial Sinus Thromboses</Synonym>
+<Synonym>Intracranial Sinus Thrombophlebitides</Synonym>
+<Synonym>Intracranial Sinus Thrombophlebitis</Synonym>
+<Synonym>Cranial Sinus Thrombosis</Synonym>
+<Synonym>Petrous Sinus Thromboses</Synonym>
+<Description>Formation or presence of a blood clot (THROMBUS) in the CRANIAL SINUSES, large endothelium-lined venous channels situated within the SKULL. Intracranial sinuses, also called cranial venous sinuses, include the superior sagittal, cavernous, lateral, petrous sinuses, and many others. Cranial sinus thrombosis can lead to severe HEADACHE; SEIZURE; and other neurological defects.</Description>
+<Source>MeSH</Source>
+</Record>

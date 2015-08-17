@@ -1,0 +1,25 @@
+<Record>
+<Term>Pigmentation Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Argyria</ChildTerm>
+<ChildTerm>Hypopigmentation</ChildTerm>
+<ChildTerm>Hyperpigmentation</ChildTerm>
+<ChildTerm>Urticaria Pigmentosa</ChildTerm>
+<ChildTerm>Xeroderma Pigmentosum</ChildTerm>
+<ChildTerm>Cafe-au-Lait Spots</ChildTerm>
+<ChildTerm>Yellow Nail Syndrome</ChildTerm>
+<ChildTerm>Incontinentia Pigmenti</ChildTerm>
+<Synonym>Pigmentation Disorders</Synonym>
+<Synonym>Pigmentation Disorder</Synonym>
+<Synonym>Schamberg Disease</Synonym>
+<Synonym>Schamberg's Disease</Synonym>
+<Synonym>Schambergs Disease</Synonym>
+<Synonym>Ito Syndrome</Synonym>
+<Synonym>Incontinentia Pigmenti Achromians</Synonym>
+<Source>MeSH</Source>
+</Record>

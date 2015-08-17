@@ -1,0 +1,17 @@
+<Record>
+<Term>Visilizumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Visilizumab</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Visilizumab</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Nuvion</Synonym>
+<Synonym>Visilizumab</Synonym>
+<Synonym>visilizumab</Synonym>
+<Description>A humanized anti-CD3 monoclonal antibody (MoAb) with potential application in treatment of graft-versus-host disease (GVHD). Visilizumab reacts with the invariant CD3 epsilon, one of the non-covalently associated subunits of T-cell receptors (TCR) on activated T-cells. This MoAb is engineered with substitution at amino acid residues 234 and 237 (Val3Ala) within the IgG2 Fc arm, rendering it unable to bind to type II FcRs. This inability to bind to FcRs contributes to lessened toxicity associated with this MoAb as a result of not activating resting T-cells. Binding to TCR/CD3 complex allows visilizumab to induce apoptosis of the bound cells, thereby potentially producing selective clonal deletion of activated pathogenic T-cells in conditions such as GVHD.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

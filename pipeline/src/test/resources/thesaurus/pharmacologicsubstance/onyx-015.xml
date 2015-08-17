@@ -1,0 +1,24 @@
+<Record>
+<Term>ONYX-015</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/ONYX-015,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/ONYX-015</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>ONYX-015</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>ONYX-015,</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>CI-1042</Synonym>
+<Synonym>E1B 55kDa mutant adenovirus dl1520</Synonym>
+<Synonym>E1B-Attenuated Adenovirus</Synonym>
+<Synonym>ONYX-015</Synonym>
+<Description>An E1B-55kDa-deleted adenovirus that is able to selectively replicate in and lyse TP53-deficient human tumor cells. After tumor cell lysis, released viruses infect neighboring tumor cells, tripping a chain of ONYX-015-mediated tumor cell cytotoxicity. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

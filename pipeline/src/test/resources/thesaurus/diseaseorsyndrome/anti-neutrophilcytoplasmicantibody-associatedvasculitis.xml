@@ -1,0 +1,30 @@
+<Record>
+<Term>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Systemic Vasculitis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis/Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Churg-Strauss Syndrome</ChildTerm>
+<ChildTerm>Wegener Granulomatosis</ChildTerm>
+<ChildTerm>Microscopic Polyangiitis</ChildTerm>
+<Synonym>ANCA-Associated Vasculitides</Synonym>
+<Synonym>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</Synonym>
+<Synonym>Pauci Immune Vasculitis</Synonym>
+<Synonym>Pauci-Immune Vasculitis</Synonym>
+<Synonym>ANCA Associated Vasculitides</Synonym>
+<Synonym>Pauci-Immune Vasculitides</Synonym>
+<Synonym>ANCA-Associated Vasculitide</Synonym>
+<Synonym>ANCA Associated Vasculitis</Synonym>
+<Synonym>Anti Neutrophil Cytoplasmic Antibody Associated Vasculitis</Synonym>
+<Synonym>ANCA-Associated Vasculitis</Synonym>
+<Description>Group of systemic vasculitis with a strong association with ANCA. The disorders are characterized by necrotizing inflammation of small and medium size vessels, with little or no immune-complex deposits in vessel walls.</Description>
+<Source>MeSH</Source>
+</Record>

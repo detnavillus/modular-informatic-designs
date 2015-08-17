@@ -1,0 +1,17 @@
+<Record>
+<Term>Raynaud Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Raynaud Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Raynaud Disease</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>CREST Syndrome</ChildTerm>
+<Synonym>Raynaud Disease</Synonym>
+<Synonym>Raynaud's Disease</Synonym>
+<Synonym>Raynauds Disease</Synonym>
+<Synonym>Raynaud Phenomenon</Synonym>
+<Description>An idiopathic vascular disorder characterized by bilateral Raynaud phenomenon, the abrupt onset of digital paleness or CYANOSIS in response to cold exposure or stress.</Description>
+<Source>MeSH</Source>
+</Record>

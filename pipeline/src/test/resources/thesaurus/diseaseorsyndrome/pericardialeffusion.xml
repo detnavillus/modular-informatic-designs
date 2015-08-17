@@ -1,0 +1,30 @@
+<Record>
+<Term>Pericardial Effusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ParentTerm>Effusion</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Effusion/Pericardial Effusion</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Pericardial Effusion</ClassificationPath>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Effusion</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Pericardial Effusion</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Malignant Pericardial Effusion</ChildTerm>
+<Synonym>pericardial effusion</Synonym>
+<Synonym>Pericardial Effusions</Synonym>
+<Synonym>Chylopericardium</Synonym>
+<Synonym>Hemopericardium</Synonym>
+<Synonym>Chylopericardiums</Synonym>
+<Synonym>Pericardial Effusion</Synonym>
+<Description>Fluid collection within the pericardial sac, usually due to inflammation. -- 2003</Description>
+<Description>Fluid accumulation within the PERICARDIUM. Serous effusions are associated with pericardial diseases. Hemopericardium is associated with trauma. Lipid-containing effusion (chylopericardium) results from leakage of THORACIC DUCT. Severe cases can lead to CARDIAC TAMPONADE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Bimatoprost</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Prostaglandin Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Bimatoprost,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Physiology-Regulatory Factor/Eicosanoid/Prostaglandin Compound/Bimatoprost</ClassificationPath>
+<BroaderTerm>Eicosanoid</BroaderTerm>
+<BroaderTerm>Physiology-Regulatory Factor</BroaderTerm>
+<BroaderTerm>Bimatoprost,</BroaderTerm>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Prostaglandin Compound</BroaderTerm>
+<BroaderTerm>Bimatoprost</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Lumigan</Synonym>
+<Synonym>AGN 192024</Synonym>
+<Synonym>5-Heptenamide, 7-((1R,2R,3R,5S)-3,5-dihydroxy-2-((1E,3S)-3-hydroxy-5-phenyl-1-pentenyl)cyclopentyl)-N-ethyl-,(5Z)-</Synonym>
+<Synonym>BIMATOPROST</Synonym>
+<Synonym>Latisse</Synonym>
+<Synonym>Bimatoprost</Synonym>
+<Description>A synthetic prostamide and structural prostaglandin analogue with ocular hypotensive activity. Bimatoprost mimics the effects of the endogenous prostamides and reduces intraocular pressure by increasing outflow of aqueous humor through both the pressure-sensitive outflow pathway (the trabecular meshwork), and the pressure-insensitive outflow pathway (the uveoscleral routes).  It is not clear whether bimatoprost lowers intraocular pressure by stimulating F-Prostanoid receptors or by acting on specific prostamide receptors.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

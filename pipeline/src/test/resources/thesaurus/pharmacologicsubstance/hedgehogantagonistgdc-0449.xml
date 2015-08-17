@@ -1,0 +1,16 @@
+<Record>
+<Term>Hedgehog Antagonist GDC-0449</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Signal Transduction Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Signal Transduction Inhibitor/Hedgehog Antagonist GDC-0449</ClassificationPath>
+<BroaderTerm>Signal Transduction Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hedgehog Antagonist GDC-0449</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>GDC-0449</Synonym>
+<Synonym>Hedgehog Antagonist GDC-0449</Synonym>
+<Description>An orally bioavailable small molecule with potential antineoplastic activity. Hedgehog antagonist GDC-0449 targets the Hedgehog signaling pathway, blocking the activities of the Hedgehog-ligand cell surface receptors Patched (PTCH) and/or Smoothened (Smo), and suppressing Hedgehog signaling. The Hedgehog signaling pathway plays an important role in tissue growth and repair; aberrant constitutive activation of Hedgehog pathway signaling and uncontrolled cellular proliferation may be associated with mutations in the Hedgehog-ligand cell surface receptors PTCH and Smo.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

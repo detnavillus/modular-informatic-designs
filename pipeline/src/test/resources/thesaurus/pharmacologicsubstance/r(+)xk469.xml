@@ -1,0 +1,19 @@
+<Record>
+<Term>R(+)XK469</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topoisomerase-II Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/R(+)XK469</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>R(+)XK469</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-{4-[(7-chloro-2-quinoxalinyl)oxy]phenoxy}propionic acid</Synonym>
+<Synonym>Propanoic acid, 2-[4-[(7-chloro-2-quinoxalinyl)oxy]phenoxy}-, (+ )-(R)-</Synonym>
+<Synonym>R(+)XK469</Synonym>
+<Synonym>XK469</Synonym>
+<Description>The R-isomer of a synthetic quinoxaline phenoxypropionic acid derivative with proapoptotic and antiproliferative activities. R(+)XK469 selectively inhibits topoisomerase II-beta, blocks activation of MEK/MAPK signaling kinases, stimulates caspases, and upregulates p53-dependent proteins, including cyclins A and B1, thereby arresting cancer cells in the G2/M phase of the cell cycle. Both R(+) and S(-) isomers of this agent are cytotoxic, although the R-isomer is more potent. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

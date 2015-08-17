@@ -1,0 +1,34 @@
+<Record>
+<Term>Esotropia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Strabismus</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Motility Disorders/Strabismus/Esotropia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Ocular Motility Disorders/Strabismus/Esotropia</ClassificationPath>
+<BroaderTerm>Esotropia</BroaderTerm>
+<BroaderTerm>Ocular Motility Disorders</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Strabismus</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Esophorias</Synonym>
+<Synonym>Esophoria</Synonym>
+<Synonym>Primary Esotropia</Synonym>
+<Synonym>Monocular Esotropia</Synonym>
+<Synonym>Intermittent Esotropia</Synonym>
+<Synonym>Cross-Eye</Synonym>
+<Synonym>Convergent Strabismus</Synonym>
+<Synonym>Primary Esotropias</Synonym>
+<Synonym>Esotropia</Synonym>
+<Synonym>Internal Strabismus</Synonym>
+<Synonym>Cross Eye</Synonym>
+<Synonym>Esotropias</Synonym>
+<Synonym>Cross-Eyes</Synonym>
+<Synonym>Secondary Esotropia</Synonym>
+<Synonym>Esodeviation</Synonym>
+<Synonym>Intermittent Esotropias</Synonym>
+<Synonym>Secondary Esotropias</Synonym>
+<Synonym>Esodeviations</Synonym>
+<Synonym>Monocular Esotropias</Synonym>
+<Description>A form of ocular misalignment characterized by an excessive convergence of the visual axes, resulting in a "cross-eye" appearance. An example of this condition occurs when paralysis of the lateral rectus muscle causes an abnormal inward deviation of one eye on attempted gaze.</Description>
+<Source>MeSH</Source>
+</Record>

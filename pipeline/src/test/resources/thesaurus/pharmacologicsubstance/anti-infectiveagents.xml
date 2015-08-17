@@ -1,0 +1,78 @@
+<Record>
+<Term>Anti-Infective Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ParentTerm>Pharmacologic Substance</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Antiparasitic Agent</ChildTerm>
+<ChildTerm>Salazodine</ChildTerm>
+<ChildTerm>Anti-Infective Agents, Local</ChildTerm>
+<ChildTerm>Acetic Acid</ChildTerm>
+<ChildTerm>Antiviral Agent</ChildTerm>
+<ChildTerm>Dapabutan</ChildTerm>
+<ChildTerm>Clioquinol</ChildTerm>
+<ChildTerm>4-Arsanilic Acid</ChildTerm>
+<ChildTerm>Olsalazine Sodium</ChildTerm>
+<ChildTerm>Combination Anti-Infective Agent</ChildTerm>
+<ChildTerm>Fludazonium Chloride</ChildTerm>
+<ChildTerm>Antifungal Agents</ChildTerm>
+<ChildTerm>Ritiometan</ChildTerm>
+<ChildTerm>Broquinaldol</ChildTerm>
+<ChildTerm>Loflucarban</ChildTerm>
+<ChildTerm>Salicylic Acid</ChildTerm>
+<ChildTerm>Furazolidone</ChildTerm>
+<ChildTerm>Urinary Anti-Infective Agent</ChildTerm>
+<ChildTerm>Antiviral Agents</ChildTerm>
+<ChildTerm>Disinfectants</ChildTerm>
+<ChildTerm>Fenticlor</ChildTerm>
+<ChildTerm>Antifungal Agent</ChildTerm>
+<ChildTerm>Antibiotic</ChildTerm>
+<ChildTerm>Azaspirium Chloride</ChildTerm>
+<ChildTerm>Balsalazide Disodium</ChildTerm>
+<ChildTerm>Human Lactoferrin Peptide hLF1-11</ChildTerm>
+<ChildTerm>Aditoprim</ChildTerm>
+<ChildTerm>S-Adenosylmethionine</ChildTerm>
+<ChildTerm>Antitubercular Agent</ChildTerm>
+<ChildTerm>Enoxacin</ChildTerm>
+<ChildTerm>Liroldine</ChildTerm>
+<ChildTerm>Antibacterial Agent</ChildTerm>
+<ChildTerm>Furalazine</ChildTerm>
+<ChildTerm>Sulfonamide Anti-infective Agent</ChildTerm>
+<ChildTerm>Anti-Infective Agents, Urinary</ChildTerm>
+<ChildTerm>Antiparasitic Agents</ChildTerm>
+<ChildTerm>Gramicidin</ChildTerm>
+<ChildTerm>Tryparsamide</ChildTerm>
+<ChildTerm>Griseofulvin</ChildTerm>
+<ChildTerm>Haloprogin</ChildTerm>
+<ChildTerm>Sobatum</ChildTerm>
+<ChildTerm>Sulfone Anti-Infective Agent</ChildTerm>
+<ChildTerm>Anti-Bacterial Agents</ChildTerm>
+<ChildTerm>Topical Anti-Infective Agent</ChildTerm>
+<Synonym>Anti Microbial Agents</Synonym>
+<Synonym>Anti Infective Agents</Synonym>
+<Synonym>Anti-Infective Agents</Synonym>
+<Synonym>AntiInfective Agents</Synonym>
+<Synonym>Antimicrobial Agents</Synonym>
+<Synonym>Anti-Infective Drugs</Synonym>
+<Synonym>Antiinfective Agents</Synonym>
+<Synonym>Microbicides</Synonym>
+<Synonym>Anti-Infectives</Synonym>
+<Synonym>AntiInfective Drugs</Synonym>
+<Synonym>AntiInfectives</Synonym>
+<Synonym>Anti-Microbial Agents</Synonym>
+<Synonym>Anti-Infective Agent</Synonym>
+<Description>Substances that prevent infectious agents or organisms from spreading or kill infectious agents in order to prevent the spread of infection. (MeSH)</Description>
+<Description>Substances that prevent infectious agents or organisms from spreading or kill infectious agents in order to prevent the spread of infection.Generically, any agent that destroys microbes. However, usage of the term is increasingly being confined to agents that prevent or reduce the transmission of SEXUALLY TRANSMITTED DISEASES.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

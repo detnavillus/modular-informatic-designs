@@ -1,0 +1,21 @@
+<Record>
+<Term>Myocardial Stunning</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myocardial Infarction</ParentTerm>
+<ParentTerm>Myocardial Ischemia</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Myocardial Infarction/Myocardial Stunning</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Myocardial Infarction/Myocardial Stunning</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Myocardial Stunning</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Myocardial Stunning</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Stunning</BroaderTerm>
+<Synonym>Myocardial Hibernation</Synonym>
+<Synonym>Stunned Myocardium</Synonym>
+<Synonym>Myocardial Stunning</Synonym>
+<Description>Prolonged dysfunction of the myocardium after a brief episode of severe ischemia, with gradual return of contractile activity. It occurs frequently, both in the experimental laboratory and in clinical medicine. Since stunned myocardium occurs adjacent to necrotic tissue after prolonged coronary occlusion, many myocardial infarcts may be a mixture of necrotic and stunned tissue. (Braunwald, Heart Disease, 1992, p1176)</Description>
+<Source>MeSH</Source>
+</Record>

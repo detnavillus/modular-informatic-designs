@@ -1,0 +1,17 @@
+<Record>
+<Term>Sodium Acetate,</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Drug Vehicle</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/Sodium Acetate, Anhydrous</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Sodium Acetate, Anhydrous</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SODIUM ACETATE, ANHYDROUS</Synonym>
+<Synonym>Sodium Acetate, Anhydrous</Synonym>
+<Description>The anhydrous, sodium salt form of acetic acid. Sodium acetate anhydrous disassociates in water to form sodium ions (Na+) and acetate ions. Sodium is the principal cation of the extracellular fluid and plays a large part in fluid and electrolyte replacement therapies. Sodium acetate anhydrous is used as an electrolyte replenisher in isosmotic solution for parenteral replacement of acute losses of extracellular fluid without disturbing normal electrolyte balance.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Etonogestrel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Progestin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Progestin/Etonogestrel</ClassificationPath>
+<BroaderTerm>Etonogestrel</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Progestin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Etonogestrel</Synonym>
+<Synonym>(17-alpha)-13-Ethyl-17-hydroxy-11-methylene-18,19-dinorpregn-4-en-20-yn-3-one</Synonym>
+<Synonym>ETONOGESTREL</Synonym>
+<Synonym>Implanon</Synonym>
+<Synonym>3-Keto-Desogestrel</Synonym>
+<Description>A synthetic form of the naturally occurring female sex hormone progesterone. Etonogestrel binds to the cytoplasmic progesterone receptors in the reproductive system and subsequently activates progesterone receptor mediated gene expression. As a result of the negative feedback mechanism, luteinizing hormone (LH) release is inhibited, which leads to an inhibition of ovulation and an alteration in the cervical mucus and endometrium.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

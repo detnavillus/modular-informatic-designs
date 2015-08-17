@@ -1,0 +1,20 @@
+<Record>
+<Term>Short Bowel Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ParentTerm>Postoperative Complications</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Postoperative Complications/Short Bowel Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Short Bowel Syndrome</ClassificationPath>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Postoperative Complications</BroaderTerm>
+<BroaderTerm>Short Bowel Syndrome</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Short Bowel Syndrome</Synonym>
+<Synonym>Short Bowel Syndromes</Synonym>
+<Description>A malabsorption syndrome resulting from extensive operative resection of the SMALL INTESTINE, the absorptive region of the GASTROINTESTINAL TRACT.</Description>
+<Source>MeSH</Source>
+</Record>

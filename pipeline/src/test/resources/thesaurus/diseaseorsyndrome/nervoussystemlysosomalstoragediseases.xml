@@ -1,0 +1,33 @@
+<Record>
+<Term>Nervous System Lysosomal Storage Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Lysosomal Storage Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System</ClassificationPath>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Mucolipidoses</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type II</ChildTerm>
+<ChildTerm>Sialic Acid Storage Disease</ChildTerm>
+<ChildTerm>Sphingolipidoses</ChildTerm>
+<ChildTerm>Fucosidosis</ChildTerm>
+<Synonym>Nervous System Lysosomal Storage Diseases</Synonym>
+<Synonym>Nervous System Lysosomal Enzyme Disorders</Synonym>
+<Description>A group of enzymatic disorders affecting the nervous system and to a variable degree the skeletal system, lymphoreticular system, and other organs. The conditions are marked by an abnormal accumulation of catabolic material within lysosomes.</Description>
+<Source>MeSH</Source>
+</Record>

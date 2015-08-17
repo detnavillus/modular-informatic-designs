@@ -1,0 +1,17 @@
+<Record>
+<Term>DL-Liothyronine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Liothyronine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Thyroid Agent/Liothyronine/DL-Liothyronine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Thyroid Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Liothyronine</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>DL-Liothyronine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DL-Liothyronine</Synonym>
+<Synonym>LIOTHYRONINE, DL-</Synonym>
+<Description>A racemic mixture of liothyronine, a synthetic version of triiodothyronine (T3), the primary active thyroid hormone. Like endogenous T3, DL-liothyronine exerts its many metabolic effects through control of gene expression, thereby resulting in the production of proteins that are involved in normal metabolism, growth, and development. Other physiologic effects of liothyronine include promoting gluconeogenesis, increasing utilization and mobilization of glycogen stores, and elevating basal metabolic rate.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

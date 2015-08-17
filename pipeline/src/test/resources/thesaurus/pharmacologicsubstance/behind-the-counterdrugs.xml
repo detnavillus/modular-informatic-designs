@@ -1,0 +1,13 @@
+<Record>
+<Term>Behind-the-Counter Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Nonprescription Drugs</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Nonprescription Drugs/Behind-the-Counter Drugs</ClassificationPath>
+<BroaderTerm>Nonprescription Drugs</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Behind-the-Counter Drugs</BroaderTerm>
+<Synonym>Behind-the-Counter Drugs</Synonym>
+<Synonym>Behind the Counter Drugs</Synonym>
+<Description>Medicines that are stocked behind the counter of a pharmacy which require the attention or counsel of a pharmacist before being dispensed or handed over to a consumer or patient.</Description>
+<Source>MeSH</Source>
+</Record>

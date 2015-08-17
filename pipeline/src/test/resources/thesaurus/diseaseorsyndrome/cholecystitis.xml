@@ -1,0 +1,49 @@
+<Record>
+<Term>Cholecystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Gallbladder Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Hepatobiliary System and Pancreas</ParentTerm>
+<ParentTerm>Gallbladder Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Gallbladder Diseases/Cholecystitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Hepatobiliary System and Pancreas/Cholecystitis Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Liver and Biliary Tract Disorder/Biliary Tract Disorder/Gallbladder Disorder/Cholecystitis</ClassificationPath>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Gallbladder Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Hepatobiliary System and Pancreas</BroaderTerm>
+<BroaderTerm>Cholecystitis Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cholecystitis</BroaderTerm>
+<BroaderTerm>Liver and Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Gallbladder Diseases</BroaderTerm>
+<ChildTerm>Acalculous Cholecystitis</ChildTerm>
+<ChildTerm>Acute Cholecystitis</ChildTerm>
+<ChildTerm>Cholecystitis with Cholelithiasis</ChildTerm>
+<ChildTerm>Chronic Cholecystitis</ChildTerm>
+<ChildTerm>Emphysematous Cholecystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Cholecystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Cholecystitis</ChildTerm>
+<ChildTerm>Cholecystitis, Acute</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Cholecystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Cholecystitis</ChildTerm>
+<ChildTerm>Xanthogranulomatous Cholecystitis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Cholecystitis</ChildTerm>
+<Synonym>Gall Bladder Empyema</Synonym>
+<Synonym>Gallbladder Empyema</Synonym>
+<Synonym>Cholecystitis</Synonym>
+<Synonym>Gallbladder Inflammation</Synonym>
+<Synonym>Cholecystitis Adverse Event</Synonym>
+<Description>Inflammation of the GALLBLADDER; generally caused by impairment of BILE flow, GALLSTONES in the BILIARY TRACT, infections, or other diseases.Presence of pus in the GALLBLADDER.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

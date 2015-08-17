@@ -1,0 +1,16 @@
+<Record>
+<Term>Black Pepper</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Food</SemanticType>
+<ParentTerm>Spices</ParentTerm>
+<ClassificationPath>Food and Beverages/Food/Condiments/Spices/Black Pepper</ClassificationPath>
+<BroaderTerm>Food</BroaderTerm>
+<BroaderTerm>Condiments</BroaderTerm>
+<BroaderTerm>Food and Beverages</BroaderTerm>
+<BroaderTerm>Black Pepper</BroaderTerm>
+<BroaderTerm>Spices</BroaderTerm>
+<Synonym>Black Pepper</Synonym>
+<Synonym>White Pepper</Synonym>
+<Description>A common spice from fruit of PIPER NIGRUM.  Black pepper is picked unripe and heaped for a few days to ferment.  White Pepper is the ripe fruit dehulled by maceration in water. Piperine is a key component used medicinally to increase gastrointestinal assimilation of other supplements and drugs.From the same plant as P. nigrum, White Pepper is the ripe fruit dehulled by maceration in water.  Sometimes called Piper album.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Ear Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Head and Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Middle Ear Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Ear Disorder</ChildTerm>
+<ChildTerm>External Ear Disorder</ChildTerm>
+<ChildTerm>Internal Ear Disorder</ChildTerm>
+<Synonym>Ear Disease</Synonym>
+<Synonym>Ear Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

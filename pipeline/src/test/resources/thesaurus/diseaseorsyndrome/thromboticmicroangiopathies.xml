@@ -1,0 +1,17 @@
+<Record>
+<Term>Thrombotic Microangiopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thrombocytopenia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombotic Microangiopathies</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombotic Microangiopathies</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Purpura, Thrombocytopenic</ChildTerm>
+<ChildTerm>Hemolytic-Uremic Syndrome</ChildTerm>
+<Synonym>Thrombotic Microangiopathies</Synonym>
+<Synonym>Thrombotic Microangiopathy</Synonym>
+<Description>Diseases that result in THROMBOSIS in MICROVASCULATURE. The two most prominent diseases are PURPURA, THROMBOTIC THROMBOCYTOPENIC; and HEMOLYTIC-UREMIC SYNDROME. Multiple etiological factors include VASCULAR ENDOTHELIAL CELL damage due to SHIGA TOXIN; FACTOR H deficiency; and aberrant VON WILLEBRAND FACTOR formation.</Description>
+<Source>MeSH</Source>
+</Record>

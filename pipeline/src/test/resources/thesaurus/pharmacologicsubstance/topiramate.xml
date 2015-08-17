@@ -1,0 +1,21 @@
+<Record>
+<Term>Topiramate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Topiramate</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Topiramate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TOPIRAMATE</Synonym>
+<Synonym>Topiramate</Synonym>
+<Synonym>beta-D-Fructopyranose, 2,3:4,5-bis-O-(1-methylethylidene)-, Sulfamate</Synonym>
+<Synonym>Topamax</Synonym>
+<Synonym>Topamax sprinkle</Synonym>
+<Description>A sulfamate-substituted monosaccharide with anticonvulsant property. Although the mechanism of action has not been fully elucidated, topiramate antagonizes kainate/AMPA subtype of the glutamate receptors, which are ligand-activated cation channels that mediate the fast component of excitatory postsynaptic currents in neurons of the central nervous system. This antagonistic action results in stabilizing hyper-excited neural membranes, inhibiting repetitive neuronal firing, and decreasing propagation of synaptic impulses, thereby impedes seizure occurrences. In addition, this agent augments gamma-aminobenzoic acid (GABA) activity and thereby attenuating GABAnergic inhibitory transmission.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

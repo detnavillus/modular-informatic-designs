@@ -1,0 +1,34 @@
+<Record>
+<Term>Otitis Media</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Otitis Media</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Ear Infection/Otitis/Otitis Media,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder/Middle Ear Disorder/Otitis Media</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Otitis Media,</BroaderTerm>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Otitis Media</BroaderTerm>
+<BroaderTerm>Middle Ear Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Infection</BroaderTerm>
+<ChildTerm>Otitis Media, Suppurative</ChildTerm>
+<ChildTerm>Mastoiditis</ChildTerm>
+<ChildTerm>Secretory Otitis Media</ChildTerm>
+<ChildTerm>Otitis Media with Effusion</ChildTerm>
+<Synonym>Middle Ear Inflammation</Synonym>
+<Synonym>Otitis Media</Synonym>
+<Description>Inflammation of the MIDDLE EAR including the AUDITORY OSSICLES and the EUSTACHIAN TUBE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

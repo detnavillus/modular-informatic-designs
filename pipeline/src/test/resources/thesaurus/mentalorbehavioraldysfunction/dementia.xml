@@ -1,0 +1,51 @@
+<Record>
+<Term>Dementia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ParentTerm>Neurodegenerative Disorder</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Dementia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<ChildTerm>Pick Disease of the Brain</ChildTerm>
+<ChildTerm>Aphasia, Primary Progressive</ChildTerm>
+<ChildTerm>Lewy Body Disease</ChildTerm>
+<ChildTerm>Creutzfeldt-Jakob Syndrome</ChildTerm>
+<ChildTerm>Kluver-Bucy Syndrome</ChildTerm>
+<ChildTerm>Dementia, Vascular</ChildTerm>
+<ChildTerm>Alzheimer's Disease</ChildTerm>
+<ChildTerm>Vascular Dementia</ChildTerm>
+<ChildTerm>Huntington Disease</ChildTerm>
+<ChildTerm>Frontotemporal Lobar Degeneration</ChildTerm>
+<ChildTerm>Pre-senile Dementia</ChildTerm>
+<ChildTerm>AIDS Dementia Complex</ChildTerm>
+<ChildTerm>Diffuse Neurofibrillary Tangles with Calcification</ChildTerm>
+<ChildTerm>Alzheimer Disease</ChildTerm>
+<ChildTerm>Senile Dementia</ChildTerm>
+<Synonym>Senile Paranoid Dementias</Synonym>
+<Synonym>Familial Dementias</Synonym>
+<Synonym>Dementias</Synonym>
+<Synonym>Dementia</Synonym>
+<Synonym>Amentia</Synonym>
+<Synonym>Familial Dementia</Synonym>
+<Synonym>Amentias</Synonym>
+<Synonym>Senile Paranoid Dementia</Synonym>
+<Description>An acquired organic mental disorder with loss of intellectual abilities of sufficient severity to interfere with social or occupational functioning. The dysfunction is multifaceted and involves memory, behavior, personality, judgment, attention, spatial relations, language, abstract thought, and other executive functions. The intellectual decline is usually progressive, and initially spares the level of consciousness.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

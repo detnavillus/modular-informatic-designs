@@ -1,0 +1,16 @@
+<Record>
+<Term>Soy Isoflavones</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Soy Isoflavones</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Soy Isoflavones</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>NovaSoy</Synonym>
+<Synonym>Soy Isoflavone</Synonym>
+<Synonym>Soy Isoflavones</Synonym>
+<Synonym>Soybean Isoflavone Mixture</Synonym>
+<Description>A dietary supplement isolated from soybeans containing phytoestrogen isoflavones. Although the mechanism of action is unclear, soy isoflavones mimic estrogen action mediated through estrogen receptors. In addition, this agent also modulates estrogen metabolism. As a result, soy isoflavones have been shown to reduce tumor cell proliferation and induce tumor cell apoptosis, as well as to be able to regulate hormone balance and reduce the risks of breast cancer, heart disease, and osteoporosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

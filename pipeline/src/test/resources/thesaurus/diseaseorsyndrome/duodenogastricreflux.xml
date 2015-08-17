@@ -1,0 +1,22 @@
+<Record>
+<Term>Duodenogastric Reflux</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ParentTerm>Duodenal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Duodenogastric Reflux</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Duodenal Diseases/Duodenogastric Reflux</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Duodenal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Duodenogastric Reflux</BroaderTerm>
+<ChildTerm>Bile Reflux</ChildTerm>
+<Synonym>Duodenal Reflux</Synonym>
+<Synonym>Duodeno-Gastric Reflux</Synonym>
+<Synonym>Duodenal Refluxs</Synonym>
+<Synonym>Duodeno Gastric Reflux</Synonym>
+<Synonym>Duodenogastric Reflux</Synonym>
+<Description>Retrograde flow of duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the STOMACH.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,32 @@
+<Record>
+<Term>Dermatitis Herpetiformis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ParentTerm>Skin Diseases, Vesiculobullous</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Dermatitis Herpetiformis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Dermatitis Herpetiformis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Dermatitis Herpetiformis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis Herpetiformis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis Herpetiformis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Duhring's Disease</Synonym>
+<Synonym>Duhrings Disease</Synonym>
+<Synonym>Dermatitis Herpetiformis</Synonym>
+<Synonym>Duhring Disease</Synonym>
+<Description>Rare, chronic, papulo-vesicular disease characterized by an intensely pruritic eruption consisting of various combinations of symmetrical, erythematous, papular, vesicular, or bullous lesions. The disease is strongly associated with the presence of HLA-B8 and HLA-DR3 antigens. A variety of different autoantibodies has been detected in small numbers in patients with dermatitis herpetiformis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

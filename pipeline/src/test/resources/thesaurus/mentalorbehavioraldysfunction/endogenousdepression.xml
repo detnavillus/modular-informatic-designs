@@ -1,0 +1,15 @@
+<Record>
+<Term>Endogenous Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depression</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression/Endogenous Depression</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Endogenous Depression</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Endogenous Depression</Synonym>
+<Description>A group of symptoms that resemble depression but are not precipitated by a stressful experience, especially psychomotor agitation or retardation, insomnia and early morning awakening, weight loss, excessive guilt, and a lack of reactivity to one's environment.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

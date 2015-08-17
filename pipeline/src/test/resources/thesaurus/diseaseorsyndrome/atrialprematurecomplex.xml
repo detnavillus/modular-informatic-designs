@@ -1,0 +1,24 @@
+<Record>
+<Term>Atrial Premature Complex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Supraventricular Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Atrial Premature Complex</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Atrial Premature Complex</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>APC</Synonym>
+<Synonym>Atrial Premature Complex</Synonym>
+<Synonym>PREMATURE ATRIAL COMPLEXES</Synonym>
+<Synonym>Premature Atrial Complex</Synonym>
+<Synonym>Premature atrial complexes</Synonym>
+<Description>Ectopic impulses originating in the atria.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,14 @@
+<Record>
+<Term>Commercial or Non-CTEP IND Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Clinical Study Element</ParentTerm>
+<ClassificationPath>NCI Administrative Concept/Document/Protocol/Component of Study Protocol/Clinical Study Element/Commercial or Non-CTEP IND Agent</ClassificationPath>
+<BroaderTerm>Document</BroaderTerm>
+<BroaderTerm>Protocol</BroaderTerm>
+<BroaderTerm>Component of Study Protocol</BroaderTerm>
+<BroaderTerm>NCI Administrative Concept</BroaderTerm>
+<BroaderTerm>Commercial or Non-CTEP IND Agent</BroaderTerm>
+<BroaderTerm>Clinical Study Element</BroaderTerm>
+<Synonym>Commercial or Non-CTEP IND Agent</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

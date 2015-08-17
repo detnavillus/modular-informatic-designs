@@ -1,0 +1,14 @@
+<Record>
+<Term>Lymphangiectasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphangiectasis</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphangiectasis</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<ChildTerm>Lymphangiectasis, Intestinal</ChildTerm>
+<Synonym>Lymphangiectasis</Synonym>
+<Synonym>Lymphangiectases</Synonym>
+<Description>A transient dilatation of the lymphatic vessels.</Description>
+<Source>MeSH</Source>
+</Record>

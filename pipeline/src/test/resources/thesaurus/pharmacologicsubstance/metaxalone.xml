@@ -1,0 +1,21 @@
+<Record>
+<Term>Metaxalone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Muscle Relaxant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Muscle Relaxant/Metaxalone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Metaxalone</BroaderTerm>
+<BroaderTerm>Muscle Relaxant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>METAXALONE</Synonym>
+<Synonym>2-Oxazolidinone, 5-((3,5-dimethylphenoxy)methyl)-</Synonym>
+<Synonym>Skelaxin</Synonym>
+<Synonym>Metaxalone</Synonym>
+<Synonym>Zorane</Synonym>
+<Description>An oxazolidinone with centrally-acting skeletal muscle relaxant properties. Although the exact mechanism through which metaxalone exerts its effect is largely unknown, it might be due to general central nervous system (CNS) depression. Metaxalone has no direct effect on the contractile mechanisms of striated muscle, the motor end plate, or the nerve fiber.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

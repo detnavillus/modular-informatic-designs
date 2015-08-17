@@ -1,0 +1,16 @@
+<Record>
+<Term>Triaminic Syrup</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cough and Cold Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Cough and Cold Preparation/Triaminic Syrup</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Triaminic Syrup</BroaderTerm>
+<BroaderTerm>Cough and Cold Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Triaminic Syrup</Synonym>
+<Description>Any of the commercial combination preparations, by Novartis, that is taken orally as syrup containing all or a combination of the following agents: the analgesic antipyretic acetaminophen, the antihistamine chlorpheniramine maleate, the antitussive dextromethorphan hydrobromide and the decongestant pseudoephedrine hydrochloride. The particular combination depends on the symptoms that need to be treated such as cough, congestion, fever, allergy and sore throat. Acetaminophen exerts its actions by inhibiting prostaglandin synthesis. Chlorpheniramine maleate blocks the effects of histamine. Dextromethorphan hydrobromide raises the threshold for coughing in the cough center. Pseudoephedrine, a sympathomimetic agent, causes vasoconstriction mediated through alpha-adrenergic receptors, thereby reducing blood flow which decreases swelling and prevents nasal and sinus congestion.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

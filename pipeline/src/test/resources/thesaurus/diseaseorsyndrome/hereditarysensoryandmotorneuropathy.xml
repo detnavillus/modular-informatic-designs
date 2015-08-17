@@ -1,0 +1,40 @@
+<Record>
+<Term>Hereditary Sensory and Motor Neuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nervous System Malformations</ParentTerm>
+<ParentTerm>Polyneuropathies</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Nervous System Malformations/Hereditary Sensory and Motor Neuropathy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Motor Neuropathy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Nervous System Malformations/Hereditary Sensory and Motor Neuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Motor Neuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Hereditary Sensory and Motor Neuropathy</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hereditary Sensory and Motor Neuropathy</BroaderTerm>
+<BroaderTerm>Nervous System Malformations</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Charcot-Marie-Tooth Disease</ChildTerm>
+<ChildTerm>Refsum Disease</ChildTerm>
+<ChildTerm>Alstrom Syndrome</ChildTerm>
+<ChildTerm>Giant Axonal Neuropathy</ChildTerm>
+<ChildTerm>Spastic Paraplegia, Hereditary</ChildTerm>
+<Synonym>Hereditary Sensory and Motor Neuropathy</Synonym>
+<Synonym>HMSN</Synonym>
+<Synonym>Hereditary Motor and Sensory Neuropathies</Synonym>
+<Synonym>Dejerine-Sottas Disease</Synonym>
+<Synonym>Herditary Sensory and Motor Neuropathy</Synonym>
+<Synonym>Dejerine Sottas Disease</Synonym>
+<Synonym>HMSN Type III</Synonym>
+<Synonym>HMSN Type VII</Synonym>
+<Synonym>HMSN Type IIIs</Synonym>
+<Synonym>HMSN Type VIIs</Synonym>
+<Description>A group of slowly progressive inherited disorders affecting motor and sensory peripheral nerves. Subtypes include HMSNs I-VII. HMSN I and II both refer to CHARCOT-MARIE-TOOTH DISEASE. HMSN III refers to hypertrophic neuropathy of infancy. HMSN IV refers to REFSUM DISEASE. HMSN V refers to a condition marked by a hereditary motor and sensory neuropathy associated with spastic paraplegia (see SPASTIC PARAPLEGIA, HEREDITARY). HMSN VI refers to HMSN associated with an inherited optic atrophy (OPTIC ATROPHIES, HEREDITARY), and HMSN VII refers to HMSN associated with retinitis pigmentosa. (From Adams et al., Principles of Neurology, 6th ed, p1343)</Description>
+<Source>MeSH</Source>
+</Record>

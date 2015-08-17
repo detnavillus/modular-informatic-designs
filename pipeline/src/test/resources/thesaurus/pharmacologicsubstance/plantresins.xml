@@ -1,0 +1,23 @@
+<Record>
+<Term>Plant Resins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biopolymers</ParentTerm>
+<ParentTerm>Plant Exudates</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Plant Exudates/Resins, Plant</ClassificationPath>
+<ClassificationPath>Macromolecular Substances/Polymers/Biopolymers/Resins, Plant</ClassificationPath>
+<BroaderTerm>Biopolymers</BroaderTerm>
+<BroaderTerm>Polymers</BroaderTerm>
+<BroaderTerm>Resins, Plant</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Macromolecular Substances</BroaderTerm>
+<BroaderTerm>Plant Exudates</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Balsams</ChildTerm>
+<ChildTerm>Propolis</ChildTerm>
+<ChildTerm>Amber</ChildTerm>
+<ChildTerm>Guaiac</ChildTerm>
+<ChildTerm>Turpentine</ChildTerm>
+<Synonym>Plant Resins</Synonym>
+<Description>Flammable, amorphous, vegetable products of secretion or disintegration, usually formed in special cavities of plants. They are generally insoluble in water and soluble in alcohol, carbon tetrachloride, ether, or volatile oils. They are fusible and have a conchoidal fracture. They are the oxidation or polymerization products of the terpenes, and are mixtures of aromatic acids and esters. Most are soft and sticky, but harden after exposure to cold. (From Grant &amp; Hackh's Chemical Dictionary, 5th ed &amp; Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

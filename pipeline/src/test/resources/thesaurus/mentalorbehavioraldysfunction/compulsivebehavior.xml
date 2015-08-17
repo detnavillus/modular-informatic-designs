@@ -1,0 +1,16 @@
+<Record>
+<Term>Compulsive Behavior</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Impulsive Behavior</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Impulsive Behavior/Compulsive Behavior</ClassificationPath>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Impulsive Behavior</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Compulsive Behavior</BroaderTerm>
+<ChildTerm>Behavior, Addictive</ChildTerm>
+<Synonym>Compulsive Behavior</Synonym>
+<Synonym>Compulsive Behaviors</Synonym>
+<Description>The behavior of performing an act persistently and repetitively without it leading to reward or pleasure. The act is usually a small, circumscribed behavior, almost ritualistic, yet not pathologically disturbing. Examples of compulsive behavior include twirling of hair, checking something constantly, not wanting pennies in change, straightening tilted pictures, etc.</Description>
+<Source>MeSH</Source>
+</Record>

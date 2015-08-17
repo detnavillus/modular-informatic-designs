@@ -1,0 +1,23 @@
+<Record>
+<Term>PD-168393</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Signal Transduction Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor/PD-168393,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Signal Transduction Inhibitor/PD-168393</ClassificationPath>
+<BroaderTerm>Signal Transduction Inhibitor</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>PD-168393,</BroaderTerm>
+<BroaderTerm>Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>PD-168393</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>4-[(3-Bromophenyl)amino]-6-Acrylamidoquinazoline</Synonym>
+<Synonym>PD 168 393</Synonym>
+<Synonym>PD-168393</Synonym>
+<Description>A quinazolone compound with anti-tumor activity. PD-168393 is a cell-permeable, irreversible, and selective inhibitor of ligand-dependent epidermal growth factor (EGF) receptor (EGFR). This agent binds to the catalytic domain of EGFR with a 1:1 stoichiometry and inactivates the EGFR tyrosine kinase activity through alkylation of a cystine residue (Cys-773) within the ATP-binding pocket, thereby inhibiting proliferation of EGFR-expressing tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

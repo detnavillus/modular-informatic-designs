@@ -1,0 +1,35 @@
+<Record>
+<Term>Limbic Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paraneoplastic Syndromes, Nervous System</ParentTerm>
+<ParentTerm>Encephalitis</ParentTerm>
+<ParentTerm>Paraneoplastic Syndrome</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Limbic Encephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Paraneoplastic Syndromes, Nervous System/Limbic Encephalitis</ClassificationPath>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Syndromes, Nervous System/Limbic Encephalitis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Paraneoplastic Syndromes, Nervous System/Limbic Encephalitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Paraneoplastic Syndrome/Limbic Encephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Encephalitis/Limbic Encephalitis</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Limbic Encephalitis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes, Nervous System</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<Synonym>Paraneoplastic Limbic Encephalitis</Synonym>
+<Synonym>Limbic Encephalitis</Synonym>
+<Description>A paraneoplastic syndrome marked by degeneration of neurons in the medial temporal lobe. Clinical features include behavioral changes, HALLUCINATIONS, loss of short term memory, anosmia, AGEUSIA, and DEMENTIA. Circulating anti-neuronal antibodies (anti-Hu; also called ANNA 1) and small cell lung carcinomas are frequently associated with this condition. (From Pathologe 1997 Sep;18(5):406-10; J Int Neuropsychol Soc 1996 Sep;2(5):460-6; Brain 1997 Jun;120(Pt 6):923-8)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

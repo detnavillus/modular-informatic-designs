@@ -1,0 +1,21 @@
+<Record>
+<Term>Spinal Osteochondrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ParentTerm>Osteochondrosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteochondrosis/Spinal Osteochondrosis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Osteochondrosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Osteochondrosis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Osteochondrosis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Scheuermann Disease</ChildTerm>
+<Synonym>Spinal Osteochondroses</Synonym>
+<Synonym>Spinal Osteochondrosis</Synonym>
+<Synonym>Spine Osteochondrosis</Synonym>
+<Synonym>Spine Osteochondroses</Synonym>
+<Synonym>Osteochondrosis of Spine</Synonym>
+<Description>A bone disorder involving ossification centers (EPIPHYSES) of the VERTEBRAL COLUMN.</Description>
+<Source>MeSH</Source>
+</Record>

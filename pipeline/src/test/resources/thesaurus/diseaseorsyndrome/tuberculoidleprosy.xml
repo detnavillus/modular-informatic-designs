@@ -1,0 +1,22 @@
+<Record>
+<Term>Tuberculoid Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leprosy, Paucibacillary</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy/Leprosy, Paucibacillary/Leprosy, Tuberculoid</ClassificationPath>
+<BroaderTerm>Leprosy, Paucibacillary</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Leprosy, Tuberculoid</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Tuberculoid Leprosies</Synonym>
+<Synonym>Tuberculoid Leprosy</Synonym>
+<Synonym>Neural Leprosies</Synonym>
+<Synonym>Neural Leprosy</Synonym>
+<Synonym>Macular Leprosies</Synonym>
+<Synonym>Macular Leprosy</Synonym>
+<Description>A principal or polar form of LEPROSY in which the skin lesions are few and are sharply demarcated. Peripheral nerve involvement is pronounced and may be severe. Unlike lepromatous leprosy (LEPROSY, LEPROMATOUS), the lepromin test is positive. Tuberculoid leprosy is rarely a source of infection to others.</Description>
+<Source>MeSH</Source>
+</Record>

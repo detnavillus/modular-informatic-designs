@@ -1,0 +1,12 @@
+<Record>
+<Term>BMS-275291</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>BMS-275291</ClassificationPath>
+<BroaderTerm>BMS-275291</BroaderTerm>
+<Synonym>BMS-275291</Synonym>
+<Synonym>D2163</Synonym>
+<Synonym>N-((2S)-2-Mercapto-1-oxo-4-(3,4,4-trimethyl-2,5-dioxo-1-imidazolidinyl)butyl)-L-leucyl-N,3-dimethyl-L-valinamide</Synonym>
+<Description>A sulfhydryl-based second-generation matrix metalloproteinase (MMP) inhibitor with potential antineoplastic activity.  BMS-275291 selectively inhibits several MMPs (MMP 1, 2, 8, 9, and 14), thereby inducing extracellular matrix degradation, and inhibiting angiogenesis, tumor growth and invasion, and metastasis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

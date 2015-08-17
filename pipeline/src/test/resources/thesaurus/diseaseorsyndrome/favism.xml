@@ -1,0 +1,43 @@
+<Record>
+<Term>Favism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic</ParentTerm>
+<ParentTerm>Non-Autoimmune Hemolytic Anemia</ParentTerm>
+<ParentTerm>Glucosephosphate Dehydrogenase Deficiency</ParentTerm>
+<ParentTerm>Plant Poisoning</ParentTerm>
+<ParentTerm>Foodborne Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Foodborne Diseases/Favism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Normocytic Anemia/Hemolytic Anemia/Acquired Hemolytic Anemia/Non-Autoimmune Hemolytic Anemia/Favism</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Favism</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Plant Poisoning/Favism</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Glucosephosphate Dehydrogenase Deficiency/Favism</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Glucosephosphate Dehydrogenase Deficiency/Favism</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemolytic Anemia</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Non-Autoimmune Hemolytic Anemia</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Foodborne Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Favism</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glucosephosphate Dehydrogenase Deficiency</BroaderTerm>
+<BroaderTerm>Plant Poisoning</BroaderTerm>
+<BroaderTerm>Normocytic Anemia</BroaderTerm>
+<BroaderTerm>Acquired Hemolytic Anemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Favism</Synonym>
+<Synonym>Favisms</Synonym>
+<Description>Hemolytic anemia due to the ingestion of fava beans or after inhalation of pollen from the Vicia fava plant by persons with glucose-6-phosphate dehydrogenase deficient erythrocytes.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Phagocyte Bactericidal Dysfunction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leukocyte Disorders</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Phagocyte Bactericidal Dysfunction</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Phagocyte Bactericidal Dysfunction</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Phagocyte Bactericidal Dysfunction</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Granulomatous Disease, Chronic</ChildTerm>
+<ChildTerm>Job's Syndrome</ChildTerm>
+<ChildTerm>Chediak-Higashi Syndrome</ChildTerm>
+<Synonym>Phagocyte Bactericidal Dysfunctions</Synonym>
+<Synonym>Phagocyte Bactericidal Dysfunction</Synonym>
+<Description>Disorders in which phagocytic cells cannot kill ingested bacteria; characterized by frequent recurring infection with formulation of granulomas.</Description>
+<Source>MeSH</Source>
+</Record>

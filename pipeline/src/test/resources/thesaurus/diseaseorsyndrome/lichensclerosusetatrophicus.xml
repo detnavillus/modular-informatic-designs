@@ -1,0 +1,30 @@
+<Record>
+<Term>Lichen Sclerosus et Atrophicus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lichenoid Eruptions</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Lichen Sclerosus et Atrophicus</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Lichenoid Eruptions/Lichen Sclerosus et Atrophicus</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Lichenoid Eruptions</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lichen Sclerosus et Atrophicus</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<ChildTerm>Vulvar Lichen Sclerosus</ChildTerm>
+<Synonym>Lichen Sclerosis et Atrophicus</Synonym>
+<Synonym>Lichen Sclerosis</Synonym>
+<Synonym>Lichen Scleroses</Synonym>
+<Synonym>Lichen Sclerosus</Synonym>
+<Synonym>Lichen Sclerosus et Atrophicus</Synonym>
+<Description>A chronic inflammatory mucocutaneous disease usually affecting the female genitalia (VULVAR LICHEN SCLEROSUS) and BALANITIS XEROTICA OBLITERANS in males. It is also called white spot disease and Csillag's disease.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

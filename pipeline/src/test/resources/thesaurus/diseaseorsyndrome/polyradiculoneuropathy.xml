@@ -1,0 +1,31 @@
+<Record>
+<Term>Polyradiculoneuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases of the Nervous System</ParentTerm>
+<ParentTerm>Polyneuropathies</ParentTerm>
+<ParentTerm>Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Polyradiculoneuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Polyradiculoneuropathy</ClassificationPath>
+<BroaderTerm>Polyradiculoneuropathy</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Hereditary Sensory and Autonomic Neuropathies</ChildTerm>
+<ChildTerm>Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</ChildTerm>
+<ChildTerm>Polyradiculopathy</ChildTerm>
+<ChildTerm>Guillain-Barre Syndrome</ChildTerm>
+<Synonym>Polyradiculoneuropathy</Synonym>
+<Synonym>Peripheral Autoimmune Demyelinating Disease</Synonym>
+<Synonym>Polyradiculoneuritides</Synonym>
+<Synonym>Polyradiculoneuropathies</Synonym>
+<Synonym>Polyradiculoneuritis</Synonym>
+<Description>Diseases characterized by injury or dysfunction involving multiple peripheral nerves and nerve roots. The process may primarily affect myelin or nerve axons. Two of the more common demyelinating forms are acute inflammatory polyradiculopathy (GUILLAIN-BARRE SYNDROME) and POLYRADICULONEUROPATHY, CHRONIC INFLAMMATORY DEMYELINATING. Polyradiculoneuritis refers to inflammation of multiple peripheral nerves and spinal nerve roots.</Description>
+<Source>MeSH</Source>
+</Record>

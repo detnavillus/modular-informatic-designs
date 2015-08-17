@@ -1,0 +1,25 @@
+<Record>
+<Term>Retropharyngeal Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Pharyngitis</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Pharyngitis/Retropharyngeal Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Retropharyngeal Abscess</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pharyngitis/Retropharyngeal Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Pharyngitis/Retropharyngeal Abscess</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngitis</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Retropharyngeal Abscess</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Retropharyngeal Abscesses</Synonym>
+<Synonym>Retropharyngeal Abscess</Synonym>
+<Description>An accumulation of purulent material in the space between the PHARYNX and the CERVICAL VERTEBRAE. This usually results from SUPPURATION of retropharyngeal LYMPH NODES in patients with UPPER RESPIRATORY TRACT INFECTIONS, perforation of the pharynx, or head and neck injuries.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Cardiovascular System Finding</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Aneurysm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Iliac Aneurysm</ChildTerm>
+<ChildTerm>Aneurysm, Ruptured</ChildTerm>
+<ChildTerm>Aneurysm, Infected</ChildTerm>
+<ChildTerm>Aortic Aneurysm</ChildTerm>
+<ChildTerm>Ruptured Aneurysm</ChildTerm>
+<ChildTerm>Dissecting Aneurysm</ChildTerm>
+<ChildTerm>Cerebral Aneurysm</ChildTerm>
+<ChildTerm>Microaneurysm</ChildTerm>
+<ChildTerm>Coronary Aneurysm</ChildTerm>
+<ChildTerm>Intracranial Aneurysm</ChildTerm>
+<ChildTerm>Aneurysm, Dissecting</ChildTerm>
+<ChildTerm>Traumatic Aneurysm</ChildTerm>
+<ChildTerm>Heart Aneurysm</ChildTerm>
+<ChildTerm>Aneurysm, False</ChildTerm>
+<ChildTerm>Mycotic Aneurysm</ChildTerm>
+<ChildTerm>Ventricular Aneurysm</ChildTerm>
+<Synonym>Aneurysm</Synonym>
+<Synonym>Fusiform Aneurysm</Synonym>
+<Synonym>Fusiform Aneurysms</Synonym>
+<Synonym>Aneurysms</Synonym>
+<Synonym>Saccular Aneurysm</Synonym>
+<Description>Pathological outpouching or sac-like dilatation in the wall of any blood vessel (ARTERIES or VEINS) or the heart (HEART ANEURYSM). It indicates a thin and weakened area in the wall which may later rupture. Aneurysms are classified by location, etiology, or other characteristics.Elongated, spindle-shaped dilation in the wall of blood vessels, usually large ARTERIES with ATHEROSCLEROSIS.Localized distended sac affecting only part of the wall of blood vessels.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Monkey Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Primate Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Primate Diseases/Monkey Diseases</ClassificationPath>
+<BroaderTerm>Monkey Diseases</BroaderTerm>
+<BroaderTerm>Primate Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Simian Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Marburg Virus Disease</ChildTerm>
+<Synonym>Monkey Diseases</Synonym>
+<Synonym>Monkey Disease</Synonym>
+<Description>Diseases of Old World and New World monkeys. This term includes diseases of baboons but not of chimpanzees or gorillas (= APE DISEASES).</Description>
+<Source>MeSH</Source>
+</Record>

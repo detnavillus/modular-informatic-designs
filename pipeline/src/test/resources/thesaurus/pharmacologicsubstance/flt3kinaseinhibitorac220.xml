@@ -1,0 +1,17 @@
+<Record>
+<Term>FLT3 Kinase Inhibitor AC220</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/FLT3 Kinase Inhibitor AC220</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>FLT3 Kinase Inhibitor AC220</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AC220</Synonym>
+<Synonym>FLT3 Kinase Inhibitor AC220</Synonym>
+<Description>An orally available small molecule with potential antineoplastic activity. Class III receptor tyrosine kinase inhibitor AC220 selectively inhibits class III receptor tyrosine kinases, including FMS-related tyrosine kinase 3 (FLT3/STK1), colony-stimulating factor 1 receptor (CSF1R/FMS), stem cell factor receptor (SCFR/KIT), and platelet derived growth factor receptors (PDGFRs), resulting in inhibition of ligand-independent leukemic cell proliferation and apoptosis. Mutations in FLT3, resulting in constitutive activation, are the most frequent genetic alterations in acute myeloid leukemia (AML) and occur in approximately one-third of AML cases.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

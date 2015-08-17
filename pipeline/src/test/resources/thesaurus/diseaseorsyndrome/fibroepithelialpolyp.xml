@@ -1,0 +1,21 @@
+<Record>
+<Term>Fibroepithelial Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Fibroepithelial Polyp</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Fibroepithelial Polyp</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Gingival Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Anal Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Vulvar Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Vaginal Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Cervical Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Renal Pelvis Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Urethra Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Skin Tag</ChildTerm>
+<Synonym>Fibroepithelial Polyp</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

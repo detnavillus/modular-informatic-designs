@@ -1,0 +1,15 @@
+<Record>
+<Term>Pathogenesis of HIV Malignancy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Pathogenesis</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Pathogenesis/Viral Pathogenesis/Pathogenesis of HIV Malignancy</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Pathogenesis of HIV Malignancy</BroaderTerm>
+<BroaderTerm>Viral Pathogenesis</BroaderTerm>
+<BroaderTerm>Pathogenesis</BroaderTerm>
+<Synonym>Pathogenesis of HIV Malignancy</Synonym>
+<Description>Induction or development of a malignant disease(s) or condition(s) that results from retroviral activity or arises due to the immunocompromised state of an HIV infected individual. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

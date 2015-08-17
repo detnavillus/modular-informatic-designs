@@ -1,0 +1,25 @@
+<Record>
+<Term>Dirofilariasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Filariasis</ParentTerm>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Dirofilariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Dirofilariasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Dirofilariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Spirurida Infections/Filariasis/Dirofilariasis</ClassificationPath>
+<BroaderTerm>Filariasis</BroaderTerm>
+<BroaderTerm>Spirurida Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Dirofilariasis</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Dirofilariasis</Synonym>
+<Synonym>Heartworm Disease</Synonym>
+<Synonym>Dirofilariases</Synonym>
+<Description>Infection with nematodes of the genus DIROFILARIA, usually in animals, especially dogs, but occasionally in man.</Description>
+<Source>MeSH</Source>
+</Record>

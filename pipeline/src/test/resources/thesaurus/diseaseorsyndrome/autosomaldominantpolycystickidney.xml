@@ -1,0 +1,22 @@
+<Record>
+<Term>Autosomal Dominant Polycystic Kidney</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polycystic Kidney Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic/Polycystic Kidney Diseases/Polycystic Kidney, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic/Polycystic Kidney Diseases/Polycystic Kidney, Autosomal Dominant</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases, Cystic</BroaderTerm>
+<BroaderTerm>Polycystic Kidney Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Polycystic Kidney, Autosomal Dominant</BroaderTerm>
+<Synonym>Adult Polycystic Kidney Disease</Synonym>
+<Synonym>Autosomal Dominant Polycystic Kidney</Synonym>
+<Synonym>Adult Polycystic Kidney Disease Type 2</Synonym>
+<Synonym>ADPKD</Synonym>
+<Synonym>Adult Polycystic Kidney Disease Type 1</Synonym>
+<Description>Kidney disorders with autosomal dominant inheritance and characterized by multiple CYSTS in both KIDNEYS with progressive deterioration of renal function.Type 2 ADPKD is linked to gene mutation at the PKD2 locus on the long arm of CHROMOSOME 4.Type 1 ADPKD is linked to gene mutation at the PKD1 locus on the short arm of CHROMOSOME 16.</Description>
+<Source>MeSH</Source>
+</Record>

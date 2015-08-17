@@ -1,0 +1,23 @@
+<Record>
+<Term>Rheumatologic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Rheumatoid Arthritis</ChildTerm>
+<ChildTerm>Scleroderma</ChildTerm>
+<ChildTerm>Dermatomyositis</ChildTerm>
+<ChildTerm>Lupus Erythematosus</ChildTerm>
+<Synonym>Collagen Disease</Synonym>
+<Synonym>Rheumatologic Disorder</Synonym>
+<Synonym>collagen disease</Synonym>
+<Description>Inflammatory and degenerative diseases of connective tissue structures, such as arthritis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

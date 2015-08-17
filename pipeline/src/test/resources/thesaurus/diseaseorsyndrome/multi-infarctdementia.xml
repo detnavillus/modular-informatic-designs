@@ -1,0 +1,54 @@
+<Record>
+<Term>Multi-Infarct Dementia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebral Infarction</ParentTerm>
+<ParentTerm>Dementia, Vascular</ParentTerm>
+<ParentTerm>Vascular Dementia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Dementia, Vascular/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Dementia/Vascular Dementia/Multi-infarct Dementia</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Dementia, Vascular/Dementia, Multi-Infarct</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Dementia, Vascular/Dementia, Multi-Infarct</ClassificationPath>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Dementia, Vascular</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Vascular Dementia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Dementia, Multi-Infarct</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Multi-infarct Dementia</BroaderTerm>
+<BroaderTerm>Cerebral Infarction</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<Synonym>Multiinfarct Dementia</Synonym>
+<Synonym>Multi Infarct Dementia</Synonym>
+<Synonym>Multi-Infarct Dementias</Synonym>
+<Synonym>Dementia Multi Infarct</Synonym>
+<Synonym>Dementia Multi-Infarct</Synonym>
+<Synonym>Multi-infarct Dementia</Synonym>
+<Synonym>Multi-Infarct Dementia</Synonym>
+<Synonym>Multiinfarct Dementias</Synonym>
+<Synonym>Lacunar Dementias</Synonym>
+<Synonym>Lacunar Dementia</Synonym>
+<Synonym>Dementia Multi-Infarcts</Synonym>
+<Description>Loss of higher cortical functions with retained awareness due to multiple cortical or subcortical CEREBRAL INFARCTION. Memory, judgment, attention span, and impulse control are often impaired, and may be accompanied by PSEUDOBULBAR PALSY; HEMIPARESIS; reflex abnormalities, and other signs of localized neurologic dysfunction. (From Adams et al., Principles of Neurology, 6th ed, p1060)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

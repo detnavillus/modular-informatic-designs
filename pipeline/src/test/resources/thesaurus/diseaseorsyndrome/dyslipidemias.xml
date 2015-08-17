@@ -1,0 +1,19 @@
+<Record>
+<Term>Dyslipidemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipid Metabolism Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<ChildTerm>Hypolipoproteinemias</ChildTerm>
+<ChildTerm>Hyperlipidemias</ChildTerm>
+<ChildTerm>Smith-Lemli-Opitz Syndrome</ChildTerm>
+<Synonym>Dyslipidemias</Synonym>
+<Synonym>Dyslipidemia</Synonym>
+<Synonym>Dyslipoproteinemias</Synonym>
+<Synonym>Dyslipoproteinemia</Synonym>
+<Description>Abnormalities in the serum levels of LIPIDS, including overproduction or deficiency. Abnormal serum lipid profiles may include high total CHOLESTEROL, high TRIGLYCERIDES, low HIGH DENSITY LIPOPROTEIN CHOLESTEROL, and elevated LOW DENSITY LIPOPROTEIN CHOLESTEROL.</Description>
+<Source>MeSH</Source>
+</Record>

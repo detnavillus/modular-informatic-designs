@@ -1,0 +1,20 @@
+<Record>
+<Term>Relapsing Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Borrelia Infections</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Borrelia Infections/Relapsing Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Borrelia Infections/Relapsing Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Relapsing Fever</ClassificationPath>
+<BroaderTerm>Relapsing Fever</BroaderTerm>
+<BroaderTerm>Borrelia Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Relapsing Fever</Synonym>
+<Synonym>Relapsing Fevers</Synonym>
+<Description>An acute infection characterized by recurrent episodes of PYREXIA alternating with asymptomatic intervals of apparent recovery. This condition is caused by SPIROCHETES of the genus BORRELIA. It is transmitted by the BITES of either the body louse (PEDICULUS humanus corporis), for which humans are the reservoir, or by soft ticks of the genus ORNITHODOROS, for which rodents and other animals are the principal reservoirs.</Description>
+<Source>MeSH</Source>
+</Record>

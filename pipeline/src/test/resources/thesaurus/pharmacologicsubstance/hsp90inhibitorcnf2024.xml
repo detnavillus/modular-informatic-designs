@@ -1,0 +1,17 @@
+<Record>
+<Term>HSP90 Inhibitor CNF2024</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Heat Shock Protein Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Heat Shock Protein Inhibitor/HSP90 Inhibitor CNF2024</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>HSP90 Inhibitor CNF2024</BroaderTerm>
+<BroaderTerm>Heat Shock Protein Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CNF2024</Synonym>
+<Synonym>HSP90 Antagonist CNF2024</Synonym>
+<Synonym>HSP90 Inhibitor CNF2024</Synonym>
+<Description>An orally active inhibitor of heat shock protein 90 (HSP90) with potential antineoplastic activity. HSP90, a chaperon protein upregulated in a variety of tumor cells, regulates the folding and degradation of many oncogenic signaling proteins. HSP90 inhibitor CNF2024 specifically blocks active HSP90, thereby inhibiting its chaperon function and promoting the degradation of oncogenic signaling proteins involved in tumor cell proliferation and survival. As a result, CNF2024 has the potential to inhibit the growth of a wide range of cancer cells in both solid tumors and blood-based cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

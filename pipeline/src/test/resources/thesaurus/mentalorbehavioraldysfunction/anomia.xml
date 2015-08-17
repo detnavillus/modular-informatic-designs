@@ -1,0 +1,39 @@
+<Record>
+<Term>Anomia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Aphasia</ParentTerm>
+<ParentTerm>Language Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Anomia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Aphasia/Anomia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Anomia</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Aphasia</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Anomia</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<Synonym>Nominal Dysphasias</Synonym>
+<Synonym>Dysnomia</Synonym>
+<Synonym>Anomic Aphasia</Synonym>
+<Synonym>Amnesic Aphasia</Synonym>
+<Synonym>Anomia</Synonym>
+<Synonym>Anomic Dysphasia</Synonym>
+<Synonym>Color Anomia</Synonym>
+<Synonym>Color Anomias</Synonym>
+<Synonym>Nominal Dysphasia</Synonym>
+<Synonym>Nominal Aphasia</Synonym>
+<Synonym>Dysnomias</Synonym>
+<Synonym>Anomic Dysphasias</Synonym>
+<Description>A language dysfunction characterized by the inability to name people and objects that are correctly perceived. The individual is able to describe the object in question, but cannot provide the name. This condition is associated with lesions of the dominant hemisphere involving the language areas, in particular the TEMPORAL LOBE. (From Adams et al., Principles of Neurology, 6th ed, p484)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

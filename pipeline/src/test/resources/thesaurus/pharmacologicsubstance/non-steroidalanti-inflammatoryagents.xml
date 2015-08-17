@@ -1,0 +1,35 @@
+<Record>
+<Term>Non-Steroidal Anti-Inflammatory Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antirheumatic Agents</ParentTerm>
+<ParentTerm>Anti-Inflammatory Agents</ParentTerm>
+<ParentTerm>Analgesics, Non-Narcotic</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Analgesics/Analgesics, Non-Narcotic/Anti-Inflammatory Agents, Non-Steroidal</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antirheumatic Agents/Anti-Inflammatory Agents, Non-Steroidal</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Inflammatory Agents/Anti-Inflammatory Agents, Non-Steroidal</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Antirheumatic Agents</BroaderTerm>
+<BroaderTerm>Anti-Inflammatory Agents</BroaderTerm>
+<BroaderTerm>Analgesics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Analgesics, Non-Narcotic</BroaderTerm>
+<BroaderTerm>Anti-Inflammatory Agents, Non-Steroidal</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Cyclooxygenase Inhibitors</ChildTerm>
+<Synonym>Nonsteroidal Antiinflammatory Agents</Synonym>
+<Synonym>Non-Steroidal Antirheumatic Agents</Synonym>
+<Synonym>Nonsteroidal Anti-Inflammatory Agents</Synonym>
+<Synonym>Aspirin-Like Agents</Synonym>
+<Synonym>Aspirin Like Agents</Synonym>
+<Synonym>Non Steroidal Anti Inflammatory Agents</Synonym>
+<Synonym>Nonsteroidal Anti Inflammatory Agents</Synonym>
+<Synonym>Non-Steroidal Anti-Rheumatic Agents</Synonym>
+<Synonym>Anti-Inflammatory Analgesics</Synonym>
+<Synonym>NSAIDs</Synonym>
+<Synonym>Non-Steroidal Anti-Inflammatory Agents</Synonym>
+<Description>Anti-inflammatory agents that are not steroids. In addition to anti-inflammatory actions, they have analgesic, antipyretic, and platelet-inhibitory actions. They are used primarily in the treatment of chronic arthritic conditions and certain soft tissue disorders associated with pain and inflammation. They act by blocking the synthesis of prostaglandins by inhibiting cyclooxygenase, which converts arachidonic acid to cyclic endoperoxides, precursors of prostaglandins. Inhibition of prostaglandin synthesis accounts for their analgesic, antipyretic, and platelet-inhibitory actions; other mechanisms may contribute to their anti-inflammatory effects. Certain NSAIDs also may inhibit lipoxygenase enzymes or TYPE C PHOSPHOLIPASES or may modulate T-cell function. (AMA Drug Evaluations Annual, 1994, p 1814-5)</Description>
+<Source>MeSH</Source>
+</Record>

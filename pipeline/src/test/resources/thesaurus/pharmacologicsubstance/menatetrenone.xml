@@ -1,0 +1,17 @@
+<Record>
+<Term>Menatetrenone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vitamin, Other</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Vitamin, Other/Menatetrenone</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Menatetrenone</BroaderTerm>
+<BroaderTerm>Vitamin, Other</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>E0167</Synonym>
+<Synonym>MENATETRENONE</Synonym>
+<Synonym>Menaquinone-4</Synonym>
+<Synonym>Menatetrenone</Synonym>
+<Description>A menaquinone compound and form of vitamin K2 with potential antineoplastic activity. Menatetrenone may act by modulating the signalling of certain tyrosine kinases, thereby affecting several transcription factors including c-myc and c-fos. This agent inhibits tumor cell growth by inducing apoptosis and cell cycle arrest.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

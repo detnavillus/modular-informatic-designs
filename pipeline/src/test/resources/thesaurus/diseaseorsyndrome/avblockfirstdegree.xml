@@ -1,0 +1,26 @@
+<Record>
+<Term>AV Block First Degree</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Atrioventricular Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Atrioventricular Block/AV Block First Degree</ClassificationPath>
+<BroaderTerm>AV Block First Degree</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Atrioventricular Block</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>1ST DEGREE AV BLOCK</Synonym>
+<Synonym>1st degree AV block</Synonym>
+<Synonym>AV Block First Degree</Synonym>
+<Synonym>First Degree AV Block</Synonym>
+<Synonym>First Degree Atrioventricular Block</Synonym>
+<Synonym>Prolonged AV Conduction</Synonym>
+<Description>A delay in the time required for the conduction of an electrical impulse through the atrioventricular (AV) node beyond 0.2 seconds; prolongation of the PR interval beyond 200 milliseconds.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

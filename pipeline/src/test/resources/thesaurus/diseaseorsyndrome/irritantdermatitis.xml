@@ -1,0 +1,21 @@
+<Record>
+<Term>Irritant Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis, Contact</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Irritant</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Irritant</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Dermatitis, Irritant</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<ChildTerm>Dermatitis, Phototoxic</ChildTerm>
+<ChildTerm>Diaper Rash</ChildTerm>
+<Synonym>Primary Irritant Dermatitis</Synonym>
+<Synonym>Irritant Dermatitis</Synonym>
+<Synonym>Irritant Dermatitides</Synonym>
+<Synonym>Primary Irritant Dermatitides</Synonym>
+<Description>A non-allergic contact dermatitis caused by prolonged exposure to irritants and not explained by delayed hypersensitivity mechanisms.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,51 @@
+<Record>
+<Term>Estrogen Receptor Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Hormone Antagonist</ParentTerm>
+<ParentTerm>Hormone Antagonists</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Estrogen Receptor Modulators</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Antiestrogen</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Estrogen Receptor Modulators</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Antiestrogen</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Estrogen Receptor Modulators</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Bazedoxifene</ChildTerm>
+<ChildTerm>Zuclomiphene Citrate</ChildTerm>
+<ChildTerm>Clomiphene Citrate</ChildTerm>
+<ChildTerm>Fispemifene</ChildTerm>
+<ChildTerm>Clomiphene</ChildTerm>
+<ChildTerm>Enclomiphene</ChildTerm>
+<ChildTerm>Mepitiostane</ChildTerm>
+<ChildTerm>Enclomiphene Citrate</ChildTerm>
+<ChildTerm>TAS-108</ChildTerm>
+<ChildTerm>Estrogen Antagonists</ChildTerm>
+<ChildTerm>Selective Estrogen Receptor Down Regulator</ChildTerm>
+<ChildTerm>Selective Estrogen Receptor Modulators</ChildTerm>
+<ChildTerm>Zindoxifene</ChildTerm>
+<ChildTerm>Panomifene</ChildTerm>
+<ChildTerm>Afimoxifene</ChildTerm>
+<ChildTerm>Clometherone</ChildTerm>
+<ChildTerm>Zuclomiphene</ChildTerm>
+<Synonym>Antiestrogen</Synonym>
+<Synonym>Estrogen Inhibitor</Synonym>
+<Synonym>Estrogen Antagonist</Synonym>
+<Synonym>Antiestrogenic</Synonym>
+<Synonym>Estrogen Receptor Modulators</Synonym>
+<Synonym>Antiestrogens</Synonym>
+<Synonym>Anti-Estrogens</Synonym>
+<Synonym>Estrogen Receptor Modulator</Synonym>
+<Synonym>antiestrogen</Synonym>
+<Description>Substances that possess antiestrogenic actions but can also produce estrogenic effects as well. They act as complete or partial agonist or as antagonist. They can be either steroidal or nonsteroidal in structure.</Description>
+<Description>Substances that inhibit or antagonize the biosynthesis or biologic effects of estrogens by either antagonizing the responsiveness of estrogen sensitive tissues or competing with their binding sites.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

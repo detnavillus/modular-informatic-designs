@@ -1,0 +1,28 @@
+<Record>
+<Term>Travoprost</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Prostaglandin Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Travoprost,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Physiology-Regulatory Factor/Eicosanoid/Prostaglandin Compound/Travoprost</ClassificationPath>
+<BroaderTerm>Eicosanoid</BroaderTerm>
+<BroaderTerm>Physiology-Regulatory Factor</BroaderTerm>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Travoprost,</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Travoprost</BroaderTerm>
+<BroaderTerm>Prostaglandin Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Travatan z</Synonym>
+<Synonym>Travatan</Synonym>
+<Synonym>Travatan Z</Synonym>
+<Synonym>5-Heptenoic Acid, 7-((1R,2R,3R,5S)-3,5-dihydroxy-2-((1E,3R)-3-hydroxy-4-(3-(trifluoromethyl)phenoxy)-1-butenyl)cyclopentyl)-, 1-methylethyl Ester,(5Z)-</Synonym>
+<Synonym>Travoprost</Synonym>
+<Synonym>AL-6221</Synonym>
+<Synonym>TRAVOPROST</Synonym>
+<Description>A synthetic lipophilic isopropyl ester prodrug of the active compound travoprost free acid, a prostaglandin F2alpha analog with anti-glaucoma property. Upon administration, travoprost is hydrolysed to a free acid by corneal esterases, and then selectively stimulating the prostaglandin F (FP prostanoid) receptor, thereby increasing the uveoscleral outflow which leads to a reduction in intra-ocular pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

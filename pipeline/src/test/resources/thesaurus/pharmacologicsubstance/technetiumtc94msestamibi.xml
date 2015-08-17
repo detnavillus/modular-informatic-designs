@@ -1,0 +1,15 @@
+<Record>
+<Term>Technetium Tc 94m Sestamibi</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Technetium Tc 94m Sestamibi</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Technetium Tc 94m Sestamibi</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Technetium Tc 94m Sestamibi</Synonym>
+<Description>A radioconjugate consisting of sestamibi labeled with the positron-emitting isotope Tc 94m. Sestamibi is a synthetic molecule of the isonitrile family that diffuses through cell membranes and may preferentially accumulate within mitochondria. Technetium Tc 94m sestamibi may be used in tumor-imaging studies utilizing positron emission tomography (PET). (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

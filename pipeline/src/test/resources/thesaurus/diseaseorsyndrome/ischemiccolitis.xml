@@ -1,0 +1,21 @@
+<Record>
+<Term>Ischemic Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Colitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Colitis, Ischemic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Colitis, Ischemic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Colitis, Ischemic</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Colitis, Ischemic</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Ischemic Colitis</Synonym>
+<Description>Inflammation of the COLON due to colonic ISCHEMIA resulting from alterations in systemic circulation or local vasculature.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,41 @@
+<Record>
+<Term>Membranous Glomerulonephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glomerulonephritis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Glomerulonephritis, Membranous</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulonephritis, Membranous</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephritis/Glomerulonephritis/Membranous Glomerulonephritis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulonephritis, Membranous</ClassificationPath>
+<BroaderTerm>Membranous Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Glomerulonephritis, Membranous</BroaderTerm>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<Synonym>Membranous Nephropathy</Synonym>
+<Synonym>Membranous Glomerulopathy</Synonym>
+<Synonym>Membranous Glomerulonephritis</Synonym>
+<Synonym>Idiopathic Membranous Glomerulonephritides</Synonym>
+<Synonym>Idiopathic Membranous Glomerulonephritis</Synonym>
+<Synonym>Membranous Glomerulonephritides</Synonym>
+<Synonym>Extramembranous Glomerulopathy</Synonym>
+<Synonym>Heymann Nephritis</Synonym>
+<Synonym>Membranous Glomerulonephropathy</Synonym>
+<Synonym>Idiopathic Membranous Nephropathy</Synonym>
+<Description>A type of glomerulonephritis that is characterized by the accumulation of immune deposits (COMPLEMENT MEMBRANE ATTACK COMPLEX) on the outer aspect of the GLOMERULAR BASEMENT MEMBRANE. It progresses from subepithelial dense deposits, to basement membrane reaction and eventual thickening of the basement membrane.An experimental rat model of human membranous nephropathy characterized by complement activation and formation of subepithelial immune deposits in the glomerular capillary wall.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

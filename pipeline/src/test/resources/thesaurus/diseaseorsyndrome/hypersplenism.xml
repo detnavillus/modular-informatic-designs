@@ -1,0 +1,24 @@
+<Record>
+<Term>Hypersplenism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Splenic Diseases</ParentTerm>
+<ParentTerm>Hematopoietic System Finding</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Splenic Diseases/Hypersplenism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Hematopoietic System Finding/Hypersplenism</ClassificationPath>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hypersplenism</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Splenic Diseases</BroaderTerm>
+<BroaderTerm>Hematopoietic System Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Splenic Anemia</Synonym>
+<Synonym>Hypersplenism</Synonym>
+<Synonym>Splenic Anemias</Synonym>
+<Description>Condition characterized by splenomegaly, some reduction in the number of circulating blood cells in the presence of a normal or hyperactive bone marrow, and the potential for reversal by splenectomy.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

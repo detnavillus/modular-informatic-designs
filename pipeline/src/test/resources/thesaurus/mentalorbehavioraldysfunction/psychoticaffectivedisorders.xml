@@ -1,0 +1,17 @@
+<Record>
+<Term>Psychotic Affective Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mood Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders/Affective Disorders, Psychotic</ClassificationPath>
+<BroaderTerm>Affective Disorders, Psychotic</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<ChildTerm>Bipolar Disorder</ChildTerm>
+<Synonym>Affective Psychoses</Synonym>
+<Synonym>Psychotic Affective Disorders</Synonym>
+<Synonym>Psychotic Affective Disorder</Synonym>
+<Synonym>Psychotic Mood Disorders</Synonym>
+<Synonym>Psychotic Mood Disorder</Synonym>
+<Description>Disorders in which the essential feature is a severe disturbance in mood (depression, anxiety, elation, and excitement) accompanied by psychotic symptoms such as delusions, hallucinations, gross impairment in reality testing, etc.</Description>
+<Source>MeSH</Source>
+</Record>

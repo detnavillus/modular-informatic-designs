@@ -1,0 +1,16 @@
+<Record>
+<Term>Leber Congenital Amaurosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Eye Diseases, Hereditary</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Diseases, Hereditary/Leber Congenital Amaurosis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Leber Congenital Amaurosis</ClassificationPath>
+<BroaderTerm>Leber Congenital Amaurosis</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Leber Congenital Amauroses</Synonym>
+<Synonym>Leber Congenital Amaurosis</Synonym>
+<Description>A rare degenerative inherited eye disease that appears at birth or in the first few months of life that results in a loss of vision. Not to be confused with LEBER HEREDITARY OPTIC NEUROPATHY, the disease is thought to be caused by abnormal development of PHOTORECEPTOR CELLS in the RETINA, or by the extremely premature degeneration of retinal cells.</Description>
+<Source>MeSH</Source>
+</Record>

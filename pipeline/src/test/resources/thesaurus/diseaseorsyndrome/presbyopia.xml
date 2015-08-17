@@ -1,0 +1,13 @@
+<Record>
+<Term>Presbyopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Refractive Errors</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors/Presbyopia</ClassificationPath>
+<BroaderTerm>Presbyopia</BroaderTerm>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Presbyopia</Synonym>
+<Synonym>Presbyopias</Synonym>
+<Description>The normal decreasing elasticity of the crystalline lens that leads to loss of accommodation.</Description>
+<Source>MeSH</Source>
+</Record>

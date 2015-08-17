@@ -1,0 +1,17 @@
+<Record>
+<Term>Vaccinia virus DD-CDSR Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Vaccinia virus DD-CDSR Vaccine</ClassificationPath>
+<BroaderTerm>Vaccinia virus DD-CDSR Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Vaccinia virus DD-CDSR Vaccine</Synonym>
+<Description>A highly tumor-selective vaccinia virus (vv) with an engineered double deletion (DD) of the thymidine kinase (tk) and vaccinia growth factor genes and additions of both a cytosine deaminase (CD) gene and a somatostatin receptor (SR) gene with potential oncolytic viral activity. The tk and vaccinia growth factor gene deletions in intratumorally administered vaccinia virus (vvDD-CDSR) help to restrict its replication and cytolytic activity to tumor cells with large nucleotide pools and tumor cells with activation of the EGFR-Ras pathway. Addition of the CD gene to the viral genome allows control of oncolytic viral infection through the administration of the prodrug 5-fluorocytosine (5-FC), converted by CD to the antimetabolite 5-fluorouracil (5-FU) in cells infected with this agent. Addition of the SR gene allows anatomical localization of vaccinia virus (vvDD-CDSR) through the use of octreotide scintigraphy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

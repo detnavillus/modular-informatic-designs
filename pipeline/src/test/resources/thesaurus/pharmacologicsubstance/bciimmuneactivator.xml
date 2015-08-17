@@ -1,0 +1,16 @@
+<Record>
+<Term>BCI Immune Activator</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/BCI Immune Activator</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>BCI Immune Activator</BroaderTerm>
+<Synonym>BCI Immune Activator</Synonym>
+<Synonym>Modified Keyhole Limpet Hemocyanin</Synonym>
+<Description>A purified Keyhole Limpet Hemocyanin, a potent antigenic protein capable of eliciting both humoral and cellular immune responses against tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

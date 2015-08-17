@@ -1,0 +1,48 @@
+<Record>
+<Term>Tourette Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ParentTerm>Tic Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Tourette Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Tourette Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Tic Disorders/Tourette Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Tic Disorders/Tourette Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Tourette Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Tourette Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Tourette Syndrome</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Tic Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<Synonym>Combined Vocal and Multiple Motor Tic Disorder</Synonym>
+<Synonym>Tourette's Disorder</Synonym>
+<Synonym>Tourette Disease</Synonym>
+<Synonym>Gilles de la Tourette Syndrome</Synonym>
+<Synonym>Tourettes Disorder</Synonym>
+<Synonym>Tourette Syndrome</Synonym>
+<Synonym>Tourette's Syndrome</Synonym>
+<Synonym>Gilles de la Tourette's Disease</Synonym>
+<Synonym>Tourette Disorder</Synonym>
+<Synonym>Tourette's Disease</Synonym>
+<Synonym>Combined Multiple Motor and Vocal Tic Disorder</Synonym>
+<Synonym>Tourettes Syndrome</Synonym>
+<Synonym>Tourettes Disease</Synonym>
+<Description>A neuropsychological disorder related to alterations in DOPAMINE metabolism and neurotransmission involving frontal-subcortical neuronal circuits. Both multiple motor and one or more vocal tics need to be present with TICS occurring many times a day, nearly daily, over a period of more than one year. The onset is before age 18 and the disturbance is not due to direct physiological effects of a substance or a general medical condition. The disturbance causes marked distress or significant impairment in social, occupational, or other important areas of functioning. (From DSM-IV, 1994; Neurol Clin 1997 May;15(2):357-79)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

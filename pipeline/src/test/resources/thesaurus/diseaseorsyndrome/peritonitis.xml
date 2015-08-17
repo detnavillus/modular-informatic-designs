@@ -1,0 +1,27 @@
+<Record>
+<Term>Peritonitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Peritoneal Disorder</ParentTerm>
+<ParentTerm>Peritoneal Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Peritoneal Disorder/Non-Neoplastic Peritoneal Disorder/Peritonitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Peritoneal Diseases/Peritonitis</ClassificationPath>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Peritoneal Disorder</BroaderTerm>
+<BroaderTerm>Peritoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Peritonitis</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Peritoneal Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sclerosing Peritonitis</ChildTerm>
+<ChildTerm>Peritonitis, Tuberculous</ChildTerm>
+<ChildTerm>Subphrenic Abscess</ChildTerm>
+<Synonym>Peritonitis</Synonym>
+<Synonym>Secondary Peritonitis</Synonym>
+<Synonym>Primary Peritonitis</Synonym>
+<Description>INFLAMMATION of the PERITONEUM lining the ABDOMINAL CAVITY as the result of infectious, autoimmune, or chemical processes. Primary peritonitis is due to infection of the PERITONEAL CAVITY via hematogenous or lymphatic spread and without intra-abdominal source. Secondary peritonitis arises from the ABDOMINAL CAVITY itself through RUPTURE or ABSCESS of intra-abdominal organs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

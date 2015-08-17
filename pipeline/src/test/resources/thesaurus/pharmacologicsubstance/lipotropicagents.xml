@@ -1,0 +1,26 @@
+<Record>
+<Term>Lipotropic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Gastrointestinal Agents</ParentTerm>
+<ParentTerm>Antilipemic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites/Antilipemic Agents/Lipotropic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Gastrointestinal Agents/Lipotropic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antilipemic Agents/Lipotropic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Lipotropic Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Gastrointestinal Agents</BroaderTerm>
+<BroaderTerm>Antilipemic Agents</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Lipotropic Agents</Synonym>
+<Synonym>Lipotropics</Synonym>
+<Synonym>Lipocaic</Synonym>
+<Synonym>Lipotropic Factors</Synonym>
+<Synonym>Lipotropic Drugs</Synonym>
+<Description>Endogenous factors or drugs that act on fat metabolism by hastening the removal of or decreasing the deposit of fat in the liver. (From Dorland, 28th ed, p951)</Description>
+<Source>MeSH</Source>
+</Record>

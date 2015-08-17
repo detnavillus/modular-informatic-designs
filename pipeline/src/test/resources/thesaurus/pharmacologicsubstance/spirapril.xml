@@ -1,0 +1,25 @@
+<Record>
+<Term>Spirapril</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>ACE Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/ACE Inhibitor/Spirapril Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/ACE Inhibitor/Spirapril</ClassificationPath>
+<BroaderTerm>Spirapril Hydrochloride</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Spirapril</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>ACE Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Spirapril Hydrochloride</Synonym>
+<Synonym>Spirapril</Synonym>
+<Synonym>Renormax</Synonym>
+<Synonym>SPIRAPRIL</Synonym>
+<Synonym>SPIRAPRIL HYDROCHLORIDE</Synonym>
+<Synonym>Spirapril hydrochloride</Synonym>
+<Description>The hydrochloride salt form of spirapril, a prodrug and non-sulfhydryl angiotensin converting enzyme (ACE) inhibitor with antihypertensive activity. Spirapril is converted in the body to its active metabolite spiraprilat. Spiraprilat competitively binds to and inhibits ACE, thereby blocking the conversion of angiotensin I to angiotensin II. This prevents the potent vasoconstrictive actions of angiotensin II and results in vasodilation. Spirapril also decreases angiotensin II-induced aldosterone secretion by the adrenal cortex, which leads to an increase in sodium excretion and subsequently increases water outflow.</Description>
+<Description>A prodrug and non-sulfhydryl angiotensin converting enzyme (ACE) inhibitor with antihypertensive activity. Spirapril is converted in the body to its active metabolite spiraprilat. Spiraprilat competitively binds to and inhibits ACE, thereby blocking the conversion of angiotensin I to angiotensin II. This prevents the potent vasoconstrictive actions of angiotensin II and results in vasodilation. Spirapril also decreases angiotensin II-induced aldosterone secretion by the adrenal cortex, which leads to an increase in sodium excretion and subsequently increases water outflow.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

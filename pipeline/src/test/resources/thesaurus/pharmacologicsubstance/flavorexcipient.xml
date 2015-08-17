@@ -1,0 +1,18 @@
+<Record>
+<Term>Flavor Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Flavor Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Flavor Excipient</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Drug Flavoring Agent</Synonym>
+<Synonym>Flavor</Synonym>
+<Synonym>Flavor Excipient</Synonym>
+<Synonym>Flavoring Excipient</Synonym>
+<Description>Therapeutically inactive natural or synthetic ingredient(s) of pharmaceutical dosage form used to improve drug palatability. Flavors are often complex mixtures of compounds and often fall under the rubric of trade secrets, being unspecified on labels. Such nondisclosure can cause difficulties in identifying flavor-related adverse events, e.g. allergic reactions from common allergens such as menthol, lemon oil, or peppermint oil.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

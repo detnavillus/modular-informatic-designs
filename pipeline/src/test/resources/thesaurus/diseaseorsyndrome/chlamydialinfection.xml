@@ -1,0 +1,17 @@
+<Record>
+<Term>Chlamydial Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Chlamydial Infection</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Chlamydial Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ornithosis</ChildTerm>
+<ChildTerm>Chlamydia Psittaci Infection</ChildTerm>
+<Synonym>Chlamydial Infection</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

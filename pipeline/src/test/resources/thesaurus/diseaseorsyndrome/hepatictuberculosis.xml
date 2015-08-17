@@ -1,0 +1,21 @@
+<Record>
+<Term>Hepatic Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Hepatic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Tuberculosis, Hepatic</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis, Hepatic</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Hepatic Tuberculosis</Synonym>
+<Synonym>Hepatic Tuberculoses</Synonym>
+<Description>Infection of the LIVER with species of MYCOBACTERIUM, most often MYCOBACTERIUM TUBERCULOSIS. It is characterized by localized small tuberculous miliary lesions or tumor-like mass (TUBERCULOMA), and abnormalities in liver function tests.</Description>
+<Source>MeSH</Source>
+</Record>

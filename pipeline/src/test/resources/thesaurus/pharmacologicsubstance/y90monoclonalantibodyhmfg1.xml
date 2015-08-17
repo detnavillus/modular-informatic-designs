@@ -1,0 +1,20 @@
+<Record>
+<Term>Y 90 Monoclonal Antibody HMFG1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Y 90 Monoclonal Antibody HMFG1</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Y 90 Monoclonal Antibody HMFG1</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MOAB HMFG1, yttrium Y 90</Synonym>
+<Synonym>Y 90 MoAb HMFG1</Synonym>
+<Synonym>Y 90 Monoclonal Antibody HMFG1</Synonym>
+<Synonym>Yttrium Y 90 Monoclonal Antibody HMFG1</Synonym>
+<Synonym>monoclonal antibody HMFG1, yttrium Y 90</Synonym>
+<Synonym>yttrium Y 90 MOAB HMFG1</Synonym>
+<Description>A radioimmunoconjugate of humanized monoclonal antibody (MoAb) HMFG1 labeled with Yttrium 90 (Y-90). MoAb MFG1 was raised against Human Milk Fat Globules and reacts with an epitope (PDTR) in the protein core of MUC1 mucins, which are up-regulated in human breast and other carcinomas.Y-90 MoAb HMFG1 delivers beta particle emitting Y-90 radionuclide directly to tumor cells that express MUC1, thereby this agent may be used in radioimmunotherapy of cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

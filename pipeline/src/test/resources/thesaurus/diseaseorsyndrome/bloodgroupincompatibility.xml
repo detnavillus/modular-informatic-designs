@@ -1,0 +1,18 @@
+<Record>
+<Term>Blood Group Incompatibility</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Group Incompatibility</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Blood Group Incompatibility</ClassificationPath>
+<BroaderTerm>Blood Group Incompatibility</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Rh Isoimmunization</ChildTerm>
+<ChildTerm>Erythroblastosis, Fetal</ChildTerm>
+<Synonym>Blood Group Incompatibility</Synonym>
+<Synonym>Blood Group Incompatibilities</Synonym>
+<Description>A mismatch between donor and recipient blood. Antibodies present in the recipient's serum are directed against antigens in the donor product. Such a mismatch may result in a transfusion reaction in which, for example, donor blood is hemolyzed. (From Saunders Dictionary &amp; Encyclopedia of Laboratory Medicine and Technology, 1984)</Description>
+<Source>MeSH</Source>
+</Record>

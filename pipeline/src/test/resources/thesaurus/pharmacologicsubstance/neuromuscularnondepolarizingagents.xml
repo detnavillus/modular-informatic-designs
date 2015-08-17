@@ -1,0 +1,21 @@
+<Record>
+<Term>Neuromuscular Nondepolarizing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neuromuscular Blocking Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Neuromuscular Agents/Neuromuscular Blocking Agents/Neuromuscular Nondepolarizing Agents</ClassificationPath>
+<BroaderTerm>Neuromuscular Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Neuromuscular Nondepolarizing Agents</BroaderTerm>
+<BroaderTerm>Neuromuscular Blocking Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Neuromuscular Nondepolarizing Agents</Synonym>
+<Synonym>Curariform Drugs</Synonym>
+<Synonym>Nondepolarizing Blockers</Synonym>
+<Synonym>Curare-Like Agents</Synonym>
+<Synonym>Curare Like Agents</Synonym>
+<Synonym>Non-Depolarizing Muscle Relaxants</Synonym>
+<Description>Drugs that interrupt transmission at the skeletal neuromuscular junction without causing depolarization of the motor end plate. They prevent acetylcholine from triggering muscle contraction and are used as muscle relaxants during electroshock treatments, in convulsive states, and as anesthesia adjuvants.</Description>
+<Source>MeSH</Source>
+</Record>

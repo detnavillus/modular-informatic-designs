@@ -1,0 +1,39 @@
+<Record>
+<Term>Ovarian Cysts</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cysts</ParentTerm>
+<ParentTerm>Ovarian Diseases</ParentTerm>
+<ParentTerm>Mouse Non-Neoplastic Ovarian Proliferative Disorder</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Reproductive System Disorder/Mouse Female Reproductive System Disorder/Mouse Ovarian Disorder/Mouse Non-Neoplastic Ovarian Proliferative Disorder/Mouse Ovarian Cysts</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Ovarian Diseases/Ovarian Cysts</ClassificationPath>
+<ClassificationPath>Neoplasms/Cysts/Ovarian Cysts</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Ovarian Diseases/Ovarian Cysts</ClassificationPath>
+<BroaderTerm>Mouse Ovarian Disorder</BroaderTerm>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Mouse Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Ovarian Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Ovarian Cysts</BroaderTerm>
+<BroaderTerm>Mouse Non-Neoplastic Ovarian Proliferative Disorder</BroaderTerm>
+<BroaderTerm>Mouse Ovarian Cysts</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<ChildTerm>Polycystic Ovary Syndrome</ChildTerm>
+<Synonym>Ovarian Cyst</Synonym>
+<Synonym>Corpus Luteum Cysts</Synonym>
+<Synonym>Ovarian Cysts</Synonym>
+<Synonym>Mouse Ovarian Cysts</Synonym>
+<Synonym>Corpus Luteum Cyst</Synonym>
+<Description>General term for CYSTS and cystic diseases of the OVARY.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Yttrium Y 90 Anti-CD19 Monoclonal Antibody BU12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Anti-CD19 Monoclonal Antibody BU12</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Yttrium Y 90 Anti-CD19 Monoclonal Antibody BU12</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Yttrium Y 90 Anti-CD19 Monoclonal Antibody BU12</Synonym>
+<Description>A radioimmunoconjugate consisting of the murine IgG1 anti-CD19 monoclonal antibody (MoAb) BU12 labeled with the beta-emitting radioisotope yttrium Y 90 with radioisotopic and antibody activities. Yttrium Y 90 anti-CD19 monoclonal antibody BU12 binds to the CD19 molecule, specifically delivering cytotoxic beta radiation to CD19-expressing B cells. CD19 is a membrane antigen that is widely expressed during B-cell development, from pro-B-cell to early plasma cell stages.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

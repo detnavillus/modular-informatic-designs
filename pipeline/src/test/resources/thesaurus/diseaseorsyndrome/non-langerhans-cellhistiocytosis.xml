@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-Langerhans-Cell Histiocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Histiocytosis</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<ChildTerm>Sea-Blue Histiocyte Syndrome</ChildTerm>
+<ChildTerm>Xanthogranuloma, Juvenile</ChildTerm>
+<ChildTerm>Histiocytosis, Sinus</ChildTerm>
+<ChildTerm>Erdheim-Chester Disease</ChildTerm>
+<ChildTerm>Lymphohistiocytosis, Hemophagocytic</ChildTerm>
+<ChildTerm>Niemann-Pick Diseases</ChildTerm>
+<Synonym>Non-Langerhans-Cell Histiocytosis</Synonym>
+<Synonym>Xanthoma Disseminatum</Synonym>
+<Synonym>Reticulohistiocytoma</Synonym>
+<Synonym>Reticulohistiocytomas</Synonym>
+<Description>Group of disorders which feature accumulations of active HISTIOCYTES and LYMPHOCYTES, but where the histiocytes are not LANGERHANS CELLS. The group includes HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS;  SINUS HISTIOCYTOSIS; xanthogranuloma; reticulohistiocytoma;  JUVENILE XANTHOGRANULOMA;  xanthoma disseminatum; as well as the lipid storage diseases (SEA-BLUE HISTIOCYTE SYNDROME; and NIEMANN-PICK DISEASES).</Description>
+<Source>MeSH</Source>
+</Record>

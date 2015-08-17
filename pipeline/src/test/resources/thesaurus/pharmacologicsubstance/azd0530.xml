@@ -1,0 +1,16 @@
+<Record>
+<Term>AZD0530</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/AZD0530</ClassificationPath>
+<BroaderTerm>AZD0530</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AZD0530</Synonym>
+<Description>An orally available 5-, 7-substituted anilinoquinazoline with anti-invasive and anti-tumor activities. AZD0530 is a dual-specific inhibitor of Src and Abl, protein tyrosine kinases that are overexpressed in chronic myeloid leukemia cells. This agent binds to and inhibits these tyrosine kinases and their effects on cell motility, cell migration, adhesion, invasion, proliferation, differentiation, and survival. Specifically, AZD0530 inhibits Src kinase-mediated osteoclast bone resorption.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

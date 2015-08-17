@@ -1,0 +1,17 @@
+<Record>
+<Term>Acute Appendicitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Intestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Acute Appendicitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Acute Appendicitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Acute Appendicitis</Synonym>
+<Description>Acute inflammation of the vermiform appendix.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

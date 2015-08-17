@@ -1,0 +1,32 @@
+<Record>
+<Term>Potassium Dichromate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Chromium Hexavalent Compound</ParentTerm>
+<ParentTerm>Potassium Compounds</ParentTerm>
+<ParentTerm>Chromates</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Chemical Modifier/Carcinogen/Chemical Carcinogen/Inorganic Carcinogen/Carcinogenic Metal/Chromium Hexavalent Compound/Potassium Dichromate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chromium Compounds/Chromates/Potassium Dichromate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Potassium Compounds/Potassium Dichromate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Chromium Hexavalent Compound</BroaderTerm>
+<BroaderTerm>Chemical Modifier</BroaderTerm>
+<BroaderTerm>Inorganic Carcinogen</BroaderTerm>
+<BroaderTerm>Potassium Dichromate</BroaderTerm>
+<BroaderTerm>Carcinogen</BroaderTerm>
+<BroaderTerm>Chromium Compounds</BroaderTerm>
+<BroaderTerm>Potassium Compounds</BroaderTerm>
+<BroaderTerm>Chemical Carcinogen</BroaderTerm>
+<BroaderTerm>Carcinogenic Metal</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Chromates</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>K2Cr2O7</Synonym>
+<Synonym>Potassium Bichromate</Synonym>
+<Synonym>Potassium Dichromate</Synonym>
+<Description>Chromic acid (H2Cr2O7), dipotassium salt. A compound having bright orange-red crystals and used in dyeing, staining, tanning leather, as bleach, oxidizer, depolarizer for dry cells, etc. Medically it has been used externally as an astringent, antiseptic, and caustic. When taken internally, it is a corrosive poison.</Description>
+<Description>An orange to red colored, crystalline, inorganic compound that emits toxic chromium fumes upon heating. Potassium dichromate is highly corrosive and is a strong oxidizing agent. This substance is used in wood preservatives, in the manufacture of pigments and in photomechanical processes, but is mainly replaced by sodium dichromate. Potassium dichromate primarily affects the respiratory tract causing ulcerations, shortness of breath, bronchitis, pneumonia and asthma but can also affect the gastrointestinal tract, liver, kidneys and immune system. This substance is a known human carcinogen and is associated with an increased risk of developing lung cancer and cancer of the sinonasal cavity. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

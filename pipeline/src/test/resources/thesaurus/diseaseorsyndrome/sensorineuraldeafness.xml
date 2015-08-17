@@ -1,0 +1,23 @@
+<Record>
+<Term>Sensorineural Deafness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sensory Hearing Loss</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Hearing Disorder/Hearing Loss/Deafness/Sensorineural Deafness,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Non-Neoplastic Internal Ear Disorder/Sensory Hearing Loss/Sensorineural Deafness</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Sensory Hearing Loss</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Internal Ear Disorder</BroaderTerm>
+<BroaderTerm>Sensorineural Deafness</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Deafness</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Sensorineural Deafness,</BroaderTerm>
+<BroaderTerm>Hearing Disorder</BroaderTerm>
+<Synonym>Sensorineural Deafness</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

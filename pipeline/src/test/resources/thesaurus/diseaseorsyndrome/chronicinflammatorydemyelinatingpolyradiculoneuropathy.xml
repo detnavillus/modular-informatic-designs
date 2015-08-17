@@ -1,0 +1,27 @@
+<Record>
+<Term>Chronic Inflammatory Demyelinating Polyradiculoneuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyradiculoneuropathy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Polyradiculoneuropathy/Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy/Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Polyradiculoneuropathy/Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy/Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</ClassificationPath>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Polyradiculoneuropathy</BroaderTerm>
+<BroaderTerm>Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Chronic Inflammatory Polyradiculoneuropathies</Synonym>
+<Synonym>Chronic Inflammatory Polyradiculoneuropathy</Synonym>
+<Synonym>Chronic Inflammatory Polyradiculopathies</Synonym>
+<Synonym>CIDP</Synonym>
+<Synonym>Chronic Inflammatory Demyelinating Polyradiculoneuropathy</Synonym>
+<Synonym>Chronic Inflammatory Polyradiculopathy</Synonym>
+<Description>A slowly progressive autoimmune demyelinating disease of peripheral nerves and nerve roots. Clinical manifestations include weakness and sensory loss in the extremities and enlargement of peripheral nerves. The course may be relapsing-remitting or demonstrate a step-wise progression. Protein is usually elevated in the spinal fluid and cranial nerves are typically spared. GUILLAIN-BARRE SYNDROME features a relatively rapid progression of disease which distinguishes it from this condition. (Adams et al., Principles of Neurology, 6th ed, p1337)</Description>
+<Source>MeSH</Source>
+</Record>

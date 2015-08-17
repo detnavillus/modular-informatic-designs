@@ -1,0 +1,20 @@
+<Record>
+<Term>Adenovirus 5-CD40 Ligand</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Adenovirus 5-CD40 Ligand</ClassificationPath>
+<BroaderTerm>Adenovirus 5-CD40 Ligand</BroaderTerm>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad-CD154</Synonym>
+<Synonym>Ad-CD40 Ligand</Synonym>
+<Synonym>Ad-CD40L</Synonym>
+<Synonym>Adenovirus 5-CD40 Ligand</Synonym>
+<Description>An adenovirus vector engineered to produce CD40 ligand.  For use as a possible gene therapy agent.  May induce apoptosis through the TNF pathway.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

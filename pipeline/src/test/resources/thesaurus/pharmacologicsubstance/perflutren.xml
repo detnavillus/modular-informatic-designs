@@ -1,0 +1,22 @@
+<Record>
+<Term>Perflutren</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Diagnostic Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/Perflutren</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Perflutren</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Octafluoropropane</Synonym>
+<Synonym>Freon 218</Synonym>
+<Synonym>Perfluoropropane</Synonym>
+<Synonym>PERFLUTREN</Synonym>
+<Synonym>Perflutren</Synonym>
+<Synonym>Definity</Synonym>
+<Description>A fluorinated hydrocarbon and gaseous substance used as an imaging contrast agent. After administration in microsphere form, perflutren exhibits lower acoustic impedance than blood and improves ultrasound signaling.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

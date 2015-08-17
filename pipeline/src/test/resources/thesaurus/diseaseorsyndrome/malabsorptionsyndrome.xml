@@ -1,0 +1,25 @@
+<Record>
+<Term>Malabsorption Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Malabsorption Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Malabsorption Syndrome</ClassificationPath>
+<BroaderTerm>Malabsorption Syndrome</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Malabsorption Syndrome,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Tropical Sprue</ChildTerm>
+<ChildTerm>Celiac Disease</ChildTerm>
+<ChildTerm>Blind Loop Syndrome</ChildTerm>
+<ChildTerm>Lactose Intolerance</ChildTerm>
+<ChildTerm>Intestinal Disaccharidase Deficiency and Disaccharidase Malabsorption</ChildTerm>
+<Synonym>Malabsorption Syndrome</Synonym>
+<Synonym>malabsorption syndrome</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

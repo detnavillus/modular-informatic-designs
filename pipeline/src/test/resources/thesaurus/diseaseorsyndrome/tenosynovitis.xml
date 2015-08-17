@@ -1,0 +1,15 @@
+<Record>
+<Term>Tenosynovitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tendinopathy</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Tendinopathy/Tenosynovitis</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Tenosynovitis</BroaderTerm>
+<BroaderTerm>Tendinopathy</BroaderTerm>
+<ChildTerm>Tendon Entrapment</ChildTerm>
+<Synonym>Tenosynovitis</Synonym>
+<Synonym>Tenosynovitides</Synonym>
+<Description>Inflammation of the synovial lining of a tendon sheath. Causes include trauma, tendon stress, bacterial disease (gonorrhea, tuberculosis), rheumatic disease, and gout. Common sites are the hand, wrist, shoulder capsule, hip capsule, hamstring muscles, and Achilles tendon. The tendon sheaths become inflamed and painful, and accumulate fluid. Joint mobility is usually reduced.</Description>
+<Source>MeSH</Source>
+</Record>

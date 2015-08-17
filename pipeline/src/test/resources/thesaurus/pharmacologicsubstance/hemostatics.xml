@@ -1,0 +1,17 @@
+<Record>
+<Term>Hemostatics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Coagulants</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Coagulants/Hemostatics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Coagulants</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hemostatics</BroaderTerm>
+<ChildTerm>Antifibrinolytic Agents</ChildTerm>
+<Synonym>Hemostatics</Synonym>
+<Synonym>Antihemorrhagics</Synonym>
+<Description>Agents acting to arrest the flow of blood. Absorbable hemostatics arrest bleeding either by the formation of an artificial clot or by providing a mechanical matrix that facilitates clotting when applied directly to the bleeding surface. These agents function more at the capillary level and are not effective at stemming arterial or venous bleeding under any significant intravascular pressure.</Description>
+<Source>MeSH</Source>
+</Record>

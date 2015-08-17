@@ -1,0 +1,38 @@
+<Record>
+<Term>X-Linked Genetic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<ChildTerm>Hemophilia B</ChildTerm>
+<ChildTerm>Mental Retardation, X-Linked</ChildTerm>
+<ChildTerm>Fabry Disease</ChildTerm>
+<ChildTerm>Androgen-Insensitivity Syndrome</ChildTerm>
+<ChildTerm>Wiskott-Aldrich Syndrome</ChildTerm>
+<ChildTerm>Choroideremia</ChildTerm>
+<ChildTerm>Ichthyosis, X-Linked</ChildTerm>
+<ChildTerm>Dyskeratosis Congenita</ChildTerm>
+<ChildTerm>Ornithine Carbamoyltransferase Deficiency Disease</ChildTerm>
+<ChildTerm>Pelizaeus-Merzbacher Disease</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Duchenne</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Emery-Dreifuss</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type IIb</ChildTerm>
+<ChildTerm>Hypophosphatemic Rickets, X-Linked Dominant</ChildTerm>
+<ChildTerm>Hyper-IgM Immunodeficiency Syndrome, Type 1</ChildTerm>
+<ChildTerm>Ectodermal Dysplasia 1, Anhidrotic</ChildTerm>
+<ChildTerm>X-Linked Combined Immunodeficiency Diseases</ChildTerm>
+<ChildTerm>Bulbo-Spinal Atrophy, X-Linked</ChildTerm>
+<ChildTerm>Isolated Noncompaction of the Ventricular Myocardium</ChildTerm>
+<ChildTerm>Barth Syndrome</ChildTerm>
+<ChildTerm>Focal Dermal Hypoplasia</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type VIII</ChildTerm>
+<ChildTerm>Granulomatous Disease, Chronic</ChildTerm>
+<ChildTerm>Oculocerebrorenal Syndrome</ChildTerm>
+<Synonym>X-Linked Genetic Disease</Synonym>
+<Synonym>X-Linked Genetic Diseases</Synonym>
+<Synonym>X Linked Genetic Diseases</Synonym>
+<Description>Genetic diseases that are linked to gene mutations on the X CHROMOSOME in humans (X CHROMOSOME, HUMAN) or the X CHROMOSOME in other species. Included here are animal models of human X-linked diseases.</Description>
+<Source>MeSH</Source>
+</Record>

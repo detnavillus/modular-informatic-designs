@@ -1,0 +1,41 @@
+<Record>
+<Term>Respiratory Tract Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ParentTerm>Infection</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Respiratory Tract Infections</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Rhinoscleroma</ChildTerm>
+<ChildTerm>Laryngitis</ChildTerm>
+<ChildTerm>Lung Diseases, Fungal</ChildTerm>
+<ChildTerm>Tuberculosis, Pleural</ChildTerm>
+<ChildTerm>Sinusitis</ChildTerm>
+<ChildTerm>Pneumonia</ChildTerm>
+<ChildTerm>Lung Abscess</ChildTerm>
+<ChildTerm>Common Cold</ChildTerm>
+<ChildTerm>Empyema, Pleural</ChildTerm>
+<ChildTerm>Lung Diseases, Parasitic</ChildTerm>
+<ChildTerm>Bovine Respiratory Disease Complex</ChildTerm>
+<ChildTerm>Tuberculosis, Pulmonary</ChildTerm>
+<ChildTerm>Tuberculosis, Laryngeal</ChildTerm>
+<ChildTerm>Pleurisy</ChildTerm>
+<ChildTerm>Severe Acute Respiratory Syndrome</ChildTerm>
+<ChildTerm>Whooping Cough</ChildTerm>
+<ChildTerm>Pharyngitis</ChildTerm>
+<ChildTerm>Legionellosis</ChildTerm>
+<ChildTerm>Bronchitis</ChildTerm>
+<ChildTerm>Rhinitis</ChildTerm>
+<ChildTerm>Influenza, Human</ChildTerm>
+<ChildTerm>Tracheitis</ChildTerm>
+<Synonym>Respiratory Tract Infections</Synonym>
+<Synonym>Respiratory Tract Infection</Synonym>
+<Synonym>Upper Respiratory Infections</Synonym>
+<Synonym>Respiratory Infections</Synonym>
+<Synonym>Upper Respiratory Tract Infections</Synonym>
+<Description>Invasion of the host RESPIRATORY SYSTEM by microorganisms, usually leading to pathological processes or diseases.</Description>
+<Source>MeSH</Source>
+</Record>

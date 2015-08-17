@@ -1,0 +1,22 @@
+<Record>
+<Term>Abiraterone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Androgen/Abiraterone Acetate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Abiraterone Acetate</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Abiraterone Acetate</BroaderTerm>
+<BroaderTerm>Abiraterone Acetate,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Androgen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>17-(3-Pyridyl)-5,16-androstadien-3beta-acetate</Synonym>
+<Synonym>Abiraterone Acetate</Synonym>
+<Synonym>Androsta-5,16-dien-3-ol, 17-(3-pyridinyl)-, acetate (ester), (3beta)-</Synonym>
+<Synonym>CB7630</Synonym>
+<Description>An orally active acetate salt of the steroidal compound abiraterone with antiandrogen activity. Abiraterone inhibits the enzymatic activity of steroid 17alpha-monooxygenase (17alpha-hydrolase/C17,20 lyase complex), a member of the cytochrome p450 family that catalyzes the 17alpha-hydroxylation of steroid intermediates involved in testosterone synthesis. Administration of this agent may suppress testosterone production by both the testes and the adrenals to castrate-range levels.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

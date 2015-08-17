@@ -1,0 +1,27 @@
+<Record>
+<Term>Atomoxetine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antidepressant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Atomoxetine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Atomoxetine Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Atomoxetine Hydrochloride</BroaderTerm>
+<BroaderTerm>Atomoxetine</BroaderTerm>
+<BroaderTerm>Antidepressant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Strattera</Synonym>
+<Synonym>(-)-N-methyl-gamma(2-methylphenoxy)benzenepropamine Hydrochloride</Synonym>
+<Synonym>ATOMOXETINE</Synonym>
+<Synonym>Atomoxetine Hydrochloride</Synonym>
+<Synonym>Atomoxetine</Synonym>
+<Synonym>Atomoxetine hydrochloride</Synonym>
+<Synonym>(-)-N -Methyl-3-phenyl-3-(o-tolyloxy)-propylamine Hydrochloride</Synonym>
+<Synonym>ATOMOXETINE HYDROCHLORIDE</Synonym>
+<Synonym>Tomoxetine</Synonym>
+<Description>The hydrochloride salt of atomoxetine, a phenoxy-3-propylamine derivative and selective non-stimulant, norepinephrine reuptake inhibitor with cognitive-enhancing activity. Although its precise mechanism of action is unknown, atomoxetine appears to selectively inhibit the pre-synaptic norepinephrine transporter, resulting in inhibition of the presynaptic reabsorption of norepinephrine and prolongation of norepinephrine activity in the synaptic cleft. The effect on cognitive brain function may result in improved attention and decreased impulsivity and activity levels.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

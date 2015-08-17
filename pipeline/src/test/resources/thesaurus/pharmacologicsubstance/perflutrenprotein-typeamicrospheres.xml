@@ -1,0 +1,17 @@
+<Record>
+<Term>Perflutren Protein-Type A Microspheres</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Perflutren Protein-Type A Microspheres</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Perflutren Protein-Type A Microspheres</BroaderTerm>
+<Synonym>Optison</Synonym>
+<Synonym>Perflutren Protein-Type A Microspheres</Synonym>
+<Description>A sterile non-pyrogenic suspension of microspheres of human serum albumin with the stable, high-molecular-weight fluorocarbon gas perflutren, used as a contrast enhancement agent for ultrasound procedures. Because the acoustic impedance of perflutren protein-type A microspheres is much lower than that of blood, impinging ultrasound waves are scattered and reflected at the microsphere-blood interface and may be visualized with ultrasound imaging. At the frequencies used in adult echocardiography (2-5 MHZ) the microspheres resonate, which further increases the extent of ultrasound scattering and reflection.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

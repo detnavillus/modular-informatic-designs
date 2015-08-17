@@ -1,0 +1,19 @@
+<Record>
+<Term>Retinopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Retinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder/Retinopathy</ClassificationPath>
+<BroaderTerm>Retinopathy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Diabetic Retinopathy</ChildTerm>
+<ChildTerm>Hypertensive Retinopathy</ChildTerm>
+<Synonym>Retinopathy</Synonym>
+<Description>Any disease or disorder of the retina.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

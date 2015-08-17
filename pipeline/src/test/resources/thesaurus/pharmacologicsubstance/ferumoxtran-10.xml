@@ -1,0 +1,19 @@
+<Record>
+<Term>Ferumoxtran-10</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Ferumoxtran-10</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Ferumoxtran-10</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Combidex</Synonym>
+<Synonym>Ferumoxtran-10</Synonym>
+<Synonym>USPIO</Synonym>
+<Synonym>Ultrasmall Particulate Iron Oxide</Synonym>
+<Description>A synthetic ultrasmall superparamagnetic iron oxide composed of dextran-coated iron oxide nanoparticles (also known as 'ultrasmall particulate iron oxides' or USPIO). Ferumoxtran-10, which accumulates in non-cancerous lymphatic tissue, is used as a molecular resonance imaging (MRI) contrast agent. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

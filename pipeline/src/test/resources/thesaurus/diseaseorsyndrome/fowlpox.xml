@@ -1,0 +1,24 @@
+<Record>
+<Term>Fowlpox</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bird Diseases</ParentTerm>
+<ParentTerm>Poxviridae Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Bird Diseases/Fowlpox</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Poxviridae Infections/Fowlpox</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Fowlpox</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Poxviridae Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bird Pox</Synonym>
+<Synonym>Birdpox</Synonym>
+<Synonym>Fowl Diphtheria</Synonym>
+<Synonym>Fowlpox</Synonym>
+<Synonym>Fowl Pox</Synonym>
+<Synonym>Fowl Diphtherias</Synonym>
+<Synonym>Epithelioma Contagiosum</Synonym>
+<Synonym>Variola Avium</Synonym>
+<Description>A poxvirus infection of poultry and other birds characterized by the formation of wart-like nodules on the skin and diphtheritic necrotic masses (cankers) in the upper digestive and respiratory tracts.</Description>
+<Source>MeSH</Source>
+</Record>

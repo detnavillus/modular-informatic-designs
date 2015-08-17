@@ -1,0 +1,20 @@
+<Record>
+<Term>Inhalation Anesthetics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anesthetics, General</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Anesthetics/Anesthetics, General/Anesthetics, Inhalation</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Anesthetics/Anesthetics, General/Anesthetics, Inhalation</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anesthetics, General</BroaderTerm>
+<BroaderTerm>Anesthetics</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anesthetics, Inhalation</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Inhalation Anesthetics</Synonym>
+<Synonym>Anesthetic Gases</Synonym>
+<Description>Gases or volatile liquids that vary in the rate at which they induce anesthesia; potency; the degree of circulation, respiratory, or neuromuscular depression they produce; and analgesic effects. Inhalation anesthetics have advantages over intravenous agents in that the depth of anesthesia can be changed rapidly by altering the inhaled concentration. Because of their rapid elimination, any postoperative respiratory depression is of relatively short duration. (From AMA Drug Evaluations Annual, 1994, p173)</Description>
+<Source>MeSH</Source>
+</Record>

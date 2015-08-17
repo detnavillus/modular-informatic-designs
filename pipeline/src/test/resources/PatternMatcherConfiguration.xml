@@ -36,8 +36,8 @@
            <IndexMatcherFactory class="com.modinfodesigns.classify.ThesaurusIndexMatcherFactory"
                                 termAttribute="KeyTerm"
                                 synonymAttribute="Synonym" >
-              <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/pharmacologicsubstance</ThesaurusDirectory>
-              <ThesaurusDirectory>./pipeline/src/test/resources/AddFDARecords/outputRecords</ThesaurusDirectory>
+              <ThesaurusDirectory>resources/thesaurus/pharmacologicsubstance</ThesaurusDirectory>
+              <ThesaurusDirectory>resources/thesaurus/fdarecords</ThesaurusDirectory>
             </IndexMatcherFactory>
 
           </IndexMatcherFactory>
@@ -48,8 +48,8 @@
                               termAttribute="KeyTerm"
                               synonymAttribute="Synonym" >
 
-            <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/diseaseorsyndrome</ThesaurusDirectory>
-            <ThesaurusDirectory>./pipeline/src/test/resources/thesaurusOutput/mentalorbehavioraldysfunction</ThesaurusDirectory>
+            <ThesaurusDirectory>resources/thesaurus/diseaseorsyndrome</ThesaurusDirectory>
+            <ThesaurusDirectory>resources/thesaurus/mentalorbehavioraldysfunction</ThesaurusDirectory>
 
           </IndexMatcherFactory>
 	</PatternMap>

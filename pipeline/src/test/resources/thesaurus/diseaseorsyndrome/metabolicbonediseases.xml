@@ -1,0 +1,21 @@
+<Record>
+<Term>Metabolic Bone Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Bone Demineralization, Pathologic</ChildTerm>
+<ChildTerm>Pseudohypoparathyroidism</ChildTerm>
+<ChildTerm>Renal Osteodystrophy</ChildTerm>
+<ChildTerm>Rickets</ChildTerm>
+<ChildTerm>Osteoporosis</ChildTerm>
+<ChildTerm>Mucolipidoses</ChildTerm>
+<ChildTerm>Osteomalacia</ChildTerm>
+<Synonym>Metabolic Bone Diseases</Synonym>
+<Synonym>Metabolic Bone Disease</Synonym>
+<Synonym>Osteopenia</Synonym>
+<Synonym>Osteopenias</Synonym>
+<Source>MeSH</Source>
+</Record>

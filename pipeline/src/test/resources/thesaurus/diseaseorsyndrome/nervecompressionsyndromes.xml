@@ -1,0 +1,25 @@
+<Record>
+<Term>Nerve Compression Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Nerve Compression Syndromes</ClassificationPath>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Nerve Compression Syndromes</BroaderTerm>
+<ChildTerm>Carpal Tunnel Syndrome</ChildTerm>
+<ChildTerm>Thoracic Outlet Syndrome</ChildTerm>
+<ChildTerm>Tarsal Tunnel Syndrome</ChildTerm>
+<ChildTerm>Ulnar Nerve Compression Syndromes</ChildTerm>
+<ChildTerm>Piriformis Muscle Syndrome</ChildTerm>
+<Synonym>Nerve Compression Syndromes</Synonym>
+<Synonym>Nerve Compression Syndrome</Synonym>
+<Synonym>Nerve Entrapments</Synonym>
+<Synonym>Nerve Entrapment</Synonym>
+<Synonym>Internal Nerve Compression Syndromes</Synonym>
+<Synonym>Entrapment Neuropathies</Synonym>
+<Synonym>Entrapment Neuropathy</Synonym>
+<Synonym>External Nerve Compression Syndromes</Synonym>
+<Description>Mechanical compression of nerves or nerve roots from internal or external causes. These may result in a conduction block to nerve impulses (due to MYELIN SHEATH dysfunction) or axonal loss. The nerve and nerve sheath injuries may be caused by ISCHEMIA; INFLAMMATION; or a direct mechanical effect.</Description>
+<Source>MeSH</Source>
+</Record>

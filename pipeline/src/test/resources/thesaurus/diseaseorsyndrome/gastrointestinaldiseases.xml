@@ -1,0 +1,24 @@
+<Record>
+<Term>Gastrointestinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Digestive System Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Gastrointestinal Neoplasms</ChildTerm>
+<ChildTerm>Intestinal Diseases</ChildTerm>
+<ChildTerm>Gastroenteritis</ChildTerm>
+<ChildTerm>Stomach Diseases</ChildTerm>
+<ChildTerm>Esophageal Diseases</ChildTerm>
+<ChildTerm>Peptic Ulcer</ChildTerm>
+<ChildTerm>Gastrointestinal Hemorrhage</ChildTerm>
+<ChildTerm>Tuberculosis, Gastrointestinal</ChildTerm>
+<ChildTerm>Visceral Prolapse</ChildTerm>
+<Synonym>Gastrointestinal Diseases</Synonym>
+<Synonym>Gastrointestinal Disease</Synonym>
+<Synonym>Cholera Infantum</Synonym>
+<Synonym>Functional Gastrointestinal Disorders</Synonym>
+<Synonym>Functional Gastrointestinal Disorder</Synonym>
+<Description>Diseases in any segment of the GASTROINTESTINAL TRACT from ESOPHAGUS to RECTUM.Chronic or recurrent gastrointestinal disorders without an identifiable structural or biochemical explanation by the routine diagnostic tests. Functional gastrointestinal disorders are classified according to the presumed site of the disorder, such as IRRITABLE BOWEL SYNDROME, non-ulcer DYSPEPSIA, and non-cardiac CHEST PAIN.</Description>
+<Source>MeSH</Source>
+</Record>

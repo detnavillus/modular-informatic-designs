@@ -1,0 +1,24 @@
+<Record>
+<Term>18F-Fluoromisonidazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Halogenated Hydrocarbon</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Hydrocarbon/Halogenated Hydrocarbon/18F-Fluoromisonidazole,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/18F-Fluoromisonidazole</ClassificationPath>
+<BroaderTerm>Halogenated Hydrocarbon</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Hydrocarbon</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>18F-Fluoromisonidazole,</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>18F-Fluoromisonidazole</BroaderTerm>
+<Synonym>18F-Fluoromisonidazole</Synonym>
+<Synonym>18F-MISO</Synonym>
+<Synonym>18F-Misonidazole</Synonym>
+<Synonym>FMISO</Synonym>
+<Description>A radiofluorinated 2-nitroimidazole derivate with hypoxia-specific tracer activity. Misonidazole is reduced under hypoxic conditions and in reduced form covalently binds to macromolecules in hypoxic cells. 18F (fluorine-18) radiofluorination of misonidazole to form 18F-fluoromisonidazole allows radioisotopic imaging of reduced misonidazole bound to macromolecules in hypoxic cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

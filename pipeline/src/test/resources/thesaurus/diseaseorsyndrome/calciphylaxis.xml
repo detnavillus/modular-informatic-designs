@@ -1,0 +1,15 @@
+<Record>
+<Term>Calciphylaxis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Calcinosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Calcinosis/Calciphylaxis</ClassificationPath>
+<BroaderTerm>Calciphylaxis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Calcinosis</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<Synonym>Calciphylaxis</Synonym>
+<Synonym>Calciphylaxes</Synonym>
+<Description>Condition of induced systemic hypersensitivity in which tissues respond to appropriate challenging agents with a sudden local calcification.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Female Genital Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Urogenital Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female</ClassificationPath>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Adnexal Diseases</ChildTerm>
+<ChildTerm>Vaginal Diseases</ChildTerm>
+<ChildTerm>Vulvar Diseases</ChildTerm>
+<ChildTerm>Uterine Diseases</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases</ChildTerm>
+<ChildTerm>Sexual Dysfunction, Physiological</ChildTerm>
+<ChildTerm>Endometriosis</ChildTerm>
+<ChildTerm>Tuberculosis, Female Genital</ChildTerm>
+<ChildTerm>Gynatresia</ChildTerm>
+<ChildTerm>Herpes Genitalis</ChildTerm>
+<ChildTerm>Infertility</ChildTerm>
+<Synonym>Gynecologic Diseases</Synonym>
+<Synonym>Gynecologic Disease</Synonym>
+<Synonym>Female Genital Diseases</Synonym>
+<Synonym>Female Genital Disease</Synonym>
+<Description>Pathological processes involving the female reproductive tract (GENITALIA, FEMALE).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Iothalamic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Iodinated Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Iodinated Contrast Agent/Iothalamic Acid</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Iothalamic Acid</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Iodinated Contrast Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>IOTHALAMIC ACID</Synonym>
+<Synonym>Iothalamic Acid</Synonym>
+<Description>An ionic tri-iodinated benzoate used as a contrast agent in diagnostic imaging. Like other organic iodine compounds, iothalamic acid blocks x-ray and appears opaque on x-ray film, thereby enhancing the visibility of structure and organs during angiography, arteriography, arthrography, cholangiography, and computed tomography (CT) scanning procedures.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

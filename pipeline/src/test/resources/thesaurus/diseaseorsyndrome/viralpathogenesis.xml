@@ -1,0 +1,17 @@
+<Record>
+<Term>Viral Pathogenesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathogenesis</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Pathogenesis/Viral Pathogenesis</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Viral Pathogenesis</BroaderTerm>
+<BroaderTerm>Pathogenesis</BroaderTerm>
+<ChildTerm>Pathogenesis of HIV Neurological Disease</ChildTerm>
+<ChildTerm>Pathogenesis of HIV Malignancy</ChildTerm>
+<ChildTerm>Pathogenesis of HIV-Related Organ:Tissue Disorder</ChildTerm>
+<Synonym>Viral Pathogenesis</Synonym>
+<Description>A disease state resulting from virus infection.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

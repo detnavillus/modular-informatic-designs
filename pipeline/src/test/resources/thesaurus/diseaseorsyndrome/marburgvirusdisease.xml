@@ -1,0 +1,24 @@
+<Record>
+<Term>Marburg Virus Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Filoviridae Infections</ParentTerm>
+<ParentTerm>Monkey Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Marburg Virus Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Filoviridae Infections/Marburg Virus Disease</ClassificationPath>
+<ClassificationPath>Animal Diseases/Primate Diseases/Monkey Diseases/Marburg Virus Disease</ClassificationPath>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Filoviridae Infections</BroaderTerm>
+<BroaderTerm>Monkey Diseases</BroaderTerm>
+<BroaderTerm>Primate Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Marburg Virus Disease</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Marburg Hemorrhagic Fever</Synonym>
+<Synonym>Marburg Virus Disease</Synonym>
+<Synonym>Marburg Disease</Synonym>
+<Description>An RNA virus infection of rhesus, vervet, and squirrel monkeys transmissible to man.</Description>
+<Source>MeSH</Source>
+</Record>

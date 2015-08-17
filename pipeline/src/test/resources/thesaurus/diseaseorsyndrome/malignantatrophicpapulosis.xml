@@ -1,0 +1,27 @@
+<Record>
+<Term>Malignant Atrophic Papulosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Arterial Occlusive Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Malignant Atrophic Papulosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Malignant Atrophic Papulosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Malignant Atrophic Papulosis</ClassificationPath>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Malignant Atrophic Papulosis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Degos Disease</Synonym>
+<Synonym>Malignant Atrophic Papulosis</Synonym>
+<Synonym>Erythrokeratoderma en cocardes</Synonym>
+<Synonym>Kohlmeier-Degos Disease</Synonym>
+<Synonym>Malignant Atrophic Papuloses</Synonym>
+<Synonym>Kohlmeier Degos Disease</Synonym>
+<Synonym>Degos Syndrome</Synonym>
+<Description>Variously described as a vasculopathy, endovasculitis, or occlusive arteriopathy, this condition occurs in a benign cutaneous form and a lethal multiorgan systemic variant. It is characterized by a narrowing and occlusion of the lumen of small to medium-sized blood vessels, leading to ischemia and infarction in the involved organ systems. The etiology and pathophysiology are unknown.</Description>
+<Source>MeSH</Source>
+</Record>

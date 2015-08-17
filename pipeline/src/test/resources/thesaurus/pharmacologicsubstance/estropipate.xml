@@ -1,0 +1,30 @@
+<Record>
+<Term>Estropipate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Estrone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/Therapeutic Estrone/Estropipate</ClassificationPath>
+<BroaderTerm>Therapeutic Estrone</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Estropipate</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ortho-est</Synonym>
+<Synonym>Ogen .625</Synonym>
+<Synonym>Ogen 2.5</Synonym>
+<Synonym>Piperazine, compound with 3-(Sulfooxy)estra-1,3,5(10)-trien-17-one(1:1)(9CI)</Synonym>
+<Synonym>Estropipate</Synonym>
+<Synonym>Estrone Hydrogen Sulfate compound with Piperazine(1:1)</Synonym>
+<Synonym>Sulestrex</Synonym>
+<Synonym>Ogen 5</Synonym>
+<Synonym>Ortho-Est, Estra-1,3,5(10)-trien-17-one 3-sulphate, compound with Piperazine(1:1)</Synonym>
+<Synonym>Ogen</Synonym>
+<Synonym>ESTROPIPATE</Synonym>
+<Synonym>Ogen 1.25</Synonym>
+<Description>A natural estrogenic substance composed of estrone sulfate and piperazine. Estropipate diffuses through the cell membrane and binds to and subsequently activates the nuclear estrogen receptor found in the reproductive tract, breast, pituitary, hypothalamus, liver, and bone. The activated complex binds to the estrogen response element on the DNA and activates the transcription of genes involved in the functioning of the female reproductive system and secondary sex characteristics.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

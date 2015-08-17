@@ -1,0 +1,15 @@
+<Record>
+<Term>Gas Gangrene</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Clostridium Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Clostridium Infections/Gas Gangrene</ClassificationPath>
+<BroaderTerm>Clostridium Infections</BroaderTerm>
+<BroaderTerm>Gas Gangrene</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Gas Gangrene</Synonym>
+<Synonym>Gas Gangrenes</Synonym>
+<Description>A severe condition resulting from bacteria invading healthy muscle from adjacent traumatized muscle or soft tissue. The infection originates in a wound contaminated with bacteria of the genus CLOSTRIDIUM. C. perfringens accounts for the majority of cases (over eighty percent), while C. noyvi, C. septicum, and C. histolyticum cause most of the other cases.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Preinvasive Lesions of the Mouse Pulmonary System</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Cancer-Related Conditions</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Respiratory System Disorder/Mouse Pulmonary Disorder/Pulmonary Proliferative Lesions of the Mouse/Epithelial Proliferative Lesions of the Mouse Pulmonary System/Preinvasive Lesions of the Mouse Pulmonary System,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Preinvasive Lesions of the Mouse Pulmonary System</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Preinvasive Lesions of the Mouse Pulmonary System,</BroaderTerm>
+<BroaderTerm>Preinvasive Lesions of the Mouse Pulmonary System</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Mouse Pulmonary Disorder</BroaderTerm>
+<BroaderTerm>Epithelial Proliferative Lesions of the Mouse Pulmonary System</BroaderTerm>
+<BroaderTerm>Mouse Respiratory System Disorder</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Pulmonary Proliferative Lesions of the Mouse</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Squamous Dysplasia of the Mouse Pulmonary System</ChildTerm>
+<ChildTerm>Diffuse Idiopathic Pulmonary Neuroendocrine Cell Hyperplasia of the Mouse Pulmonary System</ChildTerm>
+<ChildTerm>Atypical Adenomatous Hyperplasia of the Mouse Pulmonary System</ChildTerm>
+<Synonym>Preinvasive Lesions</Synonym>
+<Synonym>Preinvasive Lesions of the Mouse Pulmonary System</Synonym>
+<Synonym>Preinvasive Lesions of the Pulmonary System</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

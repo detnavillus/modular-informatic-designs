@@ -1,0 +1,15 @@
+<Record>
+<Term>Cholera Morbus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Cholera Morbus</ClassificationPath>
+<BroaderTerm>Cholera Morbus</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<Synonym>Cholera Morbus</Synonym>
+<Synonym>Summer Cholera</Synonym>
+<Synonym>Summer Choleras</Synonym>
+<Description>An old term that is no longer used in the scientific literature. Cholera morbus refers to acute GASTROENTERITIS occurring in summer or autumn; characterized by severe cramps, diarrhea, and vomiting.</Description>
+<Source>MeSH</Source>
+</Record>

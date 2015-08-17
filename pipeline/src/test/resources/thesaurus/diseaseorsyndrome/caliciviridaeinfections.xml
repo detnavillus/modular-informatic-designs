@@ -1,0 +1,16 @@
+<Record>
+<Term>Caliciviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Caliciviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Caliciviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Vesicular Exanthema of Swine</ChildTerm>
+<Synonym>Caliciviridae Infections</Synonym>
+<Synonym>Caliciviridae Infection</Synonym>
+<Synonym>Calicivirus Infection</Synonym>
+<Synonym>Calicivirus Infections</Synonym>
+<Description>Virus diseases caused by CALICIVIRIDAE. They include HEPATITIS E; VESICULAR EXANTHEMA OF SWINE; acute respiratory infections in felines, rabbit hemorrhagic disease, and some cases of gastroenteritis in humans.</Description>
+<Source>MeSH</Source>
+</Record>

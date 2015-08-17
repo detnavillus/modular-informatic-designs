@@ -1,0 +1,26 @@
+<Record>
+<Term>Dictyocaulus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ParentTerm>Trichostrongyloidiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Trichostrongyloidiasis/Dictyocaulus Infections</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Dictyocaulus Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Dictyocaulus Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Dictyocaulus Infections</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Dictyocaulus Infections</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Trichostrongyloidiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Dictyocaulus Infection</Synonym>
+<Synonym>Dictyocaulus Infections</Synonym>
+<Synonym>Dictyocauliases</Synonym>
+<Synonym>Dictyocauliasis</Synonym>
+<Description>Infection with nematodes of the genus DICTYOCAULUS. In deer, cattle, sheep, and horses the bronchi are the site of infestation.</Description>
+<Source>MeSH</Source>
+</Record>

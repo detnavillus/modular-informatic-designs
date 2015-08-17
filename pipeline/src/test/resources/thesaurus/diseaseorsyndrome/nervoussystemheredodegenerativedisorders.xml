@@ -1,0 +1,50 @@
+<Record>
+<Term>Nervous System Heredodegenerative Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Neuronal Ceroid-Lipofuscinoses</ChildTerm>
+<ChildTerm>Myotonia Congenita</ChildTerm>
+<ChildTerm>Hereditary Sensory and Autonomic Neuropathies</ChildTerm>
+<ChildTerm>Bulbo-Spinal Atrophy, X-Linked</ChildTerm>
+<ChildTerm>Menkes Kinky Hair Syndrome</ChildTerm>
+<ChildTerm>Dystonia Musculorum Deformans</ChildTerm>
+<ChildTerm>Optic Atrophies, Hereditary</ChildTerm>
+<ChildTerm>Amyloid Neuropathies, Familial</ChildTerm>
+<ChildTerm>Tourette Syndrome</ChildTerm>
+<ChildTerm>Huntington Disease</ChildTerm>
+<ChildTerm>Rett Syndrome</ChildTerm>
+<ChildTerm>Neuroacanthocytosis</ChildTerm>
+<ChildTerm>Hereditary Sensory and Motor Neuropathy</ChildTerm>
+<ChildTerm>Unverricht-Lundborg Syndrome</ChildTerm>
+<ChildTerm>Lesch-Nyhan Syndrome</ChildTerm>
+<ChildTerm>Cockayne Syndrome</ChildTerm>
+<ChildTerm>Tuberous Sclerosis</ChildTerm>
+<ChildTerm>Alexander Disease</ChildTerm>
+<ChildTerm>Mental Retardation, X-Linked</ChildTerm>
+<ChildTerm>Spinal Muscular Atrophies of Childhood</ChildTerm>
+<ChildTerm>Spinocerebellar Degenerations</ChildTerm>
+<ChildTerm>Pantothenate Kinase-Associated Neurodegeneration</ChildTerm>
+<ChildTerm>Hereditary Central Nervous System Demyelinating Diseases</ChildTerm>
+<ChildTerm>Neurofibromatoses</ChildTerm>
+<ChildTerm>Canavan Disease</ChildTerm>
+<ChildTerm>Gerstmann-Straussler-Scheinker Disease</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<ChildTerm>Lafora Disease</ChildTerm>
+<ChildTerm>Myotonic Dystrophy</ChildTerm>
+<Synonym>Nervous System Degenerative Hereditary Diseases</Synonym>
+<Synonym>Hereditary Neurodegenerative Diseases</Synonym>
+<Synonym>Nervous System Hereditary Degenerative Diseases</Synonym>
+<Synonym>Hereditary Neurodegenerative Disease</Synonym>
+<Synonym>Neurodegenerative Hereditary Disease</Synonym>
+<Synonym>Neurodegenerative Hereditary Diseases</Synonym>
+<Description>Inherited disorders characterized by progressive atrophy and dysfunction of anatomically or physiologically related neurologic systems.</Description>
+<Source>MeSH</Source>
+</Record>

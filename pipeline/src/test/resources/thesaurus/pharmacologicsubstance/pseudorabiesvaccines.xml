@@ -1,0 +1,16 @@
+<Record>
+<Term>Pseudorabies Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Pseudorabies Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Pseudorabies Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Pseudorabies Vaccines</Synonym>
+<Synonym>Pseudorabies Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent PSEUDORABIES (Aujeszky's disease), a herpesvirus of swine and other animals.</Description>
+<Source>MeSH</Source>
+</Record>

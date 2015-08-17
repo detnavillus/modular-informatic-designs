@@ -1,0 +1,16 @@
+<Record>
+<Term>PNP-Expressing Atadenovirus FP253</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/PNP-Expressing Atadenovirus FP253</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>PNP-Expressing Atadenovirus FP253</BroaderTerm>
+<Synonym>FP253</Synonym>
+<Synonym>PNP-Expressing Atadenovirus FP253</Synonym>
+<Description>An ovine atadenovirus encoding E. coli purine nucleoside phosphorylase (PNP) with prodrug activating activity. Under the control of a prostate-directed promoter, PNP-expressing atadenovirus vaccine FP253 expresses PNP in prostate tissue only after intraprostatic administration; this enzyme catalyzes systemically administered fludarabine prodrug into the active agent, 2-fluoroadenine. Localized prodrug activation provides prostate-targeted chemotherapy, potentially reducing systemic side effects.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

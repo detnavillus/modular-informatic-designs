@@ -1,0 +1,26 @@
+<Record>
+<Term>Autoimmune Polyendocrinopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Polyendocrinopathies, Autoimmune</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Polyendocrinopathies, Autoimmune</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Polyendocrinopathies, Autoimmune</BroaderTerm>
+<Synonym>Autoimmune Polyglandular Syndrome Type I</Synonym>
+<Synonym>Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal-Dystrophy</Synonym>
+<Synonym>Polyglandular Type I Autoimmune Syndrome</Synonym>
+<Synonym>Schmidts Syndrome</Synonym>
+<Synonym>Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal-Dystrophies</Synonym>
+<Synonym>Schmidt Syndrome</Synonym>
+<Synonym>Autoimmune Polyglandular Syndrome Type II</Synonym>
+<Synonym>Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy</Synonym>
+<Synonym>Autoimmune Polyendocrinopathies</Synonym>
+<Synonym>Autoimmune Polyendocrinopathy</Synonym>
+<Synonym>Schmidt's Syndrome</Synonym>
+<Synonym>Polyglandular Type II Autoimmune Syndrome</Synonym>
+<Description>Autoimmune diseases affecting multiple endocrine organs. Type I is characterized by childhood onset and chronic mucocutaneous candidiasis (CANDIDIASIS, CHRONIC MUCOCUTANEOUS), while type II exhibits any combination of adrenal insufficiency (ADDISON'S DISEASE), lymphocytic thyroiditis (THYROIDITIS, AUTOIMMUNE;), HYPOPARATHYROIDISM; and gonadal failure. In both types organ-specific ANTIBODIES against a variety of ENDOCRINE GLANDS have been detected. The type II syndrome differs from type I in that it is associated with HLA-A1 and B8 haplotypes, onset is usually in adulthood, and candidiasis is not present.</Description>
+<Source>MeSH</Source>
+</Record>

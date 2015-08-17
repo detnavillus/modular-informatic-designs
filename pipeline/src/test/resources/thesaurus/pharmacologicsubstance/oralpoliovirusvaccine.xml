@@ -1,0 +1,17 @@
+<Record>
+<Term>Oral Poliovirus Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Poliovirus Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Poliovirus Vaccines/Poliovirus Vaccine, Oral</ClassificationPath>
+<BroaderTerm>Poliovirus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Poliovirus Vaccine, Oral</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Oral Poliovirus Vaccine</Synonym>
+<Synonym>Sabin Vaccine</Synonym>
+<Description>A live vaccine containing attenuated poliovirus, types I, II, and III, grown in monkey kidney cell tissue culture, used for routine immunization of children against polio. This vaccine induces long-lasting intestinal and humoral immunity. Killed vaccine induces only humoral immunity. Oral poliovirus vaccine should not be administered to immunocompromised individuals or their household contacts. (Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

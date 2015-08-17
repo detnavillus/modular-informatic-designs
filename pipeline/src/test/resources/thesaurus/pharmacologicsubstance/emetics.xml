@@ -1,0 +1,26 @@
+<Record>
+<Term>Emetics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gastrointestinal Agents</ParentTerm>
+<ParentTerm>Autonomic Agents</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Gastrointestinal Agents/Emetics</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents/Emetics</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Emetics</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Emetics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Emetics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Gastrointestinal Agents</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Emetic Agents</Synonym>
+<Synonym>Emetic Drugs</Synonym>
+<Synonym>Emetics</Synonym>
+<Description>Agents that cause vomiting. They may act directly on the gastrointestinal tract, bringing about emesis through local irritant effects, or indirectly, through their effects on the chemoreceptor trigger zone in the postremal area near the medulla.</Description>
+<Source>MeSH</Source>
+</Record>

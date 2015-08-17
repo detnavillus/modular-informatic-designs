@@ -1,0 +1,34 @@
+<Record>
+<Term>Fetal Hypoxia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Hypoxia</ParentTerm>
+<ParentTerm>Fetal Diseases</ParentTerm>
+<ParentTerm>Anoxia</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Signs and Symptoms, Respiratory/Anoxia/Fetal Hypoxia</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases/Fetal Hypoxia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Hypoxia/Fetal Hypoxia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Fetal Diseases/Fetal Hypoxia</ClassificationPath>
+<BroaderTerm>Signs and Symptoms, Respiratory</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Anoxia</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hypoxia</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Fetal Hypoxia</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>In Utero Hypoxia</Synonym>
+<Synonym>Hypoxia, Fetal</Synonym>
+<Synonym>Fetal Anoxia</Synonym>
+<Synonym>Fetal Hypoxia</Synonym>
+<Description>Hypoxia in utero, caused by conditions such as inadequate placental function (often abruptio placentae), preeclamptic toxicity, prolapse of the umbilical cord, or complications from anesthetic administration.</Description>
+<Description>Deficient oxygenation of FETAL BLOOD.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

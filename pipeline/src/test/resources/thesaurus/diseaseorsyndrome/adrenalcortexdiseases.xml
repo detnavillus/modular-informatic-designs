@@ -1,0 +1,14 @@
+<Record>
+<Term>Adrenal Cortex Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Gland Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Cortex Diseases</ClassificationPath>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Cortex Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<ChildTerm>Adrenal Cortex Neoplasms</ChildTerm>
+<Synonym>Adrenal Cortex Diseases</Synonym>
+<Synonym>Adrenal Cortex Disease</Synonym>
+<Description>Pathological processes of the ADRENAL CORTEX.</Description>
+<Source>MeSH</Source>
+</Record>

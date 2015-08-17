@@ -1,0 +1,31 @@
+<Record>
+<Term>Cognitive Disturbance</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Cognitive Dysfunction</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Cognitive Disturbance Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction/Cognitive Disturbance</ClassificationPath>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance Adverse Event</BroaderTerm>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Schizophrenia</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Cognitive Disturbance</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Cognitive Disturbance</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Cognitive Disturbance</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Cognitive Disturbance</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Cognitive Disturbance</ChildTerm>
+<Synonym>Cognitive Disturbance Adverse Event</Synonym>
+<Synonym>Cognitive Disturbance</Synonym>
+<Synonym>Cognitive disturbance</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

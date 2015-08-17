@@ -1,0 +1,37 @@
+<Record>
+<Term>Meningeal Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Central Nervous System</ParentTerm>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Tuberculosis, Central Nervous System/Tuberculosis, Meningeal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Tuberculosis, Meningeal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Tuberculosis, Meningeal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Central Nervous System/Tuberculosis, Meningeal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Tuberculosis, Meningeal</ClassificationPath>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Meningeal</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Central Nervous System</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<Synonym>Tuberculous Meningitides</Synonym>
+<Synonym>Tuberculosis Meningitides</Synonym>
+<Synonym>Tuberculosis Meningitis</Synonym>
+<Synonym>Meningeal Tuberculoses</Synonym>
+<Synonym>Tuberculous Meningitis</Synonym>
+<Synonym>Tuberculous Hypertrophic Pachymeningitides</Synonym>
+<Synonym>Tuberculous Hypertrophic Pachymeningitis</Synonym>
+<Synonym>Tubercular Meningitides</Synonym>
+<Synonym>Meningeal Tuberculosis</Synonym>
+<Synonym>Tubercular Meningitis</Synonym>
+<Description>A form of bacterial meningitis caused by MYCOBACTERIUM TUBERCULOSIS or rarely MYCOBACTERIUM BOVIS. The organism seeds the meninges and forms microtuberculomas which subsequently rupture. The clinical course tends to be subacute, with progressions occurring over a period of several days or longer. Headache and meningeal irritation may be followed by SEIZURES, cranial neuropathies, focal neurologic deficits, somnolence, and eventually COMA.  The illness may occur in immunocompetent individuals or as an OPPORTUNISTIC INFECTION in the ACQUIRED IMMUNODEFICIENCY SYNDROME and other immunodeficiency syndromes. (From Adams et al., Principles of Neurology, 6th ed, pp717-9)</Description>
+<Source>MeSH</Source>
+</Record>

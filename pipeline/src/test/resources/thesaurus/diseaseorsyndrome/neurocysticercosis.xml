@@ -1,0 +1,26 @@
+<Record>
+<Term>Neurocysticercosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cysticercosis</ParentTerm>
+<ParentTerm>Central Nervous System Helminthiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Taeniasis/Cysticercosis/Neurocysticercosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Helminthiasis/Neurocysticercosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections/Central Nervous System Helminthiasis/Neurocysticercosis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Taeniasis</BroaderTerm>
+<BroaderTerm>Neurocysticercosis</BroaderTerm>
+<BroaderTerm>Cysticercosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Helminthiasis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Brain Cysticercosis</Synonym>
+<Synonym>Neurocysticercosis</Synonym>
+<Synonym>Neurocysticercoses</Synonym>
+<Synonym>Central Nervous System Cysticercosis</Synonym>
+<Description>Infection of the brain, spinal cord, or perimeningeal structures with the larval forms of the genus TAENIA (primarily T. solium in humans). Lesions formed by the organism are referred to as cysticerci. The infection may be subacute or chronic, and the severity of symptoms depends on the severity of the host immune response and the location and number of lesions. SEIZURES represent the most common clinical manifestation although focal neurologic deficits may occur. (From Joynt, Clinical Neurology, 1998, Ch27, pp46-50)</Description>
+<Source>MeSH</Source>
+</Record>

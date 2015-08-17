@@ -1,0 +1,21 @@
+<Record>
+<Term>Typhoid-Paratyphoid Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Salmonella Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Salmonella Vaccines/Typhoid-Paratyphoid Vaccines</ClassificationPath>
+<BroaderTerm>Salmonella Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Typhoid-Paratyphoid Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Typhoid-Paratyphoid Vaccines</Synonym>
+<Synonym>Typhoid Paratyphoid Vaccines</Synonym>
+<Synonym>Paratyphoid Vaccine</Synonym>
+<Synonym>Paratyphoid Vaccines</Synonym>
+<Synonym>Typhoid Vaccines</Synonym>
+<Synonym>Typhoid Vaccine</Synonym>
+<Description>Vaccines used to prevent TYPHOID FEVER and/or PARATYPHOID FEVER which are caused by various species of SALMONELLA. Attenuated, subunit, and inactivated forms of the vaccines exist.</Description>
+<Source>MeSH</Source>
+</Record>

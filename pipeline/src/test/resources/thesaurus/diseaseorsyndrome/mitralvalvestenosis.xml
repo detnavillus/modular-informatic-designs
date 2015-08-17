@@ -1,0 +1,16 @@
+<Record>
+<Term>Mitral Valve Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Valve Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Mitral Valve Stenosis</ClassificationPath>
+<BroaderTerm>Mitral Valve Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<Synonym>Mitral Valve Stenosis</Synonym>
+<Synonym>Mitral Valve Stenoses</Synonym>
+<Synonym>Mitral Stenosis</Synonym>
+<Synonym>Mitral Stenoses</Synonym>
+<Description>Narrowing of the passage through the MITRAL VALVE due to FIBROSIS, and CALCINOSIS in the leaflets and chordal areas. This elevates the left atrial pressure which, in turn, raises pulmonary venous and capillary pressure leading to bouts of DYSPNEA and TACHYCARDIA during physical exertion. RHEUMATIC FEVER is its primary cause.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>X-Linked Agammaglobulinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hereditary Neoplastic Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Deficiency of Humoral Immunity/X-Linked Agammaglobulinemia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Neoplastic Syndrome/Hereditary Neoplastic Syndrome/X-Linked Agammaglobulinemia</ClassificationPath>
+<BroaderTerm>X-Linked Agammaglobulinemia</BroaderTerm>
+<BroaderTerm>Deficiency of Humoral Immunity</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>X-Linked Agammaglobulinemia,</BroaderTerm>
+<BroaderTerm>Hereditary Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Bruton's Sex-Linked Agammaglobulinemia</Synonym>
+<Synonym>Bruton's X-Linked Agammaglobulinemia</Synonym>
+<Synonym>X-Linked Agammaglobulinemia</Synonym>
+<Description>X-linked agammaglobulinemia.  An immunodeficiency state characterized (usually) by profoundly low concentrations of serum immunoglobulins of all classes, although occasionally significant amounts of one or more isotypes can be found.  The fundamental defect in XLA affects early lineage B cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

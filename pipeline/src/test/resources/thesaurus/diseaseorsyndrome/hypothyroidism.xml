@@ -1,0 +1,33 @@
+<Record>
+<Term>Hypothyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hypothyroidism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Hypothyroidism,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Hypothyroidism</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Hypothyroidism,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Hypothyroidism</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Myxedema</ChildTerm>
+<ChildTerm>Congenital Hypothyroidism</ChildTerm>
+<Synonym>Hypothyroidisms</Synonym>
+<Synonym>Hypothyroidism</Synonym>
+<Synonym>hypothyroidism</Synonym>
+<Description>A condition in which the production of thyroid hormone by the thyroid gland is diminished. Signs and symptoms of hypothyroidism include low metabolic rate, tendency to weight gain, somnolence and sometimes myxedema. In the United States, the most common cause of hypothyroidism is Hashimoto's thyroiditis, an autoimmune disorder. SYN athyrea. --2004</Description>
+<Description>A syndrome that results from abnormally low secretion of THYROID HORMONES from the THYROID GLAND, leading to a decrease in BASAL METABOLIC RATE. In its most severe form, there is accumulation of MUCOPOLYSACCHARIDES in the SKIN and EDEMA, known as MYXEDEMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

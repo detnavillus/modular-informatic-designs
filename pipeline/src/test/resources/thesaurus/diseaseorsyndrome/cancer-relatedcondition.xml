@@ -1,0 +1,27 @@
+<Record>
+<Term>Cancer-Related Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition</ClassificationPath>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Precancerous Condition</ChildTerm>
+<ChildTerm>Linitis Plastica</ChildTerm>
+<ChildTerm>Paraneoplastic Syndrome</ChildTerm>
+<ChildTerm>Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Graft Versus Host Disease</ChildTerm>
+<ChildTerm>Spinal Cord Compression</ChildTerm>
+<ChildTerm>Meigs Syndrome</ChildTerm>
+<ChildTerm>Secondary Myelofibrosis</ChildTerm>
+<ChildTerm>Tumor Lysis Syndrome</ChildTerm>
+<ChildTerm>Superior Vena Cava Syndrome</ChildTerm>
+<Synonym>Cancer-Related Condition</Synonym>
+<Synonym>Cancer-Related Problem or Condition</Synonym>
+<Synonym>Oncologic Complications</Synonym>
+<Synonym>cancer related problem/condition</Synonym>
+<Synonym>problem/condition, cancer related</Synonym>
+<Synonym>problem/condition, cancer-related</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

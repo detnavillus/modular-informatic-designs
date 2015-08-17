@@ -1,0 +1,28 @@
+<Record>
+<Term>Personality Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Personality Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Personality Disorders</BroaderTerm>
+<ChildTerm>Borderline Personality Disorder</ChildTerm>
+<ChildTerm>Compulsive Personality Disorder</ChildTerm>
+<ChildTerm>Dependent Personality Disorder</ChildTerm>
+<ChildTerm>Antisocial Personality Disorder</ChildTerm>
+<ChildTerm>Schizoid Personality Disorder</ChildTerm>
+<ChildTerm>Schizotypal Personality Disorder</ChildTerm>
+<ChildTerm>Histrionic Personality Disorder</ChildTerm>
+<ChildTerm>Paranoid Personality Disorder</ChildTerm>
+<ChildTerm>Passive-Aggressive Personality Disorder</ChildTerm>
+<Synonym>Personality Disorders</Synonym>
+<Synonym>Personality Disorder</Synonym>
+<Synonym>Avoidant Personality Disorder</Synonym>
+<Synonym>Avoidant Personality Disorders</Synonym>
+<Synonym>Inadequate Personality</Synonym>
+<Synonym>Narcissistic Personality Disorder</Synonym>
+<Synonym>As If Personality</Synonym>
+<Synonym>Impulse-Ridden Personality</Synonym>
+<Synonym>Impulse Ridden Personality</Synonym>
+<Description>A major deviation from normal patterns of behavior.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Distemper</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dog Diseases</ParentTerm>
+<ParentTerm>Morbillivirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Dog Diseases/Distemper</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Morbillivirus Infections/Distemper</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Dog Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Morbillivirus Infections</BroaderTerm>
+<BroaderTerm>Distemper</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Distempers</Synonym>
+<Synonym>Canine Distempers</Synonym>
+<Synonym>Distemper</Synonym>
+<Synonym>Canine Distemper</Synonym>
+<Description>A name for several highly contagious viral diseases of animals, especially canine distemper. In dogs, it is caused by the canine distemper virus (DISTEMPER VIRUS, CANINE). It is characterized by a diphasic fever, leukopenia, gastrointestinal and respiratory inflammation and sometimes, neurologic complications. In cats it is known as FELINE PANLEUKOPENIA.</Description>
+<Source>MeSH</Source>
+</Record>

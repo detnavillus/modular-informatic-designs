@@ -1,0 +1,32 @@
+<Record>
+<Term>Cisplatin-E Therapeutic Implant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radiosensitizing Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Radiosensitizing Agent/Cisplatin-E Therapeutic Implant,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Adduct Forming Agent/Platinum Compound/Cisplatin-E Therapeutic Implant</ClassificationPath>
+<BroaderTerm>Radiosensitizing Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Platinum Compound</BroaderTerm>
+<BroaderTerm>Cisplatin-E Therapeutic Implant,</BroaderTerm>
+<BroaderTerm>Cisplatin-E Therapeutic Implant</BroaderTerm>
+<BroaderTerm>DNA Adduct Forming Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>CDDP-e therapeutic implant</Synonym>
+<Synonym>CDDP/epi</Synonym>
+<Synonym>CDDP/epi gel</Synonym>
+<Synonym>CEG</Synonym>
+<Synonym>Cisplatin-E Therapeutic Implant</Synonym>
+<Synonym>Cisplatin-Epinephrine</Synonym>
+<Synonym>Cisplatin/Epinephrine Gel</Synonym>
+<Synonym>Intradose</Synonym>
+<Synonym>Intradose MPI-5010</Synonym>
+<Synonym>MP 5010 TI</Synonym>
+<Synonym>MP 5010 Therapeutic Implant</Synonym>
+<Synonym>MPI 5010</Synonym>
+<Description>An injectable collagen matrix gel containing the inorganic platinum agent cisplatin and the sympathicomimetic agent epinephrine with potential antineoplastic activity. After intratumoral injection, cisplatin alkylates guanine nucleosides in DNA, and causes DNA-DNA or DNA-protein cross-linkages, thereby preventing DNA replication and resulting in tumor cell growth inhibition and apoptosis. Epinephrine, a potent vasoconstrictor, is added to the gel to enhance penetration of cisplatin into tumor tissue and reduce dispersion into the surrounding tissues. Intratumoral injection of cisplatin-E therapeutic implant may increase local chemotherapeutic efficacy compared to the systemic administration of these agents while reducing systemic toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

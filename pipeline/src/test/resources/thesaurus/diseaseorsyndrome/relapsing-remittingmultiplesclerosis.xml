@@ -1,0 +1,23 @@
+<Record>
+<Term>Relapsing-Remitting Multiple Sclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Multiple Sclerosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Relapsing-Remitting</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Relapsing-Remitting</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Relapsing-Remitting</ClassificationPath>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis, Relapsing-Remitting</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Acute Relapsing Multiple Sclerosis</Synonym>
+<Synonym>Remitting-Relapsing Multiple Sclerosis</Synonym>
+<Synonym>Relapsing-Remitting Multiple Sclerosis</Synonym>
+<Synonym>Relapsing Remitting Multiple Sclerosis</Synonym>
+<Synonym>Remitting Relapsing Multiple Sclerosis</Synonym>
+<Description>The most common clinical variant of MULTIPLE SCLEROSIS, characterized by recurrent acute exacerbations of neurologic dysfunction followed by partial or complete recovery. Common clinical manifestations include loss of visual (see OPTIC NEURITIS), motor, sensory, or bladder function. Acute episodes of demyelination may occur at any site in the central nervous system, and commonly involve the optic nerves, spinal cord, brain stem, and cerebellum. (Adams et al., Principles of Neurology, 6th ed, pp903-914)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,89 @@
+<Record>
+<Term>Muscarinic Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Cholinergic Antagonists</ParentTerm>
+<ParentTerm>Anticholinergic Agent</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Antagonists/Muscarinic Antagonists</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Antimuscarinic Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Antagonists/Muscarinic Antagonists</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Muscarinic Antagonists</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Antagonists</BroaderTerm>
+<BroaderTerm>Antimuscarinic Agent</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Benztropine</ChildTerm>
+<ChildTerm>Anisotropine Methylbromide</ChildTerm>
+<ChildTerm>Biperiden Hydrochloride</ChildTerm>
+<ChildTerm>Benztropine Mesylate</ChildTerm>
+<ChildTerm>Mepenzolate Cation</ChildTerm>
+<ChildTerm>Methscopolamine Bromide</ChildTerm>
+<ChildTerm>Dexsecoverine</ChildTerm>
+<ChildTerm>Oxitropium Bromide</ChildTerm>
+<ChildTerm>Trihexyphenidyl</ChildTerm>
+<ChildTerm>Atropine Sulfate</ChildTerm>
+<ChildTerm>Benzetimide</ChildTerm>
+<ChildTerm>Methantheline Bromide</ChildTerm>
+<ChildTerm>Dihexyverine Hydrochloride</ChildTerm>
+<ChildTerm>Oxyphencyclimine Hydrochloride</ChildTerm>
+<ChildTerm>Propantheline Bromide</ChildTerm>
+<ChildTerm>Oxyphenonium Bromide</ChildTerm>
+<ChildTerm>Tropicamide</ChildTerm>
+<ChildTerm>Biperiden Lactate</ChildTerm>
+<ChildTerm>Scopolamine Hydrobromide</ChildTerm>
+<ChildTerm>Bethanechol Chloride</ChildTerm>
+<ChildTerm>Zamifenacin</ChildTerm>
+<ChildTerm>Esoxybutynin Chloride</ChildTerm>
+<ChildTerm>Etipirium Iodide</ChildTerm>
+<ChildTerm>Drofenine</ChildTerm>
+<ChildTerm>Oxyphencyclimine</ChildTerm>
+<ChildTerm>Butylscopolamine Bromide</ChildTerm>
+<ChildTerm>Oxomemazine</ChildTerm>
+<ChildTerm>Phencarbamide</ChildTerm>
+<ChildTerm>Tiotropium Bromide Monohydrate</ChildTerm>
+<ChildTerm>Tolterodine</ChildTerm>
+<ChildTerm>Solifenacin Succinate</ChildTerm>
+<ChildTerm>Biperiden</ChildTerm>
+<ChildTerm>Mepenzolate Bromide</ChildTerm>
+<ChildTerm>Scopolamine</ChildTerm>
+<ChildTerm>Diphemanil Methylsulfate</ChildTerm>
+<ChildTerm>Cycrimine</ChildTerm>
+<ChildTerm>Parapenzolate Bromide</ChildTerm>
+<ChildTerm>Cycrimine Hydrochloride</ChildTerm>
+<ChildTerm>Oxybutynin</ChildTerm>
+<ChildTerm>Hexocyclium Methylsulfate</ChildTerm>
+<ChildTerm>Tolterodine Tartrate</ChildTerm>
+<ChildTerm>Trihexyphenidyl Hydrochloride</ChildTerm>
+<ChildTerm>Hyoscyamine</ChildTerm>
+<ChildTerm>Dimetipirium Bromide</ChildTerm>
+<ChildTerm>Trospium Chloride</ChildTerm>
+<ChildTerm>Bietamiverine Hydrochloride</ChildTerm>
+<ChildTerm>Oxybutynin Chloride</ChildTerm>
+<ChildTerm>Clidinium Bromide</ChildTerm>
+<ChildTerm>Tridihexethyl Chloride</ChildTerm>
+<ChildTerm>Darifenacin</ChildTerm>
+<ChildTerm>Hyoscyamine Sulfate</ChildTerm>
+<ChildTerm>Tropine</ChildTerm>
+<ChildTerm>Propiverine</ChildTerm>
+<ChildTerm>Atropine</ChildTerm>
+<ChildTerm>Procyclidine</ChildTerm>
+<ChildTerm>Fesoterodine Fumarate</ChildTerm>
+<Synonym>Antimuscarinic Agents</Synonym>
+<Synonym>Muscarinic Antagonist</Synonym>
+<Synonym>Muscarinic Antagonists</Synonym>
+<Synonym>Antimuscarinic Agent</Synonym>
+<Synonym>Muscarinic Cholinergic Antagonist</Synonym>
+<Description>Natural or synthetic Antimuscarinic Agents inhibit acetylcholine neurotransmitter action at muscarinic receptors. Antimuscarinic drugs are used as antiarrhythmic, antiparkinson, antiasthmatic, and antispasmodic agents, as well as antidote of the natural mushroom alkaloid muscarine (Amanita muscaria) or to prevent parasympathetic stimulation at neuroeffector junctions. (NCI04)</Description>
+<Description>Drugs that bind to but do not activate muscarinic cholinergic receptors (RECEPTORS, MUSCARINIC), thereby blocking the actions of endogenous acetylcholine or exogenous agonists. Muscarinic antagonists have widespread effects including actions on the iris and ciliary muscle of the eye, the heart and blood vessels, secretions of the respiratory tract, GI system, and salivary glands, GI motility, urinary bladder tone, and the central nervous system. Antagonists that discriminate among the various muscarinic receptor subtypes and might allow better control of peripheral and central actions are under development.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

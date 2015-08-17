@@ -1,0 +1,27 @@
+<Record>
+<Term>Pseudohypoparathyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Calcium Metabolism Disorders</ParentTerm>
+<ParentTerm>Bone Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Pseudohypoparathyroidism</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Pseudohypoparathyroidism</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Pseudohypoparathyroidism</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Pseudohypoparathyroidism</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Pseudohypoparathyroidism</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Pseudopseudohypoparathyroidism</ChildTerm>
+<Synonym>Pseudohypoparathyroidism</Synonym>
+<Synonym>Pseudohypoparathyroidisms</Synonym>
+<Description>A hereditary condition clinically resembling HYPOPARATHYROIDISM, but caused by failure of response to rather than deficiency of parathyroid hormones. It is characterized by hypocalcemia and hyperphosphatemia, and is commonly associated with short stature, obesity, short metacarpals, and ectopic calcification. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

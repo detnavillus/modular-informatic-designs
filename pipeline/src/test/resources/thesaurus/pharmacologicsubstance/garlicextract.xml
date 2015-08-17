@@ -1,0 +1,21 @@
+<Record>
+<Term>Garlic Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Garlic Extract,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/Garlic Extract</ClassificationPath>
+<BroaderTerm>Garlic Extract</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Garlic Extract,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Allium sativum Extract</Synonym>
+<Synonym>CCRIS 7640</Synonym>
+<Synonym>EINECS 232-371-1</Synonym>
+<Synonym>Garlic Extract</Synonym>
+<Description>The alcoholic extract of the bulb or whole garlic plant Allium sativum (Liliaceae) with potential antineoplastic activity. The garlic plant has long been considered a beneficial plant for health and has been used as an antihelmintic, a rubefacient, an anti-infective, and an antihypertensive. Fresh or aged, garlic extracts contain compounds such as diallyl and allyl propyl disulfides with potent antioxidant, cholesterol-lowering properties; regular ingestion may be preventative for atherosclerosis and cardiovascular diseases. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

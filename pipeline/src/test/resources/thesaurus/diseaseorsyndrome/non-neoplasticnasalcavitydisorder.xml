@@ -1,0 +1,25 @@
+<Record>
+<Term>Non-Neoplastic Nasal Cavity Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Nasal Cavity and Paranasal Sinus Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Nasal Cavity and Paranasal Sinus Disorder/Nasal Cavity Disorder/Non-Neoplastic Nasal Cavity Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Nasal Cavity and Paranasal Sinus Disorder/Non-Neoplastic Nasal Cavity Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nasal Cavity Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nasal Cavity Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nasal Cavity Disorder</BroaderTerm>
+<BroaderTerm>Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<ChildTerm>Rhinitis</ChildTerm>
+<ChildTerm>Rhinophyma</ChildTerm>
+<Synonym>Non-Neoplastic Nasal Cavity Disease</Synonym>
+<Synonym>Non-Neoplastic Nasal Cavity Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

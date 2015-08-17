@@ -1,0 +1,17 @@
+<Record>
+<Term>Dysautonomia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Peripheral Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Non-Neoplastic Peripheral Nervous System Disorder/Dysautonomia</ClassificationPath>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Dysautonomia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Dysautonomia</Synonym>
+<Description>An acute or chronic disorder, affecting the sympathetic or parasympathetic nervous system.  It can be primary, the result of central nervous system degeneration, or secondary due to diabetes or alcoholism.  Patients with the chronic form of this disorder usually have a progressive clinical course and a poor prognosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

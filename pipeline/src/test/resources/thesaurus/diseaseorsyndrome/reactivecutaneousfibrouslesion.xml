@@ -1,0 +1,19 @@
+<Record>
+<Term>Reactive Cutaneous Fibrous Lesion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Skin Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Reactive Cutaneous Fibrous Lesion</ClassificationPath>
+<BroaderTerm>Reactive Cutaneous Fibrous Lesion</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Skin Scar</ChildTerm>
+<ChildTerm>Hypertrophic Scar</ChildTerm>
+<ChildTerm>Keloid</ChildTerm>
+<ChildTerm>Skin Tag</ChildTerm>
+<Synonym>Reactive Cutaneous Fibrous Lesion</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

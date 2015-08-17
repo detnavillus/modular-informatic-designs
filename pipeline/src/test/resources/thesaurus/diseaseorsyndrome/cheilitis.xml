@@ -1,0 +1,30 @@
+<Record>
+<Term>Cheilitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Dermatology and Skin</ParentTerm>
+<ParentTerm>Lip Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Dermatology and Skin/Cheilitis Adverse Event</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Lip Diseases/Cheilitis</ClassificationPath>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Cheilitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Dermatology and Skin</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Lip Diseases</BroaderTerm>
+<BroaderTerm>Cheilitis Adverse Event</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>CTCAE Grade 1 Cheilitis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Cheilitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Cheilitis</ChildTerm>
+<Synonym>Cheilitis</Synonym>
+<Synonym>Cheilitides</Synonym>
+<Synonym>Cheilitis Adverse Event</Synonym>
+<Description>Inflammation of the lips. It is of various etiologies and degrees of pathology.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

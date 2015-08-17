@@ -1,0 +1,38 @@
+<Record>
+<Term>Coronary Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Myocardial Ischemia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Coronary Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<ChildTerm>Coronary Occlusion</ChildTerm>
+<ChildTerm>Coronary Artery Disease</ChildTerm>
+<ChildTerm>Coronary Stenosis</ChildTerm>
+<ChildTerm>Coronary Vasospasm</ChildTerm>
+<ChildTerm>Coronary Thrombosis</ChildTerm>
+<ChildTerm>Coronary Aneurysm</ChildTerm>
+<Synonym>CHD</Synonym>
+<Synonym>Coronary Artery Disease</Synonym>
+<Synonym>Coronary Heart Diseases</Synonym>
+<Synonym>Coronary Diseases</Synonym>
+<Synonym>Coronary Heart Disease</Synonym>
+<Synonym>Coronary Disease</Synonym>
+<Description>An imbalance between myocardial functional requirements and the capacity of the CORONARY VESSELS to supply sufficient blood flow. It is a form of MYOCARDIAL ISCHEMIA (insufficient blood supply to the heart muscle) caused by a decreased capacity of the coronary vessels.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

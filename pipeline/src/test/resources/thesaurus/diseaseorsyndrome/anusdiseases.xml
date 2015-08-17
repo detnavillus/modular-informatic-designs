@@ -1,0 +1,17 @@
+<Record>
+<Term>Anus Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rectal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Rectal Diseases/Anus Diseases</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Anus Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Rectal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Anus Neoplasms</ChildTerm>
+<ChildTerm>Pruritus Ani</ChildTerm>
+<ChildTerm>Fissure in Ano</ChildTerm>
+<Synonym>Anus Diseases</Synonym>
+<Synonym>Anus Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

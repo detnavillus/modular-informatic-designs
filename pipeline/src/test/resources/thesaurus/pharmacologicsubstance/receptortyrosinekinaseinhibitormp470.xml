@@ -1,0 +1,17 @@
+<Record>
+<Term>Receptor Tyrosine Kinase Inhibitor MP470</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Receptor Tyrosine Kinase Inhibitor MP470</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Receptor Tyrosine Kinase Inhibitor MP470</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>MP470</Synonym>
+<Synonym>Receptor Tyrosine Kinase Inhibitor MP470</Synonym>
+<Description>An orally bioavailable synthetic carbothioamide with potential antineoplastic activity. Multitargeted receptor tyrosine kinase inhibitor MP470 binds to mutant forms of the stem cell factor receptor (c-Kit; SCFR), inhibiting clinically relevant mutants of this receptor tyrosine kinase that may be associated with resistance to therapy. In addition, MP470 inhibits activities of other receptor tyrosine kinases, such as c-Met, Ret oncoprotein, and mutant forms of Flt3 and PDGFR alpha, which are frequently dysregulated in variety of tumors. This agent also suppresses the induction of DNA repair protein Rad51, thereby potentiating the activities of DNA damage-inducing agents. Mutant forms of c-Kit are often associated with tumor chemoresistance.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

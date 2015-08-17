@@ -1,0 +1,25 @@
+<Record>
+<Term>Tetrandrine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Tetrandrine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Calcium Channel Blocker/Tetrandrine</ClassificationPath>
+<BroaderTerm>Calcium Channel Blocker</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Tetrandrine</BroaderTerm>
+<BroaderTerm>Tetrandrine,</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Berbaman, 6, 6',7,12-trtramethoxy-2,2'-dimethyl-, (1.beta.)-(PM)-(9CI)</Synonym>
+<Synonym>D-Tetrandrine</Synonym>
+<Synonym>DL-Tetrandrine</Synonym>
+<Synonym>Pheanthine</Synonym>
+<Synonym>Tetrandrine</Synonym>
+<Description>A natural, bis-benzylisoquinoline alkaloid isolated from the root of the plant Radix stephania tetrandrae.  Tetrandrine non-selectively inhibits calcium channel activity and induces G1 blockade of the G1 phase of the cell cycle and apoptosis in various cell types, resulting in immunosuppressive, anti-proliferative and free radical scavenging effects. This agent also increases glucose utilization by enhancing hepatocyte glycogen synthesis, resulting in the lowering of plasma glucose. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

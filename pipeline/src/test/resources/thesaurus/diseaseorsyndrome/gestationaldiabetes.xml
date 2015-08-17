@@ -1,0 +1,34 @@
+<Record>
+<Term>Gestational Diabetes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Diabetes, Gestational</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Diabetes, Gestational</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes, Gestational</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Diabetes Mellitus/Gestational Diabetes Mellitus</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gestational Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetes, Gestational</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<ChildTerm>Fetal Macrosomia</ChildTerm>
+<Synonym>Diabetes in Pregnancy</Synonym>
+<Synonym>Gestational Diabetes</Synonym>
+<Synonym>Gestational Diabetes Mellitus</Synonym>
+<Synonym>Pregnancy-Induced Diabetes</Synonym>
+<Description>Diabetes mellitus induced by PREGNANCY but resolved at the end of pregnancy. It does not include previously diagnosed diabetics who become pregnant (PREGNANCY IN DIABETICS). Gestational diabetes usually develops in late pregnancy when insulin antagonistic hormones peaks leading to INSULIN RESISTANCE; GLUCOSE INTOLERANCE; and HYPERGLYCEMIA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

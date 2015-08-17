@@ -1,0 +1,33 @@
+<Record>
+<Term>Inborn Errors Amino Acid Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Phenylketonurias</ChildTerm>
+<ChildTerm>Hyperlysinemias</ChildTerm>
+<ChildTerm>Hyperhomocysteinemia</ChildTerm>
+<ChildTerm>Albinism</ChildTerm>
+<ChildTerm>Propionic Acidemia</ChildTerm>
+<ChildTerm>Maple Syrup Urine Disease</ChildTerm>
+<ChildTerm>Prolidase Deficiency</ChildTerm>
+<ChildTerm>Multiple Acyl Coenzyme A Dehydrogenase Deficiency</ChildTerm>
+<ChildTerm>Hyperglycinemia, Nonketotic</ChildTerm>
+<ChildTerm>Tyrosinemias</ChildTerm>
+<ChildTerm>Alkaptonuria</ChildTerm>
+<ChildTerm>Urea Cycle Disorders, Inborn</ChildTerm>
+<ChildTerm>Multiple Carboxylase Deficiency</ChildTerm>
+<Synonym>Congenital Amino Acidopathies</Synonym>
+<Synonym>Inborn Amino Acidopathy</Synonym>
+<Synonym>Inherited Errors of Amino Acid Metabolism</Synonym>
+<Synonym>Congenital Amino Acidopathy</Synonym>
+<Synonym>Inborn Amino Acidopathies</Synonym>
+<Description>Disorders affecting amino acid metabolism. The majority of these disorders are inherited and present in the neonatal period with metabolic disturbances (e.g., ACIDOSIS) and neurologic manifestations. They are present at birth, although they may not become symptomatic until later in life.</Description>
+<Source>MeSH</Source>
+</Record>

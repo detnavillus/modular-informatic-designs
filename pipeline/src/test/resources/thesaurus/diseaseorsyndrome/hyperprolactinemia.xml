@@ -1,0 +1,23 @@
+<Record>
+<Term>Hyperprolactinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperpituitarism</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hyperpituitarism/Hyperprolactinemia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Hyperpituitarism/Hyperprolactinemia</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hyperprolactinemia</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Hyperpituitarism</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Hyperprolactinemia</Synonym>
+<Synonym>Hyperprolactinemias</Synonym>
+<Synonym>Inappropriate Secretion Prolactin</Synonym>
+<Synonym>Inappropriate Prolactin Secretion</Synonym>
+<Synonym>Inappropriate Prolactin Secretion Syndrome</Synonym>
+<Synonym>Prolactin Hypersecretion Syndrome</Synonym>
+<Description>Increased levels of PROLACTIN in the BLOOD, which may be associated with AMENORRHEA and GALACTORRHEA. Relatively common etiologies include PROLACTINOMA, medication effect, KIDNEY FAILURE, granulomatous diseases of the PITUITARY GLAND, and disorders which interfere with the hypothalamic inhibition of prolactin release. Ectopic (non-pituitary) production of prolactin may also occur. (From Joynt, Clinical Neurology, 1992, Ch36, pp77-8)</Description>
+<Source>MeSH</Source>
+</Record>

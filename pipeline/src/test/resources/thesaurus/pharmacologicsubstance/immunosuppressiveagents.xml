@@ -1,0 +1,74 @@
+<Record>
+<Term>Immunosuppressive Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Immunologic Factors</ParentTerm>
+<ParentTerm>Biological Response Modifier</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Immunologic Factors/Immunosuppressive Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Immunosuppressive Agents</BroaderTerm>
+<BroaderTerm>Immunologic Factors</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Anti-Thymocyte Globulin</ChildTerm>
+<ChildTerm>Didemnin B</ChildTerm>
+<ChildTerm>Therapeutic Corticosteroid</ChildTerm>
+<ChildTerm>L-Leucyl-L-Leucine Methyl Ester</ChildTerm>
+<ChildTerm>Beauvericin</ChildTerm>
+<ChildTerm>Cyclosporine</ChildTerm>
+<ChildTerm>Azathioprine</ChildTerm>
+<ChildTerm>Complement Inactivating Agents</ChildTerm>
+<ChildTerm>Aspergillin</ChildTerm>
+<ChildTerm>Anaxirone</ChildTerm>
+<ChildTerm>Daclizumab</ChildTerm>
+<ChildTerm>Ropivacaine</ChildTerm>
+<ChildTerm>Thioinosine</ChildTerm>
+<ChildTerm>Mesulfen</ChildTerm>
+<ChildTerm>Sirolimus</ChildTerm>
+<ChildTerm>Basiliximab</ChildTerm>
+<ChildTerm>Tacrolimus</ChildTerm>
+<ChildTerm>Mycophenolate Mofetil Hydrochloride</ChildTerm>
+<ChildTerm>Alefacept</ChildTerm>
+<ChildTerm>Abatacept</ChildTerm>
+<ChildTerm>Phosphoramide Mustard</ChildTerm>
+<ChildTerm>Everolimus</ChildTerm>
+<ChildTerm>Vesnarinone</ChildTerm>
+<ChildTerm>Mycophenolic Acid</ChildTerm>
+<ChildTerm>Cyclophosphamide Anhydrous</ChildTerm>
+<ChildTerm>Etanercept</ChildTerm>
+<ChildTerm>Gusperimus</ChildTerm>
+<ChildTerm>Prospidium Chloride</ChildTerm>
+<ChildTerm>Azathioprine Sodium</ChildTerm>
+<ChildTerm>Cycloleucine</ChildTerm>
+<ChildTerm>Ocrelizumab</ChildTerm>
+<ChildTerm>Interleukin-1 Receptor Antagonist</ChildTerm>
+<ChildTerm>Ropivacaine Hydrochloride Monohydrate</ChildTerm>
+<ChildTerm>Mercaptopurine Anhydrous</ChildTerm>
+<ChildTerm>1-Methyl-d-Tryptophan</ChildTerm>
+<ChildTerm>Tresperimus</ChildTerm>
+<ChildTerm>Pimecrolimus</ChildTerm>
+<ChildTerm>Atrimustine</ChildTerm>
+<ChildTerm>Mizoribine</ChildTerm>
+<ChildTerm>Cyclophosphamide</ChildTerm>
+<ChildTerm>SR31747A</ChildTerm>
+<ChildTerm>Iguratimod</ChildTerm>
+<ChildTerm>Auranofin</ChildTerm>
+<ChildTerm>Myeloablative Agonists</ChildTerm>
+<ChildTerm>Adalimumab</ChildTerm>
+<ChildTerm>Mycophenolate</ChildTerm>
+<ChildTerm>Tetrandrine</ChildTerm>
+<ChildTerm>Mycophenolate Mofetil</ChildTerm>
+<Synonym>Immunosuppressant</Synonym>
+<Synonym>Immunosuppressants</Synonym>
+<Synonym>Immunosuppressive Agents</Synonym>
+<Synonym>immunosuppressive</Synonym>
+<Description>Agents that suppress immune function by one of several mechanisms of action. Classical cytotoxic immunosuppressants act by inhibiting DNA synthesis. Others may act through activation of T-CELLS or by inhibiting the activation of HELPER CELLS. While immunosuppression has been brought about in the past primarily to prevent rejection of transplanted organs, new applications involving mediation of the effects of INTERLEUKINS and other CYTOKINES are emerging.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

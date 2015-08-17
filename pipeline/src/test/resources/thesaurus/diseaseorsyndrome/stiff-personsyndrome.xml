@@ -1,0 +1,28 @@
+<Record>
+<Term>Stiff-Person Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases of the Nervous System</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Stiff-Person Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Stiff-Person Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Stiff-Person Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Stiff-Person Syndrome</ClassificationPath>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Stiff-Person Syndrome</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>Stiffman Syndrome</Synonym>
+<Synonym>Stiff Man Syndrome</Synonym>
+<Synonym>Stiff Person Syndrome</Synonym>
+<Synonym>Stiff-Man Syndrome</Synonym>
+<Synonym>Stiff-Person Syndrome</Synonym>
+<Synonym>Moersch Woltmann Syndrome</Synonym>
+<Synonym>Moersch-Woltmann Syndrome</Synonym>
+<Description>A condition characterized by persistent spasms (SPASM) involving multiple muscles, primarily in the lower limbs and trunk. The illness tends to occur in the fourth to sixth decade of life, presenting with intermittent spasms that become continuous. Minor sensory stimuli, such as noise and light touch, precipitate severe spasms. Spasms do not occur during sleep and only rarely involve cranial muscles. Respiration may become impaired in advanced cases. (Adams et al., Principles of Neurology, 6th ed, p1492; Neurology 1998 Jul;51(1):85-93)</Description>
+<Source>MeSH</Source>
+</Record>

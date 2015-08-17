@@ -1,0 +1,15 @@
+<Record>
+<Term>CD40 Ligand Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunodeficiency Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/CD40 Ligand Deficiency</ClassificationPath>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>CD40 Ligand Deficiency</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>CD40 Ligand Deficiency</Synonym>
+<Description>Patients with the X-linked hyper IgM syndrome have a deficiency of a protein, CD40 ligand that is found on the surface of T-lymphocytes. As a consequence of the deficiency of this protein, their T-lymphocytes are unable to instruct B-lymphocytes to switch their production of gamma globulins from IgM to IgG and IgA. As a result, patients have decreased levels of IgG and IgA and normal or elevated levels of IgM. In addition, since CD40 ligand is important to other functions of T-lymphocytes, they also have a defect in some of the protective functions of their T-lymphocytes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

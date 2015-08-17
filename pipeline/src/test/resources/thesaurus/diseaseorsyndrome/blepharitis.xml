@@ -1,0 +1,13 @@
+<Record>
+<Term>Blepharitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eyelid Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eyelid Diseases/Blepharitis</ClassificationPath>
+<BroaderTerm>Blepharitis</BroaderTerm>
+<BroaderTerm>Eyelid Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Blepharitis</Synonym>
+<Synonym>Blepharitides</Synonym>
+<Description>Inflammation of the eyelids.</Description>
+<Source>MeSH</Source>
+</Record>

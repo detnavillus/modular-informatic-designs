@@ -1,0 +1,21 @@
+<Record>
+<Term>Postmenopausal Osteoporosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteoporosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Osteoporosis/Osteoporosis, Postmenopausal</ClassificationPath>
+<BroaderTerm>Osteoporosis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Osteoporosis, Postmenopausal</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Perimenopausal Bone Loss</Synonym>
+<Synonym>Postmenopausal Bone Losses</Synonym>
+<Synonym>Post-Menopausal Osteoporoses</Synonym>
+<Synonym>Post-Menopausal Osteoporosis</Synonym>
+<Synonym>Postmenopausal Osteoporosis</Synonym>
+<Synonym>Postmenopausal Osteoporoses</Synonym>
+<Synonym>Perimenopausal Bone Losses</Synonym>
+<Synonym>Postmenopausal Bone Loss</Synonym>
+<Description>Metabolic disorder associated with fractures of the femoral neck, vertebrae, and distal forearm. It occurs commonly in women within 15-20 years after menopause, and is caused by factors associated with menopause including estrogen deficiency.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Airway Obstruction</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Respiratory System Finding</ParentTerm>
+<ParentTerm>Respiratory Insufficiency</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Insufficiency/Airway Obstruction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Respiratory System Finding/Airway Obstruction</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Respiratory System Finding</BroaderTerm>
+<BroaderTerm>Airway Obstruction</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Respiratory Insufficiency</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nasal Obstruction</ChildTerm>
+<Synonym>Airway Obstructions</Synonym>
+<Synonym>Airway Obstruction</Synonym>
+<Synonym>Choking</Synonym>
+<Description>Any hindrance to the passage of air into and out of the lungs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

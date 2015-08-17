@@ -1,0 +1,22 @@
+<Record>
+<Term>Angiogenesis Inducing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Angiogenesis Modulating Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Growth Substances/Angiogenesis Modulating Agents/Angiogenesis Inducing Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Angiogenesis Inducing Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Angiogenesis Modulating Agents</BroaderTerm>
+<BroaderTerm>Growth Substances</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Angiogenesis Inducing Agents</Synonym>
+<Synonym>Angiogenesis Stimulating Agents</Synonym>
+<Synonym>Angiogenesis Stimulators</Synonym>
+<Synonym>Angiogenesis Inducers</Synonym>
+<Synonym>Tumor Angiogenic Factor</Synonym>
+<Synonym>Angiogenesis Factor</Synonym>
+<Synonym>Angiogenic Factor</Synonym>
+<Description>Agents that induce or stimulate the PHYSIOLOGIC ANGIOGENESIS process. This is caused by a number of ANGIOGENIC PROTEINS.Substance causing proliferation of new blood vessels. It is found in tissues with high metabolic requirements, such as the retina, and in certain cancers.  The factor is also released by hypoxic macrophages at the edges or outer surfaces of wounds and initiates revascularization in wound healing.</Description>
+<Source>MeSH</Source>
+</Record>

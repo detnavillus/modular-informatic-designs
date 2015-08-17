@@ -1,0 +1,22 @@
+<Record>
+<Term>Potassium Perchlorate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antithyroid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Antithyroid Agent/Potassium Perchlorate</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antithyroid Agent</BroaderTerm>
+<BroaderTerm>Potassium Perchlorate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Potassium perchlorate</Synonym>
+<Synonym>Perchloric Acid, Potassium Salt</Synonym>
+<Synonym>Astrumal</Synonym>
+<Synonym>POTASSIUM PERCHLORATE</Synonym>
+<Synonym>Potassium Perchlorate</Synonym>
+<Synonym>Perchloracap</Synonym>
+<Description>The potassium salt of perchloric acid and a member of the Hofmeister ions series with thyroid blocking properties. Potassium perchlorate is a competitive inhibitor of iodine uptake through inhibiting the sodium-iodide symporter (NIS) on the thyroid follicular cell membrane. This results in a potential decrease in thyroid hormone synthesis including thyroxine (T4) and tri-iodothyronine (T3). In addition, this agent decreases the accumulation of the radioactive imaging substance and Hofmeister series ion, pertechnetate Tc 99m, in the choroid plexus and in the salivary and thyroid glands through competitive displacing.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

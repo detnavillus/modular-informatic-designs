@@ -1,0 +1,38 @@
+<Record>
+<Term>Heart Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiovascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases</ClassificationPath>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Arrhythmias, Cardiac</ChildTerm>
+<ChildTerm>Carcinoid Heart Disease</ChildTerm>
+<ChildTerm>Cardiac Output, Low</ChildTerm>
+<ChildTerm>Cardiac Tamponade</ChildTerm>
+<ChildTerm>Cardiomyopathies</ChildTerm>
+<ChildTerm>Cardiomegaly</ChildTerm>
+<ChildTerm>Heart Valve Diseases</ChildTerm>
+<ChildTerm>Heart Defects, Congenital</ChildTerm>
+<ChildTerm>Myocardial Ischemia</ChildTerm>
+<ChildTerm>Heart Failure</ChildTerm>
+<ChildTerm>Endocarditis</ChildTerm>
+<ChildTerm>Ventricular Outflow Obstruction</ChildTerm>
+<ChildTerm>Pericardial Effusion</ChildTerm>
+<ChildTerm>Pericarditis</ChildTerm>
+<ChildTerm>Pneumopericardium</ChildTerm>
+<ChildTerm>Postpericardiotomy Syndrome</ChildTerm>
+<ChildTerm>Pulmonary Heart Disease</ChildTerm>
+<ChildTerm>Rheumatic Heart Disease</ChildTerm>
+<ChildTerm>Cardiac Output, High</ChildTerm>
+<ChildTerm>Heart Arrest</ChildTerm>
+<ChildTerm>Ventricular Dysfunction</ChildTerm>
+<ChildTerm>Heart Rupture</ChildTerm>
+<ChildTerm>Heart Neoplasms</ChildTerm>
+<ChildTerm>Heart Aneurysm</ChildTerm>
+<Synonym>Heart Diseases</Synonym>
+<Synonym>Heart Disease</Synonym>
+<Synonym>Cardiac Diseases</Synonym>
+<Synonym>Cardiac Disease</Synonym>
+<Description>Pathological conditions involving the HEART including its structural and functional abnormalities.</Description>
+<Source>MeSH</Source>
+</Record>

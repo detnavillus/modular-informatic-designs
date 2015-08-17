@@ -1,0 +1,14 @@
+<Record>
+<Term>Rotavirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Reoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Reoviridae Infections/Rotavirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Rotavirus Infections</BroaderTerm>
+<BroaderTerm>Reoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Rotavirus Infections</Synonym>
+<Synonym>Rotavirus Infection</Synonym>
+<Description>Infection with any of the rotaviruses. Specific infections include human infantile diarrhea, neonatal calf diarrhea, and epidemic diarrhea of infant mice.</Description>
+<Source>MeSH</Source>
+</Record>

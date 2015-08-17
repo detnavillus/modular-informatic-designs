@@ -1,0 +1,20 @@
+<Record>
+<Term>Fascioliasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases, Parasitic</ParentTerm>
+<ParentTerm>Trematode Infections</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Parasitic/Fascioliasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Liver Diseases, Parasitic/Fascioliasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Fascioliasis</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Fascioliasis</BroaderTerm>
+<BroaderTerm>Liver Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Fascioliasis</Synonym>
+<Synonym>Fascioliases</Synonym>
+<Description>Liver disease caused by infections with parasitic flukes of the genus FASCIOLA, such as FASCIOLA HEPATICA.</Description>
+<Source>MeSH</Source>
+</Record>

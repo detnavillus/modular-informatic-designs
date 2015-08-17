@@ -1,0 +1,19 @@
+<Record>
+<Term>Trigeminal Autonomic Cephalalgias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Headache Disorders, Primary</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders/Headache Disorders, Primary/Trigeminal Autonomic Cephalalgias</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Trigeminal Autonomic Cephalalgias</BroaderTerm>
+<BroaderTerm>Headache Disorders, Primary</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Cluster Headache</ChildTerm>
+<ChildTerm>SUNCT Syndrome</ChildTerm>
+<ChildTerm>Paroxysmal Hemicrania</ChildTerm>
+<Synonym>Trigeminal Autonomic Cephalalgias</Synonym>
+<Synonym>Trigeminal Autonomic Cephalalgia</Synonym>
+<Description>Primary headache disorders that show symptoms caused by the activation of the AUTONOMIC NERVOUS SYSTEM of the TRIGEMINAL NERVE. These autonomic features include redness and tearing of the EYE, nasal congestion or discharge, facial SWEATING and other symptoms. Most subgroups show unilateral cranial PAIN.</Description>
+<Source>MeSH</Source>
+</Record>

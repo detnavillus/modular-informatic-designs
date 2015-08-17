@@ -1,0 +1,27 @@
+<Record>
+<Term>Meningeal Carcinomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Meningeal Neoplasms</ParentTerm>
+<ClassificationPath>Meningeal Carcinomatosis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Central Nervous System Neoplasms/Meningeal Neoplasms/Meningeal Carcinomatosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Nervous System Neoplasms/Central Nervous System Neoplasms/Meningeal Neoplasms/Meningeal Carcinomatosis</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Central Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Meningeal Carcinomatosis</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Meningeal Neoplasms</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Meningeal Carcinomatosis</Synonym>
+<Synonym>Meningeal Carcinomatoses</Synonym>
+<Synonym>Leptomeningeal Carcinomatosis</Synonym>
+<Synonym>Leptomeningeal Carcinomatoses</Synonym>
+<Synonym>Carcinomatous Meningitis</Synonym>
+<Synonym>Carcinomatosis of the Meninges</Synonym>
+<Synonym>Carcinomatous Meningitides</Synonym>
+<Description>Primary or secondary neoplasm in the ARACHNOID or SUBARACHNOID SPACE. It appears as a diffuse fibrotic thickening of the MENINGES associated with variable degrees of inflammation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

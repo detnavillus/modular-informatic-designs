@@ -1,0 +1,24 @@
+<Record>
+<Term>Toxocariasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ParentTerm>Ascaridida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections/Toxocariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Toxocariasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Toxocariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Toxocariasis</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Toxocariasis</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<ChildTerm>Larva Migrans, Visceral</ChildTerm>
+<Synonym>Toxocariases</Synonym>
+<Synonym>Toxocariasis</Synonym>
+<Description>Infection by round worms of the genus TOXOCARA, usually found in wild and domesticated cats and dogs and foxes, except for the larvae, which may produce visceral and ocular larva migrans in man.</Description>
+<Source>MeSH</Source>
+</Record>

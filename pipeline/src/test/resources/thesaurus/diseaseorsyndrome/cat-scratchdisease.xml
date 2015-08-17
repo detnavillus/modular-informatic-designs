@@ -1,0 +1,28 @@
+<Record>
+<Term>Cat-Scratch Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphadenitis</ParentTerm>
+<ParentTerm>Bartonella Infections</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Cat-Scratch Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bartonellaceae Infections/Bartonella Infections/Cat-Scratch Disease</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphadenitis/Cat-Scratch Disease</ClassificationPath>
+<BroaderTerm>Bartonellaceae Infections</BroaderTerm>
+<BroaderTerm>Cat-Scratch Disease</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphadenitis</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Bartonella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Cat Scratch Disease</Synonym>
+<Synonym>Inoculation Lymphoreticuloses</Synonym>
+<Synonym>Cat-Scratch Disease</Synonym>
+<Synonym>Inoculation Lymphoreticulosis</Synonym>
+<Synonym>Inoculative Lymphoreticuloses</Synonym>
+<Synonym>Catscratch Disease</Synonym>
+<Synonym>Inoculative Lymphoreticulosis</Synonym>
+<Description>A self-limiting bacterial infection of the regional lymph nodes caused by AFIPIA felis, a gram-negative bacterium recently identified by the Centers for Disease Control and Prevention and by BARTONELLA HENSELAE. It usually arises one or more weeks following a feline scratch, with raised inflammatory nodules at the site of the scratch being the primary symptom.</Description>
+<Source>MeSH</Source>
+</Record>

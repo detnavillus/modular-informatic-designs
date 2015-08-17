@@ -1,0 +1,27 @@
+<Record>
+<Term>Urologic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Male Urogenital Diseases</ParentTerm>
+<ParentTerm>Female Urogenital Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Urolithiasis</ChildTerm>
+<ChildTerm>Urinary Tract Infections</ChildTerm>
+<ChildTerm>Ureteral Diseases</ChildTerm>
+<ChildTerm>Kidney Diseases</ChildTerm>
+<ChildTerm>Urination Disorders</ChildTerm>
+<ChildTerm>Urinary Bladder Diseases</ChildTerm>
+<ChildTerm>Urethral Diseases</ChildTerm>
+<Synonym>Urological Disease</Synonym>
+<Synonym>Urologic Disease</Synonym>
+<Synonym>Urologic Diseases</Synonym>
+<Synonym>Urinary Tract Diseases</Synonym>
+<Synonym>Urological Diseases</Synonym>
+<Synonym>Urinary Tract Disease</Synonym>
+<Description>Pathological processes of the URINARY TRACT in both males and females.</Description>
+<Source>MeSH</Source>
+</Record>

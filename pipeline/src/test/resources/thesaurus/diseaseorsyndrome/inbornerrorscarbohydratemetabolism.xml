@@ -1,0 +1,27 @@
+<Record>
+<Term>Inborn Errors Carbohydrate Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Lactose Intolerance</ChildTerm>
+<ChildTerm>Galactosemias</ChildTerm>
+<ChildTerm>Mucolipidoses</ChildTerm>
+<ChildTerm>Pyruvate Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Fucosidosis</ChildTerm>
+<ChildTerm>Mucopolysaccharidoses</ChildTerm>
+<ChildTerm>Mannosidase Deficiency Diseases</ChildTerm>
+<ChildTerm>Glycogen Storage Disease</ChildTerm>
+<ChildTerm>Glucosephosphate Dehydrogenase Deficiency</ChildTerm>
+<ChildTerm>Hyperoxaluria, Primary</ChildTerm>
+<ChildTerm>Carbohydrate-Deficient Glycoprotein Syndrome</ChildTerm>
+<ChildTerm>Multiple Carboxylase Deficiency</ChildTerm>
+<ChildTerm>Fructose Metabolism, Inborn Errors</ChildTerm>
+<Source>MeSH</Source>
+</Record>

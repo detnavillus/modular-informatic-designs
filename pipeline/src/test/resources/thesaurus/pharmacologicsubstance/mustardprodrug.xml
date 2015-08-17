@@ -1,0 +1,19 @@
+<Record>
+<Term>Mustard Prodrug</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mustard Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Mustard Agent/Mustard Prodrug</ClassificationPath>
+<BroaderTerm>Mustard Prodrug</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mustard Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>ZD2767</ChildTerm>
+<ChildTerm>TLK286</ChildTerm>
+<Synonym>Mustard Prodrug</Synonym>
+<Description>An agent when activated is converted into an active mustard alkylating agent at the tumor site, causing DNA cross-linking.  These compounds may be used in antibody-directed enzyme prodrug therapy (ADEPT).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

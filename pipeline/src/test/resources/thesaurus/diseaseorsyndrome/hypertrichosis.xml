@@ -1,0 +1,15 @@
+<Record>
+<Term>Hypertrichosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Hair Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Hypertrichosis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Hypertrichosis</BroaderTerm>
+<Synonym>Hypertrichosis</Synonym>
+<Synonym>Hypertrichoses</Synonym>
+<Description>Excessive hair growth at inappropriate locations, such as on the extremities, the head, and the back. It is caused by genetic or acquired factors, and is an androgen-independent process. This concept does not include HIRSUTISM which is an androgen-dependent excess hair growth in WOMEN and CHILDREN.</Description>
+<Source>MeSH</Source>
+</Record>

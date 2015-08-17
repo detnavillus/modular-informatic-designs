@@ -1,0 +1,26 @@
+<Record>
+<Term>Colorectal Juvenile Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Juvenile Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Juvenile Polyp/Colorectal Juvenile Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Colorectal Polyp/Colorectal Juvenile Polyp</ClassificationPath>
+<BroaderTerm>Colorectal Juvenile Polyp,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Juvenile Polyp</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Colorectal Polyp</BroaderTerm>
+<BroaderTerm>Colorectal Juvenile Polyp</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Colon Juvenile Polyp</ChildTerm>
+<ChildTerm>Rectal Juvenile Polyp</ChildTerm>
+<Synonym>Colorectal Juvenile Polyp</Synonym>
+<Synonym>Juvenile Polyp of Large Bowel</Synonym>
+<Synonym>Juvenile Polyp of the Large Bowel</Synonym>
+<Synonym>Large Bowel Juvenile Polyp</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

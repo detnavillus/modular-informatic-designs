@@ -1,0 +1,20 @@
+<Record>
+<Term>Antioxidants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ParentTerm>Protective Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Antioxidants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antioxidants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Antioxidants</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Antioxidants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<ChildTerm>Free Radical Scavengers</ChildTerm>
+<Synonym>Antioxidants</Synonym>
+<Description>Naturally occurring or synthetic substances that inhibit or retard the oxidation of a substance to which it is added. They counteract the harmful and damaging effects of oxidation in animal tissues.</Description>
+<Source>MeSH</Source>
+</Record>

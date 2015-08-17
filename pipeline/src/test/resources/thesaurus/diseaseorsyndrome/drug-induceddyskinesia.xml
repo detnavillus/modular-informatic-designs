@@ -1,0 +1,27 @@
+<Record>
+<Term>Drug-Induced Dyskinesia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug Toxicity</ParentTerm>
+<ParentTerm>Dyskinesias</ParentTerm>
+<ParentTerm>Neurotoxicity Syndromes</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Dyskinesias/Dyskinesia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Dyskinesia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Dyskinesia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Dyskinesia, Drug-Induced</ClassificationPath>
+<BroaderTerm>Dyskinesia, Drug-Induced</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Medication-Induced Dyskinesia</Synonym>
+<Synonym>Drug-Induced Dyskinesia</Synonym>
+<Synonym>Drug-Induced Dyskinesias</Synonym>
+<Synonym>Medication-Induced Dyskinesias</Synonym>
+<Synonym>Medication Induced Dyskinesia</Synonym>
+<Description>Abnormal movements, including HYPERKINESIS; HYPOKINESIA; TREMOR; and DYSTONIA, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents (see ANTIPSYCHOTIC AGENTS). (Adams et al., Principles of Neurology, 6th ed, p1199)</Description>
+<Source>MeSH</Source>
+</Record>

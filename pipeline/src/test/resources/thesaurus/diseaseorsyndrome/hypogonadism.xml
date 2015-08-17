@@ -1,0 +1,34 @@
+<Record>
+<Term>Hypogonadism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Gonadal Disorder</ParentTerm>
+<ParentTerm>Gonadal Disorders</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Hypogonadism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Hypogonadism,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Gonadal Disorder/Non-Neoplastic Gonadal Disorder/Hypogonadism</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Hypogonadism</BroaderTerm>
+<BroaderTerm>Hypogonadism,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gonadal Disorder</BroaderTerm>
+<BroaderTerm>Gonadal Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<ChildTerm>Klinefelter Syndrome</ChildTerm>
+<ChildTerm>Kallmann Syndrome</ChildTerm>
+<ChildTerm>Sexual Infantilism</ChildTerm>
+<ChildTerm>Eunuchism</ChildTerm>
+<Synonym>Hypergonadotropic Hypogonadism</Synonym>
+<Synonym>Hypogonadotropic Hypogonadism</Synonym>
+<Synonym>Hypogonadism</Synonym>
+<Synonym>Hypogonadotropism</Synonym>
+<Description>Condition resulting from deficient gonadal functions, such as GAMETOGENESIS and the production of GONADAL STEROID HORMONES. It is characterized by delay in GROWTH, germ cell maturation, and development of secondary sex characteristics. Hypogonadism can be due to a deficiency of GONADOTROPINS (hypogonadotropic hypogonadism) or due to primary gonadal failure (hypergonadotropic hypogonadism).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

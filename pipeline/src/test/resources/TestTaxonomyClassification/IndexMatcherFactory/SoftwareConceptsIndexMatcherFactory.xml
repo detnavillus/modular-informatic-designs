@@ -1,0 +1,11 @@
+<IndexMatcherFactory name="SoftwareConceptsIndexMatcherFactory"
+                     class="com.modinfodesigns.ontology.TaxonomyIndexMatcherFactory" >
+
+  <TaxonomyBuilderRef>SoftwareConceptsTaxonomyBuilder</TaxonomyBuilderRef>
+
+  <EvidenceProperty>Synonyms</EvidenceProperty>
+  <EvidenceProperty>Keywords</EvidenceProperty>
+
+  <ExcludeProperty>ExcludeTerms</ExcludeProperty>
+
+</IndexMatcherFactory>

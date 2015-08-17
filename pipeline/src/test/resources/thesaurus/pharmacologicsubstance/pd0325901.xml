@@ -1,0 +1,17 @@
+<Record>
+<Term>PD0325901</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Mitogen-Activated Protein Kinase Kianse Inhibitor/PD0325901</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>PD0325901</BroaderTerm>
+<BroaderTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>PD-0325901</Synonym>
+<Synonym>PD0325901</Synonym>
+<Description>An orally bioavailable, synthetic organic molecule targeting mitogen-activated protein kinase kinase (MAPK/ERK kinase or MEK) with potential antineoplastic activity. MEK inhibitor PD325901, a derivative of MEK inhibitor CI-1040, selectively binds to and inhibits MEK, which may result in the inhibition of the phosphorylation and activation of MAPK/ERK and the inhibition of tumor cell proliferation. The dual specific threonine/tyrosine kinase MEK is a key component of the RAS/RAF/MEK/ERK signaling pathway that is frequently activated in human tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

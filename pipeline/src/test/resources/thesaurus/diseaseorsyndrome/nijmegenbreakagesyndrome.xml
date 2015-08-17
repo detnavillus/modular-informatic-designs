@@ -1,0 +1,22 @@
+<Record>
+<Term>Nijmegen Breakage Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ParentTerm>DNA Repair Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/DNA Repair Disorder/Nijmegen Breakage Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Nijmegen Breakage Syndrome</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<BroaderTerm>Nijmegen Breakage Syndrome</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>DNA Repair Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Nijmegen Breakage Syndrome</Synonym>
+<Description>A chromosome instability syndrome resulting from a defective response to DNA double-strand breaks. In addition to characteristic FACIES and MICROCEPHALY, patients have a range of findings including RADIOSENSITIVITY, immunodeficiency, increased cancer risk, and growth retardation. Causative mutations occur in the NBS1 gene, located on human chromosome 8q21. NBS1 codes for nibrin, the key regulator protein of the R/M/N (RAD50/MRE11/NBS1) protein complex which senses and mediates cellular response to DNA DAMAGE caused by IONIZING RADIATION.</Description>
+<Description>A disorder, wherein unstable chromosomes have a tendency to break and become rearranged, characterized by microcephaly, stunted growth, subnormal mental development, cafe-au-lait spots, and immunodeficiency. The syndrome is named after the University of Nijmegen in the Netherlands. (JABL99)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

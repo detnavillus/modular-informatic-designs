@@ -1,0 +1,22 @@
+<Record>
+<Term>Occupational Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorders of Environmental Origin</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<ChildTerm>Pneumoconiosis</ChildTerm>
+<ChildTerm>Bird Fancier's Lung</ChildTerm>
+<ChildTerm>Agricultural Workers' Diseases</ChildTerm>
+<ChildTerm>Persian Gulf Syndrome</ChildTerm>
+<ChildTerm>Sleep Disorders, Circadian Rhythm</ChildTerm>
+<ChildTerm>Hand-Arm Vibration Syndrome</ChildTerm>
+<ChildTerm>High Pressure Neurological Syndrome</ChildTerm>
+<ChildTerm>Inert Gas Narcosis</ChildTerm>
+<ChildTerm>Laboratory Infection</ChildTerm>
+<ChildTerm>Dermatitis, Occupational</ChildTerm>
+<Synonym>Occupational Diseases</Synonym>
+<Synonym>Occupational Disease</Synonym>
+<Description>Diseases due to factors involved in one's employment. (From Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

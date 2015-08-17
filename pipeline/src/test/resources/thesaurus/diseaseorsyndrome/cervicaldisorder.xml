@@ -1,0 +1,18 @@
+<Record>
+<Term>Cervical Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uterine Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Cervical Disorder</ClassificationPath>
+<BroaderTerm>Cervical Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cervical Polyp</ChildTerm>
+<ChildTerm>Cervical Non-Neoplastic Disorder</ChildTerm>
+<Synonym>Cervical Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

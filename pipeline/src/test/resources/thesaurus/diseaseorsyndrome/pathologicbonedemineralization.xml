@@ -1,0 +1,14 @@
+<Record>
+<Term>Pathologic Bone Demineralization</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Bone Demineralization, Pathologic</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Demineralization, Pathologic</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Decalcification, Pathologic</ChildTerm>
+<Synonym>Pathologic Bone Demineralization</Synonym>
+<Description>Decrease, loss, or removal of the mineral constituents of bones. Temporary loss of bone mineral content is especially associated with space flight, weightlessness, and extended immobilization. OSTEOPOROSIS is permanent, includes reduction of total bone mass, and is associated with increased rate of fractures. CALCIFICATION, PHYSIOLOGIC is the process of bone remineralizing. (From Dorland, 27th ed; Stedman, 25th ed; Nicogossian, Space Physiology and Medicine, 2d ed, pp327-33)</Description>
+<Source>MeSH</Source>
+</Record>

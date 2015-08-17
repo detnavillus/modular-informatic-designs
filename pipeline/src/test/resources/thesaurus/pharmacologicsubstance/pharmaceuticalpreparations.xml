@@ -1,0 +1,33 @@
+<Record>
+<Term>Pharmaceutical Preparations</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<ChildTerm>Dosage Forms</ChildTerm>
+<ChildTerm>Solutions</ChildTerm>
+<ChildTerm>Pharmaceutic Aids</ChildTerm>
+<ChildTerm>Drug Combinations</ChildTerm>
+<ChildTerm>Drugs, Chinese Herbal</ChildTerm>
+<ChildTerm>Nonprescription Drugs</ChildTerm>
+<ChildTerm>Placebos</ChildTerm>
+<ChildTerm>Plant Extracts</ChildTerm>
+<ChildTerm>Prodrugs</ChildTerm>
+<ChildTerm>Street Drugs</ChildTerm>
+<ChildTerm>Vaginal Creams, Foams, and Jellies</ChildTerm>
+<ChildTerm>Designer Drugs</ChildTerm>
+<ChildTerm>Xenobiotics</ChildTerm>
+<ChildTerm>Drugs, Investigational</ChildTerm>
+<ChildTerm>Drugs, Generic</ChildTerm>
+<ChildTerm>Drugs, Essential</ChildTerm>
+<ChildTerm>Veterinary Drugs</ChildTerm>
+<ChildTerm>Pharmaceutical Preparations, Dental</ChildTerm>
+<ChildTerm>Prescription Drugs</ChildTerm>
+<ChildTerm>Materia Medica</ChildTerm>
+<ChildTerm>Nostrums</ChildTerm>
+<Synonym>Pharmaceutical Preparations</Synonym>
+<Synonym>Drugs</Synonym>
+<Synonym>Pharmaceutic Preparations</Synonym>
+<Description>Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form.</Description>
+<Source>MeSH</Source>
+</Record>

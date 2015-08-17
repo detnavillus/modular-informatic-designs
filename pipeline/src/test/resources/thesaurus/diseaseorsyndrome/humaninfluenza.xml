@@ -1,0 +1,24 @@
+<Record>
+<Term>Human Influenza</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Orthomyxoviridae Infections</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Influenza, Human</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Orthomyxoviridae Infections/Influenza, Human</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Orthomyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Influenza, Human</BroaderTerm>
+<Synonym>Human Influenzas</Synonym>
+<Synonym>Grippe</Synonym>
+<Synonym>Influenza in Human</Synonym>
+<Synonym>Influenza</Synonym>
+<Synonym>Influenzas</Synonym>
+<Synonym>Human Influenza</Synonym>
+<Synonym>Human Flu</Synonym>
+<Synonym>Influenza in Humans</Synonym>
+<Description>An acute viral infection in humans involving the respiratory tract. It is marked by inflammation of the NASAL MUCOSA; the PHARYNX; and conjunctiva, and by headache and severe, often generalized, myalgia.</Description>
+<Source>MeSH</Source>
+</Record>

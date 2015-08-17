@@ -1,0 +1,16 @@
+<Record>
+<Term>Histone Deacetylase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Histone Deacetylase Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Histone Deacetylase Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Histone Deacetylase Inhibitors</Synonym>
+<Synonym>Histone Deacetylase Inhibitor</Synonym>
+<Synonym>HDAC Inhibitors</Synonym>
+<Description>Compounds that inhibit HISTONE DEACETYLASES.  This class of drugs may influence gene expression by increasing the level of acetylated HISTONES in specific CHROMATIN domains.</Description>
+<Source>MeSH</Source>
+</Record>

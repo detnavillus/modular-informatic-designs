@@ -1,0 +1,39 @@
+<Record>
+<Term>Schizophrenia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Schizophrenia and Disorders with Psychotic Features</ParentTerm>
+<ParentTerm>Cognitive Disturbance</ParentTerm>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features/Schizophrenia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction/Cognitive Disturbance/Schizophrenia</ClassificationPath>
+<BroaderTerm>Schizophrenia</BroaderTerm>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Schizophrenia, Catatonic</ChildTerm>
+<ChildTerm>Schizophrenia, Paranoid</ChildTerm>
+<ChildTerm>Disorganized Type Schizophrenia</ChildTerm>
+<ChildTerm>Childhood Schizophrenia</ChildTerm>
+<ChildTerm>Shared Paranoid Disorder</ChildTerm>
+<ChildTerm>Paraphrenia</ChildTerm>
+<ChildTerm>Chronic Schizophrenia</ChildTerm>
+<ChildTerm>Paranoid Type Schizophrenia</ChildTerm>
+<ChildTerm>Residual Type Schizophrenia</ChildTerm>
+<ChildTerm>Latent Schizophrenia</ChildTerm>
+<ChildTerm>Subchronic Schizophrenia</ChildTerm>
+<ChildTerm>Catatonic Type Schizophrenia</ChildTerm>
+<ChildTerm>Schizophrenia, Disorganized</ChildTerm>
+<ChildTerm>Simple Type Schizophrenia</ChildTerm>
+<Synonym>Schizophrenia</Synonym>
+<Synonym>Dementia Praecox</Synonym>
+<Synonym>Schizophrenic Disorder</Synonym>
+<Synonym>Schizophrenic Disorders</Synonym>
+<Synonym>Schizophrenias</Synonym>
+<Description>A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

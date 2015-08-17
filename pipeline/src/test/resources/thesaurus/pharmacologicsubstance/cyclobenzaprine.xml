@@ -1,0 +1,37 @@
+<Record>
+<Term>Cyclobenzaprine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Muscle Relaxant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Cyclobenzaprine Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Muscle Relaxant/Cyclobenzaprine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Muscle Relaxant/Cyclobenzaprine</ClassificationPath>
+<BroaderTerm>Cyclobenzaprine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antidepressant Agent</BroaderTerm>
+<BroaderTerm>Cyclobenzaprine Hydrochloride,</BroaderTerm>
+<BroaderTerm>Cyclobenzaprine Hydrochloride</BroaderTerm>
+<BroaderTerm>Muscle Relaxant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cycloflex</Synonym>
+<Synonym>Cyclobenzaprine hydrochloride</Synonym>
+<Synonym>3-(5H-Dibenzo(a,d)cyclohepten-5-ylidene)propyl(dimethyl)ammonium Chloride</Synonym>
+<Synonym>Cyclobenzaprine Hydrochloride</Synonym>
+<Synonym>FR2100873</Synonym>
+<Synonym>10,11delta-Amitriptyline Hydrochloride</Synonym>
+<Synonym>Flexeril</Synonym>
+<Synonym>Amrix</Synonym>
+<Synonym>Cyclobenzaprine</Synonym>
+<Synonym>CYCLOBENZAPRINE HYDROCHLORIDE</Synonym>
+<Synonym>1-Propanamine, 3-(5H-dibenzo(a,d)cyclohepten-5-ylidene)-N,N-dimethyl-, Hydrochloride</Synonym>
+<Synonym>Cloben</Synonym>
+<Synonym>Novo-Cycloprine</Synonym>
+<Synonym>Flexiban</Synonym>
+<Synonym>CYCLOBENZAPRINE</Synonym>
+<Description>A centrally acting muscle relaxant, chemically similar to amitriptyline hydrochloride with antidepressant activity. The exact mechanism of action of cyclobenzaprine hydrochloride has not been fully determined.  However, it primarily acts at the brain stem to reduce tonic somatic motor activity, influencing both gamma and alpha motor neurons. This leads to a reduction in muscle spasms.</Description>
+<Description>A centrally acting skeletal muscle relaxant with antidepressant activity. The exact mechanism of action of cyclobenzaprine has not been fully determined, but this drug seems to primarily act at the brain stem to reduce tonic somatic motor activity, influencing both gamma and alpha motor neurons leading to a reduction in muscle spasms.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

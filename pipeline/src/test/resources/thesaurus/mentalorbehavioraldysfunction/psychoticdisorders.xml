@@ -1,0 +1,21 @@
+<Record>
+<Term>Psychotic Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Schizophrenia and Disorders with Psychotic Features</ParentTerm>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features/Psychotic Disorders</ClassificationPath>
+<BroaderTerm>Psychotic Disorders</BroaderTerm>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Psychoses, Substance-Induced</ChildTerm>
+<Synonym>Psychotic Disorders</Synonym>
+<Synonym>Psychotic Disorder</Synonym>
+<Synonym>Psychoses</Synonym>
+<Synonym>Schizoaffective Disorder</Synonym>
+<Synonym>Schizoaffective Disorders</Synonym>
+<Synonym>Schizophreniform Disorders</Synonym>
+<Synonym>Schizophreniform Disorder</Synonym>
+<Synonym>Brief Reactive Psychoses</Synonym>
+<Synonym>Brief Reactive Psychosis</Synonym>
+<Description>Disorders in which there is a loss of ego boundaries or a gross impairment in reality testing with delusions or prominent hallucinations. (From DSM-IV, 1994)</Description>
+<Source>MeSH</Source>
+</Record>

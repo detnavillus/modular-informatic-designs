@@ -1,0 +1,38 @@
+<Record>
+<Term>Mycetoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Nocardia Infections</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Mycetoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Mycetoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Mycetoma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Mycetoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Mycetoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Nocardia Infections/Mycetoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Mycetoma</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Mycetoma</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Nocardia Infections</BroaderTerm>
+<Synonym>Actinomycetomas</Synonym>
+<Synonym>Mycetomas</Synonym>
+<Synonym>Maduromycosis</Synonym>
+<Synonym>Eumycetomas</Synonym>
+<Synonym>Mycetoma</Synonym>
+<Synonym>Maduromycoses</Synonym>
+<Synonym>Actinomycetoma</Synonym>
+<Synonym>Eumycetoma</Synonym>
+<Synonym>Madura Foot</Synonym>
+<Description>A chronic progressive subcutaneous infection caused by species of fungi (eumycetoma), or actinomycetes (actinomycetoma).  It is characterized by tumefaction, abscesses, and tumor-like granules representing microcolonies of pathogens, such as MADURELLA fungi and bacteria ACTINOMYCETES, with different grain colors.</Description>
+<Source>MeSH</Source>
+</Record>

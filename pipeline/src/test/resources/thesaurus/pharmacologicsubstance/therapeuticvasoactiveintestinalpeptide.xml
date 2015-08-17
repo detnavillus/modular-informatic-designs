@@ -1,0 +1,17 @@
+<Record>
+<Term>Therapeutic Vasoactive Intestinal Peptide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Hormone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Vasoactive Intestinal Peptide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Vasoactive Intestinal Peptide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Therapeutic VIP</Synonym>
+<Synonym>Therapeutic Vasoactive Intestinal Peptide</Synonym>
+<Synonym>Therapeutic Vasoactive Intestinal Polypeptide</Synonym>
+<Synonym>Vasoactive Intestinal Polypeptide</Synonym>
+<Description>A recombinant 28-amino-acid neuropeptide that is chemically identical or similar to the endogenous vasoactive intestinal peptide (VIP), with anti-inflammatory and anti-arthritic activities. This agent exerts a wide spectrum of anti-inflammatory activity by inhibiting macrophage functions, including phagocytosis, respiratory burst, and chemotaxis, and also by inhibiting T cell proliferation and decreasing lymphocyte migration. VIP has also been reported to inhibit the production of pro-inflammatory cytokines such as TNF alpha, interferon-gamma, IL-6, IL-12, to reduce the activity of inducible nitric oxide synthase and to enhance the production of the anti-inflammatory cytokines IL-10 and IL-1Ra. This agent exerts its anti-arthritic activity by reducing the titers of autoreactive antibodies against type II collagen (CII), a major factor in determining susceptibility to collagen-induced arthritis (CIA).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

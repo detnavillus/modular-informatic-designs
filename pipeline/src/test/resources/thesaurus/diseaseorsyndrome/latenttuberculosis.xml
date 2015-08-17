@@ -1,0 +1,19 @@
+<Record>
+<Term>Latent Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Latent Tuberculosis</ClassificationPath>
+<BroaderTerm>Latent Tuberculosis</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Latent Tuberculosis</Synonym>
+<Synonym>Latent Tuberculoses</Synonym>
+<Synonym>Latent Tuberculosis Infection</Synonym>
+<Synonym>Latent Tuberculosis Infections</Synonym>
+<Description>The dormant form of TUBERCULOSIS where the person shows no obvious symptoms and no sign of the causative agent (Mycobacterium tuberculosis) in the SPUTUM despite being positive for tuberculosis infection skin test.</Description>
+<Source>MeSH</Source>
+</Record>

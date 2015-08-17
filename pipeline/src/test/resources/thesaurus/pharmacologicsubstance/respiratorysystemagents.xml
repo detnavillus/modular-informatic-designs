@@ -1,0 +1,20 @@
+<Record>
+<Term>Respiratory System Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<ChildTerm>Anti-Asthmatic Agents</ChildTerm>
+<ChildTerm>Expectorants</ChildTerm>
+<ChildTerm>Antitussive Agents</ChildTerm>
+<ChildTerm>Pulmonary Surfactants</ChildTerm>
+<ChildTerm>Nasal Decongestants</ChildTerm>
+<ChildTerm>Bronchoconstrictor Agents</ChildTerm>
+<Synonym>Respiratory System Agents</Synonym>
+<Synonym>Respiratory Stimulants</Synonym>
+<Description>Drugs used for their effects on the respiratory system.</Description>
+<Source>MeSH</Source>
+</Record>

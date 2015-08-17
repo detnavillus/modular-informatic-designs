@@ -1,0 +1,19 @@
+<Record>
+<Term>Inflammatory Bowel Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Inflammatory Bowel Diseases</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Inflammatory Bowel Diseases</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Colitis, Ulcerative</ChildTerm>
+<ChildTerm>Crohn Disease</ChildTerm>
+<Synonym>Inflammatory Bowel Disease</Synonym>
+<Synonym>Inflammatory Bowel Diseases</Synonym>
+<Description>Chronic, non-specific inflammation of the GASTROINTESTINAL TRACT. Etiology may be genetic or environmental. This term includes CROHN DISEASE and ULCERATIVE COLITIS.</Description>
+<Source>MeSH</Source>
+</Record>

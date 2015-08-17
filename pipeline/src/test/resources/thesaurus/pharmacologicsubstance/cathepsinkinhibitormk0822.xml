@@ -1,0 +1,19 @@
+<Record>
+<Term>Cathepsin K Inhibitor MK0822</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Cathepsin K Inhibitor MK0822,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Cathepsin K Inhibitor MK0822</ClassificationPath>
+<BroaderTerm>Cathepsin K Inhibitor MK0822,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Cathepsin K Inhibitor MK0822</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>Cathepsin K Inhibitor MK0822</Synonym>
+<Synonym>MK0822</Synonym>
+<Description>An inhibitor of cathepsin K with potential anti-osteoporotic activity. MK0822 inhibits the enzymatic activity of cathepsin K, a tissue-specific cysteine protease that catalyzes degradation of bone matrix proteins, such as collagen I/II, elastin, and osteonectin, during bone resorption. As cathepsin K plays an important role in osteoclast function, administration of MK0822 may lead to a reduction in bone resorption, which may in turn slow down the osteoporosis process.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

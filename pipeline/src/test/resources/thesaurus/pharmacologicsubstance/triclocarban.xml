@@ -1,0 +1,21 @@
+<Record>
+<Term>Triclocarban</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topical Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Topical Anti-Infective Agent/Triclocarban</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Triclocarban</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Topical Anti-Infective Agent</BroaderTerm>
+<Synonym>3,4,4'-Trichlorodiphenylurea</Synonym>
+<Synonym>Carbanilide, 3,4,4'-trichloro-</Synonym>
+<Synonym>N-(4-Chlorophenyl)-N'-(3,4-dichlorophenyl)urea</Synonym>
+<Synonym>TCC</Synonym>
+<Synonym>TRICLOCARBAN</Synonym>
+<Synonym>Triclocarban</Synonym>
+<Synonym>Triclorocarbanilide</Synonym>
+<Description>A triclosan analogue with an antibacterial property. Triclocarban exerts its effect by inhibiting the activity of enoyl-(acyl-carrier protein) (ACP) reductase, widely distributed in bacteria, fungi and plants. ACP reductase catalyses the last step in each cycle of fatty acid elongation in the type II fatty acid synthase systems. As a result, this agent interrupts cell membrane synthesis and leads to bacterial growth inhibition.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

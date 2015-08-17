@@ -1,0 +1,20 @@
+<Record>
+<Term>Chronic Renal Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Failure</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Renal Failure/Chronic Renal Failure</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Chronic Renal Failure</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<BroaderTerm>Renal Failure</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>End Stage Renal Disease</ChildTerm>
+<Synonym>Chronic Renal Disease</Synonym>
+<Synonym>Chronic Renal Failure</Synonym>
+<Description>An irreversible and usually progressive reduction in renal function in which both kidneys have been damaged by a variety of diseases to the extent that they are unable to adequately remove the metabolic products from the blood and regulate the body's electrolyte composition and acid-base balance. (from MSH98)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

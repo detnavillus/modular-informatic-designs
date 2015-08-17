@@ -1,0 +1,16 @@
+<Record>
+<Term>Central Serous Chorioretinopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Central Serous Chorioretinopathy</ClassificationPath>
+<BroaderTerm>Central Serous Chorioretinopathy</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Central Serous Chorioretinopathy</Synonym>
+<Synonym>Central Serous Chorioretinopathies</Synonym>
+<Synonym>Central Serous Retinopathy</Synonym>
+<Synonym>Central Serous Retinopathies</Synonym>
+<Description>A visual impairment characterized by the accumulation of fluid under the retina through a defect in the retinal pigment epithelium.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,32 @@
+<Record>
+<Term>Cutaneous Mastocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Mastocytosis</ParentTerm>
+<ClassificationPath>Cutaneous Mastocytosis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Connective and Soft Tissue/Neoplasms, Connective Tissue/Mastocytosis/Mastocytosis, Cutaneous</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Mastocytosis/Mastocytosis, Cutaneous</ClassificationPath>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective Tissue</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective and Soft Tissue</BroaderTerm>
+<BroaderTerm>Cutaneous Mastocytosis</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mastocytosis, Cutaneous</BroaderTerm>
+<BroaderTerm>Mastocytosis</BroaderTerm>
+<ChildTerm>Mastocytoma, Skin</ChildTerm>
+<ChildTerm>Urticaria Pigmentosa</ChildTerm>
+<Synonym>Bullous Mastocytoses</Synonym>
+<Synonym>Skin Mastocytosis</Synonym>
+<Synonym>Cutaneous Mastocytoses</Synonym>
+<Synonym>Cutaneous Mastocytosis</Synonym>
+<Synonym>CM</Synonym>
+<Synonym>Skin Mastocytoses</Synonym>
+<Synonym>Bullous Mastocytosis</Synonym>
+<Description>Skin lesions due to abnormal infiltration of MAST CELLS. Cutaneous mastocytosis is confined to the skin without the involvement of other tissues or organs, and is mostly found in children. The three major variants are: URTICARIA PIGMENTOSA; diffuse cutaneous mastocytosis; and SOLITARY MASTOCYTOMA OF SKIN.A form of cutaneous mastocytosis that is characterized by a diffuse erythrodermic rash rather than the maculopapular infiltrates seen in URTICARIA PIGMENTOSA.A form of cutaneous mastocytosis that is characterized by the large fluid-filled lesions.</Description>
+<Description>A form of mastocytosis characterized by mast cell infiltration of the skin.  (WHO, 2001) -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

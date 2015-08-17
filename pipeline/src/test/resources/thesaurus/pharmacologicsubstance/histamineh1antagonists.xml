@@ -1,0 +1,28 @@
+<Record>
+<Term>Histamine H1 Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histamine Antagonists</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Histamine Agents/Histamine Antagonists/Histamine H1 Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Histamine Agents/Histamine Antagonists/Histamine H1 Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Histamine H1 Antagonists</BroaderTerm>
+<BroaderTerm>Histamine Agents</BroaderTerm>
+<BroaderTerm>Histamine Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Histamine H1 Antagonists, Non-Sedating</ChildTerm>
+<Synonym>Sedating Antihistamines</Synonym>
+<Synonym>First Generation H1 Antagonists</Synonym>
+<Synonym>Histamine H1 Antagonists</Synonym>
+<Synonym>Classical Antihistamines</Synonym>
+<Synonym>Histamine H1 Blockers</Synonym>
+<Synonym>Histamine H1 Receptor Antagonists</Synonym>
+<Synonym>Classical Antihistaminics</Synonym>
+<Synonym>H1 Receptor Blockaders</Synonym>
+<Synonym>H1 Antihistaminics</Synonym>
+<Synonym>Histamine H1 Receptor Blockaders</Synonym>
+<Description>Drugs that selectively bind to but do not activate histamine H1 receptors, thereby blocking the actions of endogenous histamine. Included here are the classical antihistaminics that antagonize or prevent the action of histamine mainly in immediate hypersensitivity. They act in the bronchi, capillaries, and some other smooth muscles, and are used to prevent or allay motion sickness, seasonal rhinitis, and allergic dermatitis and to induce somnolence. The effects of blocking central nervous system H1 receptors are not as well understood.</Description>
+<Source>MeSH</Source>
+</Record>

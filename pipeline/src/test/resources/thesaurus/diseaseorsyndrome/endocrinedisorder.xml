@@ -1,0 +1,21 @@
+<Record>
+<Term>Endocrine Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Endocrine Disorder</ClassificationPath>
+<BroaderTerm>Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Endocrine Pancreas Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Endocrine Disorder</ChildTerm>
+<ChildTerm>Endocrine Syndrome</ChildTerm>
+<Synonym>ENDOCRINE DISORDERS</Synonym>
+<Synonym>Endocrine Disease</Synonym>
+<Synonym>Endocrine Diseases and Manifestations</Synonym>
+<Synonym>Endocrine Disorder</Synonym>
+<Synonym>Endocrine Disorders</Synonym>
+<Description>Any deviation from the normal structure or function of the endocrine system that is manifested by a characteristic set of symptoms and signs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

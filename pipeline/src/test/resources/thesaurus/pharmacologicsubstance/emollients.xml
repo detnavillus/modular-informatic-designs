@@ -1,0 +1,15 @@
+<Record>
+<Term>Emollients</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biomedical or Dental Material</SemanticType>
+<ParentTerm>Dermatologic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Dermatologic Agents/Emollients</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Emollients</BroaderTerm>
+<BroaderTerm>Dermatologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<Synonym>Emollients</Synonym>
+<Description>Oleagenous substances used topically to soothe, soften or protect skin or mucous membranes. They are used also as vehicles for other dermatologic agents.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,38 @@
+<Record>
+<Term>Primary Headache Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Headache Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders/Headache Disorders, Primary</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders, Primary</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Trigeminal Autonomic Cephalalgias</ChildTerm>
+<ChildTerm>Tension-Type Headache</ChildTerm>
+<ChildTerm>Migraine Disorders</ChildTerm>
+<Synonym>Primary Headache Disorders</Synonym>
+<Synonym>Primary Headache Disorder</Synonym>
+<Synonym>Primary Cough Headache</Synonym>
+<Synonym>Cough Headache</Synonym>
+<Synonym>Benign Cough Headache</Synonym>
+<Synonym>Benign Cough Headaches</Synonym>
+<Synonym>Primary Thunderclap Headache</Synonym>
+<Synonym>Thunderclap Headache</Synonym>
+<Synonym>Primary Exertional Headache</Synonym>
+<Synonym>Benign Exertional Headache</Synonym>
+<Synonym>Benign Exertional Headaches</Synonym>
+<Synonym>Primary Stabbing Headache</Synonym>
+<Synonym>Ice-Pick Headache</Synonym>
+<Synonym>Ice Pick Headache</Synonym>
+<Synonym>Ice-Pick Headaches</Synonym>
+<Synonym>Stabbing Headache</Synonym>
+<Synonym>Hypnic Headache</Synonym>
+<Synonym>Hypnic Headache Syndrome</Synonym>
+<Synonym>Hypnic Headache Syndromes</Synonym>
+<Synonym>Alarm Clock Headache</Synonym>
+<Synonym>Alarm Clock Headaches</Synonym>
+<Description>Conditions in which the primary symptom is HEADACHE and the headache cannot be attributed to any known causes.A primary headache disorder which occurs exclusively during sleep and regularly awakes patients at a consistent time of night.</Description>
+<Source>MeSH</Source>
+</Record>

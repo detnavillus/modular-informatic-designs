@@ -1,0 +1,20 @@
+<Record>
+<Term>Paronychia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Infectious</ParentTerm>
+<ParentTerm>Nail Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Paronychia</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Nail Diseases/Paronychia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Paronychia</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Paronychia</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Nail Diseases</BroaderTerm>
+<Synonym>Paronychia</Synonym>
+<Synonym>Paronychias</Synonym>
+<Description>An inflammatory reaction involving the folds of the skin surrounding the fingernail. It is characterized by acute or chronic purulent, tender, and painful swellings of the tissues around the nail, caused by an abscess of the nail fold. The pathogenic yeast causing paronychia is most frequently Candida albicans. Saprophytic fungi may also be involved. The causative bacteria are usually Staphylococcus, Pseudomonas aeruginosa, or Streptococcus. (Andrews' Diseases of the Skin, 8th ed, p271)</Description>
+<Source>MeSH</Source>
+</Record>

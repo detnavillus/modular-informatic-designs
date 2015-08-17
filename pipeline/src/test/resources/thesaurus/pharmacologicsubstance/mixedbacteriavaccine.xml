@@ -1,0 +1,16 @@
+<Record>
+<Term>Mixed Bacteria Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/Mixed Bacteria Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Mixed Bacteria Vaccine</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MBV</Synonym>
+<Synonym>Mixed Bacteria Vaccine</Synonym>
+<Description>A cancer vaccine containing a mixture of killed bacteria with potential immunostimulatory and antineoplastic activities. Mixed bacteria vaccine (MBV or Coley's toxins) consists of a pyrogenic bacterial lysate derived from Serratia marcescens and Streptococcus pyogenes; the active components in the lysate may be lipopolysaccharide (LPS), a component of the Gram-negative bacterial cell wall of Serratia, and streptokinase, an enzyme produced by Streptococcus pyogenes. LPS has been shown to stimulate the host humoral immune response and induce the release of various antitumor cytokines such as tumor necrosis factor (TNF) and interleukin-12 (IL-12).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

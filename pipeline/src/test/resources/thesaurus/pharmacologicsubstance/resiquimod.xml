@@ -1,0 +1,19 @@
+<Record>
+<Term>Resiquimod</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/Resiquimod</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Resiquimod</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-Amino-2-(ethoxymethyl)-alpha,alpha-dimethyl-1H-imidazo[4,5-c]quinoline-1-ethanol</Synonym>
+<Synonym>R 848</Synonym>
+<Synonym>RESIQUIMOD</Synonym>
+<Synonym>Resiquimod</Synonym>
+<Synonym>S 28463</Synonym>
+<Description>An imidazoquinolinamine and Toll-like receptor (TLR) agonist with potential immune response modifying activity. Resiquimod exerts its effect through the TLR signaling pathway by binding to and activating TLR7 and 8 mainly on dendritic cells, macrophages, and B-lymphocytes. This induces the nuclear translocation of the transcription activator NF-kB as well as activation of other transcription factors. This may lead to an increase in mRNA levels and subsequent production of cytokines, especially interferon-alpha (INF-a) and other cytokines, thereby enhancing T-helper 1 (Th1) immune responses. In addition, topical application of resiquimod appears to activate Langerhans' cells, leading to an enhanced activation of T-lymphocytes. Due to its immunostimulatory activity, this agent may potentially be useful as a vaccine adjuvant.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

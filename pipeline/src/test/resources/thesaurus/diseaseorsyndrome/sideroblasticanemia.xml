@@ -1,0 +1,28 @@
+<Record>
+<Term>Sideroblastic Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia</ParentTerm>
+<ParentTerm>Myelodysplastic Syndromes</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Sideroblastic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Sideroblastic Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myelodysplastic Syndromes/Anemia, Sideroblastic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia, Sideroblastic</BroaderTerm>
+<BroaderTerm>Sideroblastic Anemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Myelodysplastic Syndromes</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Sideroblastic Anemia</Synonym>
+<Synonym>Sideroblastic Anemias</Synonym>
+<Description>A myelodysplastic syndrome characterized mainly by dysplasia of the erythroid series.  Refractory anemia is uncommon.  It is primarily a disease of older adults.  The median survival exceeds 5 years.  (WHO, 2001) -- 2003</Description>
+<Description>Anemia characterized by the presence of erythroblasts containing excessive deposits of iron in the marrow.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

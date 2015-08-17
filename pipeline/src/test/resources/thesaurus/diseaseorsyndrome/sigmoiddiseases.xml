@@ -1,0 +1,19 @@
+<Record>
+<Term>Sigmoid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Colonic Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Sigmoid Diseases</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Sigmoid Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Proctocolitis</ChildTerm>
+<ChildTerm>Sigmoid Neoplasms</ChildTerm>
+<Synonym>Sigmoid Diseases</Synonym>
+<Synonym>Sigmoid Disease</Synonym>
+<Synonym>Sigmoid Colon Diseases</Synonym>
+<Synonym>Sigmoid Colon Disease</Synonym>
+<Description>Pathological processes in the SIGMOID COLON region of the large intestine (INTESTINE, LARGE).</Description>
+<Source>MeSH</Source>
+</Record>

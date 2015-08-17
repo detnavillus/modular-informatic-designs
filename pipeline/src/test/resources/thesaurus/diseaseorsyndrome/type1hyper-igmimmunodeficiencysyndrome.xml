@@ -1,0 +1,28 @@
+<Record>
+<Term>Type 1 Hyper-IgM Immunodeficiency Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Hyper-IgM Immunodeficiency Syndrome</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Dysgammaglobulinemia/Hyper-IgM Immunodeficiency Syndrome/Hyper-IgM Immunodeficiency Syndrome, Type 1</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Dysgammaglobulinemia/Hyper-IgM Immunodeficiency Syndrome/Hyper-IgM Immunodeficiency Syndrome, Type 1</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Hyper-IgM Immunodeficiency Syndrome, Type 1</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Dysgammaglobulinemia</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Hyper-IgM Immunodeficiency Syndrome, Type 1</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Hyper-IgM Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>HIGM1 Syndromes</Synonym>
+<Synonym>X-Linked Hyper-IgM Immunodeficiencies</Synonym>
+<Synonym>Hyper-IgM Syndrome 1</Synonym>
+<Synonym>Hyper IgM Syndrome 1</Synonym>
+<Synonym>HIGM1 Syndrome</Synonym>
+<Synonym>X-Linked Hyper-IgM Immunodeficiency</Synonym>
+<Description>An X-linked hyper-IgM immunodeficiency subtype resulting from mutation in the gene encoding CD40 LIGAND.</Description>
+<Source>MeSH</Source>
+</Record>

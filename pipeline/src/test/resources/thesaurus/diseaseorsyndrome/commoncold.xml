@@ -1,0 +1,35 @@
+<Record>
+<Term>Common Cold</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Picornaviridae Infections</ParentTerm>
+<ParentTerm>Nasopharyngitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Pharyngeal Disorder/Nasopharyngeal Disorder/Nasopharyngitis/Acute Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Common Cold</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Common Cold</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Common Cold</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Acute Nasopharyngitis</BroaderTerm>
+<BroaderTerm>Pharyngeal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nasopharyngeal Disorder</BroaderTerm>
+<BroaderTerm>Nasopharyngitis</BroaderTerm>
+<Synonym>Common Colds</Synonym>
+<Synonym>Catarrhs</Synonym>
+<Synonym>Common Cold</Synonym>
+<Synonym>Catarrh</Synonym>
+<Synonym>Acute Nasopharyngitis</Synonym>
+<Synonym>Acute Coryza</Synonym>
+<Description>A catarrhal disorder of the upper respiratory tract, which may be viral or a mixed infection. It generally involves a runny nose, nasal congestion, and sneezing.Inflammation of a mucous membrane with increased flow of mucous in humans or animals. Catarrh is used mostly in a historical context.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

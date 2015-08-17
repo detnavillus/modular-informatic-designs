@@ -1,0 +1,18 @@
+<Record>
+<Term>DL-Proline</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Non-Essential Amino Acid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid/Non-Essential Amino Acid/DL-Proline</ClassificationPath>
+<BroaderTerm>Amino Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>DL-Proline</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Non-Essential Amino Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DL-Proline</Synonym>
+<Synonym>PROLINE, DL-</Synonym>
+<Description>A racemic mixture of proline, an imino acid. Proline is found in cartilage and is important for maintaining youthful skin as well as repair of muscle, connective tissue and skin damage. It is also essential for the immune system and an essential component of collagen and is important for proper functioning of joints and tendons. Proline is important for the proper functioning of joints and tendons and helps maintain and strengthen heart muscles.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

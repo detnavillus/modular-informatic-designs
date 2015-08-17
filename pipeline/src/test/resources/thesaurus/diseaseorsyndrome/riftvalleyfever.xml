@@ -1,0 +1,29 @@
+<Record>
+<Term>Rift Valley Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Bunyaviridae Infections</ParentTerm>
+<ParentTerm>Hepatitis, Viral, Animal</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections/Rift Valley Fever</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Animal/Hepatitis, Viral, Animal/Rift Valley Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Rift Valley Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Rift Valley Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Animal/Rift Valley Fever</ClassificationPath>
+<ClassificationPath>Animal Diseases/Hepatitis, Animal/Hepatitis, Viral, Animal/Rift Valley Fever</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Hepatitis, Animal</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis, Viral, Animal</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Rift Valley Fever</BroaderTerm>
+<Synonym>Rift Valley Fever</Synonym>
+<Description>An acute infection caused by the RIFT VALLEY FEVER VIRUS, an RNA arthropod-borne virus, affecting domestic animals and humans. In animals, symptoms include HEPATITIS; abortion (ABORTION, VETERINARY); and DEATH. In humans, symptoms range from those of a flu-like disease to hemorrhagic fever, ENCEPHALITIS, or BLINDNESS.</Description>
+<Source>MeSH</Source>
+</Record>

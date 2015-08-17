@@ -1,0 +1,29 @@
+<Record>
+<Term>Varicose Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Varicose Veins</ParentTerm>
+<ParentTerm>Leg Ulcer</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer/Leg Ulcer/Varicose Ulcer</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Varicose Veins/Varicose Ulcer</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Varicose Ulcer</BroaderTerm>
+<BroaderTerm>Varicose Veins</BroaderTerm>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Leg Ulcer</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Varicose Ulcer</Synonym>
+<Synonym>Venous Hypertension Ulcer</Synonym>
+<Synonym>Venous Ulcers</Synonym>
+<Synonym>Venous Ulcer</Synonym>
+<Synonym>Stasis Ulcer</Synonym>
+<Synonym>Stasis Ulcers</Synonym>
+<Synonym>Venous Hypertension Ulcers</Synonym>
+<Synonym>Varicose Ulcers</Synonym>
+<Synonym>Venous Stasis Ulcers</Synonym>
+<Synonym>Venous Stasis Ulcer</Synonym>
+<Description>Skin breakdown or ulceration caused by varicose veins in which there is too much hydrostatic pressure in the superficial venous system of the leg. Venous hypertension leads to increased pressure in the capillary bed, transudation of fluid and proteins into the interstitial space, altering blood flow and supply of nutrients to the skin and subcutaneous tissues, and eventual ulceration.</Description>
+<Source>MeSH</Source>
+</Record>

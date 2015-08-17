@@ -1,0 +1,29 @@
+<Record>
+<Term>Eczema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Eczematous</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Eczema</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Eczema</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Eczema</ClassificationPath>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Eczema</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Eczema, Dyshidrotic</ChildTerm>
+<Synonym>Eczema</Synonym>
+<Synonym>Eczematous Dermatitides</Synonym>
+<Synonym>Eczemas</Synonym>
+<Synonym>Eczematous Dermatitis</Synonym>
+<Description>A pruritic papulovesicular dermatitis occurring as a reaction to many endogenous and exogenous agents (Dorland, 27th ed).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

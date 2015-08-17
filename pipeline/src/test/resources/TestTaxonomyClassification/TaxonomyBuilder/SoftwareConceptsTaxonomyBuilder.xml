@@ -1,0 +1,7 @@
+<TaxonomyBuilder name="SoftwareConceptsTaxonomyBuilder"
+                 class="com.modinfodesigns.ontology.DataListTaxonomyBuilder" >
+
+  <DataSource name="SoftwareConceptsDataSource" class="com.modinfodesigns.pipeline.source.RaritanTreeSource"
+              XMLFilePath="C:/Projects/Prometheus/TestTaxonomyClassification/Taxonomies/SoftwareConcepts.xml" />
+
+</TaxonomyBuilder>

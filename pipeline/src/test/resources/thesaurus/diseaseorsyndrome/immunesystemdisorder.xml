@@ -1,0 +1,25 @@
+<Record>
+<Term>Immune System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System and Related Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Rheumatologic Disorder</ChildTerm>
+<ChildTerm>Hypersensitivity</ChildTerm>
+<ChildTerm>Erythema Multiforme</ChildTerm>
+<ChildTerm>Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Hybrid Resistance</ChildTerm>
+<ChildTerm>Autoimmune Disease</ChildTerm>
+<ChildTerm>Cryoglobulinemia</ChildTerm>
+<Synonym>IMMUNE SYSTEM DISORDERS</Synonym>
+<Synonym>Immune Dysfunction</Synonym>
+<Synonym>Immune System Disorder</Synonym>
+<Description>A disorder resulting from an abnormality in the immune system. -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

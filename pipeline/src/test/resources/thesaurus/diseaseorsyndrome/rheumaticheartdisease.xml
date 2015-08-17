@@ -1,0 +1,37 @@
+<Record>
+<Term>Rheumatic Heart Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ParentTerm>Rheumatic Fever</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Rheumatic Fever/Rheumatic Heart Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Rheumatic Heart Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Rheumatic Heart Disease</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Rheumatic Heart Disease</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Rheumatic Fever</BroaderTerm>
+<ChildTerm>Acute Rheumatic Heart Disease</ChildTerm>
+<Synonym>Bouillaud's Disease</Synonym>
+<Synonym>Disease, rheumatic heart</Synonym>
+<Synonym>Rheumatic Heart Disease</Synonym>
+<Synonym>Heart disease, rheumatic</Synonym>
+<Synonym>Bouillaud Disease</Synonym>
+<Synonym>Rheumatic Heart Diseases</Synonym>
+<Synonym>Bouillauds Disease</Synonym>
+<Description>Cardiac manifestation of systemic rheumatological conditions, such as RHEUMATIC FEVER. Rheumatic heart disease can involve any part the heart, most often the HEART VALVES and the ENDOCARDIUM.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

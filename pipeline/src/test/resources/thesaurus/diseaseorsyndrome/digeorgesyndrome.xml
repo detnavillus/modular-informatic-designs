@@ -1,0 +1,41 @@
+<Record>
+<Term>DiGeorge Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Hypoparathyroidism</ParentTerm>
+<ParentTerm>Congenital Abnormalities</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hypoparathyroidism/DiGeorge Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/DiGeorge Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/DiGeorge Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/T-Cell Immunodeficiency/Congenital T-Cell Immunodeficiency/DiGeorge Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/DiGeorge Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>DiGeorge Syndrome,</BroaderTerm>
+<BroaderTerm>Congenital T-Cell Immunodeficiency</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Hypoparathyroidism</BroaderTerm>
+<BroaderTerm>T-Cell Immunodeficiency</BroaderTerm>
+<BroaderTerm>DiGeorge Syndrome</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<Synonym>Hypoplasia of Thymus and Parathyroids</Synonym>
+<Synonym>Velo Cardio Facial Syndrome</Synonym>
+<Synonym>DiGeorge Anomaly</Synonym>
+<Synonym>DiGeorge's Syndrome</Synonym>
+<Synonym>Velocardiofacial Syndrome</Synonym>
+<Synonym>Velo-Cardio-Facial Syndrome</Synonym>
+<Synonym>Chromosome 22q11.2 Deletion Syndrome</Synonym>
+<Synonym>DiGeorge Syndrome</Synonym>
+<Description>A congenital anomaly characterized by immunodeficiency, abnormal facies, congenital heart disease, hypocalcemia, and increased susceptibility to infections. Pathologic characteristics include conotruncal abnormalities and absence or hypoplasia of thymus and parathyroid glands. DiGeorge syndrome is associated with abnormalities of chromosome 22. Also known as DiGeorge anomaly.</Description>
+<Description>Congenital syndrome characterized by a spectrum of malformations including the absence of the THYMUS and PARATHYROID GLANDS resulting in T-cell immunodeficiency and HYPOCALCEMIA. Other features include defects in the outflow tract of the HEART and craniofacial anomalies (velocardiofacial syndrome). Most cases result from a deletion of chromosome 22q11.2 or mutation in the TBX1 gene.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

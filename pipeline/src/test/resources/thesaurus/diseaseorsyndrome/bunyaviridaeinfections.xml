@@ -1,0 +1,21 @@
+<Record>
+<Term>Bunyaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Encephalitis, California</ChildTerm>
+<ChildTerm>Rift Valley Fever</ChildTerm>
+<ChildTerm>Hantavirus Infections</ChildTerm>
+<ChildTerm>Hemorrhagic Fever, Crimean</ChildTerm>
+<ChildTerm>Nairobi Sheep Disease</ChildTerm>
+<ChildTerm>Phlebotomus Fever</ChildTerm>
+<Synonym>Bunyaviridae Infections</Synonym>
+<Synonym>Bunyaviridae Infection</Synonym>
+<Synonym>Bunyavirus Infection</Synonym>
+<Synonym>Bunyavirus Infections</Synonym>
+<Description>Virus diseases caused by the BUNYAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

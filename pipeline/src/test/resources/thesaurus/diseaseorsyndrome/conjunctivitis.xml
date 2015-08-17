@@ -1,0 +1,34 @@
+<Record>
+<Term>Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Conjunctival Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Conjunctival Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Acute Conjunctivitis</ChildTerm>
+<ChildTerm>Atopic Conjunctivitis</ChildTerm>
+<ChildTerm>Conjunctivitis, Bacterial</ChildTerm>
+<ChildTerm>Bacterial Conjunctivitis</ChildTerm>
+<ChildTerm>Papillary Conjunctivitis</ChildTerm>
+<ChildTerm>Keratoconjunctivitis</ChildTerm>
+<ChildTerm>Chronic Conjunctivitis</ChildTerm>
+<ChildTerm>Viral Conjunctivitis</ChildTerm>
+<ChildTerm>Conjunctivitis, Viral</ChildTerm>
+<ChildTerm>Conjunctivitis, Allergic</ChildTerm>
+<Synonym>Conjunctivitis</Synonym>
+<Synonym>Conjunctivitides</Synonym>
+<Description>Conjunctivitis; inflammation of the conjunctiva of the eye.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

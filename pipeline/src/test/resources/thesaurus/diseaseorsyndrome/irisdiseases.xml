@@ -1,0 +1,19 @@
+<Record>
+<Term>Iris Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Iris Diseases</ClassificationPath>
+<BroaderTerm>Iris Diseases</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Aniridia</ChildTerm>
+<ChildTerm>Iris Neoplasms</ChildTerm>
+<ChildTerm>Iridocyclitis</ChildTerm>
+<ChildTerm>Exfoliation Syndrome</ChildTerm>
+<ChildTerm>Iridocorneal Endothelial Syndrome</ChildTerm>
+<ChildTerm>Iritis</ChildTerm>
+<Synonym>Iris Diseases</Synonym>
+<Synonym>Iris Disease</Synonym>
+<Description>Diseases, dysfunctions, or disorders of or located in the iris.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Argatroban</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Argatroban</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Argatroban</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1-[5-guanidino-2-[(3-methyl-1,2,3,4-tetrahydroquinolin-8-yl)sulfonylamino]pentanoyl]-4-methyl-piperidine-2-carboxylic acid</Synonym>
+<Synonym>MD-805</Synonym>
+<Synonym>Argatroban</Synonym>
+<Synonym>Argipidine</Synonym>
+<Synonym>ARGATROBAN</Synonym>
+<Description>A synthetic derivative of L-arginine with antithrombotic activity. Argatroban is a univalent and direct inhibitor of fibrin-bound thrombin. This agent reversibly binds to the thrombin active site thereby preventing the thrombin-dependent reactions, which include conversion of fibrinogen to fibrin; the activation of factors V, VIII and XI; the activation of protein C; and platelet aggregation. Argatroban is highly selective for thrombin and is able to inhibit the action of both free and clot-associated thrombin. As a result, stabilization of blood clots and coagulation is inhibited.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

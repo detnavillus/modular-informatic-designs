@@ -1,0 +1,37 @@
+<Record>
+<Term>Chromosome Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Congenital Abnormalities</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Chromosome Disorders</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Chromosome Disorders</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Chromosome Disorders</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Down Syndrome</ChildTerm>
+<ChildTerm>Prader-Willi Syndrome</ChildTerm>
+<ChildTerm>Williams Syndrome</ChildTerm>
+<ChildTerm>Beckwith-Wiedemann Syndrome</ChildTerm>
+<ChildTerm>Holoprosencephaly</ChildTerm>
+<ChildTerm>Rubinstein-Taybi Syndrome</ChildTerm>
+<ChildTerm>Cri-du-Chat Syndrome</ChildTerm>
+<ChildTerm>Sex Chromosome Disorders</ChildTerm>
+<ChildTerm>Silver-Russell Syndrome</ChildTerm>
+<ChildTerm>Branchio-Oto-Renal Syndrome</ChildTerm>
+<ChildTerm>Angelman Syndrome</ChildTerm>
+<ChildTerm>WAGR Syndrome</ChildTerm>
+<ChildTerm>Jacobsen Distal 11q Deletion Syndrome</ChildTerm>
+<ChildTerm>De Lange Syndrome</ChildTerm>
+<ChildTerm>Wolf-Hirschhorn Syndrome</ChildTerm>
+<Synonym>Chromosomal Disorders</Synonym>
+<Synonym>Chromosome Disorders</Synonym>
+<Synonym>Chromosome Disorder</Synonym>
+<Synonym>Autosomal Chromosome Disorders</Synonym>
+<Synonym>Chromosome Abnormality Disorder</Synonym>
+<Synonym>Chromosome Abnormality Disorders</Synonym>
+<Synonym>Autosomal Chromosome Disorder</Synonym>
+<Synonym>Chromosomal Disorder</Synonym>
+<Description>Clinical conditions caused by an abnormal chromosome constitution in which there is extra or missing chromosome material (either a whole chromosome or a chromosome segment). (from Thompson et al., Genetics in Medicine, 5th ed, p429)</Description>
+<Source>MeSH</Source>
+</Record>

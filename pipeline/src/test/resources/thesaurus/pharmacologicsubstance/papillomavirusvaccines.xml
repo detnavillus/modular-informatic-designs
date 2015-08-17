@@ -1,0 +1,18 @@
+<Record>
+<Term>Papillomavirus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Papillomavirus Vaccines</ClassificationPath>
+<BroaderTerm>Papillomavirus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Papillomavirus Vaccines</Synonym>
+<Synonym>Human Papillomavirus Vaccines</Synonym>
+<Synonym>Human Papilloma Virus Vaccines</Synonym>
+<Synonym>HPV Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent PAPILLOMAVIRUS INFECTIONS. Human vaccines are intended to reduce the incidence of UTERINE CERVICAL NEOPLASMS, so they are sometimes considered a type of CANCER VACCINES. They are often composed of CAPSID PROTEINS, especially L1 protein, from various types of ALPHAPAPILLOMAVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

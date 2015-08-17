@@ -1,0 +1,16 @@
+<Record>
+<Term>Chromium Picolinate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-diabetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Chromium Picolinate</ClassificationPath>
+<BroaderTerm>Chromium Picolinate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-diabetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Chromium Picolinate</Synonym>
+<Description>Chromium Piccolinate is a salt of the trace metallic element chromium (Cr), essential in glucose metabolism. Found in vitamins and mineral supplements, Chromium may be necessary for utilization of dietary sugars and carbohydrates by optimizing the effects of insulin. Animal studies suggest that chromium picolinate may be carcinogenic, it enters cells directly and can causes mutations. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

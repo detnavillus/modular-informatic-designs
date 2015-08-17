@@ -1,0 +1,47 @@
+<Record>
+<Term>Non-Neoplastic Skin Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Skin Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Corn</ChildTerm>
+<ChildTerm>Keratosis</ChildTerm>
+<ChildTerm>Xeroderma</ChildTerm>
+<ChildTerm>Necrobiosis Lipoidica</ChildTerm>
+<ChildTerm>Pemphigus</ChildTerm>
+<ChildTerm>Epidermolysis Bullosa</ChildTerm>
+<ChildTerm>Pityriasis Lichenoides et Varioliformis Acuta</ChildTerm>
+<ChildTerm>Non-Neoplastic Nevus</ChildTerm>
+<ChildTerm>Skin Pigmentation Disorder</ChildTerm>
+<ChildTerm>Eyelid Xanthoma</ChildTerm>
+<ChildTerm>Pemphigoid</ChildTerm>
+<ChildTerm>Keratoderma</ChildTerm>
+<ChildTerm>Lentigo</ChildTerm>
+<ChildTerm>Pruritic Disorder</ChildTerm>
+<ChildTerm>Dermatosis</ChildTerm>
+<ChildTerm>Granuloma Annulare</ChildTerm>
+<ChildTerm>Skin Disorder Arising from Mental Factor</ChildTerm>
+<ChildTerm>Non-Neoplastic Hair Disorder</ChildTerm>
+<ChildTerm>Erythroderma</ChildTerm>
+<ChildTerm>Solar Lentigo</ChildTerm>
+<ChildTerm>Acrokeratosis Verruciformis</ChildTerm>
+<ChildTerm>Cutaneous Verruciform Xanthoma</ChildTerm>
+<ChildTerm>Skin Atrophy</ChildTerm>
+<ChildTerm>Skin Appendage Hamartoma</ChildTerm>
+<ChildTerm>Reactive Cutaneous Fibrous Lesion</ChildTerm>
+<ChildTerm>Cutaneous Sarcoidosis</ChildTerm>
+<ChildTerm>Poikiloderma</ChildTerm>
+<ChildTerm>Skin Infection</ChildTerm>
+<Synonym>Non-Neoplastic Cutaneous Disorder</Synonym>
+<Synonym>Non-Neoplastic Skin Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

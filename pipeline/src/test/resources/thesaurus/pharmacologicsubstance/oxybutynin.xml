@@ -1,0 +1,31 @@
+<Record>
+<Term>Oxybutynin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antimuscarinic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Antimuscarinic Agent/Oxybutynin Chloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Antimuscarinic Agent/Oxybutynin</ClassificationPath>
+<BroaderTerm>Oxybutynin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Oxybutynin Chloride</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antimuscarinic Agent</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Oxytrol</Synonym>
+<Synonym>Oxybutynin</Synonym>
+<Synonym>OXYBUTYNIN CHLORIDE</Synonym>
+<Synonym>OXYBUTYNIN</Synonym>
+<Synonym>Oxybutynin Chloride</Synonym>
+<Synonym>Ditropan</Synonym>
+<Synonym>Ditropan xl</Synonym>
+<Synonym>Gelnique</Synonym>
+<Synonym>4-Diethylamino-2-butynyl alpha-phenylcyclohexaneglycolate</Synonym>
+<Synonym>Oxybutynin chloride</Synonym>
+<Synonym>Benzeneacetic Acid, alpha-cyclohexyl-alpha-hydroxy-, 4-(diethylamino)-2-butynyl Ester</Synonym>
+<Description>The chloride salt form of oxybutynin, a tertiary amine and anticholinergic agent with antispasmodic activity. Oxybutynin chloride exerts its antimuscarinic effect on bladder smooth muscle by blocking muscarinic receptors in smooth muscle, thereby inhibiting acetylcholine binding. This results in a relaxation of bladder smooth muscle, a reduction of involuntary muscle contractions and delays the initial desire to void.</Description>
+<Description>A tertiary amine possessing antimuscarinic and antispasmodic properties. Oxybutynin blocks muscarinic receptors in smooth muscle, hence inhibiting acetylcholine binding and subsequent reduction of involuntary muscle contractions. Oxybutynin is used to reduce bladder contractions by relaxing bladder smooth muscle.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

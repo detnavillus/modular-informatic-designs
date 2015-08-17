@@ -1,0 +1,26 @@
+<Record>
+<Term>Rheumatic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases</ClassificationPath>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Gout</ChildTerm>
+<ChildTerm>Fibromyalgia</ChildTerm>
+<ChildTerm>Polymyalgia Rheumatica</ChildTerm>
+<ChildTerm>Hyperostosis, Sternocostoclavicular</ChildTerm>
+<ChildTerm>Osteoarthritis</ChildTerm>
+<ChildTerm>Arthritis, Rheumatoid</ChildTerm>
+<ChildTerm>Rheumatic Fever</ChildTerm>
+<Synonym>Rheumatism</Synonym>
+<Synonym>Rheumatic Diseases</Synonym>
+<Synonym>Rheumatic Disease</Synonym>
+<Synonym>Enthesopathies</Synonym>
+<Synonym>Enthesopathy</Synonym>
+<Description>Disorders of connective tissue, especially the joints and related structures, characterized by inflammation, degeneration, or metabolic derangement.</Description>
+<Source>MeSH</Source>
+</Record>

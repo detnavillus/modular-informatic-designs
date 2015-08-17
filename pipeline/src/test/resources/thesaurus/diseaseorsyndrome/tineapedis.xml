@@ -1,0 +1,33 @@
+<Record>
+<Term>Tinea Pedis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pruritus</ParentTerm>
+<ParentTerm>Foot Dermatoses</ParentTerm>
+<ParentTerm>Tinea</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Pedis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Foot Diseases/Foot Dermatoses/Tinea Pedis</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Skin Manifestations/Pruritus/Tinea Pedis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea/Tinea Pedis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Pedis</ClassificationPath>
+<BroaderTerm>Skin Manifestations</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Tinea Pedis</BroaderTerm>
+<BroaderTerm>Foot Dermatoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Pruritus</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Tinea</BroaderTerm>
+<Synonym>Athletes Foot</Synonym>
+<Synonym>Athlete's Foot</Synonym>
+<Synonym>Athlete Foot</Synonym>
+<Synonym>Tinea Pedis</Synonym>
+<Description>Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum.</Description>
+<Source>MeSH</Source>
+</Record>

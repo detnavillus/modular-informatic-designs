@@ -1,0 +1,34 @@
+<Record>
+<Term>Prion Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Prion Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Prion Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Prion Diseases</BroaderTerm>
+<ChildTerm>Kuru</ChildTerm>
+<ChildTerm>Creutzfeldt-Jakob Syndrome</ChildTerm>
+<ChildTerm>Insomnia, Fatal Familial</ChildTerm>
+<ChildTerm>Encephalopathy, Bovine Spongiform</ChildTerm>
+<ChildTerm>Gerstmann-Straussler-Scheinker Disease</ChildTerm>
+<ChildTerm>Wasting Disease, Chronic</ChildTerm>
+<ChildTerm>Scrapie</ChildTerm>
+<Synonym>Prion Protein Diseases</Synonym>
+<Synonym>Prion-Induced Disorders</Synonym>
+<Synonym>Prion Induced Disorder</Synonym>
+<Synonym>Transmissible Spongiform Encephalopathy</Synonym>
+<Synonym>Transmissible Dementia</Synonym>
+<Synonym>Prion Disease</Synonym>
+<Synonym>Inherited Human Transmissible Spongiform Encephalopathies</Synonym>
+<Synonym>Transmissible Dementias</Synonym>
+<Synonym>Transmissible Spongiform Encephalopathies</Synonym>
+<Synonym>Prion Protein Disease</Synonym>
+<Synonym>Prion-Induced Disorder</Synonym>
+<Synonym>Prion Diseases</Synonym>
+<Description>A group of genetic, infectious, or sporadic degenerative human and animal nervous system disorders associated with abnormal PRIONS. These diseases are characterized by conversion of the normal prion protein to an abnormal configuration via a post-translational process. In humans, these conditions generally feature DEMENTIA; ATAXIA; and a fatal outcome. Pathologic features include a spongiform encephalopathy without evidence of inflammation. The older literature occasionally refers to these as unconventional SLOW VIRUS DISEASES. (From Proc Natl Acad Sci USA 1998 Nov 10;95(23):13363-83)</Description>
+<Source>MeSH</Source>
+</Record>

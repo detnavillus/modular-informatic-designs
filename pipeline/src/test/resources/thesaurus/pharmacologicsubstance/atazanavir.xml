@@ -1,0 +1,26 @@
+<Record>
+<Term>Atazanavir</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Protease Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Atazanavir Sulfate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Atazanavir</ClassificationPath>
+<BroaderTerm>Atazanavir Sulfate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Atazanavir</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Atazanavir Sulfate</Synonym>
+<Synonym>BMS-232632</Synonym>
+<Synonym>ATAZANAVIR</Synonym>
+<Synonym>Reyataz</Synonym>
+<Synonym>Atazanavir sulfate</Synonym>
+<Synonym>CGP-73547</Synonym>
+<Synonym>Atazanavir</Synonym>
+<Synonym>ATAZANAVIR SULFATE</Synonym>
+<Description>A synthetic antiviral agent.  As a symmetric azapeptide agent structurally different from other HIV protease inhibitors, atazanavir selectively binds to and inhibits human immunodeficiency virus (HIV) protease, thereby preventing cleavage of the gag-pol viral polyprotein and resulting in the release of immature, noninfectious virions.  This agent does not elevate serum lipids, a common problem with other protease inhibitors. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

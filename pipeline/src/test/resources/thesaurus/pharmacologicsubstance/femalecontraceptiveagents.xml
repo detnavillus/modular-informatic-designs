@@ -1,0 +1,24 @@
+<Record>
+<Term>Female Contraceptive Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contraceptive Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Female</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Female</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Contraceptive Agents, Female</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Contraceptive Agents</BroaderTerm>
+<ChildTerm>Menstruation-Inducing Agents</ChildTerm>
+<ChildTerm>Spermatocidal Agents</ChildTerm>
+<ChildTerm>Contraceptives, Postcoital</ChildTerm>
+<ChildTerm>Contraceptives, Oral</ChildTerm>
+<ChildTerm>Luteolytic Agents</ChildTerm>
+<ChildTerm>Sperm Immobilizing Agents</ChildTerm>
+<Synonym>Female Contraceptive Agents</Synonym>
+<Synonym>Female Contraceptives</Synonym>
+<Description>Chemical substances or agents with contraceptive activity in females. Use for female contraceptive agents in general or for which there is no specific heading.</Description>
+<Source>MeSH</Source>
+</Record>

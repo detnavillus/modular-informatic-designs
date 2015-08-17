@@ -1,0 +1,33 @@
+<Record>
+<Term>Recombinant Growth Factor</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Biological Response Modifier</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Recombinant Growth Factor,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Growth Factor</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Recombinant Growth Factor,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Growth Factor</BroaderTerm>
+<ChildTerm>Recombinant Hepatocyte Growth Factor</ChildTerm>
+<ChildTerm>Recombinant Hematopoietic Growth Factor</ChildTerm>
+<ChildTerm>Recombinant Platlet-Derived Growth Factor</ChildTerm>
+<ChildTerm>Teriparatide</ChildTerm>
+<ChildTerm>Recombinant Neurotrophic Factor</ChildTerm>
+<ChildTerm>Eltrombopag Olamine</ChildTerm>
+<ChildTerm>Recombinant Parathyroid Hormone-Related Protein</ChildTerm>
+<ChildTerm>Recombinant Angiogenin</ChildTerm>
+<ChildTerm>Recombinant Transforming Growth Factor</ChildTerm>
+<ChildTerm>Recombinant Fibroblast Growth Factor</ChildTerm>
+<ChildTerm>Recombinant Epidermal Growth Factor</ChildTerm>
+<ChildTerm>Recombinant Heparin-Binding Neurotrophic Factor</ChildTerm>
+<ChildTerm>Eltrombopag</ChildTerm>
+<ChildTerm>Recombinant Insulin-Like Growth Factor</ChildTerm>
+<Synonym>Growth Agents</Synonym>
+<Synonym>Recombinant Growth Factor</Synonym>
+<Description>Formulated therapeutic proteins that are either isolated from endogenous sources or manufactured in a laboratory.  Growth factors bind to specific receptors expressed by various cell types, thereby stimulating cell differentiation and/or proliferation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

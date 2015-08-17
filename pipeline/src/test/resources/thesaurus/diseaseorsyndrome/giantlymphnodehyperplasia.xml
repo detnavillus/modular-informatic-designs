@@ -1,0 +1,31 @@
+<Record>
+<Term>Giant Lymph Node Hyperplasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders/Giant Lymph Node Hyperplasia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Giant Lymph Node Hyperplasia</ClassificationPath>
+<ClassificationPath>Angiofollicular Lymphoid Hyperplasia</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Giant Lymph Node Hyperplasia</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Angiofollicular Lymphoid Hyperplasia</BroaderTerm>
+<Synonym>Castleman's disease</Synonym>
+<Synonym>Castleman Tumor</Synonym>
+<Synonym>AFLH</Synonym>
+<Synonym>GLNH</Synonym>
+<Synonym>Castleman Disease</Synonym>
+<Synonym>Castleman's Disease</Synonym>
+<Synonym>Castlemans Tumor</Synonym>
+<Synonym>Angiofollicular Lymphoid Hyperplasias</Synonym>
+<Synonym>Castlemans Disease</Synonym>
+<Synonym>Giant Lymph Node Hyperplasia</Synonym>
+<Synonym>Angiofollicular Lymphoid Hyperplasia</Synonym>
+<Synonym>Castleman's Tumor</Synonym>
+<Description>Large benign, hyperplastic lymph nodes. The more common hyaline vascular subtype is characterized by small hyaline vascular follicles and interfollicular capillary proliferations. Plasma cells are often present and represent another subtype with the plasma cells containing IgM and IMMUNOGLOBULIN A.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

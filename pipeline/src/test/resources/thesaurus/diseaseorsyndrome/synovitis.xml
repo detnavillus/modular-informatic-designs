@@ -1,0 +1,28 @@
+<Record>
+<Term>Synovitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Inflammation</ParentTerm>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Synovitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Connective and Soft Tissue Finding/Synovitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Inflammation/Synovitis</ClassificationPath>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Synovitis,</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Synovitis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Synovitis, Pigmented Villonodular</ChildTerm>
+<Synonym>Synovitides</Synonym>
+<Synonym>Synovitis</Synonym>
+<Description>Inflammation of a synovial membrane.</Description>
+<Description>Inflammation of a synovial membrane. It is usually painful, particularly on motion, and is characterized by a fluctuating swelling due to effusion within a synovial sac. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Hereditary Nephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nephritis</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Collagen Diseases</ParentTerm>
+<ParentTerm>Urogenital Abnormalities</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urogenital Abnormalities/Nephritis, Hereditary</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urogenital Abnormalities/Nephritis, Hereditary</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Alport Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Urogenital Abnormalities/Nephritis, Hereditary</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Hereditary</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Collagen Diseases/Nephritis, Hereditary</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Hereditary</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Collagen Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Urogenital Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Nephritis, Hereditary</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Alport Syndrome</BroaderTerm>
+<Synonym>Familial Nephritis</Synonym>
+<Synonym>Alport Syndromes</Synonym>
+<Synonym>Alport's Syndrome</Synonym>
+<Synonym>Hereditary Nephritides</Synonym>
+<Synonym>Alports Syndrome</Synonym>
+<Synonym>Familial Nephritides</Synonym>
+<Synonym>Hereditary Nephritis</Synonym>
+<Synonym>X-Linked Alport Syndrome</Synonym>
+<Synonym>Alport Syndrome</Synonym>
+<Description>A genetic syndrome usually inherited as an X-link trait.  It is caused by abnormalities in the COL4A5 gene.  It affects males more often than females and is characterized by hematuria, progressive renal insufficiency, hearing loss, and ocular abnormalities.</Description>
+<Description>A group of inherited conditions characterized initially by HEMATURIA and slowly progressing to RENAL INSUFFICIENCY. The most common form is the Alport syndrome (hereditary nephritis with HEARING LOSS) which is caused by mutations in genes for TYPE IV COLLAGEN and defective GLOMERULAR BASEMENT MEMBRANE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Newborn Respiratory Distress Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Respiration Disorders</ParentTerm>
+<ParentTerm>Infant, Premature, Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Infant, Premature, Diseases/Respiratory Distress Syndrome, Newborn</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Respiratory Distress Syndrome, Newborn</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Distress Syndrome, Newborn</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome, Newborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Infant, Premature, Diseases</BroaderTerm>
+<ChildTerm>Hyaline Membrane Disease</ChildTerm>
+<Synonym>Neonatal Respiratory Distress Syndrome</Synonym>
+<Synonym>Infantile Respiratory Distress Syndrome</Synonym>
+<Description>A condition of the newborn marked by DYSPNEA with CYANOSIS, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, mostly frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.</Description>
+<Source>MeSH</Source>
+</Record>

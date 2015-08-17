@@ -1,0 +1,21 @@
+<Record>
+<Term>Blastocystis Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Amebiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis/Blastocystis Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Blastocystis Infections</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Blastocystis Infections</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Blastocystis Infections</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Blastocystis Infections</Synonym>
+<Synonym>Blastocystis Infection</Synonym>
+<Description>Infections with organisms of the genus BLASTOCYSTIS. The species B. hominis is responsible for most infections. Parasitologic surveys have generally found small numbers of this species in human stools, but higher positivity rates and organism numbers in AIDS patients and other immunosuppressed patients (IMMUNOCOMPROMISED HOST). Symptoms include ABDOMINAL PAIN; DIARRHEA; CONSTIPATION; VOMITING; and FATIGUE.</Description>
+<Source>MeSH</Source>
+</Record>

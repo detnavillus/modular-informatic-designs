@@ -1,0 +1,34 @@
+<Record>
+<Term>Periodontal Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Tooth Abscess</ParentTerm>
+<ParentTerm>Periodontitis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Periodontal Abscess</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Non-Neoplastic Dental Disorder/Tooth Abscess/Periodontal Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontitis/Periodontal Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Abscess</BroaderTerm>
+<BroaderTerm>Periodontitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tooth Abscess</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Dental Disorder</BroaderTerm>
+<Synonym>Periodontal Abscesses</Synonym>
+<Synonym>Periodontal Abscess</Synonym>
+<Description>Localized circumscribed purulent area of inflammation in the periodontal tissue. It is a derivative of marginal periodontitis and commonly associated with suprabony and infrabony pockets and interradicular involvements, in contrast to periapical abscess which is attributable to pulp necrosis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

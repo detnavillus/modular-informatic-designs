@@ -1,0 +1,26 @@
+<Record>
+<Term>Exanthema Subitum</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Exanthema</ParentTerm>
+<ParentTerm>Skin Diseases, Viral</ParentTerm>
+<ParentTerm>Roseolovirus Infections</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Viral/Exanthema Subitum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Exanthema/Exanthema Subitum</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Roseolovirus Infections/Exanthema Subitum</ClassificationPath>
+<ClassificationPath>Virus Diseases/Skin Diseases, Viral/Exanthema Subitum</ClassificationPath>
+<BroaderTerm>Exanthema</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Exanthema Subitum</BroaderTerm>
+<BroaderTerm>Skin Diseases, Viral</BroaderTerm>
+<BroaderTerm>Roseolovirus Infections</BroaderTerm>
+<Synonym>Sixth Disease</Synonym>
+<Synonym>Roseola Infantum</Synonym>
+<Synonym>Exanthema Subitum</Synonym>
+<Description>An acute, short-lived, viral disease of infants and young children characterized by a high fever at onset that drops to normal after 3-4 days and the concomitant appearance of a macular or maculopapular rash that appears first on the trunk and then spreads to other areas. It is the sixth of the classical exanthematous diseases and is caused by HHV-6; (HERPESVIRUS 6, HUMAN). (From Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

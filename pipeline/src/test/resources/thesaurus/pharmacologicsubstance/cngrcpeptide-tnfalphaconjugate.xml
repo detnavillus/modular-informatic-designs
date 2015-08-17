@@ -1,0 +1,17 @@
+<Record>
+<Term>CNGRC Peptide-TNF Alpha Conjugate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Endothelial Cell Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial Cell Inhibitor/CNGRC Peptide-TNF Alpha Conjugate</ClassificationPath>
+<BroaderTerm>CNGRC Peptide-TNF Alpha Conjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Endothelial Cell Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CNGRC Peptide-TNF Alpha Conjugate</Synonym>
+<Synonym>NGR-hTNF</Synonym>
+<Description>A cytokine-peptide conjugate composed of the cytokine tumor necrosis factor alpha (TNF-alpha) chemically linked to the peptide CNGRC. The peptide moiety CNGRC, a ligand for the membrane-bound metalloprotease CD13, binds to endothelial cells of the angiogenic vasculature that express CD13 (also known as aminopeptidase N); subsequently, the TNF-alpha moiety induces apoptosis in endothelial cells expressing CD13, thereby inhibiting tumor-associated angiogenesis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Keratoconjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratitis</ParentTerm>
+<ParentTerm>Conjunctivitis</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Keratoconjunctivitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Keratoconjunctivitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Keratoconjunctivitis</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Keratoconjunctivitis</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Keratoconjunctivitis, Infectious</ChildTerm>
+<ChildTerm>Keratoconjunctivitis Sicca</ChildTerm>
+<ChildTerm>Epidemic Keratoconjunctivitis</ChildTerm>
+<Synonym>Keratoconjunctivitides</Synonym>
+<Synonym>Keratoconjunctivitis</Synonym>
+<Description>Simultaneous inflammation of the cornea and conjunctiva.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

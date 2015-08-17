@@ -1,0 +1,14 @@
+<Record>
+<Term>Mucormycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Zygomycosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Zygomycosis/Mucormycosis</ClassificationPath>
+<BroaderTerm>Mucormycosis</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Zygomycosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Mucormycosis</Synonym>
+<Synonym>Mucormycoses</Synonym>
+<Description>Infection in humans and animals caused by any fungus in the order Mucorales (e.g., Absidia, Mucor, Rhizopus etc.) There are many clinical types associated with infection of the central nervous system, lung, gastrointestinal tract, skin, orbit and paranasal sinuses. In humans, it usually occurs as an opportunistic infection in patients with a chronic debilitating disease, particularly uncontrolled diabetes, or who are receiving immunosuppressive agents. (From Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

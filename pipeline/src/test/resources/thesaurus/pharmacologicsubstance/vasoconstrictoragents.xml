@@ -1,0 +1,20 @@
+<Record>
+<Term>Vasoconstrictor Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Vasoconstrictor Agents</ClassificationPath>
+<BroaderTerm>Vasoconstrictor Agents</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<ChildTerm>Calcium Channel Agonists</ChildTerm>
+<ChildTerm>Nasal Decongestants</ChildTerm>
+<Synonym>Vasoconstrictor Agents</Synonym>
+<Synonym>Vasoconstrictor Drugs</Synonym>
+<Synonym>Vasoconstrictors</Synonym>
+<Synonym>Vasoactive Agonists</Synonym>
+<Synonym>Vasopressor Agents</Synonym>
+<Description>Drugs used to cause constriction of the blood vessels.</Description>
+<Source>MeSH</Source>
+</Record>

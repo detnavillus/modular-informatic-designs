@@ -1,0 +1,40 @@
+<Record>
+<Term>Brain Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Brain Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Brain Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Brain Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Brain Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Brain Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Brain Abscess</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Toxoplasmosis, Cerebral</ChildTerm>
+<Synonym>Sterile Brain Abscess</Synonym>
+<Synonym>Pyogenic Brain Abscesses</Synonym>
+<Synonym>Multiple Brain Abscess</Synonym>
+<Synonym>Brain Abscesses</Synonym>
+<Synonym>Sterile Brain Abscesses</Synonym>
+<Synonym>Child Brain Abscess</Synonym>
+<Synonym>Cerebral Abscesses</Synonym>
+<Synonym>Brain Abscess</Synonym>
+<Synonym>Pyogenic Brain Abscess</Synonym>
+<Synonym>Cerebral Abscess</Synonym>
+<Synonym>Multiple Brain Abscesses</Synonym>
+<Description>A circumscribed collection of purulent exudate in the brain, due to bacterial and other infections. The majority are caused by spread of infected material from a focus of suppuration elsewhere in the body, notably the PARANASAL SINUSES, middle ear (see EAR, MIDDLE); HEART (see also ENDOCARDITIS, BACTERIAL), and LUNG. Penetrating CRANIOCEREBRAL TRAUMA and NEUROSURGICAL PROCEDURES may also be associated with this condition. Clinical manifestations include HEADACHE; SEIZURES; focal neurologic deficits; and alterations of consciousness. (Adams et al., Principles of Neurology, 6th ed, pp712-6)</Description>
+<Source>MeSH</Source>
+</Record>

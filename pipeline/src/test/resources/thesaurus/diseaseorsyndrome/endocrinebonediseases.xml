@@ -1,0 +1,21 @@
+<Record>
+<Term>Endocrine Bone Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Bone Diseases, Endocrine</ClassificationPath>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Gigantism</ChildTerm>
+<ChildTerm>Acromegaly</ChildTerm>
+<ChildTerm>Osteitis Fibrosa Cystica</ChildTerm>
+<ChildTerm>Dwarfism, Pituitary</ChildTerm>
+<ChildTerm>Congenital Hypothyroidism</ChildTerm>
+<Synonym>Endocrine Bone Diseases</Synonym>
+<Synonym>Endocrine Bone Disease</Synonym>
+<Description>Diseases of the bones related to hyperfunction or hypofunction of the endocrine glands.</Description>
+<Source>MeSH</Source>
+</Record>

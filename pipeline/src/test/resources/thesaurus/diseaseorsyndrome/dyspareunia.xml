@@ -1,0 +1,37 @@
+<Record>
+<Term>Dyspareunia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Reproductive System Finding</ParentTerm>
+<ParentTerm>Sexual Dysfunction, Physiological</ParentTerm>
+<ParentTerm>Sexual Dysfunctions, Psychological</ParentTerm>
+<ClassificationPath>Mental Disorders/Sexual and Gender Disorders/Sexual Dysfunctions, Psychological/Dyspareunia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Genitourinary Signs and Symptoms/Dyspareunia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Dyspareunia</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexual Dysfunction, Physiological/Dyspareunia</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexual Dysfunction, Physiological/Dyspareunia</ClassificationPath>
+<BroaderTerm>Sexual Dysfunction, Physiological</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Sexual and Gender Disorders</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Genitourinary Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Dyspareunia,</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Sexual Dysfunctions, Psychological</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Dyspareunia</BroaderTerm>
+<Synonym>Dyspareunia</Synonym>
+<Description>Recurrent genital pain occurring during, before, or after SEXUAL INTERCOURSE in either the male or the female.</Description>
+<Description>Painful or difficult coitus. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

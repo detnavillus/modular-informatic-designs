@@ -1,0 +1,32 @@
+<Record>
+<Term>Pulmonary Fibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pulmonary Fibrosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Fibrosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Fibrosis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Radiation Fibrosis</ChildTerm>
+<ChildTerm>Idiopathic Pulmonary Fibrosis</ChildTerm>
+<ChildTerm>Diffuse Pulmonary Fibrosis</ChildTerm>
+<ChildTerm>Localized Pulmonary Fibrosis</ChildTerm>
+<Synonym>Hamman Rich Syndrome</Synonym>
+<Synonym>Fibrosing Alveolitis</Synonym>
+<Synonym>Hamman-Rich Syndrome</Synonym>
+<Synonym>Pulmonary Fibrosis</Synonym>
+<Synonym>Pulmonary Fibroses</Synonym>
+<Synonym>Fibrosing Alveolitides</Synonym>
+<Description>A process in which normal lung tissues are progressively replaced by FIBROBLASTS and COLLAGEN causing an irreversible loss of the ability to transfer oxygen into the bloodstream via PULMONARY ALVEOLI. Patients show progressive DYSPNEA finally resulting in death.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

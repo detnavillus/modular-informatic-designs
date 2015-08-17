@@ -1,0 +1,18 @@
+<Record>
+<Term>Fetal Resorption</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fetal Death</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Death/Fetal Death/Fetal Resorption</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Death/Fetal Resorption</ClassificationPath>
+<BroaderTerm>Fetal Resorption</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Death</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Fetal Death</BroaderTerm>
+<Synonym>Fetal Resorption</Synonym>
+<Synonym>Fetal Resorptions</Synonym>
+<Description>The disintegration and assimilation of the dead FETUS in the UTERUS at any stage after the completion of organogenesis which, in humans, is after the 9th week of GESTATION. It does not include embryo resorption (see EMBRYO LOSS).</Description>
+<Source>MeSH</Source>
+</Record>

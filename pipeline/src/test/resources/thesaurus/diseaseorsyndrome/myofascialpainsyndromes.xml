@@ -1,0 +1,17 @@
+<Record>
+<Term>Myofascial Pain Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Body Part, Organ, or Organ Component</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myofascial Pain Syndromes</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Myofascial Pain Syndromes</BroaderTerm>
+<ChildTerm>Temporomandibular Joint Dysfunction Syndrome</ChildTerm>
+<Synonym>Myofascial Pain Syndromes</Synonym>
+<Synonym>Myofascial Pain Syndrome</Synonym>
+<Synonym>Myofascial Trigger Point</Synonym>
+<Synonym>Myofascial Trigger Points</Synonym>
+<Description>Muscular pain in numerous body regions that can be reproduced by pressure on trigger points, localized hardenings in skeletal muscle tissue. Pain is referred to a location distant from the trigger points. A prime example is the TEMPOROMANDIBULAR JOINT DYSFUNCTION SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

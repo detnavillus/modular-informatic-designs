@@ -1,0 +1,43 @@
+<Record>
+<Term>Mitral Valve Prolapse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Valve Prolapse</ParentTerm>
+<ParentTerm>Valvular Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Mitral Valve Prolapse,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Congenital or Acquired Anatomic Abnormality/Prolapse/Mitral Valve Prolapse</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Heart Valve Prolapse/Mitral Valve Prolapse</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Mitral Valve Prolapse</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Prolapse</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Heart Valve Prolapse</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Mitral Valve Prolapse,</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Congenital or Acquired Anatomic Abnormality</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<Synonym>Systolic Click Murmur Syndrome</Synonym>
+<Synonym>Mitral Valve Prolapse</Synonym>
+<Synonym>Floppy Mitral Valve</Synonym>
+<Synonym>Mitral Click Murmur Syndrome</Synonym>
+<Synonym>Mitral Click-Murmur Syndrome</Synonym>
+<Synonym>Mitral Valve Prolapses</Synonym>
+<Synonym>Mitral Valve Prolapse Syndrome</Synonym>
+<Synonym>Prolapse, mitral valve</Synonym>
+<Synonym>Systolic Click-Murmur Syndrome</Synonym>
+<Synonym>Floppy Mitral Valves</Synonym>
+<Synonym>Valve, prolapse of mitral</Synonym>
+<Description>A fairly common and often benign valvular heart disorder characterized by redundancy or hooding of mitral valve leaflets so that they prolapse into the left atrium, often causing mitral regurgitation. It is often a symptomless condition but may be marked by varied symptoms (e.g. chest pain, fatigue, dizziness, dyspnea, or palpitations) leading in some cases to endocarditis or ventricular tachycardia.</Description>
+<Description>Abnormal protrusion or billowing of one or both of the leaflets of MITRAL VALVE into the LEFT ATRIUM during SYSTOLE. This allows the backflow of blood into left atrium leading to MITRAL VALVE INSUFFICIENCY; SYSTOLIC MURMURS; or CARDIAC ARRHYTHMIA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

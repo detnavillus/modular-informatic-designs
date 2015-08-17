@@ -1,0 +1,37 @@
+<Record>
+<Term>Lymphocele</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Cysts</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Lymphatic System</ParentTerm>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Lymphatic System/Lymphocele Adverse Event</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphocele</ClassificationPath>
+<ClassificationPath>Neoplasms/Cysts/Lymphocele</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Lymphatic System</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lymphocele Adverse Event</BroaderTerm>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphocele</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Lymphocele</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Lymphocele</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Lymphocele</ChildTerm>
+<Synonym>Lymphoceles</Synonym>
+<Synonym>Lymphatic Cyst</Synonym>
+<Synonym>Lymphatic Cysts</Synonym>
+<Synonym>Lymphocele</Synonym>
+<Synonym>Lymphocoeles</Synonym>
+<Synonym>Lymphocoele</Synonym>
+<Synonym>Lymphocele Adverse Event</Synonym>
+<Description>Cystic mass containing lymph from diseased lymphatic channels or following surgical trauma or other injury.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

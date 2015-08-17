@@ -1,0 +1,35 @@
+<Record>
+<Term>dl-alpha-Tocopherol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<ParentTerm>Vitamin E Acetate</ParentTerm>
+<ParentTerm>Tocopherol</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Vitamin E Acetate/dl-Alpha-Tocopherol Acetate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Tocopherol/dl-alpha-Tocopherol</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>dl-alpha-Tocopherol</BroaderTerm>
+<BroaderTerm>dl-Alpha-Tocopherol Acetate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Vitamin E Acetate</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Tocopherol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>dl-Alpha-Tocopheryl Acetate</Synonym>
+<Synonym>(+-)-alpha-Tocopherol</Synonym>
+<Synonym>dl-alpha-Tocopherol</Synonym>
+<Synonym>dl-Alpha-Tocopherol Acetate</Synonym>
+<Synonym>(+-)-alpha-Tocopherol acetate</Synonym>
+<Synonym>ALPHA-TOCOPHEROL, DL-</Synonym>
+<Synonym>DL-alpha-Tocopherol</Synonym>
+<Synonym>Vitamin E Acetate dl-form</Synonym>
+<Synonym>ALPHA-TOCOPHEROL ACETATE, DL-</Synonym>
+<Synonym>(+/-)-alpha-Tocopherol Acetate</Synonym>
+<Synonym>(+/-)-alpha-Tocopherol</Synonym>
+<Synonym>dl-.alpha.-Tocopheryl acetate</Synonym>
+<Synonym>d,l-alpha-Tocopherol Acetate</Synonym>
+<Synonym>3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-ol</Synonym>
+<Description>A naturally-occurring form of vitamin E, a fat-soluble vitamin with potent antioxidant properties.  Considered essential for the stabilization of biological membranes (especially those with high amounts of polyunsaturated fatty acids), d-alpha-Tocopherol is a potent peroxyl radical scavenger and inhibits noncompetitively cyclooxygenase activity in many tissues, resulting in a decrease in prostaglandin production.  Vitamin E also inhibits angiogenesis and tumor dormancy through suppressing vascular endothelial growth factor (VEGF) gene transcription. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

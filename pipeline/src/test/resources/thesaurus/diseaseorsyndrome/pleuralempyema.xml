@@ -1,0 +1,27 @@
+<Record>
+<Term>Pleural Empyema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Empyema</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Empyema, Pleural</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Empyema, Pleural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Respiratory Tract Infections/Empyema, Pleural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Empyema/Empyema, Pleural</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Empyema</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Empyema, Pleural</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Empyema, Tuberculous</ChildTerm>
+<Synonym>Pyothorax</Synonym>
+<Synonym>Thoracic Empyemas</Synonym>
+<Synonym>Pleural Empyema</Synonym>
+<Synonym>Pleural Empyemas</Synonym>
+<Synonym>Thoracic Empyema</Synonym>
+<Description>Suppurative inflammation of the pleural space.</Description>
+<Source>MeSH</Source>
+</Record>

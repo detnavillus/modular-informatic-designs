@@ -1,0 +1,29 @@
+<Record>
+<Term>Male Genital Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Male Urogenital Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<ChildTerm>Penile Diseases</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases</ChildTerm>
+<ChildTerm>Testicular Diseases</ChildTerm>
+<ChildTerm>Sexual Dysfunction, Physiological</ChildTerm>
+<ChildTerm>Epididymitis</ChildTerm>
+<ChildTerm>Prostatic Diseases</ChildTerm>
+<ChildTerm>Genital Neoplasms, Male</ChildTerm>
+<ChildTerm>Spermatic Cord Torsion</ChildTerm>
+<ChildTerm>Spermatocele</ChildTerm>
+<ChildTerm>Tuberculosis, Male Genital</ChildTerm>
+<ChildTerm>Varicocele</ChildTerm>
+<ChildTerm>Fournier Gangrene</ChildTerm>
+<ChildTerm>Hemospermia</ChildTerm>
+<ChildTerm>Infertility</ChildTerm>
+<ChildTerm>Hematocele</ChildTerm>
+<ChildTerm>Herpes Genitalis</ChildTerm>
+<ChildTerm>Testicular Hydrocele</ChildTerm>
+<Synonym>Male Genital Disease</Synonym>
+<Synonym>Male Genital Diseases</Synonym>
+<Description>Pathological processes involving the male reproductive tract (GENITALIA, MALE).</Description>
+<Source>MeSH</Source>
+</Record>

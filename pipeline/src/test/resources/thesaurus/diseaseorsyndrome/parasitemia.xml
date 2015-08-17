@@ -1,0 +1,19 @@
+<Record>
+<Term>Parasitemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sepsis</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Parasitemia</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitemia</ClassificationPath>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Parasitemia</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Parasitemias</Synonym>
+<Synonym>Parasitemia</Synonym>
+<Description>The presence of parasites (especially malarial parasites) in the blood. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

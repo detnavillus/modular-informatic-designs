@@ -1,0 +1,20 @@
+<Record>
+<Term>Diffuse Idiopathic Skeletal Hyperostosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperostosis</ParentTerm>
+<ParentTerm>Spinal Osteophytosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Hyperostosis/Hyperostosis, Diffuse Idiopathic Skeletal</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Osteophytosis/Hyperostosis, Diffuse Idiopathic Skeletal</ClassificationPath>
+<BroaderTerm>Hyperostosis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Hyperostosis, Diffuse Idiopathic Skeletal</BroaderTerm>
+<BroaderTerm>Spinal Osteophytosis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Vertebral Ankylosing Hyperostoses</Synonym>
+<Synonym>Forestier Disease</Synonym>
+<Synonym>Diffuse Idiopathic Skeletal Hyperostosis</Synonym>
+<Synonym>Vertebral Ankylosing Hyperostosis</Synonym>
+<Description>A disease of elderly men characterized by large osteophytes that bridge vertebrae and ossification of ligaments and tendon insertions.</Description>
+<Source>MeSH</Source>
+</Record>

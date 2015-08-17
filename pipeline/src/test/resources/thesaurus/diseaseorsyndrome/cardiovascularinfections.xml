@@ -1,0 +1,19 @@
+<Record>
+<Term>Cardiovascular Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Cardiovascular Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis, Cardiovascular</ChildTerm>
+<ChildTerm>Syphilis, Cardiovascular</ChildTerm>
+<ChildTerm>Endocarditis, Bacterial</ChildTerm>
+<Synonym>Cardiovascular Infection</Synonym>
+<Synonym>Cardiovascular Infections</Synonym>
+<Description>Pathological conditions of the CARDIOVASCULAR SYSTEM caused by infections.</Description>
+<Source>MeSH</Source>
+</Record>

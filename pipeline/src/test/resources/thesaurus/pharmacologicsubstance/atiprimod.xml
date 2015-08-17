@@ -1,0 +1,18 @@
+<Record>
+<Term>Atiprimod</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Signal Transduction Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Signal Transduction Inhibitor/Atiprimod</ClassificationPath>
+<BroaderTerm>Signal Transduction Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Atiprimod</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Atiprimod</Synonym>
+<Synonym>Azaspirane SK&amp;amp;F106615</Synonym>
+<Synonym>N,N-Diethyl-8,8-dipropyl-2-azaspiro(4.5)decane-2-propanamine</Synonym>
+<Synonym>SK&amp;amp;F106615</Synonym>
+<Description>An orally bioavailable small molecule belonging to the azaspirane class of cationic amphiphilic agents with anti-inflammatory, antineoplastic, and antiangiogenic properties. Atiprimod inhibits the phosphorylation of signal transducer and activator of transcription 3 (STAT3), blocking the signalling pathways of interleukin-6 and vascular endothelial growth factor (VEGF) and downregulating the anti-apoptotic proteins Bcl-2, Bcl-XL, and Mcl-1, thereby inhibiting cell proliferation, inducing cell cycle arrest, and inducing apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Emphysematous Cholecystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cholecystitis</ParentTerm>
+<ParentTerm>Cholecystitis, Acute</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Gallbladder Diseases/Cholecystitis/Cholecystitis, Acute/Emphysematous Cholecystitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Liver and Biliary Tract Disorder/Biliary Tract Disorder/Gallbladder Disorder/Cholecystitis/Emphysematous Cholecystitis</ClassificationPath>
+<BroaderTerm>Emphysematous Cholecystitis</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cholecystitis, Acute</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gallbladder Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cholecystitis</BroaderTerm>
+<BroaderTerm>Liver and Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gallbladder Diseases</BroaderTerm>
+<Synonym>Emphysematous Cholecystitis</Synonym>
+<Description>A variant of acute cholecystitis with inflammation of the GALLBLADDER that is characterized by the pockets of gas in the gallbladder wall. It is due to secondary infection caused by gas-forming organisms, and has a high risk of perforation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

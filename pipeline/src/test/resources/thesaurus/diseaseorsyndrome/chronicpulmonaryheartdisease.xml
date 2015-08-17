@@ -1,0 +1,19 @@
+<Record>
+<Term>Chronic Pulmonary Heart Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Chronic Pulmonary Heart Disease</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Chronic Pulmonary Heart Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Chronic Pulmonary Heart Disease</Synonym>
+<Synonym>Cor Pulmonale</Synonym>
+<Description>Heart disease which occurs as a result of a primary pulmonary disease. Cor pulmonale most often manifests as right ventricular hypertrophy; it can also lead to right ventricular failure.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

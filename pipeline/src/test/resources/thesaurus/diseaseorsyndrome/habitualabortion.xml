@@ -1,0 +1,19 @@
+<Record>
+<Term>Habitual Abortion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abortion, Spontaneous</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Abortion, Spontaneous/Abortion, Habitual</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abortion, Spontaneous</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abortion, Habitual</BroaderTerm>
+<ChildTerm>Uterine Cervical Incompetence</ChildTerm>
+<Synonym>Habitual Abortion</Synonym>
+<Synonym>Habitual Abortions</Synonym>
+<Synonym>Recurrent Miscarriage</Synonym>
+<Synonym>Recurrent Miscarriages</Synonym>
+<Synonym>Recurrent Abortion</Synonym>
+<Synonym>Recurrent Abortions</Synonym>
+<Description>Three or more consecutive spontaneous abortions.</Description>
+<Source>MeSH</Source>
+</Record>

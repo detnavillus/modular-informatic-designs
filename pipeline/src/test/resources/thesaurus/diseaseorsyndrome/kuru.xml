@@ -1,0 +1,17 @@
+<Record>
+<Term>Kuru</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Prion Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Prion Diseases/Kuru</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Prion Diseases/Kuru</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Kuru</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Prion Diseases</BroaderTerm>
+<Synonym>Kuru</Synonym>
+<Synonym>Kuru Encephalopathy</Synonym>
+<Description>A prion disease found exclusively among the Fore linguistic group natives of the highlands of NEW GUINEA. The illness is primarily restricted to adult females and children of both sexes. It is marked by the subacute onset of tremor and ataxia followed by motor weakness and incontinence. Death occurs within 3-6 months of disease onset. The condition is associated with ritual cannibalism, and has become rare since this practice has been discontinued. Pathologic features include a noninflammatory loss of neurons that is most prominent in the cerebellum, glial proliferation, and amyloid plaques. (From Adams et al., Principles of Neurology, 6th ed, p773)</Description>
+<Source>MeSH</Source>
+</Record>

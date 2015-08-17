@@ -1,0 +1,28 @@
+<Record>
+<Term>Childhood Schizophrenia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Schizophrenia</ParentTerm>
+<ParentTerm>Child Development Disorders, Pervasive</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction/Cognitive Disturbance/Schizophrenia/Childhood Schizophrenia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Child Development Disorders, Pervasive/Schizophrenia, Childhood</ClassificationPath>
+<BroaderTerm>Schizophrenia</BroaderTerm>
+<BroaderTerm>Schizophrenia, Childhood</BroaderTerm>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Childhood Schizophrenia</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance</BroaderTerm>
+<BroaderTerm>Child Development Disorders, Pervasive</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Childhood-Onset Schizophrenias</Synonym>
+<Synonym>Childhood Schizophrenias</Synonym>
+<Synonym>Childhood Schizophrenia</Synonym>
+<Synonym>Childhood Onset Schizophrenia</Synonym>
+<Synonym>Childhood-Onset Schizophrenia</Synonym>
+<Description>An obsolete concept, historically used for childhood mental disorders thought to be a form of schizophrenia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

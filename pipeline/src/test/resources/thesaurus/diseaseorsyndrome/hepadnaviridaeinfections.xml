@@ -1,0 +1,14 @@
+<Record>
+<Term>Hepadnaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>DNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Hepadnaviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Hepadnaviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<ChildTerm>Hepatitis B</ChildTerm>
+<Synonym>Hepadnaviridae Infections</Synonym>
+<Synonym>Hepadnaviridae Infection</Synonym>
+<Description>Virus diseases caused by the HEPADNAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

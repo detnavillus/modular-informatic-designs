@@ -1,0 +1,21 @@
+<Record>
+<Term>Orbital Myositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myositis</ParentTerm>
+<ParentTerm>Orbital Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Orbital Myositis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Orbital Diseases/Orbital Myositis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis/Orbital Myositis</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Orbital Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Orbital Myositis</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Orbital Myositides</Synonym>
+<Synonym>Orbital Myositis</Synonym>
+<Description>Inflammation of the extraocular muscle of the eye. It is characterized by swelling which can lead to ischemia, fibrosis, or ORBITAL PSEUDOTUMOR.</Description>
+<Source>MeSH</Source>
+</Record>

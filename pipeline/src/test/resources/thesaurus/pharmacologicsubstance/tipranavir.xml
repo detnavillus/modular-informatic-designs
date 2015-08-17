@@ -1,0 +1,27 @@
+<Record>
+<Term>Tipranavir</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Protease Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Tipranavir,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Tipranavir</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Tipranavir Disodium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Tipranavir Disodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tipranavir</BroaderTerm>
+<BroaderTerm>Tipranavir,</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Tipranavir Disodium,</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Tipranavir Disodium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TIPRANAVIR</Synonym>
+<Synonym>Tipranavir</Synonym>
+<Synonym>TIPRANAVIR DISODIUM</Synonym>
+<Synonym>Aptivus</Synonym>
+<Synonym>Tipranavir Disodium</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

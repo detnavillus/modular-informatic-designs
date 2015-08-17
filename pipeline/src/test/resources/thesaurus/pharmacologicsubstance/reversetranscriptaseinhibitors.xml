@@ -1,0 +1,21 @@
+<Record>
+<Term>Reverse Transcriptase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Nucleic Acid Synthesis Inhibitors</ParentTerm>
+<ParentTerm>Anti-Retroviral Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents/Anti-Retroviral Agents/Reverse Transcriptase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Nucleic Acid Synthesis Inhibitors/Reverse Transcriptase Inhibitors</ClassificationPath>
+<BroaderTerm>Reverse Transcriptase Inhibitors</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Nucleic Acid Synthesis Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Anti-Retroviral Agents</BroaderTerm>
+<Synonym>Reverse Transcriptase Inhibitors</Synonym>
+<Description>Inhibitors of reverse transcriptase (RNA-DIRECTED DNA POLYMERASE), an enzyme that synthesizes DNA on an RNA template.</Description>
+<Source>MeSH</Source>
+</Record>

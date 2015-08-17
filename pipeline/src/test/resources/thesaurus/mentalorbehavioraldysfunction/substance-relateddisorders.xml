@@ -1,0 +1,40 @@
+<Record>
+<Term>Substance-Related Disorders</Term>
+<SemanticType>Patient or Disabled Group</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Disorders of Environmental Origin</ParentTerm>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<ChildTerm>Psychoses, Substance-Induced</ChildTerm>
+<ChildTerm>Neonatal Abstinence Syndrome</ChildTerm>
+<ChildTerm>Cocaine-Related Disorders</ChildTerm>
+<ChildTerm>Opioid-Related Disorders</ChildTerm>
+<ChildTerm>Marijuana Abuse</ChildTerm>
+<ChildTerm>Substance Abuse, Intravenous</ChildTerm>
+<ChildTerm>Tobacco Use Disorder</ChildTerm>
+<ChildTerm>Substance Withdrawal Syndrome</ChildTerm>
+<ChildTerm>Alcohol-Related Disorders</ChildTerm>
+<ChildTerm>Phencyclidine Abuse</ChildTerm>
+<ChildTerm>Amphetamine-Related Disorders</ChildTerm>
+<Synonym>Substance Abuses</Synonym>
+<Synonym>Substance Dependence</Synonym>
+<Synonym>Drug Use Disorders</Synonym>
+<Synonym>Drug Habituation</Synonym>
+<Synonym>Drug Dependence</Synonym>
+<Synonym>Glue Sniffing</Synonym>
+<Synonym>Substance Use Disorder</Synonym>
+<Synonym>Drug Use Disorder</Synonym>
+<Synonym>Substance Abuse</Synonym>
+<Synonym>Substance Addiction</Synonym>
+<Synonym>Drug Abuse</Synonym>
+<Synonym>Substance Use Disorders</Synonym>
+<Synonym>Drug Addiction</Synonym>
+<Synonym>Substance-Related Disorders</Synonym>
+<Synonym>Drug Usage</Synonym>
+<Description>Disorders related to substance abuse, the side effects of a medication, toxin exposure, and ALCOHOL-RELATED DISORDERS.</Description>
+<Source>MeSH</Source>
+</Record>

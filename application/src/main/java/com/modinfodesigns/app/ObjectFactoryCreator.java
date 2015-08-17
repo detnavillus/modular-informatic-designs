@@ -131,29 +131,37 @@ public class ObjectFactoryCreator  implements ServletContextListener
           String facName   = objElem.getAttribute( "factoryName" );
           String facClass  = objElem.getAttribute( "factoryClass" );
           String objConfig = objElem.getAttribute( "configFile" );
-                    
-          if (objConfig.startsWith( "./" ))
+            
+          if (objConfig != null)
           {
-            if (configPath != null)
+            if (objConfig.startsWith( "./" ))
             {
-              objConfig = configPath + objConfig.substring( 1 );
-              LOG.debug( "Reconfigured object config to " + objConfig );
+              if (configPath != null)
+              {
+                objConfig = configPath + objConfig.substring( 1 );
+                LOG.debug( "Reconfigured object config to " + objConfig );
+              }
+              else
+              {
+                // the the base path as before ...
+              }
+            }
+                
+            LOG.debug( "createObjectFactory( " + facName + "," + facClass + "," + objConfig );
+            String factoryXML = FileMethods.readFile( objConfig );
+            if (factoryXML != null)
+            {
+              appManager.createObjectFactory( facName, facClass, factoryXML );
             }
             else
             {
-              // the the base path as before ...
+              LOG.error( "Could not read file: " + objConfig );
             }
-          }
-                
-          LOG.debug( "createObjectFactory( " + facName + "," + facClass + "," + objConfig );
-          String factoryXML = FileMethods.readFile( objConfig );
-          if (factoryXML != null)
-          {
-            appManager.createObjectFactory( facName, facClass, factoryXML );
           }
           else
           {
-            LOG.error( "Could not read file: " + objConfig );
+            String factoryXML = DOMMethods.getText( objElem );
+            appManager.createObjectFactory( facName, facClass, factoryXML );
           }
         }
       }

@@ -1,0 +1,22 @@
+<Record>
+<Term>Butalbital</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Barbiturate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Barbiturate/Butalbital</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Barbiturate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Butalbital</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2,4,6(1H,3H,5H)-Pyrimidinetrione, 5-(2-Methylpropyl)-5-(2-propenyl)-</Synonym>
+<Synonym>5-Allyl-5-isobutylbarbituric Acid</Synonym>
+<Synonym>Allylbarbital</Synonym>
+<Synonym>Allylbarbituric Acid</Synonym>
+<Synonym>BUTALBITAL</Synonym>
+<Synonym>Butalbital</Synonym>
+<Synonym>Optalidon</Synonym>
+<Description>A barbiturate that exerts its effect by mimicking the inhibitory effect of gamma-aminobutyric acid (GABA) by binding to a site, distinct from the benzodiazepine binding site, on the GABA receptor. This leads to an increase in the duration of GABA-mediated opening of chloride channels and enhances the inhibitory effect of GABA. Consequently, its physiologic effects include sedation, hypnosis, reduction of anxiety, and respiratory depression and the drug causes tolerance and dependence.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

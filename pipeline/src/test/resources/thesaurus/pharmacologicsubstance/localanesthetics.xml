@@ -1,0 +1,24 @@
+<Record>
+<Term>Local Anesthetics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anesthetics</ParentTerm>
+<ParentTerm>Sensory System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Anesthetics/Anesthetics, Local</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Anesthetics, Local</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Anesthetics/Anesthetics, Local</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Anesthetics</BroaderTerm>
+<BroaderTerm>Anesthetics, Local</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Local Anesthetics</Synonym>
+<Synonym>Conduction-Blocking Anesthetics</Synonym>
+<Synonym>Conduction Blocking Anesthetics</Synonym>
+<Description>Drugs that block nerve conduction when applied locally to nerve tissue in appropriate concentrations. They act on any part of the nervous system and on every type of nerve fiber. In contact with a nerve trunk, these anesthetics can cause both sensory and motor paralysis in the innervated area. Their action is completely reversible. (From Gilman AG, et. al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 8th ed) Nearly all local anesthetics act by reducing the tendency of voltage-dependent sodium channels to activate.</Description>
+<Source>MeSH</Source>
+</Record>

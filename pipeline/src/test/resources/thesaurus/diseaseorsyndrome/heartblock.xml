@@ -1,0 +1,46 @@
+<Record>
+<Term>Heart Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmia</ParentTerm>
+<ParentTerm>Arrhythmias, Cardiac</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Heart Block</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Heart Block</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<ChildTerm>Right Bundle Branch Block</ChildTerm>
+<ChildTerm>Sick Sinus Syndrome</ChildTerm>
+<ChildTerm>Incomplete Bundle Branch Block</ChildTerm>
+<ChildTerm>Adams-Stokes Syndrome</ChildTerm>
+<ChildTerm>Left Anterior Fascicular Block</ChildTerm>
+<ChildTerm>Bundle-Branch Block</ChildTerm>
+<ChildTerm>Exit Block</ChildTerm>
+<ChildTerm>Left Posterior Fascicular Block</ChildTerm>
+<ChildTerm>Left Bundle Branch Block</ChildTerm>
+<ChildTerm>Nonspecific Intraventricular Conduction Delay</ChildTerm>
+<ChildTerm>Sinoatrial Block</ChildTerm>
+<ChildTerm>Bifascicular Block</ChildTerm>
+<ChildTerm>Atrioventricular Block</ChildTerm>
+<Synonym>Heart Blocks</Synonym>
+<Synonym>Auriculo Ventricular Dissociation</Synonym>
+<Synonym>Auriculo-Ventricular Dissociation</Synonym>
+<Synonym>Auriculo-Ventricular Dissociations</Synonym>
+<Synonym>Heart Block</Synonym>
+<Description>Impaired conduction of cardiac impulse that can occur anywhere along the conduction pathway, such as between the SINOATRIAL NODE and the right atrium (SA block) or between atria and ventricles (AV block). Heart blocks can be classified by the duration, frequency, or completeness of conduction block. Reversibility depends on the degree of structural or functional defects.</Description>
+<Description>An impairment of transmission of the cardiac electrical impulse along the fibers normally responsible impulse propagation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

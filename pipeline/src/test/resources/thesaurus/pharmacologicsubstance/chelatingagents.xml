@@ -1,0 +1,21 @@
+<Record>
+<Term>Chelating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<ParentTerm>Specialty Uses of Chemicals</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Chelating Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Chelating Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Chelating Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Iron Chelating Agents</ChildTerm>
+<Synonym>Metal Antagonists</Synonym>
+<Synonym>Chelators</Synonym>
+<Synonym>Chelating Agents</Synonym>
+<Synonym>Complexons</Synonym>
+<Description>Chemicals that bind to and remove ions from solutions. Many chelating agents function through the formation of COORDINATION COMPLEXES with METALS.</Description>
+<Source>MeSH</Source>
+</Record>

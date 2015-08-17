@@ -1,0 +1,22 @@
+<Record>
+<Term>Ureterolithiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urolithiasis</ParentTerm>
+<ParentTerm>Ureteral Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Ureteral Diseases/Ureterolithiasis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urolithiasis/Ureterolithiasis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Ureteral Diseases/Ureterolithiasis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urolithiasis/Ureterolithiasis</ClassificationPath>
+<BroaderTerm>Urolithiasis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Ureteral Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Ureterolithiasis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Ureteral Calculi</ChildTerm>
+<Synonym>Ureterolithiases</Synonym>
+<Synonym>Ureterolithiasis</Synonym>
+<Description>Formation of stones in the URETER.</Description>
+<Source>MeSH</Source>
+</Record>

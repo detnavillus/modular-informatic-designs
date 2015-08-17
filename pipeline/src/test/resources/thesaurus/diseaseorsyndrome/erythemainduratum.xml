@@ -1,0 +1,37 @@
+<Record>
+<Term>Erythema Induratum</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Panniculitis</ParentTerm>
+<ParentTerm>Tuberculosis, Cutaneous</ParentTerm>
+<ParentTerm>Erythema</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Panniculitis/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Panniculitis/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Tuberculosis, Cutaneous/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Tuberculosis, Cutaneous/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Tuberculosis, Cutaneous/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Cutaneous/Erythema Induratum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Erythema/Erythema Induratum</ClassificationPath>
+<BroaderTerm>Panniculitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Erythema Induratum</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Erythema</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Tuberculosis, Cutaneous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<Synonym>Bazin's Disease</Synonym>
+<Synonym>Bazins Disease</Synonym>
+<Synonym>Bazin Disease</Synonym>
+<Synonym>Erythema Induratum</Synonym>
+<Synonym>Tuberculosis Cutis Indurativa</Synonym>
+<Description>A type of panniculitis characterized histologically by the presence of granulomas, vasculitis, and necrosis. It is traditionally considered to be the tuberculous counterpart of nodular vasculitis, but is now known to occur without tuberculous precedent. It is seen most commonly in adolescent and menopausal women, is initiated or exacerbated by cold weather, and typically presents as one or more recurrent erythrocyanotic nodules or plaques on the calves. The nodules may progress to form indurations, ulcerations, and scars.</Description>
+<Source>MeSH</Source>
+</Record>

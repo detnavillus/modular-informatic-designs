@@ -1,0 +1,14 @@
+<Record>
+<Term>Vaccinia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Poxviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Poxviridae Infections/Vaccinia</ClassificationPath>
+<BroaderTerm>Vaccinia</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Poxviridae Infections</BroaderTerm>
+<Synonym>Vaccinia</Synonym>
+<Synonym>Vaccinias</Synonym>
+<Description>The cutaneous and occasional systemic reactions associated with vaccination using smallpox (variola) vaccine.</Description>
+<Source>MeSH</Source>
+</Record>

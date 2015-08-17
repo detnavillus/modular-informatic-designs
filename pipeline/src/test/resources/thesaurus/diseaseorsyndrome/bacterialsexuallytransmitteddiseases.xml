@@ -1,0 +1,31 @@
+<Record>
+<Term>Bacterial Sexually Transmitted Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Sexually Transmitted Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Sexually Transmitted Diseases, Bacterial</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Syphilis</ChildTerm>
+<ChildTerm>Granuloma Inguinale</ChildTerm>
+<ChildTerm>Gonorrhea</ChildTerm>
+<ChildTerm>Chlamydia Infections</ChildTerm>
+<ChildTerm>Chancroid</ChildTerm>
+<Synonym>Bacterial Venereal Disease</Synonym>
+<Synonym>Bacterial Sexually Transmitted Diseases</Synonym>
+<Synonym>Bacterial Venereal Diseases</Synonym>
+<Synonym>Bacterial Sexually Transmitted Disease</Synonym>
+<Description>Bacterial diseases transmitted or propagated by sexual conduct.</Description>
+<Source>MeSH</Source>
+</Record>

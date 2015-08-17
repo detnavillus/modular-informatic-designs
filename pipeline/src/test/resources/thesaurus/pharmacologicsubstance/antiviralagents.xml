@@ -1,0 +1,65 @@
+<Record>
+<Term>Antiviral Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Anti-Infective Agents</ParentTerm>
+<ParentTerm>Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Vicriviroc</ChildTerm>
+<ChildTerm>Xenazoic Acid</ChildTerm>
+<ChildTerm>Pradefovir</ChildTerm>
+<ChildTerm>Anti-HIV Agent</ChildTerm>
+<ChildTerm>Raltegravir Potassium</ChildTerm>
+<ChildTerm>Amitivir</ChildTerm>
+<ChildTerm>Cicloxolone</ChildTerm>
+<ChildTerm>Valganciclovir Hydrochloride</ChildTerm>
+<ChildTerm>Desciclovir</ChildTerm>
+<ChildTerm>Impacarzine</ChildTerm>
+<ChildTerm>Entecavir</ChildTerm>
+<ChildTerm>Amidapsone</ChildTerm>
+<ChildTerm>Fialuridine</ChildTerm>
+<ChildTerm>Droxinavir Hydrochloride</ChildTerm>
+<ChildTerm>Fosarilate</ChildTerm>
+<ChildTerm>Merimepodib</ChildTerm>
+<ChildTerm>Anti-Retroviral Agents</ChildTerm>
+<ChildTerm>Torcitabine</ChildTerm>
+<ChildTerm>Xenygloxal</ChildTerm>
+<ChildTerm>Miscellaneous Antiviral Agent</ChildTerm>
+<ChildTerm>Raltegravir</ChildTerm>
+<ChildTerm>Pradefovir Mesylate</ChildTerm>
+<ChildTerm>Tipranavir</ChildTerm>
+<ChildTerm>Penciclovir</ChildTerm>
+<ChildTerm>Epetirimod Esylate</ChildTerm>
+<ChildTerm>Epetirimod</ChildTerm>
+<ChildTerm>Mycophenolate Sodium</ChildTerm>
+<ChildTerm>Fiacitabine</ChildTerm>
+<ChildTerm>Rociclovir</ChildTerm>
+<ChildTerm>Fosamprenavir Sodium</ChildTerm>
+<ChildTerm>Palinavir</ChildTerm>
+<ChildTerm>Moroxydine</ChildTerm>
+<ChildTerm>Tilorone</ChildTerm>
+<ChildTerm>Buciclovir</ChildTerm>
+<ChildTerm>Elvucitabine</ChildTerm>
+<ChildTerm>Tipranavir Disodium</ChildTerm>
+<ChildTerm>Enviradene</ChildTerm>
+<Synonym>Antiviral Drugs</Synonym>
+<Synonym>Antiviral Agents</Synonym>
+<Synonym>Antivirals</Synonym>
+<Synonym>Antiviral</Synonym>
+<Synonym>antivirals</Synonym>
+<Synonym>Antiviral Agent</Synonym>
+<Description>Agents used in the prophylaxis or therapy of VIRUS DISEASES. Some of the ways they may act include preventing viral replication by inhibiting viral DNA polymerase; binding to specific cell-surface receptors and inhibiting viral penetration or uncoating; inhibiting viral protein synthesis; or blocking late stages of virus assembly.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

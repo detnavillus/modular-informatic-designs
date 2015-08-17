@@ -1,0 +1,58 @@
+<Record>
+<Term>BCG Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<SemanticType>Bacterium</SemanticType>
+<ParentTerm>Tuberculosis Vaccines</ParentTerm>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/BCG Vaccine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Attenuated Bacteria/BCG Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Tuberculosis Vaccines/BCG Vaccine</ClassificationPath>
+<BroaderTerm>BCG Vaccine,</BroaderTerm>
+<BroaderTerm>Tuberculosis Vaccines</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>BCG Vaccine</BroaderTerm>
+<BroaderTerm>Attenuated Bacteria</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>BCG, Cell Wall Skeleton</ChildTerm>
+<ChildTerm>Methanol Extraction Residue of BCG</ChildTerm>
+<Synonym>Calmette Guerin Bacillus Vaccine</Synonym>
+<Synonym>Bacillus Calmette-Guerin</Synonym>
+<Synonym>BCG Vaccine</Synonym>
+<Synonym>Mycobacterium bovis (Strain BCG)</Synonym>
+<Synonym>Bacillus Calmette Guerin Vaccine</Synonym>
+<Synonym>TICE BCG</Synonym>
+<Synonym>TheraCys</Synonym>
+<Synonym>ImmunCyst</Synonym>
+<Synonym>Pacis</Synonym>
+<Synonym>Bacillius Calmette-Guerin Vaccine</Synonym>
+<Synonym>BCG TICE</Synonym>
+<Synonym>Calmette's Vaccine</Synonym>
+<Synonym>BCG Tice</Synonym>
+<Synonym>BCG (Pasteur)</Synonym>
+<Synonym>Oncotice</Synonym>
+<Synonym>BCG</Synonym>
+<Synonym>Calmettes Vaccine</Synonym>
+<Synonym>Live Intravesical BCG</Synonym>
+<Synonym>Imovax BCG</Synonym>
+<Synonym>Bacillus Calmette Guerin</Synonym>
+<Synonym>Cultivo BCG</Synonym>
+<Synonym>Pastimmun</Synonym>
+<Synonym>Calmette Vaccine</Synonym>
+<Synonym>Immucyst</Synonym>
+<Synonym>Bacille Calmette-Guerin Live</Synonym>
+<Synonym>Monovax</Synonym>
+<Description>An active immunizing agent and a viable avirulent attenuated strain of Mycobacterium tuberculosis, var. bovis, which confers immunity to mycobacterial infections. It is used also in immunotherapy of neoplasms due to its stimulation of antibodies and non-specific immunity.</Description>
+<Description>A vaccine containing bacillus Calmette-Guerin (BCG), an attenuated strain of Mycobacterium bovis, with non-specific immunoadjuvant and immunotherapeutic activities. Although the mechanism of its anti-tumor activity is unclear, immunization with BCG vaccine likely activates a Th1 cytokine response that includes the induction of interferon. Vaccination with BCG vaccine may be immunoprotective against infection with Mycobacterium tuberculosis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Cholesterol Ester Storage Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lysosomal Storage Diseases</ParentTerm>
+<ParentTerm>Lipidoses</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Cholesterol Ester Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Cholesterol Ester Storage Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Cholesterol Ester Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cholesterol Ester Storage Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cholesterol Ester Storage Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Cholesterol Ester Storage Disease</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<ChildTerm>Wolman Disease</ChildTerm>
+<Synonym>Cholesteryl Ester Storage Disease</Synonym>
+<Synonym>Cholesterol Ester Storage Disease</Synonym>
+<Description>An autosomal recessive disorder caused by mutations in the gene for acid lipase (STEROL ESTERASE).  It is characterized by the accumulation of neutral lipids, particularly CHOLESTEROL ESTERS in leukocytes, fibroblasts, and hepatocytes.</Description>
+<Source>MeSH</Source>
+</Record>

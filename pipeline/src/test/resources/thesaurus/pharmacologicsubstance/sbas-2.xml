@@ -1,0 +1,16 @@
+<Record>
+<Term>SB AS-2</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/SB AS-2</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>SB AS-2</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SB AS-2</Synonym>
+<Description>A proprietary vaccine adjuvant consisting of an oil-in-water emulsion of saponin QS21 and monophosphoryl lipid A with potential immunostimulating activity. Mono-phosphoryl lipid A is a detoxified derivative of lipid A, a component of lipopolysaccharide (LPS) found in most gram-negative bacteria. QS21 is a purified saponin fraction extracted from the South American tree Quillaja saponaria Molina. When co-administered with peptide vaccines, the adjuvant vaccine may elicit strong humoral and cellular immune responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

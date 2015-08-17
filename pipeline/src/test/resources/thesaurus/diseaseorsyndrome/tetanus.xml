@@ -1,0 +1,14 @@
+<Record>
+<Term>Tetanus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Clostridium Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Clostridium Infections/Tetanus</ClassificationPath>
+<BroaderTerm>Clostridium Infections</BroaderTerm>
+<BroaderTerm>Tetanus</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Tetanus</Synonym>
+<Description>A disease caused by tetanospasmin, a powerful protein toxin produced by CLOSTRIDIUM TETANI. Tetanus usually occurs after an acute injury, such as a puncture wound or laceration. Generalized tetanus, the most common form, is characterized by tetanic muscular contractions and hyperreflexia. Localized tetanus presents itself as a mild condition with manifestations restricted to muscles near the wound. It may progress to the generalized form.</Description>
+<Source>MeSH</Source>
+</Record>

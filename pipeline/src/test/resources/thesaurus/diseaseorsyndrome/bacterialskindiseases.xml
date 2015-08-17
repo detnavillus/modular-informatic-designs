@@ -1,0 +1,36 @@
+<Record>
+<Term>Bacterial Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Infectious</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Erythrasma</ChildTerm>
+<ChildTerm>Yaws</ChildTerm>
+<ChildTerm>Rhinoscleroma</ChildTerm>
+<ChildTerm>Erysipelas</ChildTerm>
+<ChildTerm>Fasciitis, Necrotizing</ChildTerm>
+<ChildTerm>Granuloma Inguinale</ChildTerm>
+<ChildTerm>Actinomycosis, Cervicofacial</ChildTerm>
+<ChildTerm>Hidradenitis Suppurativa</ChildTerm>
+<ChildTerm>Mycetoma</ChildTerm>
+<ChildTerm>Syphilis, Cutaneous</ChildTerm>
+<ChildTerm>Angiomatosis, Bacillary</ChildTerm>
+<ChildTerm>Tuberculosis, Cutaneous</ChildTerm>
+<ChildTerm>Staphylococcal Skin Infections</ChildTerm>
+<ChildTerm>Erythema Chronicum Migrans</ChildTerm>
+<ChildTerm>Pinta</ChildTerm>
+<ChildTerm>Ecthyma</ChildTerm>
+<Synonym>Bacterial Skin Disease</Synonym>
+<Synonym>Bacterial Skin Diseases</Synonym>
+<Description>Skin diseases caused by bacteria.</Description>
+<Source>MeSH</Source>
+</Record>

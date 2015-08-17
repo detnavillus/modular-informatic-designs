@@ -1,0 +1,15 @@
+<Record>
+<Term>Esophageal Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Esophageal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Esophageal Stenosis</ClassificationPath>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Esophageal Stenosis</BroaderTerm>
+<Synonym>Esophageal Stenosis</Synonym>
+<Synonym>Esophageal Stenoses</Synonym>
+<Synonym>Esophageal Stricture</Synonym>
+<Description>A stricture of the ESOPHAGUS. Most are acquired but can be congenital.</Description>
+<Source>MeSH</Source>
+</Record>

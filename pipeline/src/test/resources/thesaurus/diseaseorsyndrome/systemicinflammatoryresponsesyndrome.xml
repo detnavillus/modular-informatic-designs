@@ -1,0 +1,20 @@
+<Record>
+<Term>Systemic Inflammatory Response Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Inflammation</ParentTerm>
+<ParentTerm>Shock</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Shock/Systemic Inflammatory Response Syndrome</ClassificationPath>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Shock</BroaderTerm>
+<ChildTerm>Shock, Septic</ChildTerm>
+<ChildTerm>Sepsis</ChildTerm>
+<Synonym>Systemic Inflammatory Response Syndrome</Synonym>
+<Synonym>Sepsis Syndrome</Synonym>
+<Synonym>Sepsis Syndromes</Synonym>
+<Description>A systemic inflammatory response to a variety of clinical insults, characterized by two or more of the following conditions: (1) fever >38 degrees C or HYPOTHERMIA &lt;36 degrees C; (2) TACHYCARDIA >90 beat/minute; (3) tachypnea >24 breaths/minute; (4) LEUKOCYTOSIS >12,000 cells/cubic mm or 10% immature forms.  While usually related to infection, SIRS can also be associated with noninfectious insults such as TRAUMA; BURNS; or PANCREATITIS. If infection is involved, a patient with SIRS is said to have SEPSIS.</Description>
+<Source>MeSH</Source>
+</Record>

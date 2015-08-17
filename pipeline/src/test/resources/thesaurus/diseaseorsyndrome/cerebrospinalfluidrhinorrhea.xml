@@ -1,0 +1,31 @@
+<Record>
+<Term>Cerebrospinal Fluid Rhinorrhea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Craniocerebral Trauma</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Craniocerebral Trauma/Cerebrospinal Fluid Rhinorrhea</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Cerebrospinal Fluid Rhinorrhea</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Trauma, Nervous System/Craniocerebral Trauma/Cerebrospinal Fluid Rhinorrhea</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Craniocerebral Trauma/Cerebrospinal Fluid Rhinorrhea</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Cerebrospinal Fluid Rhinorrhea</ClassificationPath>
+<BroaderTerm>Cerebrospinal Fluid Rhinorrhea</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Craniocerebral Trauma</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Trauma, Nervous System</BroaderTerm>
+<Synonym>Cerebrospinal Fluid Rhinorrhea</Synonym>
+<Synonym>Post Traumatic Cerebrospinal Fluid Rhinorrhea</Synonym>
+<Synonym>Traumatic Cerebrospinal Fluid Rhinorrhea</Synonym>
+<Synonym>Post-Traumatic Cerebrospinal Fluid Rhinorrhea</Synonym>
+<Synonym>Cerebrospinal Fluid Rhinorrheas</Synonym>
+<Synonym>Cerebrospinal Rhinorrhea</Synonym>
+<Synonym>Spontaneous Cerebrospinal Fluid Rhinorrhea</Synonym>
+<Synonym>Cerebrospinal Rhinorrheas</Synonym>
+<Description>Discharge of cerebrospinal fluid through the nose. Common etiologies include trauma, neoplasms, and prior surgery, although the condition may occur spontaneously. (Otolaryngol Head Neck Surg 1997 Apr;116(4):442-9)</Description>
+<Source>MeSH</Source>
+</Record>

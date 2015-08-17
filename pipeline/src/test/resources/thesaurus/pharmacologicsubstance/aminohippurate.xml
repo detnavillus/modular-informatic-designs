@@ -1,0 +1,22 @@
+<Record>
+<Term>Aminohippurate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Diagnostic Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/Aminohippurate Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Aminohippurate Sodium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Aminohippurate</Synonym>
+<Synonym>AMINOHIPPURATE SODIUM</Synonym>
+<Synonym>Aminohippurate sodium</Synonym>
+<Synonym>p-Aminohippuric Acid Sodium Salt</Synonym>
+<Synonym>Aminohippurate Sodium</Synonym>
+<Synonym>Glycine, N-(4-Aminobenzoyl)-, Monosodium Salt</Synonym>
+<Description>Sodium salt of aminohippuric acid. Aminohippurate sodium is used as a non-toxic diagnostic tool to measure effective renal plasma flow. At low plasma concentration this agent is filtered by the glomeruli and almost completely cleared from the renal blood stream by active tubular secretion in a single transit through the kidney. Its clearance corresponds to the renal plasma blood flow. Aminohippurate sodium is also used to measure functional capacity of the renal tubular secretory mechanism. This is achieved by elevating the drug plasma concentration to levels sufficient to saturate the maximal secretion capacity of the tubular cells.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,37 @@
+<Record>
+<Term>Sialic Acid Storage Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lysosomal Storage Diseases, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sialic Acid Storage Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Sialic Acid Storage Disease</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Finnish Type Sialurias</Synonym>
+<Synonym>Infantile Form Sialuria</Synonym>
+<Synonym>Infantile Sialic Aid Storage Disorder</Synonym>
+<Synonym>Sialuria</Synonym>
+<Synonym>Infantile Form Sialurias</Synonym>
+<Synonym>Infantile sialic acid storage disorder (ISSD)</Synonym>
+<Synonym>Infantile Sialic Acid Storage Disease</Synonym>
+<Synonym>Finnish Type Sialuria</Synonym>
+<Synonym>Sialic Acid Storage Disease</Synonym>
+<Synonym>Sialurias</Synonym>
+<Synonym>Salla Disease</Synonym>
+<Description>Autosomal recessive neurodegenerative disorders caused by lysosomal membrane transport defects that result in accumulation of free sialic acid (N-ACETYLNEURAMINIC ACID) within the lysosomes. The two main clinical phenotypes, which are allelic variants of the SLC17A5 gene, are ISSD, a severe infantile form, or Salla disease, a slowly progressive adult form, named for the geographic area in Finland where the kindred first studied resided.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Myotonic Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myotonic Disorders</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myotonic Disorders</ClassificationPath>
+<BroaderTerm>Myotonic Disorders</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Myotonia Congenita</ChildTerm>
+<ChildTerm>Myotonic Dystrophy</ChildTerm>
+<Synonym>Myotonic Disorders</Synonym>
+<Synonym>Proximal Myotonic Myopathies</Synonym>
+<Synonym>PROMM (Proximal Myotonic Myopathy)</Synonym>
+<Synonym>Paramyotonia Congenitas</Synonym>
+<Synonym>Myotonic Myopathy</Synonym>
+<Synonym>Eulenburg Disease</Synonym>
+<Synonym>Myotonia Fluctuans</Synonym>
+<Synonym>Proximal Myotonic Myopathy</Synonym>
+<Synonym>Eulenburgs Disease</Synonym>
+<Synonym>Paramyotonia Congenita</Synonym>
+<Synonym>Myotonic Disorder</Synonym>
+<Synonym>PROMMs (Proximal Myotonic Myopathy)</Synonym>
+<Synonym>Eulenburg's Disease</Synonym>
+<Synonym>Myotonic Myopathies</Synonym>
+<Description>Diseases characterized by MYOTONIA, which may be inherited or acquired. Myotonia may be restricted to certain muscles (e.g., intrinsic hand muscles) or occur as a generalized condition. These disorders may be associated with abnormal muscle SODIUM CHANNEL and CHLORIDE CHANNELS. MYOTONIC DYSTROPHY and MYOTONIA CONGENITA represent two relatively common forms of this disorder. Proximal myotonic myopathy often presents with myotonia and muscle pain in early adulthood and later in life thigh muscle weakness and cataracts develop. (From Adams et al., Principles of Neurology, 6th ed, p1392)</Description>
+<Source>MeSH</Source>
+</Record>

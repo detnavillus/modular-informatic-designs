@@ -1,0 +1,34 @@
+<Record>
+<Term>Inferior Wall Myocardial Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Myocardial Infarction</ParentTerm>
+<ParentTerm>Electrocardiographic Finding</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Myocardial Infarction/Inferior Wall Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Myocardial Infarction/Inferior Wall Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Electrocardiographic Finding/Inferior Wall Myocardial Infarction</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Inferior Wall Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Electrocardiographic Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Diaphragmatic Myocardial Infarction</Synonym>
+<Synonym>Inferior Myocardial Infarction</Synonym>
+<Synonym>Inferior Wall Myocardial Infarction</Synonym>
+<Synonym>INFERIOR WALL MYOCARDIAL INFARCTION</Synonym>
+<Synonym>Acute Inferior Myocardial Infarction</Synonym>
+<Synonym>Diaphragmatic Myocardial Infarctions</Synonym>
+<Synonym>Inferior Myocardial Infarctions</Synonym>
+<Description>Electrocardiographic finding showing an injury in leads corresponding to the anatomic region of the inferior wall of the heart.</Description>
+<Description>MYOCARDIAL INFARCTION in which the inferior wall of the heart is involved. It is often caused by occlusion of the right coronary artery.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

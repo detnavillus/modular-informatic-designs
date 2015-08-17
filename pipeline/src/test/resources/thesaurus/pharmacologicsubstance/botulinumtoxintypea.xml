@@ -1,0 +1,29 @@
+<Record>
+<Term>Botulinum Toxin Type A</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Botulinum Toxins</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Bacterial Proteins/Botulinum Toxins/Botulinum Toxin Type A</ClassificationPath>
+<ClassificationPath>Biological Factors/Toxins, Biological/Bacterial Toxins/Botulinum Toxins/Botulinum Toxin Type A</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Toxins, Biological</BroaderTerm>
+<BroaderTerm>Botulinum Toxin Type A</BroaderTerm>
+<BroaderTerm>Botulinum Toxins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Bacterial Proteins</BroaderTerm>
+<BroaderTerm>Bacterial Toxins</BroaderTerm>
+<Synonym>Clostridium botulinum A Toxin</Synonym>
+<Synonym>Oculinum</Synonym>
+<Synonym>Botox cosmetic</Synonym>
+<Synonym>Botulinum A Toxin</Synonym>
+<Synonym>Dysport</Synonym>
+<Synonym>Clostridium Botulinum Toxin Type A</Synonym>
+<Synonym>Botulinum Toxin Type A</Synonym>
+<Synonym>Botox</Synonym>
+<Synonym>Botulinum Neurotoxin A</Synonym>
+<Description>A 150 kDa neurotoxic protein produced by CLOSTRIDIUM BOTULINUM. When consumed in contaminated food it can cause paralysis and death. In its purified form, it has been used in the treatment of BLEPHAROSPASM and STRABISMUS.</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Recombinant Vaccinia-PSA(L155)-TRICOM Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Recombinant Vaccinia-TRICOM Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-TRICOM Vaccine/Recombinant Vaccinia-PSA(L155)-TRICOM Vaccine</ClassificationPath>
+<BroaderTerm>Recombinant Vaccinia-PSA(L155)-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>PROSTVAC-V/TRICOM</Synonym>
+<Synonym>Recombinant Vaccinia-PSA(L155)-TRICOM Vaccine</Synonym>
+<Synonym>Recombinant Vaccinia-PSA(L155)/TRICOM</Synonym>
+<Synonym>rVaccinia-PSA(L155)-TRICOM Vaccine</Synonym>
+<Description>A recombinant vaccinia virus encoding a modified peptide of the prostate-specific antigen (PSA) with a leucine substitution at position 155, and a TRIad of COstimulatory Molecules (B7-1, ICAM-1 and LFA-3). Vaccination with this viral vaccine may enhance antigen presentation and may activate cytotoxic T-cells against PSA-expressing tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

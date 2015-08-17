@@ -1,0 +1,18 @@
+<Record>
+<Term>Tuberculoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculoma</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculoma</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculoma, Intracranial</ChildTerm>
+<Synonym>Tuberculoma</Synonym>
+<Synonym>Tuberculomas</Synonym>
+<Description>A tumor-like mass resulting from the enlargement of a tuberculous lesion.</Description>
+<Source>MeSH</Source>
+</Record>

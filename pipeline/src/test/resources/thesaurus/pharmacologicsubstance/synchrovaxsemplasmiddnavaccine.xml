@@ -1,0 +1,17 @@
+<Record>
+<Term>Synchrovax SEM Plasmid DNA Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Synchrovax SEM Plasmid DNA Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Synchrovax SEM Plasmid DNA Vaccine</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Synchrotope MA2M Plasmid DNA Vaccine</Synonym>
+<Synonym>Synchrovax SEM Plasmid DNA Vaccine</Synonym>
+<Description>A bivalent DNA vaccine encoding epitopes for both Melan-A (MART-1) and tyrosinase with potential antineoplastic activity. Synchrovax SEM plasmid DNA vaccine contains a plasmid pSEM that encodes 4 epitopes: Melan-A (26-35), Melan-A (31-96), tyrosinase (1-9), and tyrosinase (369-377). Both Melan-A and tyrosinase are tumor antigens associated with melanoma. Vaccination with this plasmid DNA vaccine may induce both humoral and cytotoxic lymphocyte (CTL) responses against cells expressing either or both of these antigens, resulting in decreased tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

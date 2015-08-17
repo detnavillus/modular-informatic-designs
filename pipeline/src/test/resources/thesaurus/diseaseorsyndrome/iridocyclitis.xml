@@ -1,0 +1,31 @@
+<Record>
+<Term>Iridocyclitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Iris Diseases</ParentTerm>
+<ParentTerm>Uveitis, Anterior</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Iris Diseases/Iridocyclitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Anterior/Iridocyclitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Iridocyclitis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Uveitis, Anterior</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Iridocyclitis</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Iris Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<ChildTerm>Chronic Iridocyclitis</ChildTerm>
+<Synonym>Heterochromic Cyclitides</Synonym>
+<Synonym>Heterochromic Cyclitis</Synonym>
+<Synonym>Iridocyclitides</Synonym>
+<Synonym>Iridocyclitis</Synonym>
+<Description>Acute or chronic inflammation of the iris and ciliary body characterized by exudates into the anterior chamber, discoloration of the iris, and constricted, sluggish pupil. Symptoms include radiating pain, photophobia, lacrimation, and interference with vision.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

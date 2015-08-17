@@ -1,0 +1,28 @@
+<Record>
+<Term>Butoconazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antifungal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Butoconazole Nitrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antifungal Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Butoconazole Nitrate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Butoconazole nitrate</Synonym>
+<Synonym>Femstat 3</Synonym>
+<Synonym>RS-35887</Synonym>
+<Synonym>Femstat</Synonym>
+<Synonym>BUTOCONAZOLE NITRATE</Synonym>
+<Synonym>Butoconazole</Synonym>
+<Synonym>(+-)-1-(4-(4-Chlorophenyl)-2-((2,6-dichlorophenyl)thio)butyl)-1H-imidazole Mononitrate</Synonym>
+<Synonym>Exelgyn</Synonym>
+<Synonym>Mycelex-3</Synonym>
+<Synonym>Gynazole-1</Synonym>
+<Synonym>Gynomyk</Synonym>
+<Synonym>Butoconazole Nitrate</Synonym>
+<Description>The nitrate salt form of butaconazole, a synthetic imidazole derivative with fungistatic properties. Butoconazole nitrate interferes with steroid biosynthesis by inhibiting the conversion of lanosterol to ergosterol, thereby changing the fungal cell membrane lipid composition. This alters cell permeability and leads to growth inhibition. Butaconazole nitrate is active against many dermatophytes and yeasts. It also contains antibacterial effects against some gram-positive organisms.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

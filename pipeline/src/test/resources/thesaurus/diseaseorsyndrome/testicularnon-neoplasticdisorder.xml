@@ -1,0 +1,25 @@
+<Record>
+<Term>Testicular Non-Neoplastic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Testicular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Male Non-Neoplastic Reproductive System Disorder/Testicular Non-Neoplastic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Male Reproductive System Disorder/Testicular Disorder/Testicular Non-Neoplastic Disorder</ClassificationPath>
+<BroaderTerm>Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Male Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Testicular Non-Neoplastic Disorder,</BroaderTerm>
+<BroaderTerm>Testicular Disorder</BroaderTerm>
+<BroaderTerm>Testicular Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Undescended Testis</ChildTerm>
+<ChildTerm>Testicular Infarction</ChildTerm>
+<ChildTerm>Non-Specific Granulomatous Orchitis</ChildTerm>
+<ChildTerm>Testicular Torsion</ChildTerm>
+<Synonym>Testicular Non-Neoplastic Disease</Synonym>
+<Synonym>Testicular Non-Neoplastic Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

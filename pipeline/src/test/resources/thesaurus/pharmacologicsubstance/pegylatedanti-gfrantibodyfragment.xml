@@ -1,0 +1,17 @@
+<Record>
+<Term>Pegylated Anti-GFR Antibody Fragment</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiogenesis Activator Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Angiogenesis Activator Inhibitor/Pegylated Anti-GFR Antibody Fragment</ClassificationPath>
+<BroaderTerm>Angiogenesis Activator Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Pegylated Anti-GFR Antibody Fragment</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CDP-791</Synonym>
+<Synonym>Pegylated Anti-GFR Antibody Fragment</Synonym>
+<Description>A pegylated, cross-linked, humanized divalent-Fab' antibody fragment directed against vascular endothelial growth factor receptor-2 (VEGFR-2) with potential antiangiogenic and antitumor activities. Pegylated anti-GFR antibody fragment binds to and inhibits VEGFR-2, which may inhibit angiogenesis and tumor cell proliferation. Multivalent Fab' antibody fragments may exhibit improved retention and internalization properties compared to their parent IgGs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

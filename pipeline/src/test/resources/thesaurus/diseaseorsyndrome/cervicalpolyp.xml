@@ -1,0 +1,38 @@
+<Record>
+<Term>Cervical Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uterine Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Uterine Polyp/Cervical Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Cervical Disorder/Cervical Polyp</ClassificationPath>
+<BroaderTerm>Cervical Disorder</BroaderTerm>
+<BroaderTerm>Cervical Polyp</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cervical Polyp,</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Uterine Polyp</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cervical Fibroepithelial Polyp</ChildTerm>
+<Synonym>Adenomatous Polyp of Cervix</Synonym>
+<Synonym>Adenomatous Polyp of Uterine Cervix</Synonym>
+<Synonym>Adenomatous Polyp of the Cervix</Synonym>
+<Synonym>Adenomatous Polyp of the Uterine Cervix</Synonym>
+<Synonym>Cervical Polyp</Synonym>
+<Synonym>Cervix Adenomatous Polyp</Synonym>
+<Synonym>Cervix Polyp</Synonym>
+<Synonym>Cervix Uteri Adenomatous Polyp</Synonym>
+<Synonym>Cervix Uteri Polyp</Synonym>
+<Synonym>Polyp of Cervix</Synonym>
+<Synonym>Polyp of Cervix Uteri</Synonym>
+<Synonym>Polyp of Uterine Cervix</Synonym>
+<Synonym>Polyp of the Cervix</Synonym>
+<Synonym>Polyp of the Cervix Uteri</Synonym>
+<Synonym>Polyp of the Uterine Cervix</Synonym>
+<Synonym>Uterine Cervix Adenomatous Polyp</Synonym>
+<Synonym>Uterine Cervix Polyp</Synonym>
+<Description>A polyp that arises from the glandular epithelium of the cervix. -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

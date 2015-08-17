@@ -1,0 +1,25 @@
+<Record>
+<Term>Skin Angiokeratoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Angiokeratoma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vascular Ectasia/Angiokeratoma/Skin Angiokeratoma</ClassificationPath>
+<BroaderTerm>Skin Angiokeratoma</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Angiokeratoma</BroaderTerm>
+<BroaderTerm>Vascular Ectasia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Angiokeratoma Corporis Diffusum</ChildTerm>
+<ChildTerm>Angiokeratoma Circumscriptum</ChildTerm>
+<ChildTerm>Angiokeratoma of Fordyce</ChildTerm>
+<ChildTerm>Angiokeratoma of Mibelli</ChildTerm>
+<Synonym>Angiokeratoma of Skin</Synonym>
+<Synonym>Angiokeratoma of the Skin</Synonym>
+<Synonym>Cutaneous Angiokeratoma</Synonym>
+<Synonym>Skin Angiokeratoma</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

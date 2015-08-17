@@ -1,0 +1,44 @@
+<Record>
+<Term>Peroxisomal Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Peroxisomal Disorders</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Peroxisomal Disorders</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Peroxisomal Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Refsum Disease</ChildTerm>
+<ChildTerm>Zellweger Syndrome</ChildTerm>
+<ChildTerm>Adrenoleukodystrophy</ChildTerm>
+<ChildTerm>Refsum Disease, Infantile</ChildTerm>
+<ChildTerm>Chondrodysplasia Punctata, Rhizomelic</ChildTerm>
+<ChildTerm>Mevalonate Kinase Deficiency</ChildTerm>
+<ChildTerm>Acatalasia</ChildTerm>
+<Synonym>Neonatal Adrenoleukodystrophy</Synonym>
+<Synonym>Multiple Peroxisomal Dysfunction</Synonym>
+<Synonym>Single Peroxisomal Dysfunction</Synonym>
+<Synonym>Peroxisomal Disorders</Synonym>
+<Synonym>Single Peroxisomal Dysfunctions</Synonym>
+<Synonym>Hyperpipecolic Acidemia</Synonym>
+<Synonym>Neonatal Adrenoleukodystrophies</Synonym>
+<Synonym>Multiple Peroxisomal Dysfunctions</Synonym>
+<Synonym>Hyperpipecolic Acidemias</Synonym>
+<Synonym>General Peroxisomal Dysfunction</Synonym>
+<Synonym>General Peroxisomal Dysfunctions</Synonym>
+<Synonym>Peroxisomal Disorder</Synonym>
+<Description>A heterogeneous group of inherited metabolic disorders marked by absent or dysfunctional PEROXISOMES. Peroxisomal enzymatic abnormalities may be single or multiple. Biosynthetic peroxisomal pathways are compromised, including the ability to synthesize ether lipids and to oxidize long-chain fatty acid precursors. Diseases in this category include ZELLWEGER SYNDROME; INFANTILE REFSUM DISEASE; rhizomelic chondrodysplasia (CHONDRODYSPLASIA PUNCTATA, RHIZOMELIC); hyperpipecolic acidemia; neonatal adrenoleukodystrophy; and ADRENOLEUKODYSTROPHY (X-linked). Neurologic dysfunction is a prominent feature of most peroxisomal disorders.</Description>
+<Source>MeSH</Source>
+</Record>

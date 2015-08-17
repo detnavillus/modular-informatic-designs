@@ -1,0 +1,25 @@
+<Record>
+<Term>Antilipemic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ParentTerm>Antimetabolites</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antilipemic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites/Antilipemic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antilipemic Agents</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Lipotropic Agents</ChildTerm>
+<ChildTerm>Anticholesteremic Agents</ChildTerm>
+<ChildTerm>Fatty Acid Synthesis Inhibitors</ChildTerm>
+<Synonym>Antilipemic Drugs</Synonym>
+<Synonym>Hypolipidemic Agents</Synonym>
+<Synonym>Antilipemic Agents</Synonym>
+<Synonym>Antihyperlipidemics</Synonym>
+<Synonym>Antihyperlipemics</Synonym>
+<Synonym>Antilipemics</Synonym>
+<Description>Substances used to treat HYPERLIPIDEMIAS.</Description>
+<Source>MeSH</Source>
+</Record>

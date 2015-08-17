@@ -1,0 +1,17 @@
+<Record>
+<Term>Indibulin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tubulin Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Indibulin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Indibulin</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Indibulin</Synonym>
+<Synonym>ZIO-301</Synonym>
+<Description>A synthetic small molecule with antimitotic and potential antineoplastic activities. Indibulin binds to a site on tubulin that is different from taxane- or Vinca alkaloid-binding sites, destabilizing tubulin polymerization and inducing tumor cell cycle arrest and apoptosis. This agent has been shown to be active against multidrug-resistant (MDR) and taxane- resistant tumor cell lines.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

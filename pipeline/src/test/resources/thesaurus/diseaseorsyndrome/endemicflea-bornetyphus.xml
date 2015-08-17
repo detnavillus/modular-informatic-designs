@@ -1,0 +1,16 @@
+<Record>
+<Term>Endemic Flea-Borne Typhus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rickettsia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections/Rickettsia Infections/Typhus, Endemic Flea-Borne</ClassificationPath>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Rickettsia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Typhus, Endemic Flea-Borne</BroaderTerm>
+<Synonym>Endemic Flea-Borne Typhus</Synonym>
+<Synonym>Murine Typhus</Synonym>
+<Description>An infectious disease clinically similar to epidemic louse-borne typhus (TYPHUS, EPIDEMIC LOUSE-BORNE), but caused by RICKETTSIA TYPHI, which is transmitted from rat to man by the rat flea, Xenopsylla cheopis.</Description>
+<Source>MeSH</Source>
+</Record>

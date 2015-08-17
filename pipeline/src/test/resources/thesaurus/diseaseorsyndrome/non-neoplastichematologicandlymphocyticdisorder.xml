@@ -1,0 +1,37 @@
+<Record>
+<Term>Non-Neoplastic Hematologic and Lymphocytic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Hematologic and Lymphocytic Disorder/Non-Neoplastic Hematologic and Lymphocytic Disorder</ClassificationPath>
+<BroaderTerm>Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Congenital Abnormalities of Erythrocyte Differentiation or Function</ChildTerm>
+<ChildTerm>Congenital Leucocyte Abnormality</ChildTerm>
+<ChildTerm>Congenital Platelets Abnormality</ChildTerm>
+<ChildTerm>Amegakaryocytosis</ChildTerm>
+<ChildTerm>Hemoglobinopathy</ChildTerm>
+<ChildTerm>Congenital Neutropenia</ChildTerm>
+<ChildTerm>Paroxysmal Nocturnal Hemoglobinuria</ChildTerm>
+<ChildTerm>Thrombocytopenia Due to Immune Destruction</ChildTerm>
+<ChildTerm>Neonatal Leukopenia</ChildTerm>
+<ChildTerm>Glanzmann Thrombasthenia</ChildTerm>
+<ChildTerm>Pure Red Cell Aplasia</ChildTerm>
+<ChildTerm>Cyclic Neutropenia</ChildTerm>
+<ChildTerm>Hereditary Elliptocytosis</ChildTerm>
+<ChildTerm>Anemia</ChildTerm>
+<ChildTerm>Coagulation Disorder</ChildTerm>
+<ChildTerm>Evan Syndrome</ChildTerm>
+<Synonym>Non-Malignant Hematologic and Lymphocytic Disorder</Synonym>
+<Synonym>Non-Neoplastic Hematologic and Lymphocytic Disorder</Synonym>
+<Synonym>nonmalignant hematologic disorders</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

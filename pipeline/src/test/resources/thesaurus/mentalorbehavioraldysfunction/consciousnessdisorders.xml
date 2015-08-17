@@ -1,0 +1,28 @@
+<Record>
+<Term>Consciousness Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ParentTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Consciousness Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Consciousness Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<ChildTerm>Unconsciousness</ChildTerm>
+<Synonym>Semiconsciousness</Synonym>
+<Synonym>Depressed Level of Consciousness</Synonym>
+<Synonym>Altered Level of Consciousness</Synonym>
+<Synonym>Consciousness Disorder</Synonym>
+<Synonym>Consciousness Disorders</Synonym>
+<Description>Organic mental disorders in which there is impairment of the ability to maintain awareness of self and environment and to respond to environmental stimuli. Dysfunction of the cerebral hemispheres or brain stem RETICULAR FORMATION may result in this condition.</Description>
+<Source>MeSH</Source>
+</Record>

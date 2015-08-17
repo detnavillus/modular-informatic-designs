@@ -1,0 +1,27 @@
+<Record>
+<Term>Urogenital Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Male Urogenital Diseases</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Female Urogenital Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Tuberculosis, Urogenital</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Tuberculosis, Urogenital</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Urogenital</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis, Urogenital</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis, Renal</ChildTerm>
+<ChildTerm>Tuberculosis, Male Genital</ChildTerm>
+<ChildTerm>Tuberculosis, Female Genital</ChildTerm>
+<Synonym>Urogenital Tuberculosis</Synonym>
+<Synonym>Urogenital Tuberculoses</Synonym>
+<Description>A general term for MYCOBACTERIUM infections of any part of the UROGENITAL SYSTEM in either the male or the female.</Description>
+<Source>MeSH</Source>
+</Record>

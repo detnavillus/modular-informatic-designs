@@ -1,0 +1,32 @@
+<Record>
+<Term>Substance Withdrawal Syndrome</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Behavior-Related Disorder</ParentTerm>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Substance Withdrawal Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Substance Withdrawal Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Substance Withdrawal Syndrome</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Substance Withdrawal Syndrome</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Alcohol Withdrawal Seizures</ChildTerm>
+<ChildTerm>Alcohol Withdrawal Delirium</ChildTerm>
+<ChildTerm>Nicotine Withdrawal</ChildTerm>
+<Synonym>Withdrawal Symptoms</Synonym>
+<Synonym>Substance Withdrawal Syndromes</Synonym>
+<Synonym>Drug Withdrawal Symptoms</Synonym>
+<Synonym>Substance Withdrawal Syndrome</Synonym>
+<Synonym>Withdrawal Symptom</Synonym>
+<Synonym>Withdrawal Syndrome</Synonym>
+<Synonym>Drug Withdrawal Symptom</Synonym>
+<Description>Substance withdrawal syndrome - a substance-specific organic brain syndrome that follows the discontinuation of administration or use, or reduction in intake of an addictive substance, e.g. opioids, barbiturates and alcohol; amphetamines or similarly acting sympathomimetics; cocaine; nicotine; sedatives, hypnotics, or anxiolytics. Syndrome manifests with diverse, often painful physical and psychological symptoms, which include but not limited to intense drug craving, anxiety, depression, insomnia, nausea, perspiration, body aches, tremors, hallucinations, and convulsions.</Description>
+<Description>Physiological and psychological symptoms associated with withdrawal from the use of a drug after prolonged administration or habituation. The concept includes withdrawal from smoking or drinking, as well as withdrawal from an administered drug.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

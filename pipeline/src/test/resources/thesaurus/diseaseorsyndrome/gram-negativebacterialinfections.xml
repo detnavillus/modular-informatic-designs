@@ -1,0 +1,45 @@
+<Record>
+<Term>Gram-Negative Bacterial Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Bacteroidaceae Infections</ChildTerm>
+<ChildTerm>Bartonellaceae Infections</ChildTerm>
+<ChildTerm>Moraxellaceae Infections</ChildTerm>
+<ChildTerm>Pasteurellaceae Infections</ChildTerm>
+<ChildTerm>Bordetella Infections</ChildTerm>
+<ChildTerm>Borrelia Infections</ChildTerm>
+<ChildTerm>Rickettsiaceae Infections</ChildTerm>
+<ChildTerm>Tick-Borne Diseases</ChildTerm>
+<ChildTerm>Brucellosis</ChildTerm>
+<ChildTerm>Campylobacter Infections</ChildTerm>
+<ChildTerm>Cat-Scratch Disease</ChildTerm>
+<ChildTerm>Treponemal Infections</ChildTerm>
+<ChildTerm>Chlamydiaceae Infections</ChildTerm>
+<ChildTerm>Vibrio Infections</ChildTerm>
+<ChildTerm>Enterobacteriaceae Infections</ChildTerm>
+<ChildTerm>Anaplasmataceae Infections</ChildTerm>
+<ChildTerm>Mycoplasmatales Infections</ChildTerm>
+<ChildTerm>Pseudomonas Infections</ChildTerm>
+<ChildTerm>Q Fever</ChildTerm>
+<ChildTerm>Fusobacteriaceae Infections</ChildTerm>
+<ChildTerm>Rat-Bite Fever</ChildTerm>
+<ChildTerm>Tularemia</ChildTerm>
+<ChildTerm>Neisseriaceae Infections</ChildTerm>
+<ChildTerm>Leptospirosis</ChildTerm>
+<ChildTerm>Helicobacter Infections</ChildTerm>
+<ChildTerm>Burkholderia Infections</ChildTerm>
+<ChildTerm>Piscirickettsiaceae Infections</ChildTerm>
+<ChildTerm>Desulfovibrionaceae Infections</ChildTerm>
+<ChildTerm>Flavobacteriaceae Infections</ChildTerm>
+<ChildTerm>Flexibacteraceae Infections</ChildTerm>
+<ChildTerm>Legionellosis</ChildTerm>
+<Synonym>Gram-Negative Bacterial Infections</Synonym>
+<Synonym>Gram Negative Bacterial Infections</Synonym>
+<Synonym>Gram-Negative Bacterial Infection</Synonym>
+<Description>Infections caused by bacteria that show up as pink (negative) when treated by the gram-staining method.</Description>
+<Source>MeSH</Source>
+</Record>

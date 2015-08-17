@@ -1,0 +1,28 @@
+<Record>
+<Term>Mannosidase Deficiency Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lysosomal Storage Diseases</ParentTerm>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Mannosidase Deficiency Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Mannosidase Deficiency Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Mannosidase Deficiency Diseases</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Mannosidase Deficiency Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Mannosidase Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>beta-Mannosidosis</ChildTerm>
+<ChildTerm>alpha-Mannosidosis</ChildTerm>
+<Synonym>Mannosidase Deficiency Syndromes</Synonym>
+<Synonym>Mannosidase Deficiency Disease</Synonym>
+<Synonym>Mannosidase Deficiency Diseases</Synonym>
+<Synonym>Mannosidase Deficiency Syndrome</Synonym>
+<Synonym>Mannosidoses</Synonym>
+<Synonym>Mannosidosis</Synonym>
+<Description>Diseases caused by the loss of one or more enzymes involved in the hydrolysis of mannoside linkages (MANNOSIDASES). The defects in enzyme activity are primarily associated with genetic mutation of the genes that codes for a particular mannosidase isoenzyme.</Description>
+<Source>MeSH</Source>
+</Record>

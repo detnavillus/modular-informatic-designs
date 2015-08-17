@@ -1,0 +1,22 @@
+<Record>
+<Term>Gram-Positive Bacterial Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Clostridium Infections</ChildTerm>
+<ChildTerm>Actinomycetales Infections</ChildTerm>
+<ChildTerm>Staphylococcal Infections</ChildTerm>
+<ChildTerm>Streptococcal Infections</ChildTerm>
+<ChildTerm>Erysipelothrix Infections</ChildTerm>
+<ChildTerm>Bacillaceae Infections</ChildTerm>
+<ChildTerm>Bifidobacteriales Infections</ChildTerm>
+<ChildTerm>Listeria Infections</ChildTerm>
+<Synonym>Gram-Positive Bacterial Infections</Synonym>
+<Synonym>Gram Positive Bacterial Infections</Synonym>
+<Synonym>Gram-Positive Bacterial Infection</Synonym>
+<Description>Infections caused by bacteria that retain the crystal violet stain (positive) when treated by the gram-staining method.</Description>
+<Source>MeSH</Source>
+</Record>

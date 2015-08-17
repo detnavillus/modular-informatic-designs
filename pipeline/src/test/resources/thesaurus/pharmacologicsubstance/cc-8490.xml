@@ -1,0 +1,16 @@
+<Record>
+<Term>CC-8490</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Selective Estrogen Receptor Modulator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Selective Estrogen Receptor Modulator/CC-8490</ClassificationPath>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CC-8490</BroaderTerm>
+<BroaderTerm>Selective Estrogen Receptor Modulator</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CC-8490</Synonym>
+<Synonym>SPC8490</Synonym>
+<Description>A benzopyran with potential antineoplastic activity.  CC-8490 acts as a selective estrogen receptor modulator (SERM), inhibiting the proliferation of estrogen-sensitive breast cancer cells.  This agent also inhibits growth and induces apoptosis of glioblastoma cells via a mechanism independent of estrogen receptor-related mechanisms. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

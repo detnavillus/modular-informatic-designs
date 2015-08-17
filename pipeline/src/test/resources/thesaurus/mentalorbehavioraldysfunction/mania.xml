@@ -1,0 +1,16 @@
+<Record>
+<Term>Mania</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Mania</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Mania</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Mania</Synonym>
+<Synonym>Manic</Synonym>
+<Synonym>Manic State</Synonym>
+<Description>Excitement of psychotic proportions manifested by mental and physical hyperactivity, disorganisation of behaviour and elevation of mood.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

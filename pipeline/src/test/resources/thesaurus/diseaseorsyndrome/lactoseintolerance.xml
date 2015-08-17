@@ -1,0 +1,34 @@
+<Record>
+<Term>Lactose Intolerance</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ParentTerm>Malabsorption Syndrome</ParentTerm>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Lactose Intolerance</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Malabsorption Syndrome/Lactose Intolerance</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Lactose Intolerance</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Lactose Intolerance</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Lactose Intolerance</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lactose Intolerance</BroaderTerm>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Malabsorption Syndrome</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Lactose Malabsorption</Synonym>
+<Synonym>Lactose Intolerance</Synonym>
+<Synonym>lactose intolerance</Synonym>
+<Description>The condition resulting from the absence or deficiency of LACTASE in the MUCOSA cells of the GASTROINTESTINAL TRACT, and the inability to break down LACTOSE in milk for ABSORPTION. Bacterial fermentation of the unabsorbed lactose leads to symptoms that range from a mild indigestion (DYSPEPSIA) to severe DIARRHEA. Lactose intolerance may be an inborn error or acquired.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

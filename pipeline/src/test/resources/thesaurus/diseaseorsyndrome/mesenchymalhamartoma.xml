@@ -1,0 +1,18 @@
+<Record>
+<Term>Mesenchymal Hamartoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hamartoma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hamartoma/Mesenchymal Hamartoma</ClassificationPath>
+<BroaderTerm>Mesenchymal Hamartoma</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hamartoma</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Chest Wall Hamartoma</ChildTerm>
+<ChildTerm>Lipomatous Hamartoma</ChildTerm>
+<ChildTerm>Hepatic Mesenchymal Hamartoma</ChildTerm>
+<ChildTerm>Cartilaginous Hamartoma</ChildTerm>
+<ChildTerm>Vascular Hamartoma</ChildTerm>
+<Synonym>Mesenchymal Hamartoma</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

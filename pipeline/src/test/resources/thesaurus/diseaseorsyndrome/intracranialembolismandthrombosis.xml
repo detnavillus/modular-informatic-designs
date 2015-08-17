@@ -1,0 +1,28 @@
+<Record>
+<Term>Intracranial Embolism and Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thromboembolism</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thromboembolism</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism and Thrombosis</BroaderTerm>
+<ChildTerm>Intracranial Thrombosis</ChildTerm>
+<ChildTerm>Carotid Artery Thrombosis</ChildTerm>
+<ChildTerm>Intracranial Embolism</ChildTerm>
+<Synonym>Brain Embolism and Thrombosis</Synonym>
+<Synonym>Cerebral Embolism and Thrombosis</Synonym>
+<Synonym>Intracranial Embolism and Thrombosis</Synonym>
+<Description>Embolism or thrombosis involving blood vessels which supply intracranial structures. Emboli may originate from extracranial or intracranial sources. Thrombosis may occur in arterial or venous structures.Embolism or thrombosis occurring in a cerebral vessel often leading to cerebral infarction.</Description>
+<Source>MeSH</Source>
+</Record>

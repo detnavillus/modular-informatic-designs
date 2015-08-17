@@ -1,0 +1,21 @@
+<Record>
+<Term>Zafirlukast</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-asthmatic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Zafirlukast</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Zafirlukast</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cyclopentyl 3-(2-methoxy-4-((o-tolylsulfonyl)carbamoyl)benzyl)-1-methylindole-5-carbamate</Synonym>
+<Synonym>Accolate</Synonym>
+<Synonym>Carbamic Acid,(3-((2-methoxy-4-((((2-methylphenyl)sulfonyl)amino)carbonyl)phenyl)methyl)-1-methyl-1H-indol-5-yl)-, Cyclopentyl Ester</Synonym>
+<Synonym>ZAFIRLUKAST</Synonym>
+<Synonym>Zafirlukast</Synonym>
+<Description>A toyl compound with anti-asthmatic property. Zafirlukast selectively and competitively binds and blocks the cysteinyl leukotriene 1 receptor , thereby preventing potent proinflammatory mediators leukotriene C4, D4 and E4 from binding. This prevents leukotriene-mediated actions, including enhanced migration of eosinophils and neutrophils, increased adhesion of leukocytes, increased monocyte and neutrophil aggregation, increased airway edema, inflammation, capillary permeability and bronchoconstriction.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

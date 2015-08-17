@@ -1,0 +1,19 @@
+<Record>
+<Term>Se-Methyl-seleno-L-cysteine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Amino Acid Derivative</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid Derivative/Se-Methyl-seleno-L-cysteine</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Amino Acid Derivative</BroaderTerm>
+<BroaderTerm>Se-Methyl-seleno-L-cysteine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(R)-2-Amino-3-(methylseleno)propionic acid 3-(Methylseleno)-L-alanine</Synonym>
+<Synonym>MSC</Synonym>
+<Synonym>Methylselenocycteine</Synonym>
+<Synonym>Se-Methyl-seleno-L-cysteine</Synonym>
+<Description>A naturally occurring organoselenium compound found in many plants, including garlic, onions, and broccoli, with potential antioxidant and chemopreventive activities. Se-Methyl-seleno-L-cysteine (MSC) is an amino acid analogue of cysteine in which a methylselenium moiety replaces the sulphur atom of cysteine. This agent acts as an antioxidant when incorporated into glutathione peroxidase and has been shown to exhibit potent chemopreventive activity in animal models.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Polyestradiol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Estradiol</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/Therapeutic Estradiol/Polyestradiol Phosphate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Estradiol</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Polyestradiol Phosphate</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Polyestradiol phosphate</Synonym>
+<Synonym>Polyestradiol</Synonym>
+<Synonym>Estradiol Phosphate Polymer</Synonym>
+<Synonym>Polyestradiol Phosphate</Synonym>
+<Synonym>PEP</Synonym>
+<Synonym>Estradurin</Synonym>
+<Description>A synthetic long-acting polymer derivative of the female sex hormone estradiol.  As the primary, most potent estrogen hormone produced by the ovaries, estradiol binds to and activates specific nuclear receptors.  Estradiol exhibits mild anabolic and metabolic properties, and increases blood coagulability.  Administration of polyestradiol phosphate leads to the marked decrease of testosterone levels and may exhibit a bone mass-preserving effect in patients with prostatic cancer. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

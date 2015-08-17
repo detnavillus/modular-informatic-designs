@@ -1,0 +1,24 @@
+<Record>
+<Term>Viral Hemorrhagic Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Viral Hemorrhagic Fever</ClassificationPath>
+<BroaderTerm>Viral Hemorrhagic Fever</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Rodent-Born Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Tick-Born Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Ebola Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Congo-Crimean Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Mosquito-Born Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Mite-Born Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Arthropod-Born Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Venezuelan Equine Fever</ChildTerm>
+<Synonym>Viral Hemorrhagic Fever</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Aspiration Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Aspiration Pneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Aspiration</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Aspiration</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Aspiration Pneumonia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pneumonia, Aspiration</BroaderTerm>
+<ChildTerm>Pneumonia, Lipid</ChildTerm>
+<Synonym>Aspiration Pneumonias</Synonym>
+<Synonym>Aspiration Pneumonia</Synonym>
+<Synonym>Mendelson Syndrome</Synonym>
+<Synonym>Acid Aspiration Syndrome</Synonym>
+<Synonym>Mendelsons Syndrome</Synonym>
+<Synonym>Acid Aspiration Syndromes</Synonym>
+<Synonym>Mendelson's Syndrome</Synonym>
+<Synonym>Gastric Acid Aspiration Syndrome</Synonym>
+<Description>A type of lung inflammation resulting from the aspiration of food, liquid, or gastric contents into the upper RESPIRATORY TRACT.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

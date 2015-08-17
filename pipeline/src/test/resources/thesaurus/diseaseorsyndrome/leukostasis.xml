@@ -1,0 +1,24 @@
+<Record>
+<Term>Leukostasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Cell or Molecular Dysfunction</SemanticType>
+<ParentTerm>Leukocyte Disorders</ParentTerm>
+<ParentTerm>Pathologic Process</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Leukostasis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Leukostasis</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Leukostasis</BroaderTerm>
+<Synonym>Leukostasis Syndrome</Synonym>
+<Synonym>Leukostases</Synonym>
+<Synonym>Leukostasis Syndromes</Synonym>
+<Synonym>Leukostasis</Synonym>
+<Description>A disorder involving the aberrant infiltration and aggregation of leukocytes into the vasculature of the body. Leukostasis is typically detected in the brain and lungs of persons with leukemia. It requires substantial ablative modalities to both reduce the number of cells present and to ensure dispersion of the aggregates.</Description>
+<Description>Abnormal intravascular leukocyte aggregation and clumping often seen in leukemia patients. The brain and lungs are the two most commonly affected organs. This acute syndrome requires aggressive cytoreductive modalities including chemotherapy and/or leukophoresis. It is differentiated from LEUKEMIC INFILTRATION which is a neoplastic process where leukemic cells invade organs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

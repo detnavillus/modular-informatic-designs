@@ -1,0 +1,15 @@
+<Record>
+<Term>Neurosis</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Anxiety Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Anxiety Disorder/Neurosis</ClassificationPath>
+<BroaderTerm>Anxiety Disorder</BroaderTerm>
+<BroaderTerm>Neurosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Combat Neurosis</ChildTerm>
+<Synonym>Neurosis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

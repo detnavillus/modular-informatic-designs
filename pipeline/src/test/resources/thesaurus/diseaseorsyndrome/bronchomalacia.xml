@@ -1,0 +1,27 @@
+<Record>
+<Term>Bronchomalacia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tracheobronchomalacia</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Cartilage Diseases/Tracheobronchomalacia/Bronchomalacia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Tracheobronchomalacia/Bronchomalacia</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Cartilage Diseases/Tracheobronchomalacia/Bronchomalacia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Musculoskeletal Abnormalities/Tracheobronchomalacia/Bronchomalacia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Tracheobronchomalacia</BroaderTerm>
+<BroaderTerm>Musculoskeletal Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Bronchomalacia</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cartilage Diseases</BroaderTerm>
+<Synonym>Bronchi Chondromalacias</Synonym>
+<Synonym>Bronchi Chondromalacia</Synonym>
+<Synonym>Bronchomalacia</Synonym>
+<Synonym>Chondromalacia of Bronchi</Synonym>
+<Synonym>Bronchomalacias</Synonym>
+<Description>A congenital or acquired condition of underdeveloped or degeneration of CARTILAGE in the BRONCHI. This results in a floppy bronchial wall making patency difficult to maintain. It is characterized by wheezing and difficult breathing.</Description>
+<Source>MeSH</Source>
+</Record>

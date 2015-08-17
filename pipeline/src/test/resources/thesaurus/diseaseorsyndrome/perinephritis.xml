@@ -1,0 +1,18 @@
+<Record>
+<Term>Perinephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Perinephritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Perinephritis</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Perinephritis</BroaderTerm>
+<Synonym>Perinephritides</Synonym>
+<Synonym>Perinephrium Inflammation</Synonym>
+<Synonym>Perinephritis</Synonym>
+<Description>Inflammation of the connective and adipose tissues surrounding the KIDNEY.</Description>
+<Source>MeSH</Source>
+</Record>

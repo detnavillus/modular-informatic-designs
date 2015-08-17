@@ -1,0 +1,22 @@
+<Record>
+<Term>Stress Urinary Incontinence</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Urinary Incontinence</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Urological Manifestations/Urinary Incontinence/Urinary Incontinence, Stress</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence/Urinary Incontinence, Stress</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence/Urinary Incontinence, Stress</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Urinary Incontinence, Stress</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Urinary Incontinence</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Urological Manifestations</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Urinary Stress Incontinence</Synonym>
+<Description>Involuntary discharge of URINE as a result of physical activities that increase abdominal pressure on the URINARY BLADDER without detrusor contraction or overdistended bladder. The subtypes are classified by the degree of leakage, descent and opening of the bladder neck and URETHRA without bladder contraction, and sphincter deficiency.</Description>
+<Source>MeSH</Source>
+</Record>

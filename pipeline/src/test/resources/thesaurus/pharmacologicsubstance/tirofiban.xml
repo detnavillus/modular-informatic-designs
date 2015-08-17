@@ -1,0 +1,23 @@
+<Record>
+<Term>Tirofiban</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiplatelet Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiplatelet Agent/Tirofiban Hydrochloride</ClassificationPath>
+<BroaderTerm>Antiplatelet Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Tirofiban Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MK 383</Synonym>
+<Synonym>Tirofiban</Synonym>
+<Synonym>Tirofiban Hydrochloride</Synonym>
+<Synonym>Aggrastat</Synonym>
+<Synonym>N-(Butylsulfonyl)-O-(4-(4-piperidinyl)butyl)-L-tyrosine Monohydrochloride</Synonym>
+<Synonym>TIROFIBAN HYDROCHLORIDE</Synonym>
+<Synonym>Tirofiban hydrochloride</Synonym>
+<Description>The hydrochloride salt form of tirofiban, a non-peptide tyrosine derivative with anticoagulant property. Tirofiban antagonizes fibrinogen binding to the platelet cell surface receptor, glycoprotein (GP) IIb/IIIA complex, one of the two purinergic receptors activated by ADP. The antagonism prevents adenylyl cyclase activation, which mediated via GP IIb/IIIa receptor complex, and results in decreased levels of cAMP and thereby interferes with platelet membrane function and subsequent platelet-platelet interaction, release of platelet granule constituents and prolongation of bleeding time.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

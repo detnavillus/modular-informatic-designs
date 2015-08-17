@@ -1,0 +1,13 @@
+<Record>
+<Term>Dental Plaque</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dental Deposits</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Deposits/Dental Plaque</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Deposits</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Dental Plaque</BroaderTerm>
+<Synonym>Dental Plaque</Synonym>
+<Description>A film that attaches to teeth, often causing DENTAL CARIES and GINGIVITIS. It is composed of MUCINS, secreted from salivary glands, and microorganisms.</Description>
+<Source>MeSH</Source>
+</Record>

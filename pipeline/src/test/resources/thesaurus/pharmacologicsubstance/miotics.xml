@@ -1,0 +1,15 @@
+<Record>
+<Term>Miotics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Autonomic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents/Miotics</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Miotics</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Miotics</Synonym>
+<Description>Agents causing contraction of the pupil of the eye. Because the size of the pupil is under the antagonistic control of the sympathetic and parasympathetic systems, drugs affecting either system can cause miosis. Drugs that mimic or potentiate the parasympathetic input to the circular constrictor muscle and drugs that inhibit sympathetic input to the radial dilator muscle tend to contract the pupils. Some sources use the term miotics only for the parasympathomimetics but any drug used to induce miosis is included here.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Yellow Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Yellow Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Yellow Fever</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Yellow Fever</BroaderTerm>
+<Synonym>Yellow Fevers</Synonym>
+<Synonym>Yellow Fever</Synonym>
+<Description>An acute infectious disease primarily of the tropics, caused by a virus and transmitted to man by mosquitoes of the genera Aedes and Haemagogus.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Cyclooxygenase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ParentTerm>Anti-Inflammatory Agents, Non-Steroidal</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Inflammatory Agents/Anti-Inflammatory Agents, Non-Steroidal/Cyclooxygenase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Analgesics/Analgesics, Non-Narcotic/Anti-Inflammatory Agents, Non-Steroidal/Cyclooxygenase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Cyclooxygenase Inhibitors</ClassificationPath>
+<BroaderTerm>Cyclooxygenase Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Anti-Inflammatory Agents, Non-Steroidal</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Anti-Inflammatory Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Analgesics</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Analgesics, Non-Narcotic</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Cyclooxygenase 2 Inhibitors</ChildTerm>
+<Synonym>Cyclooxygenase Inhibitors</Synonym>
+<Synonym>Cyclo Oxygenase Inhibitors</Synonym>
+<Synonym>Prostaglandin Synthesis Antagonists</Synonym>
+<Synonym>Cyclo-Oxygenase Inhibitors</Synonym>
+<Synonym>Prostaglandin Synthase Inhibitors</Synonym>
+<Synonym>Prostaglandin Endoperoxide Synthase Inhibitors</Synonym>
+<Description>Compounds or agents that combine with cyclooxygenase (PROSTAGLANDIN-ENDOPEROXIDE SYNTHASES) and thereby prevent its substrate-enzyme combination with arachidonic acid and the formation of eicosanoids, prostaglandins, and thromboxanes.</Description>
+<Source>MeSH</Source>
+</Record>

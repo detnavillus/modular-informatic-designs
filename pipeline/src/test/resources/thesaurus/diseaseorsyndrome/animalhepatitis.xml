@@ -1,0 +1,18 @@
+<Record>
+<Term>Animal Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Hepatitis, Animal</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Animal</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Hepatitis, Animal</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Hepatitis, Viral, Animal</ChildTerm>
+<Synonym>Animal Hepatitides</Synonym>
+<Synonym>Animal Hepatitis</Synonym>
+<Description>INFLAMMATION of the LIVER in non-human animals.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Kaolin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Aluminum Silicates</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Minerals/Silicates/Aluminum Silicates/Kaolin</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Silicon Compounds/Silicon Dioxide/Silicic Acid/Silicates/Aluminum Silicates/Kaolin</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Oxygen Compounds/Oxides/Aluminum Oxide/Aluminum Silicates/Kaolin</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Aluminum Compounds/Aluminum Oxide/Aluminum Silicates/Kaolin</ClassificationPath>
+<BroaderTerm>Silicon Dioxide</BroaderTerm>
+<BroaderTerm>Aluminum Oxide</BroaderTerm>
+<BroaderTerm>Oxides</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Aluminum Compounds</BroaderTerm>
+<BroaderTerm>Silicates</BroaderTerm>
+<BroaderTerm>Minerals</BroaderTerm>
+<BroaderTerm>Silicic Acid</BroaderTerm>
+<BroaderTerm>Silicon Compounds</BroaderTerm>
+<BroaderTerm>Kaolin</BroaderTerm>
+<BroaderTerm>Aluminum Silicates</BroaderTerm>
+<BroaderTerm>Oxygen Compounds</BroaderTerm>
+<Synonym>Kaolin</Synonym>
+<Synonym>Kaolinite</Synonym>
+<Description>The most common mineral of a group of hydrated aluminum silicates, approximately H2Al2Si2O8-H2O. It is prepared for pharmaceutical and medicinal purposes by levigating with water to remove sand, etc. (From Merck Index, 11th ed) The name is derived from Kao-ling (Chinese: "high ridge"), the original site. (From Grant &amp; Hackh's Chemical Dictionary, 5th ed)</Description>
+<Source>MeSH</Source>
+</Record>

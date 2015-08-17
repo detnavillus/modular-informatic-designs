@@ -1,0 +1,30 @@
+<Record>
+<Term>Retinitis Pigmentosa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Degeneration</ParentTerm>
+<ParentTerm>Eye Diseases, Hereditary</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Eye Diseases, Hereditary/Retinitis Pigmentosa</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration/Retinitis Pigmentosa</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Diseases, Hereditary/Retinitis Pigmentosa</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Retinitis Pigmentosa</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Usher Syndromes</ChildTerm>
+<ChildTerm>Alstrom Syndrome</ChildTerm>
+<ChildTerm>Kearns-Sayre Syndrome</ChildTerm>
+<Synonym>Tapetoretinal Degeneration</Synonym>
+<Synonym>Pigmentary Retinopathy</Synonym>
+<Synonym>Rod Cone Dystrophy</Synonym>
+<Synonym>Tapetoretinal Degenerations</Synonym>
+<Synonym>Retinitis Pigmentosa</Synonym>
+<Synonym>Rod Cone Dystrophies</Synonym>
+<Synonym>Pigmentary Retinopathies</Synonym>
+<Synonym>Rod-Cone Dystrophy</Synonym>
+<Synonym>Rod-Cone Dystrophies</Synonym>
+<Description>Hereditary, progressive degeneration of the neuroepithelium of the retina characterized by night blindness and progressive contraction of the visual field.</Description>
+<Source>MeSH</Source>
+</Record>

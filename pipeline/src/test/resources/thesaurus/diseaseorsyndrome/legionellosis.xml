@@ -1,0 +1,19 @@
+<Record>
+<Term>Legionellosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Legionellosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Legionellosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Legionellosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Legionnaires' Disease</ChildTerm>
+<Synonym>Legionelloses</Synonym>
+<Synonym>Legionellosis</Synonym>
+<Description>Infections with bacteria of the genus LEGIONELLA.</Description>
+<Source>MeSH</Source>
+</Record>

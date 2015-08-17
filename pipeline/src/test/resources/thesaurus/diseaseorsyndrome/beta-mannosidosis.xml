@@ -1,0 +1,26 @@
+<Record>
+<Term>beta-Mannosidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mannosidase Deficiency Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Mannosidase Deficiency Diseases/beta-Mannosidosis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Mannosidase Deficiency Diseases/beta-Mannosidosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Mannosidase Deficiency Diseases/beta-Mannosidosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Mannosidase Deficiency Diseases/beta-Mannosidosis</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Mannosidase Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>beta-Mannosidosis</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>beta-Mannosidoses</Synonym>
+<Synonym>beta Mannosidosis</Synonym>
+<Synonym>beta-Mannosidase Deficiencies</Synonym>
+<Synonym>beta-Mannosidosis</Synonym>
+<Synonym>beta Mannosidase Deficiency</Synonym>
+<Synonym>beta-Mannosidase Deficiency</Synonym>
+<Description>An inborn error of metabolism marked by a defect in the lysosomal isoform of BETA-MANNOSIDASE that results in lysosomal accumulation of mannose-rich intermediate metabolites containing 1,4-beta linkages. The human disease occurs through autosomal recessive inheritance and manifests itself with variety of symptoms that depend upon the type of gene mutation.</Description>
+<Source>MeSH</Source>
+</Record>

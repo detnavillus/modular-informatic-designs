@@ -1,0 +1,21 @@
+<Record>
+<Term>Choroid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Choroid Diseases</ClassificationPath>
+<BroaderTerm>Choroid Diseases</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Choroiditis</ChildTerm>
+<ChildTerm>Choroid Neoplasms</ChildTerm>
+<ChildTerm>Choroid Hemorrhage</ChildTerm>
+<ChildTerm>Choroideremia</ChildTerm>
+<ChildTerm>Gyrate Atrophy</ChildTerm>
+<ChildTerm>Choroidal Neovascularization</ChildTerm>
+<Synonym>Choroid Diseases</Synonym>
+<Synonym>Choroid Disease</Synonym>
+<Synonym>Choroidal Diseases</Synonym>
+<Synonym>Choroidal Disease</Synonym>
+<Description>Disorders of the choroid including hereditary choroidal diseases, neoplasms, and other abnormalities of the vascular layer of the uvea.</Description>
+<Source>MeSH</Source>
+</Record>

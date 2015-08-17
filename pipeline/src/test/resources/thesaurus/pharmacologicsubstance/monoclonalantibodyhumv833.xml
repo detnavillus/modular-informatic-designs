@@ -1,0 +1,22 @@
+<Record>
+<Term>Monoclonal Antibody HuMV833</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody HuMV833,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Angiogenesis Activator Inhibitor/Monoclonal Antibody HuMV833</ClassificationPath>
+<BroaderTerm>Monoclonal Antibody HuMV833</BroaderTerm>
+<BroaderTerm>Angiogenesis Activator Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody HuMV833,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HuMV833</Synonym>
+<Synonym>MoAb HuMV833</Synonym>
+<Synonym>Monoclonal Antibody HuMV833</Synonym>
+<Description>A humanized monoclonal antibody directed against vascular endothelial growth factor (VEGF), a pro-angiogenic cytokine.  HuMV833 has been shown to decrease the permeability of blood vessels that supply tumors, an effect which may lead to slowed tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

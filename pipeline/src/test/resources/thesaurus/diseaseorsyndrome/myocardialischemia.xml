@@ -1,0 +1,24 @@
+<Record>
+<Term>Myocardial Ischemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Myocardial Infarction</ChildTerm>
+<ChildTerm>Myocardial Reperfusion Injury</ChildTerm>
+<ChildTerm>Angina Pectoris</ChildTerm>
+<ChildTerm>Acute Coronary Syndrome</ChildTerm>
+<ChildTerm>Myocardial Stunning</ChildTerm>
+<ChildTerm>Coronary Disease</ChildTerm>
+<Synonym>Myocardial Ischemias</Synonym>
+<Synonym>Ischemic Heart Disease</Synonym>
+<Synonym>Ischemic Heart Diseases</Synonym>
+<Synonym>Myocardial Ischemia</Synonym>
+<Description>A disorder of cardiac function caused by insufficient blood flow to the muscle tissue of the heart. The decreased blood flow may be due to narrowing of the coronary arteries (CORONARY ARTERY DISEASE), to obstruction by a thrombus (CORONARY THROMBOSIS), or less commonly, to diffuse narrowing of arterioles and other small vessels within the heart. Severe interruption of the blood supply to the myocardial tissue may result in necrosis of cardiac muscle (MYOCARDIAL INFARCTION).</Description>
+<Source>MeSH</Source>
+</Record>

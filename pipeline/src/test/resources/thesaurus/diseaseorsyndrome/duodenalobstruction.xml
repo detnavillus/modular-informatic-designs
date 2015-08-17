@@ -1,0 +1,19 @@
+<Record>
+<Term>Duodenal Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Obstruction</ParentTerm>
+<ParentTerm>Duodenal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Obstruction/Duodenal Obstruction</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Duodenal Diseases/Duodenal Obstruction</ClassificationPath>
+<BroaderTerm>Intestinal Obstruction</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Duodenal Obstruction</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Duodenal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Superior Mesenteric Artery Syndrome</ChildTerm>
+<Synonym>Duodenal Obstructions</Synonym>
+<Synonym>Duodenal Obstruction</Synonym>
+<Description>Hindrance of the passage of luminal contents in the DUODENUM. Duodenal obstruction can be partial or complete, and caused by intrinsic or extrinsic factors. Simple obstruction is associated with diminished or stopped flow of luminal contents. Strangulating obstruction is associated with impaired blood flow to the duodenum in addition to obstructed flow of luminal contents.</Description>
+<Source>MeSH</Source>
+</Record>

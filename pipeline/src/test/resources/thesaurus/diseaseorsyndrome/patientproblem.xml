@@ -1,0 +1,16 @@
+<Record>
+<Term>Patient Problem</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Other Finding</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Patient Problem</ClassificationPath>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Patient Problem</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Medical Problem</Synonym>
+<Synonym>Patient Issue</Synonym>
+<Synonym>Patient Problem</Synonym>
+<Synonym>Patient Problem Code</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

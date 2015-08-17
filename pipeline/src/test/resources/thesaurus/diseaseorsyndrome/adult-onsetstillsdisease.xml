@@ -1,0 +1,23 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Arthritis, Rheumatoid/Still's Disease, Adult-Onset</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Still's Disease, Adult-Onset</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Still's Disease, Adult-Onset</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Still's Disease, Adult-Onset</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<Synonym>Adult Onset Still's Disease</Synonym>
+<Synonym>Adult-Onset Still's Disease</Synonym>
+<Synonym>Adult Onset Still Disease</Synonym>
+<Synonym>Adult-Onset Stills Disease</Synonym>
+<Synonym>Adult-Onset Still Disease</Synonym>
+<Description>Systemic-onset rheumatoid arthritis in adults. It differs from classical rheumatoid arthritis in that it is more often marked by acute febrile onset, and generalized lymphadenopathy and hepatosplenomegaly are more prominent.</Description>
+<Source>MeSH</Source>
+</Record>

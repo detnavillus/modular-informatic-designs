@@ -1,0 +1,22 @@
+<Record>
+<Term>Retroviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Avian Leukosis</ChildTerm>
+<ChildTerm>Sarcoma, Avian</ChildTerm>
+<ChildTerm>Lentivirus Infections</ChildTerm>
+<ChildTerm>Pulmonary Adenomatosis, Ovine</ChildTerm>
+<ChildTerm>Deltaretrovirus Infections</ChildTerm>
+<ChildTerm>Murine Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Leukemia, Feline</ChildTerm>
+<Synonym>Retroviridae Infections</Synonym>
+<Synonym>Retroviridae Infection</Synonym>
+<Synonym>Retrovirus Infection</Synonym>
+<Synonym>Retrovirus Infections</Synonym>
+<Description>Virus diseases caused by the RETROVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

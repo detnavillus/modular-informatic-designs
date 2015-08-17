@@ -1,0 +1,43 @@
+<Record>
+<Term>Glaucoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ParentTerm>Ocular Hypertension</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Hypertension/Glaucoma</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Glaucoma Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Glaucoma</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Glaucoma Adverse Event</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glaucoma</BroaderTerm>
+<BroaderTerm>Ocular Hypertension</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Glaucoma, Angle-Closure</ChildTerm>
+<ChildTerm>Open Angle Glaucoma</ChildTerm>
+<ChildTerm>Angle Closure Glaucoma</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Glaucoma</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Glaucoma</ChildTerm>
+<ChildTerm>Glaucoma, Neovascular</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Glaucoma</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Glaucoma</ChildTerm>
+<ChildTerm>Glaucoma, Open-Angle</ChildTerm>
+<ChildTerm>Megophthalmos</ChildTerm>
+<Synonym>Glaucoma</Synonym>
+<Synonym>Glaucoma Adverse Event</Synonym>
+<Synonym>Glaucomas</Synonym>
+<Description>An ocular disease, occurring in many forms, having as its primary characteristics an unstable or a sustained increase in the intraocular pressure which the eye cannot withstand without damage to its structure or impairment of its function. The consequences of the increased pressure may be manifested in a variety of symptoms, depending upon type and severity, such as excavation of the optic disk, hardness of the eyeball, corneal anesthesia, reduced visual acuity, seeing of colored halos around lights, disturbed dark adaptation, visual field defects, and headaches. (Dictionary of Visual Science, 4th ed)</Description>
+<Description>Increased pressure in the eyeball due to obstruction of the outflow of aqueous humor.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

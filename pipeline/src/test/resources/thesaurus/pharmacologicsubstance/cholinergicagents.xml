@@ -1,0 +1,27 @@
+<Record>
+<Term>Cholinergic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Cholinesterase Inhibitors</ChildTerm>
+<ChildTerm>Cholinergic Antagonists</ChildTerm>
+<ChildTerm>Cholinergic Agonists</ChildTerm>
+<ChildTerm>Cholinesterase Reactivators</ChildTerm>
+<Synonym>Cholinergic Drugs</Synonym>
+<Synonym>Cholinomimetics</Synonym>
+<Synonym>Nicotinic Agents</Synonym>
+<Synonym>Muscarinics</Synonym>
+<Synonym>Cholinergics</Synonym>
+<Synonym>Acetylcholine Agents</Synonym>
+<Synonym>Muscarinic Agents</Synonym>
+<Synonym>Cholinergic Agents</Synonym>
+<Description>Any drug used for its actions on cholinergic systems. Included here are agonists and antagonists, drugs that affect the life cycle of ACETYLCHOLINE, and drugs that affect the survival of cholinergic neurons. The term cholinergic agents is sometimes still used in the narrower sense of MUSCARINIC AGONISTS, although most modern texts discourage that usage.</Description>
+<Source>MeSH</Source>
+</Record>

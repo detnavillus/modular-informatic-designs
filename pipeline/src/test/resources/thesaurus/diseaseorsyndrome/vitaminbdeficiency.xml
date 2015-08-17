@@ -1,0 +1,36 @@
+<Record>
+<Term>Vitamin B Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Vitamin B Deficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<ChildTerm>Pyridoxine Deficiency</ChildTerm>
+<ChildTerm>Pellagra</ChildTerm>
+<ChildTerm>Riboflavin Deficiency</ChildTerm>
+<ChildTerm>Folic Acid Deficiency</ChildTerm>
+<ChildTerm>Vitamin B 12 Deficiency</ChildTerm>
+<ChildTerm>Thiamine Deficiency</ChildTerm>
+<ChildTerm>Hyperhomocysteinemia</ChildTerm>
+<ChildTerm>Choline Deficiency</ChildTerm>
+<ChildTerm>Vitamin B 6 Deficiency</ChildTerm>
+<Synonym>Vitamin B Deficiency</Synonym>
+<Synonym>Vitamin B Deficiencies</Synonym>
+<Description>A condition due to deficiency in any member of the VITAMIN B COMPLEX. These B vitamins are water-soluble and must be obtained from the diet because they are easily lost in the urine. Unlike the lipid-soluble vitamins, they cannot be stored in the body fat.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

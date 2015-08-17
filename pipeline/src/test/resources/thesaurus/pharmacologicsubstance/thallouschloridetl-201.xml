@@ -1,0 +1,22 @@
+<Record>
+<Term>Thallous Chloride Tl-201</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Thallous Chloride Tl-201</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Thallous Chloride Tl-201</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Thallous chloride tl-201</Synonym>
+<Synonym>Thallium-201 Chloride</Synonym>
+<Synonym>(201-Tl) Thallous Chloride</Synonym>
+<Synonym>Thallous Chloride Tl 201</Synonym>
+<Synonym>Thallous Chloride Tl-201</Synonym>
+<Synonym>THALLOUS CHLORIDE, TL-201</Synonym>
+<Description>The chloride salt form of thallium-201, a cyclotron produced isotope use in diagnostic imaging. Thallous chloride TI-201 accumulates in myocardial cells and other tissues in an analogous way as potassium, and can be evaluated as a function of blood flow. By scintigraphic means, areas with decreased blood flow, consisting of ischemic cells, can be visualized due to decreased uptake of TI-201 in contrast to areas with normal blood flow.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

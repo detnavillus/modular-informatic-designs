@@ -1,0 +1,15 @@
+<Record>
+<Term>Plague Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Plague Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Plague Vaccine</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Plague Vaccine</Synonym>
+<Description>A suspension of killed Yersinia pestis used for immunizing people in enzootic plague areas.</Description>
+<Source>MeSH</Source>
+</Record>

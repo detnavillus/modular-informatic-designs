@@ -1,0 +1,17 @@
+<Record>
+<Term>Folic Acid Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Folic Acid Deficiency</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Folic Acid Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<Synonym>Folic Acid Deficiency</Synonym>
+<Synonym>Folic Acid Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of FOLIC ACID in the diet. Many plant and animal tissues contain folic acid, abundant in green leafy vegetables, yeast, liver, and mushrooms but destroyed by long-term cooking. Alcohol interferes with its intermediate metabolism and absorption. Folic acid deficiency may develop in long-term anticonvulsant therapy or with use of oral contraceptives. This deficiency causes anemia, macrocytic anemia, and megaloblastic anemia. It is indistinguishable from vitamin B 12 deficiency in peripheral blood and bone marrow findings, but the neurologic lesions seen in B 12 deficiency do not occur. (Merck Manual, 16th ed)</Description>
+<Source>MeSH</Source>
+</Record>

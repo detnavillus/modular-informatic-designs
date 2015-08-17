@@ -1,0 +1,31 @@
+<Record>
+<Term>Systemic Mastocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Mastocytosis</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Connective and Soft Tissue/Neoplasms, Connective Tissue/Mastocytosis/Mastocytosis, Systemic</ClassificationPath>
+<ClassificationPath>Systemic Mastocytosis</ClassificationPath>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Mastocytosis, Systemic</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective Tissue</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective and Soft Tissue</BroaderTerm>
+<BroaderTerm>Systemic Mastocytosis</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Mastocytosis</BroaderTerm>
+<ChildTerm>Leukemia, Mast-Cell</ChildTerm>
+<Synonym>Systemic Mast-Cell Diseases</Synonym>
+<Synonym>Systemic Tissue Mast Cell Disease</Synonym>
+<Synonym>Systemic Mastocytosis</Synonym>
+<Synonym>Systemic Mast Cell Disease</Synonym>
+<Synonym>Systemic Mast-Cell Disease</Synonym>
+<Synonym>Systemic Mastocytoses</Synonym>
+<Synonym>Aggressive Systemic Mastocytoses</Synonym>
+<Synonym>Aggressive Systemic Mastocytosis</Synonym>
+<Synonym>Indolent Systemic Mastocytoses</Synonym>
+<Synonym>Indolent Systemic Mastocytosis</Synonym>
+<Description>A group of disorders caused by the abnormal proliferation of MAST CELLS in a variety of extracutaneous tissues including bone marrow, liver, spleen, lymph nodes, and gastrointestinal tract. Systemic mastocytosis is commonly seen in adults. These diseases are categorized on the basis of clinical features, pathologic findings, and prognosis.A form of systemic mastocytosis in which patients experience no pain. It is characterized by the multifocal mast cell filtrates, mostly in skin and bone marrow (&lt;20% MAST CELLS). It has a low cytomorphological grade.A form of systemic mastocytosis in which patients have impaired organ functions due to multifocal infiltrates of pathological MAST CELLS in bone marrow, liver, spleen, gastrointestinal tract, or skeletal system. The  cytomorphology shows a low to high grade.</Description>
+<Description>A variant of mastocytosis characterized by multifocal, dense infiltrates of mast cells (15 or more mast cells in aggregates) detected in the bone marrow and/or other extracutaneous sites. (WHO, 2001) -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

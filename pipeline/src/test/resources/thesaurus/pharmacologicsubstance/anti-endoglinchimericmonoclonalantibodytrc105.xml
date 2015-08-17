@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-Endoglin Chimeric Monoclonal Antibody TRC105</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-Endoglin Chimeric Monoclonal Antibody TRC105</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Anti-Endoglin Chimeric Monoclonal Antibody TRC105</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-Endoglin Chimeric Monoclonal Antibody TRC105</Synonym>
+<Synonym>TRC105</Synonym>
+<Description>A human/murine chimeric monoclonal antibody directed against endoglin (CD105) with potential antiangiogenic and antineoplastic activities. Anti-endoglin monoclonal antibody TRC105 binds to endoglin, which may result in inhibition of tumor angiogenesis and decreased tumor cell proliferation. The glycoprotein endoglin is a transforming growth factor beta-1 (TGF beta-1) accessory receptor that is highly expressed on tumor vessel endothelial cells and appears to be essential for angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

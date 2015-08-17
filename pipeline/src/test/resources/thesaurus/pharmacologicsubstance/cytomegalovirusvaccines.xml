@@ -1,0 +1,15 @@
+<Record>
+<Term>Cytomegalovirus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Cytomegalovirus Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Cytomegalovirus Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with CYTOMEGALOVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

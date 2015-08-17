@@ -1,0 +1,21 @@
+<Record>
+<Term>Nicotinic Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cholinergic Agonists</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Agonists/Nicotinic Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Agonists/Nicotinic Agonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Nicotinic Agonists</BroaderTerm>
+<BroaderTerm>Cholinergic Agonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Nicotinic Cholinergic Agonist</Synonym>
+<Synonym>Nicotinic Cholinergic Agonists</Synonym>
+<Synonym>Nicotinic Agonists</Synonym>
+<Synonym>Nicotinic Agonist</Synonym>
+<Description>Drugs that bind to and activate nicotinic cholinergic receptors (RECEPTORS, NICOTINIC). Nicotinic agonists act at postganglionic nicotinic receptors, at neuroeffector junctions in the peripheral nervous system, and at nicotinic receptors in the central nervous system. Agents that function as neuromuscular depolarizing blocking agents are included here because they activate nicotinic receptors, although they are used clinically to block nicotinic transmission.</Description>
+<Source>MeSH</Source>
+</Record>

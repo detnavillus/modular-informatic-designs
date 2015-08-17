@@ -1,0 +1,16 @@
+<Record>
+<Term>Visual Agnosia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Vision Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Vision Disorder/Non-Neoplastic Vision Disorder/Visual Agnosia</ClassificationPath>
+<BroaderTerm>Vision Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Visual Agnosia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vision Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Visual Agnosia</Synonym>
+<Description>An inability to recognize or interpret objects by sight.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

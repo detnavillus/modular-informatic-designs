@@ -1,0 +1,57 @@
+<Record>
+<Term>Neurodegenerative Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Degenerative Disorder/Neurodegenerative Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Degenerative Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder,</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<ChildTerm>TDP-43 Proteinopathies</ChildTerm>
+<ChildTerm>Cerebral Palsy</ChildTerm>
+<ChildTerm>Subacute Combined Degeneration</ChildTerm>
+<ChildTerm>Lewy Body Disease</ChildTerm>
+<ChildTerm>Tauopathies</ChildTerm>
+<ChildTerm>Dementia</ChildTerm>
+<ChildTerm>Postpoliomyelitis Syndrome</ChildTerm>
+<ChildTerm>Amyotrophic Lateral Sclerosis</ChildTerm>
+<ChildTerm>Paraneoplastic Syndromes, Nervous System</ChildTerm>
+<ChildTerm>Shy-Drager Syndrome</ChildTerm>
+<ChildTerm>Parkinson Disease</ChildTerm>
+<ChildTerm>Motor Neuron Disease</ChildTerm>
+<ChildTerm>Brain Iron Accumulation Type I Syndrome</ChildTerm>
+<ChildTerm>Multiple System Atrophy</ChildTerm>
+<ChildTerm>Demyelinating Disorder</ChildTerm>
+<ChildTerm>Heredodegenerative Disorders, Nervous System</ChildTerm>
+<ChildTerm>Olivopontocerebellar Atrophies</ChildTerm>
+<ChildTerm>Prion Diseases</ChildTerm>
+<Synonym>Degenerative Neurologic Disorders</Synonym>
+<Synonym>Neurodegenerative Disease</Synonym>
+<Synonym>Neurodegenerative Disorders</Synonym>
+<Synonym>Degenerative Neurologic Disorder</Synonym>
+<Synonym>Neurologic Degenerative Disease</Synonym>
+<Synonym>Degenerative Neurologic Diseases</Synonym>
+<Synonym>Neurologic Degenerative Diseases</Synonym>
+<Synonym>Degenerative Neurologic Disease</Synonym>
+<Synonym>Neurodegenerative Diseases</Synonym>
+<Synonym>Nervous System Degenerative Diseases</Synonym>
+<Synonym>Neurologic Degenerative Conditions</Synonym>
+<Synonym>Neurologic Degenerative Condition</Synonym>
+<Synonym>Neurodegenerative Disorder</Synonym>
+<Description>A disorder of the central nervous system characterized by gradual and progressive loss of neural tissue and neurologic function. --2004</Description>
+<Description>Hereditary and sporadic conditions which are characterized by progressive nervous system dysfunction. These disorders are often associated with atrophy of the affected central or peripheral nervous system structures.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

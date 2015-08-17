@@ -1,0 +1,18 @@
+<Record>
+<Term>Nasal Cavity Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nasal Cavity and Paranasal Sinus Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Nasal Cavity and Paranasal Sinus Disorder/Nasal Cavity Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nasal Cavity Disorder</BroaderTerm>
+<BroaderTerm>Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nasal Cavity Polyp</ChildTerm>
+<ChildTerm>Non-Neoplastic Nasal Cavity Disorder</ChildTerm>
+<Synonym>Nasal Cavity Disease</Synonym>
+<Synonym>Nasal Cavity Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

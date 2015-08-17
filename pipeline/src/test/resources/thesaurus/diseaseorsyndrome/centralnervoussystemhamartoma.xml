@@ -1,0 +1,26 @@
+<Record>
+<Term>Central Nervous System Hamartoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hamartoma/Central Nervous System Hamartoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Central Nervous System Hamartoma</ClassificationPath>
+<BroaderTerm>Central Nervous System Hamartoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Hamartoma,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Hamartoma</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Spinal Cord Hamartoma</ChildTerm>
+<ChildTerm>Brain Hamartoma</ChildTerm>
+<Synonym>CNS Hamartoma</Synonym>
+<Synonym>Central Nervous System Hamartoma</Synonym>
+<Synonym>Hamartoma of CNS</Synonym>
+<Synonym>Hamartoma of Central Nervous System</Synonym>
+<Synonym>Hamartoma of the CNS</Synonym>
+<Synonym>Hamartoma of the Central Nervous System</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

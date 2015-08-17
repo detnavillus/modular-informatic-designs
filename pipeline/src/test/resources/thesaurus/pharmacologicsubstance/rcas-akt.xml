@@ -1,0 +1,16 @@
+<Record>
+<Term>RCAS-Akt</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Viral Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/RCAS-Akt</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>RCAS-Akt</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>RCAS-Akt</Synonym>
+<Description>A recombinant retroviral virus derived from SR-A strain of Rous sarcoma virus carrying a constitutively active form of the AKT Gene. The viral vector RCAS harbors a Replication Competent ALV Splice acceptor. This recombinant virus was use in animal model to study gliomagenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

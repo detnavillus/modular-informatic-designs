@@ -1,0 +1,28 @@
+<Record>
+<Term>Deltaretrovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retroviridae Infections</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Deltaretrovirus Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Deltaretrovirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Deltaretrovirus Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>HTLV-II Infections</ChildTerm>
+<ChildTerm>HTLV-I Infections</ChildTerm>
+<ChildTerm>Enzootic Bovine Leukosis</ChildTerm>
+<Synonym>BLV Infection</Synonym>
+<Synonym>BLV Infections</Synonym>
+<Synonym>HTLV Infections</Synonym>
+<Synonym>HTLV-BLV Infections</Synonym>
+<Synonym>Deltaretrovirus Infections</Synonym>
+<Synonym>HTLV Infection</Synonym>
+<Synonym>Deltaretrovirus Infection</Synonym>
+<Synonym>HTLV-BLV Infection</Synonym>
+<Synonym>HTLV BLV Infections</Synonym>
+<Description>Infections caused by the HTLV or BLV deltaretroviruses. They include human T-cell leukemia-lymphoma (LEUKEMIA-LYMPHOMA, T-CELL, ACUTE, HTLV-I-ASSOCIATED).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Erysipelothrix Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Erysipelothrix Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Erysipelothrix Infections</ClassificationPath>
+<BroaderTerm>Erysipelothrix Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Swine Erysipelas</ChildTerm>
+<ChildTerm>Erysipeloid</ChildTerm>
+<Synonym>Erysipelothrix Infections</Synonym>
+<Synonym>Erysipelothrix Infection</Synonym>
+<Description>Infections with bacteria of the genus ERYSIPELOTHRIX.</Description>
+<Source>MeSH</Source>
+</Record>

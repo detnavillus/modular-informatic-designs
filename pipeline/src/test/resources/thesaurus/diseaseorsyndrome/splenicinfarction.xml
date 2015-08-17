@@ -1,0 +1,18 @@
+<Record>
+<Term>Splenic Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Splenic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Splenic Diseases/Splenic Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Splenic Infarction</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Splenic Infarction</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Splenic Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Splenic Infarction</Synonym>
+<Synonym>Splenic Infarctions</Synonym>
+<Description>Insufficiency of arterial or venous blood supply to the spleen due to emboli, thrombi, vascular torsion, or pressure that produces a macroscopic area of necrosis. (From Stedman, 25th ed)</Description>
+<Source>MeSH</Source>
+</Record>

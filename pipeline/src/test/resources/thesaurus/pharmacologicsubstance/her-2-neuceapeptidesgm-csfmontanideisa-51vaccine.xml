@@ -1,0 +1,14 @@
+<Record>
+<Term>HER-2-neu, CEA Peptides, GM-CSF, Montanide ISA-51 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Agent Combination Not Indexed in Open Clinical Trials</ParentTerm>
+<ClassificationPath>Chemotherapy_Regimen_Kind/Chemotherapy Regimen or Agent Combination/Agent Combination/Agent Combination Not Indexed in Open Clinical Trials/HER-2-neu, CEA Peptides, GM-CSF, Montanide ISA-51 Vaccine</ClassificationPath>
+<BroaderTerm>Agent Combination Not Indexed in Open Clinical Trials</BroaderTerm>
+<BroaderTerm>Chemotherapy Regimen or Agent Combination</BroaderTerm>
+<BroaderTerm>Agent Combination</BroaderTerm>
+<BroaderTerm>HER-2-neu, CEA Peptides, GM-CSF, Montanide ISA-51 Vaccine</BroaderTerm>
+<BroaderTerm>Chemotherapy_Regimen_Kind</BroaderTerm>
+<Synonym>HER-2-neu, CEA Peptides, GM-CSF, Montanide ISA-51 Vaccine</Synonym>
+<Description>A vaccine comprised of HER-2-neu and carcinoembryonic antigen synthetic (CEA) peptides, combined with the adjuvants granulocyte-macrophage colony stimulating factor (GM-CSF), and Montanide ISA-51 with potential antineoplastic activity. HER-2-neu, CEA peptides, GM-CSF, Montanide ISA-51 vaccine may stimulate a cytotoxic T-cell response against HER-2-neu- and CEA-expressing tumor cells. The GM-CSF adjuvant stimulates the proliferation of monocytes and monocyte differentiation into macrophages and dendritic cells, immunohematopoietic elements with important antitumoral functions. Montanide ISA-51, also known as incomplete Freund's adjuvant or IFA, is a stabilized water-in-oil emulsion adjuvant containing mineral oil with mannide oleate added as a surfactant that non-specifically stimulates cell-mediated immune responses to antigens.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,12 @@
+<Record>
+<Term>Lodenosine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Lodenosine</ClassificationPath>
+<BroaderTerm>Lodenosine</BroaderTerm>
+<Synonym>2'-beta-fluoro-2',3'-dideoxyadenosine</Synonym>
+<Synonym>F-ddA</Synonym>
+<Synonym>Lodenosine</Synonym>
+<Description>A synthetic purine fluoro-dideoxyadenosine derivative, antiviral Lodenosine acts as a reverse transcriptase inhibitor. Although used in clinical trials for treatment of human immunodeficiency (HIV), Lodenosine induces liver or kidney damage and its use has been reconsidered. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

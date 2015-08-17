@@ -1,0 +1,19 @@
+<Record>
+<Term>Animal Salmonella Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Salmonella Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Salmonella Infections, Animal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Salmonella Infections/Salmonella Infections, Animal</ClassificationPath>
+<BroaderTerm>Salmonella Infections, Animal</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Salmonella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Animal Salmonella Infection</Synonym>
+<Synonym>Animal Salmonella Infections</Synonym>
+<Description>Infections in animals with bacteria of the genus SALMONELLA.</Description>
+<Source>MeSH</Source>
+</Record>

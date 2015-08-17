@@ -1,0 +1,39 @@
+<Record>
+<Term>Hydrogen Peroxide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Peroxides</ParentTerm>
+<ParentTerm>Topical Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Electrolytes/Ions/Anions/Oxides/Peroxides/Hydrogen Peroxide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Topical Anti-Infective Agent/Hydrogen Peroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Oxygen Compounds/Oxides/Peroxides/Hydrogen Peroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Free Radicals/Reactive Oxygen Species/Peroxides/Hydrogen Peroxide</ClassificationPath>
+<BroaderTerm>Reactive Oxygen Species</BroaderTerm>
+<BroaderTerm>Free Radicals</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Electrolytes</BroaderTerm>
+<BroaderTerm>Peroxides</BroaderTerm>
+<BroaderTerm>Oxygen Compounds</BroaderTerm>
+<BroaderTerm>Hydrogen Peroxide</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Oxides</BroaderTerm>
+<BroaderTerm>Ions</BroaderTerm>
+<BroaderTerm>Anions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Topical Anti-Infective Agent</BroaderTerm>
+<Synonym>Perhydrol</Synonym>
+<Synonym>Oxydol</Synonym>
+<Synonym>H2O2</Synonym>
+<Synonym>hydrogen peroxide</Synonym>
+<Synonym>HYDROGEN PEROXIDE</Synonym>
+<Synonym>Superoxol</Synonym>
+<Synonym>Hydrogen Peroxide (H2O2)</Synonym>
+<Synonym>Hydroperoxide</Synonym>
+<Synonym>Hydrogen Peroxide</Synonym>
+<Description>A strong oxidizing agent used in aqueous solution as a ripening agent, bleach, and topical anti-infective. It is relatively unstable and solutions deteriorate over time unless stabilized by the addition of acetanilide or similar organic materials.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

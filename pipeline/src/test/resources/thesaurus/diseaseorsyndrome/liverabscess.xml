@@ -1,0 +1,24 @@
+<Record>
+<Term>Liver Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abdominal Abscess</ParentTerm>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Abdominal Abscess/Liver Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Abdominal Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Liver Abscess</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Liver Abscess, Amebic</ChildTerm>
+<ChildTerm>Liver Abscess, Pyogenic</ChildTerm>
+<Synonym>Liver Abscesses</Synonym>
+<Synonym>Hepatic Abscess</Synonym>
+<Synonym>Hepatic Abscesses</Synonym>
+<Synonym>Liver Abscess</Synonym>
+<Description>Solitary or multiple collections of PUS within the liver as a result of infection by bacteria, protozoa, or other agents.</Description>
+<Source>MeSH</Source>
+</Record>

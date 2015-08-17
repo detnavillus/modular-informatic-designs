@@ -1,0 +1,21 @@
+<Record>
+<Term>Parasitic Eye Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Parasitic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Eye Infections, Parasitic</ClassificationPath>
+<BroaderTerm>Eye Infections, Parasitic</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Toxoplasmosis, Ocular</ChildTerm>
+<ChildTerm>Acanthamoeba Keratitis</ChildTerm>
+<ChildTerm>Onchocerciasis, Ocular</ChildTerm>
+<Synonym>Parasitic Eye Infections</Synonym>
+<Synonym>Parasitic Ocular Infections</Synonym>
+<Synonym>Parasitic Ocular Infection</Synonym>
+<Synonym>Parasitic Eye Infection</Synonym>
+<Description>Mild to severe infections of the eye and its adjacent structures (adnexa) by adult or larval protozoan or metazoan parasites.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,39 @@
+<Record>
+<Term>Urinary Incontinence</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Urination Disorders</ParentTerm>
+<ParentTerm>Urinary Tract Finding</ParentTerm>
+<ParentTerm>Urological Manifestations</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Urological Manifestations/Urinary Incontinence</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Urinary Tract Finding/Urinary Incontinence,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Genitourinary Signs and Symptoms/Urinary Incontinence</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Genitourinary Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Urinary Incontinence,</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Urinary Tract Finding</BroaderTerm>
+<BroaderTerm>Urinary Incontinence</BroaderTerm>
+<BroaderTerm>Urological Manifestations</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Urinary Incontinence, Urge</ChildTerm>
+<ChildTerm>Urinary Incontinence, Stress</ChildTerm>
+<Synonym>Incontinence</Synonym>
+<Synonym>Urinary Incontinence</Synonym>
+<Synonym>incontinence</Synonym>
+<Description>Involuntary loss of URINE, such as leaking of urine. It is a symptom of various underlying pathological processes. Major types of incontinence include URINARY URGE INCONTINENCE and URINARY STRESS INCONTINENCE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

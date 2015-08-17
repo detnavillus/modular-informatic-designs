@@ -1,0 +1,21 @@
+<Record>
+<Term>Parotitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parotid Diseases</ParentTerm>
+<ParentTerm>Sialadenitis</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Sialadenitis/Parotitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Parotid Diseases/Parotitis</ClassificationPath>
+<BroaderTerm>Parotid Diseases</BroaderTerm>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Parotitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Sialadenitis</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Mumps</ChildTerm>
+<Synonym>Parotitis</Synonym>
+<Synonym>Parotiditides</Synonym>
+<Synonym>Parotitides</Synonym>
+<Synonym>Parotiditis</Synonym>
+<Description>INFLAMMATION of the PAROTID GLAND.</Description>
+<Source>MeSH</Source>
+</Record>

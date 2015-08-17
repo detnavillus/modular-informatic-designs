@@ -1,0 +1,21 @@
+<Record>
+<Term>Pleuropneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pleurisy</ParentTerm>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pleuropneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pleuropneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Pleurisy/Pleuropneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pleurisy/Pleuropneumonia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pleurisy</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Pleuropneumonia</BroaderTerm>
+<Synonym>Pleuropneumonias</Synonym>
+<Synonym>Pleuropneumonia</Synonym>
+<Description>Inflammation of the lung parenchyma that is associated with PLEURISY, inflammation of the PLEURA.</Description>
+<Source>MeSH</Source>
+</Record>

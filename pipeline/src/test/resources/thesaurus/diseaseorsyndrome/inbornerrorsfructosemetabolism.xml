@@ -1,0 +1,19 @@
+<Record>
+<Term>Inborn Errors Fructose Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Fructose Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Fructose Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Fructose Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Fructose-1,6-Diphosphatase Deficiency</ChildTerm>
+<ChildTerm>Fructose Intolerance</ChildTerm>
+<Synonym>Fructose Metabolism, Inborn Errors</Synonym>
+<Description>Inherited abnormalities of fructose metabolism, which include three known autosomal recessive types: hepatic fructokinase deficiency (essential fructosuria), hereditary fructose intolerance, and hereditary fructose-1,6-diphosphatase deficiency. Essential fructosuria is a benign asymptomatic metabolic disorder caused by deficiency in fructokinase, leading to decreased conversion of fructose to fructose-1-phosphate and alimentary hyperfructosemia, but with no clinical dysfunction; may produce a false-positive diabetes test.</Description>
+<Source>MeSH</Source>
+</Record>

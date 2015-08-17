@@ -1,0 +1,65 @@
+<Record>
+<Term>Pupil Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<SemanticType>Finding</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Pupil Disorders</ClassificationPath>
+<ClassificationPath>Eye Diseases/Pupil Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Pupil Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pupil Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Anisocoria</ChildTerm>
+<ChildTerm>Mydriasis</ChildTerm>
+<ChildTerm>Tonic Pupil</ChildTerm>
+<ChildTerm>Miosis</ChildTerm>
+<Synonym>Abnormal Pupillary Functions</Synonym>
+<Synonym>Fixed Pupils</Synonym>
+<Synonym>Fixed Pupil</Synonym>
+<Synonym>Pupillary Anomaly</Synonym>
+<Synonym>Wernicke Hemianopic Pupil</Synonym>
+<Synonym>Occluded Pupil</Synonym>
+<Synonym>Marcus-Gunn Pupil</Synonym>
+<Synonym>Pupillary Paralyses</Synonym>
+<Synonym>Pupillary Sector Paralysis</Synonym>
+<Synonym>Sector Pupil Palsy</Synonym>
+<Synonym>Non-Syphilitic Argyll-Robertson Pupil</Synonym>
+<Synonym>Pupil Malformation</Synonym>
+<Synonym>Deformed Pupil</Synonym>
+<Synonym>Keyhole Pupils</Synonym>
+<Synonym>Wernickes Hemianopic Pupil</Synonym>
+<Synonym>Afferent Pupillary Defect</Synonym>
+<Synonym>Efferent Pupillary Defect</Synonym>
+<Synonym>Pupillary Sphincter Rupture</Synonym>
+<Synonym>Pupil Reaction Absent</Synonym>
+<Synonym>Deformed Pupils</Synonym>
+<Synonym>Pupillary Occlusions</Synonym>
+<Synonym>Occluded Pupils</Synonym>
+<Synonym>Ectopic Pupils</Synonym>
+<Synonym>Marcus Gunn Pupil</Synonym>
+<Synonym>Pupil Disorders</Synonym>
+<Synonym>Pupillary Anomalies</Synonym>
+<Synonym>Pupillary Paralysis</Synonym>
+<Synonym>Ectopic Pupil</Synonym>
+<Synonym>Pupillary Disorder</Synonym>
+<Synonym>Pupillary Sphincter Ruptures</Synonym>
+<Synonym>Wernicke's Hemianopic Pupil</Synonym>
+<Synonym>Abnormal Pupillary Function</Synonym>
+<Synonym>Keyhole Pupil</Synonym>
+<Synonym>Efferent Pupillary Defects</Synonym>
+<Synonym>Pupillary Disorders</Synonym>
+<Synonym>Pupillary Sector Paralyses</Synonym>
+<Synonym>Afferent Pupillary Defects</Synonym>
+<Synonym>Non Syphilitic Argyll Robertson Pupil</Synonym>
+<Synonym>Pupillary Occlusion</Synonym>
+<Synonym>Pupil Malformations</Synonym>
+<Synonym>Pupil Disorder</Synonym>
+<Description>Conditions which affect the structure or function of the pupil of the eye, including disorders of innervation to the pupillary constrictor or dilator muscles, and disorders of pupillary reflexes.Conditions in which the pupil does not react normally to dilation and constriction. Signs of pupillary abnormalities originate from the pupil's shape, position, and response to stimulation.</Description>
+<Source>MeSH</Source>
+</Record>

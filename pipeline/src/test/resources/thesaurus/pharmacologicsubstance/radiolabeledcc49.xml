@@ -1,0 +1,15 @@
+<Record>
+<Term>Radiolabeled CC49</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Radiolabeled CC49</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Radiolabeled CC49</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Radiolabeled CC49</Synonym>
+<Description>A radioimmunoconjugate comprised of a humanized monoclonal antibody with antitumor activity. The monoclonal antibody CC49 is developed from the murine monoclonal antibody B72.3 and is humanized by grafting the hypervariable regions onto the variable light (VL) and variable heavy (VH) frameworks of the monoclonal antibodies LEN and 21/28' CL. The resultant antibody binds the pancarcinoma tumor-associated glycoprotein (TAG)-72 with high affinity. Furthermore, the antibody is commonly radiolabeled resulting in an effective agent for use in radioimmunotherapy for treatment of cancer.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

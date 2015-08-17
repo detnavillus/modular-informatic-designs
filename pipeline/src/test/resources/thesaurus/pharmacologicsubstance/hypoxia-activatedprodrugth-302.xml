@@ -1,0 +1,16 @@
+<Record>
+<Term>Hypoxia-Activated Prodrug TH-302</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Hypoxia-Activated Prodrug TH-302</ClassificationPath>
+<BroaderTerm>Hypoxia-Activated Prodrug TH-302</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HAP TH-302</Synonym>
+<Synonym>Hypoxia-Activated Prodrug TH-302</Synonym>
+<Synonym>TH-302</Synonym>
+<Description>A hypoxia-activated prodrug consisting of an indazole-based tubulin inhibitor conjugated with a hypoxic activator, such as a substituted nitroimidazole, with potential antineoplastic activity. When the hypoxia activator of hypoxia-activated prodrug TH-302 is activated by low oxygen concentrations in the hypoxic regions of tumors, the indazole-based tubulin inhibitor is released, which may result in the inhibition of tubulin polymerization in tumor cells and tumor cell mitotic arrest and death. Normoxic tissues are spared due to the hypoxia-specific release of the cytotoxic moiety.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

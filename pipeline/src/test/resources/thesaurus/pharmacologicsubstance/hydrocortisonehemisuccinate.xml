@@ -1,0 +1,18 @@
+<Record>
+<Term>Hydrocortisone Hemisuccinate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Hydrocortisone Hemisuccinate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hydrocortisone Hemisuccinate</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HYDROCORTISONE HEMISUCCINATE</Synonym>
+<Synonym>Hydrocortisone Hemisuccinate</Synonym>
+<Description>The synthetic hemisuccinate salt form of hydrocortisone, a corticosteroid with anti-inflammatory and immunosuppressive properties. Hydrocortisone acetate initially binds to the cytoplasmic glucocorticoid receptor; then the receptor-ligand complex is translocated to the nucleus where it initiates the transcription of genes encoding for anti-inflammatory mediators, such as cytokines and lipocortins. Lipocortins inhibit phospholipase A2, thereby blocking the release of arachidonic acid from membrane phospholipids and preventing the synthesis of prostaglandins and leukotrienes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

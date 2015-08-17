@@ -1,0 +1,20 @@
+<Record>
+<Term>Septic Abortion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications, Infectious</ParentTerm>
+<ParentTerm>Abortion, Spontaneous</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy Complications, Infectious/Abortion, Septic</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Pregnancy Complications, Infectious/Abortion, Septic</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Abortion, Spontaneous/Abortion, Septic</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Abortion, Septic</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pregnancy Complications, Infectious</BroaderTerm>
+<BroaderTerm>Abortion, Spontaneous</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Septic Abortions</Synonym>
+<Synonym>Septic Abortion</Synonym>
+<Description>Any type of abortion, induced or spontaneous, that is associated with infection of the UTERUS and its appendages. It is characterized by FEVER, uterine tenderness, and foul discharge.</Description>
+<Source>MeSH</Source>
+</Record>

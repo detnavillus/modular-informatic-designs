@@ -1,0 +1,31 @@
+<Record>
+<Term>Hyperostosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Hyperostosis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Hyperostosis</ClassificationPath>
+<BroaderTerm>Hyperostosis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hyperostosis of Skull</ChildTerm>
+<ChildTerm>Exostoses</ChildTerm>
+<ChildTerm>Hyperostosis Frontalis Interna</ChildTerm>
+<ChildTerm>Hyperostosis, Sternocostoclavicular</ChildTerm>
+<ChildTerm>Hyperostosis, Diffuse Idiopathic Skeletal</ChildTerm>
+<ChildTerm>Hyperostosis, Cortical, Congenital</ChildTerm>
+<Synonym>Hyperostosis</Synonym>
+<Synonym>Bone Hypertrophy</Synonym>
+<Synonym>Bone Hypertrophies</Synonym>
+<Synonym>Hyperostoses</Synonym>
+<Description>Increase in the mass of bone per unit volume.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

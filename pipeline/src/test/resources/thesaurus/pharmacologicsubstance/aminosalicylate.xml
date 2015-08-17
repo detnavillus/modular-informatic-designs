@@ -1,0 +1,28 @@
+<Record>
+<Term>Aminosalicylate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antitubercular Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antitubercular Agent/Aminosalicylate Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aminosalicylate Sodium</BroaderTerm>
+<BroaderTerm>Antitubercular Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Teebacin</Synonym>
+<Synonym>AMINOSALICYLATE SODIUM</Synonym>
+<Synonym>Pamisyl Sodium</Synonym>
+<Synonym>Aminosalicylate</Synonym>
+<Synonym>Parasal</Synonym>
+<Synonym>Aminosalicylate Sodium</Synonym>
+<Synonym>Parasal sodium</Synonym>
+<Synonym>Aminosalicylate sodium</Synonym>
+<Synonym>P.a.s.</Synonym>
+<Synonym>P.a.s. sodium</Synonym>
+<Synonym>Sodium p.a.s.</Synonym>
+<Synonym>Sodium aminosalicylate</Synonym>
+<Description>The sodium salt form of aminosalicylic acid, an analog of para-aminobenzoic acid (PABA) with antitubercular activity. Aminosalicylate sodium exerts its bacteriostatic activity against Mycobacterium tuberculosis by competing with PABA for enzymes involved in folate synthesis, thereby suppressing growth and reproduction of M. tuberculosis, eventually leading to cell death.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

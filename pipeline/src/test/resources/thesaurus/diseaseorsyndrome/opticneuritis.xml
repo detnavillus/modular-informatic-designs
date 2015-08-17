@@ -1,0 +1,25 @@
+<Record>
+<Term>Optic Neuritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Optic Nerve Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases/Optic Neuritis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases/Optic Neuritis</ClassificationPath>
+<BroaderTerm>Optic Neuritis</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Neuromyelitis Optica</ChildTerm>
+<Synonym>Optic Neuritis</Synonym>
+<Synonym>Optic Neuritides</Synonym>
+<Synonym>Posterior Optic Neuritis</Synonym>
+<Synonym>Anterior Optic Neuritis</Synonym>
+<Synonym>Posterior Optic Neuritides</Synonym>
+<Synonym>Neuropapillitis</Synonym>
+<Synonym>Retrobulbar Neuritis</Synonym>
+<Synonym>Retrobulbar Neuritides</Synonym>
+<Synonym>Anterior Optic Neuritides</Synonym>
+<Synonym>Neuropapillitides</Synonym>
+<Description>Inflammation of the optic nerve. Commonly associated conditions include autoimmune disorders such as MULTIPLE SCLEROSIS, infections, and granulomatous diseases. Clinical features include retro-orbital pain that is aggravated by eye movement, loss of color vision, and contrast sensitivity that may progress to severe visual loss, an afferent pupillary defect (Marcus-Gunn pupil), and in some instances optic disc hyperemia and swelling. Inflammation may occur in the portion of the nerve within the globe (neuropapillitis or anterior optic neuritis) or the portion behind the globe (retrobulbar neuritis or posterior optic neuritis).</Description>
+<Source>MeSH</Source>
+</Record>

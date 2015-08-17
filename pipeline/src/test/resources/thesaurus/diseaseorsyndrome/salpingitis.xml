@@ -1,0 +1,41 @@
+<Record>
+<Term>Salpingitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fallopian Tube Non-Neoplastic Disorder</ParentTerm>
+<ParentTerm>Fallopian Tube Diseases</ParentTerm>
+<ParentTerm>Pelvic Inflammatory Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Genitourinary System Infection/Pelvic Inflammatory Disease/Adnexitis/Salpingitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Fallopian Tube Non-Neoplastic Disorder/Salpingitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Pelvic Inflammatory Disease/Salpingitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Fallopian Tube Diseases/Salpingitis</ClassificationPath>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Adnexitis</BroaderTerm>
+<BroaderTerm>Salpingitis,</BroaderTerm>
+<BroaderTerm>Fallopian Tube Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Salpingitis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Fallopian Tube Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Genitourinary System Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Pelvic Inflammatory Disease</BroaderTerm>
+<ChildTerm>Salpingitis Isthmica Nodosa</ChildTerm>
+<ChildTerm>Chronic Salpingitis</ChildTerm>
+<ChildTerm>Acute Salpingitis</ChildTerm>
+<Synonym>Salpingitides</Synonym>
+<Synonym>Salpingitis</Synonym>
+<Description>Inflammation of the uterine salpinx, the trumpet-shaped FALLOPIAN TUBES, usually caused by ascending infections of organisms from the lower reproductive tract. Salpingitis can lead to tubal scarring, hydrosalpinx, tubal occlusion, INFERTILITY, and ectopic pregnancy (PREGNANCY, ECTOPIC)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

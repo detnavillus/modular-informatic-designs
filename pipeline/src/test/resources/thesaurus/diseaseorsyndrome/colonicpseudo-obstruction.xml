@@ -1,0 +1,25 @@
+<Record>
+<Term>Colonic Pseudo-Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Pseudo-Obstruction</ParentTerm>
+<ParentTerm>Colonic Diseases, Functional</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Obstruction/Ileus/Intestinal Pseudo-Obstruction/Colonic Pseudo-Obstruction</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colonic Diseases, Functional/Colonic Pseudo-Obstruction</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Pseudo-Obstruction</BroaderTerm>
+<BroaderTerm>Intestinal Obstruction</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Colonic Pseudo-Obstruction</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Colonic Diseases, Functional</BroaderTerm>
+<BroaderTerm>Ileus</BroaderTerm>
+<Synonym>Colonic Pseudoobstruction</Synonym>
+<Synonym>Colonic Pseudo Obstruction</Synonym>
+<Synonym>Colonic Pseudo-Obstruction</Synonym>
+<Synonym>Ogilvie Syndrome</Synonym>
+<Synonym>Ogilvie's Syndrome</Synonym>
+<Synonym>Ogilvie Disease</Synonym>
+<Description>Functional obstruction of the COLON leading to MEGACOLON in the absence of obvious COLONIC DISEASES or mechanical obstruction. When this condition is acquired, acute, and coexisting with another medical condition (trauma, surgery, serious injuries or illness, or medication), it is called Ogilvie's syndrome.</Description>
+<Source>MeSH</Source>
+</Record>

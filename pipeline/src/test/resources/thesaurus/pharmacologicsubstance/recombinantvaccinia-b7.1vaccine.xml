@@ -1,0 +1,22 @@
+<Record>
+<Term>Recombinant Vaccinia-B7.1 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-B7.1 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-B7.1 Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-B7.1</Synonym>
+<Synonym>Recombinant Vaccinia-B7.1 Vaccine</Synonym>
+<Synonym>rV-B7 (Recomb Vaccinia/B7)</Synonym>
+<Synonym>rV-B7.1</Synonym>
+<Synonym>rV-B7.1 Vaccine</Synonym>
+<Description>A recombinant vaccinia virus encoding the T-cell co-stimulatory molecule B7-1. Co-administration of recombinant vaccinia-B7.1 and a tumor-associated antigen vaccine may enhance tumor-associated antigen-specific T-cell responses. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

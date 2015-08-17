@@ -1,0 +1,23 @@
+<Record>
+<Term>Infectious Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Paronychia</ChildTerm>
+<ChildTerm>Dermatomycoses</ChildTerm>
+<ChildTerm>Skin Diseases, Bacterial</ChildTerm>
+<ChildTerm>Skin Diseases, Parasitic</ChildTerm>
+<ChildTerm>Cellulitis</ChildTerm>
+<ChildTerm>Skin Diseases, Viral</ChildTerm>
+<Synonym>Infectious Skin Diseases</Synonym>
+<Synonym>Infectious Skin Disease</Synonym>
+<Description>Skin diseases caused by bacteria, fungi, parasites, or viruses.</Description>
+<Source>MeSH</Source>
+</Record>

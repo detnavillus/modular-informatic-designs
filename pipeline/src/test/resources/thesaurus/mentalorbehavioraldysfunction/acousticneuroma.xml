@@ -1,0 +1,67 @@
+<Record>
+<Term>Acoustic Neuroma</Term>
+<SemanticType>Neoplastic Process</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Nervous System Neoplasms</ParentTerm>
+<ParentTerm>Vestibulocochlear Nerve Diseases</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Otorhinolaryngologic Neoplasms</ParentTerm>
+<ParentTerm>Neurilemmoma</ParentTerm>
+<ParentTerm>Cranial Nerve Neoplasms</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Retrocochlear Diseases/Vestibulocochlear Nerve Diseases/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Germ Cell and Embryonal/Neuroectodermal Tumors/Neuroendocrine Tumors/Neurilemmoma/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Acoustic Schwannoma</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Nerve Tissue/Nerve Sheath Neoplasms/Neuroma/Neurilemmoma/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Vestibulocochlear Nerve Diseases/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Nervous System Neoplasms/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Cranial Nerve Neoplasms/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Nerve Tissue/Neuroectodermal Tumors/Neuroendocrine Tumors/Neurilemmoma/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Peripheral Nervous System Neoplasms/Cranial Nerve Neoplasms/Neuroma, Acoustic</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Otorhinolaryngologic Neoplasms/Neuroma, Acoustic</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Neuroma, Acoustic</BroaderTerm>
+<BroaderTerm>Vestibulocochlear Nerve Diseases</BroaderTerm>
+<BroaderTerm>Acoustic Schwannoma</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Neoplasms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms, Nerve Tissue</BroaderTerm>
+<BroaderTerm>Nerve Sheath Neoplasms</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Neoplasms, Germ Cell and Embryonal</BroaderTerm>
+<BroaderTerm>Neuroendocrine Tumors</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Neuroma</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Retrocochlear Diseases</BroaderTerm>
+<BroaderTerm>Neuroectodermal Tumors</BroaderTerm>
+<BroaderTerm>Neurilemmoma</BroaderTerm>
+<BroaderTerm>Cranial Nerve Neoplasms</BroaderTerm>
+<ChildTerm>Neurofibromatosis 2</ChildTerm>
+<Synonym>Neuroma, Acoustic</Synonym>
+<Synonym>Acoustic Neurilemmoma</Synonym>
+<Synonym>Acoustic Neurinomas</Synonym>
+<Synonym>Acoustic Schwannoma</Synonym>
+<Synonym>Melanocytic Vestibular Schwannomas</Synonym>
+<Synonym>Vestibular Neurilemmoma</Synonym>
+<Synonym>Acoustic Schwannomas</Synonym>
+<Synonym>Acoustic Neurinoma</Synonym>
+<Synonym>Vestibular Schwannoma</Synonym>
+<Synonym>Acoustic Neuroma</Synonym>
+<Synonym>Neurilemoma, Acoustic</Synonym>
+<Synonym>Acoustic Neurilemomas</Synonym>
+<Synonym>Cerebellopontine Angle Acoustic Neuroma</Synonym>
+<Synonym>Acoustic Neurilemoma</Synonym>
+<Synonym>Acoustic Neurilemmomas</Synonym>
+<Synonym>Melanocytic Vestibular Schwannoma</Synonym>
+<Synonym>Vestibular Schwannomas</Synonym>
+<Synonym>Acoustic Neuromas</Synonym>
+<Description>A type of benign brain tumor that begins in the Schwann cells, which produce the myelin that protects the acoustic nerve - the nerve of hearing.</Description>
+<Description>A benign SCHWANNOMA of the eighth cranial nerve (VESTIBULOCOCHLEAR NERVE), mostly arising from the vestibular branch (VESTIBULAR NERVE) during the fifth or sixth decade of life. Clinical manifestations include HEARING LOSS; HEADACHE; VERTIGO; TINNITUS; and FACIAL PAIN. Bilateral acoustic neuromas are associated with NEUROFIBROMATOSIS 2. (From Adams et al., Principles of Neurology, 6th ed, p673)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

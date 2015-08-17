@@ -1,0 +1,24 @@
+<Record>
+<Term>Indium In-111</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Indium In-111 Chloride</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Indium In-111 Chloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Indium In-111</Synonym>
+<Synonym>INDIUM IN-111 CHLORIDE</Synonym>
+<Synonym>Indium in-111 chloride</Synonym>
+<Synonym>Indium in 111</Synonym>
+<Synonym>Indium in 111 chloride</Synonym>
+<Synonym>Indiclor</Synonym>
+<Synonym>Indium In-111 Chloride</Synonym>
+<Synonym>Indium Trichloride</Synonym>
+<Description>A radioactive salt that is used as a reagent in the preparation of indium 111-labeled radiopharmaceuticals. Indium 111-labeled radioconjugates are used as radioactive tracers in nuclear medicine that detect malignant lesions and inflammatory tissues probably due to an increased capillary permeability. Indium-111 chloride is particularly used in the radiolabeling of the monoclonal antibodies satumomab pendetide, 7E11-C5.3 (CYT-356), and ibritumomab tiuxetan. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

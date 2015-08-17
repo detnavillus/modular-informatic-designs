@@ -1,0 +1,23 @@
+<Record>
+<Term>Central Nervous System Depressants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Narcotics</ChildTerm>
+<ChildTerm>Analgesics, Opioid</ChildTerm>
+<ChildTerm>Hypnotics and Sedatives</ChildTerm>
+<ChildTerm>Anesthetics</ChildTerm>
+<ChildTerm>Tranquilizing Agents</ChildTerm>
+<Synonym>Central Nervous System Depressants</Synonym>
+<Synonym>CNS Depressants</Synonym>
+<Description>A very loosely defined group of drugs that tend to reduce the activity of the central nervous system. The major groups included here are ethyl alcohol, anesthetics, hypnotics and sedatives, narcotics, and tranquilizing agents (antipsychotics and antianxiety agents).</Description>
+<Source>MeSH</Source>
+</Record>

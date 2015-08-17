@@ -1,0 +1,19 @@
+<Record>
+<Term>Leukocyte Adhesion Deficiency Type 2</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leukocyte Adhesion Deficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Disorder of Natural Immunity/Leukocyte Adhesion Deficiency/Leukocyte Adhesion Deficiency Type 2</ClassificationPath>
+<BroaderTerm>Leukocyte Adhesion Deficiency</BroaderTerm>
+<BroaderTerm>Leukocyte Adhesion Deficiency Type 2</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital Disorder of Natural Immunity</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>LAD-Type II</Synonym>
+<Synonym>Leukocyte Adhesion Deficiency Type 2</Synonym>
+<Synonym>Sialyl-Lewis X Defect</Synonym>
+<Description>Leukocyte Adhesion Deficiency, Type II.  An inherited disease affecting the metabolism of fucose, which affects the expression of the sialyl Lewis X antigen, the fucose-containing ligand for E- and P-selectins, resulting in a deficiency in neutrophil adhesion.  SYN Sialyl-Lewis X defect.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

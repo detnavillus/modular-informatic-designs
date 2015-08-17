@@ -1,0 +1,20 @@
+<Record>
+<Term>Testicular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ParentTerm>Gonadal Disorders</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Testicular Diseases</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Testicular Diseases</ClassificationPath>
+<BroaderTerm>Testicular Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<ChildTerm>Orchitis</ChildTerm>
+<ChildTerm>Testicular Neoplasms</ChildTerm>
+<ChildTerm>Cryptorchidism</ChildTerm>
+<Synonym>Testicular Diseases</Synonym>
+<Synonym>Testicular Disease</Synonym>
+<Description>Pathological processes of the TESTIS.</Description>
+<Source>MeSH</Source>
+</Record>

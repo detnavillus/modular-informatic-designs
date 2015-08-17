@@ -1,0 +1,18 @@
+<Record>
+<Term>Dental Disinfectants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Disinfectants</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Disinfectants/Dental Disinfectants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Disinfectants/Dental Disinfectants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Disinfectants</BroaderTerm>
+<BroaderTerm>Dental Disinfectants</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Root Canal Irrigants</ChildTerm>
+<Synonym>Dental Disinfectants</Synonym>
+<Description>Chemicals especially for use on instruments to destroy pathogenic organisms. (Boucher, Clinical Dental Terminology, 4th ed)</Description>
+<Source>MeSH</Source>
+</Record>

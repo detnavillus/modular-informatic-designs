@@ -1,0 +1,19 @@
+<Record>
+<Term>Legionnaires' Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Legionellosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Legionellosis/Legionnaires' Disease</ClassificationPath>
+<BroaderTerm>Legionellosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Legionnaires' Disease</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Legionnaires' Disease</Synonym>
+<Synonym>Legionnaire's Disease</Synonym>
+<Synonym>Legionnaires Disease</Synonym>
+<Synonym>Legionella pneumophila Infections</Synonym>
+<Synonym>Legionella pneumophila Infection</Synonym>
+<Synonym>Legionnaire Disease</Synonym>
+<Description>An acute, sometimes fatal, pneumonia-like bacterial infection characterized by high fever, malaise, muscle aches, respiratory disorders and headache. It is named for an outbreak at the 1976 Philadelphia convention of the American Legion.</Description>
+<Source>MeSH</Source>
+</Record>

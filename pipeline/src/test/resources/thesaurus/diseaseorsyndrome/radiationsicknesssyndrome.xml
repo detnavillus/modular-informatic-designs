@@ -1,0 +1,20 @@
+<Record>
+<Term>Radiation Sickness Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Radiation-Related Disorder/Radiation-Related Non-Neoplastic Disorder/Radiation Sickness Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Radiation Sickness Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Radiation-Related Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Radiation-Related Disorder</BroaderTerm>
+<BroaderTerm>Radiation Sickness Syndrome</BroaderTerm>
+<BroaderTerm>Radiation Sickness Syndrome,</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Radiation Sickness Syndrome</Synonym>
+<Synonym>Sickness syndrome, radiation</Synonym>
+<Synonym>Syndrome, radiation sickness</Synonym>
+<Description>The complex of symptoms characterizing the disease known as radiation injury, resulting from excessive exposure (greater than 200 rads or 2 gray) of the whole body (or large part) to ionizing radiation. The earliest of these symptoms are nausea, fatigue, vomiting, and diarrhea, which may be followed by epilation, hemorrhage, inflammation of the mouth and throat, and general loss of energy. In severe cases, where the radiation exposure has been approximately 1000 Rad (10 gray) or more, death may occur within two to four weeks. Those who survive six weeks after the receipt of a single large dose of radiation to the whole body may generally be expected to recover. (U.S. Nuclear Regulatory Commission).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

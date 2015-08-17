@@ -1,0 +1,28 @@
+<Record>
+<Term>Pyogenic Granuloma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Granuloma</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Granuloma/Granuloma, Pyogenic</ClassificationPath>
+<ClassificationPath>Lobular Hemangioma</ClassificationPath>
+<BroaderTerm>Granuloma, Pyogenic</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Granuloma</BroaderTerm>
+<BroaderTerm>Lobular Hemangioma</BroaderTerm>
+<Synonym>Angiogranuloma</Synonym>
+<Synonym>Granulation Tissue-Type Hemangioma</Synonym>
+<Synonym>Granuloma Pyogenicum</Synonym>
+<Synonym>Lobular Hemangioma</Synonym>
+<Synonym>Granulomata Pyogenicum</Synonym>
+<Synonym>Lobular Capillary Hemangioma</Synonym>
+<Synonym>Hemangiomatous Granulation Tissue</Synonym>
+<Synonym>Granuloma Telangiecticum</Synonym>
+<Synonym>Pyogenic Granuloma</Synonym>
+<Synonym>Angiogranulomas</Synonym>
+<Description>A capillary hemangioma characterized by the presence of a lobular growth pattern.</Description>
+<Description>A disorder of the skin, the oral mucosa, and the gingiva, that usually presents as a solitary polypoid capillary hemangioma often resulting from trauma.  It is manifested as an inflammatory response with similar characteristics to those of a granuloma.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

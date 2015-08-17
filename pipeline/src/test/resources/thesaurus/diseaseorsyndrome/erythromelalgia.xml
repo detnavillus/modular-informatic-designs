@@ -1,0 +1,26 @@
+<Record>
+<Term>Erythromelalgia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Integumentary System Signs and Symptoms</ParentTerm>
+<ParentTerm>Peripheral Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Erythromelalgia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Integumentary System Signs and Symptoms/Erythromelalgia</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Integumentary System Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Erythromelalgia</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Erythermalgia</Synonym>
+<Synonym>Erythermalgias</Synonym>
+<Synonym>Erythromelalgia</Synonym>
+<Synonym>Erythromelalgias</Synonym>
+<Description>A peripheral arterial disease that is characterized by the triad of ERYTHEMA, burning PAIN, and increased SKIN TEMPERATURE of the extremities (or red, painful extremities). Erythromelalgia may be classified as primary or idiopathic, familial or non-familial. Secondary erythromelalgia is associated with other diseases, the most common being MYELOPROLIFERATIVE DISORDERS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

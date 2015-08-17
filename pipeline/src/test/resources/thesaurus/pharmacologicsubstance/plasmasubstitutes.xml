@@ -1,0 +1,17 @@
+<Record>
+<Term>Plasma Substitutes</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Blood Substitutes</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Blood Substitutes/Plasma Substitutes</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Plasma Substitutes</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Blood Substitutes</BroaderTerm>
+<Synonym>Plasma Substitutes</Synonym>
+<Synonym>Plasma Volume Expanders</Synonym>
+<Synonym>Blood Expanders</Synonym>
+<Description>Any liquid used to replace blood plasma, usually a saline solution, often with serum albumins, dextrans or other preparations. These substances do not enhance the oxygen- carrying capacity of blood, but merely replace the volume. They are also used to treat dehydration.</Description>
+<Source>MeSH</Source>
+</Record>

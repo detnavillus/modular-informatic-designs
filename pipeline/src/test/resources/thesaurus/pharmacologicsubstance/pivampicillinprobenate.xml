@@ -1,0 +1,17 @@
+<Record>
+<Term>Pivampicillin Probenate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Penicillin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Penicillin Antibiotic/Pivampicillin Probenate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Penicillin Antibiotic</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Pivampicillin Probenate</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PIVAMPICILLIN PROBENATE</Synonym>
+<Synonym>Pivampicillin Probenate</Synonym>
+<Description>The probenate salt form of pivampicillin, a semisynthetic, orally active pivalate ester of ampenicillin with antibacterial activity. Upon absorption, pivampicillin is hydrolyzed into its active form ampicillin by esterases. Ampicillin binds to and inactivates penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and eventually causing cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

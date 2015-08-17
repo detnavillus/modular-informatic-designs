@@ -1,0 +1,17 @@
+<Record>
+<Term>Gadobutrol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Gadobutrol</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Gadobutrol</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Gadobutrol</Synonym>
+<Synonym>Gadovist</Synonym>
+<Description>A gadolinium-based, hydrophilic, macrocyclic, electrically neutral contrast agent used in contrast-enhanced MRI (CE-MRI). Gadobutrol is a non-ionic, paramagnetic complex consisting of gadolinium (Gd3+) chelated with the macrocyclic compound dihydroxy-hydroxymethylpropyl-tetraazacyclododecane-triacetic acid (butrol). Following intravenous administration, gadobutrol may increase MRI sensitivity for the detection of tumors and inflammatory and demyelinating diseases of the central nervous system (CNS) that are associated with areas with blood-brain barrier defects due to altered perfusion or an enlarged extracellular space. This agent is eliminated in an unchanged form via the kidneys; extra-renal elimination is negligible.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

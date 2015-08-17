@@ -1,0 +1,28 @@
+<Record>
+<Term>3,4-Dinitroflavone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Steroid Hormone</ParentTerm>
+<ParentTerm>Flavonoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Polyphenol/Flavonoid/3,4-Dinitroflavone</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Steroid Compound/Steroid Hormone/Cyclopamine</ClassificationPath>
+<BroaderTerm>Polyphenol</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Cyclopamine</BroaderTerm>
+<BroaderTerm>Steroid Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>3,4-Dinitroflavone</BroaderTerm>
+<BroaderTerm>Steroid Hormone</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Flavonoid</BroaderTerm>
+<Synonym>(2'R,3S,3'R,3'aS,6'S,6aS,6bS,7'aR,11aS,11bR)-1,2,3,3'a,4,4',5',6,6',6a,6b,7,7',7'a,8,11,11a,11b-Octadecahydro-3',6',10,11b-tetramethylspiro[9H-benzo[a]fluorene-9,2'(3'H)-furo[3,2-b]pyridin]-3-ol</Synonym>
+<Synonym>3-Nitro-2-(4-nitrophenyl)-4H-1-benzopyran-4-one</Synonym>
+<Synonym>Cyclopamine</Synonym>
+<Synonym>R8122</Synonym>
+<Synonym>3,4-Dinitroflavone</Synonym>
+<Synonym>11-Deoxyjervine</Synonym>
+<Synonym>3,4'-Dinitroflavone</Synonym>
+<Synonym>4'-Nitro-3-Nitroflavone</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

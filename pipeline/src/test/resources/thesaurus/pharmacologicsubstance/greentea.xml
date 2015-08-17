@@ -1,0 +1,13 @@
+<Record>
+<Term>Green Tea</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Green Tea</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Green Tea</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Green Tea</Synonym>
+<Description>Tea derived from the dried leaves of the plant Camellia sinensis with potential antioxidant, chemopreventive, and lipid-lowering activities. Green tea contains polyphenols that are believed to be responsible for its chemopreventive effect. The polyphenol fraction contains mainly Epigallocatechin-3-gallate (EGCG) and other catechins, such as epicatechin (EC), gallocatechin gallate (GCG), epigallocatechin (EGC), and epicatechin gallate (ECG). Green tea polyphenols act as antioxidants and free radical scavengers and may affect enzymes involved in cellular replication and tumor angiogenesis by modulating angiogenic factors, such as vascular endothelial growth factor (VEGF).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

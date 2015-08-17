@@ -1,0 +1,19 @@
+<Record>
+<Term>Alcoholic Pancreatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pancreatitis</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Pancreatitis/Pancreatitis, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Pancreatitis, Alcoholic</ClassificationPath>
+<BroaderTerm>Pancreatitis</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Pancreatitis, Alcoholic</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<Synonym>Alcoholic Pancreatitis</Synonym>
+<Description>Acute or chronic INFLAMMATION of the PANCREAS due to excessive ALCOHOL DRINKING. Alcoholic pancreatitis usually presents as an acute episode but it is a chronic progressive disease in alcoholics.</Description>
+<Source>MeSH</Source>
+</Record>

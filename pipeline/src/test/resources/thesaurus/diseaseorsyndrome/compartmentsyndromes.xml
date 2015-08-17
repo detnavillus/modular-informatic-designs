@@ -1,0 +1,19 @@
+<Record>
+<Term>Compartment Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Compartment Syndromes</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Compartment Syndromes</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Compartment Syndromes</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Anterior Compartment Syndrome</ChildTerm>
+<ChildTerm>Ischemic Contracture</ChildTerm>
+<Synonym>Compartment Syndromes</Synonym>
+<Synonym>Compartment Syndrome</Synonym>
+<Description>Conditions in which increased pressure within a limited space compromises the BLOOD CIRCULATION and function of tissue within that space. Some of the causes of increased pressure are TRAUMA, tight dressings, HEMORRHAGE, and exercise. Sequelae include nerve compression (NERVE COMPRESSION SYNDROMES); PARALYSIS; and ISCHEMIC CONTRACTURE.</Description>
+<Source>MeSH</Source>
+</Record>

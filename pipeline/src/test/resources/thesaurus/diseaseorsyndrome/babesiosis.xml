@@ -1,0 +1,27 @@
+<Record>
+<Term>Babesiosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases, Animal</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Protozoan Infections, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Babesiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Tick-Borne Diseases/Babesiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Babesiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal/Babesiosis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Babesiosis</ClassificationPath>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Babesiosis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Piroplasmosis</Synonym>
+<Synonym>Babesiases</Synonym>
+<Synonym>Babesiasis</Synonym>
+<Synonym>Babesiosis</Synonym>
+<Synonym>Piroplasmoses</Synonym>
+<Synonym>Babesioses</Synonym>
+<Description>A group of tick-borne diseases of mammals including ZOONOSES in humans. They are caused by protozoa of the genus BABESIA, which parasitize erythrocytes, producing hemolysis. In the U.S., the organism's natural host is mice and transmission is by the deer tick IXODES SCAPULARIS.</Description>
+<Source>MeSH</Source>
+</Record>

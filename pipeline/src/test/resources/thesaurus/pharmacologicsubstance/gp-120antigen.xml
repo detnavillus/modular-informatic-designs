@@ -1,0 +1,17 @@
+<Record>
+<Term>gp-120 Antigen</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Antigen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antigen/Vaccine Antigen/gp-120 Antigen</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antigen</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Antigen</BroaderTerm>
+<BroaderTerm>gp-120 Antigen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>gp-120</Synonym>
+<Synonym>gp-120 Antigen</Synonym>
+<Description>A recombinant HIV gp120 envelope protein with potential use in HIV vaccine therapy. Gp-120 antigen is used to elicit a gp120-specific T-cell response. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Adrenergic Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adrenergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Agonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Adrenergic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Adrenergic Agonists</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<ChildTerm>Adrenergic alpha-Agonists</ChildTerm>
+<ChildTerm>Adrenergic beta-Agonists</ChildTerm>
+<Synonym>Adrenergic Receptor Agonists</Synonym>
+<Synonym>Adrenergic Agonist</Synonym>
+<Synonym>Adrenergic Receptor Agonist</Synonym>
+<Synonym>Adrenergic Agonists</Synonym>
+<Synonym>Adrenomimetics</Synonym>
+<Description>Drugs that bind to and activate adrenergic receptors.</Description>
+<Source>MeSH</Source>
+</Record>

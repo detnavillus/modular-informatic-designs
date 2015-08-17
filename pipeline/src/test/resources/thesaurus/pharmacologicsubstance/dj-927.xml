@@ -1,0 +1,24 @@
+<Record>
+<Term>DJ-927</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Taxane Compound/DJ-927,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/DJ-927</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>DJ-927,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>DJ-927</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Taxane Compound</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DJ-927</Synonym>
+<Description>A semi-synthetic, orally bioavailable taxane derivative with potential antineoplastic properties. Oral taxane derivative DJ-927 binds to tubulin, promoting microtubule assembly and stabilization and preventing microtubule depolymerization, thereby inhibiting cell proliferation. As it represents poor substrate for P-glycoprotein-related drug resistance mechanisms, this agent may be useful for treating multi-drug resistant tumors. As the first oral taxane derivative, oral taxane derivative DJ-927 is more potent than paclitaxel and docetaxel.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

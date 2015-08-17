@@ -1,0 +1,17 @@
+<Record>
+<Term>Scleritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Scleral Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Scleral Diseases/Scleritis</ClassificationPath>
+<BroaderTerm>Scleral Diseases</BroaderTerm>
+<BroaderTerm>Scleritis</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Scleritis</Synonym>
+<Synonym>Scleritides</Synonym>
+<Synonym>Necrotizing Scleritis</Synonym>
+<Synonym>Necrotizing Scleritides</Synonym>
+<Synonym>Episcleritis</Synonym>
+<Synonym>Episcleritides</Synonym>
+<Description>Refers to any inflammation of the sclera including episcleritis, a benign condition affecting only the episclera, which is generally short-lived and easily treated. Classic scleritis, on the other hand, affects deeper tissue and is characterized by higher rates of visual acuity loss and even mortality, particularly in necrotizing form. Its characteristic symptom is severe and general head pain. Scleritis has also been associated with systemic collagen disease. Etiology is unknown but is thought to involve a local immune response. Treatment is difficult and includes administration of anti-inflammatory and immunosuppressive agents such as corticosteroids. Inflammation of the sclera may also be secondary to inflammation of adjacent tissues, such as the conjunctiva.</Description>
+<Source>MeSH</Source>
+</Record>

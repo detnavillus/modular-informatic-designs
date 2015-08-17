@@ -1,0 +1,38 @@
+<Record>
+<Term>Diabetic Ketoacidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Acidosis</ParentTerm>
+<ParentTerm>Diabetes Complications</ParentTerm>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Diabetic Ketoacidosis</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Ketoacidosis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Acid-Base Imbalance/Acidosis/Diabetic Ketoacidosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Acidosis/Diabetic Ketoacidosis</ClassificationPath>
+<BroaderTerm>Acidosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Diabetic Ketoacidosis</BroaderTerm>
+<BroaderTerm>Acid-Base Imbalance</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>Diabetic Acidosis</Synonym>
+<Synonym>Diabetic Ketoacidoses</Synonym>
+<Synonym>Diabetic Ketoacidosis</Synonym>
+<Synonym>Diabetic Ketoses</Synonym>
+<Synonym>Diabetic Acidoses</Synonym>
+<Synonym>Ketoacidosis, diabetic</Synonym>
+<Synonym>Diabetic Ketosis</Synonym>
+<Description>The metabolic condition resulted from uncontrolled diabetes mellitus, in which the shift of acid-base status of the body toward the acid side because of loss of base or retention of acids other than carbonic acid is accompanied by the accumulation of ketone bodies in body tissues and fluids.</Description>
+<Description>A life-threatening complication of diabetes mellitus, primarily of TYPE 1 DIABETES MELLITUS with severe INSULIN deficiency and extreme HYPERGLYCEMIA. It is characterized by excessive LIPOLYSIS, oxidation of FATTY ACIDS, production of KETONE BODIES, a sweet smell to the breath (KETOSIS;) DEHYDRATION; and depressed consciousness leading to COMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

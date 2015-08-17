@@ -1,0 +1,26 @@
+<Record>
+<Term>Hypobetalipoproteinemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypolipoproteinemias</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypobetalipoproteinemias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypobetalipoproteinemias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hypolipoproteinemias/Hypobetalipoproteinemias</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypolipoproteinemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<BroaderTerm>Hypobetalipoproteinemias</BroaderTerm>
+<ChildTerm>Abetalipoproteinemia</ChildTerm>
+<ChildTerm>Hypobetalipoproteinemia, Familial, Apolipoprotein B</ChildTerm>
+<Synonym>Hypobetalipoproteinemia</Synonym>
+<Synonym>Hypo beta Lipoproteinemias</Synonym>
+<Synonym>Hypo beta Lipoproteinemia</Synonym>
+<Synonym>Hypobetalipoproteinemias</Synonym>
+<Description>Conditions with abnormally low levels of BETA-LIPOPROTEINS (low density lipoproteins or LDL) in the blood. It is defined as LDL values equal to or less than the 5th percentile for the population. They include the autosomal dominant form involving mutation of the APOLIPOPROTEINS B gene, and the autosomal recessive form involving mutation of the microsomal triglyceride transfer protein.  All are characterized by low LDL and dietary fat malabsorption.</Description>
+<Source>MeSH</Source>
+</Record>

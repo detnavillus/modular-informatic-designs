@@ -1,0 +1,33 @@
+<Record>
+<Term>Tooth Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatognathic Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Bruxism</ChildTerm>
+<ChildTerm>Tooth Injuries</ChildTerm>
+<ChildTerm>Tooth Abnormalities</ChildTerm>
+<ChildTerm>Dental Deposits</ChildTerm>
+<ChildTerm>Tooth Demineralization</ChildTerm>
+<ChildTerm>Dental Leakage</ChildTerm>
+<ChildTerm>Malocclusion</ChildTerm>
+<ChildTerm>Dental Pulp Diseases</ChildTerm>
+<ChildTerm>Dentin Sensitivity</ChildTerm>
+<ChildTerm>Tooth Resorption</ChildTerm>
+<ChildTerm>Tooth Wear</ChildTerm>
+<ChildTerm>Tooth Discoloration</ChildTerm>
+<ChildTerm>Tooth Eruption, Ectopic</ChildTerm>
+<ChildTerm>Tooth, Impacted</ChildTerm>
+<ChildTerm>Tooth, Unerupted</ChildTerm>
+<ChildTerm>Toothache</ChildTerm>
+<ChildTerm>Tooth Loss</ChildTerm>
+<ChildTerm>Tooth Ankylosis</ChildTerm>
+<ChildTerm>Focal Infection, Dental</ChildTerm>
+<ChildTerm>Hypercementosis</ChildTerm>
+<ChildTerm>Mouth, Edentulous</ChildTerm>
+<ChildTerm>Fluorosis, Dental</ChildTerm>
+<Synonym>Tooth Diseases</Synonym>
+<Synonym>Tooth Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

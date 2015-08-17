@@ -1,0 +1,23 @@
+<Record>
+<Term>Artemisinin Dimer</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Terpene Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Antimalarial Agent/Artemisinin Dimer,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Artemisinin Dimer</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Artemisinin Dimer,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agent</BroaderTerm>
+<BroaderTerm>Antimalarial Agent</BroaderTerm>
+<BroaderTerm>Artemisinin Dimer</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Artemisinin Dimer</Synonym>
+<Description>A sesquiterpene lactone peroxide and dimerized plant product derived from Artemisia annua L with anti-malarial, anti-proliferative and anti-angiogenic effects. Artemisinin contains an endoperoxide moiety which forms free radicals when it reacts with iron. The resultant carbon-based radical can lead to cellular damage and cell death by reacting with cellular macromolecules such as proteins and membrane lipids. Malaria parasites contain large amounts of heme-iron, a product from the digestion of hemoglobin. However, recently it has been suggested that activation of artemisinin inside the parasite is by ferrous iron. Furthermore, due to their rapid rate of division, cancer cells require and uptake a large amount of iron to proliferate, therefore they are more susceptible to the cytotoxic effect of artemisinin than non-cancerous cells. The dimer configuration has been shown to increase compound stability and reduce general toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

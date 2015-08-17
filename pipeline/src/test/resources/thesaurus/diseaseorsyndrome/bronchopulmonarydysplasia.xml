@@ -1,0 +1,19 @@
+<Record>
+<Term>Bronchopulmonary Dysplasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ventilator-Induced Lung Injury</ParentTerm>
+<ParentTerm>Infant, Premature, Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Injury/Ventilator-Induced Lung Injury/Bronchopulmonary Dysplasia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Infant, Premature, Diseases/Bronchopulmonary Dysplasia</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lung Injury</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Ventilator-Induced Lung Injury</BroaderTerm>
+<BroaderTerm>Bronchopulmonary Dysplasia</BroaderTerm>
+<BroaderTerm>Infant, Premature, Diseases</BroaderTerm>
+<Synonym>Bronchopulmonary Dysplasia</Synonym>
+<Description>A chronic lung disease developed after OXYGEN INHALATION THERAPY or mechanical ventilation (VENTILATION, MECHANICAL) usually occurring in certain premature infants (INFANT, PREMATURE) or newborn infants with respiratory distress syndrome (RESPIRATORY DISTRESS SYNDROME, NEWBORN). Histologically, it is characterized by the unusual abnormalities of the bronchioles, such as METAPLASIA, decrease in alveolar number, and formation of CYSTS.</Description>
+<Source>MeSH</Source>
+</Record>

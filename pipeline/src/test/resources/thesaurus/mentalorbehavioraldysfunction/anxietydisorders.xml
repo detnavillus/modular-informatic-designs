@@ -1,0 +1,21 @@
+<Record>
+<Term>Anxiety Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Anxiety Disorders</ClassificationPath>
+<BroaderTerm>Anxiety Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Stress Disorders, Traumatic</ChildTerm>
+<ChildTerm>Agoraphobia</ChildTerm>
+<ChildTerm>Phobic Disorders</ChildTerm>
+<ChildTerm>Panic Disorder</ChildTerm>
+<ChildTerm>Neurocirculatory Asthenia</ChildTerm>
+<ChildTerm>Obsessive-Compulsive Disorder</ChildTerm>
+<Synonym>Anxiety Disorders</Synonym>
+<Synonym>Anxiety Disorder</Synonym>
+<Synonym>Anxiety Neuroses</Synonym>
+<Synonym>Neurotic Anxiety State</Synonym>
+<Synonym>Neurotic Anxiety States</Synonym>
+<Description>Persistent and disabling ANXIETY.</Description>
+<Source>MeSH</Source>
+</Record>

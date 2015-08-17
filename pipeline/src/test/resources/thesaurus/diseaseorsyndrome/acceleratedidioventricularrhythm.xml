@@ -1,0 +1,38 @@
+<Record>
+<Term>Accelerated Idioventricular Rhythm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ventricular Arrhythmia</ParentTerm>
+<ParentTerm>Tachycardia, Ventricular</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Ventricular/Accelerated Idioventricular Rhythm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Ventricular/Accelerated Idioventricular Rhythm</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia/Accelerated Idioventricular Rhythm</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Tachycardia, Ventricular</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Accelerated Idioventricular Rhythm</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Accelerated Idioventricular Rhythms</Synonym>
+<Synonym>Accelerated Idioventricular Rhythm</Synonym>
+<Synonym>ACCELERATED IDIOVENTRICULAR RHYTHM</Synonym>
+<Synonym>AIVR</Synonym>
+<Synonym>Slow Ventricular Tachycardias</Synonym>
+<Synonym>Slow Ventricular Tachycardia</Synonym>
+<Synonym>Accelerated idioventricular rhythm</Synonym>
+<Description>The term accelerated idioventricular rhythm describes an ectopic ventricular rhythm with 3 or more consecutive ventricular premature beats with a rate faster than the normal ventricular intrinsic escape rate of 30 to 40 beats per minute, but slower than ventricular tachycardia. Accelerated idioventricular rhythm differs from ventricular tachycardia by additional features such as the onset with a long coupling interval and the end by a gradual decrease of the ventricular rate or increase of the sinus rate.</Description>
+<Description>A type of automatic, not reentrant, ectopic ventricular rhythm with episodes lasting from a few seconds to a minute which usually occurs in patients with acute myocardial infarction or with DIGITALIS toxicity. The ventricular rate is faster than normal but slower than tachycardia, with an upper limit of 100 -120 beats per minute. Suppressive therapy is rarely necessary.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

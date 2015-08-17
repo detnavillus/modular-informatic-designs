@@ -1,0 +1,20 @@
+<Record>
+<Term>L-Selenomethionine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Selenomethionine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Organoselenium Compound/Selenomethionine/L-Selenomethionine</ClassificationPath>
+<BroaderTerm>L-Selenomethionine</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Selenomethionine</BroaderTerm>
+<BroaderTerm>Organoselenium Compound</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(S)-2-Amino-4-(methylseleno)butanoic Acid</Synonym>
+<Synonym>L-Selenomethionine</Synonym>
+<Synonym>SeMet</Synonym>
+<Synonym>Seleno-l-methionine</Synonym>
+<Synonym>Selenomethionine-L</Synonym>
+<Description>The amino acid methionine with selenium substituting for the sulphur moiety.  Methionine is an essential amino acid in humans, whereas selenium is a free-radical scavenging anti-oxidant, essential for the protection of various tissues from the damages of lipid peroxidation.  As a trace mineral that is toxic in high doses, selenium is a cofactor for glutathione peroxidase, an anti-oxidant enzyme that neutralizes hydrogen peroxide.  L-Selenomethionine is considered a safe, efficacious form of selenium and is readily bioavailable.  Selenium may be chemoprotective for certain cancers, particularly prostate cancer. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

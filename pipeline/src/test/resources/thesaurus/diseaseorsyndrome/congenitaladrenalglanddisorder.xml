@@ -1,0 +1,24 @@
+<Record>
+<Term>Congenital Adrenal Gland Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Endocrine Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Congenital Adrenal Gland Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Retroperitoneal Disorder/Non-Neoplastic Retroperitoneal Disorder/Non-Neoplastic Adrenal Gland Disorder/Congenital Adrenal Gland Disorder</ClassificationPath>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Congenital Adrenal Gland Disorder,</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Congenital Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Adrenal Gland Disorder</BroaderTerm>
+<ChildTerm>Congenital Adrenal Gland Hypoplasia</ChildTerm>
+<ChildTerm>Congenital Adrenal Gland Hyperplasia</ChildTerm>
+<Synonym>Congenital Adrenal Gland Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

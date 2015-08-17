@@ -1,0 +1,20 @@
+<Record>
+<Term>Atypical Mycobacterium Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycobacterium Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Mycobacterium Infections, Atypical</ClassificationPath>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections, Atypical</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Mycobacterium avium-intracellulare Infection</ChildTerm>
+<ChildTerm>Buruli Ulcer</ChildTerm>
+<Synonym>Tuberculoid Infections</Synonym>
+<Synonym>Tuberculoid Infection</Synonym>
+<Synonym>Atypical Mycobacterium Infections</Synonym>
+<Synonym>Atypical Mycobacterium Infection</Synonym>
+<Description>Infections with so called atypical mycobacteria (tuberculoid bacilli): M. kansasii, M. marinum, M. scrofulaceum, M. flavescens, M. gordonae, M. obuense, M. gilvum, M. duvali, M. szulgai, M. intracellulare (see MYCOBACTERIUM AVIUM COMPLEX;), M. xenopi (littorale), M. ulcerans, M. buruli, M. terrae, M. fortuitum (minetti, giae), M. chelonae.</Description>
+<Source>MeSH</Source>
+</Record>

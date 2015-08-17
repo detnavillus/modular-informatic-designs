@@ -1,0 +1,17 @@
+<Record>
+<Term>Gout Suppressants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antirheumatic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antirheumatic Agents/Gout Suppressants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antirheumatic Agents</BroaderTerm>
+<BroaderTerm>Gout Suppressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Uricosuric Agents</ChildTerm>
+<Synonym>Gout Suppressants</Synonym>
+<Synonym>Antigout Agents</Synonym>
+<Synonym>Antihyperuricemics</Synonym>
+<Description>Agents that increase uric acid excretion by the kidney (URICOSURIC AGENTS), decrease uric acid production (antihyperuricemics), or alleviate the pain and inflammation of acute attacks of gout.</Description>
+<Source>MeSH</Source>
+</Record>

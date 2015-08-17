@@ -1,0 +1,27 @@
+<Record>
+<Term>Recombinant Pleiotrophin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Heparin-Binding Neurotrophic Factor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Growth Factor/Recombinant Heparin-Binding Neurotrophic Factor/Recombinant Pleiotrophin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Pleiotrophin</BroaderTerm>
+<BroaderTerm>Recombinant Heparin-Binding Neurotrophic Factor</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Growth Factor</BroaderTerm>
+<Synonym>HARP</Synonym>
+<Synonym>HBGF-8</Synonym>
+<Synonym>HBNF</Synonym>
+<Synonym>Heparin Affin Regulatory Peptide</Synonym>
+<Synonym>Heparin-Binding Growth Factor-8</Synonym>
+<Synonym>Heparin-Binding Neurotrophic Factor</Synonym>
+<Synonym>OSF-1</Synonym>
+<Synonym>Osteoblast Specific Factor 1</Synonym>
+<Synonym>Pleiotrophin</Synonym>
+<Synonym>Recombinant Heparin-Binding Neurotrophic Factor</Synonym>
+<Synonym>Recombinant Pleiotrophin</Synonym>
+<Description>A recombinant form of the heparin-binding cytokine pleiotrophin.  Developmentally regulated, pleiotrophin functions as a growth factor during embryogenesis and the neonatal period, contributing to trophoblast formation, organ development, bone formation, and early brain development by inducing the differentiation and proliferation of neuronal tissue.  Expressed in certain tumor cell types, this agent may stimulate tumor cell growth, angiogenesis, and metastasis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

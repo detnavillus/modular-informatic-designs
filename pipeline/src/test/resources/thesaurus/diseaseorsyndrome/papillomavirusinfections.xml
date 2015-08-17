@@ -1,0 +1,17 @@
+<Record>
+<Term>Papillomavirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>DNA Virus Infections</ParentTerm>
+<ParentTerm>Tumor Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Papillomavirus Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/Tumor Virus Infections/Papillomavirus Infections</ClassificationPath>
+<BroaderTerm>Papillomavirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Tumor Virus Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<ChildTerm>Warts</ChildTerm>
+<Synonym>Papillomavirus Infection</Synonym>
+<Synonym>Papillomavirus Infections</Synonym>
+<Description>Neoplasms of the skin and mucous membranes caused by papillomaviruses. They are usually benign but some have a high risk for malignant progression.</Description>
+<Source>MeSH</Source>
+</Record>

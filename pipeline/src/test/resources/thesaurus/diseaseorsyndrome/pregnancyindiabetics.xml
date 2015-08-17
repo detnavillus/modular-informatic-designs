@@ -1,0 +1,16 @@
+<Record>
+<Term>Pregnancy in Diabetics</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy in Diabetics</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pregnancy in Diabetics</BroaderTerm>
+<ChildTerm>Fetal Macrosomia</ChildTerm>
+<Synonym>Pregnancy in Diabetics</Synonym>
+<Synonym>Pregnancy in Diabetic</Synonym>
+<Synonym>Pregnancy in Diabetes</Synonym>
+<Synonym>Pregnancy in Diabete</Synonym>
+<Description>The state of PREGNANCY in women with DIABETES MELLITUS. This does not include either symptomatic diabetes or GLUCOSE INTOLERANCE induced by pregnancy (DIABETES, GESTATIONAL) which resolves at the end of pregnancy.</Description>
+<Source>MeSH</Source>
+</Record>

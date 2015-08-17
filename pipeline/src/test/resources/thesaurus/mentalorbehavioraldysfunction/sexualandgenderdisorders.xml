@@ -1,0 +1,13 @@
+<Record>
+<Term>Sexual and Gender Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Sexual and Gender Disorders</ClassificationPath>
+<BroaderTerm>Sexual and Gender Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Sexual Dysfunctions, Psychological</ChildTerm>
+<ChildTerm>Sex Differentiation Disorders</ChildTerm>
+<Synonym>Sexual and Gender Disorders</Synonym>
+<Description>Mental disorders related to sexual dysfunction, paraphilias, and gender identity disorders.</Description>
+<Source>MeSH</Source>
+</Record>

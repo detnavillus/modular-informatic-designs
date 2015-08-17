@@ -1,0 +1,23 @@
+<Record>
+<Term>Gingival Recession</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gingival Diseases</ParentTerm>
+<ParentTerm>Periodontal Atrophy</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontal Atrophy/Gingival Recession</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Gingival Diseases/Gingival Recession</ClassificationPath>
+<BroaderTerm>Gingival Recession</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Gingival Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Atrophy</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Gingiva Atrophy</Synonym>
+<Synonym>Gingival Recession</Synonym>
+<Synonym>Gingival Recessions</Synonym>
+<Synonym>Gingiva Atrophies</Synonym>
+<Synonym>Atrophy of Gingiva</Synonym>
+<Synonym>Gingival Atrophies</Synonym>
+<Synonym>Gingival Atrophy</Synonym>
+<Description>Exposure of the root surface when the edge of the gum (GINGIVA) moves apically away from the crown of the tooth. This is common with advancing age, vigorous tooth brushing, diseases, or tissue loss of the gingiva, the PERIODONTAL LIGAMENT and the supporting bone (ALVEOLAR PROCESS).</Description>
+<Source>MeSH</Source>
+</Record>

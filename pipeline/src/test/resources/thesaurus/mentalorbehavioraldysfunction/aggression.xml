@@ -1,0 +1,20 @@
+<Record>
+<Term>Aggression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Social Behavior</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Social Behavior</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Aggression</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Social Behavior/Aggression</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Aggression</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Social Behavior</BroaderTerm>
+<ChildTerm>Agonistic Behavior</ChildTerm>
+<Synonym>Aggression</Synonym>
+<Synonym>Aggressions</Synonym>
+<Description>A form of behavior which leads to self-assertion; it may arise from innate drives and/or a response to frustration; may be manifested by destructive and attacking behavior, by covert attitudes of hostility and obstructionism, or by healthy self-expressive drive to mastery. (Dorland 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

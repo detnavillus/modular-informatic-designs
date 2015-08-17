@@ -1,0 +1,34 @@
+<Record>
+<Term>St. Louis Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Arbovirus</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalitis, Arbovirus/Encephalitis, St. Louis</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Encephalitis, St. Louis</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Arbovirus</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<Synonym>St. Louis Viral Encephalitis</Synonym>
+<Synonym>Saint Louis Encephalitis</Synonym>
+<Synonym>St. Louis Meningoencephalitides</Synonym>
+<Synonym>St. Louis Encephalitis</Synonym>
+<Synonym>Type C Lethargic Encephalitis</Synonym>
+<Synonym>St. Louis Meningoencephalitis</Synonym>
+<Description>A viral encephalitis caused by the St. Louis encephalitis virus (ENCEPHALITIS VIRUS, ST. LOUIS), a FLAVIVIRUS. It is transmitted to humans and other vertebrates primarily by mosquitoes of the genus CULEX. The primary animal vectors are wild birds and the disorder is endemic to the midwestern and southeastern United States. Infections may be limited to an influenza-like illness or present as an ASEPTIC MENINGITIS or ENCEPHALITIS. Clinical manifestations of the encephalitic presentation may include SEIZURES, lethargy, MYOCLONUS, focal neurologic signs, COMA, and DEATH. (From Adams et al., Principles of Neurology, 6th ed, p750)</Description>
+<Source>MeSH</Source>
+</Record>

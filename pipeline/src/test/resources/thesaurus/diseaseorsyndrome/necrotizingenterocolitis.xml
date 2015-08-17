@@ -1,0 +1,16 @@
+<Record>
+<Term>Necrotizing Enterocolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterocolitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enterocolitis/Enterocolitis, Necrotizing</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enterocolitis/Enterocolitis, Necrotizing</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Enterocolitis, Necrotizing</BroaderTerm>
+<BroaderTerm>Enterocolitis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Necrotizing Enterocolitis</Synonym>
+<Description>ENTEROCOLITIS with extensive ulceration (ULCER) and NECROSIS. It is observed primarily in LOW BIRTH WEIGHT INFANT.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Acquired Coagulation Factor Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Factor Deficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Coagulation Factor Deficiency/Acquired Coagulation Factor Deficiency</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Factor Deficiency</BroaderTerm>
+<BroaderTerm>Acquired Coagulation Factor Deficiency</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Acquired Factor IX Deficiency</ChildTerm>
+<ChildTerm>Acquired Factor VIII Deficiency</ChildTerm>
+<Synonym>Acquired Coagulation Factor Deficiency</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

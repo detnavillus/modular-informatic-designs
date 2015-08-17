@@ -1,0 +1,44 @@
+<Record>
+<Term>Hypertrophic Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ParentTerm>Aortic Stenosis, Subvalvular</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Hypertrophic Cardiomyopathy</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Cardiomyopathy, Hypertrophic</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Aortic Valve Stenosis/Aortic Stenosis, Subvalvular/Cardiomyopathy, Hypertrophic</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Hypertrophic Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Hypertrophic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Aortic Valve Stenosis</BroaderTerm>
+<BroaderTerm>Aortic Stenosis, Subvalvular</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<ChildTerm>Cardiomyopathy, Hypertrophic, Familial</ChildTerm>
+<Synonym>IHSS</Synonym>
+<Synonym>Asymmetric Septal Hypertrophies</Synonym>
+<Synonym>Hypertrophic Cardiomyopathy</Synonym>
+<Synonym>Hypertrophic Obstructive Cardiomyopathies</Synonym>
+<Synonym>Hypertrophic Cardiomyopathies</Synonym>
+<Synonym>Idiopathic Hypertrophic Subaortic Stenosis</Synonym>
+<Synonym>IHSSs</Synonym>
+<Synonym>Idiopathic Hypertrophic Subvalvular Stenosis</Synonym>
+<Synonym>Hypertrophic Obstructive Cardiomyopathy</Synonym>
+<Synonym>Asymmetric Septal Hypertrophy</Synonym>
+<Description>A condition in which the myocardium is hypertrophied without an obvious cause. The hypertrophy is generally asymmetric and may be associated with obstruction of the ventricular outflow tract.</Description>
+<Description>A form of CARDIAC MUSCLE disease, characterized by left and/or right ventricular hypertrophy (HYPERTROPHY, LEFT VENTRICULAR; HYPERTROPHY, RIGHT VENTRICULAR), frequent asymmetrical involvement of the HEART SEPTUM, and normal or reduced left ventricular volume. Risk factors include HYPERTENSION; AORTIC STENOSIS; and gene MUTATION; (FAMILIAL HYPERTROPHIC CARDIOMYOPATHY).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

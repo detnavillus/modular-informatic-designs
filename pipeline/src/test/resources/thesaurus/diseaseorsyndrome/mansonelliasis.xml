@@ -1,0 +1,17 @@
+<Record>
+<Term>Mansonelliasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Filariasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Spirurida Infections/Filariasis/Mansonelliasis</ClassificationPath>
+<BroaderTerm>Filariasis</BroaderTerm>
+<BroaderTerm>Spirurida Infections</BroaderTerm>
+<BroaderTerm>Mansonelliasis</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Mansonelliasis</Synonym>
+<Synonym>Mansonelliases</Synonym>
+<Description>Infection with nematodes of the genus MANSONELLA. Symptoms include pruritus, headache, and articular swelling.</Description>
+<Source>MeSH</Source>
+</Record>

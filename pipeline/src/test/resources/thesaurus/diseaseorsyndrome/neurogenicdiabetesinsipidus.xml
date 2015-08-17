@@ -1,0 +1,23 @@
+<Record>
+<Term>Neurogenic Diabetes Insipidus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Insipidus</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus/Diabetes Insipidus, Neurogenic</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Diabetes Insipidus/Diabetes Insipidus, Neurogenic</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus/Diabetes Insipidus, Neurogenic</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Insipidus, Neurogenic</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Insipidus</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Pituitary Diabetes Insipidus</Synonym>
+<Synonym>Central Diabetes Insipidus</Synonym>
+<Synonym>Neurohypophyseal Diabetes Insipidus</Synonym>
+<Synonym>Neurogenic Diabetes Insipidus</Synonym>
+<Description>A genetic or acquired polyuric disorder caused by a deficiency of VASOPRESSINS secreted by the NEUROHYPOPHYSIS. Clinical signs include the excretion of large volumes of dilute URINE; HYPERNATREMIA; THIRST; and polydipsia. Etiologies include HEAD TRAUMA; surgeries and diseases involving the HYPOTHALAMUS and the PITUITARY GLAND. This disorder may also be caused by mutations of genes such as ARVP encoding vasopressin and its corresponding neurophysin (NEUROPHYSINS).</Description>
+<Source>MeSH</Source>
+</Record>

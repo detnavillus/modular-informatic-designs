@@ -1,0 +1,32 @@
+<Record>
+<Term>Oxaprozin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cyclooxygenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/Oxaprozin Potassium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/Oxaprozin</ClassificationPath>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Oxaprozin</BroaderTerm>
+<BroaderTerm>Cyclooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Oxaprozin Potassium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<Synonym>Oxaprozin potassium</Synonym>
+<Synonym>Daypro Alta</Synonym>
+<Synonym>4,5-Diphenyl-2-oxazolepropionic Acid</Synonym>
+<Synonym>Oxaprozin</Synonym>
+<Synonym>Daypro</Synonym>
+<Synonym>4,5-Diphenyl-2-oxazolepropanoic Acid, Potassium Salt</Synonym>
+<Synonym>Wy 21743</Synonym>
+<Synonym>OXAPROZIN</Synonym>
+<Synonym>Oxaprozin Potassium</Synonym>
+<Synonym>OXAPROZIN POTASSIUM</Synonym>
+<Description>A nonsteroidal anti-inflammatory drug (NSAID) derivative of oxazole-propionic acid with analgesic and antipyretic properties.  As a first generation NSAID inhibitor, oxaprozin binds to and inactivates both isoforms of cyclooxygenase (COX-1 and-2), thereby blocking the conversion of arachidonic acid to pro-inflammatory prostaglandins.  When inhibiting COX-2, this agent may be effective in relieving pain and inflammation; when inhibiting COX-1, it may produce unacceptable gastrointestinal side effects. (NCI04)</Description>
+<Description>The potassium salt form of oxaprozin and a member of the propionic acid group of non-steroidal anti-inflammatory drugs (NSAIDs) with anti-inflammatory, analgesic and antipyretic properties. Oxaprozin potassium reversibly and competitively inhibits cyclooxygenases (COX), thereby blocking the conversion of arachidonic acid to pro-inflammatory prostaglandins. This inhibits the formation of prostaglandins that are involved in pain, inflammation and fever.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

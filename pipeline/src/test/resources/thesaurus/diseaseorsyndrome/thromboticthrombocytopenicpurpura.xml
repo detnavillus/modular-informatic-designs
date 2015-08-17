@@ -1,0 +1,30 @@
+<Record>
+<Term>Thrombotic Thrombocytopenic Purpura</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Purpura, Thrombocytopenic</ParentTerm>
+<ParentTerm>Thrombophilia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura, Thrombocytopenic/Purpura, Thrombotic Thrombocytopenic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombotic Microangiopathies/Purpura, Thrombocytopenic/Purpura, Thrombotic Thrombocytopenic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Thrombophilia/Purpura, Thrombotic Thrombocytopenic</ClassificationPath>
+<BroaderTerm>Purpura, Thrombocytopenic</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Purpura, Thrombotic Thrombocytopenic</BroaderTerm>
+<BroaderTerm>Thrombophilia</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombotic Microangiopathies</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Schulman Upshaw Syndrome</Synonym>
+<Synonym>Thrombotic Thrombocytopenic Purpura</Synonym>
+<Synonym>Thrombotic Thrombopenic Purpura</Synonym>
+<Synonym>Thrombotic Thrombopenic Purpuras</Synonym>
+<Synonym>Familial Thrombotic Thrombocytopenic Purpura</Synonym>
+<Synonym>Thrombotic Thrombocytopenic Purpuras</Synonym>
+<Synonym>Moschkowitz Disease</Synonym>
+<Synonym>Schulman-Upshaw Syndrome</Synonym>
+<Synonym>Congenital Thrombotic Thrombocytopenic Purpura</Synonym>
+<Synonym>Moschcowitz Disease</Synonym>
+<Description>An acquired, congenital, or familial disorder caused by PLATELET AGGREGATION with THROMBOSIS in terminal arterioles and capillaries. Clinical features include THROMBOCYTOPENIA; HEMOLYTIC ANEMIA; AZOTEMIA; FEVER; and thrombotic microangiopathy. The classical form also includes neurological symptoms and end-organ damage, such as RENAL FAILURE.</Description>
+<Source>MeSH</Source>
+</Record>

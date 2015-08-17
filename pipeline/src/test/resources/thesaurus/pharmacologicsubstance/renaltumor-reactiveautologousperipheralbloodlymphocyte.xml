@@ -1,0 +1,17 @@
+<Record>
+<Term>Renal Tumor-Reactive Autologous Peripheral Blood Lymphocyte</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Cell</SemanticType>
+<ParentTerm>Therapeutic Autologous Lymphocytes</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Autologous Lymphocytes/Renal Tumor-Reactive Autologous Peripheral Blood Lymphocyte</ClassificationPath>
+<BroaderTerm>Therapeutic Autologous Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Renal Tumor-Reactive Autologous Peripheral Blood Lymphocyte</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Renal Tumor-Reactive Autologous Peripheral Blood Lymphocyte</Synonym>
+<Synonym>Renal Tumor-Reactive Autologous Peripheral Blood Lymphocytes (PBL)</Synonym>
+<Description>Peripheral blood lymphocytes (PBL) harvested from the blood of a renal cancer patient and exposed in vitro to renal tumor-associated antigens (TAA).  Introducing these renal tumor-reactive autologous peripheral blood lymphocytes back to the same patient target tumor cells expressing these TAAs and could induce a cytotoxic T-cell-mediated immune response against renal cell cancer.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

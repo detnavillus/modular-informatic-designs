@@ -1,0 +1,24 @@
+<Record>
+<Term>Left Posterior Fascicular Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Left Posterior Fascicular Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Left Posterior Fascicular Block</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>LEFT POSTERIOR FASCICULAR BLOCK</Synonym>
+<Synonym>LPFB</Synonym>
+<Synonym>Left Posterior Fascicular Block</Synonym>
+<Synonym>Left Posterior Hemiblock</Synonym>
+<Synonym>Left posterior fascicular block</Synonym>
+<Description>An impairment of transmission of the cardiac electrical impulse along the fibers of the left posterior fascicle. In pure left posterior fascicular block (LPFB), the impulse emerges from the unblocked anterosuperior division, thus producing small q waves in leads II, III, and aVF. Thereafter, the impulse moves through the electrically predominant left ventricle in an inferior and rightward direction, thus explaining the S waves in leads I and aVL as well as the R waves in leads II, III, and aVF.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

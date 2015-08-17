@@ -1,0 +1,20 @@
+<Record>
+<Term>GABA Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>GABA Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/GABA Agents/GABA Modulators</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/GABA Agents/GABA Modulators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>GABA Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>GABA Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>GABA Modulators</Synonym>
+<Synonym>gamma Aminobutyric Acid Modulators</Synonym>
+<Synonym>gamma-Aminobutyric Acid Modulators</Synonym>
+<Synonym>GABAergic Modulators</Synonym>
+<Description>Substances that do not act as agonists or antagonists but do affect the GAMMA-AMINOBUTYRIC ACID receptor-ionophore complex. GABA-A receptors (RECEPTORS, GABA-A) appear to have at least three allosteric sites at which modulators act: a site at which BENZODIAZEPINES act by increasing the opening frequency of GAMMA-AMINOBUTYRIC ACID-activated chloride channels; a site at which BARBITURATES act to prolong the duration of channel opening; and a site at which some steroids may act. GENERAL ANESTHETICS probably act at least partly by potentiating GABAergic responses, but they are not included here.</Description>
+<Source>MeSH</Source>
+</Record>

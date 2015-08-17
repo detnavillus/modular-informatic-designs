@@ -1,0 +1,17 @@
+<Record>
+<Term>MET Tyrosine Kinase Inhibitor BMS-777607</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/MET Tyrosine Kinase Inhibitor BMS-777607</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>MET Tyrosine Kinase Inhibitor BMS-777607</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BMS-777607</Synonym>
+<Synonym>MET Tyrosine Kinase Inhibitor BMS-777607</Synonym>
+<Description>An inhibitor of MET tyrosine kinase with potential antineoplastic activity. MET tyrosine kinase inhibitor BMS-777607 binds to c-Met protein, or hepatocyte growth factor receptor (HGFR), preventing binding of hepatocyte growth factor (HGF) and disrupting the MET signaling pathway; this agent may induce cell death in tumor cells expressing c-Met. c-Met, a receptor tyrosine kinase overexpressed or mutated in many tumor cell types, plays an important role in tumor cell proliferation, survival, invasion, and metastasis, and in tumor angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

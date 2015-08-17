@@ -1,0 +1,39 @@
+<Record>
+<Term>Glycogen Storage Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Congenital Metabolic Disorder</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Congenital Metabolic Disorder/Glycogen Storage Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Congenital Metabolic Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<ChildTerm>Glycogen Storage Disease Type III</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type IIb</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type VII</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type II</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type VIII</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type VI</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type I</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type IV</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type V</ChildTerm>
+<Synonym>Glycogenoses</Synonym>
+<Synonym>Glycogen Storage Disease</Synonym>
+<Synonym>Glycogen Storage Diseases</Synonym>
+<Synonym>Glycogenosis</Synonym>
+<Description>A group of inherited metabolic disorders involving the enzymes responsible for the synthesis and degradation of glycogen. In some patients, prominent liver involvement is presented. In others, more generalized storage of glycogen occurs, sometimes with prominent cardiac involvement.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

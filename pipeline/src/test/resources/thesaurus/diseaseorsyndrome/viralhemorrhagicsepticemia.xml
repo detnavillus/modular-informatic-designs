@@ -1,0 +1,27 @@
+<Record>
+<Term>Viral Hemorrhagic Septicemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viremia</ParentTerm>
+<ParentTerm>Fish Diseases</ParentTerm>
+<ParentTerm>Rhabdoviridae Infections</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Viremia/Hemorrhagic Septicemia, Viral</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Rhabdoviridae Infections/Hemorrhagic Septicemia, Viral</ClassificationPath>
+<ClassificationPath>Animal Diseases/Fish Diseases/Hemorrhagic Septicemia, Viral</ClassificationPath>
+<BroaderTerm>Viremia</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Rhabdoviridae Infections</BroaderTerm>
+<BroaderTerm>Fish Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Hemorrhagic Septicemia, Viral</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>Viral Hemorrhagic Septicemia</Synonym>
+<Synonym>Viral Haemorrhagic Septicaemia</Synonym>
+<Description>A systemic infection of various salmonid and a few nonsalmonid fishes caused by Viral hemorrhagic septicemia virus (see NOVIRHABDOVIRUS),</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Allergic Bronchopulmonary Aspergillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aspergillosis</ParentTerm>
+<ParentTerm>Pulmonary Aspergillosis</ParentTerm>
+<ParentTerm>Lung Diseases, Fungal</ParentTerm>
+<ParentTerm>Respiratory Hypersensitivity</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Aspergillosis/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Lung Diseases, Fungal/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Fungal/Pulmonary Aspergillosis/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Lung Diseases, Fungal/Aspergillosis, Allergic Bronchopulmonary</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Aspergillosis</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pulmonary Aspergillosis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Fungal</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Aspergillosis, Allergic Bronchopulmonary</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Bronchopulmonary Allergic Aspergilloses</Synonym>
+<Synonym>Allergic Bronchopulmonary Aspergilloses</Synonym>
+<Synonym>Bronchopulmonary Allergic Aspergillosis</Synonym>
+<Synonym>Allergic Bronchopulmonary Aspergillosis</Synonym>
+<Description>Hypersensitivity reaction (ALLERGIC REACTION) to fungus ASPERGILLUS in an individual with long-standing BRONCHIAL ASTHMA. It is characterized by pulmonary infiltrates, EOSINOPHILIA, elevated serum IMMUNOGLOBULIN E, and skin reactivity to Aspergillus antigen.</Description>
+<Source>MeSH</Source>
+</Record>

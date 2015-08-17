@@ -1,0 +1,35 @@
+<Record>
+<Term>Amblyopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vision Disorders</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Amblyopia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Amblyopia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Amblyopia</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Amblyopia</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Amblyopia</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Suppression Amblyopias</Synonym>
+<Synonym>Amblyopia</Synonym>
+<Synonym>Developmental Amblyopia</Synonym>
+<Synonym>Suppression Amblyopia</Synonym>
+<Synonym>Anisometropic Amblyopias</Synonym>
+<Synonym>Stimulus Deprivation-Induced Amblyopias</Synonym>
+<Synonym>Anisometropic Amblyopia</Synonym>
+<Synonym>Lazy Eyes</Synonym>
+<Synonym>Developmental Amblyopias</Synonym>
+<Synonym>Lazy Eye</Synonym>
+<Synonym>Stimulus Deprivation Induced Amblyopia</Synonym>
+<Synonym>Stimulus Deprivation-Induced Amblyopia</Synonym>
+<Synonym>Amblyopias</Synonym>
+<Description>A nonspecific term referring to impaired vision. Major subcategories include stimulus deprivation-induced amblyopia and toxic amblyopia. Stimulus deprivation-induced amblyopia is a developmental disorder of the visual cortex. A discrepancy between visual information received by the visual cortex from each eye results in abnormal cortical development. STRABISMUS and REFRACTIVE ERRORS may cause this condition. Toxic amblyopia is a disorder of the OPTIC NERVE which is associated with ALCOHOLISM, tobacco SMOKING, and other toxins and as an adverse effect of the use of some medications.</Description>
+<Source>MeSH</Source>
+</Record>

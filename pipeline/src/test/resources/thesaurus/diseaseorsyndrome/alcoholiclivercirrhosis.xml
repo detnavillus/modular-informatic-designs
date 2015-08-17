@@ -1,0 +1,23 @@
+<Record>
+<Term>Alcoholic Liver Cirrhosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases, Alcoholic</ParentTerm>
+<ParentTerm>Liver Cirrhosis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Cirrhosis/Liver Cirrhosis, Alcoholic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Alcoholic/Liver Cirrhosis, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Liver Diseases, Alcoholic/Liver Cirrhosis, Alcoholic</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Liver Cirrhosis, Alcoholic</BroaderTerm>
+<BroaderTerm>Liver Diseases, Alcoholic</BroaderTerm>
+<BroaderTerm>Liver Cirrhosis</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<Synonym>Alcoholic Cirrhosis</Synonym>
+<Synonym>Alcoholic Liver Cirrhosis</Synonym>
+<Synonym>Alcoholic Hepatic Cirrhosis</Synonym>
+<Description>FIBROSIS of the hepatic parenchyma due to chronic excess ALCOHOL DRINKING.</Description>
+<Source>MeSH</Source>
+</Record>

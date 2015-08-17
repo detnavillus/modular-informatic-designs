@@ -1,0 +1,17 @@
+<Record>
+<Term>Dakins Solution</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topical Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Topical Anti-Infective Agent/Dakins Solution</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Dakins Solution</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Topical Anti-Infective Agent</BroaderTerm>
+<Synonym>Aqueous Solution of Sodium Hypochlorite</Synonym>
+<Synonym>Dakins Fluid</Synonym>
+<Synonym>Dakins Solution</Synonym>
+<Description>A highly diluted solution of sodium hypochlorite (0.5% w/v) with topical anti-infective activity. Dakin's solution is used as an antiseptic to clean infected topical wounds.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Pernicious Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Megaloblastic Anemia</ParentTerm>
+<ParentTerm>Vitamin B 12 Deficiency</ParentTerm>
+<ParentTerm>Anemia, Megaloblastic</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Macrocytic/Anemia, Megaloblastic/Anemia, Pernicious</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Macrocytic Anemia/Megaloblastic Anemia/Pernicious Anemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Vitamin B 12 Deficiency/Anemia, Pernicious</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Megaloblastic Anemia</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Vitamin B 12 Deficiency</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pernicious Anemia</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Anemia, Pernicious</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Macrocytic Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Macrocytic</BroaderTerm>
+<BroaderTerm>Anemia, Megaloblastic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Addisons Anemia</Synonym>
+<Synonym>Addison Anemia</Synonym>
+<Synonym>Pernicious Anemia</Synonym>
+<Synonym>pernicious anemia</Synonym>
+<Synonym>Addison's Anemia</Synonym>
+<Description>A megaloblastic anemia occurring in children but more commonly in later life, characterized by histamine-fast achlorhydria, in which the laboratory and clinical manifestations are based on malabsorption of vitamin B 12 due to a failure of the gastric mucosa to secrete adequate and potent intrinsic factor. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

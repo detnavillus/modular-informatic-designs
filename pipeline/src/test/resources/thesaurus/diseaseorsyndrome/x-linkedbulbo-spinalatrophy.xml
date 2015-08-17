@@ -1,0 +1,35 @@
+<Record>
+<Term>X-Linked Bulbo-Spinal Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Muscular Atrophy, Spinal</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Bulbo-Spinal Atrophy, X-Linked</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Muscular Atrophy, Spinal/Bulbo-Spinal Atrophy, X-Linked</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Bulbo-Spinal Atrophy, X-Linked</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Motor Neuron Disease/Muscular Atrophy, Spinal/Bulbo-Spinal Atrophy, X-Linked</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Motor Neuron Disease/Muscular Atrophy, Spinal/Bulbo-Spinal Atrophy, X-Linked</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bulbo-Spinal Atrophy, X-Linked</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Motor Neuron Disease</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Muscular Atrophy, Spinal</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>X-Linked Bulbo-Spinal Atrophy</Synonym>
+<Synonym>X linked Bulbospinal Muscular Atrophy</Synonym>
+<Synonym>Kennedy Spinal and Bulbar Muscular Atrophy</Synonym>
+<Synonym>X-Linked Bulbo-Spinal Atrophies</Synonym>
+<Synonym>Kennedy Syndrome</Synonym>
+<Synonym>Spinal and Bulbar Muscular Atrophy</Synonym>
+<Synonym>X Linked Bulbo Spinal Atrophy</Synonym>
+<Synonym>X-linked Bulbospinal Muscular Atrophy</Synonym>
+<Synonym>Kennedy Disease</Synonym>
+<Description>An X-linked recessive form of spinal muscular atrophy. It is due to a mutation of the gene encoding the ANDROGEN RECEPTOR.</Description>
+<Source>MeSH</Source>
+</Record>

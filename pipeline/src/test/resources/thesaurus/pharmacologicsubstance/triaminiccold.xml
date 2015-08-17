@@ -1,0 +1,16 @@
+<Record>
+<Term>Triaminic Cold</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cough and Cold Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Cough and Cold Preparation/Triaminic Cold</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cough and Cold Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Triaminic Cold</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Triaminic Cold</Synonym>
+<Description>Any of the commercial combination preparations, by Novartis, containing the antihistamine chlorpheniramine maleate and the decongestant pseudoephedrine hydrochloride, either alone or in combination with the analgesic antipyretic acetaminophen and/or the antitussive dextromethorphan hydrobromide. Chlorpheniramine maleate, an antihistamine, blocks the effects of histamine, thereby preventing symptoms such as sneezing and itchy, watery eyes, runny nose and sore throat. Pseudoephedrine hydrochloride, a sympathomimetic agent, acts as a decongestant by inducing vasoconstriction mediated via alpha-adrenergic receptors. This reduces blood flow, decreases swelling and prevents nasal and sinus congestion.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

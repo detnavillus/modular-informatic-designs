@@ -1,0 +1,26 @@
+<Record>
+<Term>Amebiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis</ClassificationPath>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Dysentery, Amebic</ChildTerm>
+<ChildTerm>Entamoebiasis</ChildTerm>
+<ChildTerm>Acanthamoeba Keratitis</ChildTerm>
+<ChildTerm>Blastocystis Infections</ChildTerm>
+<ChildTerm>Liver Abscess, Amebic</ChildTerm>
+<Synonym>Amebiasis</Synonym>
+<Synonym>Amebiases</Synonym>
+<Synonym>Amoebiasis</Synonym>
+<Synonym>Amoebiases</Synonym>
+<Synonym>Iodamoebiasis</Synonym>
+<Synonym>Iodamoebiases</Synonym>
+<Synonym>Amebic Abscess</Synonym>
+<Synonym>Amebic Abscesses</Synonym>
+<Synonym>Ameboma</Synonym>
+<Synonym>Amebomas</Synonym>
+<Description>Infection with any of various amebae. It is an asymptomatic carrier state in most individuals, but diseases ranging from chronic, mild diarrhea to fulminant dysentery may occur.</Description>
+<Source>MeSH</Source>
+</Record>

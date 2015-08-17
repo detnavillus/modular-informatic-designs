@@ -1,0 +1,18 @@
+<Record>
+<Term>Herpesvirus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Herpesvirus Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Herpesvirus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Chickenpox Vaccine</ChildTerm>
+<ChildTerm>Herpes Simplex Virus Vaccines</ChildTerm>
+<ChildTerm>Marek Disease Vaccines</ChildTerm>
+<Synonym>Herpesvirus Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection by any virus from the family HERPESVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

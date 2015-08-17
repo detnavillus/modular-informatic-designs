@@ -1,0 +1,62 @@
+<Record>
+<Term>Deaf-Blind Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Deafness</ParentTerm>
+<ParentTerm>Blindness</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Deafness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Deafness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Blindness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Deafness/Deaf-Blind Disorders</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Deaf-Blind Disorders</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Blindness</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Deaf-Blind Disorders</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Deafness</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<ChildTerm>Usher Syndromes</ChildTerm>
+<ChildTerm>Wolfram Syndrome</ChildTerm>
+<Synonym>Prelingual Deaf Blind Disorders</Synonym>
+<Synonym>Deaf Blind Syndromes</Synonym>
+<Synonym>Prelingual Deafness-Blindness</Synonym>
+<Synonym>Deaf-Blindness Disorder</Synonym>
+<Synonym>Vision and Hearing Loss</Synonym>
+<Synonym>Deafness-Blindness</Synonym>
+<Synonym>Deaf-Mutism-Blind Disorder</Synonym>
+<Synonym>Deaf-Blind Disorders</Synonym>
+<Synonym>Blind-Deaf Disorder</Synonym>
+<Synonym>Blind Deaf Disorders</Synonym>
+<Synonym>Blindness Deafness</Synonym>
+<Synonym>Blindness-Deafness</Synonym>
+<Synonym>Prelingual Deafness-Blindnesses</Synonym>
+<Synonym>Deaf-Mutism-Blind Disorders</Synonym>
+<Synonym>Blind-Deaf Disorders</Synonym>
+<Synonym>Deafness Blindness</Synonym>
+<Synonym>Deaf Blind Disorders</Synonym>
+<Synonym>Deaf-Blind Syndrome</Synonym>
+<Synonym>Deaf Mutism Blind Disorders</Synonym>
+<Synonym>Prelingual Deaf-Blind Disorder</Synonym>
+<Synonym>Deaf-Blindness Disorders</Synonym>
+<Synonym>Deaf-Blind Syndromes</Synonym>
+<Synonym>Hearing and Vision Loss</Synonym>
+<Synonym>Prelingual Deaf-Blind Disorders</Synonym>
+<Synonym>Deaf-Blind Disorder</Synonym>
+<Synonym>Prelingual Deafness Blindness</Synonym>
+<Synonym>Deaf Blindness Disorders</Synonym>
+<Description>The absence of both hearing and vision.</Description>
+<Source>MeSH</Source>
+</Record>

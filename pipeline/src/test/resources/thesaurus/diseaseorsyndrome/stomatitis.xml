@@ -1,0 +1,37 @@
+<Record>
+<Term>Stomatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Oral Cavity Disorder</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Stomatitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Stomatitis</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Stomatitis</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Radiation-Induced Stomatitis</ChildTerm>
+<ChildTerm>Vesicular Stomatitis</ChildTerm>
+<ChildTerm>Stomatitis, Herpetic</ChildTerm>
+<ChildTerm>Stevens-Johnson Syndrome</ChildTerm>
+<ChildTerm>Stomatitis, Denture</ChildTerm>
+<ChildTerm>Stomatitis, Aphthous</ChildTerm>
+<ChildTerm>Ulcerative Stomatitis</ChildTerm>
+<Synonym>Oromucositides</Synonym>
+<Synonym>stomatitis</Synonym>
+<Synonym>Oromucositis</Synonym>
+<Synonym>Stomatitides</Synonym>
+<Synonym>Stomatitis</Synonym>
+<Synonym>Oral Mucositides</Synonym>
+<Synonym>Oral Mucositis</Synonym>
+<Description>INFLAMMATION of the soft tissues of the MOUTH, such as MUCOSA; PALATE; GINGIVA; and LIP.Inflammation of the ORAL MUCOSA.</Description>
+<Description>Inflammation of the oral mucosa due to local or systemic factors. -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

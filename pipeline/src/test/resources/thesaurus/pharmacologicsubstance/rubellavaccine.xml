@@ -1,0 +1,16 @@
+<Record>
+<Term>Rubella Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Rubella Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Rubella Vaccine</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Measles-Mumps-Rubella Vaccine</ChildTerm>
+<Synonym>Rubella Vaccine</Synonym>
+<Description>A live attenuated virus vaccine of duck embryo or human diploid cell tissue culture origin, used for routine immunization of children and for immunization of nonpregnant adolescent and adult females of childbearing age who are unimmunized and do not have serum antibodies to rubella. Children are usually immunized with measles-mumps-rubella combination vaccine. (Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

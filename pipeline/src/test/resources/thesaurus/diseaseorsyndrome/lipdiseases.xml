@@ -1,0 +1,16 @@
+<Record>
+<Term>Lip Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Lip Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Lip Diseases</BroaderTerm>
+<ChildTerm>Cheilitis</ChildTerm>
+<ChildTerm>Cleft Lip</ChildTerm>
+<ChildTerm>Herpes Labialis</ChildTerm>
+<ChildTerm>Lip Neoplasms</ChildTerm>
+<Synonym>Lip Diseases</Synonym>
+<Synonym>Lip Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

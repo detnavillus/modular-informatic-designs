@@ -1,0 +1,24 @@
+<Record>
+<Term>Setariasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Filariasis</ParentTerm>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Setariasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Setariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Setariasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Spirurida Infections/Filariasis/Setariasis</ClassificationPath>
+<BroaderTerm>Filariasis</BroaderTerm>
+<BroaderTerm>Spirurida Infections</BroaderTerm>
+<BroaderTerm>Setariasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Setariases</Synonym>
+<Synonym>Setariasis</Synonym>
+<Description>Infection with nematodes of the genus Setaria. This condition is usually seen in cattle and equines and is of little pathogenic significance, although migration of the worm to the eye may lead to blindness.</Description>
+<Source>MeSH</Source>
+</Record>

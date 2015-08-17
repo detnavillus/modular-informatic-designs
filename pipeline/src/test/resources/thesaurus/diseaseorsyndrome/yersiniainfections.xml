@@ -1,0 +1,17 @@
+<Record>
+<Term>Yersinia Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Yersinia Infections</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Yersinia Infections</BroaderTerm>
+<ChildTerm>Plague</ChildTerm>
+<ChildTerm>Yersinia pseudotuberculosis Infections</ChildTerm>
+<Synonym>Yersinia Infections</Synonym>
+<Synonym>Yersinia Infection</Synonym>
+<Description>Infections with bacteria of the genus YERSINIA.</Description>
+<Source>MeSH</Source>
+</Record>

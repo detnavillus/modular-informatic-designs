@@ -1,0 +1,24 @@
+<Record>
+<Term>Acute Rheumatic Myocarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acute Rheumatic Heart Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Myocarditis/Acute Myocarditis/Acute Rheumatic Myocarditis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Rheumatic Heart Disease/Acute Rheumatic Heart Disease/Acute Rheumatic Myocarditis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Acute Rheumatic Myocarditis,</BroaderTerm>
+<BroaderTerm>Rheumatic Heart Disease</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Myocarditis</BroaderTerm>
+<BroaderTerm>Acute Rheumatic Heart Disease</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Acute Rheumatic Myocarditis</BroaderTerm>
+<BroaderTerm>Acute Myocarditis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Acute Rheumatic Myocarditis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

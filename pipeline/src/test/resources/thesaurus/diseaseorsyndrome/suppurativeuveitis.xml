@@ -1,0 +1,34 @@
+<Record>
+<Term>Suppurative Uveitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections, Bacterial</ParentTerm>
+<ParentTerm>Suppuration</ParentTerm>
+<ParentTerm>Eye Infections, Fungal</ParentTerm>
+<ParentTerm>Uveitis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Fungal/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Eye Infections, Fungal/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Uveitis, Suppurative</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Fungal/Uveitis, Suppurative</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Uveitis, Suppurative</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Eye Infections, Fungal</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Endophthalmitis</ChildTerm>
+<ChildTerm>Panophthalmitis</ChildTerm>
+<Synonym>Suppurative Uveitides</Synonym>
+<Synonym>Suppurative Uveitis</Synonym>
+<Description>Intraocular infection caused mainly by pus-producing bacteria and rarely by fungi. The infection may be caused by an injury or surgical wound (exogenous) or by endogenous septic emboli in such diseases as bacterial endocarditis or meningococcemia.</Description>
+<Source>MeSH</Source>
+</Record>

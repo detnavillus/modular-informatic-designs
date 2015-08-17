@@ -1,0 +1,23 @@
+<Record>
+<Term>Bacterial Vaginosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vaginitis</ParentTerm>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vaginal Diseases/Vaginitis/Vaginosis, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Vaginosis, Bacterial</ClassificationPath>
+<BroaderTerm>Vaginitis</BroaderTerm>
+<BroaderTerm>Vaginosis, Bacterial</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Vaginal Diseases</BroaderTerm>
+<Synonym>Bacterial Vaginoses</Synonym>
+<Synonym>Bacterial Vaginitis</Synonym>
+<Synonym>Bacterial Vaginosis</Synonym>
+<Synonym>Nonspecific Vaginitis</Synonym>
+<Synonym>Bacterial Vaginitides</Synonym>
+<Description>Polymicrobial, nonspecific vaginitis associated with positive cultures of Gardnerella vaginalis and other anaerobic organisms and a decrease in lactobacilli. It remains unclear whether the initial pathogenic event is caused by the growth of anaerobes or a primary decrease in lactobacilli.</Description>
+<Source>MeSH</Source>
+</Record>

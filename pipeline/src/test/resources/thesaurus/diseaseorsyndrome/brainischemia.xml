@@ -1,0 +1,27 @@
+<Record>
+<Term>Brain Ischemia</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Brain Infarction</ChildTerm>
+<ChildTerm>Ischemic Attack, Transient</ChildTerm>
+<ChildTerm>Vertebrobasilar Insufficiency</ChildTerm>
+<ChildTerm>Hypoxia-Ischemia, Brain</ChildTerm>
+<Synonym>Cerebral Ischemias</Synonym>
+<Synonym>Cerebral Ischemia</Synonym>
+<Synonym>Brain Ischemia</Synonym>
+<Synonym>Brain Ischemias</Synonym>
+<Synonym>Ischemic Encephalopathies</Synonym>
+<Synonym>Ischemic Encephalopathy</Synonym>
+<Description>Localized reduction of blood flow to brain tissue due to arterial obstruction or systemic hypoperfusion. This frequently occurs in conjunction with brain hypoxia (HYPOXIA, BRAIN). Prolonged ischemia is associated with BRAIN INFARCTION.</Description>
+<Source>MeSH</Source>
+</Record>

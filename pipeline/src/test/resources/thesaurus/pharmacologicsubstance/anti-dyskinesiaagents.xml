@@ -1,0 +1,17 @@
+<Record>
+<Term>Anti-Dyskinesia Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Anti-Dyskinesia Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Dyskinesia Agents</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Antiparkinson Agents</ChildTerm>
+<Synonym>Anti-Dyskinesia Agents</Synonym>
+<Synonym>Anti Dyskinesia Agents</Synonym>
+<Synonym>Movement Disorder Agents</Synonym>
+<Description>Drugs used in the treatment of movement disorders. Most of these act centrally on dopaminergic or cholinergic systems. Among the most important clinically are those used for the treatment of Parkinson disease (ANTIPARKINSON AGENTS) and those for the tardive dyskinesias.</Description>
+<Source>MeSH</Source>
+</Record>

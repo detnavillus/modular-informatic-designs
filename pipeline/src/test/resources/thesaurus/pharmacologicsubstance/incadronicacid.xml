@@ -1,0 +1,23 @@
+<Record>
+<Term>Incadronic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Bone Resorption Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Biphosphonate/Incadronic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Incadronic Acid</ClassificationPath>
+<BroaderTerm>Biphosphonate</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Incadronic Acid</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Incadronic Acid,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<Synonym>((Cycloheptylamino)methylene)diphosphonic Acid</Synonym>
+<Synonym>INCADRONIC ACID</Synonym>
+<Synonym>Incadronic Acid</Synonym>
+<Synonym>YM175</Synonym>
+<Description>A third-generation amino-bisphosphonate with anti-resorptive activity. Although the exact mechanism of action has yet to be fully elucidated, incadronic acid binds to and adsorbs onto hydroxyapatite crystals in the bone matrix, thereby preventing osteoclast resorption. This agent also binds to and inhibits farnesyl pyrophosphate synthase, an enzyme that plays an important role in the mevalonate pathway. This inhibits the formation of isoprenoids that are essential for protein prenylation. This prevents farnesylation and geranylgeranylation of proteins essential for osteoclast function, thereby leading to the induction of apoptosis of osteoclasts. By preventing osteoclast-mediated bone resorption, incadronic acid prevents bone destruction.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

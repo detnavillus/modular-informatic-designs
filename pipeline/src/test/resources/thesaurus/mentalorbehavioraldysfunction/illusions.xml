@@ -1,0 +1,40 @@
+<Record>
+<Term>Illusions</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Mental Process</SemanticType>
+<ParentTerm>Perceptual Disorders</ParentTerm>
+<ParentTerm>Perception</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Perceptual Disorders/Illusions</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Perceptual Disorders/Illusions</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Perceptual Disorders/Illusions</ClassificationPath>
+<ClassificationPath>Psychological Phenomena and Processes/Mental Processes/Perception/Illusions</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Psychological Phenomena and Processes</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Illusions</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Perceptual Disorders</BroaderTerm>
+<BroaderTerm>Perception</BroaderTerm>
+<BroaderTerm>Mental Processes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Optical Illusions</ChildTerm>
+<Synonym>Visual Illusion</Synonym>
+<Synonym>Illusion</Synonym>
+<Synonym>Tactile Illusions</Synonym>
+<Synonym>Auditory Illusions</Synonym>
+<Synonym>Visual Illusions</Synonym>
+<Synonym>Kinesthetic Illusions</Synonym>
+<Synonym>Tactile Illusion</Synonym>
+<Synonym>Autokinetic Illusion</Synonym>
+<Synonym>Illusions</Synonym>
+<Synonym>Autokinetic Effects</Synonym>
+<Synonym>Autokinetic Effect</Synonym>
+<Synonym>Kinesthetic Illusion</Synonym>
+<Synonym>Auditory Illusion</Synonym>
+<Synonym>Autokinetic Illusions</Synonym>
+<Description>The misinterpretation of a real external, sensory experience.</Description>
+<Source>MeSH</Source>
+</Record>

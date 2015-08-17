@@ -1,0 +1,39 @@
+<Record>
+<Term>Pathologic Nystagmus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ocular Motility Disorders</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Motility Disorders/Nystagmus, Pathologic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Ocular Motility Disorders/Nystagmus, Pathologic</ClassificationPath>
+<BroaderTerm>Nystagmus, Pathologic</BroaderTerm>
+<BroaderTerm>Ocular Motility Disorders</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Nystagmus, Congenital</ChildTerm>
+<Synonym>See-Saw Nystagmus</Synonym>
+<Synonym>Non-Fatigable Positional Nystagmus</Synonym>
+<Synonym>Periodic Alternating Nystagmus</Synonym>
+<Synonym>Jerk Nystagmus</Synonym>
+<Synonym>Vertical Nystagmus</Synonym>
+<Synonym>Retraction Nystagmus</Synonym>
+<Synonym>Symptomatic Nystagmus</Synonym>
+<Synonym>Rebound Nystagmus</Synonym>
+<Synonym>Pendular Nystagmus</Synonym>
+<Synonym>Horizontal Nystagmus</Synonym>
+<Synonym>Rotational Nystagmus</Synonym>
+<Synonym>Temporary Nystagmus</Synonym>
+<Synonym>Rotary Nystagmus</Synonym>
+<Synonym>Fatigable Positional Nystagmus</Synonym>
+<Synonym>Unidirectional Nystagmus</Synonym>
+<Synonym>Conjugate Nystagmus</Synonym>
+<Synonym>Non Fatigable Positional Nystagmus</Synonym>
+<Synonym>Multidirectional Nystagmus</Synonym>
+<Synonym>Convergence Nystagmus</Synonym>
+<Synonym>Permanent Nystagmus</Synonym>
+<Synonym>Spontaneous Ocular Nystagmus</Synonym>
+<Synonym>Dissociated Nystagmus</Synonym>
+<Synonym>Pathologic Nystagmus</Synonym>
+<Synonym>See Saw Nystagmus</Synonym>
+<Description>Involuntary movements of the eye that are divided into two types, jerk and pendular. Jerk nystagmus has a slow phase in one direction followed by a corrective fast phase in the opposite direction, and is usually caused by central or peripheral vestibular dysfunction. Pendular nystagmus features oscillations that are of equal velocity in both directions and this condition is often associated with visual loss early in life. (Adams et al., Principles of Neurology, 6th ed, p272)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,13 @@
+<Record>
+<Term>Thoracic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Thoracic Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Diseases</BroaderTerm>
+<ChildTerm>Mediastinal Diseases</ChildTerm>
+<Synonym>Thoracic Diseases</Synonym>
+<Synonym>Thoracic Disease</Synonym>
+<Description>Disorders affecting the organs of the thorax.</Description>
+<Source>MeSH</Source>
+</Record>

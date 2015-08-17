@@ -1,0 +1,19 @@
+<Record>
+<Term>Urolithiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urologic Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urolithiasis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urolithiasis</ClassificationPath>
+<BroaderTerm>Urolithiasis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Nephrolithiasis</ChildTerm>
+<ChildTerm>Urinary Calculi</ChildTerm>
+<ChildTerm>Ureterolithiasis</ChildTerm>
+<Synonym>Urolithiasis</Synonym>
+<Synonym>Urinary Lithiasis</Synonym>
+<Description>Formation of stones in any part of the URINARY TRACT, usually in the KIDNEY; URINARY BLADDER; or the URETER.</Description>
+<Source>MeSH</Source>
+</Record>

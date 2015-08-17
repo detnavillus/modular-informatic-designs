@@ -1,0 +1,17 @@
+<Record>
+<Term>Adnexal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases</ClassificationPath>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Ovarian Diseases</ChildTerm>
+<ChildTerm>Pelvic Inflammatory Disease</ChildTerm>
+<ChildTerm>Fallopian Tube Diseases</ChildTerm>
+<Synonym>Adnexal Diseases</Synonym>
+<Synonym>Adnexal Disease</Synonym>
+<Description>Diseases of the uterine appendages (ADNEXA UTERI) including diseases involving the OVARY, the FALLOPIAN TUBES, and ligaments of the uterus (BROAD LIGAMENT; ROUND LIGAMENT).</Description>
+<Source>MeSH</Source>
+</Record>

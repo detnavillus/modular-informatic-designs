@@ -1,0 +1,52 @@
+<Record>
+<Term>Type 1 Diabetes Mellitus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Diabetes Mellitus, Type 1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Diabetes Mellitus, Type 1</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Mellitus, Type 1</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Diabetes Mellitus/Type 1 Diabetes Mellitus,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Type 1 Diabetes Mellitus</ClassificationPath>
+<BroaderTerm>Type 1 Diabetes Mellitus,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus, Type 1</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Type 1 Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<ChildTerm>Wolfram Syndrome</ChildTerm>
+<Synonym>Autoimmune Diabetes</Synonym>
+<Synonym>Type I Diabetes Mellitus</Synonym>
+<Synonym>IDDM</Synonym>
+<Synonym>Ketosis-Prone Diabetes Mellitus</Synonym>
+<Synonym>Autoimmune Diabete</Synonym>
+<Synonym>Type 1 Diabetes</Synonym>
+<Synonym>Brittle Diabetes Mellitus</Synonym>
+<Synonym>Insulin Dependent Diabetes</Synonym>
+<Synonym>Juvenile-Onset Diabetes Mellitus</Synonym>
+<Synonym>Insulin-Dependent Diabetes Mellitus</Synonym>
+<Synonym>Insulin Dependent Diabetes Mellitus</Synonym>
+<Synonym>Type I Diabetes</Synonym>
+<Synonym>Type 1 Diabetes Mellitus</Synonym>
+<Synonym>Juvenile Diabetes</Synonym>
+<Synonym>Sudden-Onset Diabetes Mellitus</Synonym>
+<Description>Diabetes mellitus characterized by insulin deficiency, sudden onset, severe hyperglycemia, rapid progression to ketoacidosis, and death unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.</Description>
+<Description>A subtype of DIABETES MELLITUS that is characterized by INSULIN deficiency. It is manifested by the sudden onset of severe HYPERGLYCEMIA, rapid progression to DIABETIC KETOACIDOSIS, and DEATH unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

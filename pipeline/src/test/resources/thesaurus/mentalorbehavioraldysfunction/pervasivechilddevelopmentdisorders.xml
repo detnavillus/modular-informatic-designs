@@ -1,0 +1,20 @@
+<Record>
+<Term>Pervasive Child Development Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Child Development Disorders, Pervasive</ClassificationPath>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Child Development Disorders, Pervasive</BroaderTerm>
+<ChildTerm>Autistic Disorder</ChildTerm>
+<ChildTerm>Schizophrenia, Childhood</ChildTerm>
+<ChildTerm>Rett Syndrome</ChildTerm>
+<ChildTerm>Asperger Syndrome</ChildTerm>
+<Synonym>Pervasive Child Development Disorders</Synonym>
+<Synonym>Autism Spectrum Disorders</Synonym>
+<Synonym>Autism Spectrum Disorder</Synonym>
+<Synonym>Pervasive Development Disorders</Synonym>
+<Synonym>Pervasive Development Disorder</Synonym>
+<Description>Severe distortions in the development of many basic psychological functions that are not normal for any stage in development. These distortions are manifested in sustained social impairment, speech abnormalities, and peculiar motor movements.Wide continuum of associated cognitive and neurobehavioral disorders, including, but not limited to, three core-defining features: impairments in socialization, impairments in verbal and nonverbal communication, and restricted and repetitive patterns of behaviors. (DSM, 1994)</Description>
+<Source>MeSH</Source>
+</Record>

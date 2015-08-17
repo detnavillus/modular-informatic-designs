@@ -1,0 +1,29 @@
+<Record>
+<Term>beta-Thalassemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thalassemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Thalassemia/beta-Thalassemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Thalassemia/beta-Thalassemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Thalassemia/beta-Thalassemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Thalassemia/beta-Thalassemia</ClassificationPath>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>beta-Thalassemia</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Thalassemia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Thalassemia Minor</Synonym>
+<Synonym>Thalassemia Major</Synonym>
+<Synonym>Hemoglobin F Disease</Synonym>
+<Synonym>beta-Thalassemia</Synonym>
+<Synonym>Cooley's Anemia</Synonym>
+<Synonym>Mediterranean Anemia</Synonym>
+<Synonym>beta Thalassemia</Synonym>
+<Synonym>Erythroblastic Anemia</Synonym>
+<Description>A disorder characterized by reduced synthesis of the beta chains of hemoglobin. There is retardation of hemoglobin A synthesis in the heterozygous form (thalassemia minor), which is asymptomatic, while in the homozygous form (thalassemia major, Cooley's anemia, Mediterranean anemia, erythroblastic anemia), which can result in severe complications and even death, hemoglobin A synthesis is absent.</Description>
+<Source>MeSH</Source>
+</Record>

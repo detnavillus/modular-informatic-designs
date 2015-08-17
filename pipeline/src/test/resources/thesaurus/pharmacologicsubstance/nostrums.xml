@@ -1,0 +1,11 @@
+<Record>
+<Term>Nostrums</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Nostrums</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Nostrums</BroaderTerm>
+<Synonym>Nostrums</Synonym>
+<Description>Medicines whose effectiveness is unproven and whose ingredients are often secret.</Description>
+<Source>MeSH</Source>
+</Record>

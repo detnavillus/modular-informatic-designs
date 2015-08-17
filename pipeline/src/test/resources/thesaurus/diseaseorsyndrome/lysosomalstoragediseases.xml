@@ -1,0 +1,25 @@
+<Record>
+<Term>Lysosomal Storage Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Aspartylglucosaminuria</ChildTerm>
+<ChildTerm>Lysosomal Storage Diseases, Nervous System</ChildTerm>
+<ChildTerm>Cystinosis</ChildTerm>
+<ChildTerm>Mucopolysaccharidoses</ChildTerm>
+<ChildTerm>Mannosidase Deficiency Diseases</ChildTerm>
+<ChildTerm>Cholesterol Ester Storage Disease</ChildTerm>
+<Synonym>Lysosomal Storage Diseases</Synonym>
+<Synonym>Lysosomal Enzyme Disorder</Synonym>
+<Synonym>Lysosomal Enzyme Disorders</Synonym>
+<Synonym>Lysosomal Storage Disease</Synonym>
+<Description>Inborn errors of metabolism characterized by defects in specific lysosomal hydrolases and resulting in intracellular accumulation of unmetabolized substrates.</Description>
+<Source>MeSH</Source>
+</Record>

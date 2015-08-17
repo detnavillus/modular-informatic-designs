@@ -1,0 +1,18 @@
+<Record>
+<Term>Biliary Tract Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Digestive System Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<ChildTerm>Bile Duct Diseases</ChildTerm>
+<ChildTerm>Biliary Tract Neoplasms</ChildTerm>
+<ChildTerm>Bile Reflux</ChildTerm>
+<ChildTerm>Gallbladder Diseases</ChildTerm>
+<ChildTerm>Cholelithiasis</ChildTerm>
+<ChildTerm>Postcholecystectomy Syndrome</ChildTerm>
+<Synonym>Biliary Tract Diseases</Synonym>
+<Synonym>Biliary Tract Disease</Synonym>
+<Description>Diseases in any part of the BILIARY TRACT including the BILE DUCTS and the GALLBLADDER.</Description>
+<Source>MeSH</Source>
+</Record>

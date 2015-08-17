@@ -1,0 +1,26 @@
+<Record>
+<Term>Cysticercosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Taeniasis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Cysticercosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Taeniasis/Cysticercosis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Taeniasis</BroaderTerm>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Cysticercosis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Neurocysticercosis</ChildTerm>
+<Synonym>Cysticercosis</Synonym>
+<Synonym>Cysticercoses</Synonym>
+<Description>Infection with CYSTICERCUS, the larval form of the various tapeworms of the genus Taenia (usually T. solium in man). In humans they penetrate the intestinal wall and invade subcutaneous tissue, brain, eye, muscle, heart, liver, lung, and peritoneum. Brain involvement results in NEUROCYSTICERCOSIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

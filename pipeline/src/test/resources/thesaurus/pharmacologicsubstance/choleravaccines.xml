@@ -1,0 +1,15 @@
+<Record>
+<Term>Cholera Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Cholera Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Cholera Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Cholera Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with VIBRIO CHOLERAE. The original cholera vaccine consisted of killed bacteria, but other kinds of vaccines now exist.</Description>
+<Source>MeSH</Source>
+</Record>

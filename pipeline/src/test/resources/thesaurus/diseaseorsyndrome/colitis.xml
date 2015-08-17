@@ -1,0 +1,57 @@
+<Record>
+<Term>Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Colonic Diseases</ParentTerm>
+<ParentTerm>Enteritis</ParentTerm>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Gastrointestinal System</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Colitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Gastrointestinal System/Colitis Adverse Event</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Colitis Adverse Event</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Gastrointestinal System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Microscopic Colitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Colitis</ChildTerm>
+<ChildTerm>Colitis, Ulcerative</ChildTerm>
+<ChildTerm>Granulomatous Colitis</ChildTerm>
+<ChildTerm>Focal Active Colitis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Colitis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Colitis</ChildTerm>
+<ChildTerm>Colitis, Ischemic</ChildTerm>
+<ChildTerm>Amebic Colitis</ChildTerm>
+<ChildTerm>Aggravated Colitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Colitis</ChildTerm>
+<ChildTerm>Proctocolitis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Colitis</ChildTerm>
+<ChildTerm>Clostridium Colitis</ChildTerm>
+<ChildTerm>Colitis, Microscopic</ChildTerm>
+<ChildTerm>Cytomegalovirus Colitis</ChildTerm>
+<Synonym>Colitis Adverse Event</Synonym>
+<Synonym>Colitides</Synonym>
+<Synonym>Colitis</Synonym>
+<Synonym>colitis</Synonym>
+<Description>Inflammation of the COLON section of the large intestine (INTESTINE, LARGE), usually with symptoms such as DIARRHEA (often with blood and mucus), ABDOMINAL PAIN, and FEVER.</Description>
+<Description>Inflammation of the colon.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Brinzolamide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Carbonic Anhydrase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Carbonic Anhydrase Inhibitor/Brinzolamide,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Brinzolamide</ClassificationPath>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Carbonic Anhydrase Inhibitor</BroaderTerm>
+<BroaderTerm>Brinzolamide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Brinzolamide,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BRINZOLAMIDE</Synonym>
+<Synonym>(R)-4-(Ethylamino)-3,4-dihydro-2-(3-methoxypropyl)-2H-thieno(3,2-e)-1,2-thiazine-6-sulfonamide</Synonym>
+<Synonym>Brinzolamide</Synonym>
+<Synonym>Azopt</Synonym>
+<Synonym>AL 4862</Synonym>
+<Description>A sulfonamide and carbonic anhydrase inhibitor with specific affinity for carbonic anhydrase II. Following topical ocular administration, brinzolamide inhibits carbonic anhydrase II, an enzyme that is responsible for the movement of sodium and fluid transport in the eye. This inhibition leads to a decrease in aqueous humor secretion, probably by slowing the formation of bicarbonate ions, and results in a reduction in intraocular pressure. Brinzolamide is used to treat increased pressure in the eye caused by open-angle glaucoma.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

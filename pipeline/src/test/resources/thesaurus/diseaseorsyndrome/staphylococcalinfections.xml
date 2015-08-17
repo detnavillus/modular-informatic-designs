@@ -1,0 +1,17 @@
+<Record>
+<Term>Staphylococcal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Staphylococcal Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Staphylococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Staphylococcal Skin Infections</ChildTerm>
+<ChildTerm>Pneumonia, Staphylococcal</ChildTerm>
+<ChildTerm>Staphylococcal Food Poisoning</ChildTerm>
+<Synonym>Staphylococcal Infections</Synonym>
+<Synonym>Staphylococcal Infection</Synonym>
+<Description>Infections with bacteria of the genus STAPHYLOCOCCUS.</Description>
+<Source>MeSH</Source>
+</Record>

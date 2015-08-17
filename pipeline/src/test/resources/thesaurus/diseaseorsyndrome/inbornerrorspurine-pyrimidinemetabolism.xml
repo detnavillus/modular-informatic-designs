@@ -1,0 +1,17 @@
+<Record>
+<Term>Inborn Errors Purine-Pyrimidine Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Purine-Pyrimidine Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Dihydropyrimidine Dehydrogenase Deficiency</ChildTerm>
+<ChildTerm>Gout</ChildTerm>
+<ChildTerm>Lesch-Nyhan Syndrome</ChildTerm>
+<Source>MeSH</Source>
+</Record>

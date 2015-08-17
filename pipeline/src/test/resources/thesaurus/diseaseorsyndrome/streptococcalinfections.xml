@@ -1,0 +1,21 @@
+<Record>
+<Term>Streptococcal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Ecthyma</ChildTerm>
+<ChildTerm>Endocarditis, Subacute Bacterial</ChildTerm>
+<ChildTerm>Erysipelas</ChildTerm>
+<ChildTerm>Pneumococcal Infections</ChildTerm>
+<ChildTerm>Rheumatic Fever</ChildTerm>
+<ChildTerm>Scarlet Fever</ChildTerm>
+<ChildTerm>Impetigo</ChildTerm>
+<Synonym>Streptococcal Infections</Synonym>
+<Synonym>Streptococcal Infection</Synonym>
+<Description>Infections with bacteria of the genus STREPTOCOCCUS.</Description>
+<Source>MeSH</Source>
+</Record>

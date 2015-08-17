@@ -1,0 +1,17 @@
+<Record>
+<Term>Immunoadjuvant QS-DG</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/Immunoadjuvant QS-DG</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoadjuvant QS-DG</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Immunoadjuvant QS-DG</Synonym>
+<Synonym>QS-DG</Synonym>
+<Description>A synthetic saponin, chemically identical to the natural saponin QS-21, with immunoadjuvant activity. When co-administered with vaccine antigens, immunoadjuvant QS-DG may increase total antitumoral vaccine-specific antibody responses and cytotoxic T-lymphocyte (CTL) responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

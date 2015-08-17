@@ -1,0 +1,29 @@
+<Record>
+<Term>Nabumetone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Nonsteroidal Antiinflammatory Drug</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Nabumetone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Hydrocarbon/Aromatic Hydrocarbon/Naphthalene Compound/Nabumetone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Naphthalene Compound</BroaderTerm>
+<BroaderTerm>Aromatic Hydrocarbon</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Nabumetone</BroaderTerm>
+<BroaderTerm>Hydrocarbon</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Nabumetone,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Nabumetone</Synonym>
+<Synonym>Relafen</Synonym>
+<Synonym>4-(6-Methoxy-2-naphthalenyl)-2-butanone</Synonym>
+<Synonym>NABUMETONE</Synonym>
+<Description>A naphthylalkanone and non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, antipyretic and analgesic activities. Nabumetone is a prodrug that upon hepatic catalysis converts into the active moiety 6-methoxy-2-naphthylacetic acid (6MNA). 6MNA inhibits the activity of the enzymes cyclo-oxygenase I and II, resulting in decreased formation of precursors of prostaglandins and thromboxanes. The resulting decrease in prostaglandin synthesis is responsible for the therapeutic effects of nabumetone. The formation of thromboxane A2, by thromboxane synthase, is also decreased and results in an inhibition of platelet aggregation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

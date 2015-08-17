@@ -1,0 +1,19 @@
+<Record>
+<Term>Ureter Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Ureter Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Ureter Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Ureter Disorder</ChildTerm>
+<ChildTerm>Hydroureter</ChildTerm>
+<Synonym>Ureter Disease</Synonym>
+<Synonym>Ureter Disorder</Synonym>
+<Synonym>Ureteric Disease</Synonym>
+<Synonym>Ureteric Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

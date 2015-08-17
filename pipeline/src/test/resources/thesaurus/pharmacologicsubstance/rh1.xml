@@ -1,0 +1,18 @@
+<Record>
+<Term>RH1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Miscellaneous Alkylating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Miscellaneous Alkylating Agent/RH1</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>RH1</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Miscellaneous Alkylating Agent</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>RH1</Synonym>
+<Description>An alkylating aziridinylbenzoquinone with potential antineoplastic activity.  Activated by NAD(P)H: quinone acceptor oxidoreductase 1 (NQO1), RH1 induces interstrand DNA crosslinks in tumor cells that express NQO1, thereby irreversibly damaging DNA and resulting in cell death. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,14 @@
+<Record>
+<Term>Iatrogenic Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Iatrogenic Disease</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Iatrogenic Disease</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<Synonym>Iatrogenic Disease</Synonym>
+<Synonym>Iatrogenic Diseases</Synonym>
+<Description>Any adverse condition in a patient occurring as the result of treatment by a physician, surgeon, or other health professional, especially infections acquired by the patient during the course of treatment.</Description>
+<Source>MeSH</Source>
+</Record>

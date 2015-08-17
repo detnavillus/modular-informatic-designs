@@ -1,0 +1,20 @@
+<Record>
+<Term>Eyelid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eyelid Diseases</ClassificationPath>
+<BroaderTerm>Eyelid Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Blepharitis</ChildTerm>
+<ChildTerm>Blepharoptosis</ChildTerm>
+<ChildTerm>Blepharospasm</ChildTerm>
+<ChildTerm>Ectropion</ChildTerm>
+<ChildTerm>Entropion</ChildTerm>
+<ChildTerm>Eyelid Neoplasms</ChildTerm>
+<ChildTerm>Blepharophimosis</ChildTerm>
+<ChildTerm>Chalazion</ChildTerm>
+<ChildTerm>Hordeolum</ChildTerm>
+<Synonym>Eyelid Diseases</Synonym>
+<Synonym>Eyelid Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

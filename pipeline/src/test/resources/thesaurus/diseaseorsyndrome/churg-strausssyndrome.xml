@@ -1,0 +1,37 @@
+<Record>
+<Term>Churg-Strauss Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ParentTerm>
+<ParentTerm>Granuloma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Churg-Strauss Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis/Churg-Strauss Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis/Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis/Churg-Strauss Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Granuloma/Churg-Strauss Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Churg-Strauss Syndrome</BroaderTerm>
+<BroaderTerm>Granuloma</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Allergic Angiitides</Synonym>
+<Synonym>Churg-Strauss Vasculitis</Synonym>
+<Synonym>Allergic Granulomatous Angiitis</Synonym>
+<Synonym>Churg-Strauss Syndrome</Synonym>
+<Synonym>Churg Strauss Syndrome</Synonym>
+<Synonym>Allergic Angiitis</Synonym>
+<Synonym>Allergic Granulomatous Angiitides</Synonym>
+<Description>Widespread necrotizing angiitis with granulomas. Pulmonary involvement is frequent. Asthma or other respiratory infection may precede evidence of vasculitis. Eosinophilia and lung involvement differentiate this disease from POLYARTERITIS NODOSA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

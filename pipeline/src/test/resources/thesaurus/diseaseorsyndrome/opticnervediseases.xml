@@ -1,0 +1,36 @@
+<Record>
+<Term>Optic Nerve Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cranial Nerve Diseases</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases</ClassificationPath>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Optic Neuritis</ChildTerm>
+<ChildTerm>Optic Nerve Neoplasms</ChildTerm>
+<ChildTerm>Optic Neuropathy, Ischemic</ChildTerm>
+<ChildTerm>Optic Disk Drusen</ChildTerm>
+<ChildTerm>Papilledema</ChildTerm>
+<ChildTerm>Optic Nerve Injuries</ChildTerm>
+<ChildTerm>Optic Atrophy</ChildTerm>
+<ChildTerm>Low Tension Glaucoma</ChildTerm>
+<Synonym>Cranial Nerve II Diseases</Synonym>
+<Synonym>Optic Neuropathies</Synonym>
+<Synonym>Foster Kennedy Syndrome</Synonym>
+<Synonym>Optic Nerve Disease</Synonym>
+<Synonym>Neural-Optical Lesion</Synonym>
+<Synonym>Neural-Optical Lesions</Synonym>
+<Synonym>Foster-Kennedy Syndrome</Synonym>
+<Synonym>Neural Optical Lesion</Synonym>
+<Synonym>Optic Disk Disorder</Synonym>
+<Synonym>Optic Disk Disorders</Synonym>
+<Synonym>Cranial Nerve II Disorder</Synonym>
+<Synonym>Optic Nerve Diseases</Synonym>
+<Synonym>Optic Neuropathy</Synonym>
+<Synonym>Second Cranial Nerve Diseases</Synonym>
+<Description>Conditions which produce injury or dysfunction of the second cranial or optic nerve, which is generally considered a component of the central nervous system. Damage to optic nerve fibers may occur at or near their origin in the retina, at the optic disk, or in the nerve, optic chiasm, optic tract, or lateral geniculate nuclei. Clinical manifestations may include decreased visual acuity and contrast sensitivity, impaired color vision, and an afferent pupillary defect.</Description>
+<Source>MeSH</Source>
+</Record>

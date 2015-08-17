@@ -1,0 +1,18 @@
+<Record>
+<Term>Modified Vaccinia Ankara (Bavarian Nordic)-HER2 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Modified Vaccinia Ankara (Bavarian Nordic)-HER2 Vaccine</ClassificationPath>
+<BroaderTerm>Modified Vaccinia Ankara (Bavarian Nordic)-HER2 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>MVA-BN-HER2</Synonym>
+<Synonym>Modified Vaccinia Ankara (Bavarian Nordic)-HER2 Vaccine</Synonym>
+<Description>A cancer vaccine consisting of a proprietary, recombinant modified vaccinia Ankara (MVA) viral vector encoding an epitope of human epidermal growth factor receptor 2 (HER2) with potential antineoplastic activity. Upon administration, modified vaccinia Ankara (Bavarian Nordic)-HER2 vaccine may stimulate the host immune system to mount humoral and cytotoxic T lymphocyte responses against HER2-expressing tumor cells, resulting in tumor cell lysis. HER2, also known as ErbB-2, is a tyrosine kinase growth factor receptor and a member of the epidermal growth factor receptor family; it plays a significant role in the pathogenesis of some breast cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,45 @@
+<Record>
+<Term>Usher Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinitis Pigmentosa</ParentTerm>
+<ParentTerm>Deaf-Blind Disorders</ParentTerm>
+<ParentTerm>Hearing Loss, Sensorineural</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration/Retinitis Pigmentosa/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Deaf-Blind Disorders/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Deafness/Deaf-Blind Disorders/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness/Deaf-Blind Disorders/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Eye Diseases, Hereditary/Retinitis Pigmentosa/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Deafness/Deaf-Blind Disorders/Usher Syndromes</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Blindness/Deaf-Blind Disorders/Usher Syndromes</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Usher Syndromes</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Blindness</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Deaf-Blind Disorders</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Deafness</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Retinitis Pigmentosa</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Hearing Loss, Sensorineural</BroaderTerm>
+<Synonym>Usher Syndromes</Synonym>
+<Synonym>Usher Syndrome</Synonym>
+<Description>Autosomal recessive hereditary disorders characterized by congenital SENSORINEURAL HEARING LOSS and RETINITIS PIGMENTOSA. Genetically and symptomatically heterogeneous, clinical classes include type I, type II, and type III. Their severity, age of onset of retinitis pigmentosa and the degree of vestibular dysfunction are variable.</Description>
+<Source>MeSH</Source>
+</Record>

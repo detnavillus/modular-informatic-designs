@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-EpCAM Antibody Fragment-Bouganin Fusion Protein</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Anti-EpCAM Antibody Fragment-Bouganin Fusion Protein</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Anti-EpCAM Antibody Fragment-Bouganin Fusion Protein</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-EpCAM Antibody Fragment-Bouganin Fusion Protein</Synonym>
+<Synonym>VB6-845</Synonym>
+<Description>A fusion protein immunotoxin consisting of a humanized, single-chain monoclonal antibody Fab fragment specific for the epithelial cell adhesion molecule (EpCAM) conjugated with a modified bouganin cytotoxin with potential antineoplastic activity. Anti-EpCAM antibody fragment-bouganin fusion protein binds to EpCAM, delivering modified bouganin cytotoxin directly to EpCam-positive tumor cells, which may result in the inhibition of tumor cell protein synthesis and tumor cell death. EpCAM, a cell surface protein, is expressed by a variety of tumor cells and is frequently found in head and neck cancers. Bouganin is a plant-derived ribosome-inactivating protein (RIP), a toxic plant N-glycosidase that depurinates the universally conserved alpha-sarcin loop of ribosomal rRNA, inactivating the ribosome and preventing protein synthesis. Compared to unmodified bouganins, modified bouganins may have a reduced propensity to activate human T cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

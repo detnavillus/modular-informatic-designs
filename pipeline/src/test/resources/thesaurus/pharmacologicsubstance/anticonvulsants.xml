@@ -1,0 +1,99 @@
+<Record>
+<Term>Anticonvulsants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Anticonvulsants</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anticonvulsants</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Taltrimide</ChildTerm>
+<ChildTerm>Brosuximide</ChildTerm>
+<ChildTerm>Phenacemide</ChildTerm>
+<ChildTerm>Phenobarbital</ChildTerm>
+<ChildTerm>Primidone</ChildTerm>
+<ChildTerm>Lamotrigine</ChildTerm>
+<ChildTerm>Fosphenytoin Sodium</ChildTerm>
+<ChildTerm>Fenaclon</ChildTerm>
+<ChildTerm>Ilepcimide</ChildTerm>
+<ChildTerm>Pregabalin</ChildTerm>
+<ChildTerm>Flutoprazepam</ChildTerm>
+<ChildTerm>Valproate Pivoxil</ChildTerm>
+<ChildTerm>Felbamate</ChildTerm>
+<ChildTerm>Magnesium Sulfate</ChildTerm>
+<ChildTerm>Magnesium Valproate</ChildTerm>
+<ChildTerm>Endixaprine</ChildTerm>
+<ChildTerm>Meprobamate</ChildTerm>
+<ChildTerm>Gabapentin</ChildTerm>
+<ChildTerm>Oxcarbazepine</ChildTerm>
+<ChildTerm>Mephenytoin</ChildTerm>
+<ChildTerm>Valproic Acid</ChildTerm>
+<ChildTerm>Zonisamide</ChildTerm>
+<ChildTerm>Divalproex</ChildTerm>
+<ChildTerm>Topiramate</ChildTerm>
+<ChildTerm>Piriqualone</ChildTerm>
+<ChildTerm>Valproate Sodium</ChildTerm>
+<ChildTerm>Tetrantoin</ChildTerm>
+<ChildTerm>Pheneturide</ChildTerm>
+<ChildTerm>Tiagabine</ChildTerm>
+<ChildTerm>Phenytoin</ChildTerm>
+<ChildTerm>Carbamazepine</ChildTerm>
+<ChildTerm>Clonazepam</ChildTerm>
+<ChildTerm>Riluzole</ChildTerm>
+<ChildTerm>Licostinel</ChildTerm>
+<ChildTerm>Fosphenytoin</ChildTerm>
+<ChildTerm>Dimemorfan</ChildTerm>
+<ChildTerm>Bamaluzole</ChildTerm>
+<ChildTerm>Divalproex Sodium</ChildTerm>
+<ChildTerm>Phenytoin Sodium</ChildTerm>
+<ChildTerm>Dizocilpine</ChildTerm>
+<ChildTerm>Loreclezole</ChildTerm>
+<ChildTerm>Ethosuximide</ChildTerm>
+<ChildTerm>Levetiracetam</ChildTerm>
+<ChildTerm>Dinazafone</ChildTerm>
+<ChildTerm>Retigabine</ChildTerm>
+<ChildTerm>Methsuximide</ChildTerm>
+<ChildTerm>Ethotoin</ChildTerm>
+<ChildTerm>Morsuximide</ChildTerm>
+<ChildTerm>Paramethadione</ChildTerm>
+<ChildTerm>Phensuximide</ChildTerm>
+<ChildTerm>Diphoxazide</ChildTerm>
+<ChildTerm>Etazepine</ChildTerm>
+<ChildTerm>Tolgabide</ChildTerm>
+<ChildTerm>Bretazenil</ChildTerm>
+<ChildTerm>Suclofenide</ChildTerm>
+<ChildTerm>Febarbamate</ChildTerm>
+<ChildTerm>Magnesium Sulfate Anhydrous</ChildTerm>
+<ChildTerm>Pivagabine</ChildTerm>
+<ChildTerm>Brivaracetam</ChildTerm>
+<ChildTerm>Seletracetam</ChildTerm>
+<ChildTerm>Trimethadione</ChildTerm>
+<ChildTerm>Tiagabine Hydrochloride</ChildTerm>
+<ChildTerm>Dulozafone</ChildTerm>
+<ChildTerm>Talampanel</ChildTerm>
+<Synonym>Anticonvulsant Agent</Synonym>
+<Synonym>Anticonvulsive Drugs</Synonym>
+<Synonym>Anticonvulsants</Synonym>
+<Synonym>Antiepileptic Agent</Synonym>
+<Synonym>Antiepileptics</Synonym>
+<Synonym>Anticonvulsive Agents</Synonym>
+<Synonym>Anti-seizure agent</Synonym>
+<Synonym>Anticonvulsant Drugs</Synonym>
+<Synonym>Antiepileptic Agents</Synonym>
+<Synonym>Antiepileptic Drugs</Synonym>
+<Synonym>anticonvulsants</Synonym>
+<Synonym>Anticonvulsant Agents</Synonym>
+<Description>Drugs used to prevent SEIZURES or reduce their severity.</Description>
+<Description>Medicine to stop, prevent, or control seizures (convulsions).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

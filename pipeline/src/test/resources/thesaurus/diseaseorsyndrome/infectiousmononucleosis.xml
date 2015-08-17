@@ -1,0 +1,30 @@
+<Record>
+<Term>Infectious Mononucleosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leukocyte Disorders</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Epstein-Barr Virus Infections</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders/Infectious Mononucleosis</ClassificationPath>
+<ClassificationPath>Infectious Mononucleosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Infectious Mononucleosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Infectious Mononucleosis</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Epstein-Barr Virus Infections/Infectious Mononucleosis</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Infectious Mononucleosis</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Epstein-Barr Virus Infections</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Infectious Mononucleosis</Synonym>
+<Synonym>Glandular Fever</Synonym>
+<Description>A common, acute infection usually caused by the Epstein-Barr virus (HERPESVIRUS 4, HUMAN). There is an increase in mononuclear white blood cells and other atypical lymphocytes, generalized lymphadenopathy, splenomegaly, and occasionally hepatomegaly with hepatitis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

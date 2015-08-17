@@ -1,0 +1,24 @@
+<Record>
+<Term>Lung Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Lung Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Lung Abscess</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Lung Abscess</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pulmonary Abscess</Synonym>
+<Synonym>Lung Abscesses</Synonym>
+<Synonym>Pulmonary Abscesses</Synonym>
+<Synonym>Lung Abscess</Synonym>
+<Description>Solitary or multiple collections of PUS within the lung parenchyma as a result of infection by bacteria, protozoa, or other agents.</Description>
+<Source>MeSH</Source>
+</Record>

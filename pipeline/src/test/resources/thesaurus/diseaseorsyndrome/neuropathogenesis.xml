@@ -1,0 +1,14 @@
+<Record>
+<Term>Neuropathogenesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathogenesis</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Pathogenesis/Neuropathogenesis</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Neuropathogenesis</BroaderTerm>
+<BroaderTerm>Pathogenesis</BroaderTerm>
+<Synonym>Neuropathogenesis</Synonym>
+<Description>The origin or causation of a disease of the nervous system.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Central Nervous System Stimulants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Stimulants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Stimulants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Central Nervous System Stimulants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Appetite Stimulants</ChildTerm>
+<ChildTerm>Convulsants</ChildTerm>
+<ChildTerm>Aphrodisiacs</ChildTerm>
+<Synonym>Analeptics</Synonym>
+<Synonym>Analeptic Agents</Synonym>
+<Synonym>Central Nervous System Stimulants</Synonym>
+<Synonym>Central Stimulants</Synonym>
+<Synonym>Analeptic Drugs</Synonym>
+<Description>A loosely defined group of drugs that tend to increase behavioral alertness, agitation, or excitation. They work by a variety of mechanisms, but usually not by direct excitation of neurons. The many drugs that have such actions as side effects to their main therapeutic use are not included here.</Description>
+<Source>MeSH</Source>
+</Record>

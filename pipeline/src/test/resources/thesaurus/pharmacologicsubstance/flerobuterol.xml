@@ -1,0 +1,20 @@
+<Record>
+<Term>Flerobuterol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Beta-Adrenergic Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Flerobuterol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Flerobuterol</ClassificationPath>
+<BroaderTerm>Flerobuterol</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antidepressant Agent</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Flerobuterol,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FLEROBUTEROL</Synonym>
+<Synonym>Flerobuterol</Synonym>
+<Description>A beta-adrenoceptor agonist with potential antidepressant activity. Even though preferentially interacts with beta-adrenergic receptors, flerobuterol may exhibit antidepressant activity. Sustained administration of flerobuterol, similar to other beta-adrenergic agonists, may increase serotonin (5-HT) synthesis, thereby enhance serotonergic neurotransmission, partially through an increased transport of the serotonin precursor (tryptophan) to brain.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

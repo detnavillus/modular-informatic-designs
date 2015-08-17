@@ -1,0 +1,15 @@
+<Record>
+<Term>Maxillary Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Jaw Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Maxillary Diseases</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Maxillary Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Maxillary Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<ChildTerm>Maxillary Neoplasms</ChildTerm>
+<Synonym>Maxillary Disease</Synonym>
+<Synonym>Maxillary Diseases</Synonym>
+<Source>MeSH</Source>
+</Record>

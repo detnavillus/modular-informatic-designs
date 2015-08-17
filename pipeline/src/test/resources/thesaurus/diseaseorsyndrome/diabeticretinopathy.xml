@@ -1,0 +1,38 @@
+<Record>
+<Term>Diabetic Retinopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinopathy</ParentTerm>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Diabetic Angiopathies</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder/Retinopathy/Diabetic Retinopathy,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Retinal Vascular Disorder/Diabetic Retinopathy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Angiopathies/Diabetic Retinopathy</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Diabetic Angiopathies/Diabetic Retinopathy</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Diabetic Retinopathy</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Diabetic Retinopathy</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Retinal Vascular Disorder</BroaderTerm>
+<BroaderTerm>Retinopathy</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Diabetic Angiopathies</BroaderTerm>
+<BroaderTerm>Diabetic Retinopathy,</BroaderTerm>
+<ChildTerm>Non-Proliferative Diabetic Retinopathy</ChildTerm>
+<ChildTerm>Background Diabetic Retinopathy</ChildTerm>
+<Synonym>Diabetic Retinopathies</Synonym>
+<Synonym>Diabetic Retinopathy</Synonym>
+<Description>Disease of the RETINA as a complication of DIABETES MELLITUS. It is characterized by the progressive microvascular complications, such as ANEURYSM, interretinal EDEMA, and intraocular PATHOLOGIC NEOVASCULARIZATION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

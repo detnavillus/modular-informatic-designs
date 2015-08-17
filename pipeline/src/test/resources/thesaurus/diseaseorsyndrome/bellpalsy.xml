@@ -1,0 +1,33 @@
+<Record>
+<Term>Bell Palsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Facial Nerve Diseases</ParentTerm>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Herpesviridae Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Facial Nerve Diseases/Bell Palsy</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Bell Palsy</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Bell Palsy</ClassificationPath>
+<BroaderTerm>Facial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bell Palsy</BroaderTerm>
+<Synonym>Bell's Palsy</Synonym>
+<Synonym>Idiopathic Facial Paralysis</Synonym>
+<Synonym>Herpetic Facial Paralyses</Synonym>
+<Synonym>Acute Idiopathic Facial Neuropathy</Synonym>
+<Synonym>Bells Palsy</Synonym>
+<Synonym>Bell Palsies</Synonym>
+<Synonym>Acute Inflammatory Facial Neuropathy</Synonym>
+<Synonym>Herpetic Facial Paralysis</Synonym>
+<Synonym>Idiopathic Facial Paralyses</Synonym>
+<Synonym>Bell Palsy</Synonym>
+<Synonym>Idiopathic Acute Facial Neuropathy</Synonym>
+<Synonym>Bell's Palsies</Synonym>
+<Description>A syndrome characterized by the acute onset of unilateral FACIAL PARALYSIS which progresses over a 2-5 day period. Weakness of the orbicularis oculi muscle and resulting incomplete eye closure may be associated with corneal injury. Pain behind the ear often precedes the onset of paralysis. This condition may be associated with HERPESVIRUS 1, HUMAN infection of the facial nerve. (Adams et al., Principles of Neurology, 6th ed, p1376)</Description>
+<Source>MeSH</Source>
+</Record>

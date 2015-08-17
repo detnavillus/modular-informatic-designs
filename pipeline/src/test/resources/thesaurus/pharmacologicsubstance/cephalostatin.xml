@@ -1,0 +1,15 @@
+<Record>
+<Term>Cephalostatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cephalostatin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Cephalostatin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cephalostatin</Synonym>
+<Description>The cephalostatins comprise a family of more than 30 trisdecacyclic bissteroidal pyrazines with extreme cytotoxicity against human tumors, isolated from the African marine worm Cephalodiscus gilchristi. The mechanism of action of these compounds remains unknown. Beside a steroidal platform, critical features implicated in the pharmacophore include a set of covalently linked polar and nonpolar domains and the spiroketals. It was shown that cephalostatin 1 induces a novel pathway of receptor-independent apoptosis that selectively uses Smac/DIABLO (second mitochondria-derived activator of caspases/direct inhibitor of apoptosis-binding protein with a low isoelectric point) as a mitochondrial signaling molecule. Apoptosis was found to be dependent on caspase activity because the pan-caspase inhibitor benzyloxycarbonyl-Val-Ala-Asp(OMe)-fluoromethylketone blocks cephalostatin 1-mediated DNA fragmentation. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

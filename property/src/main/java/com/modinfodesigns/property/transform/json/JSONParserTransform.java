@@ -1,6 +1,7 @@
 package com.modinfodesigns.property.transform.json;
 
 import com.modinfodesigns.property.DataObject;
+import com.modinfodesigns.property.IDataObjectBuilder;
 import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.PropertyList;
 
@@ -23,9 +24,9 @@ import org.slf4j.LoggerFactory;
  * @author Ted Sullivan
  */
 
-// Replace this with Jackson Library???
+// TO DO - make this an IPropertyHolderTransform - transform a String Field into a DataObject field
 
-public class JSONParserTransform extends BasePropertyTransform
+public class JSONParserTransform extends BasePropertyTransform implements IDataObjectBuilder
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( JSONParserTransform.class );
 
@@ -119,7 +120,9 @@ public class JSONParserTransform extends BasePropertyTransform
       ArrayList<String> values = (ArrayList<String>)value;
       for (int i = 0; i < values.size(); i++)
       {
-        pl.addProperty( transformString( values.get(i) ));
+        IProperty prop = transformString( values.get(i) );
+        prop.setName( name );
+        pl.addProperty( prop );
       }
             
       return pl;
@@ -154,11 +157,11 @@ public class JSONParserTransform extends BasePropertyTransform
 
   private Object getValue( String pJsonString )
   {
-    LOG.debug( "getValue: " + pJsonString );
+    LOG.debug( "getValue: '" + pJsonString + "'" );
         
     if (pJsonString == null || pJsonString.indexOf( ":" ) < 0)
     {
-      return pJsonString;
+      return (StringTransform.isInteger( pJsonString.trim() ) ) ? new Integer( pJsonString.trim() ) : pJsonString;
     }
         
     String jsonString = pJsonString.trim();
@@ -189,11 +192,15 @@ public class JSONParserTransform extends BasePropertyTransform
     }
     else if (value.trim().startsWith( "\"" ))
     {
-      return findMatching( value.trim(), "\"", "\"" );
+      LOG.debug( "value = '" + value + "'" );
+      String matching = findMatching( value.trim(), "\"", "\"" );
+      LOG.debug( "matching = '" + matching + "'" );
+      return matching;
     }
-    else if (StringTransform.isInteger( value ))
+    else if (StringTransform.isInteger( value.trim() ))
     {
-      return new Integer( value );
+      LOG.debug( "Integer!" );
+      return new Integer( value.trim( ) );
     }
         
     if (value != null && value.trim().endsWith( "}" )) value = value.trim().substring( 0, value.lastIndexOf( "}" ));
@@ -276,6 +283,7 @@ public class JSONParserTransform extends BasePropertyTransform
     return valueList;
   }
     
+  @Override
   public DataObject createDataObject( String propString )
   {
     LOG.debug( "createDataObject: '" + propString + "'" );
@@ -383,7 +391,9 @@ public class JSONParserTransform extends BasePropertyTransform
           pl.setName( name );
           for (int i = 0; i < jsonArray.size( ); i++)
           {
-            pl.addProperty( transformString( jsonArray.get( i ) ));
+            IProperty prop = transformString( jsonArray.get( i ) );
+            prop.setName( name );
+            pl.addProperty( prop );
           }
                     
           dobj.addProperty( pl );
@@ -393,8 +403,8 @@ public class JSONParserTransform extends BasePropertyTransform
           // find the comma or not, create a property from the valStr
           if (valStr.indexOf( "," ) > 0)
           {
-            valStr = new String( currProp.substring( 0, valStr.indexOf( "," ) ) );
-                        
+            valStr = new String( valStr.substring( 0, valStr.indexOf( "," ) ) ).trim( );
+            LOG.debug( "valStr = '" + valStr + "'" );
             if (nameLabel != null && name.equals( nameLabel ))
             {
               dobj.setName( valStr );
@@ -410,7 +420,7 @@ public class JSONParserTransform extends BasePropertyTransform
             else
             {
               Object valOb = getValue( valStr );
-
+              LOG.debug( "getting value for '" + valStr + "'" );
               // check if Integer, etc...
               if (valOb instanceof String)
               {
@@ -449,7 +459,9 @@ public class JSONParserTransform extends BasePropertyTransform
         ArrayList<String> values = (ArrayList<String>)value;
         for (int i = 0, isz = values.size( ); i < isz; i++)
         {
-          pl.addProperty( transformString( values.get(i) ));
+          IProperty prop = transformString( values.get(i) );
+          prop.setName( name );
+          pl.addProperty( prop );
         }
                 
         dobj.addProperty( pl );
@@ -507,9 +519,20 @@ public class JSONParserTransform extends BasePropertyTransform
 
   private String findMatching( String input, String endChar )
   {
-    LOG.debug( "findMatching..." );
-        
-    return (input.indexOf( endChar ) >= 0) ? new String( input.substring( 0, input.indexOf( endChar ))) : input;
+    char endCh = endChar.charAt( 0 );
+      
+    int i = 0;
+    boolean escaped = false;
+    while ( i < input.length() )
+    {
+      if      (escaped) escaped = false;
+      else if (input.charAt( i ) == '\\' )      escaped = true;
+      else if (input.charAt( i ) == endCh )   break;
+      ++i;
+    }
+      
+    String result = new String( input.substring( 0, i ) );
+    return result;
   }
     
   private String findMatching( String input, String start, String end )

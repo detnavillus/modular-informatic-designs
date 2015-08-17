@@ -1,0 +1,16 @@
+<Record>
+<Term>PI3K Family Kinase Inhibitor XL147</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protein Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/PI3K Family Kinase Inhibitor XL147</ClassificationPath>
+<BroaderTerm>PI3K Family Kinase Inhibitor XL147</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>PI3K Family Kinase Inhibitor XL147</Synonym>
+<Synonym>XL147</Synonym>
+<Description>An orally bioavailable small molecule, targeting the class I phosphatidylinositol 3 kinase (PI3K) family of lipid kinases, with potential antineoplastic activity. Class 1 PI3K kinase family inhibitor XL147 reversibly binds to class 1 PI3Ks in an ATP-competitive manner, inhibiting the production of the secondary messenger phosphatidylinositol-3,4,5-trisphosphate (PIP3) and activation of the PI3K signaling pathway; this may result in inhibition of tumor cell growth and survival in susceptible tumor cell populations. Activation of the PI3K signaling pathway is frequently associated with tumorigenesis. Dysregulated PI3K signaling may contribute to tumor resistance to a variety of antineoplastic agents including genotoxic agents and receptor tyrosine kinase inhibitors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,33 @@
+<ConfigurationXML>
+
+  <DataSource name="XMLDataSource" class="com.modinfodesigns.pipeline.source.XMLDataSource"
+              XMLFilePath="TestEntityExtractorPipeline/data/InputXMLFiles" />
+
+
+  <DataProcessor class="com.modinfodesigns.pipeline.process.DataTransformProcessor" >
+
+    <DataTransform class="com.modinfodesigns.classify.Classifier" >
+
+      <ClassifyField>Title</ClassifyField>
+      <ClassifyField>HtmlPageData</ClassifyField>
+
+      <IndexMatcherFactory class="com.modinfodesigns.classify.ThesaurusIndexMatcherFactory"
+                           termAttribute="KeyTerm"
+                           synonymAttribute="Synonym" >
+
+        <PropertyList type="TagProperties" >
+          <Property name="ClassifiedDate"  type="Date"   value="NOW"  format="MM/dd/yy hh:mm:ss" />
+        </PropertyList>
+
+        <ThesaurusDirectory>thesaurus/educationalinstitutionname</ThesaurusDirectory>
+
+      </IndexMatcherFactory>
+
+    </DataTransform>
+
+  </DataProcessor>
+
+  <DataProcessor class="com.modinfodesigns.pipeline.process.FileDataProcessor"
+                 outputDirectory="TestEntityExtractorPipeline/data/ClassifiedXMLFiles" />
+
+</ConfigurationXML>

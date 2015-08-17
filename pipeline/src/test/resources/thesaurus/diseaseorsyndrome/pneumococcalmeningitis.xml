@@ -1,0 +1,31 @@
+<Record>
+<Term>Pneumococcal Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Experimental Model of Disease</SemanticType>
+<ParentTerm>Pneumococcal Infections</ParentTerm>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Pneumococcal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Pneumococcal Infections/Meningitis, Pneumococcal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Meningitis, Pneumococcal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Pneumococcal</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pneumococcal Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Meningitis, Pneumococcal</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<Synonym>Experimental Pneumococcal Meningitides</Synonym>
+<Synonym>Experimental Pneumococcal Meningitis</Synonym>
+<Synonym>Pneumococcal Meningitis</Synonym>
+<Synonym>Streptococcus pneumoniae Meningitis</Synonym>
+<Synonym>Streptococcus pneumoniae Meningitides</Synonym>
+<Synonym>Pneumococcal Meningitides</Synonym>
+<Description>An acute purulent infection of the meninges and subarachnoid space caused by Streptococcus pneumoniae, most prevalent in children and adults over the age of 60. This illness may be associated with OTITIS MEDIA; MASTOIDITIS; SINUSITIS; RESPIRATORY TRACT INFECTIONS; sickle cell disease (ANEMIA, SICKLE CELL); skull fractures; and other disorders. Clinical manifestations include FEVER; HEADACHE; neck stiffness; and somnolence followed by SEIZURES; focal neurologic deficits (notably DEAFNESS); and COMA. (From Miller et al., Merritt's Textbook of Neurology, 9th ed, p111)</Description>
+<Source>MeSH</Source>
+</Record>

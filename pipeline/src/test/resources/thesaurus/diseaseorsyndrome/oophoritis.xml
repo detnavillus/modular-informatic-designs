@@ -1,0 +1,22 @@
+<Record>
+<Term>Oophoritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ovarian Diseases</ParentTerm>
+<ParentTerm>Pelvic Inflammatory Disease</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Pelvic Inflammatory Disease/Oophoritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Ovarian Diseases/Oophoritis</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Ovarian Diseases/Oophoritis</ClassificationPath>
+<BroaderTerm>Oophoritis</BroaderTerm>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Ovarian Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pelvic Inflammatory Disease</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Oophoritis</Synonym>
+<Synonym>Oophoritides</Synonym>
+<Description>Inflammation of the OVARY, generally caused by an ascending infection of organisms from the endocervix.</Description>
+<Source>MeSH</Source>
+</Record>

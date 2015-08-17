@@ -1,0 +1,32 @@
+<Record>
+<Term>Psoriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Papulosquamous</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Psoriasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Psoriasis</ClassificationPath>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Psoriasis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Arthritis, Psoriatic</ChildTerm>
+<Synonym>Pustulosis of Palms and Soles</Synonym>
+<Synonym>Psoriasis</Synonym>
+<Synonym>psoriasis</Synonym>
+<Synonym>Pustulosis Palmaris et Plantaris</Synonym>
+<Synonym>Psoriases</Synonym>
+<Synonym>Palmoplantaris Pustulosis</Synonym>
+<Synonym>Pustular Psoriasis of Palms and Soles</Synonym>
+<Description>A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.</Description>
+<Description>A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. Psoriatic lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region; the pathology involves an accelerated epidermopoiesis. Psoriasis is associated with increased risk for melanoma, squamous cell carcinoma, and basal cell carcinoma. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

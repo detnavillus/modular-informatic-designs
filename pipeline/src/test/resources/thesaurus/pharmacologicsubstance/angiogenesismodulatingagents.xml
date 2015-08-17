@@ -1,0 +1,18 @@
+<Record>
+<Term>Angiogenesis Modulating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Functional Concept</SemanticType>
+<ParentTerm>Growth Substances</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Growth Substances/Angiogenesis Modulating Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Angiogenesis Modulating Agents</BroaderTerm>
+<BroaderTerm>Growth Substances</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Angiogenesis Inhibitors</ChildTerm>
+<ChildTerm>Angiogenesis Inducing Agents</ChildTerm>
+<Synonym>Angiogenesis Modulating Agents</Synonym>
+<Synonym>Angiogenesis Modulators</Synonym>
+<Description>Agents that modulate the PHYSIOLOGIC ANGIOGENESIS process. This is accomplished by endogenous ANGIOGENIC PROTEINS and a variety of other chemicals and pharmaceutical agents.</Description>
+<Source>MeSH</Source>
+</Record>

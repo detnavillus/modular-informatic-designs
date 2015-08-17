@@ -1,0 +1,20 @@
+<Record>
+<Term>Tetrathionic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Sulfuric Acids</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Acids/Acids, Noncarboxylic/Sulfur Acids/Sulfuric Acids/Tetrathionic Acid</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sulfur Compounds/Sulfur Acids/Sulfuric Acids/Tetrathionic Acid</ClassificationPath>
+<BroaderTerm>Sulfur Acids</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Acids</BroaderTerm>
+<BroaderTerm>Acids, Noncarboxylic</BroaderTerm>
+<BroaderTerm>Tetrathionic Acid</BroaderTerm>
+<BroaderTerm>Sulfur Compounds</BroaderTerm>
+<BroaderTerm>Sulfuric Acids</BroaderTerm>
+<Synonym>Potassium Tetrathionate</Synonym>
+<Synonym>Sodium Tetrathionate</Synonym>
+<Synonym>Tetrathionic Acid</Synonym>
+<Description>A sulfuric acid dimer, formed by disulfide linkage. This compound has been used to prolong coagulation time and as an antidote in cyanide poisoning.</Description>
+<Source>MeSH</Source>
+</Record>

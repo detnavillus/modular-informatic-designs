@@ -1,0 +1,16 @@
+<Record>
+<Term>Mycoplasmatales Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Mycoplasmatales Infections</ClassificationPath>
+<BroaderTerm>Mycoplasmatales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Mycoplasma Infections</ChildTerm>
+<ChildTerm>Ureaplasma Infections</ChildTerm>
+<Synonym>Mycoplasmatales Infections</Synonym>
+<Synonym>Mycoplasmatales Infection</Synonym>
+<Description>Infections with bacteria of the order MYCOPLASMATALES.</Description>
+<Source>MeSH</Source>
+</Record>

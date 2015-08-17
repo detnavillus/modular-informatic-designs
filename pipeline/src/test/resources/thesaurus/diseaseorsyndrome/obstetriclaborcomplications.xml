@@ -1,0 +1,27 @@
+<Record>
+<Term>Obstetric Labor Complications</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<ChildTerm>Breech Presentation</ChildTerm>
+<ChildTerm>Fetal Membranes, Premature Rupture</ChildTerm>
+<ChildTerm>Abruptio Placentae</ChildTerm>
+<ChildTerm>Dystocia</ChildTerm>
+<ChildTerm>Placenta Accreta</ChildTerm>
+<ChildTerm>Placenta Previa</ChildTerm>
+<ChildTerm>Uterine Rupture</ChildTerm>
+<ChildTerm>Uterine Inversion</ChildTerm>
+<ChildTerm>Obstetric Labor, Premature</ChildTerm>
+<ChildTerm>Cephalopelvic Disproportion</ChildTerm>
+<ChildTerm>Vasa Previa</ChildTerm>
+<ChildTerm>Postpartum Hemorrhage</ChildTerm>
+<Synonym>Obstetric Labor Complications</Synonym>
+<Synonym>Obstetric Labor Complication</Synonym>
+<Synonym>Labor Complications</Synonym>
+<Synonym>Labor Complication</Synonym>
+<Description>Medical problems associated with OBSTETRIC LABOR, such as BREECH PRESENTATION; PREMATURE OBSTETRIC LABOR; HEMORRHAGE; or others. These complications can affect the well-being of the mother, the FETUS, or both.</Description>
+<Source>MeSH</Source>
+</Record>

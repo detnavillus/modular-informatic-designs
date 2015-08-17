@@ -1,0 +1,27 @@
+<Record>
+<Term>Hereditary Central Nervous System Demyelinating Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Demyelinating Diseases</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Hereditary Central Nervous System Demyelinating Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Hereditary Central Nervous System Demyelinating Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Hereditary Central Nervous System Demyelinating Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Hereditary Central Nervous System Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Leukodystrophy, Metachromatic</ChildTerm>
+<ChildTerm>Alexander Disease</ChildTerm>
+<ChildTerm>Canavan Disease</ChildTerm>
+<ChildTerm>Adrenoleukodystrophy</ChildTerm>
+<ChildTerm>Pelizaeus-Merzbacher Disease</ChildTerm>
+<ChildTerm>Leukodystrophy, Globoid Cell</ChildTerm>
+<Synonym>Central Nervous System Demyelinating Hereditary Diseases</Synonym>
+<Synonym>Central Nervous System Hereditary Demyelinating Diseases</Synonym>
+<Synonym>Hereditary Central Nervous System Demyelinating Diseases</Synonym>
+<Description>Inherited conditions characterized by a loss of myelin in the central nervous system.</Description>
+<Source>MeSH</Source>
+</Record>

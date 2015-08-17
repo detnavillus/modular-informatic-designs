@@ -1,0 +1,34 @@
+<Record>
+<Term>Phytoestrogens</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Classification</SemanticType>
+<ParentTerm>Estrogens, Non-Steroidal</ParentTerm>
+<ParentTerm>Environmental Estrogen</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Estrogens/Estrogens, Non-Steroidal/Phytoestrogens</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Estrogen/Environmental Estrogen/Phytoestrogen</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Estrogens</BroaderTerm>
+<BroaderTerm>Estrogens, Non-Steroidal</BroaderTerm>
+<BroaderTerm>Phytoestrogen</BroaderTerm>
+<BroaderTerm>Environmental Estrogen</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Therapeutic Estrogen</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Phytoestrogens</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Taleranol</ChildTerm>
+<ChildTerm>Masoprocol</ChildTerm>
+<Synonym>Phyto Estrogen</Synonym>
+<Synonym>Phytoestrogen</Synonym>
+<Synonym>Phyto-Estrogen</Synonym>
+<Synonym>Phytoestrogens</Synonym>
+<Description>PLANT EXTRACTS and compounds, primarily ISOFLAVONES, that mimic or modulate endogenous estrogens, usually by binding to ESTROGEN RECEPTORS.</Description>
+<Description>Compounds from plant sources with estrogen-like activities</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

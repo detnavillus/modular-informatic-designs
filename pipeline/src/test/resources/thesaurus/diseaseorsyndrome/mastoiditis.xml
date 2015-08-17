@@ -1,0 +1,15 @@
+<Record>
+<Term>Mastoiditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis Media</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Otitis Media/Mastoiditis</ClassificationPath>
+<BroaderTerm>Mastoiditis</BroaderTerm>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otitis Media</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<Synonym>Mastoiditis</Synonym>
+<Synonym>Mastoiditides</Synonym>
+<Description>Inflammation of the honeycomb-like MASTOID BONE in the skull just behind the ear. It is usually a complication of OTITIS MEDIA.</Description>
+<Source>MeSH</Source>
+</Record>

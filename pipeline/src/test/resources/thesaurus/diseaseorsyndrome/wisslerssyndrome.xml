@@ -1,0 +1,23 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ParentTerm>Rheumatic Fever</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Wissler's Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Rheumatic Fever/Wissler's Syndrome</ClassificationPath>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Wissler's Syndrome</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Rheumatic Fever</BroaderTerm>
+<Synonym>Subsepsis Allergica</Synonym>
+<Synonym>Wissler Fanconi Syndrome</Synonym>
+<Synonym>Subsepsis Hyperergica</Synonym>
+<Synonym>Wissler's Syndrome</Synonym>
+<Synonym>Wisslers Syndrome</Synonym>
+<Synonym>Wissler Syndrome</Synonym>
+<Synonym>Wissler-Fanconi Syndrome</Synonym>
+<Description>A rheumatic syndrome of possibly allergic origin, usually affecting children and adolescents, and characterized by high fever, exanthema, arthralgia, leukocytosis, and increased sedimentation rate.</Description>
+<Source>MeSH</Source>
+</Record>

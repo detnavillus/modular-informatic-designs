@@ -1,0 +1,24 @@
+<Record>
+<Term>Paroxysmal Hemoglobinuria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic</ParentTerm>
+<ParentTerm>Myelodysplastic Syndromes</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Hemoglobinuria, Paroxysmal</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myelodysplastic Syndromes/Hemoglobinuria, Paroxysmal</ClassificationPath>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hemoglobinuria, Paroxysmal</BroaderTerm>
+<BroaderTerm>Myelodysplastic Syndromes</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Paroxysmal Hemoglobinuria</Synonym>
+<Synonym>Paroxysmal Nocturnal Hemoglobinuria</Synonym>
+<Synonym>Marchiafava Micheli Syndrome</Synonym>
+<Synonym>Cold Paroxysmal Hemoglobinuria</Synonym>
+<Synonym>Nocturnal Paroxysmal Hemoglobinuria</Synonym>
+<Synonym>Paroxysmal Cold Hemoglobinuria</Synonym>
+<Synonym>Marchiafava-Micheli Syndrome</Synonym>
+<Description>A condition characterized by the recurrence of HEMOGLOBINURIA caused by intravascular HEMOLYSIS. In cases occurring upon cold exposure (paroxysmal cold hemoglobinuria), usually after infections, there is a circulating antibody which is also a cold hemolysin. In cases occurring during or after sleep (paroxysmal nocturnal hemoglobinuria), the clonal hematopoietic stem cells exhibit a global deficiency of cell membrane proteins.</Description>
+<Source>MeSH</Source>
+</Record>

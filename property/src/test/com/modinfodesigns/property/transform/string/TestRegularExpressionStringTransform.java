@@ -15,7 +15,7 @@ public class TestRegularExpressionStringTransform extends TestCase
     rest.setOutputPattern( "fu" );
         
     String result = rest.transformString( foobar );
-    System.out.println( result );
+    assertEquals( result, "fu is always related to bar." );
         
     String someHtml = "This is a <a href=\"foobar.com\">a hyperlink</a> Remove the hyperlink. "
                     + " Here is another hyperlink <a href=\"www.doofus.com\">not me either</a> Removed it too.";
@@ -23,7 +23,7 @@ public class TestRegularExpressionStringTransform extends TestCase
     rest.setOutputPattern( "aha" );
         
     result = rest.transformString( someHtml );
-    System.out.println( result );
+    assertEquals( result, "This is a aha Remove the hyperlink.  Here is another hyperlink aha Removed it too." );
   }
 
 }

@@ -1,0 +1,32 @@
+<Record>
+<Term>Central Nervous System Infectious Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Central Nervous System Infectious Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Nervous System Infectious Disorder/Central Nervous System Infectious Disorder</ClassificationPath>
+<BroaderTerm>Central Nervous System Infectious Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Nervous System Infectious Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Central Nervous System Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<ChildTerm>Spongiform Encephalopathy</ChildTerm>
+<ChildTerm>Myelitis</ChildTerm>
+<ChildTerm>Acute Poliomyelitis</ChildTerm>
+<ChildTerm>Cerebritis</ChildTerm>
+<ChildTerm>Meningoencephalitis</ChildTerm>
+<ChildTerm>Encephalomyelitis</ChildTerm>
+<ChildTerm>Cerebral Abscess</ChildTerm>
+<ChildTerm>Arachnoiditis</ChildTerm>
+<ChildTerm>Leukoencephalopathy</ChildTerm>
+<Synonym>Central Nervous System Infectious Disease</Synonym>
+<Synonym>Central Nervous System Infectious Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

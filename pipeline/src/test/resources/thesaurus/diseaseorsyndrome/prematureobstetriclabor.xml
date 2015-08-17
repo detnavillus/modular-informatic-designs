@@ -1,0 +1,16 @@
+<Record>
+<Term>Premature Obstetric Labor</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Obstetric Labor Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications/Obstetric Labor, Premature</ClassificationPath>
+<BroaderTerm>Obstetric Labor, Premature</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<ChildTerm>Premature Birth</ChildTerm>
+<Synonym>Preterm Labor</Synonym>
+<Synonym>Premature Labor</Synonym>
+<Synonym>Premature Obstetric Labor</Synonym>
+<Description>Onset of OBSTETRIC LABOR before term (TERM BIRTH) but usually after the FETUS has become viable. In humans, it occurs sometime during the 29th through 38th week of PREGNANCY. TOCOLYSIS inhibits premature labor and can prevent the BIRTH of premature infants (INFANT, PREMATURE).</Description>
+<Source>MeSH</Source>
+</Record>

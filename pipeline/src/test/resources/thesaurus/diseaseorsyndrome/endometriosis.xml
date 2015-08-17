@@ -1,0 +1,31 @@
+<Record>
+<Term>Endometriosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Non-Neoplastic Reproductive System Disorder</ParentTerm>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Endometriosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Endometriosis</ClassificationPath>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Endometriosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ovarian Endometriosis</ChildTerm>
+<ChildTerm>Fallopian Tube Endometriosis</ChildTerm>
+<ChildTerm>Cervical Endometriosis</ChildTerm>
+<Synonym>endometriosis</Synonym>
+<Synonym>Endometriosis</Synonym>
+<Synonym>Endometriomas</Synonym>
+<Synonym>Endometrioses</Synonym>
+<Synonym>Endometrioma</Synonym>
+<Synonym>Adenomyosis</Synonym>
+<Description>A condition in which functional endometrial tissue is present outside the UTERUS. It is often confined to the PELVIS involving the OVARY, the ligaments, cul-de-sac, and the uterovesical peritoneum.An enlarged area of ENDOMETRIOSIS that resembles a tumor. It is usually found in the OVARY. When it is filled with old blood, it is known as a chocolate cyst.The extension of endometrial tissue into the MYOMETRIUM.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

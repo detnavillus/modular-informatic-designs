@@ -1,0 +1,20 @@
+<Record>
+<Term>Somatoform Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Somatoform Disorders</ClassificationPath>
+<BroaderTerm>Somatoform Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Conversion Disorder</ChildTerm>
+<ChildTerm>Body Dysmorphic Disorders</ChildTerm>
+<ChildTerm>Hypochondriasis</ChildTerm>
+<ChildTerm>Neurasthenia</ChildTerm>
+<Synonym>Somatoform Disorders</Synonym>
+<Synonym>Somatoform Disorder</Synonym>
+<Synonym>Somatization Disorder</Synonym>
+<Synonym>Somatization Disorders</Synonym>
+<Synonym>Briquet Syndrome</Synonym>
+<Synonym>Pain Disorder</Synonym>
+<Description>Disorders having the presence of physical symptoms that suggest a general medical condition but that are not fully explained by a general medical condition, by the direct effects of a substance, or by another mental disorder. The symptoms must cause clinically significant distress or impairment in social, occupational, or other areas of functioning. In contrast to FACTITIOUS DISORDERS and MALINGERING, the physical symptoms are not under voluntary control. (APA, DSM-IV)</Description>
+<Source>MeSH</Source>
+</Record>

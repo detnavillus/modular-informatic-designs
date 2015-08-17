@@ -1,0 +1,27 @@
+<Record>
+<Term>Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Biological Products</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Bacterial Vaccines</ChildTerm>
+<ChildTerm>Toxoids</ChildTerm>
+<ChildTerm>Vaccines, Inactivated</ChildTerm>
+<ChildTerm>Viral Vaccines</ChildTerm>
+<ChildTerm>Vaccines, Attenuated</ChildTerm>
+<ChildTerm>Vaccines, Synthetic</ChildTerm>
+<ChildTerm>Vaccines, Combined</ChildTerm>
+<ChildTerm>Protozoan Vaccines</ChildTerm>
+<ChildTerm>Vaccines, Subunit</ChildTerm>
+<ChildTerm>Cancer Vaccines</ChildTerm>
+<ChildTerm>Vaccines, Marker</ChildTerm>
+<ChildTerm>Vaccines, Contraceptive</ChildTerm>
+<ChildTerm>Alzheimer Vaccines</ChildTerm>
+<ChildTerm>Fungal Vaccines</ChildTerm>
+<Synonym>Vaccines</Synonym>
+<Description>Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa, or rickettsiae), antigenic proteins derived from them, or synthetic constructs, administered for the prevention, amelioration, or treatment of infectious and other diseases.</Description>
+<Source>MeSH</Source>
+</Record>

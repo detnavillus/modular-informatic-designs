@@ -1,0 +1,33 @@
+<Record>
+<Term>Paclitaxel Albumin-Stabilized Nanoparticle Formulation</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Paclitaxel Albumin-Stabilized Nanoparticle Formulation,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/Nanoparticle-targeted Drug/Paclitaxel Albumin-Stabilized Nanoparticle Formulation</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Nanoparticle-targeted Drug</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Paclitaxel Albumin-Stabilized Nanoparticle Formulation</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Paclitaxel Albumin-Stabilized Nanoparticle Formulation,</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ABI 007</Synonym>
+<Synonym>ABI-007</Synonym>
+<Synonym>Abraxane</Synonym>
+<Synonym>Albumin-Stabilized Nanoparticle Paclitaxel</Synonym>
+<Synonym>Nanoparticle Albumin-bound Paclitaxel</Synonym>
+<Synonym>Nanoparticle Paclitaxel</Synonym>
+<Synonym>Paclitaxel Albumin-Stabilized Nanoparticle Formulation</Synonym>
+<Synonym>nab paclitaxel</Synonym>
+<Synonym>nab-paclitaxel</Synonym>
+<Description>A Cremophor ELP-free, albumin-stabilized nanoparticle formulation of the natural taxane paclitaxel with antineoplastic activity. Paclitaxel binds to and stabilizes microtubules, preventing their depolymerization and so inhibiting cellular motility, mitosis, and replication. This formulation solubilizes paclitaxel without the use of Cremophor ELP and permits the administration of larger doses of this agent, which would be toxic in a Cremophor ELP-containing formulation due to Cremophor ELP's toxicity profile. Cremophor ELP is a nonionic solubilizer made by reacting castor oil with ethylene oxide in a molar ratio of 1:35, followed by a purification step. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

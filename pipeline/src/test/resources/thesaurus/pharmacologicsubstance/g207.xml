@@ -1,0 +1,16 @@
+<Record>
+<Term>G207</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/G207</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>G207</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>G207</Synonym>
+<Description>A neuroattenuated, replication-competent, recombinant herpes simplex virus-1 (HSV-1) with potential oncolytic activity. Upon intracerebral administration, oncolytic HSV-1 G207 preferentially replicates within glioma cells, which may elicit tumor-specific systemic immune and cytotoxic T lymphocyte (CTL) responses in addition to direct cytopathic effects. Derived from wild-type HSV-1 strain F, this agent has been neuroattenuated by deletions in both copies of the gamma34.5 gene, the major determinant of HSV neurovirulence. In addition, the HSV-1 gene UL39, encoding the viral ribonucleotide reductase large subunit infected cell protein 6 (ICP6), has been inactivated through the insertion of the Escherichia coli lacZ gene. By inactivating UL39, viral ribonucleotide reductase activity is disrupted, resulting in the inhibition of nucleotide metabolism and viral DNA synthesis in nondividing cells but not in dividing cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

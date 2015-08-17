@@ -1,0 +1,19 @@
+<Record>
+<Term>Orbital Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Orbital Diseases</ClassificationPath>
+<BroaderTerm>Orbital Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Exophthalmos</ChildTerm>
+<ChildTerm>Enophthalmos</ChildTerm>
+<ChildTerm>Orbital Pseudotumor</ChildTerm>
+<ChildTerm>Retrobulbar Hemorrhage</ChildTerm>
+<ChildTerm>Orbital Cellulitis</ChildTerm>
+<ChildTerm>Orbital Myositis</ChildTerm>
+<ChildTerm>Orbital Neoplasms</ChildTerm>
+<Synonym>Orbital Diseases</Synonym>
+<Synonym>Orbital Disease</Synonym>
+<Description>Diseases of the bony orbit and contents except the eyeball.</Description>
+<Source>MeSH</Source>
+</Record>

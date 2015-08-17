@@ -1,0 +1,17 @@
+<Record>
+<Term>Togaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Togaviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Togaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Alphavirus Infections</ChildTerm>
+<ChildTerm>Rubivirus Infections</ChildTerm>
+<Synonym>Togaviridae Infections</Synonym>
+<Synonym>Togaviridae Infection</Synonym>
+<Synonym>Togavirus Infection</Synonym>
+<Synonym>Togavirus Infections</Synonym>
+<Description>Virus diseases caused by the TOGAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Animal Toxoplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Toxoplasmosis</ParentTerm>
+<ParentTerm>Protozoan Infections, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Toxoplasmosis, Animal</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Toxoplasmosis/Toxoplasmosis, Animal</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal/Toxoplasmosis, Animal</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Toxoplasmosis, Animal</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Toxoplasmosis, Animal</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Animal Toxoplasmoses</Synonym>
+<Synonym>Animal Toxoplasmosis</Synonym>
+<Description>Acquired infection of non-human animals by organisms of the genus TOXOPLASMA.</Description>
+<Source>MeSH</Source>
+</Record>

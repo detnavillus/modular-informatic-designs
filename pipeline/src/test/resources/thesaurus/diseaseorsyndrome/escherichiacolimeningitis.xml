@@ -1,0 +1,26 @@
+<Record>
+<Term>Escherichia coli Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ParentTerm>Escherichia coli Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Meningitis, Escherichia coli</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Escherichia coli</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Escherichia coli Infections/Meningitis, Escherichia coli</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Escherichia coli</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis, Escherichia coli</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Escherichia coli Infections</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<Synonym>Escherichia coli Meningitides</Synonym>
+<Synonym>Escherichia coli Meningitis</Synonym>
+<Description>A form of gram-negative meningitis that tends to occur in neonates, in association with anatomical abnormalities (which feature communication between the meninges and cutaneous structures) or as OPPORTUNISTIC INFECTIONS in association with IMMUNOLOGIC DEFICIENCY SYNDROMES. In premature neonates the clinical presentation may be limited to ANOREXIA; VOMITING; lethargy; or respiratory distress. Full-term infants may have as additional features FEVER; SEIZURES; and bulging of the anterior fontanelle. (From Menkes, Textbook of Child Neurology, 5th ed, pp398-400)</Description>
+<Source>MeSH</Source>
+</Record>

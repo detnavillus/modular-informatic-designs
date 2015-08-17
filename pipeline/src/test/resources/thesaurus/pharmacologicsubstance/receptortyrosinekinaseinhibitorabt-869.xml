@@ -1,0 +1,17 @@
+<Record>
+<Term>Receptor Tyrosine Kinase Inhibitor ABT-869</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Receptor Tyrosine Kinase Inhibitor ABT-869</ClassificationPath>
+<BroaderTerm>Receptor Tyrosine Kinase Inhibitor ABT-869</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>ABT-869</Synonym>
+<Synonym>Receptor Tyrosine Kinase Inhibitor ABT-869</Synonym>
+<Description>An orally bioavailable receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. Receptor tyrosine kinase inhibitor ABT-869 inhibits members of the vascular endothelial growth factor (VEGF) and platelet-derived growth factor (PDGF) receptor families; it exhibits much less activity against unrelated RTKs, soluble tyrosine kinases, or serine/threonine kinases. This agent does not have a general antiproliferative effect due to its high dose requirement. However, ABT-869 may exhibit potent antiproliferative and apoptotic effects on tumor cells whose proliferation is dependent on mutant kinases, such as FMS-related tyrosine kinase receptor-3 (FLT3).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

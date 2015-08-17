@@ -1,0 +1,16 @@
+<Record>
+<Term>VCL-CB01 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/VCL-CB01 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>VCL-CB01 Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>VCL-CB01 Vaccine</Synonym>
+<Description>A vaccine consisting of two plasmids encoding the human cytomegalovirus (CMV) tegument phosphoprotein 65 (pp65), a major internal matrix protein, and glycoprotein B (gB), an important CMV component responsible for attachment and entry into cells, with immunostimulatory properties. Vaccination with VCL-CB01 may stimulate the host immune system to mount cellular and humoral immune responses against CMV positive cells, resulting in cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Neisseriaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Neisseriaceae Infections</ClassificationPath>
+<BroaderTerm>Neisseriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Meningococcal Infections</ChildTerm>
+<ChildTerm>Gonorrhea</ChildTerm>
+<Synonym>Neisseriaceae Infections</Synonym>
+<Synonym>Neisseriaceae Infection</Synonym>
+<Description>Infections with bacteria of the family NEISSERIACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

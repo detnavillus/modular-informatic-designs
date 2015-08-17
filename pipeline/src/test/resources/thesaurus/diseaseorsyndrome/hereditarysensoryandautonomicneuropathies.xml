@@ -1,0 +1,61 @@
+<Record>
+<Term>Hereditary Sensory and Autonomic Neuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyradiculoneuropathy</ParentTerm>
+<ParentTerm>Nervous System Malformations</ParentTerm>
+<ParentTerm>Polyneuropathies</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Nervous System Malformations/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Polyradiculoneuropathy/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Nervous System Malformations/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Polyradiculoneuropathy/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Polyradiculoneuropathy/Hereditary Sensory and Autonomic Neuropathies</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Polyradiculoneuropathy</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Hereditary Sensory and Autonomic Neuropathies</BroaderTerm>
+<BroaderTerm>Nervous System Malformations</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Dysautonomia, Familial</ChildTerm>
+<Synonym>Neurogenic Acroosteolysis</Synonym>
+<Synonym>Hereditary Sensory and Autonomic Neuropathies</Synonym>
+<Synonym>HSANs (Hereditary Sensory Autonomic Neuropathy)</Synonym>
+<Synonym>Hereditary Sensory and Autonomic Neuropathy Type 2</Synonym>
+<Synonym>HSAN Type IV</Synonym>
+<Synonym>HSN Type II</Synonym>
+<Synonym>HSAN Type V</Synonym>
+<Synonym>Congenital Insensitivity to Pain with Anhidrosis</Synonym>
+<Synonym>HSAN 1</Synonym>
+<Synonym>HSAN Type I</Synonym>
+<Synonym>HSN Type I</Synonym>
+<Synonym>Congenital Sensory Neuropathy</Synonym>
+<Synonym>Neurogenic Acroosteolyses</Synonym>
+<Synonym>HSAN Type II</Synonym>
+<Synonym>HSAN</Synonym>
+<Synonym>Hereditary Sensory Radicular Neuropathy</Synonym>
+<Synonym>Congenital Sensory Neuropathies</Synonym>
+<Synonym>Hereditary Sensory and Autonomic Neuropathy 4</Synonym>
+<Synonym>Hereditary Sensory Neuropathy</Synonym>
+<Synonym>Neuropathy Hereditary Sensory and Autonomic Type 1</Synonym>
+<Synonym>HSAN (Hereditary Sensory Autonomic Neuropathy)</Synonym>
+<Synonym>HSAN 4</Synonym>
+<Synonym>Giaccai Type Acroosteolysis</Synonym>
+<Synonym>Hereditary Sensory Neuropathies</Synonym>
+<Synonym>Hereditary Sensory Neuropathy Type 1</Synonym>
+<Description>A group of inherited disorders characterized by degeneration of dorsal root and autonomic ganglion cells, and clinically by loss of sensation and autonomic dysfunction. There are five subtypes. Type I features autosomal dominant inheritance and distal sensory involvement. Type II is characterized by autosomal inheritance and distal and proximal sensory loss. Type III is DYSAUTONOMIA, FAMILIAL. Type IV features insensitivity to pain, heat intolerance, and mental deficiency. Type V is characterized by a selective loss of pain with intact light touch and vibratory sensation. (From Joynt, Clinical Neurology, 1995, Ch51, pp142-4)</Description>
+<Source>MeSH</Source>
+</Record>

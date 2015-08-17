@@ -1,0 +1,19 @@
+<Record>
+<Term>Photosensitizing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dermatologic Agents</ParentTerm>
+<ParentTerm>Radiation-Sensitizing Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Dermatologic Agents/Photosensitizing Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Radiation-Sensitizing Agents/Photosensitizing Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Photosensitizing Agents</BroaderTerm>
+<BroaderTerm>Dermatologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Radiation-Sensitizing Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Photosensitizers</Synonym>
+<Synonym>Photosensitizing Agents</Synonym>
+<Description>Drugs that are pharmacologically inactive but when exposed to ultraviolet radiation or sunlight are converted to their active metabolite to produce a beneficial reaction affecting the diseased tissue. These compounds can be administered topically or systemically and have been used therapeutically to treat psoriasis and various types of neoplasms.</Description>
+<Source>MeSH</Source>
+</Record>

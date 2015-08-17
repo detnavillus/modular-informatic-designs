@@ -1,0 +1,26 @@
+<Record>
+<Term>Non-Neoplastic Internal Ear Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Ear Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder/Internal Ear Disorder/Non-Neoplastic Internal Ear Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Non-Neoplastic Internal Ear Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Internal Ear Disorder,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Internal Ear Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Internal Ear Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<ChildTerm>Internal Ear Infection</ChildTerm>
+<ChildTerm>Sensory Hearing Loss</ChildTerm>
+<Synonym>Non-Neoplastic Inner Ear Disease</Synonym>
+<Synonym>Non-Neoplastic Inner Ear Disorder</Synonym>
+<Synonym>Non-Neoplastic Internal Ear Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Developmental Bone Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Dwarfism</ChildTerm>
+<ChildTerm>Osteochondrodysplasias</ChildTerm>
+<ChildTerm>Basal Cell Nevus Syndrome</ChildTerm>
+<ChildTerm>Dysostoses</ChildTerm>
+<ChildTerm>Platybasia</ChildTerm>
+<ChildTerm>Proteus Syndrome</ChildTerm>
+<ChildTerm>Acro-Osteolysis</ChildTerm>
+<ChildTerm>Weill-Marchesani Syndrome</ChildTerm>
+<ChildTerm>Funnel Chest</ChildTerm>
+<ChildTerm>Gigantism</ChildTerm>
+<ChildTerm>Leg Length Inequality</ChildTerm>
+<ChildTerm>Marfan Syndrome</ChildTerm>
+<ChildTerm>Osteolysis, Essential</ChildTerm>
+<Synonym>Bone Dysplasias</Synonym>
+<Synonym>Bone Dysplasia</Synonym>
+<Synonym>Developmental Bone Disease</Synonym>
+<Synonym>Developmental Bone Diseases</Synonym>
+<Source>MeSH</Source>
+</Record>

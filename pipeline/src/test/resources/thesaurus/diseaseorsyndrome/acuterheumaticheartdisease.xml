@@ -1,0 +1,21 @@
+<Record>
+<Term>Acute Rheumatic Heart Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rheumatic Heart Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Rheumatic Heart Disease/Acute Rheumatic Heart Disease</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Rheumatic Heart Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Acute Rheumatic Heart Disease</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Acute Rheumatic Endocarditis</ChildTerm>
+<ChildTerm>Acute Rheumatic Pericarditis</ChildTerm>
+<ChildTerm>Acute Rheumatic Myocarditis</ChildTerm>
+<Synonym>Acute Rheumatic Heart Disease</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

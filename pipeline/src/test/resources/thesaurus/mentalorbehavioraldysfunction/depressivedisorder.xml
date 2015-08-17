@@ -1,0 +1,30 @@
+<Record>
+<Term>Depressive Disorder</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Mood Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders/Depressive Disorder</ClassificationPath>
+<BroaderTerm>Depressive Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<ChildTerm>Depressive Disorder, Major</ChildTerm>
+<ChildTerm>Seasonal Affective Disorder</ChildTerm>
+<ChildTerm>Depression, Postpartum</ChildTerm>
+<ChildTerm>Dysthymic Disorder</ChildTerm>
+<Synonym>Depressive Disorder</Synonym>
+<Synonym>Depressive Disorders</Synonym>
+<Synonym>Depressive Neuroses</Synonym>
+<Synonym>Depressive Neurosis</Synonym>
+<Synonym>Endogenous Depression</Synonym>
+<Synonym>Endogenous Depressions</Synonym>
+<Synonym>Depressive Syndrome</Synonym>
+<Synonym>Depressive Syndromes</Synonym>
+<Synonym>Neurotic Depression</Synonym>
+<Synonym>Neurotic Depressions</Synonym>
+<Synonym>Melancholia</Synonym>
+<Synonym>Melancholias</Synonym>
+<Synonym>Unipolar Depression</Synonym>
+<Synonym>Unipolar Depressions</Synonym>
+<Description>An affective disorder manifested by either a dysphoric mood or loss of interest or pleasure in usual activities. The mood disturbance is prominent and relatively persistent.</Description>
+<Source>MeSH</Source>
+</Record>

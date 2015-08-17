@@ -1,0 +1,14 @@
+<Record>
+<Term>Z-360</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Z-360</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Z-360</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Z-360</Synonym>
+<Description>A selective, orally available, 1,5-benzodiazepine-derivative gastrin/cholecystokinin 2 (CCK-2) receptor antagonist with potential antineoplastic activity. Z-360 binds to the gastrin/CCK-2 receptor, thereby preventing receptor activation by gastrin, a peptide hormone frequently associated with the proliferation of gastrointestinal and pancreatic tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Aseptic Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningitis, Viral</ParentTerm>
+<ParentTerm>Meningitis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Viral/Meningitis, Aseptic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Aseptic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Meningitis, Viral/Meningitis, Aseptic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Meningitis, Viral/Meningitis, Aseptic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Meningitis, Viral/Meningitis, Aseptic</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Meningitis, Viral</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Meningitis, Aseptic</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Aseptic Meningitis</Synonym>
+<Description>A syndrome characterized by headache, neck stiffness, low grade fever, and CSF lymphocytic pleocytosis in the absence of an acute bacterial pathogen. Viral meningitis is the most frequent cause although MYCOPLASMA INFECTIONS; RICKETTSIA INFECTIONS; diagnostic or therapeutic procedures; NEOPLASTIC PROCESSES; septic perimeningeal foci; and other conditions may result in this syndrome. (From Adams et al., Principles of Neurology, 6th ed, p745)</Description>
+<Source>MeSH</Source>
+</Record>

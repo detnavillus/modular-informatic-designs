@@ -1,0 +1,47 @@
+<Record>
+<Term>Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</ParentTerm>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hereditary Sideroblastic Anemia</ChildTerm>
+<ChildTerm>Anemia due to Disorder of Glutathione Metabolism</ChildTerm>
+<ChildTerm>Aplastic Anemia</ChildTerm>
+<ChildTerm>Anemia, Refractory</ChildTerm>
+<ChildTerm>Anemia due to Disorder of Nucleotide Metabolism</ChildTerm>
+<ChildTerm>Red-Cell Aplasia, Pure</ChildTerm>
+<ChildTerm>Anemia due to Enzyme Disorder</ChildTerm>
+<ChildTerm>Anemia, Hemolytic</ChildTerm>
+<ChildTerm>Anemia, Aplastic</ChildTerm>
+<ChildTerm>Anemia, Neonatal</ChildTerm>
+<ChildTerm>Macrocytic Anemia</ChildTerm>
+<ChildTerm>Anemia due to Chronic Disorder</ChildTerm>
+<ChildTerm>Anemia, Sideroblastic</ChildTerm>
+<ChildTerm>Microcytic Anemia</ChildTerm>
+<ChildTerm>Anemia, Macrocytic</ChildTerm>
+<ChildTerm>Hypochromic Anemia</ChildTerm>
+<ChildTerm>Treatment-Induced Anemia</ChildTerm>
+<ChildTerm>Sideroblastic Anemia</ChildTerm>
+<ChildTerm>Anemia, Hypochromic</ChildTerm>
+<ChildTerm>Normocytic Anemia</ChildTerm>
+<ChildTerm>Congenital Anemia</ChildTerm>
+<ChildTerm>Radiation Anemia</ChildTerm>
+<ChildTerm>Anemia, Myelophthisic</ChildTerm>
+<Synonym>anemia</Synonym>
+<Synonym>Anemia</Synonym>
+<Synonym>Anemias</Synonym>
+<Description>A reduction in the number of circulating erythrocytes or in the quantity of hemoglobin.</Description>
+<Description>A reduction in the number of red blood cells per cu mm, the amount of hemoglobin in 100 ml of blood, and the volume of packed red blood cells per 100 ml of blood. Clinically, anemia represents a reduction in the oxygen-transporting capacity of a designated volume of blood, resulting from an imbalance between blood loss (through hemorrhage or hemolysis) and blood production. Signs and symptoms of anemia may include pallor of the skin and mucous membranes, shortness of breath, palpitations of the heart, soft systolic murmurs, lethargy, and fatigability.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,49 @@
+<Record>
+<Term>Huntington Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chorea</ParentTerm>
+<ParentTerm>Cognition Disorders</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Cognition Disorders/Huntington Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Huntington Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Huntington Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Huntington Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Dyskinesias/Chorea/Huntington Disease</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Huntington Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Huntington Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Cognition Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Huntington Disease</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Chorea</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<Synonym>Juvenile-Onset Huntington Disease</Synonym>
+<Synonym>Huntingtons Disease</Synonym>
+<Synonym>Akinetic-Rigid Variant of Huntington Disease</Synonym>
+<Synonym>Huntington Chronic Progressive Hereditary Chorea</Synonym>
+<Synonym>Huntington Disease</Synonym>
+<Synonym>Huntington's Disease</Synonym>
+<Synonym>Juvenile Huntington Disease</Synonym>
+<Synonym>Akinetic Rigid Variant of Huntington Disease</Synonym>
+<Synonym>Late-Onset Huntington Disease</Synonym>
+<Synonym>Late Onset Huntington Disease</Synonym>
+<Synonym>Chronic Progressive Hereditary Chorea (Huntington)</Synonym>
+<Synonym>Huntington Chorea</Synonym>
+<Synonym>Juvenile Onset Huntington Disease</Synonym>
+<Synonym>Huntington's Chorea</Synonym>
+<Description>A familial disorder inherited as an autosomal dominant trait and characterized by the onset of progressive CHOREA and DEMENTIA in the fourth or fifth decade of life. Common initial manifestations include paranoia; poor impulse control; DEPRESSION; HALLUCINATIONS; and DELUSIONS. Eventually intellectual impairment; loss of fine motor control; ATHETOSIS; and diffuse chorea involving axial and limb musculature develops, leading to a vegetative state within 10-15 years of disease onset. The juvenile variant has a more fulminant course including SEIZURES; ATAXIA; dementia; and chorea. (From Adams et al., Principles of Neurology, 6th ed, pp1060-4)</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

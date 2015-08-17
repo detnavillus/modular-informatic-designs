@@ -1,0 +1,38 @@
+<Record>
+<Term>Heavy Chain Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Paraproteinemias</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ClassificationPath>Heavy Chain Disease</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Heavy Chain Disease</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Paraproteinemias/Heavy Chain Disease</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Paraproteinemias/Heavy Chain Disease</ClassificationPath>
+<BroaderTerm>Heavy Chain Disease</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Paraproteinemias</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Immunoproliferative Small Intestinal Disease</ChildTerm>
+<Synonym>Heavy Chain Disease</Synonym>
+<Synonym>Franklin Disease</Synonym>
+<Synonym>gamma-Chain Disease</Synonym>
+<Synonym>mu Chain Disease</Synonym>
+<Synonym>HCD</Synonym>
+<Synonym>Franklin's Disease</Synonym>
+<Synonym>mu-Chain Disease</Synonym>
+<Synonym>Heavy Chain Diseases</Synonym>
+<Synonym>gamma-Chain Diseases</Synonym>
+<Synonym>mu-Chain Diseases</Synonym>
+<Synonym>Franklins Disease</Synonym>
+<Synonym>gamma Chain Disease</Synonym>
+<Description>A disorder of immunoglobulin synthesis in which large quantities of abnormal heavy chains are excreted in the urine. The amino acid sequences of the N-(amino-) terminal regions of these chains are normal, but they have a deletion extending from part of the variable domain through the first domain of the constant region, so that they cannot form cross-links to the light chains. The defect arises through faulty coupling of the variable (V) and constant (C) region genes.</Description>
+<Description>One of a group of rare disorders of immunoglobulin synthesis associated with B-cell proliferative disorders and diagnosed by the finding of heavy chains in the serum, urine, or both. Heavy chains are immunologically related to the Fc fragment of the immunoglobulin chain. Three types of heavy chain disease (HCD) have been recognized: gamma heavy chain disease (associated with Waldenstrom's macroglobulinemia), alpha heavy chain disease (also known as immunoproliferative small intestinal disease or Mediterranean lymphoma), and mu heavy chain disease (associated with chronic lymphocytic leukemia). Complications of HCD vary depending upon type.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

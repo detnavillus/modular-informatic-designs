@@ -1,0 +1,21 @@
+<Record>
+<Term>Antineoplastic Antimetabolites</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Antimetabolites</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Antimetabolites, Antineoplastic</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites/Antimetabolites, Antineoplastic</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Antimetabolites/Antimetabolites, Antineoplastic</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Antimetabolites, Antineoplastic</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<Synonym>Antineoplastic Antimetabolites</Synonym>
+<Description>Antimetabolites that are useful in cancer chemotherapy.</Description>
+<Source>MeSH</Source>
+</Record>

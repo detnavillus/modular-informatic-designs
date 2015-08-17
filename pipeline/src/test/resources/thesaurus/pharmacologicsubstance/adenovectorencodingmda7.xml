@@ -1,0 +1,17 @@
+<Record>
+<Term>Adenovector Encoding MDA7</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Adenovector Encoding MDA7</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adenovector Encoding MDA7</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Adenovector Encoding MDA7</Synonym>
+<Description>A nonreplicating adenoviral vector (adenovector) encoding the melanoma differentiation-associated 7 gene (MDA7) with potential antineoplastic activity. After intratumoral injection and adenovector-mediated gene transfer of MDA7 into tumor cells, the expressed MDA7 transgene may inhibit tumor cell proliferation and induce tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

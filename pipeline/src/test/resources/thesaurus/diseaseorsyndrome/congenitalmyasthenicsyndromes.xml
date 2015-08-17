@@ -1,0 +1,25 @@
+<Record>
+<Term>Congenital Myasthenic Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Neuromuscular Junction Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Neuromuscular Junction Diseases/Myasthenic Syndromes, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Myasthenic Syndromes, Congenital</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Myasthenic Syndromes, Congenital</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Junction Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Congenital Slow Channel Myasthenic Syndromes</Synonym>
+<Synonym>Slow Channel Congenital Myasthenic Syndromes</Synonym>
+<Synonym>Presynaptic Congenital Myasthenic Syndromes</Synonym>
+<Synonym>Congenital Myasthenic Syndrome</Synonym>
+<Synonym>Slow-Channel Congenital Myasthenic Syndromes</Synonym>
+<Synonym>Congenital Slow-Channel Myasthenic Syndromes</Synonym>
+<Synonym>Congenital Myasthenic Syndromes</Synonym>
+<Synonym>Congenital Myasthenia Gravis</Synonym>
+<Synonym>Postsynaptic Congenital Myasthenic Syndromes</Synonym>
+<Description>A heterogeneous group of disorders characterized by a congenital defect in neuromuscular transmission at the NEUROMUSCULAR JUNCTION. This includes presynaptic, synaptic, and postsynaptic disorders (that are not of autoimmune origin). The majority of these diseases are caused by mutations of various subunits of the nicotinic acetylcholine receptor (RECEPTORS, NICOTINIC) on the postsynaptic surface of the junction. (From Arch Neurol 1999 Feb;56(2):163-7)</Description>
+<Source>MeSH</Source>
+</Record>

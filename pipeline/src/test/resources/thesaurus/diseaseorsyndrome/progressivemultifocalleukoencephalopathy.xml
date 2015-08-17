@@ -1,0 +1,51 @@
+<Record>
+<Term>Progressive Multifocal Leukoencephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Viral</ParentTerm>
+<ParentTerm>Polyomavirus Infections</ParentTerm>
+<ParentTerm>Leukoencephalopathies</ParentTerm>
+<ParentTerm>Leukoencephalopathy</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Polyomavirus Infections/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Leukoencephalopathies/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Leukoencephalopathy, Progressive Multifocal</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Central Nervous System Infectious Disorder/Leukoencephalopathy/Progressive Multifocal Leukoencephalopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Polyomavirus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infectious Disorder</BroaderTerm>
+<BroaderTerm>Progressive Multifocal Leukoencephalopathy</BroaderTerm>
+<BroaderTerm>Leukoencephalopathy, Progressive Multifocal</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Leukoencephalopathies</BroaderTerm>
+<BroaderTerm>Leukoencephalopathy</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<Synonym>JC Polyomavirus Encephalopathy</Synonym>
+<Synonym>Progressive Multifocal Leukoencephalopathy</Synonym>
+<Synonym>Progressive Multifocal Leukoencephalopathies</Synonym>
+<Synonym>PML</Synonym>
+<Synonym>JC Polyomavirus Encephalitis</Synonym>
+<Description>An opportunistic viral infection of the central nervous system associated with conditions that impair cell-mediated immunity (e.g., ACQUIRED IMMUNODEFICIENCY SYNDROME and other IMMUNOLOGIC DEFICIENCY SYNDROMES; HEMATOLOGIC NEOPLASMS; IMMUNOSUPPRESSION; and COLLAGEN DISEASES). The causative organism is JC Polyomavirus (JC VIRUS) which primarily affects oligodendrocytes, resulting in multiple areas of demyelination. Clinical manifestations include DEMENTIA; ATAXIA; visual disturbances; and other focal neurologic deficits, generally progressing to a vegetative state within 6 months. (From Joynt, Clinical Neurology, 1996, Ch26, pp36-7)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

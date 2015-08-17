@@ -1,0 +1,39 @@
+<Record>
+<Term>Mastitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Breast Disorder</ParentTerm>
+<ParentTerm>Puerperal Disorders</ParentTerm>
+<ParentTerm>Inflammatory Conditions of the Mouse Mammary Gland</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Mastitis</ClassificationPath>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Inflammatory Conditions of the Mouse Mammary Gland/Mastitis of the Mouse Mammary Gland</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Puerperal Disorders/Mastitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases/Mastitis</ClassificationPath>
+<BroaderTerm>Mastitis of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Mastitis</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Inflammatory Conditions of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Puerperal Disorders</BroaderTerm>
+<Synonym>Mastitis of the Mouse Mammary Gland</Synonym>
+<Synonym>Mastitis of the Mammary Gland</Synonym>
+<Synonym>Mastitis</Synonym>
+<Description>INFLAMMATION of the BREAST, or MAMMARY GLAND.</Description>
+<Description>Inflammation of the breast.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

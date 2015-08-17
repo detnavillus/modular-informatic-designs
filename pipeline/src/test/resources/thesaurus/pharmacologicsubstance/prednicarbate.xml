@@ -1,0 +1,27 @@
+<Record>
+<Term>Prednicarbate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Topical Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Topical Anti-Infective Agent/Prednicarbate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Prednicarbate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Prednicarbate,</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Prednicarbate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Topical Anti-Infective Agent</BroaderTerm>
+<Synonym>Dermatop e emollient</Synonym>
+<Synonym>Dermatop</Synonym>
+<Synonym>Pregna-1,4-diene-3,20-dione, 17-((ethoxycarbonyl)oxy)-11-hydroxy-21-(1-oxopropoxy)-,(11beta)-</Synonym>
+<Synonym>Prednicarbate</Synonym>
+<Synonym>PREDNICARBATE</Synonym>
+<Description>A synthetic non-halogenated double-ester derivative of the corticosteroid prednisolone with anti-inflammatory, antipruritic and vasoconstrictive properties. Following skin permeation, prednicarbate enters cells and binds to and activates specific nuclear receptors, resulting in an altered gene expression and inhibition of pro-inflammatory cytokine production by increasing the expression of lipocortins. These block phospholipase A-dependent release of arachidonic acid thereby inhibiting prostaglandin synthesis. This agent also decreases the number of circulating lymphocytes by suppression of the production of vasodilators such as prostacyclin and nitric oxide.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

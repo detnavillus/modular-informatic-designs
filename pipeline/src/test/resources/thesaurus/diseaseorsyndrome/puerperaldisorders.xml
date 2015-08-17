@@ -1,0 +1,20 @@
+<Record>
+<Term>Puerperal Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Puerperal Disorders</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Puerperal Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<ChildTerm>Lactation Disorders</ChildTerm>
+<ChildTerm>Puerperal Infection</ChildTerm>
+<ChildTerm>Depression, Postpartum</ChildTerm>
+<ChildTerm>Pubic Symphysis Diastasis</ChildTerm>
+<ChildTerm>Postpartum Thyroiditis</ChildTerm>
+<ChildTerm>Postpartum Hemorrhage</ChildTerm>
+<ChildTerm>Mastitis</ChildTerm>
+<Synonym>Puerperal Disorders</Synonym>
+<Synonym>Puerperal Disorder</Synonym>
+<Description>Disorders or diseases associated with PUERPERIUM, the six-to-eight-week period immediately after PARTURITION in humans.</Description>
+<Source>MeSH</Source>
+</Record>

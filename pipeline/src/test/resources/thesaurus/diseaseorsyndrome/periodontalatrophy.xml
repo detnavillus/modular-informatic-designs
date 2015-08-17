@@ -1,0 +1,23 @@
+<Record>
+<Term>Periodontal Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periodontal Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontal Atrophy</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Atrophy</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Alveolar Bone Loss</ChildTerm>
+<ChildTerm>Periodontal Attachment Loss</ChildTerm>
+<ChildTerm>Gingival Recession</ChildTerm>
+<Synonym>Periodontal Atrophy</Synonym>
+<Synonym>Periodontal Atrophies</Synonym>
+<Synonym>Atrophy of Periodontium</Synonym>
+<Synonym>Periodontium Atrophies</Synonym>
+<Synonym>Periodontium Atrophy</Synonym>
+<Synonym>Gingivo-Osseous Atrophy</Synonym>
+<Synonym>Gingivo Osseous Atrophy</Synonym>
+<Synonym>Gingivo-Osseous Atrophies</Synonym>
+<Description>Degradation or wasting of the PERIODONTIUM tissues that may involve the gum (GINGIVA), the alveolar bone (ALVEOLAR PROCESS), the DENTAL CEMENTUM, or the PERIODONTAL LIGAMENT.</Description>
+<Source>MeSH</Source>
+</Record>

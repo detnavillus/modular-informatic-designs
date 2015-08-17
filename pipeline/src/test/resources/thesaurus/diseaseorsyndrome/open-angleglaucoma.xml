@@ -1,0 +1,26 @@
+<Record>
+<Term>Open-Angle Glaucoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glaucoma</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Hypertension/Glaucoma/Glaucoma, Open-Angle</ClassificationPath>
+<BroaderTerm>Glaucoma</BroaderTerm>
+<BroaderTerm>Ocular Hypertension</BroaderTerm>
+<BroaderTerm>Glaucoma, Open-Angle</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Hydrophthalmos</ChildTerm>
+<Synonym>Compensated Glaucoma</Synonym>
+<Synonym>Compensated Glaucomas</Synonym>
+<Synonym>Compensative Glaucoma</Synonym>
+<Synonym>Compensative Glaucomas</Synonym>
+<Synonym>Pigmentary Glaucoma</Synonym>
+<Synonym>Pigmentary Glaucomas</Synonym>
+<Synonym>Simple Glaucoma</Synonym>
+<Synonym>Simple Glaucomas</Synonym>
+<Synonym>Open-Angle Glaucoma</Synonym>
+<Synonym>Open-Angle Glaucomas</Synonym>
+<Synonym>Glaucoma Simplex</Synonym>
+<Synonym>Open Angle Glaucoma</Synonym>
+<Synonym>Open Angle Glaucomas</Synonym>
+<Description>Glaucoma in which the angle of the anterior chamber is open and the trabecular meshwork does not encroach on the base of the iris.</Description>
+<Source>MeSH</Source>
+</Record>

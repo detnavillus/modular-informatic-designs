@@ -1,0 +1,15 @@
+<Record>
+<Term>Primate Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Primate Diseases</ClassificationPath>
+<BroaderTerm>Primate Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Monkey Diseases</ChildTerm>
+<ChildTerm>Ape Diseases</ChildTerm>
+<ChildTerm>Monkeypox</ChildTerm>
+<Synonym>Primate Diseases</Synonym>
+<Synonym>Primate Disease</Synonym>
+<Description>Diseases of animals within the order PRIMATES. This term includes diseases of Haplorhini and Strepsirhini.</Description>
+<Source>MeSH</Source>
+</Record>

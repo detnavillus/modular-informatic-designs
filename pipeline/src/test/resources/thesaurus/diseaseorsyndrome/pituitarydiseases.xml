@@ -1,0 +1,39 @@
+<Record>
+<Term>Pituitary Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypothalamic Diseases</ParentTerm>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Pituitary Apoplexy</ChildTerm>
+<ChildTerm>Hypopituitarism</ChildTerm>
+<ChildTerm>Inappropriate ADH Syndrome</ChildTerm>
+<ChildTerm>Hyperpituitarism</ChildTerm>
+<ChildTerm>Pituitary Neoplasms</ChildTerm>
+<ChildTerm>Diabetes Insipidus</ChildTerm>
+<ChildTerm>Empty Sella Syndrome</ChildTerm>
+<Synonym>Adenohypophyseal Diseases</Synonym>
+<Synonym>Pituitary Gland Disease</Synonym>
+<Synonym>Pituitary Disorders</Synonym>
+<Synonym>Pituitary Disorder</Synonym>
+<Synonym>Pituitary Diseases</Synonym>
+<Synonym>Hypophyseal Disorders</Synonym>
+<Synonym>Adenohypophyseal Disease</Synonym>
+<Synonym>Anterior Pituitary Diseases</Synonym>
+<Synonym>Anterior Pituitary Disease</Synonym>
+<Synonym>Pituitary Gland Diseases</Synonym>
+<Synonym>Posterior Pituitary Disease</Synonym>
+<Synonym>Posterior Pituitary Diseases</Synonym>
+<Synonym>Neurohypophyseal Disease</Synonym>
+<Synonym>Neurohypophyseal Diseases</Synonym>
+<Synonym>Hypophyseal Disorder</Synonym>
+<Synonym>Pituitary Disease</Synonym>
+<Description>Disorders involving either the ADENOHYPOPHYSIS or the NEUROHYPOPHYSIS. These diseases usually manifest as hypersecretion or hyposecretion of PITUITARY HORMONES. Neoplastic pituitary masses can also cause compression of the OPTIC CHIASM and other adjacent structures.</Description>
+<Source>MeSH</Source>
+</Record>

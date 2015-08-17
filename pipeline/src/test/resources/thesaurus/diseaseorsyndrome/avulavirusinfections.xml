@@ -1,0 +1,16 @@
+<Record>
+<Term>Avulavirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paramyxoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Avulavirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Avulavirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Newcastle Disease</ChildTerm>
+<Synonym>Avulavirus Infections</Synonym>
+<Synonym>Avulavirus Infection</Synonym>
+<Description>Infections with viruses of the genus AVULAVIRUS, family PARAMYXOVIRIDAE. This includes NEWCASTLE DISEASE and other infections of domestic fowl.</Description>
+<Source>MeSH</Source>
+</Record>

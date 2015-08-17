@@ -1,0 +1,32 @@
+<Record>
+<Term>Central Sleep Apnea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sleep Apnea Syndromes</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Apnea Syndromes/Sleep Apnea, Central</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Apnea/Sleep Apnea Syndromes/Sleep Apnea, Central</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Sleep Apnea, Central</BroaderTerm>
+<BroaderTerm>Apnea</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Sleep Apnea Syndromes</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Primary Central Sleep Apnea</Synonym>
+<Synonym>Central Sleep-Disordered Breathing</Synonym>
+<Synonym>Central Apneas</Synonym>
+<Synonym>Secondary Central Sleep Apnea</Synonym>
+<Synonym>Newborn Primary Sleep Apneas</Synonym>
+<Synonym>Central Sleep Apnea Syndrome</Synonym>
+<Synonym>Central Sleep Apnea</Synonym>
+<Synonym>Primary Sleep Apneas of Newborn</Synonym>
+<Synonym>Central Sleep Disordered Breathing</Synonym>
+<Synonym>Ondine Syndrome</Synonym>
+<Synonym>Central Alveolar Hypoventilation</Synonym>
+<Synonym>Central Apnea</Synonym>
+<Synonym>Central Sleep Apneas</Synonym>
+<Synonym>Central Sleep-Disordered Breathings</Synonym>
+<Description>A condition associated with multiple episodes of sleep apnea which are distinguished from obstructive sleep apnea (SLEEP APNEA, OBSTRUCTIVE) by the complete cessation of efforts to breathe. This disorder is associated with dysfunction of central nervous system centers that regulate respiration. This condition may be idiopathic (primary) or associated with lower brain stem lesions; chronic obstructive pulmonary disease (LUNG DISEASES, OBSTRUCTIVE); HEART FAILURE, CONGESTIVE; medication effect; and other conditions. Sleep maintenance is impaired, resulting in daytime hypersomnolence. Primary central sleep apnea is frequently associated with obstructive sleep apnea. When both forms are present the condition is referred to as mixed sleep apnea (see SLEEP APNEA SYNDROMES). (Adams et al., Principles of Neurology, 6th ed, p395; Neurol Clin 1996;14(3):611-28)</Description>
+<Source>MeSH</Source>
+</Record>

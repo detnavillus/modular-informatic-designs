@@ -1,0 +1,16 @@
+<Record>
+<Term>Tubulin-Binding Agent SSR97225</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tubulin Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Tubulin-Binding Agent SSR97225</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin-Binding Agent SSR97225</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Tubulin-Binding Agent SSR97225</Synonym>
+<Description>An antimitotic tubulin-binding agent with potential antineoplastic activity. Tubulin-binding agent SSR97225 binds to tubulin, arresting the cell cycle at the G2/M checkpoint and preventing mitosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

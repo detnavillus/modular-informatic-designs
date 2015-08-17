@@ -1,0 +1,20 @@
+<Record>
+<Term>Surfactant Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Surfactant Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Surfactant Excipient</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Zinc Oleate</ChildTerm>
+<ChildTerm>Colfosceril Palmitate</ChildTerm>
+<ChildTerm>Pendecamaine</ChildTerm>
+<ChildTerm>Thonzonium Bromide</ChildTerm>
+<Synonym>Surface Active Excipient</Synonym>
+<Synonym>Surfactant Excipient</Synonym>
+<Description>A surface active agent (surfactant), in dilute solution, moves to the interface of a two-phase system and reduces the surface free energy. This permits the two phases to mix more completely. Surface active agents are usually soluble both in aqueous and non-aqueous solvents. They are exemplified by soap-type molecules (long chain fatty acid salts) such as sodium lauryl sulfate.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

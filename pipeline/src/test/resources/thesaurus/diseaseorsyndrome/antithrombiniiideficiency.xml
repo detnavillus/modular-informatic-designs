@@ -1,0 +1,26 @@
+<Record>
+<Term>Antithrombin III Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Thrombophilia</ParentTerm>
+<ParentTerm>Blood Protein Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Thrombophilia/Antithrombin III Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Antithrombin III Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Antithrombin III Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Antithrombin III Deficiency</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Antithrombin III Deficiency</BroaderTerm>
+<BroaderTerm>Thrombophilia</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Antithrombin 3 Deficiencies</Synonym>
+<Synonym>Antithrombin III Deficiency</Synonym>
+<Synonym>Antithrombin 3 Deficiency</Synonym>
+<Synonym>Antithrombin III Deficiencies</Synonym>
+<Description>An absence or reduced level of Antithrombin III leading to an increased risk for thrombosis.</Description>
+<Source>MeSH</Source>
+</Record>

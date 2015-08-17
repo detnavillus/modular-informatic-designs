@@ -1,0 +1,20 @@
+<Record>
+<Term>Sinoatrial Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Heart Block/Sinoatrial Block</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Heart Block/Sinoatrial Block</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Sinoatrial Block</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<Synonym>Sinoatrial Exit Block</Synonym>
+<Synonym>Sinoatrial Blocks</Synonym>
+<Synonym>Sinoatrial Exit Blocks</Synonym>
+<Synonym>Sinoatrial Block</Synonym>
+<Description>Disturbance in the atrial activation that is caused by transient failure of impulse conduction from the SINOATRIAL NODE to the HEART ATRIA. It is characterized by a delayed in heartbeat and pauses between P waves in an ELECTROCARDIOGRAM.</Description>
+<Source>MeSH</Source>
+</Record>

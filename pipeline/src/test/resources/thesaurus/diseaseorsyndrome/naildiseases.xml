@@ -1,0 +1,20 @@
+<Record>
+<Term>Nail Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Nail Diseases</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Nail Diseases</BroaderTerm>
+<ChildTerm>Onychomycosis</ChildTerm>
+<ChildTerm>Pachyonychia Congenita</ChildTerm>
+<ChildTerm>Onycholysis</ChildTerm>
+<ChildTerm>Yellow Nail Syndrome</ChildTerm>
+<ChildTerm>Nail-Patella Syndrome</ChildTerm>
+<ChildTerm>Nails, Ingrown</ChildTerm>
+<ChildTerm>Paronychia</ChildTerm>
+<Synonym>Nail Diseases</Synonym>
+<Synonym>Nail Disease</Synonym>
+<Description>Diseases of the nail plate and tissues surrounding it. The concept is limited to primates.</Description>
+<Source>MeSH</Source>
+</Record>

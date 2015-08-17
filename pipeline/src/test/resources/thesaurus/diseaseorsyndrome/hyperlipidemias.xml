@@ -1,0 +1,26 @@
+<Record>
+<Term>Hyperlipidemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Dyslipidemias</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<ChildTerm>Hypertriglyceridemia</ChildTerm>
+<ChildTerm>Hypercholesterolemia</ChildTerm>
+<ChildTerm>Hyperlipoproteinemias</ChildTerm>
+<ChildTerm>Hyperlipidemia, Familial Combined</ChildTerm>
+<Synonym>Hyperlipidemias</Synonym>
+<Synonym>Hyperlipemia</Synonym>
+<Synonym>Hyperlipemias</Synonym>
+<Synonym>Hyperlipidemia</Synonym>
+<Synonym>Lipidemia</Synonym>
+<Synonym>Lipidemias</Synonym>
+<Synonym>Lipemia</Synonym>
+<Synonym>Lipemias</Synonym>
+<Description>Conditions with excess LIPIDS in the blood.Abnormally high level of lipids in blood.</Description>
+<Source>MeSH</Source>
+</Record>

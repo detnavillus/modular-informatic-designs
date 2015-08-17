@@ -1,0 +1,29 @@
+<Record>
+<Term>Ovarian Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Female Reproductive System Disorder</ParentTerm>
+<ParentTerm>Female Reproductive System Disorder</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Reproductive System Disorder/Mouse Female Reproductive System Disorder/Mouse Ovarian Disorder</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Ovarian Disorder</ClassificationPath>
+<BroaderTerm>Mouse Ovarian Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Mouse Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Ovarian Disorder</BroaderTerm>
+<ChildTerm>Mouse Non-Neoplastic Ovarian Proliferative Disorder</ChildTerm>
+<ChildTerm>Mouse Ovarian Neoplasm</ChildTerm>
+<ChildTerm>Ovarian Non-Neoplastic Disorder</ChildTerm>
+<Synonym>Mouse Ovarian Disorder</Synonym>
+<Synonym>Ovarian Disease</Synonym>
+<Synonym>Ovarian Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

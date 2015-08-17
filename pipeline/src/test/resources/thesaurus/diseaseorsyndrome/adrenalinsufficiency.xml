@@ -1,0 +1,61 @@
+<Record>
+<Term>Adrenal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Endocrine Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Endocrine System</ParentTerm>
+<ParentTerm>Adrenal Gland Insufficiency</ParentTerm>
+<ParentTerm>Adrenal Gland Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Endocrine System/Adrenal Insufficiency Adverse Event</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Insufficiency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Adrenal Gland Insufficiency/Adrenal Cortical Insufficiency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Adrenal Gland Insufficiency,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Retroperitoneal Disorder/Non-Neoplastic Retroperitoneal Disorder/Non-Neoplastic Adrenal Gland Disorder/Adrenal Gland Insufficiency</ClassificationPath>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Adrenal Gland Insufficiency,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Insufficiency Adverse Event</BroaderTerm>
+<BroaderTerm>Adrenal Cortical Insufficiency</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Gland Insufficiency</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Endocrine System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Adrenal Insufficiency</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Adrenal Insufficiency</ChildTerm>
+<ChildTerm>Waterhouse-Friderichsen Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Adrenal Insufficiency</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Adrenal Insufficiency</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Adrenal Insufficiency</ChildTerm>
+<ChildTerm>Adrenoleukodystrophy</ChildTerm>
+<ChildTerm>Adrenal Cortical Insufficiency</ChildTerm>
+<ChildTerm>Addison Disease</ChildTerm>
+<ChildTerm>Hypoaldosteronism</ChildTerm>
+<ChildTerm>Addison's Disease</ChildTerm>
+<Synonym>Adrenal insufficiency</Synonym>
+<Synonym>Adrenal Insufficiency</Synonym>
+<Synonym>Adrenal Insufficiency Adverse Event</Synonym>
+<Synonym>Adrenal Gland Hypofunction</Synonym>
+<Synonym>Adrenal Cortical Insufficiency</Synonym>
+<Synonym>Adrenal Gland Insufficiency</Synonym>
+<Synonym>Hypoadrenalism</Synonym>
+<Synonym>Adrenal Insufficiencies</Synonym>
+<Description>The inability of the adrenal gland to produce adequate amounts of cortisol.</Description>
+<Description>Adrenocortical hypofunction includes all conditions in which adrenal steroid hormone secretion falls below the requirements of the body. Adrenal insufficiency may be divided into two general categories: (1) those associated with primary inability of the adrenal to elaborate sufficient quantities of hormone and (2) those associated with a secondary failure due to a primary failure in the elaboration of adrenocorticotropin. (Harrison's Principles of Internal Medicine, 13th ed, p1970)</Description>
+<Description>Conditions in which the production of adrenal CORTICOSTEROIDS falls below the requirement of the body. Adrenal insufficiency can be caused by defects in the ADRENAL GLANDS, the PITUITARY GLAND, or the HYPOTHALAMUS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

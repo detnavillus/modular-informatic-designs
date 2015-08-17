@@ -1,0 +1,32 @@
+<Record>
+<Term>Visceral Larva Migrans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Toxocariasis</ParentTerm>
+<ParentTerm>Larva Migrans</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Larva Migrans/Larva Migrans, Visceral</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Visceral Larva Migrans</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections/Toxocariasis/Larva Migrans, Visceral</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Larva Migrans, Visceral</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Visceral Larva Migrans</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Toxocariasis</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Larva Migrans</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<Synonym>Visceral Larva Migran</Synonym>
+<Synonym>Visceral Larva Migrans Syndrome</Synonym>
+<Synonym>Visceral Larva Migrans</Synonym>
+<Description>A condition produced in man by the prolonged migration of animal nematode larvae in extraintestinal tissues other than skin; characterized by persistent hypereosinophilia, hepatomegaly, and frequently pneumonitis, commonly caused by Toxocara canis and Toxocara cati.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

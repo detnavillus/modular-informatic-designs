@@ -1,0 +1,16 @@
+<Record>
+<Term>Hsp90 Inhibitor AUY922</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Heat Shock Protein Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Heat Shock Protein Inhibitor/Hsp90 Inhibitor AUY922</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Hsp90 Inhibitor AUY922</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Heat Shock Protein Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AUY922</Synonym>
+<Synonym>Hsp90 Inhibitor AUY922</Synonym>
+<Description>A derivative of 4,5-diarylisoxazole and a third-generation heat shock protein 90 (Hsp90) inhibitor with potential antineoplastic activity. Hsp90 inhibitor AUY922 has been shown to bind with high affinity to and inhibit Hsp90, resulting in the proteasomal degradation of oncogenic client proteins; the inhibition of cell proliferation; and the elevation of heat shock protein 72 (Hsp72) in a wide range of human tumor cell lines. Hsp90, a 90 kDa molecular chaperone, plays a key role in the conformational maturation, stability and function of other substrate or "client" proteins within the cell, many of which are involved in signal transduction, cell cycle regulation and apoptosis, including kinases, transcription factors and hormone receptors.  Hsp72 exhibits anti-apoptotic functions; its up-regulation may be used as a surrogate marker for Hsp90 inhibition.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

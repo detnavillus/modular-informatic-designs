@@ -1,0 +1,21 @@
+<Record>
+<Term>Aflibercept</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiogenesis Activator Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Angiogenesis Activator Inhibitor/Aflibercept</ClassificationPath>
+<BroaderTerm>Angiogenesis Activator Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aflibercept</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AVE0005</Synonym>
+<Synonym>Aflibercept</Synonym>
+<Synonym>VEGF Trap</Synonym>
+<Synonym>VEGF Trap R1R2</Synonym>
+<Synonym>VEGF-Trap</Synonym>
+<Synonym>Vascular Endothelial Growth Factor Trap</Synonym>
+<Description>A protein comprised of segments of the extracellular domains of human vascular endothelial growth factor receptors 1 (VEGFR1) and 2 (VEGFR2) fused to the constant region (Fc) of human IgG1 with potential antiangiogenic activity.  Afilbercept, functioning as a soluble decoy receptor, binds to pro-angiogenic vascular endothelial growth factors (VEGFs), thereby preventing VEGFs from binding to their cell receptors. Disruption of the binding of VEGFs to their cell receptors may result in the inhibition of tumor angiogenesis, metastasis, and ultimately tumor regression.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Inappropriate ADH Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pituitary Diseases</ParentTerm>
+<ParentTerm>Water-Electrolyte Imbalance</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Inappropriate ADH Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Water-Electrolyte Imbalance/Inappropriate ADH Syndrome</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Inappropriate ADH Syndrome</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Inappropriate ADH Syndrome</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Water-Electrolyte Imbalance</BroaderTerm>
+<Synonym>Schwartz Bartter Syndrome</Synonym>
+<Synonym>Schwartz-Bartter Syndrome</Synonym>
+<Synonym>Syndrome of Inappropriate ADH (SIADH) Secretion</Synonym>
+<Synonym>Inappropriate ADH Syndrome</Synonym>
+<Synonym>SIADH</Synonym>
+<Synonym>Inappropriate Vasopressin Secretion Syndrome</Synonym>
+<Description>A condition of HYPONATREMIA and renal salt loss attributed to overexpansion of BODY FLUIDS resulting from sustained release of ANTIDIURETIC HORMONES which stimulates renal resorption of water. It is characterized by normal KIDNEY function, high urine OSMOLALITY, low serum osmolality, and neurological dysfunction. Etiologies include ADH-producing neoplasms, injuries or diseases involving the HYPOTHALAMUS, the PITUITARY GLAND, and the LUNG. This syndrome can also be drug-induced.</Description>
+<Source>MeSH</Source>
+</Record>

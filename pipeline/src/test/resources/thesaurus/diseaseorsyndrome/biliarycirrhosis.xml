@@ -1,0 +1,19 @@
+<Record>
+<Term>Biliary Cirrhosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cirrhosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Cirrhosis/Biliary Cirrhosis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cirrhosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Biliary Cirrhosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Primary Biliary Cirrhosis</ChildTerm>
+<Synonym>Biliary Cirrhosis</Synonym>
+<Synonym>Cirrhosis, biliary</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

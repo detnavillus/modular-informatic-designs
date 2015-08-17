@@ -1,0 +1,23 @@
+<Record>
+<Term>Esophageal Motility Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Deglutition Disorders</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Deglutition Disorders/Esophageal Motility Disorders</ClassificationPath>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Deglutition Disorders</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Esophageal Motility Disorders</BroaderTerm>
+<ChildTerm>Esophageal Achalasia</ChildTerm>
+<ChildTerm>Plummer-Vinson Syndrome</ChildTerm>
+<ChildTerm>Esophageal Spasm, Diffuse</ChildTerm>
+<ChildTerm>CREST Syndrome</ChildTerm>
+<ChildTerm>Gastroesophageal Reflux</ChildTerm>
+<Synonym>Esophageal Motility Disorders</Synonym>
+<Synonym>Esophageal Motility Disorder</Synonym>
+<Synonym>Esophageal Dysmotility</Synonym>
+<Synonym>Esophageal Dysmotilities</Synonym>
+<Synonym>Nutcracker Esophagus</Synonym>
+<Description>Disorders affecting the motor function of the UPPER ESOPHAGEAL SPHINCTER; LOWER ESOPHAGEAL SPHINCTER; the ESOPHAGUS body, or a combination of these parts. The failure of the sphincters to maintain a tonic pressure may result in gastric reflux of food and acid into the esophagus (GASTROESOPHAGEAL REFLUX). Other disorders include hypermotility (spastic disorders) and markedly increased amplitude in contraction (nutcracker esophagus).</Description>
+<Source>MeSH</Source>
+</Record>

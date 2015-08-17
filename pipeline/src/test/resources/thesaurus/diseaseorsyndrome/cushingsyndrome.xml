@@ -1,0 +1,23 @@
+<Record>
+<Term>Cushing Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine Syndrome</ParentTerm>
+<ParentTerm>Adrenocortical Hyperfunction</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenocortical Hyperfunction/Cushing Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Endocrine Syndrome/Cushing Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Cushing Syndrome</BroaderTerm>
+<BroaderTerm>Endocrine Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adrenocortical Hyperfunction</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<Synonym>Cushing Syndrome</Synonym>
+<Synonym>Cushing's Syndrome</Synonym>
+<Synonym>Hypercortisolism</Synonym>
+<Description>A condition caused by prolonged exposure to excess levels of cortisol (HYDROCORTISONE) or other GLUCOCORTICOIDS from endogenous or exogenous sources. It is characterized by upper body OBESITY; OSTEOPOROSIS; HYPERTENSION; DIABETES MELLITUS; HIRSUTISM; AMENORRHEA; and excess body fluid. Endogenous Cushing syndrome or spontaneous hypercortisolism is divided into two groups, those due to an excess of ADRENOCORTICOTROPIN and those that are ACTH-independent.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

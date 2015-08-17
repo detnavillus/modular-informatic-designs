@@ -1,0 +1,17 @@
+<Record>
+<Term>MEK inhibitor XL518</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Mitogen-Activated Protein Kinase Kianse Inhibitor/MEK inhibitor XL518</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>MEK inhibitor XL518</BroaderTerm>
+<BroaderTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>MEK inhibitor XL518</Synonym>
+<Synonym>XL518</Synonym>
+<Description>An orally active small molecule, targeting mitogen-activated protein kinase kinase 1 (MAP2K1 or MEK1), with potential antineoplastic activity. MEK inhibitor XL518 specifically binds to and inhibits the catalytic activity of MEK1, resulting in inhibition of extracellular signal-related kinase 2 (ERK2) phosphorylation and activation and decreased tumor cell proliferation. Preclinical studies have demonstrated that this agent is effective in inhibiting the growth of tumor cells bearing a B-RAF mutation, which has been found to be associated with many tumor types. A threonine-tyrosine kinase and a key component of the RAS/RAF/MEK/ERK signaling pathway that is frequently activated in human tumors, MEK1 is required for the transmission of growth-promoting signals from numerous receptor tyrosine kinases</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

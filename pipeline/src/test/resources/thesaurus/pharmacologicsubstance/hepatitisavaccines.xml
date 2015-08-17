@@ -1,0 +1,20 @@
+<Record>
+<Term>Hepatitis A Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Hepatitis Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Viral Hepatitis Vaccines/Hepatitis A Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Hepatitis A Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Viral Hepatitis Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Hepatitis A Vaccines</Synonym>
+<Synonym>Hepatovirus Vaccines</Synonym>
+<Synonym>Hepatitis A Vaccine</Synonym>
+<Synonym>Vaqta</Synonym>
+<Synonym>Havrix</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with hepatitis A virus (HEPATOVIRUS).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Sleep Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Medical Device</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sleep Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Dyssomnias</ChildTerm>
+<ChildTerm>Parasomnias</ChildTerm>
+<ChildTerm>Sleep Deprivation</ChildTerm>
+<Synonym>Subwakefullness Syndromes</Synonym>
+<Synonym>Sleep Related Neurogenic Tachypnea</Synonym>
+<Synonym>Long Sleeper Syndrome</Synonym>
+<Synonym>Sleep-Related Neurogenic Tachypnea</Synonym>
+<Synonym>Long Sleeper Syndromes</Synonym>
+<Synonym>Subwakefullness Syndrome</Synonym>
+<Synonym>Short Sleeper Syndromes</Synonym>
+<Synonym>Sleep Disorders</Synonym>
+<Synonym>Sleep-Related Neurogenic Tachypneas</Synonym>
+<Synonym>Short Sleeper Syndrome</Synonym>
+<Description>Conditions characterized by disturbances of usual sleep patterns or behaviors. Sleep disorders may be divided into three major categories: DYSSOMNIAS (i.e. disorders characterized by insomnia or hypersomnia), PARASOMNIAS (abnormal sleep behaviors), and sleep disorders secondary to medical or psychiatric disorders. (From Thorpy, Sleep Disorders Medicine, 1994, p187)</Description>
+<Source>MeSH</Source>
+</Record>

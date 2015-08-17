@@ -1,0 +1,31 @@
+<Record>
+<Term>AIDS-Related Opportunistic Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Opportunistic Infections</ParentTerm>
+<ParentTerm>HIV Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/AIDS-Related Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Opportunistic Infections/AIDS-Related Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Opportunistic Infections/AIDS-Related Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/AIDS-Related Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/Opportunistic Infections/AIDS-Related Opportunistic Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Opportunistic Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>AIDS-Related Opportunistic Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<Synonym>AIDS Related Opportunistic Infections</Synonym>
+<Synonym>HIV-Related Opportunistic Infection</Synonym>
+<Synonym>HIV-Related Opportunistic Infections</Synonym>
+<Synonym>AIDS-Related Opportunistic Infections</Synonym>
+<Synonym>AIDS-Related Opportunistic Infection</Synonym>
+<Synonym>HIV Related Opportunistic Infections</Synonym>
+<Description>Opportunistic infections found in patients who test positive for human immunodeficiency virus (HIV). The most common include PNEUMOCYSTIS PNEUMONIA, Kaposi's sarcoma, cryptosporidiosis, herpes simplex, toxoplasmosis, cryptococcosis, and infections with Mycobacterium avium complex, Microsporidium, and Cytomegalovirus.</Description>
+<Source>MeSH</Source>
+</Record>

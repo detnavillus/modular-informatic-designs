@@ -1,0 +1,21 @@
+<Record>
+<Term>Canarypox Vector</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Research Device</SemanticType>
+<ParentTerm>Pox Virus Vector</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Nucleic Acids, Nucleosides, and Nucleotides/Nucleic Acids/DNA/Cloning Vector/Viral Vector/Pox Virus Vector/Canarypox Vector</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Canarypox Vector</BroaderTerm>
+<BroaderTerm>DNA</BroaderTerm>
+<BroaderTerm>Nucleic Acids, Nucleosides, and Nucleotides</BroaderTerm>
+<BroaderTerm>Pox Virus Vector</BroaderTerm>
+<BroaderTerm>Nucleic Acids</BroaderTerm>
+<BroaderTerm>Viral Vector</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Cloning Vector</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Canarypox Vector</Synonym>
+<Description>Any of the genetically engineered live canarypox vectors with application in anti-cancer therapy. Canarypox vectors retain the pancytotropism of most poxviruses, but is unable to productively replicate in non-avian species, thus eliminating the safety concerns exist with other vectors. Canarypox viral vector is designed to carry a gene of interest into a eukaryotic cell where the gene of interest can be expressed subsequently.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

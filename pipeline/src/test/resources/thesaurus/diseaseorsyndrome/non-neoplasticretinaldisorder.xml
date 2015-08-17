@@ -1,0 +1,29 @@
+<Record>
+<Term>Non-Neoplastic Retinal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Retinal Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Retinal Vascular Occlusion</ChildTerm>
+<ChildTerm>Macular Hole</ChildTerm>
+<ChildTerm>Retinopathy</ChildTerm>
+<ChildTerm>Retinal Degeneration</ChildTerm>
+<ChildTerm>Cytomegaloviral Retinitis</ChildTerm>
+<ChildTerm>Retrolental Fibroplasia</ChildTerm>
+<ChildTerm>Retinal Dystrophy</ChildTerm>
+<ChildTerm>Retinal Detachment and Defect</ChildTerm>
+<ChildTerm>Macular Edema</ChildTerm>
+<Synonym>Non-Neoplastic Retinal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

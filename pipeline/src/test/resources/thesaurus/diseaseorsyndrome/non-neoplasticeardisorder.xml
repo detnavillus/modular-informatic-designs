@@ -1,0 +1,26 @@
+<Record>
+<Term>Non-Neoplastic Ear Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Head and Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder/Non-Neoplastic Ear Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Internal Ear Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic External Ear Disorder</ChildTerm>
+<ChildTerm>Hearing Disorder</ChildTerm>
+<ChildTerm>Middle Ear Cholesteatoma</ChildTerm>
+<ChildTerm>Ear Infection</ChildTerm>
+<Synonym>Non-Neoplastic Ear Disease</Synonym>
+<Synonym>Non-Neoplastic Ear Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

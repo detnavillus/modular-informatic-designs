@@ -1,0 +1,20 @@
+<Record>
+<Term>Amlexanox</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Histamine-1 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Histamine-1 Receptor Antagonist/Amlexanox</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Amlexanox</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Histamine-1 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AMLEXANOX</Synonym>
+<Synonym>Aphthasol</Synonym>
+<Synonym>5H-(1)Benzopyrano(2,3-b)pyridine-3-carboxylic Acid, 2-Amino-7-(1-methylethyl)-5-oxo-</Synonym>
+<Synonym>Amlexanox</Synonym>
+<Description>An anti-aphthous ulcer drug. Amlexanox inhibits the synthesis and release of inflammatory mediators, including leukotrienes and histamine, from mast cells, neutrophils, and mononuclear cells. Amlexanox also acts as a leukotriene D4 antagonist and a phosphodiesterase inhibitor. Amlexanox decreases the time ulcers take to heal as well as the pain associated with the ulcers.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

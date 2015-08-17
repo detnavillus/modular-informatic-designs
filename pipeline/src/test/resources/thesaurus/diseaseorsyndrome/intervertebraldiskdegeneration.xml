@@ -1,0 +1,20 @@
+<Record>
+<Term>Intervertebral Disk Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Body Part, Organ, or Organ Component</SemanticType>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Intervertebral Disk Degeneration</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Intervertebral Disk Degeneration</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Intervertebral Disk Degeneration</Synonym>
+<Synonym>Intervertebral Disk Degenerations</Synonym>
+<Synonym>Disc Degeneration</Synonym>
+<Synonym>Disc Degenerations</Synonym>
+<Synonym>Disc Degradation</Synonym>
+<Synonym>Disc Degradations</Synonym>
+<Synonym>Degenerative Intervertebral Disks</Synonym>
+<Description>Degenerative changes in the INTERVERTEBRAL DISK due to aging or structural damage, especially to the vertebral end-plates.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,38 @@
+<Record>
+<Term>X-Linked Ichthyosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Steroid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Ichthyosis</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Abnormalities/Ichthyosis/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Ichthyosis/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Ichthyosis/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Skin Abnormalities/Ichthyosis/Ichthyosis, X-Linked</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Ichthyosis, X-Linked</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Ichthyosis, X-Linked</BroaderTerm>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Skin Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Ichthyosis</BroaderTerm>
+<BroaderTerm>Steroid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<Synonym>Steroid Sulfatase Deficiency Disease</Synonym>
+<Synonym>Placental Steroid Sulfatase Deficiency</Synonym>
+<Synonym>Steroid Sulfatase Deficiency</Synonym>
+<Description>Chronic form of ichthyosis that is inherited as a sex-linked recessive trait carried on the X-chromosome and transmitted to the male offspring. It is characterized by severe scaling, especially on the extremities, and is associated with steroid sulfatase deficiency.</Description>
+<Source>MeSH</Source>
+</Record>

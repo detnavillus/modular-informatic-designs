@@ -1,0 +1,17 @@
+<Record>
+<Term>Tyrosine Kinase Inhibitor OSI-930</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Tyrosine Kinase Inhibitor OSI-930</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor OSI-930</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>OSI-930</Synonym>
+<Synonym>Tyrosine Kinase Inhibitor OSI-930</Synonym>
+<Description>A selective thiophene-derived tyrosine kinase inhibitor with potential antineoplastic activity. Tyrosine kinase inhibitor OSI-930 inhibits stem cell factor receptor (c-Kit) and the vascular endothelial growth factor receptor 2 (VEGFR2), which may result in the inhibition of both tumor cell proliferation and tumor angiogenesis. Both c-Kit and VEGFR2 are overexpressed in a variety of cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

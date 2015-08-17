@@ -1,0 +1,21 @@
+<Record>
+<Term>Thrombophilia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Thrombophilia</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombophilia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Disseminated Intravascular Coagulation</ChildTerm>
+<ChildTerm>Purpura, Thrombotic Thrombocytopenic</ChildTerm>
+<ChildTerm>Protein S Deficiency</ChildTerm>
+<ChildTerm>Activated Protein C Resistance</ChildTerm>
+<ChildTerm>Protein C Deficiency</ChildTerm>
+<ChildTerm>Antithrombin III Deficiency</ChildTerm>
+<Synonym>Thrombophilia</Synonym>
+<Synonym>Thrombophilias</Synonym>
+<Synonym>Hypercoagulability</Synonym>
+<Synonym>Hypercoagulabilities</Synonym>
+<Description>A disorder of HEMOSTASIS in which there is a tendency for the occurrence of THROMBOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

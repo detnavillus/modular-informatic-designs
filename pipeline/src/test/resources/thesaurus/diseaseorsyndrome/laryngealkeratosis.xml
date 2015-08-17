@@ -1,0 +1,27 @@
+<Record>
+<Term>Laryngeal Keratosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leukoplakia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Laryngeal Disorder/Laryngeal Precancerous Condition/Laryngeal Keratosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Leukoplakia/Laryngeal Keratosis</ClassificationPath>
+<BroaderTerm>Laryngeal Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Laryngeal Keratosis,</BroaderTerm>
+<BroaderTerm>Laryngeal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Laryngeal Keratosis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Leukoplakia</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<ChildTerm>Leukoplakia of Vocal Cords</ChildTerm>
+<ChildTerm>Smokers Keratosis</ChildTerm>
+<Synonym>Keratosis of Larynx</Synonym>
+<Synonym>Keratosis of the Larynx</Synonym>
+<Synonym>Laryngeal Keratosis</Synonym>
+<Synonym>Laryngeal Leukoplakia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

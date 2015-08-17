@@ -1,0 +1,18 @@
+<Record>
+<Term>Conjugate Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Synthetic</ParentTerm>
+<ClassificationPath>Biological Factors/Antigens/Vaccines, Synthetic/Vaccines, Conjugate</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Synthetic/Vaccines, Conjugate</ClassificationPath>
+<BroaderTerm>Vaccines, Conjugate</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Antigens</BroaderTerm>
+<BroaderTerm>Vaccines, Synthetic</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Conjugate Vaccines</Synonym>
+<Description>Semisynthetic vaccines consisting of polysaccharide antigens from microorganisms attached to protein carrier molecules. The carrier protein is recognized by macrophages and T-cells thus enhancing immunity. Conjugate vaccines induce antibody formation in people not responsive to polysaccharide alone, induce higher levels of antibody, and show a booster response on repeated injection.</Description>
+<Source>MeSH</Source>
+</Record>

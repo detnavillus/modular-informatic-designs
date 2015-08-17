@@ -1,0 +1,21 @@
+<Record>
+<Term>Laryngismus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Laryngeal Diseases</ParentTerm>
+<ParentTerm>Respiration Disorders</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Laryngismus</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Laryngeal Diseases/Laryngismus</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Laryngeal Diseases/Laryngismus</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Laryngeal Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Laryngismus</BroaderTerm>
+<Synonym>Laryngospasms</Synonym>
+<Synonym>Laryngeal Spasm</Synonym>
+<Synonym>Laryngospasm</Synonym>
+<Synonym>Laryngeal Spasms</Synonym>
+<Synonym>Laryngismus</Synonym>
+<Description>A disorder in which the adductor muscles of the VOCAL CORDS exhibit increased activity leading to laryngeal spasm. Laryngismus causes closure of the VOCAL FOLDS and airflow obstruction during inspiration.</Description>
+<Source>MeSH</Source>
+</Record>

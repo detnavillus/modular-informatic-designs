@@ -1,0 +1,22 @@
+<Record>
+<Term>Methylnaltrexone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Opiate Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opiate Antagonist/Methylnaltrexone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Methylnaltrexone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Opiate Antagonist</BroaderTerm>
+<Synonym>Methylnaltrexone</Synonym>
+<Synonym>Quaternary Ammonium Naltrexone</Synonym>
+<Synonym>Relistor</Synonym>
+<Synonym>N-methylnaltrexone Bromide</Synonym>
+<Synonym>Methylnaltrexone bromide</Synonym>
+<Synonym>17-(Cyclopropylmethyl)-4,5alpha-epoxy-3,14-dihydroxy-17-methyl-6-oxomorphinanium</Synonym>
+<Description>A methyl derivative of noroxymorphone with selective, opioid-receptor antagonistic activity. Methylnaltrexone displaces opioids from peripheral opioid receptors in the gastrointestinal tract, the bladder, and the skin, resulting in decreases in opioid-related constipation, urinary retention, and pruritis, respectively. Methylnaltrexone does not cross the blood-brain barrier and does not affect the centrally-mediated analgesic effect of opioids.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

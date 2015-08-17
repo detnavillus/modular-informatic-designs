@@ -1,0 +1,50 @@
+<Record>
+<Term>Tay-Sachs Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gangliosidoses, GM2</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Tay-Sachs Disease</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Gangliosidoses, GM2</BroaderTerm>
+<Synonym>Familial Amaurotic Idiocy</Synonym>
+<Synonym>Tay-Sachs</Synonym>
+<Synonym>Deficiency Disease Hexosaminidase A</Synonym>
+<Synonym>Hexosaminidase alpha Subunit Deficiency (Variant B)</Synonym>
+<Synonym>Hexosaminidase alpha-Subunit Deficiencies (Variant B)</Synonym>
+<Synonym>Tay Sachs Disease</Synonym>
+<Synonym>Amaurotic Familial Idiocy</Synonym>
+<Synonym>Hexosaminidase alpha-Subunit Deficiency (Variant B)</Synonym>
+<Synonym>Hexosaminidase A Deficiency Disease</Synonym>
+<Synonym>Tay-Sachs Sphingolipidosis</Synonym>
+<Synonym>Tay-Sachs Disease</Synonym>
+<Synonym>Hexosaminidase A Deficiencies</Synonym>
+<Synonym>B Variant GM2 Gangliosidosis</Synonym>
+<Synonym>Hexosaminidase A Deficiency</Synonym>
+<Description>An autosomal recessive neurodegenerative disorder characterized by the onset in infancy of an exaggerated startle response, followed by paralysis, dementia, and blindness. It is caused by mutation in the alpha subunit of the HEXOSAMINIDASE A resulting in lipid-laden ganglion cells. It is also known as the B variant (with increased HEXOSAMINIDASE B but absence of hexosaminidase A) and is strongly associated with Ashkenazic Jewish ancestry.An outdated term for Tay-Sachs disease.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

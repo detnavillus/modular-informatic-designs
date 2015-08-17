@@ -1,0 +1,15 @@
+<Record>
+<Term>NMPRTase Inhibitor APO866</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/NMPRTase Inhibitor APO866</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>NMPRTase Inhibitor APO866</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>APO866</Synonym>
+<Synonym>NMPRTase Inhibitor APO866</Synonym>
+<Description>A small molecule with potential antineoplastic and antiangiogenic activities. NMPRTase inhibitor APO866 binds to and inhibits nicotinamide phosphoribosyltransferase (NMPRTase), inhibiting the biosynthesis of nicotinamide adenine dinucleotide (NAD+) from niacinamide (vitamin B3), which may deplete energy reserves in metabolically active tumor cells and induce tumor cell apoptosis. In addition, this agent may inhibit tumor cell production of vascular endothelial growth factor (VEGF), resulting in the inhibition of tumor angiogenesis. The coenzyme NAD+ plays an essential role in cellular redox reactions, including the redox reaction linking the citric acid cycle and oxidative phosphorylation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

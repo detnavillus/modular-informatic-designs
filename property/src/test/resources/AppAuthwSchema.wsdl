@@ -1,0 +1,1279 @@
+goop this should not be here!
+<?xml version="1.0" encoding="UTF-8" ?>
+    
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://ebc.mssb.com" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" name="AppAuth" targetNamespace="http://ebc.mssb.com">
+<wsdl:types> goop here
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ebc.mssb.com" elementFormDefault="qualified" targetNamespace="http://ebc.mssb.com">
+<xs:element name="GetAppRoles" >    lots of garbage in this text but this will be ignored.
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetAppRolesInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="GetAppRolesInParam">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:InParamType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="ApplicationID" type="xs:string"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="RacfID" type="xs:string"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+        <xs:element minOccurs="1" maxOccurs="1" name="OfficeNumber" type="xs:int"/>
+        <xs:element minOccurs="1" maxOccurs="1" name="FA" type="xs:int"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="CostCenter" type="xs:string"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="OrganizationalGroup" type="xs:string"/>
+        <xs:element minOccurs="1" maxOccurs="1" name="AppRoleRequestType" type="tns:GET_APP_ROLE_REQUEST_TYPE"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:complexType name="InParamType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="Context" type="tns:BaseContextType"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Level" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="SearchBy" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="BaseContextType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="RequestHost" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="SubmitTime" type="xs:dateTime"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="UserCredentials" type="tns:UserCredentialsType"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="ReturnDebugInformation" type="xs:boolean"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Reserved" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Pagination" type="tns:EBCPaginationType"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="AdditionalParamList" type="tns:ArrayOfAdditionalParam"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="VersionInformation" type="tns:VersionInformation"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="UserCredentialsType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="SignOnRACFID" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="AppID" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="FANumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="BranchNumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Verb" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="EBCPaginationType">
+  <xs:sequence>
+    <xs:element minOccurs="1" maxOccurs="1" name="CurrentPageNumber" type="xs:int"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="PreviousPageKey" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="PageCount" type="xs:int"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="PageSize" type="xs:int"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfAdditionalParam">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="AdditionalParam" nillable="true" type="tns:AdditionalParam"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="AdditionalParam">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="ParamName" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ParamValue" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="VersionInformation">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" default="1.0" name="VersionNumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" default="2010-08-27T00:00:00" name="ReleaseDate" type="xs:dateTime"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:simpleType name="GET_APP_ROLE_REQUEST_TYPE">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="CC_APPROVERS_FOR_LEVEL"/>
+    <xs:enumeration value="CC_APPROVERS_ROLE_FOR_RACFID"/>
+    <xs:enumeration value="APPROVERS_FOR_RCAF_GROUP"/>
+    <xs:enumeration value="APPROVAL_RACF_GROUP_FOR_RACFID"/>
+    <xs:enumeration value="APPROVERS_FOR_BRANCH_AND_LEVEL"/>
+    <xs:enumeration value="BRANCHES_AND_ROLES_FOR_RACFID"/>
+    <xs:enumeration value="RACF_GROUP_FOR_RACFID"/>
+    <xs:enumeration value="RACFIDS_FOR_RACF_GROUP"/>
+    <xs:enumeration value="DEFAULT"/>
+  </xs:restriction>
+</xs:simpleType>
+<xs:element name="GetAppRolesResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetAppRolesResult" type="tns:GetAppRoleResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="GetAppRoleResponseMessage">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:ResponseHeaderType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="AppRoleList" type="tns:AppRole"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ResponseHeaderType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="ReferenceID" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="ReceivedTime" type="xs:dateTime"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="CompletedTime" type="xs:dateTime"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ServiceHost" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="StatusCode" type="tns:ResponseHeaderTypeStatusCode"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ServiceError" type="tns:ArrayOfServiceErrorType"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Message" type="tns:ArrayOfEBCMessageType"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Pagination" type="tns:EBCPaginationType"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:simpleType name="ResponseHeaderTypeStatusCode">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Success"/>
+    <xs:enumeration value="Failure"/>
+    <xs:enumeration value="NoDataFound"/>
+  </xs:restriction>
+</xs:simpleType>
+<xs:complexType name="ArrayOfServiceErrorType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceErrorType" nillable="true" type="tns:ServiceErrorType"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="ServiceErrorType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="ErrorCode" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ErrorMessage" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="ErrorCategory" type="tns:ErrorCategoryType"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:simpleType name="ErrorCategoryType">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="VALIDATION"/>
+    <xs:enumeration value="APPAUTH"/>
+    <xs:enumeration value="DATABASE"/>
+    <xs:enumeration value="MQ"/>
+    <xs:enumeration value="CICS"/>
+    <xs:enumeration value="BUSINESS"/>
+    <xs:enumeration value="OTHER"/>
+  </xs:restriction>
+</xs:simpleType>
+<xs:complexType name="ArrayOfEBCMessageType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="EBCMessageType" nillable="true" type="tns:EBCMessageType"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="EBCMessageType">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="Message" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="MessageType" type="tns:MessageTypeValues"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:simpleType name="MessageTypeValues">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="ERROR"/>
+    <xs:enumeration value="INFORMATION"/>
+    <xs:enumeration value="DEBUG"/>
+    <xs:enumeration value="COMMAND_STRING"/>
+    <xs:enumeration value="RAW_DATA"/>
+  </xs:restriction>
+</xs:simpleType>
+<xs:complexType name="AppRole">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="ApplicationId" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ErrorDescription" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="UserId" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="WinNTId" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+    <xs:element minOccurs="1" maxOccurs="1" name="BranchType" type="xs:int"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="BranchValue" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="FA" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="CostCenter" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="OrganizationalGroup" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:element name="CheckOfficeFA">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="CheckOfficeFARequest" type="tns:AppAuthInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthInParam">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:InParamType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AppAuthContextList" type="tns:ArrayOfAppAuthContext"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfAppAuthContext">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="AppAuthContext" nillable="true" type="tns:AppAuthContext"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="AppAuthContext">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="BranchNumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="FANumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="Verb" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="ApplicationID" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="FunctionId" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="RacfID" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:element name="CheckOfficeFAResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="CheckOfficeFAResult" type="tns:AppAuthAuthenticationResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthAuthenticationResponseMessage">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:ResponseHeaderType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="OfficeFaList" type="tns:ArrayOfOfficeFAInfo"/>
+        <xs:element minOccurs="1" maxOccurs="1" name="IsAuthorized" type="xs:boolean"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="Access" type="xs:string"/>
+        <xs:element minOccurs="0" maxOccurs="1" name="ErrorDescription" type="xs:string"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfOfficeFAInfo">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="OfficeFAInfo" nillable="true" type="tns:OfficeFAInfo"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="OfficeFAInfo">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="OfficeNumber" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="FaNumber" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:element name="GetOfficeFAList">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetOfficeFAListRequest" type="tns:AppAuthInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:element name="GetOfficeFAListResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetOfficeFAListResult" type="tns:AppAuthFAOfficeResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthFAOfficeResponseMessage">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:ResponseHeaderType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="OfficeFaList" type="tns:ArrayOfOfficeFAInfo"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:element name="CheckAccess">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="CheckAccessRequest" type="tns:AppAuthInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:element name="CheckAccessResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="CheckAccessResult" type="tns:AppAuthAuthenticationResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:element name="GetRoles">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetRolesRequest" type="tns:AppAuthInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:element name="GetRolesResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetRolesResult" type="tns:AppAuthGetRoleResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthGetRoleResponseMessage">
+  <xs:complexContent mixed="false">
+    <xs:extension base="tns:ResponseHeaderType">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Group" type="tns:ArrayOfGroupRole"/>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfGroupRole">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="unbounded" name="GroupRole" nillable="true" type="tns:GroupRole"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:complexType name="GroupRole">
+  <xs:sequence>
+    <xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+    <xs:element minOccurs="0" maxOccurs="1" name="RoleType" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+<xs:element name="GetEntitledRegionsForUser">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetEntitledRegionsForUserRequest" type="tns:AppAuthInParam"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:element name="GetEntitledRegionsForUserResponse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="GetEntitledRegionsForUserResult" type="tns:RegionNumberListResponseMessage"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<xs:complexType name="RegionNumberListResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="RegionNumbers" type="tns:ArrayOfString"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfString">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="GetEntitledFAs">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetEntitledFAsForBranchRequest" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="GetEntitledFAsResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetEntitledFAsResult" type="tns:GetEntitledFAsForBranchResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetEntitledFAsForBranchResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchUserList" type="tns:ArrayOfBranchUserProfile"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfBranchUserProfile">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="BranchUserProfile" nillable="true" type="tns:BranchUserProfile"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="BranchUserProfile">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="EmployeeNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FirstName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="LastName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ApplicationRole" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="RACFID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PCGID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="EmailID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ClubOfficerTitle" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="DateOfHire" type="xs:date"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PrimaryDistrictNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PrimaryDivisionNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="JobCode" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="JobTitle" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PrimaryBranchNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PrimaryRegionNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Series8Flag" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FAInfoList" type="tns:ArrayOfFADetail"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfFADetail">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="FADetail" nillable="true" type="tns:FADetail"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="FADetail">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="FAInformation" type="tns:FAInformation"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FARegistrationList" type="tns:ArrayOfFARegistration"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="FAInformation">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="RegionNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="DistrictNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="DivisionNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FACategory" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FANumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FAState" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FAFirstName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FALastName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FAMiddleName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FAEmailID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="BOMIndicator" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfFARegistration">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="FARegistration" nillable="true" type="tns:FARegistration"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="FARegistration">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchStateStatus" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ClStateStatus" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FANumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="StateCount" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="RegStates" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FABranchCategory" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="CheckUserEntitlementForApproval">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="CheckUserEntitlementForApprovalRequest" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="CheckUserEntitlementForApprovalResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="CheckUserEntitlementForApprovalResult" type="tns:CheckUserEntitlementForApprovalResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="CheckUserEntitlementForApprovalResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="1" maxOccurs="1" name="Series8Flag" type="tns:Series8Flag"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:simpleType name="Series8Flag">
+<xs:restriction base="xs:string">
+<xs:enumeration value="N"/>
+<xs:enumeration value="Y"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:element name="GetUserComplexes">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetUserComplexesRequest" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="GetUserComplexesResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetUserComplexesResult" type="tns:GetUserComplexesResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetUserComplexesResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="UserComplexesList" type="tns:ArrayOfComplexInfoAppAuth"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfComplexInfoAppAuth">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="ComplexInfoAppAuth" nillable="true" type="tns:ComplexInfoAppAuth"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ComplexInfoAppAuth">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="UserID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ComplexID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ComplexName" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="GetDataEntforUserOrg">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetDataEntforUserOrgRequest" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="GetDataEntforUserOrgResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetDataEntforUserOrgResult" type="tns:GetDataEntforUserOrgResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetDataEntforUserOrgResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="DataEntforUserOrgList" type="tns:ArrayOfDataEntforUserOrg"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfDataEntforUserOrg">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="DataEntforUserOrg" nillable="true" type="tns:DataEntforUserOrg"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="DataEntforUserOrg">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="RACFID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AccessLevel" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AccessLevelValue" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FANumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AccessLevelName" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="UpdateAppACL">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:AppAuthACLContext"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthACLContext">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:AppAuthInParam">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="UserRole" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="RoleFlag" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AllowDeny" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Perm" type="xs:string"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="UpdateAppACLResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="UpdateAppACLResult" type="tns:AppAuthResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthResponse">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Output" type="xs:string"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="GetAppplicationIDsForRacfID">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetApplIdsForUserIdInput"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetApplIdsForUserIdInput">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:InParamType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="ApplicationID" type="tns:ArrayOfString"/>
+<xs:element minOccurs="0" maxOccurs="1" name="RacfID" type="xs:string"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="GetAppplicationIDsForRacfIDResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetAppplicationIDsForRacfIDResult" type="tns:AppIdForRacfIDResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="AppIdForRacfIDResponse">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="AppRolesList" type="tns:ArrayOfAppRole"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfAppRole">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="AppRole" nillable="true" type="tns:AppRole"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="BranchBusinessRole">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="request" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="BranchBusinessRoleResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchBusinessRoleResult" type="tns:BranchBusinessRolesResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="BranchBusinessRolesResponse">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Output" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Roles" type="tns:ArrayOfString"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="GetACL">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="request" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="GetACLResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetACLResult" type="tns:GetACLResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetACLResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Output" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ApplicationID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FunctionID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AccessControlList" type="tns:ArrayOfAccessCtrl"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfAccessCtrl">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="AccessCtrl" nillable="true" type="tns:AccessCtrl"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="AccessCtrl">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="UserRole" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="Allow" type="xs:boolean"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Permissions" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="SetACL">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:AppAuthACLContext"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SetACLResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="SetACLResult" type="tns:AppAuthResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="HasRole">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="appRole" type="tns:AppAuthRoleContext"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthRoleContext">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:AppAuthInParam">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="RoleType" type="xs:string"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="HasRoleResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="HasRoleResult" type="tns:AppAuthResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="DeleteAppACL">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:AppAuthACLContext"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="DeleteAppACLResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="DeleteAppACLResult" type="tns:AppAuthResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="CleanUETCache">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="CleanUETCacheResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="CleanUETCacheResult" type="tns:AppAuthCachingResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="AppAuthCachingResponse">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="1" maxOccurs="1" name="IsSucessful" type="xs:boolean"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="GetOpsCenter">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:AppAuthInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="GetOpsCenterResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetOpsCenterResult" type="tns:BranchOfficeDetailsResponse"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="BranchOfficeDetailsResponse">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchOfficeDetailsList" type="tns:ArrayOfBranchOfficeDetails"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfBranchOfficeDetails">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="BranchOfficeDetails" nillable="true" type="tns:BranchOfficeDetails"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="BranchOfficeDetails">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Region" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ParentMktOffice" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ParentOffice" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Office" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="MarketName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ParentName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="SatelliteName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="OperationsCenter" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="OperationsState" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ManagerName" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="IsItSatelliteOffice" type="xs:boolean"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="GetAppRolesWithContext">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="context" type="tns:GetAppRolesWithContextInParam"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetAppRolesWithContextInParam">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:InParamType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="CostCenter" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="OrganizationalGroup" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="DomainType" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="DomainValue" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="RequestType" type="xs:int"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:element name="GetAppRolesWithContextResponse">
+<xs:complexType>
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="GetAppRolesWithContextResult" type="tns:GetAppRolesWithContextResponseMessage"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="GetAppRolesWithContextResponseMessage">
+<xs:complexContent mixed="false">
+<xs:extension base="tns:ResponseHeaderType">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="AppRoles" type="tns:ArrayOfApplicationRole"/>
+<xs:element minOccurs="1" maxOccurs="1" name="ExtraAttributesList" nillable="true" type="tns:ArrayOfAdditionalAttribute1"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:complexType name="ArrayOfApplicationRole">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="AppRole" nillable="true" type="tns:ApplicationRole"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ApplicationRole">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="RacfID" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="Role" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="ApplicationId" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="WinNTId" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="BranchType" type="xs:int"/>
+<xs:element minOccurs="0" maxOccurs="1" name="BranchValue" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="FaField" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="CostCenter" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="OrganizationalGroup" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="DomainRolesList" nillable="true" type="tns:ArrayOfDomainRole1"/>
+<xs:element minOccurs="1" maxOccurs="1" name="AppRoleAttributeList" nillable="true" type="tns:ArrayOfAdditionalAttribute"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfDomainRole1">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="DomainRole" nillable="true" type="tns:DomainRole"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="DomainRole">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="DomainType" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="DomainValue" type="xs:string"/>
+<xs:element minOccurs="1" maxOccurs="1" name="MultiLevelRolesList" nillable="true" type="tns:ArrayOfDomainRole"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfDomainRole">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="MultiLevelRole" nillable="true" type="tns:DomainRole"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfAdditionalAttribute">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="AppRoleAttribute" nillable="true" type="tns:AdditionalAttribute"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="AdditionalAttribute">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="1" name="AttributeName" type="xs:string"/>
+<xs:element minOccurs="0" maxOccurs="1" name="AttributeValue" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ArrayOfAdditionalAttribute1">
+<xs:sequence>
+<xs:element minOccurs="0" maxOccurs="unbounded" name="Attribute" nillable="true" type="tns:AdditionalAttribute"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
+</wsdl:types>
+<wsdl:message name="AppAuth_GetAppRoles_InputMessage">
+<wsdl:part name="parameters" element="tns:GetAppRoles"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetAppRoles_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetAppRolesResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckOfficeFA_InputMessage">
+<wsdl:part name="parameters" element="tns:CheckOfficeFA"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckOfficeFA_OutputMessage">
+<wsdl:part name="parameters" element="tns:CheckOfficeFAResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetOfficeFAList_InputMessage">
+<wsdl:part name="parameters" element="tns:GetOfficeFAList"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetOfficeFAList_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetOfficeFAListResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckAccess_InputMessage">
+<wsdl:part name="parameters" element="tns:CheckAccess"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckAccess_OutputMessage">
+<wsdl:part name="parameters" element="tns:CheckAccessResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetRoles_InputMessage">
+<wsdl:part name="parameters" element="tns:GetRoles"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetRoles_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetRolesResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetEntitledRegionsForUser_InputMessage">
+<wsdl:part name="parameters" element="tns:GetEntitledRegionsForUser"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetEntitledRegionsForUser_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetEntitledRegionsForUserResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetEntitledFAs_InputMessage">
+<wsdl:part name="parameters" element="tns:GetEntitledFAs"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetEntitledFAs_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetEntitledFAsResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckUserEntitlementForApproval_InputMessage">
+<wsdl:part name="parameters" element="tns:CheckUserEntitlementForApproval"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CheckUserEntitlementForApproval_OutputMessage">
+<wsdl:part name="parameters" element="tns:CheckUserEntitlementForApprovalResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetUserComplexes_InputMessage">
+<wsdl:part name="parameters" element="tns:GetUserComplexes"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetUserComplexes_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetUserComplexesResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetDataEntforUserOrg_InputMessage">
+<wsdl:part name="parameters" element="tns:GetDataEntforUserOrg"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetDataEntforUserOrg_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetDataEntforUserOrgResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_UpdateAppACL_InputMessage">
+<wsdl:part name="parameters" element="tns:UpdateAppACL"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_UpdateAppACL_OutputMessage">
+<wsdl:part name="parameters" element="tns:UpdateAppACLResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetAppplicationIDsForRacfID_InputMessage">
+<wsdl:part name="parameters" element="tns:GetAppplicationIDsForRacfID"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetAppplicationIDsForRacfID_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetAppplicationIDsForRacfIDResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_BranchBusinessRole_InputMessage">
+<wsdl:part name="parameters" element="tns:BranchBusinessRole"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_BranchBusinessRole_OutputMessage">
+<wsdl:part name="parameters" element="tns:BranchBusinessRoleResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetACL_InputMessage">
+<wsdl:part name="parameters" element="tns:GetACL"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetACL_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetACLResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_SetACL_InputMessage">
+<wsdl:part name="parameters" element="tns:SetACL"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_SetACL_OutputMessage">
+<wsdl:part name="parameters" element="tns:SetACLResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_HasRole_InputMessage">
+<wsdl:part name="parameters" element="tns:HasRole"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_HasRole_OutputMessage">
+<wsdl:part name="parameters" element="tns:HasRoleResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_DeleteAppACL_InputMessage">
+<wsdl:part name="parameters" element="tns:DeleteAppACL"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_DeleteAppACL_OutputMessage">
+<wsdl:part name="parameters" element="tns:DeleteAppACLResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CleanUETCache_InputMessage">
+<wsdl:part name="parameters" element="tns:CleanUETCache"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_CleanUETCache_OutputMessage">
+<wsdl:part name="parameters" element="tns:CleanUETCacheResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetOpsCenter_InputMessage">
+<wsdl:part name="parameters" element="tns:GetOpsCenter"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetOpsCenter_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetOpsCenterResponse"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetAppRolesWithContext_InputMessage">
+<wsdl:part name="parameters" element="tns:GetAppRolesWithContext"/>
+</wsdl:message>
+<wsdl:message name="AppAuth_GetAppRolesWithContext_OutputMessage">
+<wsdl:part name="parameters" element="tns:GetAppRolesWithContextResponse"/>
+</wsdl:message>
+<wsdl:portType name="AppAuth">
+<wsdl:operation name="GetAppRoles">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppRoles" message="tns:AppAuth_GetAppRoles_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppRolesResponse" message="tns:AppAuth_GetAppRoles_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="CheckOfficeFA">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/CheckOfficeFA" message="tns:AppAuth_CheckOfficeFA_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/CheckOfficeFAResponse" message="tns:AppAuth_CheckOfficeFA_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetOfficeFAList">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetOfficeFAList" message="tns:AppAuth_GetOfficeFAList_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetOfficeFAListResponse" message="tns:AppAuth_GetOfficeFAList_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="CheckAccess">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/CheckAccess" message="tns:AppAuth_CheckAccess_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/CheckAccessResponse" message="tns:AppAuth_CheckAccess_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetRoles">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetRoles" message="tns:AppAuth_GetRoles_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetRolesResponse" message="tns:AppAuth_GetRoles_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetEntitledRegionsForUser">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetEntitledRegionsForUser" message="tns:AppAuth_GetEntitledRegionsForUser_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetEntitledRegionsForUserResponse" message="tns:AppAuth_GetEntitledRegionsForUser_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetEntitledFAs">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetEntitledFAs" message="tns:AppAuth_GetEntitledFAs_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetEntitledFAsResponse" message="tns:AppAuth_GetEntitledFAs_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="CheckUserEntitlementForApproval">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/CheckUserEntitlementForApproval" message="tns:AppAuth_CheckUserEntitlementForApproval_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/CheckUserEntitlementForApprovalResponse" message="tns:AppAuth_CheckUserEntitlementForApproval_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetUserComplexes">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetUserComplexes" message="tns:AppAuth_GetUserComplexes_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetUserComplexesResponse" message="tns:AppAuth_GetUserComplexes_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetDataEntforUserOrg">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetDataEntforUserOrg" message="tns:AppAuth_GetDataEntforUserOrg_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetDataEntforUserOrgResponse" message="tns:AppAuth_GetDataEntforUserOrg_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="UpdateAppACL">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/UpdateAppACL" message="tns:AppAuth_UpdateAppACL_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/UpdateAppACLResponse" message="tns:AppAuth_UpdateAppACL_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetAppplicationIDsForRacfID">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppplicationIDsForRacfID" message="tns:AppAuth_GetAppplicationIDsForRacfID_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppplicationIDsForRacfIDResponse" message="tns:AppAuth_GetAppplicationIDsForRacfID_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="BranchBusinessRole">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/BranchBusinessRole" message="tns:AppAuth_BranchBusinessRole_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/BranchBusinessRoleResponse" message="tns:AppAuth_BranchBusinessRole_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetACL">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetACL" message="tns:AppAuth_GetACL_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetACLResponse" message="tns:AppAuth_GetACL_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="SetACL">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/SetACL" message="tns:AppAuth_SetACL_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/SetACLResponse" message="tns:AppAuth_SetACL_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="HasRole">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/HasRole" message="tns:AppAuth_HasRole_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/HasRoleResponse" message="tns:AppAuth_HasRole_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="DeleteAppACL">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/DeleteAppACL" message="tns:AppAuth_DeleteAppACL_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/DeleteAppACLResponse" message="tns:AppAuth_DeleteAppACL_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="CleanUETCache">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/CleanUETCache" message="tns:AppAuth_CleanUETCache_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/CleanUETCacheResponse" message="tns:AppAuth_CleanUETCache_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetOpsCenter">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetOpsCenter" message="tns:AppAuth_GetOpsCenter_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetOpsCenterResponse" message="tns:AppAuth_GetOpsCenter_OutputMessage"/>
+</wsdl:operation>
+<wsdl:operation name="GetAppRolesWithContext">
+<wsdl:input wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppRolesWithContext" message="tns:AppAuth_GetAppRolesWithContext_InputMessage"/>
+<wsdl:output wsaw:Action="http://ebc.mssb.com/AppAuth/GetAppRolesWithContextResponse" message="tns:AppAuth_GetAppRolesWithContext_OutputMessage"/>
+</wsdl:operation>
+</wsdl:portType>
+<wsdl:binding name="BasicHttpBinding_AppAuth" type="tns:AppAuth">
+<soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+<wsdl:operation name="GetAppRoles">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetAppRoles" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="CheckOfficeFA">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/CheckOfficeFA" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetOfficeFAList">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetOfficeFAList" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="CheckAccess">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/CheckAccess" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetRoles">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetRoles" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetEntitledRegionsForUser">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetEntitledRegionsForUser" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetEntitledFAs">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetEntitledFAs" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="CheckUserEntitlementForApproval">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/CheckUserEntitlementForApproval" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetUserComplexes">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetUserComplexes" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetDataEntforUserOrg">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetDataEntforUserOrg" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="UpdateAppACL">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/UpdateAppACL" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetAppplicationIDsForRacfID">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetAppplicationIDsForRacfID" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="BranchBusinessRole">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/BranchBusinessRole" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetACL">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetACL" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="SetACL">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/SetACL" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="HasRole">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/HasRole" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="DeleteAppACL">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/DeleteAppACL" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="CleanUETCache">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/CleanUETCache" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetOpsCenter">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetOpsCenter" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="GetAppRolesWithContext">
+<soap:operation soapAction="http://ebc.mssb.com/AppAuth/GetAppRolesWithContext" style="document"/>
+<wsdl:input>
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output>
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+</wsdl:binding>
+<wsdl:service name="AppAuth">
+<wsdl:port name="BasicHttpBinding_AppAuth" binding="tns:BasicHttpBinding_AppAuth">
+<soap:address location="http://cod7idwsv306.pcg.ad.msdwis.com/site/infrastructure/EBC/appauth/AppAuth.svc"/>
+</wsdl:port>
+</wsdl:service>
+</wsdl:definitions>

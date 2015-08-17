@@ -1,0 +1,24 @@
+<Record>
+<Term>Parasitic Intestinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Blastocystis Infections</ChildTerm>
+<ChildTerm>Dysentery, Amebic</ChildTerm>
+<ChildTerm>Dientamoebiasis</ChildTerm>
+<ChildTerm>Cryptosporidiosis</ChildTerm>
+<ChildTerm>Balantidiasis</ChildTerm>
+<ChildTerm>Anisakiasis</ChildTerm>
+<ChildTerm>Giardiasis</ChildTerm>
+<Synonym>Parasitic Intestinal Diseases</Synonym>
+<Synonym>Parasitic Intestinal Disease</Synonym>
+<Description>Infections of the INTESTINES with PARASITES, commonly involving PARASITIC WORMS. Infections with roundworms (NEMATODE INFECTIONS) and tapeworms (CESTODE INFECTIONS) are also known as HELMINTHIASIS.</Description>
+<Source>MeSH</Source>
+</Record>

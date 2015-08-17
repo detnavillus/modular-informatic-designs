@@ -1,0 +1,24 @@
+<Record>
+<Term>Myositis Ossificans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myositis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Myositis Ossificans</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Myositis/Myositis Ossificans</ClassificationPath>
+<BroaderTerm>Myositis Ossificans</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Traumatic Myositis Ossificans</ChildTerm>
+<Synonym>Myositis Ossificans</Synonym>
+<Synonym>Fibrodysplasia Ossificans Progressiva</Synonym>
+<Description>A disease characterized by bony deposits or the ossification of muscle tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Oncolytic Adenovirus Encoding GM-CSF</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Oncolytic Adenovirus Encoding GM-CSF</ClassificationPath>
+<BroaderTerm>Oncolytic Adenovirus Encoding GM-CSF</BroaderTerm>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>CG0070</Synonym>
+<Synonym>Oncolytic Adenovirus Encoding GM-CSF</Synonym>
+<Description>A recombinant oncolytic adenovirus encoding the immunohematopoietic cytokine granulocyte-macrophage colony stimulating factor (GM-CSF) with potential antineoplastic activity. Upon administration, the oncolytic adenovirus selectively infects and replicates in tumor cells, which may result in tumor cells lysis. Synergistically, GM-CSF (sargramostim) expressed by the oncolytic adenovirus may promote a cytotoxic T cell response against tumor cells harboring the oncolytic adenovirus, resulting in an immune-mediated tumor cell death.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

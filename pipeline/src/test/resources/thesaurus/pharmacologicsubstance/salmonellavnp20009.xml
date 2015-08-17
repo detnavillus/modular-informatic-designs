@@ -1,0 +1,22 @@
+<Record>
+<Term>Salmonella VNP20009</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Salmonella VNP20009,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Attenuated Bacteria/Salmonella VNP20009</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Attenuated Bacteria</BroaderTerm>
+<BroaderTerm>Salmonella VNP20009</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Salmonella VNP20009,</BroaderTerm>
+<Synonym>Auxotrophic Lipid A S. Typhimurium mutant</Synonym>
+<Synonym>Live, Attenuated Salmonella Typhimurium</Synonym>
+<Synonym>Salmonella VNP20009</Synonym>
+<Synonym>VNP 20009</Synonym>
+<Synonym>VNP20009</Synonym>
+<Description>A genetically stable Salmonella typhimurium strain, attenuated by chromosomal deletion of the purI and msbB genes, with tumor-targeting activity. In rodent models, salmonella VNP20009 has been shown to selectively accumulate and grow in a variety of tumor types, inhibiting the growth of primary and metastatic tumors. This agent may be genetically engineered to contain transgenes that express therapeutic agents or cell surface tumor-associated antigen-specific antibodies, such as CEA-specific antibodies, which may improve its tumor targeting and therapeutic potential.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

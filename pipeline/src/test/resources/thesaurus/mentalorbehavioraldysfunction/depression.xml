@@ -1,0 +1,49 @@
+<Record>
+<Term>Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Mood Alteration Adverse Event</ParentTerm>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Depression</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Mood Alteration Adverse Event/Depression Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Depression Adverse Event</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mood Alteration Adverse Event</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Neurotic Depression</ChildTerm>
+<ChildTerm>Unipolar Depression</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Depression</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Depression</ChildTerm>
+<ChildTerm>Bipolar Depression</ChildTerm>
+<ChildTerm>Melancholic Depression</ChildTerm>
+<ChildTerm>Reactive Depression</ChildTerm>
+<ChildTerm>Endogenous Depression</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Depression</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Depression</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Depression</ChildTerm>
+<Synonym>Depression Adverse Event</Synonym>
+<Synonym>Emotional Depression</Synonym>
+<Synonym>Depressive Symptom</Synonym>
+<Synonym>Depression</Synonym>
+<Synonym>Depressions</Synonym>
+<Synonym>Depressive Symptoms</Synonym>
+<Synonym>Emotional Depressions</Synonym>
+<Description>Depressive states usually of moderate intensity in contrast with major depression present in neurotic and psychotic disorders.</Description>
+<Description>A mental state of depressed mood characterised by feelings of sadness, despair and discouragement.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

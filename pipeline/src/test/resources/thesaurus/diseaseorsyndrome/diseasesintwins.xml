@@ -1,0 +1,14 @@
+<Record>
+<Term>Diseases in Twins</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Diseases in Twins</ClassificationPath>
+<BroaderTerm>Diseases in Twins</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<Synonym>Diseases in Twins</Synonym>
+<Synonym>Diseases in Twin</Synonym>
+<Description>Disorders affecting TWINS, one or both, at any age.</Description>
+<Source>MeSH</Source>
+</Record>

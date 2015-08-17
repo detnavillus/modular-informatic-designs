@@ -1,0 +1,27 @@
+<Record>
+<Term>Pseudomembranous Enterocolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Clostridium Infections</ParentTerm>
+<ParentTerm>Enterocolitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enterocolitis/Enterocolitis, Pseudomembranous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Clostridium Infections/Enterocolitis, Pseudomembranous</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enterocolitis/Enterocolitis, Pseudomembranous</ClassificationPath>
+<BroaderTerm>Clostridium Infections</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Enterocolitis, Pseudomembranous</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Enterocolitis</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pseudomembranous Enterocolitis</Synonym>
+<Synonym>Pseudomembranous Colitis</Synonym>
+<Synonym>Pseudomembranous Enteritis</Synonym>
+<Synonym>Antibiotic-Associated Colitis</Synonym>
+<Synonym>Antibiotic Associated Colitis</Synonym>
+<Synonym>Clostridium Enterocolitis</Synonym>
+<Description>An acute inflammation of the INTESTINAL MUCOSA that is characterized by the presence of pseudomembranes or plaques in the SMALL INTESTINE (pseudomembranous enteritis) and the LARGE INTESTINE (pseudomembranous colitis). It is commonly associated with antibiotic therapy and CLOSTRIDIUM DIFFICILE colonization.</Description>
+<Source>MeSH</Source>
+</Record>

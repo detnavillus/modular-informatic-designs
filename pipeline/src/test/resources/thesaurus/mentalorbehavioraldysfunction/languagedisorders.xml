@@ -1,0 +1,25 @@
+<Record>
+<Term>Language Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Communication Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Anomia</ChildTerm>
+<ChildTerm>Speech Disorders</ChildTerm>
+<ChildTerm>Language Development Disorders</ChildTerm>
+<ChildTerm>Agraphia</ChildTerm>
+<ChildTerm>Dyslexia</ChildTerm>
+<Synonym>Acquired Language Disorders</Synonym>
+<Synonym>Language Disorders</Synonym>
+<Synonym>Language Disorder</Synonym>
+<Synonym>Acquired Language Disorder</Synonym>
+<Description>Conditions characterized by deficiencies of comprehension or expression of written and spoken forms of language. These include acquired and developmental disorders.</Description>
+<Source>MeSH</Source>
+</Record>

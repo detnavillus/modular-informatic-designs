@@ -1,0 +1,15 @@
+<Record>
+<Term>MDR Modulator CBT-1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/MDR Modulator CBT-1</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>MDR Modulator CBT-1</BroaderTerm>
+<Synonym>CBT-1</Synonym>
+<Synonym>MDR Modulator CBT-1</Synonym>
+<Description>A naturally-occurring, orally bioavailable bisbenzylisoquinoline plant alkaloid with potential chemosensitization activity. MDR modulator CBT-1 binds to and inhibits the MDR efflux pump P-glycoprotein (P-gp), which may inhibit the efflux of various chemotherapeutic agents from tumor cells and reverse P-gp-mediated tumor cell MDR. P-gp is a transmembrane ATP-binding cassette (ABC) transporter and is overexpressed by some multidrug resistant tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Acute Chest Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Sickle Cell</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Respiration Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Acute Chest Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Anemia, Sickle Cell/Acute Chest Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Acute Chest Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Acute Chest Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Anemia, Sickle Cell/Acute Chest Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Acute Chest Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Anemia, Sickle Cell</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Acute Chest Syndrome</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Acute Chest Syndromes</Synonym>
+<Synonym>Acute Chest Syndrome</Synonym>
+<Description>Respiratory syndrome characterized by the appearance of a new pulmonary infiltrate on chest x-ray, accompanied by symptoms of fever, cough, chest pain, tachypnea, or DYSPNEA, often seen in patients with SICKLE CELL ANEMIA. Multiple factors (e.g., infection, and pulmonary FAT EMBOLISM) may contribute to the development of the syndrome.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,39 @@
+<Record>
+<Term>Immunologic Adjuvants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Immunologic Factors</ParentTerm>
+<ParentTerm>Biological Response Modifier</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Immunologic Factors/Adjuvants, Immunologic</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Adjuvants, Immunologic</BroaderTerm>
+<BroaderTerm>Immunologic Factors</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Vaccine Adjuvant</ChildTerm>
+<ChildTerm>Astaxanthine</ChildTerm>
+<ChildTerm>Chemo Immunostimulant Adjuvant</ChildTerm>
+<Synonym>Immunologic Adjuvants</Synonym>
+<Synonym>Immunostimulants</Synonym>
+<Synonym>Immunoactivators</Synonym>
+<Synonym>Immunoadjuvants</Synonym>
+<Synonym>immunological adjuvant</Synonym>
+<Synonym>Immunopotentiators</Synonym>
+<Synonym>immune adjuvant</Synonym>
+<Synonym>Adjuvants, Immunologic</Synonym>
+<Synonym>Immunological Adjuvant</Synonym>
+<Synonym>Immunologic Adjuvant</Synonym>
+<Synonym>Immunological Adjuvants</Synonym>
+<Synonym>Immunoadjuvant</Synonym>
+<Description>Adjuvants are mostly pharmacological agents of drug or biological origin used to modify the antigenicity of immunization components, i.e., to stimulate, potentiate, or depress the immune response or to inhibit or enhance specific subclasses of immunocytes.  Adjuvants augment, stimulate, activate, potentiate, or modulate the immune response at either the cellular or humoral level.  Classical agents (Freund's adjuvant, BCG, Corynebacterium parvum) contain bacterial antigens.  Some adjuvants are endogenous (e.g., histamine, interferon, transfer factor, tuftsin, interleukin-1).  Their mode of action is either non-specific, resulting in increased immune responsiveness to a variety of antigens, or antigen-specific, affecting a restricted type of immune response to a narrow group of antigens.  Since adjuvants enhance the body's immune response, they can be considered a type of immune modulator.</Description>
+<Description>Substances that augment, stimulate, activate, potentiate, or modulate the immune response at either the cellular or humoral level. The classical agents (Freund's adjuvant, BCG, Corynebacterium parvum, et al.) contain bacterial antigens. Some are endogenous (e.g., histamine, interferon, transfer factor, tuftsin, interleukin-1). Their mode of action is either non-specific, resulting in increased immune responsiveness to a wide variety of antigens, or antigen-specific, i.e., affecting a restricted type of immune response to a narrow group of antigens. The therapeutic efficacy of many biological response modifiers is related to their antigen-specific immunoadjuvanticity.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

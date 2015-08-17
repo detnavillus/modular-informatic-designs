@@ -1,0 +1,22 @@
+<Record>
+<Term>Renal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Renal Insufficiency, Chronic</ChildTerm>
+<ChildTerm>Kidney Failure</ChildTerm>
+<ChildTerm>Renal Insufficiency, Acute</ChildTerm>
+<Synonym>Renal Insufficiency</Synonym>
+<Synonym>Renal Insufficiencies</Synonym>
+<Synonym>Kidney Insufficiencies</Synonym>
+<Synonym>Kidney Insufficiency</Synonym>
+<Description>Conditions in which the KIDNEYS perform below the normal level in the ability to remove wastes, concentrate URINE, and maintain ELECTROLYTE BALANCE; BLOOD PRESSURE; and CALCIUM metabolism. Renal insufficiency can be classified by the degree of kidney damage (as measured by the level of PROTEINURIA) and reduction in GLOMERULAR FILTRATION RATE. The most severe form is KIDNEY FAILURE. Renal function may deteriorate slowly (RENAL INSUFFICIENCY, CHRONIC) or precipitously (RENAL INSUFFICIENCY, ACUTE).</Description>
+<Source>MeSH</Source>
+</Record>

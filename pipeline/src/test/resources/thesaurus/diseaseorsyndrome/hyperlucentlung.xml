@@ -1,0 +1,20 @@
+<Record>
+<Term>Hyperlucent Lung</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pulmonary Emphysema</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Emphysema/Lung, Hyperlucent</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Lung, Hyperlucent</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Emphysema</BroaderTerm>
+<Synonym>Hyperlucent Lung</Synonym>
+<Synonym>Hyperlucent Lungs</Synonym>
+<Synonym>Hyperlucent Thorax</Synonym>
+<Synonym>Unilateral Hyperlucent Lung</Synonym>
+<Synonym>Unilateral Hyperlucent Lungs</Synonym>
+<Synonym>Swyer-James Syndrome</Synonym>
+<Synonym>Swyer James Syndrome</Synonym>
+<Synonym>MacLeod Syndrome</Synonym>
+<Description>A lung with reduced markings on its chest radiograph and increased areas of transradiancy (hyperlucency). A hyperlucent lung is usually associated with pulmonary emphysema or PNEUMOTHORAX.A pneumothorax condition marked by complete absence of markings in the chest radiograph.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>CHIR-265</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Raf Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Serine Threonine Kinase Inhibitor/Raf Kinase Inhibitor/CHIR-265</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Serine Threonine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CHIR-265</BroaderTerm>
+<BroaderTerm>Raf Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CHIR-265</Synonym>
+<Description>A fusion protein consisting of a human monoclonal antibody fragment specific for the epithelial cell adhesion molecule (EpCAM) conjugated with a truncated form of Pseudomonas exotoxin A with potential antineoplastic activity. Anti-EpCAM-Pseudomonas-exotoxin fusion protein binds to Ep-CAM-positive tumor cells, thereby delivering the Pseudomonas exotoxin A moiety specifically; the Pseudomonas exotoxin A moiety then inactivates elongation factor 2 (EF-2) through ADP ribosylation, resulting in inhibition of protein synthesis in target cells. EpCAM, a cell surface protein, is expressed by a variety of tumor cells and is frequently found in head and neck cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

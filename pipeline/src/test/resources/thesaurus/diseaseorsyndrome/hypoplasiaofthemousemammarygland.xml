@@ -1,0 +1,19 @@
+<Record>
+<Term>Hypoplasia of the Mouse Mammary Gland</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-proliferative Developmental Conditions of the Mouse Mammary Gland</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Non-proliferative Developmental Conditions of the Mouse Mammary Gland/Hypoplasia of the Mouse Mammary Gland</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Hypoplasia of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Non-proliferative Developmental Conditions of the Mouse Mammary Gland</BroaderTerm>
+<ChildTerm>Lobuloacinar Hypoplasia of the Mouse Mammary Gland</ChildTerm>
+<ChildTerm>Terminal End Bud Hypoplasia of the Mouse Mammary Gland</ChildTerm>
+<ChildTerm>Ductal Hypoplasia of the Mouse Mammary Gland</ChildTerm>
+<Synonym>Hypoplasia of the Mammary Gland</Synonym>
+<Synonym>Hypoplasia of the Mouse Mammary Gland</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

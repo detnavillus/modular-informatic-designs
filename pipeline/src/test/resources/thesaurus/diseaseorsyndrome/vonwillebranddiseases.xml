@@ -1,0 +1,38 @@
+<Record>
+<Term>von Willebrand Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Protein Disorders</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/von Willebrand Diseases</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/von Willebrand Diseases</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/von Willebrand Diseases</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/von Willebrand Diseases</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/von Willebrand Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>von Willebrand Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>von Willebrand Disease, Type 3</ChildTerm>
+<ChildTerm>von Willebrand Disease, Type 1</ChildTerm>
+<ChildTerm>von Willebrand Disease, Type 2</ChildTerm>
+<Synonym>von Willebrand Diseases</Synonym>
+<Synonym>von Willebrand Disease</Synonym>
+<Synonym>von Willebrand's Disease</Synonym>
+<Synonym>Angiohemophilias</Synonym>
+<Synonym>von Willebrand's Diseases</Synonym>
+<Synonym>von Willebrands Disease</Synonym>
+<Synonym>Angiohemophilia</Synonym>
+<Synonym>Vascular Hemophilia</Synonym>
+<Synonym>Vascular Hemophilias</Synonym>
+<Synonym>von Willebrands Diseases</Synonym>
+<Description>Group of hemorrhagic disorders in which the VON WILLEBRAND FACTOR is either quantitatively or qualitatively abnormal. They are usually inherited as an autosomal dominant trait though rare kindreds are autosomal recessive. Symptoms vary depending on severity and disease type but may include prolonged bleeding time, deficiency of factor VIII, and impaired platelet adhesion.</Description>
+<Source>MeSH</Source>
+</Record>

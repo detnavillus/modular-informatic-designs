@@ -1,0 +1,15 @@
+<Record>
+<Term>PR-104</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/PR-104</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>PR-104</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PR-104</Synonym>
+<Synonym>PR104</Synonym>
+<Description>A non-toxic, small-molecule, hypoxia-activated, 3,5-dinitrobenzamide nitrogen mustard pre-prodrug with potential antitumor activity. Upon intravenous administration, PR-104 is converted by systemic phosphatases to the alcohol intermediate PR-104A, which is reduced to form the active DNA-crosslinking mustard species hydroxylamine PR-104H intracellularly under hypoxic conditions. PR-104H specifically crosslinks hypoxic tumor cell DNA, resulting in the inhibition of DNA repair and synthesis, cell-cycle arrest, and apoptosis in susceptible hypoxic tumor cell populations while sparing normoxic tissues.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

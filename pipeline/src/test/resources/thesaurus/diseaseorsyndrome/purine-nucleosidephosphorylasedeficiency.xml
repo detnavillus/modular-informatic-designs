@@ -1,0 +1,17 @@
+<Record>
+<Term>Purine-Nucleoside Phosphorylase Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Severe Combined Immunodeficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Combined Immunodeficiency/Severe Combined Immunodeficiency/Purine-Nucleoside Phosphorylase Deficiency</ClassificationPath>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Severe Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>Congenital Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>Purine-Nucleoside Phosphorylase Deficiency</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Purine-Nucleoside Phosphorylase Deficiency</Synonym>
+<Description>PNP reversibly catalyzes the phosphorolysis of the purine nucleosides, (deoxy)inosine and (deoxy)guanosine, to their respective purine bases and the corresponding ribose-1-phosphate.  Deficiency in this enzyme is an autosomal recessive cause of combined immunodeficiency.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

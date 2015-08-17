@@ -1,0 +1,37 @@
+<Record>
+<Term>Aplastic Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Marrow Diseases</ParentTerm>
+<ParentTerm>Anemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Aplastic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Aplastic Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Anemia, Aplastic</ClassificationPath>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Anemia, Aplastic</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Aplastic Anemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Idiopathic Aplastic Anemia</ChildTerm>
+<ChildTerm>Aplastic Anemia due to Radiation</ChildTerm>
+<ChildTerm>Anemia, Hypoplastic, Congenital</ChildTerm>
+<ChildTerm>Drug-Induced Aplastic Anemia</ChildTerm>
+<ChildTerm>Severe Aplastic Anemia</ChildTerm>
+<ChildTerm>Drug:Toxin-Induced Aplastic Anemia</ChildTerm>
+<ChildTerm>Aplastic Anemia due to Infection</ChildTerm>
+<Synonym>Hypoplastic Anemias</Synonym>
+<Synonym>Hypoplastic Anemia</Synonym>
+<Synonym>Aplastic Anemia</Synonym>
+<Synonym>Aplastic Anemias</Synonym>
+<Synonym>aplastic anemia</Synonym>
+<Description>A form of anemia in which the bone marrow fails to produce adequate numbers of peripheral blood elements.</Description>
+<Description>Anemia resulting from bone marrow failure (aplastic or hypoplastic bone marrow).  The production of erythroblasts and red cells is markedly decreased, and it may be associated with decreased production of granulocytes (granulocytopenia) and platelets (thrombocytopenia) as well.  Aplastic anemia may be idiopathic or secondary due to bone marrow damage by toxins, radiation, or immunologic factors. -- 2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Abdominal and Gastrointestinal Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Abdominal and Gastrointestinal Infection</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Abdominal and Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Abdominal Infection</ChildTerm>
+<ChildTerm>Gastrointestinal Infection</ChildTerm>
+<Synonym>Abdominal and Gastrointestinal Infection</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Poliovirus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Poliovirus Vaccines</ClassificationPath>
+<BroaderTerm>Poliovirus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Poliovirus Vaccine, Inactivated</ChildTerm>
+<ChildTerm>Poliovirus Vaccine, Oral</ChildTerm>
+<Synonym>Poliovirus Vaccines</Synonym>
+<Description>Vaccines used to prevent POLIOMYELITIS. They include inactivated  (POLIOVIRUS VACCINE, INACTIVATED) and oral vaccines (POLIOVIRUS VACCINE, ORAL).</Description>
+<Source>MeSH</Source>
+</Record>

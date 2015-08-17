@@ -1,0 +1,48 @@
+<Record>
+<Term>Central Nervous System AIDS Arteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Arteritis</ParentTerm>
+<ParentTerm>Vasculitis, Central Nervous System</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Vasculitis, Central Nervous System/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Arteritis/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Vasculitis, Central Nervous System/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arteritis/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Vasculitis, Central Nervous System/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Vasculitis, Central Nervous System/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/AIDS Arteritis, Central Nervous System</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>AIDS Arteritis, Central Nervous System</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Arteritis</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis, Central Nervous System</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>HIV-Associated CNS Vasculitis</Synonym>
+<Synonym>AIDS Associated Cerebral Aneurysmal Arteriopathy</Synonym>
+<Synonym>HIV 1 Associated CNS Vasculitis</Synonym>
+<Synonym>HIV-1-Associated CNS Vasculitides</Synonym>
+<Synonym>HIV-Associated CNS Vasculitides</Synonym>
+<Synonym>HIV Associated Vasculitis of the Central Nervous System</Synonym>
+<Synonym>Central Nervous System AIDS Arteritis</Synonym>
+<Synonym>HIV-1-Associated CNS Vasculitis</Synonym>
+<Synonym>AIDS-Associated Cerebral Aneurysmal Arteriopathy</Synonym>
+<Synonym>HIV-Associated Vasculitis of the Central Nervous System</Synonym>
+<Description>Inflammation of ARTERIES in the CENTRAL NERVOUS SYSTEM that occurs in patients with ACQUIRED IMMUNODEFICIENCY SYNDROME or AIDS-RELATED OPPORTUNISTIC INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

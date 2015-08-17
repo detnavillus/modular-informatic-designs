@@ -1,0 +1,17 @@
+<Record>
+<Term>Pyran Polymer</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Conjugating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/Conjugating Agent/Pyran Polymer</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Conjugating Agent</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Pyran Polymer</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Pyran Polymer</Synonym>
+<Description>A hydrocarbon-based polymer containing a pyran nucleus used to bioconjugate various drugs,. Use of a pyran polymer-drug bioconjugate may alter the biodistribution of a low molecular weight drug, resulting in disease-specific targeting with reduced drug access to sites of toxicity such as the bone marrow; the large size of the bioconjugate does not allow the active agent to pass the blood-bone marrow barrier. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

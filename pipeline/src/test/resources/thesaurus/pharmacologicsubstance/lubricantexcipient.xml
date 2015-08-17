@@ -1,0 +1,16 @@
+<Record>
+<Term>Lubricant Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Lubricant Excipient</ClassificationPath>
+<BroaderTerm>Lubricant Excipient</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Lubricant</Synonym>
+<Synonym>Lubricant Excipient</Synonym>
+<Description>Lubricant excipient is a therapeutically inactive substance used to facilitate the release of stamped solid pharmaceutical dosage forms, e.g. tablets, out of the die once pressed, improving the efficiency of manufacturing. Magnesium stearate is an example.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Helium</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Noble Gases</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Gases/Noble Gases/Helium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Noble Gases/Helium</ClassificationPath>
+<BroaderTerm>Elements</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Noble Gases</BroaderTerm>
+<BroaderTerm>Gases</BroaderTerm>
+<BroaderTerm>Helium</BroaderTerm>
+<Synonym>Helium</Synonym>
+<Description>Helium. A noble gas with the atomic symbol He, atomic number 2, and atomic weight 4.003. It is a colorless, odorless, tasteless gas that is not combustible and does not support combustion. It was first detected in the sun and is now obtained from natural gas. Medically it is used as a diluent for other gases, being especially useful with oxygen in the treatment of certain cases of respiratory obstruction, and as a vehicle for general anesthetics. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

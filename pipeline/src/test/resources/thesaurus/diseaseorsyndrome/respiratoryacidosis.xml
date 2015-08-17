@@ -1,0 +1,33 @@
+<Record>
+<Term>Respiratory Acidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Acidosis</ParentTerm>
+<ParentTerm>Respiratory System Finding</ParentTerm>
+<ParentTerm>Respiratory Insufficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Respiratory System Finding/Respiratory Acidosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Insufficiency/Acidosis, Respiratory</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Acid-Base Imbalance/Acidosis/Acidosis, Respiratory</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Acidosis</BroaderTerm>
+<BroaderTerm>Respiratory Acidosis</BroaderTerm>
+<BroaderTerm>Respiratory System Finding</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Acid-Base Imbalance</BroaderTerm>
+<BroaderTerm>Acidosis, Respiratory</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Respiratory Insufficiency</BroaderTerm>
+<Synonym>Respiratory Acidosis</Synonym>
+<Synonym>Respiratory Acidoses</Synonym>
+<Synonym>Acidosis, Respiratory</Synonym>
+<Synonym>Hypercapnic Acidosis</Synonym>
+<Description>Respiratory retention of carbon dioxide. It may be chronic or acute.</Description>
+<Description>Acidosis resulted from any pathologic condition interfering with normal ventilation, e.g. in case of chronic obstructive pulmonary disease.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

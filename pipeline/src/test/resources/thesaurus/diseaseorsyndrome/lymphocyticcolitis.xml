@@ -1,0 +1,32 @@
+<Record>
+<Term>Lymphocytic Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Microscopic Colitis</ParentTerm>
+<ParentTerm>Colitis, Microscopic</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Colitis/Microscopic Colitis/Lymphocytic Colitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Colitis, Microscopic/Colitis, Lymphocytic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Colitis, Microscopic/Colitis, Lymphocytic</ClassificationPath>
+<BroaderTerm>Microscopic Colitis</BroaderTerm>
+<BroaderTerm>Lymphocytic Colitis</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Colitis, Microscopic</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Colitis, Lymphocytic</BroaderTerm>
+<ChildTerm>Classic Lymphocytic Colitis</ChildTerm>
+<Synonym>Lymphocytic Colitis</Synonym>
+<Description>A subtype of MICROSCOPIC COLITIS, characterized by chronic watery DIARRHEA of unknown origin, a normal COLONOSCOPY but abnormal histopathology on BIOPSY. Microscopic examination of biopsy samples taken from the COLON show infiltration of LYMPHOCYTES in the superficial EPITHELIUM  and the underlying connective tissue (lamina propria).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

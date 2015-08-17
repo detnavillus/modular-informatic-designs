@@ -1,0 +1,44 @@
+<Record>
+<Term>Uveitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Uveal Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ParentTerm>Non-Neoplastic Uveal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Uveitis Adverse Event</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Uveal Disorder/Non-Neoplastic Uveal Disorder/Uveitis</ClassificationPath>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Uveal Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Uveal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Uveitis Adverse Event</BroaderTerm>
+<ChildTerm>Uveitis, Intermediate</ChildTerm>
+<ChildTerm>Panuveitis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Uveitis</ChildTerm>
+<ChildTerm>Uveomeningoencephalitic Syndrome</ChildTerm>
+<ChildTerm>Uveitis, Suppurative</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Uveitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Uveitis</ChildTerm>
+<ChildTerm>Intermediate Uveitis</ChildTerm>
+<ChildTerm>Anterior Uveitis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Uveitis</ChildTerm>
+<ChildTerm>Posterior Uveitis</ChildTerm>
+<Synonym>Uveitis</Synonym>
+<Synonym>Uveitides</Synonym>
+<Synonym>Uveitis Adverse Event</Synonym>
+<Description>Inflammation of part or all of the uvea, the middle (vascular) tunic of the eye, and commonly involving the other tunics (sclera and cornea, and the retina). (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

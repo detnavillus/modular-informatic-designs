@@ -1,0 +1,27 @@
+<Record>
+<Term>Hydroxymethylglutaryl-CoA Reductase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ParentTerm>Anticholesteremic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites/Antilipemic Agents/Anticholesteremic Agents/Hydroxymethylglutaryl-CoA Reductase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antilipemic Agents/Anticholesteremic Agents/Hydroxymethylglutaryl-CoA Reductase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Hydroxymethylglutaryl-CoA Reductase Inhibitors</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Hydroxymethylglutaryl-CoA Reductase Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Anticholesteremic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antilipemic Agents</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Hydroxymethylglutaryl-CoA Reductase Inhibitors</Synonym>
+<Synonym>HMG-CoA Reductase Inhibitors</Synonym>
+<Synonym>HMG CoA Reductase Inhibitors</Synonym>
+<Synonym>Hydroxymethylglutaryl CoA Reductase Inhibitors</Synonym>
+<Synonym>Hydroxymethylglutaryl-Coenzyme A Inhibitors</Synonym>
+<Synonym>HMG-CoA Statins</Synonym>
+<Synonym>Hydroxymethylglutaryl-CoA Inhibitors</Synonym>
+<Description>Compounds that inhibit HMG-CoA reductases. They have been shown to directly lower cholesterol synthesis.</Description>
+<Source>MeSH</Source>
+</Record>

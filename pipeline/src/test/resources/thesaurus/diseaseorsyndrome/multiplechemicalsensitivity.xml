@@ -1,0 +1,19 @@
+<Record>
+<Term>Multiple Chemical Sensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Environmental Illness</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Environmental Illness/Multiple Chemical Sensitivity</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Environmental Illness/Multiple Chemical Sensitivity</ClassificationPath>
+<BroaderTerm>Environmental Illness</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Multiple Chemical Sensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Idiopathic Environmental Intolerances</Synonym>
+<Synonym>Multiple Chemical Sensitivity Syndrome</Synonym>
+<Synonym>Multiple Chemical Sensitivity</Synonym>
+<Synonym>Multiple Chemical Sensitivities</Synonym>
+<Synonym>Idiopathic Environmental Intolerance</Synonym>
+<Description>An acquired disorder characterized by recurrent symptoms, referable to multiple organ systems, occurring in response to demonstrable exposure to many chemically unrelated compounds at doses below those established in the general population to cause harmful effects. (Cullen MR. The worker with multiple chemical sensitivities: an overview. Occup Med 1987;2(4):655-61)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Gallium Ga 68 F(ab')2-Trastuzumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Gallium Ga 68 F(ab')2-Trastuzumab</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Gallium Ga 68 F(ab')2-Trastuzumab</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Gallium Ga 68 F(ab')2-Trastuzumab</Synonym>
+<Synonym>HERScan</Synonym>
+<Description>A radioimmunoconjugate consisting of a trastuzumab fragment labeled with the positron-emitting radioisotope gallium Ga 68 with radioisotopic and antibody activities. Upon administration, Ga-68-labeled F(ab')2-trastuzumab may bind to HER2-positive tumor cells, allowing radioimmunolocalization with positron emission tomography (PET). Trastuzumab is a recombinant humanized monoclonal antibody that selectively binds to the extracellular domain of human epidermal growth factor receptor 2 (HER2), overexpressed by many adenocarcinomas, particularly breast adenocarcinomas.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

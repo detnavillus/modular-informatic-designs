@@ -1,0 +1,23 @@
+<Record>
+<Term>Chorioretinitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinitis</ParentTerm>
+<ParentTerm>Choroiditis</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Choroid Diseases/Choroiditis/Chorioretinitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Posterior/Choroiditis/Chorioretinitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinitis/Chorioretinitis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Choroid Diseases</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Retinitis</BroaderTerm>
+<BroaderTerm>Choroiditis</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Uveitis, Posterior</BroaderTerm>
+<BroaderTerm>Chorioretinitis</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Chorioretinitides</Synonym>
+<Synonym>Chorioretinitis</Synonym>
+<Description>Inflammation of the choroid in which the sensory retina becomes edematous and opaque. The inflammatory cells and exudate may burst through the sensory retina to cloud the vitreous body.</Description>
+<Source>MeSH</Source>
+</Record>

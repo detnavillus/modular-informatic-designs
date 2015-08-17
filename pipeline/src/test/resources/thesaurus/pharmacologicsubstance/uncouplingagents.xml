@@ -1,0 +1,14 @@
+<Record>
+<Term>Uncoupling Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Uncoupling Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Uncoupling Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Uncoupling Agents</Synonym>
+<Description>Chemical agents that uncouple oxidation from phosphorylation in the metabolic cycle so that ATP synthesis does not occur. Included here are those IONOPHORES that disrupt electron transfer by short-circuiting the proton gradient across mitochondrial membranes.</Description>
+<Source>MeSH</Source>
+</Record>

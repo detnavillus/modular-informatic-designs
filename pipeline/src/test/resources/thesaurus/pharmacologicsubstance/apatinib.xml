@@ -1,0 +1,17 @@
+<Record>
+<Term>Apatinib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Apatinib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Apatinib</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>Apatinib</Synonym>
+<Synonym>YN968D1</Synonym>
+<Description>An orally bioavailable, small-molecule receptor tyrosine kinase inhibitor with potential antiangiogenic and antineoplastic activities. Apatinib selectively binds to and inhibits vascular endothelial growth factor receptor 2, which may inhibit VEGF-stimulated endothelial cell migration and proliferation and decrease tumor microvessel density. In addition, this agent mildly inhibits c-Kit and c-SRC tyrosine kinases.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

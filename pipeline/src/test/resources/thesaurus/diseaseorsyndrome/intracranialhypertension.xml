@@ -1,0 +1,21 @@
+<Record>
+<Term>Intracranial Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Intracranial Hypertension</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Hypertension</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Hydrocephalus</ChildTerm>
+<ChildTerm>Pseudotumor Cerebri</ChildTerm>
+<ChildTerm>Hypertensive Encephalopathy</ChildTerm>
+<Synonym>Intracranial Hypertension</Synonym>
+<Synonym>Intracranial Pressure Increase</Synonym>
+<Synonym>ICP (Intracranial Pressure) Elevation</Synonym>
+<Synonym>ICP (Intracranial Pressure) Increase</Synonym>
+<Synonym>Elevated ICP (Intracranial Pressure)</Synonym>
+<Synonym>Elevated Intracranial Pressure</Synonym>
+<Description>Increased pressure within the cranial vault. This may result from several conditions, including HYDROCEPHALUS; BRAIN EDEMA; intracranial masses; severe systemic HYPERTENSION; PSEUDOTUMOR CEREBRI; and other disorders.</Description>
+<Source>MeSH</Source>
+</Record>

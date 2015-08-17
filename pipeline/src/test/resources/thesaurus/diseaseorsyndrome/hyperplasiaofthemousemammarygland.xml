@@ -1,0 +1,19 @@
+<Record>
+<Term>Hyperplasia of the Mouse Mammary Gland</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Proliferation of the Mouse Mammary Gland</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Mammary Gland Disorder/Non-Neoplastic Proliferation of the Mouse Mammary Gland/Hyperplasia of the Mouse Mammary Gland</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Proliferation of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Hyperplasia of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mouse Mammary Gland Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Focal Hyperplasias of the Mouse Mammary Gland</ChildTerm>
+<ChildTerm>Diffuse Hyperplasia of the Mouse Mammary Gland</ChildTerm>
+<Synonym>Hyperplasia (MMB0016)</Synonym>
+<Synonym>Hyperplasia of the Mammary Gland</Synonym>
+<Synonym>Hyperplasia of the Mouse Mammary Gland</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

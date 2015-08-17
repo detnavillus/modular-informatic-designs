@@ -1,0 +1,29 @@
+<Record>
+<Term>Mucositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Mucositis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Mucositis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Mucositis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Mucositis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>mucositis</Synonym>
+<Synonym>Mucositis</Synonym>
+<Synonym>Mucositides</Synonym>
+<Description>An INFLAMMATION of the MUCOSA with burning or tingling sensation. It is characterized by atrophy of the squamous EPITHELIUM, vascular damage, inflammatory infiltration, and ulceration. It usually occurs at the mucous lining of the MOUTH, the GASTROINTESTINAL TRACT or the airway due to chemical irritations, CHEMOTHERAPY, or radiation therapy (RADIOTHERAPY).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

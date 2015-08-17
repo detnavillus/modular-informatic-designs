@@ -1,0 +1,32 @@
+<Record>
+<Term>Primary Progressive Aphasia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Aphasia</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia/Aphasia, Primary Progressive</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Aphasia, Primary Progressive</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia/Aphasia, Primary Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Aphasia, Primary Progressive</ClassificationPath>
+<BroaderTerm>Aphasia, Primary Progressive</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Aphasia</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Primary Progressive Nonfluent Aphasia</ChildTerm>
+<Synonym>Primary Progressive Aphasia</Synonym>
+<Synonym>Mesulam Syndrome</Synonym>
+<Synonym>Mesulam's Syndrome</Synonym>
+<Synonym>Primary Progressive Aphasias</Synonym>
+<Description>A progressive form of dementia characterized by the global loss of language abilities and initial preservation of other cognitive functions. Fluent and nonfluent subtypes have been described. Eventually a pattern of global cognitive dysfunction, similar to ALZHEIMER DISEASE, emerges. Pathologically, there are no Alzheimer or PICK DISEASE like changes, however, spongiform changes of cortical layers II and III are present in the TEMPORAL LOBE and FRONTAL LOBE. (From Brain 1998 Jan;121(Pt 1):115-26)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Glucose Intolerance</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glucose Metabolism Disorder</ParentTerm>
+<ParentTerm>Hyperglycemia</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hyperglycemia/Glucose Intolerance</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Glucose Intolerance</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Hyperglycemia</BroaderTerm>
+<BroaderTerm>Glucose Intolerance</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Glucose Intolerances</Synonym>
+<Synonym>Glucose Intolerance</Synonym>
+<Description>A pathological state in which BLOOD GLUCOSE level is less than approximately 140 mg/100 ml of PLASMA at fasting, and above approximately 200 mg/100 ml plasma at 30-, 60-, or 90-minute during a GLUCOSE TOLERANCE TEST. This condition is seen frequently in DIABETES MELLITUS, but also occurs with other diseases and MALNUTRITION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

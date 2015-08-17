@@ -1,0 +1,18 @@
+<Record>
+<Term>Central Nervous System Parasitic Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Central Nervous System Helminthiasis</ChildTerm>
+<ChildTerm>Central Nervous System Protozoal Infections</ChildTerm>
+<Synonym>Central Nervous System Parasitic Infections</Synonym>
+<Description>Infections of the brain, spinal cord, and meninges caused by parasites.</Description>
+<Source>MeSH</Source>
+</Record>

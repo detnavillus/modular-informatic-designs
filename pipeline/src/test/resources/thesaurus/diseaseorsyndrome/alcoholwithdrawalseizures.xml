@@ -1,0 +1,37 @@
+<Record>
+<Term>Alcohol Withdrawal Seizures</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Substance Withdrawal Syndrome</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders, Nervous System</ParentTerm>
+<ParentTerm>Seizures</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Substance Withdrawal Syndrome/Alcohol Withdrawal Seizures</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Seizures</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Seizures</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Seizures/Alcohol Withdrawal Seizures</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Alcohol-Induced Disorders, Nervous System/Alcohol Withdrawal Seizures</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Alcohol Withdrawal Seizures</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Substance Withdrawal Syndrome</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Seizures</BroaderTerm>
+<Synonym>Alcoholic Seizures</Synonym>
+<Synonym>Alcohol Withdrawal-Induced Seizures</Synonym>
+<Synonym>Alcoholic Seizure</Synonym>
+<Synonym>Alcohol Withdrawal-Induced Seizure</Synonym>
+<Synonym>Alcohol Withdrawal-Induced Major Motor Seizure</Synonym>
+<Synonym>Alcohol Withdrawal Seizures</Synonym>
+<Synonym>Alcohol Withdrawal-Induced Status Epilepticus</Synonym>
+<Synonym>Alcohol Withdrawal Seizure</Synonym>
+<Synonym>Alcohol Withdrawal Induced Seizure</Synonym>
+<Synonym>Alcohol Withdrawal Induced Major Motor Seizure</Synonym>
+<Synonym>Alcohol Withdrawal Induced Status Epilepticus</Synonym>
+<Description>A condition where seizures occur in association with ethanol abuse (ALCOHOLISM) without other identifiable causes. Seizures usually occur within the first 6-48 hours after the cessation of alcohol intake, but may occur during periods of alcohol intoxication. Single generalized tonic-clonic motor seizures are the most common subtype, however, STATUS EPILEPTICUS may occur. (Adams et al., Principles of Neurology, 6th ed, p1174)</Description>
+<Source>MeSH</Source>
+</Record>

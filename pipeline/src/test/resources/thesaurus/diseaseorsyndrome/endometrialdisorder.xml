@@ -1,0 +1,20 @@
+<Record>
+<Term>Endometrial Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uterine Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Endometrial Disorder</ClassificationPath>
+<BroaderTerm>Endometrial Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Endometritis</ChildTerm>
+<ChildTerm>Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Tamoxifen-Related Endometrial Disorder</ChildTerm>
+<Synonym>Endometrial Disorder</Synonym>
+<Synonym>endometrial disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

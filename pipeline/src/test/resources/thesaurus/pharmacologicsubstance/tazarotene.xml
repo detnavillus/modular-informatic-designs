@@ -1,0 +1,29 @@
+<Record>
+<Term>Tazarotene</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Retinoic Acid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Retinoic Acid Agent/Tazarotene</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Tazarotene</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Retinoic Acid Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Retisol-A</Synonym>
+<Synonym>6-[(3,4-dihydro-4,4-dimethyl-2H-1-benzothiopyran-6-yl)ethynyl]- 3-Pyridinecarboxylic Acid, Ethyl Ester</Synonym>
+<Synonym>Tazarotene</Synonym>
+<Synonym>TAZAROTENE</Synonym>
+<Synonym>Tazorac</Synonym>
+<Synonym>Ethyl 6-(2-(4,4-Dimethylthiochroman-6-yl)ethynyl)nicotinate</Synonym>
+<Synonym>Stieva-A Forte</Synonym>
+<Synonym>Avage</Synonym>
+<Synonym>Vitinoin</Synonym>
+<Synonym>AGN-190168</Synonym>
+<Synonym>Stieva-A</Synonym>
+<Description>A synthetic, topical retinoid.  Tazarotene induces the expression of tazarotene-induced gene 3 (TIG3), a tumor suppressor gene.  In psoriasis, tazarotene normalizes abnormal keratinocyte differentiation and reduces their hyperproliferation. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

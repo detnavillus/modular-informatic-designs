@@ -1,0 +1,18 @@
+<Record>
+<Term>Sore Throat</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Neck Disorder/Sore Throat</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Neck Disorder</BroaderTerm>
+<BroaderTerm>Sore Throat</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Sore Throat</Synonym>
+<Synonym>Throat, sore</Synonym>
+<Description>Any kind of inflammatory process of the tonsils, pharynx, or/and larynx characterized by pain in swallowing.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

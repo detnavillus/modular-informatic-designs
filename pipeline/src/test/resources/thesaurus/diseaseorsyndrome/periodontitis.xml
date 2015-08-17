@@ -1,0 +1,35 @@
+<Record>
+<Term>Periodontitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periodontal Disorder</ParentTerm>
+<ParentTerm>Periodontal Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Non-Neoplastic Dental Disorder/Periodontal Disorder/Periodontitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontitis</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Disorder</BroaderTerm>
+<BroaderTerm>Periodontitis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Dental Disorder</BroaderTerm>
+<ChildTerm>Periodontal Pocket</ChildTerm>
+<ChildTerm>Periapical Periodontitis</ChildTerm>
+<ChildTerm>Chronic Periodontitis</ChildTerm>
+<ChildTerm>Aggressive Periodontitis</ChildTerm>
+<ChildTerm>Periodontal Abscess</ChildTerm>
+<ChildTerm>Acute Periodontitis</ChildTerm>
+<Synonym>Periodontitides</Synonym>
+<Synonym>Pericementitis</Synonym>
+<Synonym>Periodontitis</Synonym>
+<Synonym>Pericementitides</Synonym>
+<Description>Inflammation and loss of connective tissues supporting or surrounding the teeth. This may involve any part of the PERIODONTIUM. Periodontitis is currently classified by disease progression (CHRONIC PERIODONTITIS; AGGRESSIVE PERIODONTITIS) instead of age of onset. (From 1999 International Workshop for a Classification of Periodontal Diseases and Conditions, American Academy of Periodontology)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

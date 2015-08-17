@@ -1,0 +1,15 @@
+<Record>
+<Term>Mouse Head and Neck Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Disorder by Site</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Head and Neck Disorder</ClassificationPath>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Mouse Head and Neck Neoplasms</ChildTerm>
+<Synonym>Head and Neck Disorder</Synonym>
+<Synonym>Mouse Head and Neck Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

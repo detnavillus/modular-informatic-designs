@@ -1,0 +1,19 @@
+<Record>
+<Term>MAGE-3 Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/MAGE-3 Peptide Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>MAGE-3 Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>CY-2010</Synonym>
+<Synonym>MAGE-3 Peptide Vaccine</Synonym>
+<Synonym>MAGE-3.1/PADRE-96510</Synonym>
+<Synonym>MAGE-3/PADRE-96510</Synonym>
+<Description>A cancer vaccine consisting of a peptide derived from MAGE-3 and the pan-DR epitope (PADRE), an immunostimulant.  Vaccination with CY-2010 may elicit a cytotoxic T lymphocyte (CTL) immune response against tumor cells expressing MAGE-3. MAGE-is an antigen found on many tumor cell types, including melanoma and lung, prostate, colon, thyroid, and breast cancers. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Head and Neck Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Skull Disorder</ChildTerm>
+<ChildTerm>Nasal Cavity and Paranasal Sinus Disorder</ChildTerm>
+<ChildTerm>Salivary Gland Disorder</ChildTerm>
+<ChildTerm>Head and Neck Precancerous Condition</ChildTerm>
+<ChildTerm>Ear Disorder</ChildTerm>
+<ChildTerm>Neck Disorder</ChildTerm>
+<ChildTerm>Oral Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Head and Neck Disorder</ChildTerm>
+<Synonym>Head and Neck Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

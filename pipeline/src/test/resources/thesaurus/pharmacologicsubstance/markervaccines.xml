@@ -1,0 +1,14 @@
+<Record>
+<Term>Marker Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Marker</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Vaccines, Marker</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Marker Vaccines</Synonym>
+<Description>Vaccines used in conjunction with diagnostic tests to differentiate vaccinated animals from carrier animals. Marker vaccines can be either a subunit or a gene-deleted vaccine.</Description>
+<Source>MeSH</Source>
+</Record>

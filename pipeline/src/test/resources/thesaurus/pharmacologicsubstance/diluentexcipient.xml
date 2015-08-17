@@ -1,0 +1,16 @@
+<Record>
+<Term>Diluent Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Diluent Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Diluent Excipient</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Diluent</Synonym>
+<Synonym>Diluent Excipient</Synonym>
+<Description>A therapeutically inactive ingredient of a fluid pharmaceutical dosage form that is used to increase the volume of the material to accommodate easier processing of the drug (especially accurate dilutions) and to make it a suitable size for patient consumption.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

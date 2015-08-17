@@ -1,0 +1,22 @@
+<Record>
+<Term>Meclocycline Sulfosalicylate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Tetracycline Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protein Synthesis Inhibitor/Tetracycline Antibiotic/Meclocycline Sulfosalicylate</ClassificationPath>
+<BroaderTerm>Meclocycline Sulfosalicylate</BroaderTerm>
+<BroaderTerm>Tetracycline Antibiotic</BroaderTerm>
+<BroaderTerm>Protein Synthesis Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Meclocycline Sulfosalicylate</Synonym>
+<Synonym>Meclan</Synonym>
+<Synonym>Mecloderm</Synonym>
+<Synonym>MECLOCYCLINE SULFOSALICYLATE</Synonym>
+<Synonym>(4S,4aR,5S,5aR,12aS)-7-Chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methylene-1,11-dioxo-2-naphthacenecarboxamide Mono(5-sulfosalicylate)(Salt)</Synonym>
+<Synonym>Meclocycline sulfosalicylate</Synonym>
+<Description>The sulfosalicylate salt form of meclocycline, a tetracycline antibiotic with broad-spectrum antibacterial and antiprotozoal activity. Meclocycline sulfosalicylate is bacteriostatic and inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit, thereby preventing the addition of amino acids to the growing peptide chain. This tetracycline is active against a wide range of gram-positive and gram-negative bacteria.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

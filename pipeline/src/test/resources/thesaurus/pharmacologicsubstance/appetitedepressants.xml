@@ -1,0 +1,61 @@
+<Record>
+<Term>Appetite Depressants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Anti-Obesity Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anorexiant</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Anti-Obesity Agents/Appetite Depressants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-Obesity Agents</BroaderTerm>
+<BroaderTerm>Anorexiant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Appetite Depressants</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Diethylpropion</ChildTerm>
+<ChildTerm>Fenbutrazate</ChildTerm>
+<ChildTerm>Diethylpropion Hydrochloride</ChildTerm>
+<ChildTerm>Setazindol</ChildTerm>
+<ChildTerm>Etolorex</ChildTerm>
+<ChildTerm>Formetorex</ChildTerm>
+<ChildTerm>Clominorex</ChildTerm>
+<ChildTerm>Phenmetrazine</ChildTerm>
+<ChildTerm>Fenisorex</ChildTerm>
+<ChildTerm>Phentermine Hydrochloride</ChildTerm>
+<ChildTerm>Morforex</ChildTerm>
+<ChildTerm>Fenproporex</ChildTerm>
+<ChildTerm>Fluminorex</ChildTerm>
+<ChildTerm>Aminorex</ChildTerm>
+<ChildTerm>Sibutramine Hydrochloride</ChildTerm>
+<ChildTerm>Phendimetrazine</ChildTerm>
+<ChildTerm>Phendimetrazine Tartrate</ChildTerm>
+<ChildTerm>Amfepentorex</ChildTerm>
+<ChildTerm>Phenmetrazine Hydrochloride</ChildTerm>
+<ChildTerm>Benzphetamine</ChildTerm>
+<ChildTerm>Pentorex</ChildTerm>
+<ChildTerm>Phentermine</ChildTerm>
+<ChildTerm>Benfluorex</ChildTerm>
+<ChildTerm>Benzphetamine Hydrochloride</ChildTerm>
+<Synonym>Anorexic Drugs</Synonym>
+<Synonym>Anorectics</Synonym>
+<Synonym>Appetite Depressing Drugs</Synonym>
+<Synonym>Appetite-Suppressant Drugs</Synonym>
+<Synonym>Appetite-Depressing Drugs</Synonym>
+<Synonym>Appetite Suppressant</Synonym>
+<Synonym>Anorexics</Synonym>
+<Synonym>Appetite Suppressant Drugs</Synonym>
+<Synonym>Anorexiant</Synonym>
+<Synonym>Appetite Suppressants</Synonym>
+<Synonym>Anorexic Agent</Synonym>
+<Synonym>Appetite Depressants</Synonym>
+<Synonym>Anorexigenic Drugs</Synonym>
+<Description>Any substance that induces loss of appetite to prevent weight gain and achieve weight loss.</Description>
+<Description>Agents that are used to decrease appetite.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

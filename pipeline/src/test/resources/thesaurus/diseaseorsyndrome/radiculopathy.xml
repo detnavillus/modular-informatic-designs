@@ -1,0 +1,27 @@
+<Record>
+<Term>Radiculopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Radiculopathy</ClassificationPath>
+<BroaderTerm>Radiculopathy</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Radiculopathy</Synonym>
+<Synonym>Radiculopathies</Synonym>
+<Synonym>Cervical Radiculopathies</Synonym>
+<Synonym>Cervical Radiculopathy</Synonym>
+<Synonym>Nerve Root Disorder</Synonym>
+<Synonym>Nerve Root Disorders</Synonym>
+<Synonym>Radiculitis</Synonym>
+<Synonym>Radiculitides</Synonym>
+<Synonym>Nerve Root Inflammation</Synonym>
+<Synonym>Nerve Root Inflammations</Synonym>
+<Synonym>Nerve Root Avulsion</Synonym>
+<Synonym>Nerve Root Avulsions</Synonym>
+<Synonym>Nerve Root Compression</Synonym>
+<Synonym>Nerve Root Compressions</Synonym>
+<Description>Disease involving a spinal nerve root (see SPINAL NERVE ROOTS) which may result from compression related to INTERVERTEBRAL DISK DISPLACEMENT; SPINAL CORD INJURIES; SPINAL DISEASES; and other conditions. Clinical manifestations include radicular pain, weakness, and sensory loss referable to structures innervated by the involved nerve root.</Description>
+<Source>MeSH</Source>
+</Record>

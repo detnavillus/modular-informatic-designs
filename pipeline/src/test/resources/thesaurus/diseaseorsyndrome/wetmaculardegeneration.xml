@@ -1,0 +1,15 @@
+<Record>
+<Term>Wet Macular Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Macular Degeneration</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration/Macular Degeneration/Wet Macular Degeneration</ClassificationPath>
+<BroaderTerm>Macular Degeneration</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Wet Macular Degeneration</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Wet Macular Degeneration</Synonym>
+<Synonym>Wet Macular Degenerations</Synonym>
+<Description>A form of RETINAL DEGENERATION in which abnormal CHOROIDAL NEOVASCULARIZATION occurs under the RETINA and MACULA LUTEA, causing bleeding and leaking of fluid. This leads to bulging and or lifting of the macula and the distortion or destruction of central vision.</Description>
+<Source>MeSH</Source>
+</Record>

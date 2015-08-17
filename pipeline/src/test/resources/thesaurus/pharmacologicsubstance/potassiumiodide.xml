@@ -1,0 +1,53 @@
+<Record>
+<Term>Potassium Iodide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Potassium Compounds</ParentTerm>
+<ParentTerm>Iodides</ParentTerm>
+<ParentTerm>Radioprotective Agent</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Potassium Compounds/Potassium Iodide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Radioprotective Agent/Potassium Iodide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Iodine Compounds/Iodides/Potassium Iodide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Potassium Compounds</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Iodides</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Potassium Iodide</BroaderTerm>
+<BroaderTerm>Iodine Compounds</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Radioprotective Agent</BroaderTerm>
+<Synonym>Jodgamma</Synonym>
+<Synonym>Thyro-Block</Synonym>
+<Synonym>Jodid dura</Synonym>
+<Synonym>Potassium iodide</Synonym>
+<Synonym>Jod beta</Synonym>
+<Synonym>Thyroshield</Synonym>
+<Synonym>POTASSIUM IODIDE</Synonym>
+<Synonym>Mono Jod</Synonym>
+<Synonym>Jodid Hexal</Synonym>
+<Synonym>Thyro Block</Synonym>
+<Synonym>Pima</Synonym>
+<Synonym>Jodid ratiopharm</Synonym>
+<Synonym>Jodetten Henning</Synonym>
+<Synonym>Antistrumin</Synonym>
+<Synonym>Thyro-block</Synonym>
+<Synonym>Thyrosafe</Synonym>
+<Synonym>Thyroprotect</Synonym>
+<Synonym>Ioduro Potasico Rovi</Synonym>
+<Synonym>Jodid-ratiopharm</Synonym>
+<Synonym>Potassium Iodide</Synonym>
+<Synonym>SSKI</Synonym>
+<Synonym>Jodid Verla</Synonym>
+<Synonym>Mono-Jod</Synonym>
+<Synonym>Potassium Salt of Hydriodic Acid</Synonym>
+<Synonym>Iosat</Synonym>
+<Synonym>Jodid</Synonym>
+<Description>A metal halide composed of potassium and iodide with thyroid protecting and expectorant properties. Potassium iodide can block absorption of radioactive iodine by the thyroid gland through flooding the thyroid with non-radioactive iodine and preventing intake of radioactive molecules, thereby protecting the thyroid from cancer causing radiation. In addition, this agent acts as an expectorant by increasing secretion of respiratory fluids resulting in decreased mucus viscosity.</Description>
+<Description>An inorganic compound that is used as a source of iodine in thyrotoxic crisis and in the preparation of thyrotoxic patients for thyroidectomy. (From Dorland, 27th ed)</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

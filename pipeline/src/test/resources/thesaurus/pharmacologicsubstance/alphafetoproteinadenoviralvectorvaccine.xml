@@ -1,0 +1,18 @@
+<Record>
+<Term>Alpha Fetoprotein Adenoviral Vector Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Alpha Fetoprotein Adenoviral Vector Vaccine</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Alpha Fetoprotein Adenoviral Vector Vaccine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>AdVhAFP</Synonym>
+<Synonym>Alpha Fetoprotein Adenoviral Vector Vaccine</Synonym>
+<Description>A vaccine consisting of a recombinant adenoviral vector encoding alpha fetoprotein. After vaccination, expressed alpha fetoprotein may stimulate a cytotoxic T lymphocyte (CTL) response against tumor cells that express alpha fetoprotein, resulting in tumor cell lysis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

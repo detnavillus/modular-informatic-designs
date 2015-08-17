@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-neoplastic Disorders of the Mouse Skin</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Skin Disorder</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Non-neoplastic Disorders of the Mouse Skin,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Skin Disorder/Non-neoplastic Disorders of the Mouse Skin</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-neoplastic Disorders of the Mouse Skin</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Non-neoplastic Disorders of the Mouse Skin,</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Skin Disorder</BroaderTerm>
+<ChildTerm>Disorders of the Mouse Hair Follicle</ChildTerm>
+<ChildTerm>Disorders of the Squamous Epithelium of the Mouse Skin</ChildTerm>
+<ChildTerm>Disorders of Pigmentation of the Mouse Skin</ChildTerm>
+<Synonym>Non-neoplastic Disorders of the Mouse Skin</Synonym>
+<Synonym>Non-neoplastic Disorders of the Skin</Synonym>
+<Synonym>Non-neoplastic disorders of the skin</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,48 @@
+<Record>
+<Term>Erectile Dysfunction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Sexual Dysfunction, Physiological</ParentTerm>
+<ParentTerm>Adverse Event Associated with Sexual and Reproductive Function</ParentTerm>
+<ParentTerm>Sexual Dysfunctions, Psychological</ParentTerm>
+<ParentTerm>Sexual Dysfunction</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Sexual Dysfunction and Infertility/Sexual Dysfunction/Impotence</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sexual and Gender Disorders/Sexual Dysfunctions, Psychological/Erectile Dysfunction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Sexual and Reproductive Function/Erectile Dysfunction Adverse Event</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexual Dysfunction, Physiological/Erectile Dysfunction</ClassificationPath>
+<BroaderTerm>Impotence</BroaderTerm>
+<BroaderTerm>Erectile Dysfunction</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction, Physiological</BroaderTerm>
+<BroaderTerm>Sexual and Gender Disorders</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Erectile Dysfunction Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Sexual and Reproductive Function</BroaderTerm>
+<BroaderTerm>Sexual Dysfunctions, Psychological</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction and Infertility</BroaderTerm>
+<ChildTerm>Impotence, Vasculogenic</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Erectile Dysfunction</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Erectile Dysfunction</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Erectile Dysfunction</ChildTerm>
+<Synonym>Impotence</Synonym>
+<Synonym>Erectile Dysfunction</Synonym>
+<Synonym>impotent</Synonym>
+<Synonym>Erectile dysfunction</Synonym>
+<Synonym>Male Sexual Impotence</Synonym>
+<Synonym>Impotent</Synonym>
+<Synonym>Male Impotence</Synonym>
+<Synonym>Erectile Dysfunction Adverse Event</Synonym>
+<Description>The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

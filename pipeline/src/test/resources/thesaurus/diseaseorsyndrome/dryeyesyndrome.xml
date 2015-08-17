@@ -1,0 +1,34 @@
+<Record>
+<Term>Dry Eye Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Dry Eye Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Dry Eye Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Dry Eye Syndrome Adverse Event</ClassificationPath>
+<BroaderTerm>Dry Eye Syndrome</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Dry Eye Syndrome,</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Dry Eye Syndrome Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Dry Eye Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Dry Eye Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Dry Eye Syndrome</ChildTerm>
+<Synonym>Dry Eye Syndrome</Synonym>
+<Synonym>Dry Eye(s)</Synonym>
+<Synonym>Eye(s), dry</Synonym>
+<Synonym>Dry eye syndrome</Synonym>
+<Synonym>Dry Eye Syndrome Adverse Event</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Vasodilator Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Vasodilator Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Vasodilator Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<ChildTerm>Endothelium-Dependent Relaxing Factors</ChildTerm>
+<Synonym>Vasodilator Agents</Synonym>
+<Synonym>Vasodilators</Synonym>
+<Synonym>Vasorelaxants</Synonym>
+<Synonym>Vasodilator Drugs</Synonym>
+<Synonym>Vasoactive Antagonists</Synonym>
+<Description>Drugs used to cause dilation of the blood vessels.</Description>
+<Source>MeSH</Source>
+</Record>

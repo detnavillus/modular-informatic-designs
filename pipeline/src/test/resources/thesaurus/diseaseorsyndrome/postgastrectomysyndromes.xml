@@ -1,0 +1,20 @@
+<Record>
+<Term>Postgastrectomy Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ParentTerm>Postoperative Complications</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Postgastrectomy Syndromes</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Postoperative Complications/Postgastrectomy Syndromes</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Postgastrectomy Syndromes</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Postoperative Complications</BroaderTerm>
+<ChildTerm>Dumping Syndrome</ChildTerm>
+<Synonym>Postgastrectomy Syndromes</Synonym>
+<Synonym>Postgastrectomy Syndrome</Synonym>
+<Description>Sequelae of gastrectomy from the second week after operation on. Include recurrent or anastomotic ulcer, postprandial syndromes (DUMPING SYNDROME and late postprandial hypoglycemia), disordered bowel action, and nutritional deficiencies.</Description>
+<Source>MeSH</Source>
+</Record>

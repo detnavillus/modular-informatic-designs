@@ -1,0 +1,15 @@
+<Record>
+<Term>GM-CSF DNA</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Transduction Gene</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Transduction Gene/GM-CSF DNA</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Transduction Gene</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>GM-CSF DNA</BroaderTerm>
+<Synonym>GM-CSF DNA</Synonym>
+<Description>DNA that encodes granulocyte-macrophage colony stimulating factor (GM-CSF).  GM-CSF enhances the host immune response to poorly immunogenic tumors, possibly by activating T-cell and macrophage anti-tumor responses, and, so, decreasing tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

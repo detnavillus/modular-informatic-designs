@@ -1,0 +1,20 @@
+<Record>
+<Term>Zoonoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Zoonoses</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Zoonoses</ClassificationPath>
+<ClassificationPath>Animal Diseases/Zoonoses</ClassificationPath>
+<ClassificationPath>Virus Diseases/Zoonoses</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Zoonoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Zoonoses</Synonym>
+<Description>Diseases of non-human animals that may be transmitted to HUMANS or may be transmitted from humans to non-human animals.</Description>
+<Source>MeSH</Source>
+</Record>

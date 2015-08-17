@@ -1,0 +1,18 @@
+<Record>
+<Term>Trichuriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enoplida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Adenophorea Infections/Enoplida Infections/Trichuriasis</ClassificationPath>
+<BroaderTerm>Adenophorea Infections</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Trichuriasis</BroaderTerm>
+<BroaderTerm>Enoplida Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Trichuriasis</Synonym>
+<Synonym>Trichuriases</Synonym>
+<Synonym>Trichocephaliasis</Synonym>
+<Synonym>Trichocephaliases</Synonym>
+<Description>Infection with nematodes of the genus TRICHURIS, formerly called Trichocephalus.</Description>
+<Source>MeSH</Source>
+</Record>

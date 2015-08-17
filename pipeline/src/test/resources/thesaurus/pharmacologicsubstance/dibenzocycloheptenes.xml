@@ -1,0 +1,24 @@
+<Record>
+<Term>Dibenzocycloheptenes</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Benzocycloheptenes</ParentTerm>
+<ClassificationPath>Organic Chemicals/Hydrocarbons/Hydrocarbons, Cyclic/Hydrocarbons, Aromatic/Polycyclic Hydrocarbons, Aromatic/Benzocycloheptenes/Dibenzocycloheptenes</ClassificationPath>
+<ClassificationPath>Polycyclic Compounds/Polycyclic Hydrocarbons, Aromatic/Benzocycloheptenes/Dibenzocycloheptenes</ClassificationPath>
+<BroaderTerm>Polycyclic Compounds</BroaderTerm>
+<BroaderTerm>Hydrocarbons, Aromatic</BroaderTerm>
+<BroaderTerm>Benzocycloheptenes</BroaderTerm>
+<BroaderTerm>Dibenzocycloheptenes</BroaderTerm>
+<BroaderTerm>Polycyclic Hydrocarbons, Aromatic</BroaderTerm>
+<BroaderTerm>Organic Chemicals</BroaderTerm>
+<BroaderTerm>Hydrocarbons</BroaderTerm>
+<BroaderTerm>Hydrocarbons, Cyclic</BroaderTerm>
+<ChildTerm>Protriptyline</ChildTerm>
+<ChildTerm>Dizocilpine Maleate</ChildTerm>
+<ChildTerm>Amitriptyline</ChildTerm>
+<ChildTerm>Butaclamol</ChildTerm>
+<ChildTerm>Nortriptyline</ChildTerm>
+<ChildTerm>Cyproheptadine</ChildTerm>
+<Synonym>Dibenzocycloheptenes</Synonym>
+<Description>A family of tricyclic hydrocarbons whose members include many of the commonly used tricyclic antidepressants (ANTIDEPRESSIVE AGENTS, TRICYCLIC).</Description>
+<Source>MeSH</Source>
+</Record>

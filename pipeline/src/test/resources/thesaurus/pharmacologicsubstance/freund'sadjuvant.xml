@@ -1,0 +1,14 @@
+<Record>
+<Term>Freund's Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Complex Mixtures</ParentTerm>
+<ClassificationPath>Complex Mixtures/Freund's Adjuvant</ClassificationPath>
+<BroaderTerm>Freund's Adjuvant</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Freund's Adjuvant</Synonym>
+<Synonym>Freunds Adjuvant</Synonym>
+<Synonym>Freund Adjuvant</Synonym>
+<Description>An antigen solution emulsified in mineral oil. The complete form is made up of killed, dried mycobacteria, usually M. tuberculosis, suspended in the oil phase. It is effective in stimulating cell-mediated immunity (IMMUNITY, CELLULAR) and potentiates the production of certain IMMUNOGLOBULINS in some animals. The incomplete form does not contain mycobacteria.</Description>
+<Source>MeSH</Source>
+</Record>

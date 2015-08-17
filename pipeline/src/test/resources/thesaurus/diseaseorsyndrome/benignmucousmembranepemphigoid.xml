@@ -1,0 +1,31 @@
+<Record>
+<Term>Benign Mucous Membrane Pemphigoid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pemphigoid</ParentTerm>
+<ParentTerm>Conjunctival Diseases</ParentTerm>
+<ParentTerm>Skin Diseases, Vesiculobullous</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Pemphigoid/Benign Mucous Membrane Pemphigoid</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Pemphigoid, Benign Mucous Membrane</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Pemphigoid, Benign Mucous Membrane</ClassificationPath>
+<BroaderTerm>Pemphigoid</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Pemphigoid, Benign Mucous Membrane</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Benign Mucous Membrane Pemphigoid</BroaderTerm>
+<Synonym>Ocular Cicatricial Pemphigoids</Synonym>
+<Synonym>Ocular Cicatricial Pemphigoid</Synonym>
+<Synonym>Cicatricial Pemphigoid</Synonym>
+<Synonym>Benign Mucous Membrane Pemphigoid</Synonym>
+<Description>A chronic blistering disease with predilection for mucous membranes and less frequently the skin, and with a tendency to scarring. It is sometimes called ocular pemphigoid because of conjunctival mucous membrane involvement.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Diabetic Foot</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetic Neuropathies</ParentTerm>
+<ParentTerm>Diabetic Angiopathies</ParentTerm>
+<ParentTerm>Foot Ulcer</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Angiopathies/Diabetic Foot</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Neuropathies/Diabetic Foot</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer/Leg Ulcer/Foot Ulcer/Diabetic Foot</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Diabetic Angiopathies/Diabetic Foot</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Diabetic Neuropathies</BroaderTerm>
+<BroaderTerm>Leg Ulcer</BroaderTerm>
+<BroaderTerm>Diabetic Foot</BroaderTerm>
+<BroaderTerm>Foot Ulcer</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Diabetic Angiopathies</BroaderTerm>
+<Synonym>Diabetic Feet</Synonym>
+<Synonym>Diabetic Foot</Synonym>
+<Description>Common foot problems in persons with DIABETES MELLITUS, caused by any combination of factors such as DIABETIC NEUROPATHIES; PERIPHERAL VASCULAR DISEASES; and INFECTION. With the loss of sensation and poor circulation, injuries and infections often lead to severe foot ulceration, GANGRENE and AMPUTATION.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Strongyloidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rhabditida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Rhabditida Infections/Strongyloidiasis</ClassificationPath>
+<BroaderTerm>Strongyloidiasis</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Rhabditida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Strongyloidiasis</Synonym>
+<Synonym>Strongyloidiases</Synonym>
+<Synonym>Anguilluliasis</Synonym>
+<Synonym>Anguilluliases</Synonym>
+<Description>Infection with nematodes of the genus STRONGYLOIDES. The presence of larvae may produce pneumonitis and the presence of adult worms in the intestine could lead to moderate to severe diarrhea.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Fetomaternal Transfusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Neonatal</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Neonatal/Fetomaternal Transfusion</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Anemia, Neonatal/Fetomaternal Transfusion</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Neonatal</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Fetomaternal Transfusion</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Fetomaternal Hemorrhages</Synonym>
+<Synonym>Fetomaternal Hemorrhage</Synonym>
+<Synonym>Fetomaternal Transfusions</Synonym>
+<Synonym>Fetomaternal Transfusion</Synonym>
+<Description>Transplacental passage of fetal blood into the circulation of the maternal organism. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

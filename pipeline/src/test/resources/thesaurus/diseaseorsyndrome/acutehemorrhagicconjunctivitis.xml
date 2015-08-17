@@ -1,0 +1,40 @@
+<Record>
+<Term>Acute Hemorrhagic Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acute Conjunctivitis</ParentTerm>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ParentTerm>Conjunctivitis, Viral</ParentTerm>
+<ParentTerm>Coxsackievirus Infections</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral/Conjunctivitis, Viral/Conjunctivitis, Acute Hemorrhagic</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Coxsackievirus Infections/Conjunctivitis, Acute Hemorrhagic</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Viral/Conjunctivitis, Acute Hemorrhagic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral/Conjunctivitis, Viral/Conjunctivitis, Acute Hemorrhagic</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Conjunctivitis, Acute Hemorrhagic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis/Acute Conjunctivitis/Acute Hemorrhagic Conjunctivitis</ClassificationPath>
+<BroaderTerm>Acute Conjunctivitis</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Acute Hemorrhagic</BroaderTerm>
+<BroaderTerm>Coxsackievirus Infections</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Acute Hemorrhagic Conjunctivitis</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Viral</BroaderTerm>
+<Synonym>Acute Hemorrhagic Conjunctivitis</Synonym>
+<Synonym>Acute Hemorrhagic Conjunctivitides</Synonym>
+<Description>A highly contagious disease characterized by subconjunctival hemorrhage, sudden swelling of the eyelids and congestion, redness, and pain in the eye. Epidemic conjunctivitis caused by Enterovirus 70 (EV-70) was first described in Africa in 1969. It is caused also by Coxsackievirus A24 variant (CA24v). Epidemics by this organism have appeared most frequently in Asia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

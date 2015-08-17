@@ -1,0 +1,16 @@
+<Record>
+<Term>Dialyzer First Use Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Dialyzer First Use Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Dialyzer First Use Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Dialyzer First Use Syndrome</Synonym>
+<Synonym>First Use Syndrome</Synonym>
+<Synonym>Syndrome, first use</Synonym>
+<Description>A symptom complex characterized by nervousness, chest pain, back pain, palpations, pruritus, and other usually mild symptoms occurring minutes following the initiation of dialysis with a new dialyzer.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

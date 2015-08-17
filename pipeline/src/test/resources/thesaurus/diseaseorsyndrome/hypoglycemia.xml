@@ -1,0 +1,35 @@
+<Record>
+<Term>Hypoglycemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Glucose Metabolism Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hypoglycemia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypoglycemia</ClassificationPath>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Hypoglycemia</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Insulin Coma</ChildTerm>
+<ChildTerm>Persistent Hyperinsulinemia Hypoglycemia of Infancy</ChildTerm>
+<Synonym>Blood Glucose, Low</Synonym>
+<Synonym>Postprandial Hypoglycemia</Synonym>
+<Synonym>Hypoglycemia</Synonym>
+<Synonym>Reactive Hypoglycemia</Synonym>
+<Synonym>Fasting Hypoglycemia</Synonym>
+<Synonym>Low blood glucose</Synonym>
+<Synonym>Glucose, low blood</Synonym>
+<Synonym>hypoglycemia</Synonym>
+<Synonym>Postabsorptive Hypoglycemia</Synonym>
+<Description>A syndrome of abnormally low BLOOD GLUCOSE level. Clinical hypoglycemia has diverse etiologies. Severe hypoglycemia eventually lead to glucose deprivation of the CENTRAL NERVOUS SYSTEM resulting in HUNGER; SWEATING; PARESTHESIA; impaired mental function; SEIZURES; COMA; and even DEATH.HYPOGLYCEMIA expressed after a meal or FOOD INTAKE. It is also called reactive or stimulative hypoglycemia.HYPOGLYCEMIA expressed in the postabsorptive state, after prolonged FASTING, or an overnight fast.</Description>
+<Description>Abnormally low level of glucose in the blood.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

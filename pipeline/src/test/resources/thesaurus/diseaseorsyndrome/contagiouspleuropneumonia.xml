@@ -1,0 +1,19 @@
+<Record>
+<Term>Contagious Pleuropneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoplasma Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Mycoplasmatales Infections/Mycoplasma Infections/Pleuropneumonia, Contagious</ClassificationPath>
+<ClassificationPath>Animal Diseases/Pleuropneumonia, Contagious</ClassificationPath>
+<BroaderTerm>Pleuropneumonia, Contagious</BroaderTerm>
+<BroaderTerm>Mycoplasmatales Infections</BroaderTerm>
+<BroaderTerm>Mycoplasma Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Contagious Pleuropneumonia</Synonym>
+<Synonym>Contagious Pleuropneumonias</Synonym>
+<Description>A pleuropneumonia of cattle and goats caused by species of MYCOPLASMA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Optic Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ParentTerm>Optic Nerve Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases/Optic Atrophy</ClassificationPath>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases/Optic Atrophy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Optic Atrophy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Optic Atrophy</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Optic Atrophies, Hereditary</ChildTerm>
+<ChildTerm>Hereditary Optic Atrophy</ChildTerm>
+<Synonym>Optic Atrophy</Synonym>
+<Description>Atrophy of the optic disk which may be congenital or acquired. This condition indicates a deficiency in the number of nerve fibers which arise in the RETINA and converge to form the OPTIC DISK; OPTIC NERVE; OPTIC CHIASM; and optic tracts. GLAUCOMA; ISCHEMIA; inflammation, a chronic elevation of intracranial pressure, toxins, optic nerve compression, and inherited conditions (see OPTIC ATROPHIES, HEREDITARY) are relatively common causes of this condition.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

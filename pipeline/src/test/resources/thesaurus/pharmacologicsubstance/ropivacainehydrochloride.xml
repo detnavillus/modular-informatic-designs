@@ -1,0 +1,22 @@
+<Record>
+<Term>Ropivacaine Hydrochloride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Ropivacaine Hydrochloride Monohydrate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Ropivacaine Hydrochloride Monohydrate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ropivacaine Hydrochloride Monohydrate</Synonym>
+<Synonym>Naropin</Synonym>
+<Synonym>Ropivacaine hydrochloride</Synonym>
+<Synonym>Ropivacaine hydrochloride monohydrate</Synonym>
+<Synonym>Ropivacaine</Synonym>
+<Synonym>ROPIVACAINE HYDROCHLORIDE MONOHYDRATE</Synonym>
+<Description>The hydrochloride salt of ropivacaine, a local anesthetic of the amide type with analgesic activity. Ropivacaine binds to voltage-gated sodium ion channels in the neuronal membrane, thereby preventing the permeability of sodium ions and resulting in a stabilization of the neuronal membrane and inhibition of depolarization; nerve impulse generation and propagation are blocked, resulting in a reversible loss of sensation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

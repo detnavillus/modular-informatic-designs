@@ -1,0 +1,34 @@
+<Record>
+<Term>Atopic Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity, Immediate</ParentTerm>
+<ParentTerm>Skin Diseases, Eczematous</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Dermatitis, Atopic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Atopic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Atopic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Dermatitis, Atopic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Dermatitis, Atopic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Atopic</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Infantile Eczema</Synonym>
+<Synonym>Atopic Dermatitides</Synonym>
+<Synonym>Atopic Eczema</Synonym>
+<Synonym>Disseminated Neurodermatitis</Synonym>
+<Synonym>Atopic Neurodermatitis</Synonym>
+<Synonym>Atopic Neurodermatitides</Synonym>
+<Synonym>Atopic Dermatitis</Synonym>
+<Synonym>Disseminated Neurodermatitides</Synonym>
+<Description>A chronic inflammatory genetically determined disease of the skin marked by increased ability to form reagin (IgE), with increased susceptibility to allergic rhinitis and asthma, and hereditary disposition to a lowered threshold for pruritus. It is manifested by lichenification, excoriation, and crusting, mainly on the flexural surfaces of the elbow and knee. In infants it is known as infantile eczema.</Description>
+<Source>MeSH</Source>
+</Record>

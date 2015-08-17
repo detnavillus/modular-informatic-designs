@@ -1,0 +1,44 @@
+<Record>
+<Term>Rheumatic Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis</ParentTerm>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Rheumatic Diseases</ParentTerm>
+<ParentTerm>Streptococcal Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Rheumatic Fever</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Rheumatic Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Rheumatic Fever</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Rheumatic Fever</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Rheumatic Fever</BroaderTerm>
+<ChildTerm>Wissler's Syndrome</ChildTerm>
+<ChildTerm>Rheumatic Heart Disease</ChildTerm>
+<ChildTerm>Rheumatic Nodule</ChildTerm>
+<Synonym>Rheumatic Fevers</Synonym>
+<Synonym>Acute Articular Rheumatisms</Synonym>
+<Synonym>Polyarthritis Rheumaticas</Synonym>
+<Synonym>Polyarthritis Rheumatica</Synonym>
+<Synonym>Acute Rheumatic Fever</Synonym>
+<Synonym>Acute Rheumatic Arthritides</Synonym>
+<Synonym>Acute Rheumatic Fevers</Synonym>
+<Synonym>Acute Articular Rheumatism</Synonym>
+<Synonym>Acute Rheumatic Arthritis</Synonym>
+<Synonym>Rheumatic Fever</Synonym>
+<Description>A febrile disease occurring as a delayed sequela of infections with STREPTOCOCCUS PYOGENES. It is characterized by multiple focal inflammatory lesions of the connective tissue structures, such as the heart, blood vessels, and joints (POLYARTHRITIS) and brain, and by the presence of ASCHOFF BODIES in the myocardium and skin.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

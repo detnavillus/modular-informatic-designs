@@ -1,0 +1,21 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Felty's Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Arthritis, Rheumatoid/Felty's Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Felty's Syndrome</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<BroaderTerm>Felty's Syndrome</BroaderTerm>
+<Synonym>Feltys Syndrome</Synonym>
+<Synonym>Felty Syndrome</Synonym>
+<Synonym>Felty's Syndrome</Synonym>
+<Description>A combination of rheumatoid arthritis, splenomegaly, leukopenia, pigmented spots on lower extremities, and other evidence of hypersplenism (anemia and thrombocytopenia). (From Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

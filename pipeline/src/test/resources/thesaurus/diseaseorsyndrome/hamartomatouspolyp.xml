@@ -1,0 +1,18 @@
+<Record>
+<Term>Hamartomatous Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hamartoma/Hamartomatous Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Hamartomatous Polyp</ClassificationPath>
+<BroaderTerm>Hamartomatous Polyp</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Hamartomatous Polyp,</BroaderTerm>
+<BroaderTerm>Hamartoma</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Peutz-Jeghers Polyp</ChildTerm>
+<Synonym>Hamartomatous Polyp</Synonym>
+<Description>A polyp characterized by an overgrowth of mature cells and tissues that normally occur in the affected area.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

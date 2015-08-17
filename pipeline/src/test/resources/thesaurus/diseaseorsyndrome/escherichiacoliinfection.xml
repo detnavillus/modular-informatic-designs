@@ -1,0 +1,17 @@
+<Record>
+<Term>Escherichia Coli Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Escherichia Coli Infection</ClassificationPath>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Escherichia Coli Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>E Coli Infection</Synonym>
+<Synonym>Escherichia Coli Infection</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

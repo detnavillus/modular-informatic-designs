@@ -1,0 +1,17 @@
+<Record>
+<Term>Recombinant Prothymosin Alpha</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Miscellaneous Hormone Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Recombinant Prothymosin Alpha</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Recombinant Prothymosin Alpha</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Prothymosin Alpha</Synonym>
+<Synonym>Recombinant Prothymosin Alpha</Synonym>
+<Description>A recombinant form of the endogenous polypeptide hormone that exerts immunomodulatory effects primarily on mononuclear cells.  Prothymosin alpha stimulates the production of various cytokines including granulocyte/macrophage colony stimulating factor (GM-CSF) alpha, gamma interferon (IFN) and interleukins such as IL-2.  This agent may also increase some tumor antigens expression, thus inducing better T lymphocyte responses to tumor cells.  Combined with chemotherapy, prothymosin alpha may exhibit significant anti-tumor effects.  This agent also helps to regenerate lymph node and bone marrow cells after treatment with certain toxic chemotherapeutics. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Acute Liver Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Failure</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatic Insufficiency/Liver Failure/Liver Failure, Acute</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Hepatic Insufficiency</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Liver Failure</BroaderTerm>
+<BroaderTerm>Liver Failure, Acute</BroaderTerm>
+<ChildTerm>Massive Hepatic Necrosis</ChildTerm>
+<Synonym>Fulminating Hepatic Failure</Synonym>
+<Synonym>Fulminating Hepatic Failures</Synonym>
+<Synonym>Fulminant Liver Failure</Synonym>
+<Synonym>Fulminant Liver Failures</Synonym>
+<Synonym>Acute Hepatic Failure</Synonym>
+<Synonym>Fulminant Hepatic Failure</Synonym>
+<Synonym>Fulminant Hepatic Failures</Synonym>
+<Synonym>Acute Liver Failure</Synonym>
+<Synonym>Fulminating Liver Failure</Synonym>
+<Synonym>Fulminating Liver Failures</Synonym>
+<Description>A form of rapid-onset LIVER FAILURE, also known as fulminant hepatic failure, caused by severe liver injury or massive loss of HEPATOCYTES. It is characterized by sudden development of liver dysfunction and JAUNDICE. Acute liver failure may progress to exhibit cerebral dysfunction even HEPATIC COMA depending on the etiology that includes hepatic ISCHEMIA, drug toxicity, malignant infiltration, and viral hepatitis such as post-transfusion HEPATITIS B and HEPATITIS C.</Description>
+<Source>MeSH</Source>
+</Record>

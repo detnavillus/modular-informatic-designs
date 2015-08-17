@@ -1,0 +1,15 @@
+<Record>
+<Term>M A Radiolabeled Anti-Carcinoma</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A Radiolabeled Anti-Carcinoma</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>M A Radiolabeled Anti-Carcinoma</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A Radiolabeled Anti-Carcinoma</Synonym>
+<Description>A radiolabeled monoclonal antibody (also known as B72.3) directed against the tumor-associated glycoprotein (TAG)-72 with potential use in cancer radioimmunodiagnostics, radioimmunoscintigraphy, and radioimmunoguided surgery (RIGS). (TAG)-72 is an antigen that may be expressed by breast, colorectal, and ovarian carcinomas. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

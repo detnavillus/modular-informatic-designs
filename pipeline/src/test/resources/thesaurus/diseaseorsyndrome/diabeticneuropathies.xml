@@ -1,0 +1,38 @@
+<Record>
+<Term>Diabetic Neuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Complications</ParentTerm>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Diabetic Neuropathies</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Neuropathies</ClassificationPath>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Diabetic Neuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<ChildTerm>Diabetic Foot</ChildTerm>
+<Synonym>Diabetic Neuralgias</Synonym>
+<Synonym>Diabetic Neuralgia</Synonym>
+<Synonym>Diabetic Mononeuropathy Simplex</Synonym>
+<Synonym>Painful Diabetic Neuropathy</Synonym>
+<Synonym>Diabetic Autonomic Neuropathies</Synonym>
+<Synonym>Diabetic Amyotrophy</Synonym>
+<Synonym>Diabetic Neuropathies</Synonym>
+<Synonym>Diabetic Mononeuropathies</Synonym>
+<Synonym>Diabetic Asymmetric Polyneuropathy</Synonym>
+<Synonym>Diabetic Mononeuropathy Simplices</Synonym>
+<Synonym>Symmetric Diabetic Proximal Motor Neuropathy</Synonym>
+<Synonym>Asymmetric Diabetic Proximal Motor Neuropathy</Synonym>
+<Synonym>Diabetic Asymmetric Polyneuropathies</Synonym>
+<Synonym>Diabetic Neuropathy</Synonym>
+<Synonym>Painful Diabetic Neuropathies</Synonym>
+<Synonym>Diabetic Amyotrophies</Synonym>
+<Synonym>Diabetic Polyneuropathy</Synonym>
+<Synonym>Diabetic Autonomic Neuropathy</Synonym>
+<Synonym>Diabetic Mononeuropathy</Synonym>
+<Synonym>Diabetic Polyneuropathies</Synonym>
+<Description>Peripheral, autonomic, and cranial nerve disorders that are associated with DIABETES MELLITUS. These conditions usually result from diabetic microvascular injury involving small blood vessels that supply nerves (VASA NERVORUM). Relatively common conditions which may be associated with diabetic neuropathy include third nerve palsy (see OCULOMOTOR NERVE DISEASES); MONONEUROPATHY; mononeuropathy multiplex; diabetic amyotrophy; a painful POLYNEUROPATHY; autonomic neuropathy; and thoracoabdominal neuropathy. (From Adams et al., Principles of Neurology, 6th ed, p1325)</Description>
+<Source>MeSH</Source>
+</Record>

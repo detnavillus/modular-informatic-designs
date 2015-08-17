@@ -1,0 +1,43 @@
+<Record>
+<Term>Maple Syrup Urine Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amino Acid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Genetic Disorder</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Maple Syrup Urine Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Maple Syrup Urine Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Maple Syrup Urine Disease</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<Synonym>Classic Maple Syrup Urine Disease</Synonym>
+<Synonym>MSUD (Maple Syrup Urine Disease)</Synonym>
+<Synonym>Classical Maple Syrup Urine Disease</Synonym>
+<Synonym>Intermediate Maple Syrup Urine Disease</Synonym>
+<Synonym>Branched-Chain Ketoaciduria</Synonym>
+<Synonym>Maple Syrup Urine Disease</Synonym>
+<Synonym>Thiamine Responsive Maple Syrup Urine Disease</Synonym>
+<Synonym>Branched-Chain Ketoacidurias</Synonym>
+<Synonym>Branched Chain Ketoaciduria</Synonym>
+<Synonym>Intermittent Maple Syrup Urine Disease</Synonym>
+<Description>An autosomal recessive inherited disorder with multiple forms of phenotypic expression, caused by a defect in the oxidative decarboxylation of branched-chain amino acids (AMINO ACIDS, BRANCHED-CHAIN). These metabolites accumulate in body fluids and render a "maple syrup" odor. The disease is divided into classic, intermediate, intermittent, and thiamine responsive subtypes. The classic form presents in the first week of life with ketoacidosis, hypoglycemia, emesis, neonatal seizures, and hypertonia. The intermediate and intermittent forms present in childhood or later with acute episodes of ataxia and vomiting. (From Adams et al., Principles of Neurology, 6th ed, p936)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

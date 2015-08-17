@@ -1,0 +1,20 @@
+<Record>
+<Term>Chloroxine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-psoriatic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-psoriatic Agent/Chloroxine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-psoriatic Agent</BroaderTerm>
+<BroaderTerm>Chloroxine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CHLOROXINE</Synonym>
+<Synonym>5,7-Dichloro-8-hydroxyquinoline</Synonym>
+<Synonym>Chloroxine</Synonym>
+<Synonym>Capitrol</Synonym>
+<Description>A synthetic quinoline derivative with antibacterial activity. Although the mechanism of action is not fully understood, topical administration of chloroxine diminishes mitotic activity in the epidermis, thereby reducing excessive scaling associated with dandruff or seborrheic dermatitis of the scalp, including psoriasis and eczema.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

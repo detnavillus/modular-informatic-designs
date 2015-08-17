@@ -1,0 +1,18 @@
+<Record>
+<Term>Pegylated Granulocyte Colony Stimulating Factor MAXY-G34</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Colony Stimulating Factor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Colony Stimulating Factor/Pegylated Granulocyte Colony Stimulating Factor MAXY-G34</ClassificationPath>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Pegylated Granulocyte Colony Stimulating Factor MAXY-G34</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Recombinant Colony Stimulating Factor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MAXY-G34</Synonym>
+<Synonym>PEG-GCSF MAXY-G34</Synonym>
+<Synonym>Pegylated Granulocyte Colony Stimulating Factor MAXY-G34</Synonym>
+<Description>A long-acting, pegylated recombinant variant of human granulocyte colony-stimulating factor (G-CSF) with immunomodulating activity. Pegylated granulocyte colony stimulating factor MAXY-G34 contains multiple non-naturally occurring lysines that have been introduced into alpha helixes of wild type human G-CSF as pegylation sites; other naturally occurring lysine residues have been removed to prevent pegylation and the variant G-CSF is pegylated with methoxypolyethylene glycol succinimidyl propionate (mPEG SPA) at three amino acid residues. Similar to endogenous G-CSF, this agent binds to and activates specific cell surface receptors, stimulating neutrophil progenitor proliferation and differentiation and selected neutrophil functions. A difference in the degree of pegylation may account for the extended half-life of this agent compared to pegfilgrastim which is pegylated at only one amino acid residue.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

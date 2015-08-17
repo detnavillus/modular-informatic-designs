@@ -1,0 +1,43 @@
+<Record>
+<Term>Zollinger-Ellison Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ParentTerm>Gastrointestinal Neoplasms</ParentTerm>
+<ParentTerm>Paraneoplastic Endocrine Syndromes</ParentTerm>
+<ParentTerm>Peptic Ulcer</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ParentTerm>Neoplastic Syndrome</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Zollinger-Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Endocrine Syndrome/Zollinger Ellison Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Neoplastic Syndrome/Zollinger Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Digestive System Neoplasms/Gastrointestinal Neoplasms/Zollinger-Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Endocrine Syndromes/Zollinger-Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastrointestinal Neoplasms/Zollinger-Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Peptic Ulcer/Zollinger-Ellison Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Zollinger-Ellison Syndrome</ClassificationPath>
+<BroaderTerm>Gastrointestinal Neoplasms</BroaderTerm>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Endocrine Syndromes</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Zollinger Ellison Syndrome</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Zollinger Ellison Syndrome,</BroaderTerm>
+<BroaderTerm>Zollinger-Ellison Syndrome</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Digestive System Neoplasms</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Endocrine Syndrome</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Neoplastic Syndrome</BroaderTerm>
+<Synonym>Zollinger Ellison Syndrome</Synonym>
+<Synonym>Zollinger-Ellison syndrome</Synonym>
+<Synonym>Zollinger-Ellison Syndrome</Synonym>
+<Description>A syndrome that is characterized by the triad of severe PEPTIC ULCER, hypersecretion of GASTRIC ACID, and GASTRIN-producing tumors of the PANCREAS or other tissue (GASTRINOMA). This syndrome may be sporadic or be associated with MULTIPLE ENDOCRINE NEOPLASIA TYPE 1.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

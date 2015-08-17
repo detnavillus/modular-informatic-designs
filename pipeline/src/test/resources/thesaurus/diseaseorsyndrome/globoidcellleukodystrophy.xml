@@ -1,0 +1,61 @@
+<Record>
+<Term>Globoid Cell Leukodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sphingolipidoses</ParentTerm>
+<ParentTerm>Hereditary Central Nervous System Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Hereditary Central Nervous System Demyelinating Diseases/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Leukodystrophy, Globoid Cell</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Hereditary Central Nervous System Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Leukodystrophy, Globoid Cell</BroaderTerm>
+<Synonym>Krabbes Disease</Synonym>
+<Synonym>Early-Onset Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Krabbe's Disease</Synonym>
+<Synonym>Globoid Leukodystrophy</Synonym>
+<Synonym>Krabbe Disease</Synonym>
+<Synonym>Infantile Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Krabbe Leukodystrophy</Synonym>
+<Synonym>Galactosylceramide-beta-Galactosidase Deficiency Diseases</Synonym>
+<Synonym>Globoid Leukodystrophies</Synonym>
+<Synonym>Late-Onset Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Early Onset Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Diffuse Globoid Body Sclerosis</Synonym>
+<Synonym>Galactosylceramide beta Galactosidase Deficiency Disease</Synonym>
+<Synonym>Krabbe's Leukodystrophy</Synonym>
+<Synonym>Galactosylceramidase Deficiency Diseases</Synonym>
+<Synonym>Galactosylceramide-beta-Galactosidase Deficiency Disease</Synonym>
+<Synonym>Globoid Cell Leukoencephalopathies</Synonym>
+<Synonym>Late Onset Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Globoid Cell Leukodystrophies</Synonym>
+<Synonym>Galactosylceramidase Deficiency Disease</Synonym>
+<Synonym>Classic Globoid Cell Leukodystrophy</Synonym>
+<Synonym>Krabbes Leukodystrophy</Synonym>
+<Synonym>Globoid Cell Leukoencephalopathy</Synonym>
+<Synonym>Globoid Cell Leukodystrophy</Synonym>
+<Description>An autosomal recessive metabolic disorder caused by a deficiency of GALACTOSYLCERAMIDASE leading to intralysosomal accumulation of galactolipids such as GALACTOSYLCERAMIDES and PSYCHOSINE. It is characterized by demyelination associated with large multinucleated globoid cells, predominantly involving the white matter of the central nervous system. The loss of MYELIN disrupts normal conduction of nerve impulses.</Description>
+<Source>MeSH</Source>
+</Record>

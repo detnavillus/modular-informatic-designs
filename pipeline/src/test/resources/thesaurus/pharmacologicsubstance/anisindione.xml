@@ -1,0 +1,22 @@
+<Record>
+<Term>Anisindione</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Anisindione</ClassificationPath>
+<BroaderTerm>Anisindione</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ANISINDIONE</Synonym>
+<Synonym>Unidone</Synonym>
+<Synonym>Anisindione</Synonym>
+<Synonym>2-p-Anisyl-1,3-indandione</Synonym>
+<Synonym>1,3-Indandione, 2-(p-methoxyphenyl)-</Synonym>
+<Synonym>Miradon</Synonym>
+<Description>A synthetic indanedione anticoagulant. Anisindione interferes with the vitamin K-dependent hepatic synthesis of active clotting factors by inhibiting the reduction of vitamin K. This leads to an inhibition of gamma-carboxylation of glutamic acid residues to gamma-carboxyglutamic acid in clotting factors II, VII, IX and X. The consequential effects of this inhibition include a reduced activity of these clotting factors and prolonged blood clotting time.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

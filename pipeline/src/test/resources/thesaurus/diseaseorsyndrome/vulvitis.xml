@@ -1,0 +1,17 @@
+<Record>
+<Term>Vulvitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vulvar Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vulvar Diseases/Vulvitis</ClassificationPath>
+<BroaderTerm>Vulvar Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Vulvitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Vulvovaginitis</ChildTerm>
+<ChildTerm>Vulvar Vestibulitis</ChildTerm>
+<Synonym>Vulvitis</Synonym>
+<Synonym>Vulvitides</Synonym>
+<Description>Inflammation of the VULVA. It is characterized by PRURITUS and painful urination.</Description>
+<Source>MeSH</Source>
+</Record>

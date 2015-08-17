@@ -1,0 +1,27 @@
+<Record>
+<Term>Mycoplasma Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoplasma Infections</ParentTerm>
+<ParentTerm>Pneumonia, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Pneumonia, Bacterial/Pneumonia, Mycoplasma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Bacterial/Pneumonia, Mycoplasma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Mycoplasmatales Infections/Mycoplasma Infections/Pneumonia, Mycoplasma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Bacterial/Pneumonia, Mycoplasma</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pneumonia, Mycoplasma</BroaderTerm>
+<BroaderTerm>Mycoplasmatales Infections</BroaderTerm>
+<BroaderTerm>Mycoplasma Infections</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Pneumonia, Bacterial</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Primary Atypical Pneumonias</Synonym>
+<Synonym>Mycoplasma Pneumonia</Synonym>
+<Synonym>Primary Atypical Pneumonia</Synonym>
+<Synonym>Mycoplasma Pneumonias</Synonym>
+<Description>Interstitial pneumonia caused by extensive infection of the lungs (LUNG) and BRONCHI, particularly the lower lobes of the lungs, by MYCOPLASMA PNEUMONIAE in humans. In SHEEP, it is caused by MYCOPLASMA OVIPNEUMONIAE. In CATTLE, it may be caused by MYCOPLASMA DISPAR.</Description>
+<Source>MeSH</Source>
+</Record>

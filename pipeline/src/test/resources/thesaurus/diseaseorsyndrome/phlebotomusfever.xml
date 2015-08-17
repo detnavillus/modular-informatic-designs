@@ -1,0 +1,21 @@
+<Record>
+<Term>Phlebotomus Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Bunyaviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Phlebotomus Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections/Phlebotomus Fever</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Phlebotomus Fever</BroaderTerm>
+<Synonym>Pappataci Fevers</Synonym>
+<Synonym>Sandfly Fever</Synonym>
+<Synonym>Sandfly Fevers</Synonym>
+<Synonym>Phlebotomus Fevers</Synonym>
+<Synonym>Phlebotomus Fever</Synonym>
+<Synonym>Pappataci Fever</Synonym>
+<Description>Influenza-like febrile viral disease caused by several members of the BUNYAVIRIDAE family and transmitted mostly by the bloodsucking sandfly Phlebotomus papatasii.</Description>
+<Source>MeSH</Source>
+</Record>

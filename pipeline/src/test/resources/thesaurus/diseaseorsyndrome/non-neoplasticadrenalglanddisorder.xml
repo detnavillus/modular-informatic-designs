@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-Neoplastic Adrenal Gland Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Retroperitoneal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Retroperitoneal Disorder/Non-Neoplastic Retroperitoneal Disorder/Non-Neoplastic Adrenal Gland Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Retroperitoneal Disorder/Adrenal Gland Disorder/Non-Neoplastic Adrenal Gland Disorder</ClassificationPath>
+<BroaderTerm>Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Adrenal Gland Disorder,</BroaderTerm>
+<BroaderTerm>Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Adrenal Gland Abscess</ChildTerm>
+<ChildTerm>Adrenal Gland Insufficiency</ChildTerm>
+<ChildTerm>Congenital Adrenal Gland Disorder</ChildTerm>
+<ChildTerm>Adrenal Gland Tuberculosis</ChildTerm>
+<Synonym>Non-Neoplastic Adrenal Gland Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

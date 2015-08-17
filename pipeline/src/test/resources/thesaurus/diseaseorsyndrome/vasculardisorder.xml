@@ -1,0 +1,29 @@
+<Record>
+<Term>Vascular Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiovascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder</ClassificationPath>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Glomerular Vascular Disorder</ChildTerm>
+<ChildTerm>Phlebitis</ChildTerm>
+<ChildTerm>Non-Neoplastic Vascular Disorder</ChildTerm>
+<ChildTerm>Skin Vascular Disorder</ChildTerm>
+<ChildTerm>Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Eyelid Vascular Disorder</ChildTerm>
+<ChildTerm>Penile Vascular Disorder</ChildTerm>
+<ChildTerm>Hepatic Vascular Disorder</ChildTerm>
+<ChildTerm>Ocular Vascular Disorder</ChildTerm>
+<ChildTerm>Arteriovenous Hemangioma</ChildTerm>
+<ChildTerm>Spinal Vascular Disorder</ChildTerm>
+<ChildTerm>Pulmonary Vascular Disorder</ChildTerm>
+<ChildTerm>Vena Cava Occlusion</ChildTerm>
+<Synonym>VASCULAR DISORDERS</Synonym>
+<Synonym>Vascular Disorder</Synonym>
+<Description>Any deviation from the normal structure or function of the vascular system that is manifested by a characteristic set of symptoms and signs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

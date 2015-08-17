@@ -1,0 +1,52 @@
+<Record>
+<Term>Persistent Vegetative State</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Unconsciousness</ParentTerm>
+<ParentTerm>Brain Damage, Chronic</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Damage, Chronic/Persistent Vegetative State</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Persistent Vegetative State</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Persistent Vegetative State</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Unconsciousness</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Brain Damage, Chronic</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Persistent Vegetative State</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<Synonym>Transient Vegetative State</Synonym>
+<Synonym>Post-Traumatic Unawareness State</Synonym>
+<Synonym>Minimally Conscious States</Synonym>
+<Synonym>Post-Comatose Unawareness State</Synonym>
+<Synonym>Post Comatose Unawareness State</Synonym>
+<Synonym>Persistent Vegetative States</Synonym>
+<Synonym>Post-Traumatic Vegetative State</Synonym>
+<Synonym>Prolonged Post-Traumatic Unawarenesses</Synonym>
+<Synonym>Minimally Conscious State</Synonym>
+<Synonym>Persistent Unawareness States</Synonym>
+<Synonym>Prolonged Post Traumatic Unawareness</Synonym>
+<Synonym>Permanent Vegetative State</Synonym>
+<Synonym>Postcomatose Unawareness States</Synonym>
+<Synonym>Persistent Unawareness State</Synonym>
+<Synonym>PVS (Persistent Vegetative State)</Synonym>
+<Synonym>Permanent Vegetative States</Synonym>
+<Synonym>Vegetative States</Synonym>
+<Synonym>Post Traumatic Vegetative State</Synonym>
+<Synonym>Vegetative State</Synonym>
+<Synonym>Prolonged Post-Traumatic Unawareness</Synonym>
+<Synonym>Post-Comatose Unawareness States</Synonym>
+<Synonym>Post Traumatic Unawareness State</Synonym>
+<Synonym>Post-Traumatic Vegetative States</Synonym>
+<Synonym>Post-Traumatic Unawareness States</Synonym>
+<Synonym>PVSs (Persistent Vegetative State)</Synonym>
+<Synonym>Posttraumatic Unawareness States</Synonym>
+<Synonym>Posttraumatic Unawareness State</Synonym>
+<Synonym>Postcomatose Unawareness State</Synonym>
+<Synonym>Persistent Vegetative State</Synonym>
+<Synonym>Transient Vegetative States</Synonym>
+<Description>Vegetative state refers to the neurocognitive status of individuals with severe brain damage, in whom physiologic functions (sleep-wake cycles, autonomic control, and breathing) persist, but awareness (including all cognitive function and emotion) is abolished.</Description>
+<Source>MeSH</Source>
+</Record>

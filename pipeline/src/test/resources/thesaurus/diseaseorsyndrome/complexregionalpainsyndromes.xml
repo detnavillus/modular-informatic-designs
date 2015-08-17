@@ -1,0 +1,19 @@
+<Record>
+<Term>Complex Regional Pain Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ParentTerm>Autonomic Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Complex Regional Pain Syndromes</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Complex Regional Pain Syndromes</ClassificationPath>
+<BroaderTerm>Complex Regional Pain Syndromes</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Reflex Sympathetic Dystrophy</ChildTerm>
+<ChildTerm>Causalgia</ChildTerm>
+<Synonym>Complex Regional Pain Syndromes</Synonym>
+<Synonym>CRPS (Complex Regional Pain Syndromes)</Synonym>
+<Description>Conditions characterized by pain involving an extremity or other body region, HYPERESTHESIA, and localized autonomic dysfunction following injury to soft tissue or nerve. The pain is usually associated with ERYTHEMA; SKIN TEMPERATURE changes, abnormal sudomotor activity (i.e., changes in sweating due to altered sympathetic innervation) or edema. The degree of pain and other manifestations is out of proportion to that expected from the inciting event. Two subtypes of this condition have been described: type I; (REFLEX SYMPATHETIC DYSTROPHY) and type II; (CAUSALGIA). (From Pain 1995 Oct;63(1):127-33)</Description>
+<Source>MeSH</Source>
+</Record>

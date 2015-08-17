@@ -1,0 +1,18 @@
+<Record>
+<Term>Splenic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Splenic Diseases</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Splenic Diseases</BroaderTerm>
+<ChildTerm>Splenic Infarction</ChildTerm>
+<ChildTerm>Splenic Neoplasms</ChildTerm>
+<ChildTerm>Splenic Rupture</ChildTerm>
+<ChildTerm>Tuberculosis, Splenic</ChildTerm>
+<ChildTerm>Wandering Spleen</ChildTerm>
+<ChildTerm>Hypersplenism</ChildTerm>
+<Synonym>Splenic Diseases</Synonym>
+<Synonym>Splenic Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

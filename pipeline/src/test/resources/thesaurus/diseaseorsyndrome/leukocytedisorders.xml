@@ -1,0 +1,20 @@
+<Record>
+<Term>Leukocyte Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Phagocyte Bactericidal Dysfunction</ChildTerm>
+<ChildTerm>Leukopenia</ChildTerm>
+<ChildTerm>Eosinophilia</ChildTerm>
+<ChildTerm>Leukostasis</ChildTerm>
+<ChildTerm>Infectious Mononucleosis</ChildTerm>
+<ChildTerm>Leukocytosis</ChildTerm>
+<ChildTerm>Pelger-Huet Anomaly</ChildTerm>
+<Synonym>Leukocyte Disorders</Synonym>
+<Synonym>Leukocyte Disorder</Synonym>
+<Description>Disordered formation of various types of leukocytes or an abnormal accumulation or deficiency of these cells.</Description>
+<Source>MeSH</Source>
+</Record>

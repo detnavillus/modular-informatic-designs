@@ -1,0 +1,24 @@
+<Record>
+<Term>Psychomotor Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Psychomotor Disorders</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Psychomotor Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Psychomotor Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Psychomotor Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Apraxias</ChildTerm>
+<ChildTerm>Psychomotor Agitation</ChildTerm>
+<Synonym>Developmental Psychomotor Disorder</Synonym>
+<Synonym>Psychomotor Impairments</Synonym>
+<Synonym>Psychomotor Impairment</Synonym>
+<Synonym>Developmental Psychomotor Disorders</Synonym>
+<Synonym>Psychomotor Disorders</Synonym>
+<Description>Abnormalities of motor function that are associated with organic and non-organic cognitive disorders.</Description>
+<Source>MeSH</Source>
+</Record>

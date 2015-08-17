@@ -1,0 +1,19 @@
+<Record>
+<Term>CancerVax</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Polyvalent Melanoma Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Melanoma Vaccine/Polyvalent Melanoma Vaccine/CancerVax</ClassificationPath>
+<BroaderTerm>CancerVax</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Melanoma Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Polyvalent Melanoma Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>C-VAX</Synonym>
+<Synonym>CancerVax</Synonym>
+<Description>CancerVax is an allogenic polyvalent vaccine composed of irradiated but viable cells from three melanoma cell lines and Bacille Calmette-Guerin (BCG). The vaccine was shown to induce humoral and cellular immune responses against multiple tumor antigens present on melanoma cells. A significant correlation between the magnitude of immune responses to the vaccine and the overall survival of patients receiving adjuvant therapy with CancerVax after surgical resection of stage III and IV melanoma was reported. Vaccine testing in patients with advanced colon cancer merits further investigation. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

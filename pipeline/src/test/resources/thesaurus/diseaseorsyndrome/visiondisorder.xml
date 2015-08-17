@@ -1,0 +1,19 @@
+<Record>
+<Term>Vision Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Vision Disorder</ClassificationPath>
+<BroaderTerm>Vision Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Vision Disorder</ChildTerm>
+<ChildTerm>Visual Pathway Disorder</ChildTerm>
+<ChildTerm>Visual Cortex Disorder</ChildTerm>
+<Synonym>Vision Disorder</Synonym>
+<Synonym>Visual Disorder</Synonym>
+<Synonym>Visual Field Disorder</Synonym>
+<Description>Visual impairments limiting one or more of the basic functions of the eye: visual acuity, dark adaptation, color vision, or peripheral vision. These may result from eye diseases, optic nerve diseases, visual pathway diseases, occipital lobe diseases, ocular motility disorders' and other conditions.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>TDP-43 Proteinopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Proteostasis Deficiencies</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/TDP-43 Proteinopathies</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/TDP-43 Proteinopathies</ClassificationPath>
+<BroaderTerm>TDP-43 Proteinopathies</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Amyotrophic Lateral Sclerosis</ChildTerm>
+<ChildTerm>Frontotemporal Lobar Degeneration</ChildTerm>
+<Synonym>TDP-43 Proteinopathies</Synonym>
+<Synonym>TDP 43 Proteinopathies</Synonym>
+<Synonym>TDP-43 Proteinopathy</Synonym>
+<Description>Diseases characterized by the presence of abnormally phosphorylated, ubiquitinated, and cleaved DNA-binding protein TDP-43 in affected brain and spinal cord. Inclusions of the pathologic protein in neurons and glia, without the presence of AMYLOID, is the major feature of these conditions, thus making these proteinopathies distinct from most other neurogenerative disorders in which protein misfolding leads to brain amyloidosis. Both frontotemporal lobar degeneration and AMYOTROPHIC LATERAL SCLEROSIS exhibit this common method of pathogenesis and thus they may represent two extremes of a continuous clinicopathological spectrum of one disease.</Description>
+<Source>MeSH</Source>
+</Record>

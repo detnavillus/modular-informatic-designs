@@ -1,0 +1,22 @@
+<Record>
+<Term>Bifascicular Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Bifascicular Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Bifascicular Block</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>BIFASCICULAR BLOCK</Synonym>
+<Synonym>Bifascicular Block</Synonym>
+<Synonym>Bifascicular block</Synonym>
+<Description>An electrocardiographic finding comprising right bundle branch block and left anterior fasicular block, or right bundle branch block and left posterior fasicular block. Defects occuring in two of the three divisions of the conduction system of the heart are considered bifasicular blocks. Technically left bundle branch block may be considered a bifasicular block.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

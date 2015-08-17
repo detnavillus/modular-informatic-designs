@@ -1,0 +1,28 @@
+<Record>
+<Term>End Stage Renal Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chronic Renal Failure</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Renal Failure/Chronic Renal Failure/End Stage Renal Disease</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Chronic Renal Failure</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>End Stage Renal Disease</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<BroaderTerm>Renal Failure</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Disease (ESRD), end stage renal</Synonym>
+<Synonym>ESRD</Synonym>
+<Synonym>ESRD, end stage renal disease</Synonym>
+<Synonym>End Stage Kidney Disease</Synonym>
+<Synonym>End Stage Kidney Failure</Synonym>
+<Synonym>End Stage Renal Disease</Synonym>
+<Synonym>End Stage Renal Failure</Synonym>
+<Synonym>End stage renal disease (ESRD)</Synonym>
+<Synonym>Renal Disease, End Stage</Synonym>
+<Synonym>Renal disease (ESRD), end stage</Synonym>
+<Description>An irreversible and usually progressive reduction in renal function in which both kidneys have been damaged by a variety of diseases to the extent that they are unable to adequately remove the metabolic products from the blood and regulate the body's electrolyte composition and acid-base balance. (from MSH98)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

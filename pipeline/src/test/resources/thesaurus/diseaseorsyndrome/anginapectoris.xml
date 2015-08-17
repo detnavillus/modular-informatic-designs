@@ -1,0 +1,49 @@
+<Record>
+<Term>Angina Pectoris</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Chest Pain</ParentTerm>
+<ParentTerm>Myocardial Ischemia</ParentTerm>
+<ParentTerm>Pain</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Angina Pectoris</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Pain/Chest Pain/Angina Pectoris</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Angina Pectoris</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Pain/Angina,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Cardiovascular System Signs and Symptoms/Angina</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Angina</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Pain</BroaderTerm>
+<BroaderTerm>Angina,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Chest Pain</BroaderTerm>
+<BroaderTerm>Angina Pectoris</BroaderTerm>
+<BroaderTerm>Cardiovascular System Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<ChildTerm>Angina Pectoris Prompting Medical Attention Event</ChildTerm>
+<ChildTerm>Variant Angina</ChildTerm>
+<ChildTerm>Angina, Unstable</ChildTerm>
+<ChildTerm>Stable Angina</ChildTerm>
+<ChildTerm>Microvascular Angina</ChildTerm>
+<ChildTerm>First Ever Onset of Angina Pectoris Event</ChildTerm>
+<ChildTerm>Unstable Angina</ChildTerm>
+<ChildTerm>Onset of Angina Pectoris Event</ChildTerm>
+<ChildTerm>Most Recent Angina Pectoris Event</ChildTerm>
+<Synonym>Angina</Synonym>
+<Synonym>Stenocardias</Synonym>
+<Synonym>Stenocardia</Synonym>
+<Synonym>Angina Pectoris</Synonym>
+<Synonym>Angina pectoris</Synonym>
+<Synonym>Angor Pectoris</Synonym>
+<Description>A heart condition marked by paroxysms of chest pain due to reduced oxygen to the heart.</Description>
+<Description>The symptom of paroxysmal pain consequent to MYOCARDIAL ISCHEMIA usually of distinctive character, location and radiation. It is thought to be provoked by a transient stressful situation during which the oxygen requirements of the MYOCARDIUM exceed that supplied by the CORONARY CIRCULATION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

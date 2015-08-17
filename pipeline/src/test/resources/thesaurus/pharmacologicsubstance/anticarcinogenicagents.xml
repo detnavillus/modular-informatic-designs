@@ -1,0 +1,26 @@
+<Record>
+<Term>Anticarcinogenic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Protective Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Anticarcinogenic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Anticarcinogenic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Anticarcinogenic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Anticarcinogenic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<Synonym>Anticarcinogens</Synonym>
+<Synonym>Anti Carcinogenic Drugs</Synonym>
+<Synonym>Anticarcinogenic Drugs</Synonym>
+<Synonym>Anticarcinogenic Agents</Synonym>
+<Synonym>Anti-Carcinogenic Drugs</Synonym>
+<Synonym>Anti-Carcinogenic Agents</Synonym>
+<Synonym>Anti Carcinogenic Agents</Synonym>
+<Description>Agents that reduce the frequency or rate of spontaneous or induced tumors independently of the mechanism involved. They differ from antineoplastic agents in that they prevent neoplasms from forming. The anticarcinogenic substances can be divided into three categories. The first consists of compounds that prevent the formation of carcinogens from precursor substances. The second group consists of "blocking agents" which inhibit carcinogenesis by preventing carcinogenic agents from reaching or reacting with critical target sites in the tissues. The third group is the "suppressor agents" which act by suppression of expression of neoplasia in cells previously exposed to carcinogens that would otherwise cause neoplasms.</Description>
+<Source>MeSH</Source>
+</Record>

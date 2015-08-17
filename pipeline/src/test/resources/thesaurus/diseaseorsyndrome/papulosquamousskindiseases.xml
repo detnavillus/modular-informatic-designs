@@ -1,0 +1,20 @@
+<Record>
+<Term>Papulosquamous Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Pityriasis</ChildTerm>
+<ChildTerm>Psoriasis</ChildTerm>
+<ChildTerm>Dermatitis, Seborrheic</ChildTerm>
+<ChildTerm>Lichenoid Eruptions</ChildTerm>
+<ChildTerm>Parapsoriasis</ChildTerm>
+<Synonym>Papulosquamous Disorders</Synonym>
+<Synonym>Papulosquamous Disorder</Synonym>
+<Synonym>Papulosquamous Skin Diseases</Synonym>
+<Synonym>Papulosquamous Skin Disease</Synonym>
+<Description>A group of dermatoses with distinct morphologic features. The primary lesion is most commonly a papule, usually erythematous, with a variable degree of scaling on the surface. Plaques form through the coalescing of primary lesions.</Description>
+<Source>MeSH</Source>
+</Record>

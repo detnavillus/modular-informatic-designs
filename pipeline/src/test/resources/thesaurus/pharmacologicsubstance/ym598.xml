@@ -1,0 +1,16 @@
+<Record>
+<Term>YM598</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Angiogenesis Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Miscellaneous Angiogenesis Inhibitor/YM598</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>YM598</BroaderTerm>
+<BroaderTerm>Miscellaneous Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>YM598</Synonym>
+<Description>An orally active synthetic substituted phenylethenesulfonamide. As a selective endothelin A receptor antagonist, YM598 inhibits endothelin-mediated mechanisms involved in tumor cell growth and progression, angiogenesis, and metastasis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

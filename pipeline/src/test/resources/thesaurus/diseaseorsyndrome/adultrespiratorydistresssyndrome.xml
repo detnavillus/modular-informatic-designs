@@ -1,0 +1,30 @@
+<Record>
+<Term>Adult Respiratory Distress Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Distress Syndrome</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Respiration Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Respiratory Distress Syndrome/Adult Respiratory Distress Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Distress Syndrome, Adult</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Respiratory Distress Syndrome, Adult</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Adult Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome, Adult</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Adult RDS</Synonym>
+<Synonym>Human ARDS</Synonym>
+<Synonym>Adult Respiratory Distress Syndrome</Synonym>
+<Synonym>Shock Lung</Synonym>
+<Synonym>Acute Respiratory Distress Syndrome</Synonym>
+<Synonym>Adult respiratory distress syndrome, ARDS</Synonym>
+<Synonym>ARDS</Synonym>
+<Description>A syndrome characterized by progressive life-threatening RESPIRATORY INSUFFICIENCY in the absence of known LUNG DISEASES, usually following a systemic insult such as surgery or major TRAUMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

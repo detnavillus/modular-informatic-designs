@@ -1,0 +1,17 @@
+<Record>
+<Term>Atrophic Gastritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastritis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Gastritis/Gastritis, Atrophic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastritis/Gastritis, Atrophic</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastritis, Atrophic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastritis</BroaderTerm>
+<Synonym>Atrophic Gastritides</Synonym>
+<Synonym>Atrophic Gastritis</Synonym>
+<Description>GASTRITIS with atrophy of the GASTRIC MUCOSA, the GASTRIC PARIETAL CELLS, and the mucosal glands leading to ACHLORHYDRIA. Atrophic gastritis usually progresses from chronic gastritis.</Description>
+<Source>MeSH</Source>
+</Record>

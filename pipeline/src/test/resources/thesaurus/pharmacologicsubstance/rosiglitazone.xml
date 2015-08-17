@@ -1,0 +1,34 @@
+<Record>
+<Term>Rosiglitazone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Differentiation Inducer</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Rosiglitazone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Rosiglitazone</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Rosiglitazone Maleate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Rosiglitazone Maleate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Rosiglitazone</BroaderTerm>
+<BroaderTerm>Rosiglitazone Maleate,</BroaderTerm>
+<BroaderTerm>Anti-diabetic Agent</BroaderTerm>
+<BroaderTerm>Rosiglitazone Maleate</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Rosiglitazone,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(+/-)-5-[[4-[2-(Methyl-2-pyridinylamino)ethoxy]phenyl]methyl]-2,4-thiazolidinedione, ( Z )-2-Butenedioate (1:1)</Synonym>
+<Synonym>Avandia</Synonym>
+<Synonym>rosiglitazone</Synonym>
+<Synonym>Rosiglitazone maleate</Synonym>
+<Synonym>Rosiglitazone</Synonym>
+<Synonym>BRL49653</Synonym>
+<Synonym>ROSIGLITAZONE</Synonym>
+<Synonym>ROSIGLITAZONE MALEATE</Synonym>
+<Synonym>Rosiglitazone Maleate</Synonym>
+<Description>An orally-active thiazolidinedione with antidiabetic properties and potential antineoplastic activity.  Rosiglitazone activates peroxisome proliferator-activated receptor gamma (PPAR-gamma), a ligand-activated transcription factor, thereby inducing cell differentiation and inhibiting cell growth and angiogenesis.  This agent also modulates the transcription of insulin-responsive genes, inhibits macrophage and monocyte activation, and stimulates adipocyte differentiation. (NCI04)</Description>
+<Description>The maleate salt form of rosiglitazone, an orally-active thiazolidinedione with antidiabetic properties and potential antineoplastic activity.  Rosiglitazone activates peroxisome proliferator-activated receptor gamma (PPAR-gamma), a ligand-activated transcription factor, thereby inducing cell differentiation and inhibiting cell growth and angiogenesis.  This agent also modulates the transcription of insulin-responsive genes, inhibits macrophage and monocyte activation, and stimulates adipocyte differentiation. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

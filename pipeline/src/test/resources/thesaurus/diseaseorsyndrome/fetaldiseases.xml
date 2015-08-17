@@ -1,0 +1,27 @@
+<Record>
+<Term>Fetal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</ParentTerm>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Fetal Diseases</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases</ClassificationPath>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<ChildTerm>Chorioamnionitis</ChildTerm>
+<ChildTerm>Fetal Nutrition Disorders</ChildTerm>
+<ChildTerm>Fetal Alcohol Syndrome</ChildTerm>
+<ChildTerm>Fetal Macrosomia</ChildTerm>
+<ChildTerm>Fetal Hypoxia</ChildTerm>
+<ChildTerm>Erythroblastosis, Fetal</ChildTerm>
+<ChildTerm>Meconium Aspiration Syndrome</ChildTerm>
+<ChildTerm>Fetal Growth Retardation</ChildTerm>
+<ChildTerm>Nuchal Cord</ChildTerm>
+<Synonym>Fetal Diseases</Synonym>
+<Synonym>Fetal Disease</Synonym>
+<Synonym>Embryopathy</Synonym>
+<Synonym>Embryopathies</Synonym>
+<Description>Pathophysiological conditions of the FETUS in the UTERUS. Some fetal diseases may be treated with FETAL THERAPIES.</Description>
+<Source>MeSH</Source>
+</Record>

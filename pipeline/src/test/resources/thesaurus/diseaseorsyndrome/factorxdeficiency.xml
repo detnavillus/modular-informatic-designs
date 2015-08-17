@@ -1,0 +1,28 @@
+<Record>
+<Term>Factor X Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Protein Disorders</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Factor X Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Factor X Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Factor X Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/Factor X Deficiency</ClassificationPath>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Factor X Deficiency</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Stuart-Prower Deficiency</Synonym>
+<Synonym>Factor X Deficiencies</Synonym>
+<Synonym>Stuart Prower Deficiency</Synonym>
+<Synonym>Factor X Deficiency</Synonym>
+<Synonym>Stuart Prower Factor Deficiency</Synonym>
+<Synonym>Stuart-Prower Factor Deficiency</Synonym>
+<Description>Blood coagulation disorder usually inherited as an autosomal recessive trait, though it can be acquired. It is characterized by defective activity in both the intrinsic and extrinsic pathways, impaired thromboplastin time, and impaired prothrombin consumption.</Description>
+<Source>MeSH</Source>
+</Record>

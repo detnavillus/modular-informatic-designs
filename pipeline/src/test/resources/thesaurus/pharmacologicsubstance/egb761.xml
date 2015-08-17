@@ -1,0 +1,15 @@
+<Record>
+<Term>EGb761</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antioxidant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/EGb761</ClassificationPath>
+<BroaderTerm>EGb761</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>EGb761</Synonym>
+<Description>A standardized ginkgo biloba extract with antioxidant and neuroprotective activities.  EGb761 has been shown to inhibit the proliferation of certain tumor cells in vitro. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Mantle-Cell Lymphoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphoma, Non-Hodgkin</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Lymphoma/Lymphoma, Non-Hodgkin/Lymphoma, Mantle-Cell</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders/Lymphoma/Lymphoma, Non-Hodgkin/Lymphoma, Mantle-Cell</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Lymphoma/Lymphoma, Non-Hodgkin/Lymphoma, Mantle-Cell</ClassificationPath>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphoma</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphoma, Non-Hodgkin</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Lymphoma, Mantle-Cell</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<Synonym>Mantle Zone Lymphoma</Synonym>
+<Synonym>Mantle Cell Lymphoma</Synonym>
+<Synonym>Mantle-Cell Lymphomas</Synonym>
+<Synonym>Mantle-Zone Lymphomas</Synonym>
+<Synonym>Centrocytic Small-Cell Lymphomas</Synonym>
+<Synonym>Mantle-Cell Lymphoma</Synonym>
+<Synonym>Mantle-Zone Lymphoma</Synonym>
+<Synonym>Centrocytic Small-Cell Lymphoma</Synonym>
+<Description>A form of non-Hodgkin lymphoma having a usually diffuse pattern with both small and medium lymphocytes and small cleaved cells. It accounts for about 5% of adult non-Hodgkin lymphomas in the United States and Europe. The majority of mantle-cell lymphomas are associated with a t(11;14) translocation resulting in overexpression of the CYCLIN D1 gene (GENES, BCL-1).</Description>
+<Source>MeSH</Source>
+</Record>

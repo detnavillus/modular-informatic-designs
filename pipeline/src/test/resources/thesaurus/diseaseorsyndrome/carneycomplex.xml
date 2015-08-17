@@ -1,0 +1,46 @@
+<Record>
+<Term>Carney Complex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Skin Abnormalities</ParentTerm>
+<ParentTerm>Myxoma</ParentTerm>
+<ParentTerm>Heart Neoplasms</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Connective and Soft Tissue/Neoplasms, Connective Tissue/Myxoma/Carney Complex</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Neoplasms/Carney Complex</ClassificationPath>
+<ClassificationPath>Carney Syndrome</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Thoracic Neoplasms/Heart Neoplasms/Carney Complex</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Carney Complex</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Skin Abnormalities/Carney Complex</ClassificationPath>
+<BroaderTerm>Carney Syndrome</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective and Soft Tissue</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective Tissue</BroaderTerm>
+<BroaderTerm>Skin Abnormalities</BroaderTerm>
+<BroaderTerm>Carney Complex</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Thoracic Neoplasms</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Myxoma</BroaderTerm>
+<BroaderTerm>Heart Neoplasms</BroaderTerm>
+<Synonym>Carney Myxoma Endocrine Complex</Synonym>
+<Synonym>Carney Syndrome</Synonym>
+<Synonym>Atrial Myxoma with Lentigines</Synonym>
+<Synonym>LAMB Syndromes</Synonym>
+<Synonym>NAME Syndromes</Synonym>
+<Synonym>Lentigines, Atrial Myxoma, Mucocutaneous Myoma, Blue Nevus Syndrome</Synonym>
+<Synonym>Nevi, Atrial Myxoma, Skin Myxoma, Ephelides Syndrome</Synonym>
+<Synonym>Carney Complex</Synonym>
+<Synonym>Carney's Syndrome</Synonym>
+<Synonym>NAME Syndrome</Synonym>
+<Synonym>Carney Myxoma-Endocrine Complex</Synonym>
+<Synonym>LAMB Syndrome</Synonym>
+<Description>Autosomal dominant syndrome characterized by cardiac and cutaneous MYXOMAS; LENTIGINOSIS (spotty pigmentation of the skin), and endocrinopathy and its associated endocrine tumors. The cardiac myxomas may lead to SUDDEN CARDIAC DEATH and other complications in Carney complex patients. The gene coding for the PRKAR1A protein is one of the causative genetic loci (type 1). A second locus is at chromosome 2p16 (type 2).Carney Complex, Type 1</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

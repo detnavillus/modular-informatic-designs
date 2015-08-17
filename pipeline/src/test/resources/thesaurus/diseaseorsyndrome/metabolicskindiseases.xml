@@ -1,0 +1,20 @@
+<Record>
+<Term>Metabolic Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Necrobiosis Lipoidica</ChildTerm>
+<ChildTerm>Porphyrias</ChildTerm>
+<ChildTerm>Lipodystrophy</ChildTerm>
+<Synonym>Metabolic Skin Diseases</Synonym>
+<Synonym>Metabolic Skin Disease</Synonym>
+<Description>Diseases of the skin associated with underlying metabolic disorders.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Intrinsic Sleep Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Dyssomnias</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Sleep Initiation and Maintenance Disorders</ChildTerm>
+<ChildTerm>Nocturnal Myoclonus Syndrome</ChildTerm>
+<ChildTerm>Sleep Apnea Syndromes</ChildTerm>
+<ChildTerm>Disorders of Excessive Somnolence</ChildTerm>
+<ChildTerm>Restless Legs Syndrome</ChildTerm>
+<Synonym>Intrinsic Sleep Disorders</Synonym>
+<Synonym>Sleep State Misperceptions</Synonym>
+<Synonym>Post-Traumatic Hypersomnia</Synonym>
+<Synonym>Central Alveolar Hypoventilation Syndrome</Synonym>
+<Synonym>Intrinsic Sleep Disorder</Synonym>
+<Synonym>Posttraumatic Hypersomnias</Synonym>
+<Synonym>Post-Traumatic Hypersomnias</Synonym>
+<Synonym>Posttraumatic Hypersomnia</Synonym>
+<Synonym>Sleep State Misperception</Synonym>
+<Description>Dyssomnias (i.e., insomnias or hypersomnias) associated with dysfunction of internal sleep mechanisms or secondary to a sleep-related medical disorder (e.g., sleep apnea, post-traumatic sleep disorders, etc.). (From Thorpy, Sleep Disorders Medicine, 1994, p187)</Description>
+<Source>MeSH</Source>
+</Record>

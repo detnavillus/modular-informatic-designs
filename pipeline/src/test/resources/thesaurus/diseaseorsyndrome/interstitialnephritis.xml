@@ -1,0 +1,32 @@
+<Record>
+<Term>Interstitial Nephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nephritis</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephritis/Interstitial Nephritis</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Nephritis, Interstitial</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Interstitial Nephritis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<ChildTerm>Pyelonephritis</ChildTerm>
+<ChildTerm>Balkan Nephropathy</ChildTerm>
+<Synonym>Tubulointerstitial Nephritis</Synonym>
+<Synonym>Interstitial Nephritides</Synonym>
+<Synonym>Tubulointerstitial Nephritides</Synonym>
+<Synonym>Interstitial Nephritis</Synonym>
+<Description>Inflammation of the interstitial tissue of the kidney. This term is generally used for primary inflammation of KIDNEY TUBULES and/or surrounding interstitium. For primary inflammation of glomerular interstitium, see GLOMERULONEPHRITIS. Infiltration of the inflammatory cells into the interstitial compartment results in EDEMA, increased spaces between the tubules, and tubular renal dysfunction.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

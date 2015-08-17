@@ -1,0 +1,18 @@
+<Record>
+<Term>Herpes Simplex Virus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Herpesvirus Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Herpesvirus Vaccines/Herpes Simplex Virus Vaccines</ClassificationPath>
+<BroaderTerm>Herpes Simplex Virus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Herpesvirus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Herpes Simplex Virus Vaccines</Synonym>
+<Synonym>Simplexvirus Vaccines</Synonym>
+<Synonym>HSV Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with viruses from the genus SIMPLEXVIRUS. This includes vaccines for HSV-1 and HSV-2.</Description>
+<Source>MeSH</Source>
+</Record>

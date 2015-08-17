@@ -1,0 +1,23 @@
+<Record>
+<Term>Sulfacytine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Sulfonamide Anti-infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Sulfonamide Anti-infective Agent/Sulfacytine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Sulfacytine</BroaderTerm>
+<BroaderTerm>Sulfonamide Anti-infective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2,3-Dihydroxybutanedioic Acid</Synonym>
+<Synonym>Renoquid</Synonym>
+<Synonym>Sulfacytine</Synonym>
+<Synonym>Benzenesulfonamide, 4-amino-N-(1-ethyl-1,2-dihydro-2-oxo-4-pyrimidinyl)-</Synonym>
+<Synonym>1-Ethyl N4-sulfanilylcytosin</Synonym>
+<Synonym>SULFACYTINE</Synonym>
+<Synonym>Sulfanilamide, N1-(1-ethyl-1,2-dihydro-2-oxo-4-pyrimidinyl)-(8CI)</Synonym>
+<Description>A short-acting, broad-spectrum sulfonamide and a synthetic analog of para-aminobenzoic acid (PABA) with bacteriostatic property. Sulfacytine competes with PABA for the bacterial enzyme dihydropteroate synthase, thereby preventing the incorporation of PABA into dihydrofolic acid, the immediate precursor of folic acid. This leads to an inhibition of bacterial folic acid synthesis and de novo synthesis of purines and pyrimidines, ultimately resulting in cell growth arrest and cell death.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

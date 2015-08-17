@@ -1,0 +1,20 @@
+<Record>
+<Term>Fetal Nutrition Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malnutrition</ParentTerm>
+<ParentTerm>Fetal Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Fetal Nutrition Disorders</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases/Fetal Nutrition Disorders</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Fetal Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<Synonym>Fetal Malnutrition</Synonym>
+<Synonym>Fetal Nutrition Disorder</Synonym>
+<Synonym>Fetal Nutrition Disorders</Synonym>
+<Description>Disorders caused by nutritional imbalance, either overnutrition or undernutrition, in the FETUS in utero.</Description>
+<Source>MeSH</Source>
+</Record>

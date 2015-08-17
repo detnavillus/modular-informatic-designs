@@ -1,0 +1,11 @@
+<Record>
+<Term>Drug Combinations</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Drug Combinations</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Drug Combinations</BroaderTerm>
+<Synonym>Drug Combinations</Synonym>
+<Description>Single preparations containing two or more active agents, for the purpose of their concurrent administration as a fixed dose mixture.</Description>
+<Source>MeSH</Source>
+</Record>

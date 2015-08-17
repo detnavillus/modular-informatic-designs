@@ -1,0 +1,19 @@
+<Record>
+<Term>Antithyroid Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hormone Antagonists</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Antithyroid Agents</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Antithyroid Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Antithyroid Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Thyroid Antagonists</Synonym>
+<Synonym>Goitrogens</Synonym>
+<Synonym>Antithyroid Agents</Synonym>
+<Synonym>Antithyroid Drugs</Synonym>
+<Description>Agents that are used to treat hyperthyroidism by reducing the excessive production of thyroid hormones.</Description>
+<Source>MeSH</Source>
+</Record>

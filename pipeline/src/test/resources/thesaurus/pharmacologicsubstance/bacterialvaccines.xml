@@ -1,0 +1,36 @@
+<Record>
+<Term>Bacterial Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Tuberculosis Vaccines</ChildTerm>
+<ChildTerm>Brucella Vaccine</ChildTerm>
+<ChildTerm>Pertussis Vaccine</ChildTerm>
+<ChildTerm>Plague Vaccine</ChildTerm>
+<ChildTerm>Rickettsial Vaccines</ChildTerm>
+<ChildTerm>Staphylococcal Vaccines</ChildTerm>
+<ChildTerm>Salmonella Vaccines</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-Pertussis Vaccine</ChildTerm>
+<ChildTerm>Haemophilus Vaccines</ChildTerm>
+<ChildTerm>Cholera Vaccines</ChildTerm>
+<ChildTerm>Anthrax Vaccines</ChildTerm>
+<ChildTerm>Lyme Disease Vaccines</ChildTerm>
+<ChildTerm>Streptococcal Vaccines</ChildTerm>
+<ChildTerm>Shigella Vaccines</ChildTerm>
+<ChildTerm>Escherichia coli Vaccines</ChildTerm>
+<ChildTerm>Meningococcal Vaccines</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<ChildTerm>Pseudomonas Vaccines</ChildTerm>
+<ChildTerm>Autovaccines</ChildTerm>
+<Synonym>Bacterial Vaccines</Synonym>
+<Synonym>Bacterin</Synonym>
+<Synonym>Bacterial Vaccine</Synonym>
+<Description>Suspensions of attenuated or killed bacteria administered for the prevention or treatment of infectious bacterial disease.</Description>
+<Source>MeSH</Source>
+</Record>

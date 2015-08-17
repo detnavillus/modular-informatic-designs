@@ -1,0 +1,18 @@
+<Record>
+<Term>Receptor Tyrosine Kinase Inhibitor R1530</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Receptor Tyrosine Kinase Inhibitor R1530</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Receptor Tyrosine Kinase Inhibitor R1530</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>MAI R1530</Synonym>
+<Synonym>R1530</Synonym>
+<Synonym>Receptor Tyrosine Kinase Inhibitor R1530</Synonym>
+<Description>A pyrazolobenzodiazepine small molecule with potential antiangiogenesis and antineoplastic activities. Mitosis-angiogenesis inhibitor (MAI) R1530 inhibits multiple receptor tyrosine kinases involved in angiogenesis, such as vascular endothelial growth factor receptor (VEGFR)-1, -2, -3, platelet-derived growth factor receptor (PDGFR) beta, FMS-like tyrosine kinase (Flt)-3, and fibroblast growth factor receptor (FGFR) -1, -2. In addition, this agents exhibits anti-proliferative activity by initiating mitotic arrest and inducing apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

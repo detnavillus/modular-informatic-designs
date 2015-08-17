@@ -1,0 +1,23 @@
+<Record>
+<Term>Cold Ischemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Temporal Concept</SemanticType>
+<ParentTerm>Tissue Preservation</ParentTerm>
+<ParentTerm>Transplantation</ParentTerm>
+<ClassificationPath>Investigative Techniques/Preservation, Biological/Tissue Preservation/Cold Ischemia</ClassificationPath>
+<ClassificationPath>Surgical Procedures, Operative/Transplantation/Cold Ischemia</ClassificationPath>
+<BroaderTerm>Tissue Preservation</BroaderTerm>
+<BroaderTerm>Cold Ischemia</BroaderTerm>
+<BroaderTerm>Surgical Procedures, Operative</BroaderTerm>
+<BroaderTerm>Transplantation</BroaderTerm>
+<BroaderTerm>Investigative Techniques</BroaderTerm>
+<BroaderTerm>Preservation, Biological</BroaderTerm>
+<Synonym>Cold Ischemia</Synonym>
+<Synonym>Cold Ischemic Times</Synonym>
+<Synonym>Cold Ischemias</Synonym>
+<Synonym>Cold Ischemic Time</Synonym>
+<Synonym>Cold Ischemia Times</Synonym>
+<Synonym>Cold Ischemia Time</Synonym>
+<Description>The chilling of a tissue or organ during decreased BLOOD perfusion or in the absence of blood supply. Cold ischemia time during ORGAN TRANSPLANTATION begins when the organ is cooled with a cold perfusion solution after ORGAN PROCUREMENT surgery, and ends after the tissue reaches physiological temperature during implantation procedures. WARM ISCHEMIA TIME starts then and ends with completion of SURGICAL ANASTOMOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

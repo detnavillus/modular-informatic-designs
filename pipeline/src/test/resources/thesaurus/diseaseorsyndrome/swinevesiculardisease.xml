@@ -1,0 +1,19 @@
+<Record>
+<Term>Swine Vesicular Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases/Swine Vesicular Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Swine Vesicular Disease</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Swine Vesicular Disease</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Swine Vesicular Diseases</Synonym>
+<Synonym>Swine Vesicular Disease</Synonym>
+<Description>An enterovirus infection of swine clinically indistinguishable from FOOT-AND-MOUTH DISEASE, vesicular stomatitis, and VESICULAR EXANTHEMA OF SWINE. It is caused by a strain of HUMAN ENTEROVIRUS B.</Description>
+<Source>MeSH</Source>
+</Record>

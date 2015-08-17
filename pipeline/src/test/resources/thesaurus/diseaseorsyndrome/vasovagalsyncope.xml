@@ -1,0 +1,49 @@
+<Record>
+<Term>Vasovagal Syncope</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Syncope</ParentTerm>
+<ParentTerm>Orthostatic Intolerance</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Syncope/Syncope, Vasovagal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Syncope/Syncope, Vasovagal</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Neurological Signs and Symptoms/Syncope/Vasovagal Syncope</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Primary Dysautonomias/Orthostatic Intolerance/Syncope, Vasovagal</ClassificationPath>
+<BroaderTerm>Unconsciousness</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Syncope</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Orthostatic Intolerance</BroaderTerm>
+<BroaderTerm>Vasovagal Syncope</BroaderTerm>
+<BroaderTerm>Syncope, Vasovagal</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Neurological Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Primary Dysautonomias</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<Synonym>Supine Syncope</Synonym>
+<Synonym>Neurally Mediated Faint</Synonym>
+<Synonym>Malignant Neurocardiogenic Syncope</Synonym>
+<Synonym>Neurogenic Syncope</Synonym>
+<Synonym>Neurocardiogenic Syncope</Synonym>
+<Synonym>Neurogenic Syncopes</Synonym>
+<Synonym>Supine Syncopes</Synonym>
+<Synonym>Vasovagal Syncope</Synonym>
+<Synonym>Cerebral Syncope</Synonym>
+<Synonym>Cerebral Syncopes</Synonym>
+<Synonym>Vasovagal Syncopes</Synonym>
+<Synonym>Vasodepressor Syncope</Synonym>
+<Synonym>Neurocardiogenic Syncopes</Synonym>
+<Synonym>Malignant Neurocardiogenic Syncopes</Synonym>
+<Synonym>Neurally Mediated Faints</Synonym>
+<Synonym>Vasodepressor Syncopes</Synonym>
+<Description>Loss of consciousness due to a reduction in blood pressure that is associated with an increase in vagal tone and peripheral vasodilation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

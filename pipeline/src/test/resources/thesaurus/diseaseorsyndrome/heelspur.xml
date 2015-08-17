@@ -1,0 +1,20 @@
+<Record>
+<Term>Heel Spur</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Exostoses</ParentTerm>
+<ParentTerm>Foot Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Hyperostosis/Exostoses/Heel Spur</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Foot Diseases/Heel Spur</ClassificationPath>
+<BroaderTerm>Hyperostosis</BroaderTerm>
+<BroaderTerm>Exostoses</BroaderTerm>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Heel Spur</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Calcaneal Spurs</Synonym>
+<Synonym>Heel Spurs</Synonym>
+<Synonym>Calcaneal Spur</Synonym>
+<Synonym>Heel Spur</Synonym>
+<Description>A bony outgrowth on the lower surface of the CALCANEUS. Though often presenting along with plantar fasciitis (FASCIITIS, PLANTAR), they are not considered causally related.</Description>
+<Source>MeSH</Source>
+</Record>

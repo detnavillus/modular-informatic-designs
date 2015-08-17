@@ -1,0 +1,22 @@
+<Record>
+<Term>Keratoconus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Corneal Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratoconus</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Corneal Disorder/Keratoconus</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Corneal Disorder</BroaderTerm>
+<BroaderTerm>Keratoconus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Keratoconus</Synonym>
+<Description>A noninflammatory, usually bilateral protrusion of the cornea, the apex being displaced downward and nasally. It occurs most commonly in females at about puberty. The cause is unknown but hereditary factors may play a role. The -conus refers to the cone shape of the corneal protrusion. (From Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

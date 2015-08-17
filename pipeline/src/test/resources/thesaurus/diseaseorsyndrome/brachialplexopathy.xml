@@ -1,0 +1,33 @@
+<Record>
+<Term>Brachial Plexopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Plexopathy</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Brachial Plexopathy Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Degenerative Disorder/Plexopathy/Brachial Plexopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Degenerative Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Brachial Plexopathy</BroaderTerm>
+<BroaderTerm>Brachial Plexopathy Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Plexopathy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Brachial Plexopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Brachial Plexopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Brachial Plexopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Brachial Plexopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Brachial Plexopathy</ChildTerm>
+<Synonym>Brachial Plexopathy Adverse Event</Synonym>
+<Synonym>brachial plexopathy</Synonym>
+<Synonym>Brachial Plexopathy</Synonym>
+<Synonym>Brachial plexopathy</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

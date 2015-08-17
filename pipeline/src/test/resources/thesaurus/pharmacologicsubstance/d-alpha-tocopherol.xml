@@ -1,0 +1,39 @@
+<Record>
+<Term>d-Alpha-Tocopherol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<SemanticType>Pharmacologic_Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ParentTerm>Alpha-Tocopherol</ParentTerm>
+<ParentTerm>Vitamin E Acetate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Vitamin E Acetate/d-Alpha-Tocopherol Acetate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/d-Alpha-Tocopherol Succinate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Tocopherol/Alpha-Tocopherol/d-Alpha-Tocopherol</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Alpha-Tocopherol</BroaderTerm>
+<BroaderTerm>Vitamin E Acetate</BroaderTerm>
+<BroaderTerm>d-Alpha-Tocopherol Acetate</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Tocopherol</BroaderTerm>
+<BroaderTerm>d-Alpha-Tocopherol Succinate</BroaderTerm>
+<BroaderTerm>d-Alpha-Tocopherol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>d-Alpha-Tocopherol Acetate</Synonym>
+<Synonym>d-alpha-Tocopherol</Synonym>
+<Synonym>Vitamin E Succinate</Synonym>
+<Synonym>d-Alpha-Tocopherol Succinate</Synonym>
+<Synonym>(+)-alpha-Tocopherol Acetate</Synonym>
+<Synonym>(+)-alpha-Tocopherol acetate</Synonym>
+<Synonym>(+)-alpha-Tocopherol</Synonym>
+<Synonym>Vitamin E Hemisuccinate</Synonym>
+<Synonym>3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-ol</Synonym>
+<Synonym>ALPHA-TOCOPHEROL SUCCINATE, D-</Synonym>
+<Synonym>d-Alpha-Tocopherol</Synonym>
+<Synonym>ALPHA-TOCOPHEROL, D-</Synonym>
+<Synonym>ALPHA-TOCOPHEROL ACETATE, D-</Synonym>
+<Description>A naturally-occurring form of vitamin E, a fat-soluble vitamin with potent antioxidant properties.  Considered essential for the stabilization of biological membranes (especially those with high amounts of polyunsaturated fatty acids), d-alpha-Tocopherol is a potent peroxyl radical scavenger and inhibits noncompetitively cyclooxygenase activity in many tissues, resulting in a decrease in prostaglandin production.  Vitamin E also inhibits angiogenesis and tumor dormancy through suppressing vascular endothelial growth factor (VEGF) gene transcription. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

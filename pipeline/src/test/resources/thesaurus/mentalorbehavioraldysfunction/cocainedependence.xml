@@ -1,0 +1,18 @@
+<Record>
+<Term>Cocaine Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Drug Dependence</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence/Drug Dependence/Cocaine Dependence</ClassificationPath>
+<BroaderTerm>Cocaine Dependence</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Drug Dependence</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cocaine Dependence, Continuous Use</ChildTerm>
+<ChildTerm>Cocaine Dependence, Episodic Use</ChildTerm>
+<Synonym>Cocaine Addiction</Synonym>
+<Synonym>Cocaine Dependence</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

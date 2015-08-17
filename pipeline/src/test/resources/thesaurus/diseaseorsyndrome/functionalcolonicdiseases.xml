@@ -1,0 +1,18 @@
+<Record>
+<Term>Functional Colonic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Colonic Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colonic Diseases, Functional</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Colonic Diseases, Functional</BroaderTerm>
+<ChildTerm>Colonic Pseudo-Obstruction</ChildTerm>
+<ChildTerm>Irritable Bowel Syndrome</ChildTerm>
+<ChildTerm>Neurogenic Bowel</ChildTerm>
+<Synonym>Functional Colonic Diseases</Synonym>
+<Synonym>Functional Colonic Disease</Synonym>
+<Description>Chronic or recurrent colonic disorders without an identifiable structural or biochemical explanation. The widely recognized IRRITABLE BOWEL SYNDROME falls into this category.</Description>
+<Source>MeSH</Source>
+</Record>

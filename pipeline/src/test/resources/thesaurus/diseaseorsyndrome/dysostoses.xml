@@ -1,0 +1,20 @@
+<Record>
+<Term>Dysostoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Dysostoses</ClassificationPath>
+<BroaderTerm>Dysostoses</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Synostosis</ChildTerm>
+<ChildTerm>Craniofacial Dysostosis</ChildTerm>
+<ChildTerm>Rubinstein-Taybi Syndrome</ChildTerm>
+<ChildTerm>Focal Dermal Hypoplasia</ChildTerm>
+<ChildTerm>Klippel-Feil Syndrome</ChildTerm>
+<ChildTerm>Orofaciodigital Syndromes</ChildTerm>
+<Synonym>Dysostoses</Synonym>
+<Synonym>Dysostosis</Synonym>
+<Description>Defective bone formation involving individual bones, singly or in combination.</Description>
+<Source>MeSH</Source>
+</Record>

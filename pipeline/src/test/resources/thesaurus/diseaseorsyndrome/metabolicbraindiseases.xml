@@ -1,0 +1,40 @@
+<Record>
+<Term>Metabolic Brain Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Reye Syndrome</ChildTerm>
+<ChildTerm>Kernicterus</ChildTerm>
+<ChildTerm>Brain Diseases, Metabolic, Inborn</ChildTerm>
+<ChildTerm>Myelinolysis, Central Pontine</ChildTerm>
+<ChildTerm>Mitochondrial Encephalomyopathies</ChildTerm>
+<ChildTerm>Marchiafava-Bignami Disease</ChildTerm>
+<ChildTerm>Hepatic Encephalopathy</ChildTerm>
+<ChildTerm>Wernicke Encephalopathy</ChildTerm>
+<Synonym>Metabolic Encephalopathy</Synonym>
+<Synonym>Metabolic Encephalopathies</Synonym>
+<Synonym>Central Nervous System Metabolic Disorders</Synonym>
+<Synonym>Metabolic Brain Disorders</Synonym>
+<Synonym>Brain Metabolic Disorders</Synonym>
+<Synonym>Metabolic Brain Diseases</Synonym>
+<Synonym>Metabolic Brain Syndromes</Synonym>
+<Synonym>Acquired Metabolic Encephalopathies</Synonym>
+<Synonym>Nervous System Acquired Metabolic Diseases</Synonym>
+<Synonym>Metabolic Brain Syndrome</Synonym>
+<Synonym>Metabolic Brain Disease</Synonym>
+<Synonym>Brain Metabolic Disorder</Synonym>
+<Synonym>CNS Metabolic Disorders</Synonym>
+<Synonym>Metabolic Brain Disorder</Synonym>
+<Synonym>CNS Metabolic Disorder</Synonym>
+<Synonym>Acquired Metabolic Encephalopathy</Synonym>
+<Description>Acquired or inborn metabolic diseases that produce brain dysfunction or damage. These include primary (i.e., disorders intrinsic to the brain) and secondary (i.e., extracranial) metabolic conditions that adversely affect cerebral function.Brain dysfunction or damage caused by acquired (i.e., non-inborn) metabolic disorders. Associated conditions include ENDOCRINE DISEASES; WATER-ELECTROLYTE IMBALANCE; KIDNEY DISEASES; LIVER DISEASES; anoxia (HYPOXIA, BRAIN); nutritional disorders (see NUTRITIONAL AND METABOLIC DISEASES); an encephalopathy associated with HEMODIALYSIS; and other disorders. (From Plum &amp; Posner, Diagnosis of Stupor and Coma, 3rd ed, pp208-260)</Description>
+<Source>MeSH</Source>
+</Record>

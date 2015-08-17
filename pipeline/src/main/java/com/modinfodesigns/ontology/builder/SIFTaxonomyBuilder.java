@@ -5,6 +5,8 @@ import com.modinfodesigns.ontology.TaxonomyNode;
 import com.modinfodesigns.ontology.TaxonomyRootNode;
 import com.modinfodesigns.property.DataObject;
 
+import java.io.Reader;
+
 public class SIFTaxonomyBuilder extends XMLTaxonomyBuilder
 {
   public static final String TREE_NODE = "TreeNode";

@@ -1,0 +1,29 @@
+<Record>
+<Term>Chancroid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sexually Transmitted Diseases, Bacterial</ParentTerm>
+<ParentTerm>Haemophilus Infections</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chancroid</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Sexually Transmitted Diseases, Bacterial/Chancroid</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Haemophilus Infections/Chancroid</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chancroid</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chancroid</ClassificationPath>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Haemophilus Infections</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Chancroid</BroaderTerm>
+<Synonym>Chancroids</Synonym>
+<Synonym>Chancroid</Synonym>
+<Description>Acute, localized autoinoculable infectious disease usually acquired through sexual contact. Caused by HAEMOPHILUS DUCREYI, it occurs endemically almost worldwide, especially in tropical and subtropical countries and more commonly in seaports and urban areas than in rural areas.</Description>
+<Source>MeSH</Source>
+</Record>

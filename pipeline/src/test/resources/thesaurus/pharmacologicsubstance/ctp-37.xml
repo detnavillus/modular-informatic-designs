@@ -1,0 +1,16 @@
+<Record>
+<Term>CTP-37</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Antigen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antigen/Vaccine Antigen/CTP-37</ClassificationPath>
+<BroaderTerm>CTP-37</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antigen</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Antigen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CTP-37</Synonym>
+<Description>A synthetic peptide vaccine consisting of the carboxy terminal peptide (CTP) of human beta chorionic gonadotropin (beta-hCG).  Vaccination with CTP-37 may stimulate the host immune system to produce antibodies against beta-HCG, leading to a decrease in the proliferation of tumor cells that overexpress beta-HCG. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Combined Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Combined</ClassificationPath>
+<BroaderTerm>Vaccines, Combined</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria-Tetanus-Pertussis Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus Vaccine</ChildTerm>
+<ChildTerm>Measles-Mumps-Rubella Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<Synonym>Combined Vaccines</Synonym>
+<Synonym>Combination Vaccines</Synonym>
+<Description>Two or more vaccines in a single dosage form.</Description>
+<Source>MeSH</Source>
+</Record>

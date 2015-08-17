@@ -1,0 +1,20 @@
+<Record>
+<Term>Nonvital Tooth</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dental Pulp Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Pulp Diseases/Tooth, Nonvital</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Tooth, Nonvital</BroaderTerm>
+<BroaderTerm>Dental Pulp Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Nonvital Tooth</Synonym>
+<Synonym>Devitalized Tooth</Synonym>
+<Synonym>Pulpless Tooth</Synonym>
+<Synonym>Pulpless Teeth</Synonym>
+<Synonym>Devitalized Teeth</Synonym>
+<Synonym>Nonvital Teeth</Synonym>
+<Synonym>Endodontically-Treated Teeth</Synonym>
+<Synonym>Endodontically-Treated Tooth</Synonym>
+<Description>A tooth from which the dental pulp has been removed or is necrotic. (Boucher, Clinical Dental Terminology, 4th ed)</Description>
+<Source>MeSH</Source>
+</Record>

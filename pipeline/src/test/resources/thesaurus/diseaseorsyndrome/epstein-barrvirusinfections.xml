@@ -1,0 +1,28 @@
+<Record>
+<Term>Epstein-Barr Virus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Herpesviridae Infections</ParentTerm>
+<ParentTerm>Tumor Virus Infections</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms, Experimental/Tumor Virus Infections/Epstein-Barr Virus Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Epstein-Barr Virus Infections</ClassificationPath>
+<ClassificationPath>Neoplasms/Tumor Virus Infections/Epstein-Barr Virus Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/Tumor Virus Infections/Epstein-Barr Virus Infections</ClassificationPath>
+<BroaderTerm>Neoplasms, Experimental</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Tumor Virus Infections</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Epstein-Barr Virus Infections</BroaderTerm>
+<ChildTerm>Burkitt Lymphoma</ChildTerm>
+<ChildTerm>Infectious Mononucleosis</ChildTerm>
+<ChildTerm>Leukoplakia, Hairy</ChildTerm>
+<Synonym>Human Herpes Virus 4 Infections</Synonym>
+<Synonym>Epstein Barr Virus Infections</Synonym>
+<Synonym>EBV Infections</Synonym>
+<Synonym>Epstein-Barr Virus Infections</Synonym>
+<Synonym>EBV Infection</Synonym>
+<Synonym>Human Herpesvirus 4 Infections</Synonym>
+<Description>Infection with human herpesvirus 4 (HERPESVIRUS 4, HUMAN); which may facilitate the development of various lymphoproliferative disorders. These include BURKITT LYMPHOMA (African type), INFECTIOUS MONONUCLEOSIS, and oral hairy leukoplakia (LEUKOPLAKIA, HAIRY).</Description>
+<Source>MeSH</Source>
+</Record>

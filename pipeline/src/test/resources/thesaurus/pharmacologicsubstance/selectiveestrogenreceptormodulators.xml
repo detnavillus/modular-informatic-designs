@@ -1,0 +1,54 @@
+<Record>
+<Term>Selective Estrogen Receptor Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Chemopreventive Agent</ParentTerm>
+<ParentTerm>Estrogen Receptor Modulators</ParentTerm>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Estrogen Receptor Modulators/Selective Estrogen Receptor Modulators</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists/Estrogen Receptor Modulators/Selective Estrogen Receptor Modulators</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Selective Estrogen Receptor Modulator</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Selective Estrogen Receptor Modulators</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Selective Estrogen Receptor Modulator</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Estrogen Receptor Modulators</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Genistein</ChildTerm>
+<ChildTerm>Toremifene Citrate</ChildTerm>
+<ChildTerm>2-Methoxyestradiol Nanocrystal Colloidal Dispersion</ChildTerm>
+<ChildTerm>Nafoxidine Hydrochloride</ChildTerm>
+<ChildTerm>Estrazinol</ChildTerm>
+<ChildTerm>Arzoxifene Hydrochloride</ChildTerm>
+<ChildTerm>Raloxifene</ChildTerm>
+<ChildTerm>Nafoxidine</ChildTerm>
+<ChildTerm>Droloxifene</ChildTerm>
+<ChildTerm>Toremifene</ChildTerm>
+<ChildTerm>Tamoxifen</ChildTerm>
+<ChildTerm>Acolbifene Hydrochloride</ChildTerm>
+<ChildTerm>Trioxifene</ChildTerm>
+<ChildTerm>Pipendoxifene</ChildTerm>
+<ChildTerm>Bazedoxifene Acetate</ChildTerm>
+<ChildTerm>Raloxifene Hydrochloride</ChildTerm>
+<ChildTerm>CC-8490</ChildTerm>
+<ChildTerm>Tesmilifene Hydrochloride</ChildTerm>
+<ChildTerm>Idoxifene</ChildTerm>
+<ChildTerm>Tamoxifen Citrate</ChildTerm>
+<ChildTerm>Arzoxifene</ChildTerm>
+<ChildTerm>4-Hydroxytamoxifen</ChildTerm>
+<ChildTerm>Acolbifene</ChildTerm>
+<ChildTerm>Trioxifene Mesylate</ChildTerm>
+<Synonym>SERM</Synonym>
+<Synonym>SERMs</Synonym>
+<Synonym>Selective Estrogen Receptor Modulators</Synonym>
+<Synonym>selective estrogen receptor modulator</Synonym>
+<Synonym>Selective Estrogen Receptor Modulator</Synonym>
+<Description>A structurally diverse group of compounds distinguished from ESTROGENS by their ability to bind and activate ESTROGEN RECEPTORS but act as either an agonist or antagonist depending on the tissue type and hormonal milieu. They are classified as either first generation because they demonstrate  estrogen agonist properties in the ENDOMETRIUM or second generation based on their patterns of tissue specificity. (Horm Res 1997;48:155-63)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>E7080</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/E7080</ClassificationPath>
+<BroaderTerm>E7080</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>E7080</Synonym>
+<Description>A synthetic, orally available inhibitor of vascular endothelial growth factor receptor 2 (VEGFR2, also known as KDR/FLK-1) tyrosine kinase with potential antineoplastic activity. E7080 blocks VEGFR2 activation by VEGF, resulting in inhibition of the VEGF receptor signal transduction pathway, decreased vascular endothelial cell migration and proliferation, and vascular endothelial cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

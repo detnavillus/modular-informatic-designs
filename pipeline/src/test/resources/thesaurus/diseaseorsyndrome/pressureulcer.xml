@@ -1,0 +1,40 @@
+<Record>
+<Term>Pressure Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Ulcer</ParentTerm>
+<ParentTerm>Skin Ulcer</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Injury/Ulcer/Pressure Sore</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer/Pressure Ulcer</ClassificationPath>
+<BroaderTerm>Ulcer</BroaderTerm>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pressure Ulcer</BroaderTerm>
+<BroaderTerm>Injury</BroaderTerm>
+<BroaderTerm>Pressure Sore</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Decubitus Ulcers</Synonym>
+<Synonym>Pressure Sore Or Ulcer</Synonym>
+<Synonym>Bedsores</Synonym>
+<Synonym>Ulcers/sores, pressure</Synonym>
+<Synonym>Pressure Sore</Synonym>
+<Synonym>Pressure Ulcers</Synonym>
+<Synonym>Pressure Sores</Synonym>
+<Synonym>Pressure Sores/Ulcers</Synonym>
+<Synonym>Sores/ulcers, pressure</Synonym>
+<Synonym>Pressure Ulcer</Synonym>
+<Synonym>Decubitus Ulcer</Synonym>
+<Synonym>Bed Sores</Synonym>
+<Synonym>Bedsore</Synonym>
+<Synonym>Pressure, necrosis</Synonym>
+<Synonym>Bed Sore</Synonym>
+<Synonym>Necrosis, Pressure</Synonym>
+<Description>An ulceration caused by prolonged pressure on the SKIN and TISSUES when one stay in one position for a long period of time, such as lying in bed. The bony areas of the body are the most frequently affected sites which become ischemic (ISCHEMIA) under sustained and constant pressure.</Description>
+<Description>Death of tissue due to external pressure.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

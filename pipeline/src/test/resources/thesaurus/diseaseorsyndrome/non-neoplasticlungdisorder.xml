@@ -1,0 +1,42 @@
+<Record>
+<Term>Non-Neoplastic Lung Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Thoracic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Lung Disorder/Non-Neoplastic Lung Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Non-Neoplastic Respiratory Disorder/Non-Neoplastic Lung Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Lung Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Respiratory Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Disorder</BroaderTerm>
+<ChildTerm>Pulmonary Insufficiency</ChildTerm>
+<ChildTerm>Hyaline Membrane Syndrome</ChildTerm>
+<ChildTerm>Pneumoconiosis</ChildTerm>
+<ChildTerm>Bronchiolitis</ChildTerm>
+<ChildTerm>Pulmonary Sarcoidosis</ChildTerm>
+<ChildTerm>Bronchospasm</ChildTerm>
+<ChildTerm>Pneumonia</ChildTerm>
+<ChildTerm>Atelectasis</ChildTerm>
+<ChildTerm>Chronic Obstructive Pulmonary Disease</ChildTerm>
+<ChildTerm>Pulmonary Vascular Disorder</ChildTerm>
+<ChildTerm>Bronchitis</ChildTerm>
+<ChildTerm>Respiratory Failure</ChildTerm>
+<ChildTerm>Pulmonary Fibrosis</ChildTerm>
+<ChildTerm>Respiratory Malfunction Arising from Mental Factor</ChildTerm>
+<ChildTerm>Pulmonary Infarction</ChildTerm>
+<ChildTerm>Infectious Lung Disorder</ChildTerm>
+<ChildTerm>Asthma</ChildTerm>
+<Synonym>Non-Neoplastic Lung Disorder</Synonym>
+<Synonym>Non-Neoplastic Pulmonary Disorder</Synonym>
+<Synonym>Non-neoplastic Lung Disorders</Synonym>
+<Synonym>Non-neoplastic Pulmonary Disease</Synonym>
+<Synonym>Non-neoplastic Pulmonary Diseases</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

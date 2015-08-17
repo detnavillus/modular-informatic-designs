@@ -1,0 +1,16 @@
+<Record>
+<Term>SB-743921</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitotic Kinesin Modulator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Mitotic Kinesin Modulator/SB-743921</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>SB-743921</BroaderTerm>
+<BroaderTerm>Mitotic Kinesin Modulator</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SB-743921</Synonym>
+<Description>A synthetic small molecule with potential antineoplastic properties. SB-743921 selectively inhibits kinesin spindle protein (KSP), an important protein involved in the early stages of mitosis that is expressed in proliferating cells. Inhibition of KSP results in inhibition of mitotic spindle assembly and interrupts cell division, thereby causing cell cycle arrest and induction of apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Membrane Transport Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Calcium Channel Agonists</ChildTerm>
+<ChildTerm>Calcium Channel Blockers</ChildTerm>
+<ChildTerm>Potassium Channel Blockers</ChildTerm>
+<ChildTerm>Sodium Channel Blockers</ChildTerm>
+<ChildTerm>Sodium Chloride Symporter Inhibitors</ChildTerm>
+<ChildTerm>Sodium Potassium Chloride Symporter Inhibitors</ChildTerm>
+<ChildTerm>Ionophores</ChildTerm>
+<Synonym>Membrane Transport Modulators</Synonym>
+<Synonym>Membrane Transport Protein Modulators</Synonym>
+<Description>Agents that affect ION PUMPS; ION CHANNELS; ABC TRANSPORTERS; and other MEMBRANE TRANSPORT PROTEINS.</Description>
+<Source>MeSH</Source>
+</Record>

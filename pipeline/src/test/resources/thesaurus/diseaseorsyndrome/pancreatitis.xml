@@ -1,0 +1,44 @@
+<Record>
+<Term>Pancreatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Pancreatic Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Hepatobiliary System and Pancreas</ParentTerm>
+<ParentTerm>Pancreatic Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Pancreatic Disorder/Non-Neoplastic Pancreatic Disorder/Pancreatitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Pancreatitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Hepatobiliary System and Pancreas/Pancreatitis Adverse Event</ClassificationPath>
+<BroaderTerm>Pancreatitis</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Hepatobiliary System and Pancreas</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Pancreatitis Adverse Event</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Pancreatitis</ChildTerm>
+<ChildTerm>Pancreatitis, Alcoholic</ChildTerm>
+<ChildTerm>Pancreatitis, Acute Necrotizing</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Pancreatitis</ChildTerm>
+<ChildTerm>Pancreatitis, Graft</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Pancreatitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Pancreatitis</ChildTerm>
+<ChildTerm>Pancreatitis, Chronic</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Pancreatitis</ChildTerm>
+<Synonym>Pancreatitis</Synonym>
+<Synonym>Pancreatitis Adverse Event</Synonym>
+<Synonym>pancreatitis</Synonym>
+<Synonym>Pancreatitides</Synonym>
+<Description>INFLAMMATION of the PANCREAS. Pancreatitis is classified as acute unless there are computed tomographic or endoscopic retrograde cholangiopancreatographic findings of CHRONIC PANCREATITIS (International Symposium on Acute Pancreatitis, Atlanta, 1992). The two most common forms of acute pancreatitis are ALCOHOLIC PANCREATITIS and gallstone pancreatitis.</Description>
+<Description>Inflammation of the pancreas.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

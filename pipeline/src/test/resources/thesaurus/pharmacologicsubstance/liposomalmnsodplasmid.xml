@@ -1,0 +1,16 @@
+<Record>
+<Term>Liposomal MnSOD Plasmid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Liposomal MnSOD Plasmid</ClassificationPath>
+<BroaderTerm>Liposomal MnSOD Plasmid</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Liposomal MnSOD Plasmid</Synonym>
+<Synonym>MnSOD-PL</Synonym>
+<Description>A plasmid DNA encoding human manganese superoxide dismutase (MnSOD) and liposomally encapsulated with potential chemoprotective activity. When administered orally and localizing in the esophagus, MnSOD-plasmid liposomes express MnSOD, which scavenges reactive oxygen species (ROS); MnSOD scavenging of ROS may result in a reduction in ROS-mediated lipid peroxidation, apoptosis, and micro-ulceration in the epithelial lining of the esophagus.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

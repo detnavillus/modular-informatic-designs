@@ -1,0 +1,17 @@
+<Record>
+<Term>TLR9 Agonist SD-101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/TLR9 Agonist SD-101</ClassificationPath>
+<BroaderTerm>TLR9 Agonist SD-101</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ISS-ODN SD-101</Synonym>
+<Synonym>SD-101</Synonym>
+<Synonym>TLR9 Agonist SD-101</Synonym>
+<Description>A proprietary oligonucleotide with immunostimulatory activity. Immunostimulatory phosphorothiolate oligodeoxyribonucleotide SD-101 targets Toll-Like Receptor 9 (TLR9) found on a specialized subset of dendritic cells. The interaction of TLR9 with SD-101, in conjunction with an allergen or antigen, induces activation of memory T helper cells 1 (Th1) against a specific pathogen or allergen, thereby leading to long-lasting therapeutic effects. Furthermore, this agent does not cause a generalized activation of the immune system.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

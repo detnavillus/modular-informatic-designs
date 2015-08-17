@@ -1,0 +1,26 @@
+<Record>
+<Term>Cardiac Tamponade</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Disorder</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Heart Disorder/Cardiac Tamponade</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiac Tamponade</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiac Tamponade</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cardiac Tamponade</Synonym>
+<Synonym>Pericardial Tamponades</Synonym>
+<Synonym>Pericardial Tamponade</Synonym>
+<Synonym>Cardiac Tamponades</Synonym>
+<Description>Acute compression of the heart caused by increased intrapericardial pressure due to the collection of blood or fluid in the pericardium from rupture of the heart, penetrating trauma, or progressive effusion.</Description>
+<Description>Compression of the heart by accumulated fluid (PERICARDIAL EFFUSION) or blood (HEMOPERICARDIUM) in the PERICARDIUM surrounding the heart. The affected cardiac functions and CARDIAC OUTPUT can range from minimal to total hemodynamic collapse.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

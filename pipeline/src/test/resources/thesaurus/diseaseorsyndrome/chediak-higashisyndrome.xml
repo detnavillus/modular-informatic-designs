@@ -1,0 +1,29 @@
+<Record>
+<Term>Chediak-Higashi Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Phagocyte Bactericidal Dysfunction</ParentTerm>
+<ParentTerm>Congenital Disorder of Natural Immunity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Phagocyte Bactericidal Dysfunction/Chediak-Higashi Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Disorder of Natural Immunity/Chediak-Higashi Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Phagocyte Bactericidal Dysfunction/Chediak-Higashi Syndrome</ClassificationPath>
+<BroaderTerm>Phagocyte Bactericidal Dysfunction</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Chediak-Higashi Syndrome</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Congenital Disorder of Natural Immunity</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Aleutian Mink Disease</ChildTerm>
+<Synonym>Chediak-Higashi Syndrome</Synonym>
+<Synonym>Chediak Higashi Syndrome</Synonym>
+<Description>A rare autosomal recessive immunodeficiency disorder characterized by abnormal intracellular protein transport. Chediak-Higashi syndrome (CHS) is characterized by immune deficiency; partial oculocutaneous albinism; a bleeding disorder due to deficient platelet dense bodies; neutropenia; neutrophils with impaired chemotaxis and bactericidal activity; recurrent infection; and abnormal natural killer (NK) cell function. CHS may be associated with hepatosplenomegaly, lymphadenopathy, anemia, thrombocytopenia, roentgenologic changes in bones, lungs and heart, and skin and psychomotor abnormalities; it is often fatal in childhood as a result of infection or an accelerated lymphoma-like phase. CHS occurs in mink, cattle, and mice, as well as man.</Description>
+<Description>A form of phagocyte bactericidal dysfunction characterized by unusual oculocutaneous albinism, high incidence of lymphoreticular neoplasms, and recurrent pyogenic infections. In many cell types, abnormal lysosomes are present leading to defective pigment distribution and abnormal neutrophil functions. The disease is transmitted by autosomal recessive inheritance and a similar disorder occurs in the beige mouse, the Aleutian mink, and albino Hereford cattle.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

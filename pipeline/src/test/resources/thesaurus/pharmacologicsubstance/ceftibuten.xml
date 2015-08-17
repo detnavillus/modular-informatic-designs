@@ -1,0 +1,24 @@
+<Record>
+<Term>Ceftibuten</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cephalosporin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Ceftibuten Dihydrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Ceftibuten</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Ceftibuten</BroaderTerm>
+<BroaderTerm>Ceftibuten Dihydrate</BroaderTerm>
+<BroaderTerm>Cephalosporin Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cedax</Synonym>
+<Synonym>Ceftibuten</Synonym>
+<Synonym>Ceftibuten Dihydrate</Synonym>
+<Synonym>Ceftibuten dihydrate</Synonym>
+<Synonym>CEFTIBUTEN</Synonym>
+<Synonym>CEFTIBUTEN DIHYDRATE</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

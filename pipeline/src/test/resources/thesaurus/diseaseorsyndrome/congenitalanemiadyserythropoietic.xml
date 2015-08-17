@@ -1,0 +1,26 @@
+<Record>
+<Term>Congenital Anemia, Dyserythropoietic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic, Congenital</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Anemia, Dyserythropoietic, Congenital</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Anemia, Dyserythropoietic, Congenital</ClassificationPath>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Dyserythropoietic, Congenital</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Congenital Dyserythropoietic Anemia Type II</Synonym>
+<Synonym>Congenital Dyserythropoietic Anemias</Synonym>
+<Synonym>Congenital Dyserythropoietic Anemia Type 1</Synonym>
+<Synonym>HEMPAS Anemia</Synonym>
+<Synonym>HEMPAS Anemias</Synonym>
+<Synonym>HEMPAS</Synonym>
+<Synonym>Type I Congenital Dyserythropoietic Anemia</Synonym>
+<Synonym>Hereditary Erythroblast Multinuclearity with Positive Acidified Serum</Synonym>
+<Synonym>Congenital Dyserythropoietic Anemia</Synonym>
+<Description>A familial disorder characterized by ANEMIA with multinuclear ERYTHROBLASTS, karyorrhexis, asynchrony of nuclear and cytoplasmic maturation, and various nuclear abnormalities of bone marrow erythrocyte precursors (ERYTHROID PRECURSOR CELLS). Type II is the most common of the 3 types; it is often referred to as HEMPAS, based on the Hereditary Erythroblast Multinuclearity with Positive Acidified Serum test.</Description>
+<Source>MeSH</Source>
+</Record>

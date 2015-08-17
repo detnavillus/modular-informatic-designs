@@ -1,0 +1,39 @@
+<Record>
+<Term>Pneumothorax</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Pleural Disorder</ParentTerm>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with Pulmonary and Upper Respiratory Systems</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Pneumothorax</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Pulmonary and Upper Respiratory Systems/Pneumothorax Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Pleural Disorder/Non-Neoplastic Pleural Disorder/Pneumothorax</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pneumothorax Adverse Event</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pleural Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Pleural Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Pulmonary and Upper Respiratory Systems</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Pneumothorax</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Pneumothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Pneumothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Pneumothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Pneumothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Pneumothorax</ChildTerm>
+<Synonym>Pneumothorax Adverse Event</Synonym>
+<Synonym>Pneumothorax</Synonym>
+<Description>An accumulation of air or gas in the pleural space, which may occur spontaneously or as a result of trauma or a pathological process, or be introduced deliberately ( = PNEUMOTHORAX, ARTIFICIAL). (Dorland, 27th ed)</Description>
+<Description>Pneumothorax; abnormal presence of air in the pleural cavity resulting in the collapse of the lung.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

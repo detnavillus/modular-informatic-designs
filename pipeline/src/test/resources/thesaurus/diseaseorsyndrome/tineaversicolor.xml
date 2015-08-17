@@ -1,0 +1,20 @@
+<Record>
+<Term>Tinea Versicolor</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea Versicolor</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea Versicolor</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea Versicolor</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Tinea Versicolor</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pityriasis Versicolor</Synonym>
+<Synonym>Tinea Versicolor</Synonym>
+<Description>A common chronic, noninflammatory and usually symptomless disorder, characterized by the occurrence of multiple macular patches of all sizes and shapes, and varying in pigmentation from fawn-colored to brown. It is seen most frequently in hot, humid, tropical regions, and is caused by Pityrosporon orbiculare. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

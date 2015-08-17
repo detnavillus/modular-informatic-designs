@@ -1,0 +1,27 @@
+<Record>
+<Term>Ioxaglate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Iodinated Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Iodinated Contrast Agent/Ioxaglate Meglumine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Iodinated Contrast Agent/Ioxaglate Sodium</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Ioxaglate Meglumine</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Iodinated Contrast Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Ioxaglate Sodium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Sodium N-(2-hydroxyethyl)-2,4,6-triiodo-5-(2-(2,4,6-triiodo-3-(N-methylacetamido)-5-(methylcarbamoyl)benzamido)acetamido)isophthalamate</Synonym>
+<Synonym>Ioxaglate Meglumine</Synonym>
+<Synonym>Benzoic Acid, 3-((((3-(acetylmethylamino)-2,4,6-triiodo-5-((methylamino)carbonyl)benzoyl)amino)acetyl)amino)-5-(((2-hydroxyethyl)amino)carbonyl)-2,4,6-triiodo-, Monosodium Salt</Synonym>
+<Synonym>IOXAGLATE SODIUM</Synonym>
+<Synonym>1-Deoxy-1-(methylamino)-D-glucitol 3-((((3-(acetylmethylamino)-2,4,6-triiodo-5-((methylamino)carbonyl)benzoyl)amino)acetyl)amino)-5-(((2-hydroxyethyl)amino)carbonyl)-2,4,6-triiodobenzoate</Synonym>
+<Synonym>Benzoic Acid, 3-((((3-(acetylmethylamino)-2,4,6-triiodo-5-((methylamino)carbonyl)benzoyl)amino)acetyl)amino)-5-(((2-hydroxyethyl)amino)carbonyl)-2,4,6-triiodo-, compound with 1-deoxy-1-(methylamino)-D-glucitol(1:1)</Synonym>
+<Synonym>Ioxaglate Sodium</Synonym>
+<Synonym>IOXAGLATE MEGLUMINE</Synonym>
+<Description>The meglumine salt form of ioxaglate, an organic iodine compound and a radiographic contrast medium. Ioxaglate meglumine blocks x-rays as they pass through the body, thereby allowing body structures not containing iodine to be visualized. The degree of opacity produced by ioxaglate meglumine is directly proportional to the total amount of the iodinated contrast agent in the path of the x-rays. The visualization of body structures is dependent upon the distribution and elimination of ioxaglate meglumine. (NCI05)</Description>
+<Description>The sodium salt form of ioxaglate, an organic iodine compound and a radiographic contrast medium. Ioxaglate sodium blocks x-rays as they pass through the body, thereby allowing body structures not containing iodine to be visualized. The degree of opacity produced by ioxaglate sodium is directly proportional to the total amount of the iodinated contrast agent in the path of the x-rays. The visualization of body structures is dependent upon the distribution and elimination of ioxaglate sodium. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

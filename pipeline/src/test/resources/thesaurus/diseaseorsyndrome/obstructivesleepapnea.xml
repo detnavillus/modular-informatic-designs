@@ -1,0 +1,23 @@
+<Record>
+<Term>Obstructive Sleep Apnea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sleep Apnea Syndromes</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Apnea/Sleep Apnea Syndromes/Sleep Apnea, Obstructive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Apnea Syndromes/Sleep Apnea, Obstructive</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Apnea</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Sleep Apnea Syndromes</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Apnea, Obstructive</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Obesity Hypoventilation Syndrome</ChildTerm>
+<Synonym>Obstructive Sleep Apneas</Synonym>
+<Synonym>Obstructive Sleep Apnea</Synonym>
+<Synonym>Obstructive Sleep Apnea Syndrome</Synonym>
+<Synonym>Upper Airway Resistance Sleep Apnea Syndrome</Synonym>
+<Description>A disorder characterized by recurrent apneas during sleep despite persistent respiratory efforts. It is due to upper airway obstruction. The respiratory pauses may induce HYPERCAPNIA or HYPOXIA. Cardiac arrhythmias and elevation of systemic and pulmonary arterial pressures may occur. Frequent partial arousals occur throughout sleep, resulting in relative SLEEP DEPRIVATION and daytime tiredness. Associated conditions include OBESITY; ACROMEGALY; MYXEDEMA; micrognathia; MYOTONIC DYSTROPHY; adenotonsilar dystrophy; and NEUROMUSCULAR DISEASES. (From Adams et al., Principles of Neurology, 6th ed, p395)</Description>
+<Source>MeSH</Source>
+</Record>

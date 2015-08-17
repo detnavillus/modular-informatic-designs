@@ -1,0 +1,20 @@
+<Record>
+<Term>Coronary Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Stenosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Stenosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<ChildTerm>Coronary Restenosis</ChildTerm>
+<Synonym>Coronary Artery Stenoses</Synonym>
+<Synonym>Coronary Stenosis</Synonym>
+<Synonym>Coronary Stenoses</Synonym>
+<Synonym>Coronary Artery Stenosis</Synonym>
+<Description>Narrowing or constriction of a coronary artery.</Description>
+<Source>MeSH</Source>
+</Record>

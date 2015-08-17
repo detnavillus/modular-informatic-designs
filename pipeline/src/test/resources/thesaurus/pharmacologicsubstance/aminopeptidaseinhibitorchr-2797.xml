@@ -1,0 +1,15 @@
+<Record>
+<Term>Aminopeptidase inhibitor CHR-2797</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aminopeptidase inhibitor CHR-2797</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aminopeptidase inhibitor CHR-2797</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Aminopeptidase inhibitor CHR-2797</Synonym>
+<Synonym>CHR-2797</Synonym>
+<Description>A proprietary orally bioavailable inhibitor of the M1 family of aminopeptidases with potential antineoplastic activity. Aminopeptidase inhibitor CHR-2797 is converted intracellularly into a poorly membrane-permeable active metabolite (CHR-79888) which inhibits the M1 family of aminopeptidases, particularly puromycin-sensitive aminopeptidase (PuSA), and leukotriene A4 (LTA4) hydrolase; inhibition of these aminopeptidases in tumor cells may result in amino acid deprivation, inhibition of protein synthesis due to a decrease in the intracellular free amino acid pool, an increase in the level of the proapoptotic protein Noxa, and cell death. Noxa is a member of the BH3 (Bcl-2 homology 3)-only subgroup of the proapoptotic Bcl-2 (B-cell CLL/lymphoma 2) protein family.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

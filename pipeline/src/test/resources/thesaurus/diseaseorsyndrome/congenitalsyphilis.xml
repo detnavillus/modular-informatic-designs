@@ -1,0 +1,26 @@
+<Record>
+<Term>Congenital Syphilis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Syphilis</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Syphilis, Congenital</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Syphilis/Syphilis, Congenital</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Syphilis/Syphilis, Congenital</ClassificationPath>
+<BroaderTerm>Syphilis, Congenital</BroaderTerm>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Syphilis</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Hutchinson's Teeth</Synonym>
+<Synonym>Hutchinsons Teeth</Synonym>
+<Synonym>Congenital Syphilis</Synonym>
+<Synonym>Hutchinson Teeth</Synonym>
+<Description>Syphilis acquired in utero and manifested by any of several characteristic tooth (Hutchinson's teeth) or bone malformations and by active mucocutaneous syphilis at birth or shortly thereafter. Ocular and neurologic changes may also occur.</Description>
+<Source>MeSH</Source>
+</Record>

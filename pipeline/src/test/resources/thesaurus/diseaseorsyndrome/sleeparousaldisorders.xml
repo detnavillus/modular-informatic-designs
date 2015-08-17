@@ -1,0 +1,21 @@
+<Record>
+<Term>Sleep Arousal Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Parasomnias</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/Sleep Arousal Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/Sleep Arousal Disorders</ClassificationPath>
+<BroaderTerm>Sleep Arousal Disorders</BroaderTerm>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Somnambulism</ChildTerm>
+<ChildTerm>Night Terrors</ChildTerm>
+<Synonym>Sleep Arousal Disorders</Synonym>
+<Synonym>Sleep Arousal Disorder</Synonym>
+<Synonym>Confusional Arousal</Synonym>
+<Synonym>Confusional Arousals</Synonym>
+<Description>Sleep disorders characterized by impaired arousal from the deeper stages of sleep (generally stage III or IV sleep).</Description>
+<Source>MeSH</Source>
+</Record>

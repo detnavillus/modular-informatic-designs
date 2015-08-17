@@ -1,0 +1,14 @@
+<Record>
+<Term>Acute Retinal Necrosis Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinitis</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinitis/Retinal Necrosis Syndrome, Acute</ClassificationPath>
+<BroaderTerm>Retinitis</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Retinal Necrosis Syndrome, Acute</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Acute Retinal Necrosis</Synonym>
+<Synonym>Acute Retinal Necroses</Synonym>
+<Description>Mild to fulminant necrotizing vaso-occlusive retinitis associated with a high incidence of retinal detachment and poor vision outcome.</Description>
+<Source>MeSH</Source>
+</Record>

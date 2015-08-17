@@ -1,0 +1,39 @@
+<Record>
+<Term>Pulmonary Sarcoidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sarcoidosis</ParentTerm>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Sarcoidosis, Pulmonary</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Sarcoidosis/Sarcoidosis, Pulmonary</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pulmonary Sarcoidosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Sarcoidosis/Pulmonary Sarcoidosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Sarcoidosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Sarcoidosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Sarcoidosis,</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Sarcoidosis, Pulmonary</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Lung Sarcoidosis</Synonym>
+<Synonym>Pulmonary Sarcoidosis</Synonym>
+<Synonym>Pulmonary Sarcoidoses</Synonym>
+<Description>Sarcoidosis affecting predominantly the lungs, the site most frequently involved and most commonly causing morbidity and mortality in sarcoidosis. Pulmonary sarcoidosis is characterized by sharply circumscribed granulomas in the alveolar, bronchial, and vascular walls, composed of tightly packed cells derived from the mononuclear phagocyte system. The clinical symptoms when present are dyspnea upon exertion, nonproductive cough, and wheezing. (Cecil Textbook of Medicine, 19th ed, p431)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

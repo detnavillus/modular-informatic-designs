@@ -1,0 +1,16 @@
+<Record>
+<Term>Synthetic Melanoma-Associated Antigens Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/Synthetic Melanoma-Associated Antigens Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Synthetic Melanoma-Associated Antigens Vaccine</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Synthetic Melanoma-Associated Antigens Vaccine</Synonym>
+<Description>A cancer vaccine containing synthetic epitope peptides derived from melanoma tumor-associated antigens (TAAs), including melanoma-melanocyte antigen gp100(280-288), melanoma-associated antigen tyrosinase(1-9), and melanoma-associated antigen melan-A(27-35). Upon administration, synthetic melanoma-associated antigens vaccine may stimulate a cytotoxic T-lymphocyte immune response against melanoma cells that express TAAs which share epitopes with the vaccine epitope peptides, resulting in tumor cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Non-Neoplastic Stomach Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Pathologic Function</SemanticType>
+<ParentTerm>Stomach Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Stomach Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Non-Neoplastic Stomach Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Stomach Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Stomach Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pyloric Stenosis</ChildTerm>
+<ChildTerm>Gastritis</ChildTerm>
+<ChildTerm>Gastric Diverticulitis</ChildTerm>
+<ChildTerm>Achlorhydria</ChildTerm>
+<ChildTerm>Gastric Xanthoma</ChildTerm>
+<ChildTerm>Gastric Ulcer</ChildTerm>
+<Synonym>Non-Neoplastic Stomach Disorder</Synonym>
+<Description>Diseases and disorders of the stomach which are non-neoplastic in nature.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

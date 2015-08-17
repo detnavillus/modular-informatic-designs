@@ -1,0 +1,21 @@
+<Record>
+<Term>Chronic Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Chronic</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis, Chronic</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<ChildTerm>Hepatitis, Autoimmune</ChildTerm>
+<ChildTerm>Hepatitis B, Chronic</ChildTerm>
+<ChildTerm>Hepatitis C, Chronic</ChildTerm>
+<ChildTerm>Hepatitis D, Chronic</ChildTerm>
+<Synonym>Chronic Hepatitis</Synonym>
+<Synonym>Chronic Active Hepatitis</Synonym>
+<Synonym>Chronic Persistent Hepatitides</Synonym>
+<Synonym>Chronic Persistent Hepatitis</Synonym>
+<Synonym>Cryptogenic Chronic Hepatitis</Synonym>
+<Description>INFLAMMATION of the LIVER with ongoing hepatocellular injury for 6 months or more, characterized by NECROSIS of HEPATOCYTES and inflammatory cell (LEUKOCYTES) infiltration. Chronic hepatitis can be caused by viruses, medications, autoimmune diseases, and other unknown factors.An aggressive form of chronic hepatitis involving extensive liver damage and cell injury beyond the portal tract.A mild form of chronic hepatitis causing limited damage to the liver.</Description>
+<Source>MeSH</Source>
+</Record>

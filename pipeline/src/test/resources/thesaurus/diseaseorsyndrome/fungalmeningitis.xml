@@ -1,0 +1,24 @@
+<Record>
+<Term>Fungal Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Fungal Infections</ParentTerm>
+<ParentTerm>Meningitis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Fungal Infections/Meningitis, Fungal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Central Nervous System Fungal Infections/Meningitis, Fungal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Fungal</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Meningitis, Fungal</BroaderTerm>
+<BroaderTerm>Central Nervous System Fungal Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Meningitis, Cryptococcal</ChildTerm>
+<Synonym>Fungal Meningitides</Synonym>
+<Synonym>Fungal Meningitis</Synonym>
+<Synonym>Fungal Pachymeningitis</Synonym>
+<Synonym>Fungal Pachymeningitides</Synonym>
+<Description>Meningitis caused by fungal agents which may occur as OPPORTUNISTIC INFECTIONS or arise in immunocompetent hosts.</Description>
+<Source>MeSH</Source>
+</Record>

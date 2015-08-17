@@ -1,0 +1,28 @@
+<Record>
+<Term>Thyrotoxicosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Hyperthyroidism</ParentTerm>
+<ParentTerm>Non-Neoplastic Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyrotoxicosis</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroidism/Thyrotoxicosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Thyrotoxicosis</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Hyperthyroidism</BroaderTerm>
+<BroaderTerm>Thyrotoxicosis</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Thyroid Crisis</ChildTerm>
+<Synonym>Thyrotoxicoses</Synonym>
+<Synonym>Thyrotoxicosis</Synonym>
+<Description>A hypermetabolic syndrome caused by excess THYROID HORMONES which may come from endogenous or exogenous sources. The endogenous source of hormone may be thyroid HYPERPLASIA; THYROID NEOPLASMS; or hormone-producing extrathyroidal tissue. Thyrotoxicosis is characterized by NERVOUSNESS; TACHYCARDIA; FATIGUE; WEIGHT LOSS; heat intolerance; and excessive SWEATING.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

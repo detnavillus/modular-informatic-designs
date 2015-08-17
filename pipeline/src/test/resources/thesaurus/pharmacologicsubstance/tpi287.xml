@@ -1,0 +1,24 @@
+<Record>
+<Term>TPI 287</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Taxane Compound/TPI 287,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/TPI 287</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>TPI 287</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Taxane Compound</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>TPI 287,</BroaderTerm>
+<Synonym>TPI 287</Synonym>
+<Description>A synthetic, third generation taxane with potential antineoplastic activity. TPI 287 binds to tubulin and stabilizes microtubules, resulting in inhibition of microtubule assembly/disassembly dynamics, cell cycle arrest at the G2/M phase, and apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

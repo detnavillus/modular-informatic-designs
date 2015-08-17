@@ -1,0 +1,31 @@
+<Record>
+<Term>Insulin Coma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Hypoglycemia</ParentTerm>
+<ParentTerm>Coma</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Coma/Insulin Coma</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hypoglycemia/Insulin Coma</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Nervous System Finding/Coma/Insulin Coma</ClassificationPath>
+<BroaderTerm>Unconsciousness</BroaderTerm>
+<BroaderTerm>Nervous System Finding</BroaderTerm>
+<BroaderTerm>Hypoglycemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Insulin Coma</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<BroaderTerm>Coma</BroaderTerm>
+<Synonym>Insulin Coma</Synonym>
+<Synonym>Insulin Shock</Synonym>
+<Description>Severe HYPOGLYCEMIA induced by a large dose of exogenous INSULIN resulting in a COMA or profound state of unconsciousness from which the individual cannot be aroused.Sudden significant drop in BLOOD GLUCOSE or hypoglycemic shock which affects the hemodynamic equilibrium of all vital organs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

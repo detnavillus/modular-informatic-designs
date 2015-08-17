@@ -1,0 +1,19 @@
+<Record>
+<Term>Blue Toe Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Embolism, Cholesterol</ParentTerm>
+<ParentTerm>Peripheral Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Embolism/Embolism, Fat/Embolism, Cholesterol/Blue Toe Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Blue Toe Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism, Cholesterol</BroaderTerm>
+<BroaderTerm>Embolism</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism, Fat</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Blue Toe Syndrome</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Blue Toe Syndrome</Synonym>
+<Description>A condition that is caused by recurring atheroembolism in the lower extremities. It is characterized by cyanotic discoloration of the toes, usually the first, fourth, and fifth toes. Discoloration may extend to the lateral aspect of the foot. Despite the gangrene-like appearance, blue toes may respond to conservative therapy without amputation.</Description>
+<Source>MeSH</Source>
+</Record>

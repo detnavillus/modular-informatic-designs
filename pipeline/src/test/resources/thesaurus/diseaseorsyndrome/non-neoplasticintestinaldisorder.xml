@@ -1,0 +1,29 @@
+<Record>
+<Term>Non-Neoplastic Intestinal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Non-Neoplastic Intestinal Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder,</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ischemic Bowel Disease</ChildTerm>
+<ChildTerm>Malabsorption Syndrome</ChildTerm>
+<ChildTerm>Duodenal Ulcer</ChildTerm>
+<ChildTerm>Bowel Obstruction</ChildTerm>
+<ChildTerm>Intestinal Pseudo-obstruction</ChildTerm>
+<ChildTerm>Enteritis</ChildTerm>
+<ChildTerm>Acute Appendicitis</ChildTerm>
+<ChildTerm>Megacolon</ChildTerm>
+<Synonym>Non-Neoplastic Intestinal Disorder</Synonym>
+<Description>Diseases and disorders of the intestine which are non-neoplastic in nature.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

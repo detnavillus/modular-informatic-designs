@@ -1,0 +1,18 @@
+<Record>
+<Term>Rectal Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Rectal Polyp</ClassificationPath>
+<BroaderTerm>Rectal Polyp</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Rectal Juvenile Polyp</ChildTerm>
+<Synonym>Polyp of Rectum</Synonym>
+<Synonym>Polyp of the Rectum</Synonym>
+<Synonym>Rectal Polyp</Synonym>
+<Description>This is a descriptive term referring of a mass of tissue that bulges or projects into the lumen of the rectum.  The mass is macroscopically visible and may either have a broad base attachment to the rectal wall, or be on a pedunculated stalk.  These may be benign or malignant.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

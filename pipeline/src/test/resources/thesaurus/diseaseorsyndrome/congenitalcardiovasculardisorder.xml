@@ -1,0 +1,17 @@
+<Record>
+<Term>Congenital Cardiovascular Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Cardiovascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Cardiovascular Disorder/Congenital Cardiovascular Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Patent Foramen Ovale</ChildTerm>
+<ChildTerm>Heart Malformation</ChildTerm>
+<Synonym>Congenital Cardiovascular Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

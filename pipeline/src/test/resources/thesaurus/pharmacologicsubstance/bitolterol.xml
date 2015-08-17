@@ -1,0 +1,33 @@
+<Record>
+<Term>Bitolterol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Bitolterol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Bitolterol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Bitolterol Mesylate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Bitolterol Mesylate</ClassificationPath>
+<BroaderTerm>Bitolterol</BroaderTerm>
+<BroaderTerm>Bitolterol Mesylate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Bitolterol,</BroaderTerm>
+<BroaderTerm>Bitolterol Mesylate,</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Bitolterol</Synonym>
+<Synonym>Bitolterol Mesylate</Synonym>
+<Synonym>BITOLTEROL</Synonym>
+<Synonym>Tornalate</Synonym>
+<Synonym>BITOLTEROL MESYLATE</Synonym>
+<Synonym>WIN 37284</Synonym>
+<Synonym>Alpha-[tert-butylaminomethyl]-3,4- dihydroxybenzyl alcohol 3,4-di(p-toluate) Methanesulfonate</Synonym>
+<Synonym>Bitolterol mesylate</Synonym>
+<Description>A diester sympathomimetic amine with bronchodilator activity. As an ester prodrug, bitolterol is hydrolyzed by esterases to its active metabolite colterol (N-t-butylarterenol). Colterol selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle. This increases air flow and prevents bronchospasms and may eventually lead to an improvement of airway function.</Description>
+<Description>The mesylate salt of bitolterol, a diester sympathomimetic amine with bronchodilator activity. As an ester prodrug, bitolterol is hydrolyzed by esterases to its active metabolite colterol (N-t-butylarterenol). Colterol selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle. This increases air flow and prevents bronchospasms and may eventually lead to an improvement of airway function.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

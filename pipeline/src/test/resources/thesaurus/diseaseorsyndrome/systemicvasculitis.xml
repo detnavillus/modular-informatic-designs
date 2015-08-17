@@ -1,0 +1,17 @@
+<Record>
+<Term>Systemic Vasculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Polyarteritis Nodosa</ChildTerm>
+<ChildTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ChildTerm>
+<ChildTerm>Rheumatoid Vasculitis</ChildTerm>
+<Synonym>Systemic Vasculitis</Synonym>
+<Synonym>Systemic Vasculitides</Synonym>
+<Description>A heterogeneous group of diseases characterized by inflammation and necrosis of the blood vessel walls.</Description>
+<Source>MeSH</Source>
+</Record>

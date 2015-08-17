@@ -1,0 +1,20 @@
+<Record>
+<Term>Calcium Metabolism Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Calcinosis</ChildTerm>
+<ChildTerm>Decalcification, Pathologic</ChildTerm>
+<ChildTerm>Pseudohypoparathyroidism</ChildTerm>
+<ChildTerm>Rickets</ChildTerm>
+<ChildTerm>Hypocalcemia</ChildTerm>
+<ChildTerm>Hypercalcemia</ChildTerm>
+<ChildTerm>Osteomalacia</ChildTerm>
+<Synonym>Calcium Metabolism Disorders</Synonym>
+<Synonym>Calcium Metabolism Disorder</Synonym>
+<Description>Disorders in the processing of calcium in the body: its absorption, transport, storage, and utilization.</Description>
+<Source>MeSH</Source>
+</Record>

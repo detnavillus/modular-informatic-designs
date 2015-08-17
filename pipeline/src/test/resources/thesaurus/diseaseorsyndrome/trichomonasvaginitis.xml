@@ -1,0 +1,32 @@
+<Record>
+<Term>Trichomonas Vaginitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vaginitis</ParentTerm>
+<ParentTerm>Trichomonas Infection</ParentTerm>
+<ParentTerm>Trichomonas Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Protozoal Infection/Trichomonas Infection/Trichomonas Vaginitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vaginal Diseases/Vaginitis/Trichomonas Vaginitis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Trichomonas Infections/Trichomonas Vaginitis</ClassificationPath>
+<BroaderTerm>Vaginitis</BroaderTerm>
+<BroaderTerm>Protozoal Infection</BroaderTerm>
+<BroaderTerm>Trichomonas Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Trichomonas Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Trichomonas Vaginitis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Vaginal Diseases</BroaderTerm>
+<Synonym>Trichomonas Vaginitides</Synonym>
+<Synonym>Trichomonas Vaginitis</Synonym>
+<Description>Inflammation of the vagina, marked by a purulent discharge. This disease is caused by the protozoan TRICHOMONAS VAGINALIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

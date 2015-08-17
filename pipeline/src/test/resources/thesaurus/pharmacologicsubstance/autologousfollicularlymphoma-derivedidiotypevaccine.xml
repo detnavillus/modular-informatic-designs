@@ -1,0 +1,16 @@
+<Record>
+<Term>Autologous Follicular Lymphoma-Derived Idiotype Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Autologous Follicular Lymphoma-Derived Idiotype Vaccine</ClassificationPath>
+<BroaderTerm>Autologous Follicular Lymphoma-Derived Idiotype Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Autologous Follicular Lymphoma-Derived Idiotype Vaccine</Synonym>
+<Description>A patient-specific cancer vaccine directed against the soluble protein idiotype of an individual follicular lymphoma with potential antineoplastic activity. A patient-specific follicular lymphoma-derived anti-idiotype vaccine may be composed of a patient-specific, synthetic idiotype-related peptide (such as one corresponding to a hypervariable region of an IgG heavy chain) conjugated to the immunostimulant carrier protein keyhole limpet hemocyanin (KLH). Upon administration, this vaccine may induce an idiotype-specific cytotoxic T-lymphocyte (CTL) response against follicular lymphoma cells expressing the idiotype, resulting in tumor cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

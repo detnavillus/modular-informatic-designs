@@ -1,0 +1,38 @@
+<Record>
+<Term>Neurotransmitter Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<SemanticType>Neuroreactive Substance or Biogenic Amine</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Excitatory Amino Acid Agents</ChildTerm>
+<ChildTerm>Neurotransmitter Uptake Inhibitors</ChildTerm>
+<ChildTerm>Adrenergic Agents</ChildTerm>
+<ChildTerm>Glycine Agents</ChildTerm>
+<ChildTerm>Histamine Agents</ChildTerm>
+<ChildTerm>Serotonin Agents</ChildTerm>
+<ChildTerm>Endocannabinoids</ChildTerm>
+<ChildTerm>Dopamine Agents</ChildTerm>
+<ChildTerm>GABA Agents</ChildTerm>
+<ChildTerm>Cholinergic Agents</ChildTerm>
+<Synonym>Neurohormones</Synonym>
+<Synonym>Nerve Transmitter Substances</Synonym>
+<Synonym>Neuroregulator</Synonym>
+<Synonym>Neurotransmitters</Synonym>
+<Synonym>Neuroregulators</Synonym>
+<Synonym>Neuromodulator</Synonym>
+<Synonym>Neuromodulators</Synonym>
+<Synonym>Neurotransmitter</Synonym>
+<Synonym>Neurosteroids</Synonym>
+<Synonym>Neurohumors</Synonym>
+<Synonym>Neurotransmitter Agents</Synonym>
+<Description>Substances used for their pharmacological actions on any aspect of neurotransmitter systems. Neurotransmitter agents include agonists, antagonists, degradation inhibitors, uptake inhibitors, depleters, precursors, and modulators of receptor function.Endogenous signaling molecules secreted by neurons that alter the behavior of neurons or effector cells. Neurotransmitter is used here in its most general sense, including not only messengers that act directly to regulate ion channels, but also those that act through second messenger systems, and those that act at a distance from their site of release. Included are neuromodulators, neuroregulators, neuromediators, neurohormones, and neurohumors, whether or not acting at synapses.Substances secreted by neurons into the blood, cns, or intercellular space.</Description>
+<Source>MeSH</Source>
+</Record>

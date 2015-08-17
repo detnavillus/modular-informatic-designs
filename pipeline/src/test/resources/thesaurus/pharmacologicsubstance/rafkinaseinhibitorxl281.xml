@@ -1,0 +1,18 @@
+<Record>
+<Term>RAF Kinase Inhibitor XL281</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Raf Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Serine Threonine Kinase Inhibitor/Raf Kinase Inhibitor/RAF Kinase Inhibitor XL281</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Serine Threonine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Raf Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>RAF Kinase Inhibitor XL281</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>RAF Kinase Inhibitor XL281</Synonym>
+<Synonym>XL281</Synonym>
+<Description>An orally active, small molecule with potential antineoplastic activity. XL281 specifically inhibits RAF kinases, located downstream from RAS in the RAS/RAF/MEK/ERK kinase signaling pathway, which may result in reduced proliferation of tumor cells. RAS mutations may result in constitutive activation of the RAS/RAF/MEK/ERK kinase signaling pathway, and have been found to occur frequently in human tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,41 @@
+<Record>
+<Term>Hypopituitarism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Endocrine Disorder</ParentTerm>
+<ParentTerm>Pituitary Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Hypopituitarism</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Hypopituitarism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hypopituitarism</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Hypopituitarism</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Dwarfism, Pituitary</ChildTerm>
+<Synonym>Anterior Pituitary Hyposecretion Syndrome</Synonym>
+<Synonym>Postpartum Panhypopituitarism</Synonym>
+<Synonym>Sheehan Syndrome</Synonym>
+<Synonym>Postpartum Hypopituitarism</Synonym>
+<Synonym>Simmonds Disease</Synonym>
+<Synonym>Simmonds' Disease</Synonym>
+<Synonym>Pituitary Insufficiency</Synonym>
+<Synonym>Simmond's Disease</Synonym>
+<Synonym>Adenohypophyseal Hyposecretion</Synonym>
+<Synonym>Postpartum Pituitary Insufficiency</Synonym>
+<Synonym>Hypopituitarism</Synonym>
+<Synonym>Sheehan's Syndrome</Synonym>
+<Synonym>Panhypopituitarism</Synonym>
+<Synonym>Sheehans Syndrome</Synonym>
+<Description>A condition of diminution or cessation of secretion of one or more hormones from the anterior pituitary gland. This may result from surgical or radiation ablation, non-secretory pituitary neoplasms, metastatic tumors, infarction, pituitary apoplexy, infiltrative or granulomatous processes, and other conditions.</Description>
+<Description>Diminution or cessation of secretion of one or more hormones from the anterior pituitary gland (including LH; FOLLICLE STIMULATING HORMONE; SOMATOTROPIN; and CORTICOTROPIN). This may result from surgical or radiation ablation, non-secretory PITUITARY NEOPLASMS, metastatic tumors, infarction, PITUITARY APOPLEXY, infiltrative or granulomatous processes, and other conditions.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

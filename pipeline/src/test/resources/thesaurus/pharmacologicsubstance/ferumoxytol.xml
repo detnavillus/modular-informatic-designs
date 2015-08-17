@@ -1,0 +1,19 @@
+<Record>
+<Term>Ferumoxytol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Ferumoxytol</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Ferumoxytol</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ferumoxytol</Synonym>
+<Synonym>Feraheme</Synonym>
+<Description>A superparamagnetic iron oxide nanoparticle coated with a low molecular weight semi-synthetic carbohydrate, polyglucose sorbitol carboxymethyl ether, with potential anti-anemic and imaging properties. After intravenous administration, ferumoxytol replaces iron stores with fewer side effects compared to the use of oral iron.  In addition, this agent generates T1 relaxation, producing a magnetic field and enhancing T2 relaxation, thereby darkening contrast media-containing structures in magnetic resonance imaging (MRI). Due to small particle size, ferumoxytol remains in the intravasculature for a prolonged period and so may be used as a blood pool agent. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

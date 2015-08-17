@@ -1,0 +1,32 @@
+<Record>
+<Term>Xerostomia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Salivary Gland Diseases</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Xerostomia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Xerostomia</ClassificationPath>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Xerostomia</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sjogren's Syndrome</ChildTerm>
+<Synonym>Mouth Dryness</Synonym>
+<Synonym>Xerostomia</Synonym>
+<Synonym>Dry Mouth</Synonym>
+<Synonym>Xerostomias</Synonym>
+<Synonym>Hyposalivations</Synonym>
+<Synonym>Hyposalivation</Synonym>
+<Synonym>Asialias</Synonym>
+<Synonym>Asialia</Synonym>
+<Synonym>xerostomia</Synonym>
+<Description>Decreased salivary flow.</Description>
+<Description>An oral condition in which salivary flow is reduced. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

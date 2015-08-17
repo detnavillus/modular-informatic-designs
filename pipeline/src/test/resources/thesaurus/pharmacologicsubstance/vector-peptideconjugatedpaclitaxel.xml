@@ -1,0 +1,19 @@
+<Record>
+<Term>Vector-peptide Conjugated Paclitaxel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Vector-peptide Conjugated Paclitaxel</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vector-peptide Conjugated Paclitaxel</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Taxol-Angiopep Conjugate</Synonym>
+<Synonym>Vector-peptide Conjugated Paclitaxel</Synonym>
+<Description>A proprietary conjugate of paclitaxel with antineoplastic activity. Similar to the free drug, the paclitaxel moiety in vector-peptide conjugated paclitaxel binds to and stabilizes tubulin molecules, promoting assembly of microtubules and inhibiting tubulin disassembly which results in the inhibition of cell division. The Kunitz domain-derived vector-peptide carries the conjugated paclitaxel through the blood brain barrier (BBB), bypassing the transmembrane p-glycoprotein (P-gp) efflux pump, which may result in higher concentrations of paclitaxel in the brain parenchyma.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

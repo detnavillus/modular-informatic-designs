@@ -1,0 +1,27 @@
+<Record>
+<Term>Eplerenone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Steroid Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Steroid Compound/Eplerenone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Eplerenone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Steroid Compound</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Eplerenone</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Eplerenone,</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>EPLERENONE</Synonym>
+<Synonym>Eplerenone</Synonym>
+<Synonym>9,11alpha-Epoxy-17-hydroxy-3-oxo-17alpha-pregn-4-ene-7alpha,21-dicarboxylic acid, gamma-lactone, Methyl Ester</Synonym>
+<Synonym>Inspra</Synonym>
+<Description>A selective aldosterone receptor antagonist. Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, thereby decreasing sodium resorption and subsequently increasing water outflow. This leads to a decrease in blood pressure. Eplerenone is used in the treatment of hypertension and congestive heart failure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

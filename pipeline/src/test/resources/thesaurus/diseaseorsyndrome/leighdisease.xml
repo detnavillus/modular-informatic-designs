@@ -1,0 +1,44 @@
+<Record>
+<Term>Leigh Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Pyruvate Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Mitochondrial Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Leigh Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors/Leigh Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Leigh Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Leigh Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors/Leigh Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Leigh Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Leigh Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pyruvate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Leigh Disease</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<Synonym>Subacute Necrotizing Encephalopathies</Synonym>
+<Synonym>Subacute Necrotizing Encephalomyelitis</Synonym>
+<Synonym>Leighs Disease</Synonym>
+<Synonym>Leigh Disease</Synonym>
+<Synonym>Leigh's Disease</Synonym>
+<Synonym>Subacute Necrotizing Encephalopathy</Synonym>
+<Synonym>Subacute Necrotizing Encephalomyelitides</Synonym>
+<Synonym>Subacute Necrotizing Encephalomyelopathies</Synonym>
+<Synonym>Leigh Syndrome</Synonym>
+<Synonym>Juvenile Subacute Necrotizing Encephalopathy</Synonym>
+<Synonym>Infantile Subacute Necrotizing Encephalopathy</Synonym>
+<Synonym>Juvenile Leigh Disease</Synonym>
+<Synonym>Infantile Leigh Disease</Synonym>
+<Synonym>Subacute Necrotizing Encephalomyelopathy</Synonym>
+<Description>A group of metabolic disorders primarily of infancy characterized by the subacute onset of psychomotor retardation, hypotonia, ataxia, weakness, vision loss, eye movement abnormalities, seizures, dysphagia, and lactic acidosis. Pathological features include spongy degeneration of the neuropile of the basal ganglia, thalamus, brain stem, and spinal cord. Patterns of inheritance include X-linked recessive, autosomal recessive, and mitochondrial. Leigh disease has been associated with mutations in genes for the PYRUVATE DEHYDROGENASE COMPLEX; CYTOCHROME-C OXIDASE; ATP synthase subunit 6; and subunits of mitochondrial complex I. (From Menkes, Textbook of Child Neurology, 5th ed, p850).</Description>
+<Source>MeSH</Source>
+</Record>

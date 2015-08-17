@@ -1,0 +1,15 @@
+<Record>
+<Term>Blepharoptosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eyelid Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Eyelid Diseases/Blepharoptosis</ClassificationPath>
+<BroaderTerm>Blepharoptosis</BroaderTerm>
+<BroaderTerm>Eyelid Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Blepharoptosis</Synonym>
+<Synonym>Blepharoptoses</Synonym>
+<Synonym>Eyelid Ptoses</Synonym>
+<Synonym>Eyelid Ptosis</Synonym>
+<Description>Drooping of the upper lid due to deficient development or paralysis of the levator palpebrae muscle.</Description>
+<Source>MeSH</Source>
+</Record>

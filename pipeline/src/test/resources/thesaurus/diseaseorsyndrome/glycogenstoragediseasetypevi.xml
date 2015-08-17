@@ -1,0 +1,24 @@
+<Record>
+<Term>Glycogen Storage Disease Type VI</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VI</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VI</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type VI</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>Hers' Disease</Synonym>
+<Synonym>Her Disease</Synonym>
+<Synonym>Glycogenosis 6</Synonym>
+<Synonym>Glycogen Storage Disease Type VI</Synonym>
+<Synonym>Hers Disease</Synonym>
+<Synonym>Glycogenosis Type VI</Synonym>
+<Synonym>Glycogenosis VI</Synonym>
+<Description>A hepatic GLYCOGEN STORAGE DISEASE in which there is an apparent deficiency of hepatic phosphorylase (GLYCOGEN PHOSPHORYLASE, LIVER FORM) activity.</Description>
+<Source>MeSH</Source>
+</Record>

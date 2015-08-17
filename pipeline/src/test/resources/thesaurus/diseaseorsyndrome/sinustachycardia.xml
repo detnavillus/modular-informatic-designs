@@ -1,0 +1,54 @@
+<Record>
+<Term>Sinus Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Supraventricular Tachycardia</ParentTerm>
+<ParentTerm>Tachycardia, Supraventricular</ParentTerm>
+<ParentTerm>Supraventricular and Nodal Arrhythmia Adverse Event</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Sinus</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Cardiac Arrhythmia/Supraventricular and Nodal Arrhythmia Adverse Event/Sinus Tachycardia Adverse Event</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Sinus</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Sinus Tachycardia</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Cardiac Arrhythmia</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Sinus Tachycardia Adverse Event</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Supraventricular and Nodal Arrhythmia Adverse Event</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tachycardia, Sinus</BroaderTerm>
+<BroaderTerm>Sinus Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Tachycardia, Supraventricular</BroaderTerm>
+<ChildTerm>CTCAE Grade 1 Sinus Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Sinus Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Sinus Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Sinus Tachycardia</ChildTerm>
+<ChildTerm>Inappropriate Sinus Tachycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Sinus Tachycardia</ChildTerm>
+<Synonym>SINUS TACHYCARDIA</Synonym>
+<Synonym>Sinus Tachycardias</Synonym>
+<Synonym>Sinus Tachycardia</Synonym>
+<Synonym>Sinus tachycardia</Synonym>
+<Synonym>Sinus Tachycardia Adverse Event</Synonym>
+<Description>A heart rate of more than 100 beats per minute, with its origin in the sinus node.</Description>
+<Description>Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

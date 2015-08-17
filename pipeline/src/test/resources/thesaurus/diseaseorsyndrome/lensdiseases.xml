@@ -1,0 +1,14 @@
+<Record>
+<Term>Lens Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Lens Diseases</ClassificationPath>
+<BroaderTerm>Lens Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Cataract</ChildTerm>
+<ChildTerm>Lens Subluxation</ChildTerm>
+<ChildTerm>Aphakia</ChildTerm>
+<Synonym>Lens Diseases</Synonym>
+<Synonym>Lens Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

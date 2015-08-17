@@ -1,0 +1,18 @@
+<Record>
+<Term>Escherichia coli Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Escherichia coli Infections</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Escherichia coli Infections</BroaderTerm>
+<ChildTerm>Meningitis, Escherichia coli</ChildTerm>
+<Synonym>Escherichia coli Infections</Synonym>
+<Synonym>Escherichia coli Infection</Synonym>
+<Synonym>E coli Infections</Synonym>
+<Synonym>E coli Infection</Synonym>
+<Description>Infections with bacteria of the species ESCHERICHIA COLI.</Description>
+<Source>MeSH</Source>
+</Record>

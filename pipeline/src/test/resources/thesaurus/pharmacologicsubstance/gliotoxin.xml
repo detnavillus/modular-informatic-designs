@@ -1,0 +1,31 @@
+<Record>
+<Term>Gliotoxin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ParentTerm>Mycotoxins</ParentTerm>
+<ParentTerm>Indoles</ParentTerm>
+<ClassificationPath>Biological Factors/Toxins, Biological/Mycotoxins/Gliotoxin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Aspergillin</ClassificationPath>
+<ClassificationPath>Heterocyclic Compounds/Heterocyclic Compounds, 2-Ring/Indoles/Gliotoxin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Gliotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mycotoxins</BroaderTerm>
+<BroaderTerm>Toxins, Biological</BroaderTerm>
+<BroaderTerm>Aspergillin</BroaderTerm>
+<BroaderTerm>Indoles</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds, 2-Ring</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Gliotoxin</Synonym>
+<Synonym>Aspergillin</Synonym>
+<Synonym>(3R,5aS,6S,10aR)-2,3,5a,6-Tetrahydro-6-hydroxy-3-(hydroxymethyl)-2-methyl-10H-3,10a-epidithiopyrazino[1,2-a]indole-1,4-dione</Synonym>
+<Synonym>Gliotoxins</Synonym>
+<Description>A fungal toxin produced by various species of Trichoderma, Gladiocladium fimbriatum, Aspergillus fumigatus, and Penicillium. It is used as an immunosuppressive agent.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

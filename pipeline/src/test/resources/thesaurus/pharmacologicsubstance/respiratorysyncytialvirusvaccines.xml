@@ -1,0 +1,16 @@
+<Record>
+<Term>Respiratory Syncytial Virus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Respiratory Syncytial Virus Vaccines</ClassificationPath>
+<BroaderTerm>Respiratory Syncytial Virus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Respiratory Syncytial Virus Vaccines</Synonym>
+<Synonym>RSV Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with RESPIRATORY SYNCYTIAL VIRUSES.</Description>
+<Source>MeSH</Source>
+</Record>

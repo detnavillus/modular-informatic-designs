@@ -1,0 +1,23 @@
+<Record>
+<Term>Rocuronium</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Muscle Relaxant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Muscle Relaxant/Rocuronium Bromide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Rocuronium Bromide</BroaderTerm>
+<BroaderTerm>Muscle Relaxant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Pyrrolidinium, 1-((2beta,3alpha,5alpha,16beta,17beta)-17-(acetyloxy)-3-hydroxy-2-(4-morpholinyl)androstan-16-yl)-1-(2-propenyl)-, Bromide</Synonym>
+<Synonym>Rocuronium</Synonym>
+<Synonym>ORG 9426</Synonym>
+<Synonym>Rocuronium Bromide</Synonym>
+<Synonym>Rocuronium bromide</Synonym>
+<Synonym>ROCURONIUM BROMIDE</Synonym>
+<Synonym>Zemuron</Synonym>
+<Description>The bromide salt form of rocuronium, an intermediate-acting quaternary aminosteroid with muscle relaxant property. Rocuronium bromide competitively binds to the nicotinic receptor at the motor end plate, and antagonizes acetylcholine binding, which results in skeletal muscle relaxation and paralysis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

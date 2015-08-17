@@ -1,0 +1,30 @@
+<Record>
+<Term>Cardiovascular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Vascular Diseases</ChildTerm>
+<ChildTerm>Heart Disorder</ChildTerm>
+<ChildTerm>Vascular Disorder</ChildTerm>
+<ChildTerm>Heart Diseases</ChildTerm>
+<ChildTerm>Pregnancy Complications, Cardiovascular</ChildTerm>
+<ChildTerm>Cardiovascular Abnormalities</ChildTerm>
+<ChildTerm>Cardiovascular Infections</ChildTerm>
+<ChildTerm>Non-Neoplastic Cardiovascular Disorder</ChildTerm>
+<Synonym>Cardiovascular Disorders</Synonym>
+<Synonym>Cardiovascular Disorder</Synonym>
+<Synonym>Cardiovascular Disease</Synonym>
+<Synonym>Cardiovascular Diseases</Synonym>
+<Description>Pathological conditions involving the CARDIOVASCULAR SYSTEM including the HEART; the BLOOD VESSELS; or the PERICARDIUM.</Description>
+<Description>A non-neoplastic or neoplastic disorder affecting the heart or the vessels (arteries, veins and lymph vessels).  Representative examples of non-neoplastic cardiovascular disorders are endocarditis and hypertension.  Representative examples of neoplastic cardiovascular disorders are endocardial myxoma and angiosarcoma. -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

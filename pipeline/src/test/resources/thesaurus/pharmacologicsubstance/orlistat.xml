@@ -1,0 +1,20 @@
+<Record>
+<Term>Orlistat</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Gastrointestinal Lipase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Gastrointestinal Lipase Inhibitor/Orlistat</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gastrointestinal Lipase Inhibitor</BroaderTerm>
+<BroaderTerm>Orlistat</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Xenical</Synonym>
+<Synonym>ORLISTAT</Synonym>
+<Synonym>Alli</Synonym>
+<Synonym>Orlistat</Synonym>
+<Description>A reversible active-site inhibitor of gastrointestinal lipases.  Orlistat forms a covalent bond with the active serine site in gastric and pancreatic lipases, thereby inhibiting their activity and preventing dietary fat from being hydrolyzed and absorbed. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

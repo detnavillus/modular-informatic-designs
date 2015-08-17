@@ -1,0 +1,23 @@
+<Record>
+<Term>Male Genital Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Urogenital</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Tuberculosis, Male Genital</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Tuberculosis, Urogenital/Tuberculosis, Male Genital</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Urogenital/Tuberculosis, Male Genital</ClassificationPath>
+<BroaderTerm>Tuberculosis, Urogenital</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Male Genital</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Male Genital Tuberculosis</Synonym>
+<Synonym>Male Genital Tuberculoses</Synonym>
+<Description>MYCOBACTERIUM infections of the male reproductive tract (GENITALIA, MALE).</Description>
+<Source>MeSH</Source>
+</Record>

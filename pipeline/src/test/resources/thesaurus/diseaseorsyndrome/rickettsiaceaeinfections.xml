@@ -1,0 +1,18 @@
+<Record>
+<Term>Rickettsiaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections</ClassificationPath>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Rickettsia Infections</ChildTerm>
+<ChildTerm>Pneumonia, Rickettsial</ChildTerm>
+<ChildTerm>Scrub Typhus</ChildTerm>
+<Synonym>Rickettsiaceae Infections</Synonym>
+<Synonym>Rickettsiaceae Infection</Synonym>
+<Synonym>Rickettsialpox</Synonym>
+<Description>Infections with bacteria of the family RICKETTSIACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

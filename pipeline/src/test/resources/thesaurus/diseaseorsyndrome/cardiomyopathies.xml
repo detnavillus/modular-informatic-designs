@@ -1,0 +1,37 @@
+<Record>
+<Term>Cardiomyopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies</ClassificationPath>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Cardiomyopathy, Alcoholic</ChildTerm>
+<ChildTerm>Cardiomyopathy, Dilated</ChildTerm>
+<ChildTerm>Cardiomyopathy, Hypertrophic</ChildTerm>
+<ChildTerm>Cardiomyopathy, Restrictive</ChildTerm>
+<ChildTerm>Chagas Cardiomyopathy</ChildTerm>
+<ChildTerm>Endocardial Fibroelastosis</ChildTerm>
+<ChildTerm>Endomyocardial Fibrosis</ChildTerm>
+<ChildTerm>Myocardial Reperfusion Injury</ChildTerm>
+<ChildTerm>Arrhythmogenic Right Ventricular Dysplasia</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type IIb</ChildTerm>
+<ChildTerm>Kearns-Sayre Syndrome</ChildTerm>
+<ChildTerm>Myocarditis</ChildTerm>
+<Synonym>Cardiomyopathies</Synonym>
+<Synonym>Cardiomyopathy</Synonym>
+<Synonym>Myocardial Diseases</Synonym>
+<Synonym>Myocardial Disease</Synonym>
+<Synonym>Myocardiopathies</Synonym>
+<Synonym>Myocardiopathy</Synonym>
+<Synonym>Secondary Cardiomyopathies</Synonym>
+<Synonym>Secondary Cardiomyopathy</Synonym>
+<Synonym>Secondary Myocardial Diseases</Synonym>
+<Synonym>Secondary Myocardial Disease</Synonym>
+<Synonym>Primary Cardiomyopathies</Synonym>
+<Synonym>Primary Cardiomyopathy</Synonym>
+<Synonym>Primary Myocardial Diseases</Synonym>
+<Synonym>Primary Myocardial Disease</Synonym>
+<Description>A group of diseases in which the dominant feature is the involvement of the CARDIAC MUSCLE itself. Cardiomyopathies are classified according to their predominant pathophysiological features (DILATED CARDIOMYOPATHY; HYPERTROPHIC CARDIOMYOPATHY; RESTRICTIVE CARDIOMYOPATHY) or their etiological/pathological factors (CARDIOMYOPATHY, ALCOHOLIC; ENDOCARDIAL FIBROELASTOSIS).</Description>
+<Source>MeSH</Source>
+</Record>

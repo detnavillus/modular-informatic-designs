@@ -1,0 +1,18 @@
+<Record>
+<Term>Spondylosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Spondylosis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Spondylolysis</ChildTerm>
+<Synonym>Spondylosis</Synonym>
+<Synonym>Thoracic Spondylosis</Synonym>
+<Synonym>Spondylosis Deformans</Synonym>
+<Synonym>Cervical Spondylosis</Synonym>
+<Synonym>Lumbarsacral Spondylosis</Synonym>
+<Description>A degenerative spinal disease that can involve any part of the VERTEBRA, the INTERVERTEBRAL DISK, and the surrounding soft tissue.A form of spondylosis involving the INTERVERTEBRAL DISK, including both the annulus and the nucleus of the disk. It is usually the consequence of normal aging.</Description>
+<Source>MeSH</Source>
+</Record>

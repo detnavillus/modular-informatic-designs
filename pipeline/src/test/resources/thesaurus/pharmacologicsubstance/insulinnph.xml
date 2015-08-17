@@ -1,0 +1,19 @@
+<Record>
+<Term>Insulin, NPH</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Insulin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Recombinant Insulin/Insulin, NPH</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Insulin</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Insulin, NPH</BroaderTerm>
+<Synonym>Humulin N</Synonym>
+<Synonym>Insulin, NPH</Synonym>
+<Synonym>Novolin N</Synonym>
+<Description>An intermediate-acting insulin used in the treatment of diabetes mellitus.  Administered once or twice daily, NPH (neutral protamine hagedorn) insulin lowers blood glucose within 1 to 2 hours after administration and exerts a peak effect at 6 to 10 hours.  Endogenous insulin, a pancreatic hormone composed of two polypeptide chains, is important in the normal metabolism of carbohydrates, proteins and fats, promoting glucose utilization and protein synthesis; it has anabolic effects on many types of tissues. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

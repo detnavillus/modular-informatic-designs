@@ -1,0 +1,34 @@
+<Record>
+<Term>Memory Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Memory Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Memory Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Korsakoff Syndrome</ChildTerm>
+<ChildTerm>Amnesia</ChildTerm>
+<Synonym>Memory Losses</Synonym>
+<Synonym>Cognitive Retention Disorder</Synonym>
+<Synonym>Memory Deficit</Synonym>
+<Synonym>Semantic Memory Disorder</Synonym>
+<Synonym>Spatial Memory Disorders</Synonym>
+<Synonym>Semantic Memory Disorders</Synonym>
+<Synonym>Memory Deficits</Synonym>
+<Synonym>Spatial Memory Disorder</Synonym>
+<Synonym>Age-Related Memory Disorders</Synonym>
+<Synonym>Age-Related Memory Disorder</Synonym>
+<Synonym>Memory Disorders</Synonym>
+<Synonym>Cognitive Retention Disorders</Synonym>
+<Synonym>Memory Loss</Synonym>
+<Synonym>Age Related Memory Disorders</Synonym>
+<Synonym>Memory Disorder</Synonym>
+<Description>Disturbances in registering an impression, in the retention of an acquired impression, or in the recall of an impression. Memory impairments are associated with DEMENTIA; CRANIOCEREBRAL TRAUMA; ENCEPHALITIS; ALCOHOLISM (see also ALCOHOL AMNESTIC DISORDER); SCHIZOPHRENIA; and other conditions.</Description>
+<Source>MeSH</Source>
+</Record>

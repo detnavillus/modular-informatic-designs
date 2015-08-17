@@ -1,0 +1,24 @@
+<Record>
+<Term>Pelvic Pain</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Pain</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Pain/Pelvic Pain</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Pain/Pelvic Pain</ClassificationPath>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Pelvic Pain</BroaderTerm>
+<BroaderTerm>Pain</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Piriformis Muscle Syndrome</ChildTerm>
+<ChildTerm>Dysmenorrhea</ChildTerm>
+<Synonym>Pelvic Pains</Synonym>
+<Synonym>Pelvic Pain</Synonym>
+<Description>Pain in the pelvic region of genital and non-genital origin and of organic or psychogenic etiology. Frequent causes of pain are distension or contraction of hollow viscera, rapid stretching of the capsule of a solid organ, chemical irritation, tissue ischemia, and neuritis secondary to inflammatory, neoplastic, or fibrotic processes in adjacent organs. (Kase, Weingold &amp; Gershenson: Principles and Practice of Clinical Gynecology, 2d ed, pp479-508)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

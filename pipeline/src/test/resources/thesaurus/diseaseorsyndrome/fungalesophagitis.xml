@@ -1,0 +1,24 @@
+<Record>
+<Term>Fungal Esophagitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection/Fungal Esophagitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Esophageal Disorder/Esophagitis/Fungal Esophagitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Fungal Esophagitis</ClassificationPath>
+<BroaderTerm>Fungal Esophagitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Fungal Esophagitis,</BroaderTerm>
+<BroaderTerm>Esophagitis</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<ChildTerm>Candida Esophagitis</ChildTerm>
+<Synonym>Fungal Esophagitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

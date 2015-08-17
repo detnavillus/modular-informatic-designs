@@ -1,0 +1,30 @@
+<Record>
+<Term>Cutaneous Syphilis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Syphilis</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Syphilis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Syphilis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Syphilis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Syphilis/Syphilis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Syphilis/Syphilis, Cutaneous</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Syphilis</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Syphilis, Cutaneous</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Syphilid</Synonym>
+<Synonym>Cutaneous Syphilis</Synonym>
+<Synonym>Skin Syphilis</Synonym>
+<Synonym>Syphilids</Synonym>
+<Description>Cutaneous lesions arising from infection with Treponema pallidum. In the primary stage, 18-21 days following infection, one or more chancres appear. If untreated, the subsequent stages of the disease appear as syphilids. These eruptions are superficial, nondestructive, exanthematic, transient, macular roseolas that may later be maculopapular or papular polymorphous or scaly, pustular, pigmented eruptions.(Arnold, Odom, and James, Andrew's Diseases of the Skin, 8th ed, p409)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Neuromuscular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases</ClassificationPath>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Peripheral Nervous System Diseases</ChildTerm>
+<ChildTerm>Neuromuscular Junction Diseases</ChildTerm>
+<ChildTerm>Muscular Diseases</ChildTerm>
+<ChildTerm>Motor Neuron Disease</ChildTerm>
+<ChildTerm>Muscular Atrophy, Spinal</ChildTerm>
+<ChildTerm>Fatigue Syndrome, Chronic</ChildTerm>
+<ChildTerm>Muscular Disorders, Atrophic</ChildTerm>
+<ChildTerm>Stiff-Person Syndrome</ChildTerm>
+<ChildTerm>Isaacs Syndrome</ChildTerm>
+<Synonym>Neuromuscular Diseases</Synonym>
+<Synonym>Neuromuscular Disease</Synonym>
+<Synonym>Foley-Denny-Brown Syndrome</Synonym>
+<Synonym>Foley Denny Brown Syndrome</Synonym>
+<Synonym>Benign Fasciculation-Cramp Syndrome</Synonym>
+<Synonym>Benign Fasciculation-Cramp Syndromes</Synonym>
+<Synonym>Cramp-Fasciculation Syndrome</Synonym>
+<Synonym>Cramp Fasciculation Syndrome</Synonym>
+<Synonym>Cramp-Fasciculation Syndromes</Synonym>
+<Synonym>Oppenheim Disease</Synonym>
+<Synonym>Oppenheim's Disease</Synonym>
+<Synonym>Oppenheims Disease</Synonym>
+<Synonym>Amyotonia Congenita</Synonym>
+<Description>A general term encompassing lower MOTOR NEURON DISEASE; PERIPHERAL NERVOUS SYSTEM DISEASES; and certain MUSCULAR DISEASES. Manifestations include MUSCLE WEAKNESS; FASCICULATION; muscle ATROPHY; SPASM; MYOKYMIA; MUSCLE HYPERTONIA, myalgias, and MUSCLE HYPOTONIA.</Description>
+<Source>MeSH</Source>
+</Record>

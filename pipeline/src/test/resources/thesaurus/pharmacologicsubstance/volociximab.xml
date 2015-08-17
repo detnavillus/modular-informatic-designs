@@ -1,0 +1,17 @@
+<Record>
+<Term>Volociximab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Volociximab</ClassificationPath>
+<BroaderTerm>Volociximab</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M200</Synonym>
+<Synonym>Volociximab</Synonym>
+<Synonym>anti-a5-beta1 Integrin</Synonym>
+<Description>A chimeric monoclonal antibody with potential antineoplastic activity. Volociximab binds to and inhibits the activity of alpha(5)beta(1) integrin, thereby inhibiting endothelial cell-cell interactions, endothelial cell-matrix interactions, and angiogenesis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

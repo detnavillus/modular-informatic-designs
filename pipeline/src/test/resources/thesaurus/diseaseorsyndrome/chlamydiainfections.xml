@@ -1,0 +1,31 @@
+<Record>
+<Term>Chlamydia Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sexually Transmitted Diseases, Bacterial</ParentTerm>
+<ParentTerm>Chlamydiaceae Infections</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chlamydia Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections/Chlamydia Infections</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chlamydia Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Chlamydia Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Sexually Transmitted Diseases, Bacterial/Chlamydia Infections</ClassificationPath>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Chlamydia Infections</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Lymphogranuloma Venereum</ChildTerm>
+<ChildTerm>Conjunctivitis, Inclusion</ChildTerm>
+<ChildTerm>Trachoma</ChildTerm>
+<Synonym>Chlamydia Infection</Synonym>
+<Synonym>Chlamydia Infections</Synonym>
+<Description>Infections with bacteria of the genus CHLAMYDIA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Angiomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Angiomatosis</ClassificationPath>
+<ClassificationPath>Angiomatosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Angiomatosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>von Hippel-Lindau Disease</ChildTerm>
+<ChildTerm>Angiomatosis, Bacillary</ChildTerm>
+<ChildTerm>Klippel-Trenaunay-Weber Syndrome</ChildTerm>
+<ChildTerm>Sturge-Weber Syndrome</ChildTerm>
+<Synonym>Angiomatoses</Synonym>
+<Synonym>Angiomatosis</Synonym>
+<Synonym>Diffuse Hemangioma</Synonym>
+<Synonym>Diffuse Angiomatosis</Synonym>
+<Description>A benign diffuse vascular neoplasm usually occurring in young adults.  It is characterized by the formation of capillary-sized and cavernous vascular spaces.  Patients present with diffuse persistent swelling.</Description>
+<Description>A condition with multiple tumor-like lesions caused either by congenital or developmental malformations of BLOOD VESSELS, or reactive vascular proliferations, such as in bacillary angiomatosis. Angiomatosis is considered non-neoplastic.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

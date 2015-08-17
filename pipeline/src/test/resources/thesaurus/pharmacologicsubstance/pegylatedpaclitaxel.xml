@@ -1,0 +1,25 @@
+<Record>
+<Term>Pegylated Paclitaxel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Taxane Compound/Pegylated Paclitaxel,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Pegylated Paclitaxel</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pegylated Paclitaxel</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Pegylated Paclitaxel,</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Taxane Compound</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Pegylated Paclitaxel</Synonym>
+<Description>A formulation of polyethylene glycol (PEG) conjugated paclitaxel, a compound extracted from the Pacific yew tree Taxus brevifolia, with antineoplastic activity. Paclitaxel binds to and stabilizes tubulin molecules, thereby interfering with the dynamics of microtubule assembly/disassembly and resulting in the inhibition of cell division. This agent also induces apoptosis by binding to and blocking the function of the apoptosis inhibitor protein B-cell Leukemia 2 (Bcl-2). Compared to paclitaxel alone, pegylated paclitaxel has an enhanced water solubility leading to an increase in bioavailability, and decreases its toxicity profile. Therefore, the pegylated formulation potentially supports delivery of higher doses of paclitaxel to the specific site.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Peripheral Nervous System Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases</ClassificationPath>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Acrodynia</ChildTerm>
+<ChildTerm>Mononeuropathies</ChildTerm>
+<ChildTerm>Nerve Compression Syndromes</ChildTerm>
+<ChildTerm>Complex Regional Pain Syndromes</ChildTerm>
+<ChildTerm>Neuralgia</ChildTerm>
+<ChildTerm>Polyneuropathies</ChildTerm>
+<ChildTerm>Diabetic Neuropathies</ChildTerm>
+<ChildTerm>Pain Insensitivity, Congenital</ChildTerm>
+<ChildTerm>Peripheral Nervous System Neoplasms</ChildTerm>
+<ChildTerm>Radiculopathy</ChildTerm>
+<ChildTerm>Amyloid Neuropathies</ChildTerm>
+<ChildTerm>Guillain-Barre Syndrome</ChildTerm>
+<ChildTerm>Isaacs Syndrome</ChildTerm>
+<ChildTerm>Brachial Plexus Neuropathies</ChildTerm>
+<ChildTerm>Neuritis</ChildTerm>
+<ChildTerm>Tarlov Cysts</ChildTerm>
+<ChildTerm>Hand-Arm Vibration Syndrome</ChildTerm>
+<ChildTerm>Giant Axonal Neuropathy</ChildTerm>
+<ChildTerm>Neurofibromatosis 1</ChildTerm>
+<Synonym>Peripheral Nervous System Diseases</Synonym>
+<Synonym>Peripheral Nervous System Disease</Synonym>
+<Synonym>PNS Diseases</Synonym>
+<Synonym>PNS Disease</Synonym>
+<Synonym>Peripheral Neuropathies</Synonym>
+<Synonym>Peripheral Neuropathy</Synonym>
+<Synonym>PNS (Peripheral Nervous System) Diseases</Synonym>
+<Synonym>Peripheral Nerve Diseases</Synonym>
+<Synonym>Peripheral Nerve Disease</Synonym>
+<Synonym>Peripheral Nervous System Disorders</Synonym>
+<Description>Diseases of the peripheral nerves external to the brain and spinal cord, which includes diseases of the nerve roots, ganglia, plexi, autonomic nerves, sensory nerves, and motor nerves.</Description>
+<Source>MeSH</Source>
+</Record>

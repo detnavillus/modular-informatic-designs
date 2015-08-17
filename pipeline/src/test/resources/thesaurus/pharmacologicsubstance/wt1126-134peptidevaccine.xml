@@ -1,0 +1,16 @@
+<Record>
+<Term>WT1 126-134 Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/WT1 126-134 Peptide Vaccine</ClassificationPath>
+<BroaderTerm>WT1 126-134 Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>WT1 126-134 Peptide Vaccine</Synonym>
+<Description>A synthetic peptide vaccine consisting of the amino acids 126 through 134 of the human Wilms' Tumor protein-1 (WT1) with potential antitumor activity. WT1, a tumor associated antigen, is overexpressed in most types of leukemia and in a variety of solid cancers. Vaccination with WT1 126-134 peptide vaccine may induce a WT1-specific cytotoxic T-lymphocyte (CTL) response against WT1 expressing cells, resulting in cell lysis and inhibition of cancer cell proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

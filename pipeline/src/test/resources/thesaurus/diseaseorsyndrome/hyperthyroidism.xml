@@ -1,0 +1,35 @@
+<Record>
+<Term>Hyperthyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Hyperthyroidism,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Hyperthyroidism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroidism</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hyperthyroidism,</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Hyperthyroidism</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Toxic Nodular Goiter</ChildTerm>
+<ChildTerm>Graves' Disease</ChildTerm>
+<ChildTerm>Thyrotoxicosis</ChildTerm>
+<ChildTerm>Graves Disease</ChildTerm>
+<Synonym>hyperthyroidism</Synonym>
+<Synonym>overactive thyroid</Synonym>
+<Synonym>Hyperthyroidism</Synonym>
+<Synonym>Overactive Thyroid</Synonym>
+<Description>Hypersecretion of THYROID HORMONES from the THYROID GLAND. Elevated levels of thyroid hormones increase BASAL METABOLIC RATE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Mouse gp100 Plasmid DNA Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Mouse gp100 Plasmid DNA Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mouse gp100 Plasmid DNA Vaccine</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Mouse gp100 Plasmid DNA Vaccine</Synonym>
+<Description>A vaccine consisting of a plasmid DNA encoding the murine melanoma-associated antigen gp100. Upon administration, expressed gp100 antigen may stimulate a cytotoxic T cell HLA-A2.1-restricted immune response against tumor cells that express the gp100 antigen, resulting in tumor cell lysis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Protein Synthesis Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Protein Synthesis Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Protein Synthesis Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Protein Synthesis Inhibitors</Synonym>
+<Synonym>Protein Synthesis Antagonists</Synonym>
+<Description>Compounds which inhibit the synthesis of proteins. They are usually ANTI-BACTERIAL AGENTS or toxins. Mechanism of the action of inhibition includes the interruption of peptide-chain elongation, the blocking the A site of ribosomes, the misreading of the genetic code or the prevention of the attachment of oligosaccharide side chains to glycoproteins.</Description>
+<Source>MeSH</Source>
+</Record>

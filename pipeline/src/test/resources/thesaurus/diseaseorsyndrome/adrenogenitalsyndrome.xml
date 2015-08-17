@@ -1,0 +1,21 @@
+<Record>
+<Term>Adrenogenital Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sex Differentiation Disorders</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Sex Differentiation Disorders/Adrenogenital Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Adrenogenital Syndrome</ClassificationPath>
+<BroaderTerm>Sex Differentiation Disorders</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adrenogenital Syndrome</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Adrenogenital Syndrome</Synonym>
+<Synonym>Adrenogenital Syndromes</Synonym>
+<Description>Abnormal SEX DIFFERENTIATION caused by disorders of the GONADS or the ADRENAL GLANDS, such as CONGENITAL ADRENAL HYPERPLASIA and ADRENAL CORTEX NEOPLASMS. Due to abnormal steroid biosynthesis, clinical features include VIRILISM in females; FEMINIZATION in males; or precocious sexual development in children.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

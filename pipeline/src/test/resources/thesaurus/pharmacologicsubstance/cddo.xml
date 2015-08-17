@@ -1,0 +1,22 @@
+<Record>
+<Term>CDDO</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Triterpenoid Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Phytochemical/Triterpenoid Compound/CDDO,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Phase II Enzymes Inducer/CDDO</ClassificationPath>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>CDDO</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Triterpenoid Compound</BroaderTerm>
+<BroaderTerm>CDDO,</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Phytochemical</BroaderTerm>
+<BroaderTerm>Phase II Enzymes Inducer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-Cyano-3,12-dioxoolean-1,9-dien-28-oic Acid</Synonym>
+<Synonym>2-Cyano-3,12-dioxooleana-1,9(11)-dien-28-oic Acid</Synonym>
+<Synonym>CDDO</Synonym>
+<Description>A synthetic, triterpenoid compound with anticancer and anti-inflammatory activities. CDDO blocks the synthesis of inducible nitric oxide synthase (iNOS) and inducible cyclooxygenase (COX-2), two enzymes involved in inflammation and carcinogenesis. This agent also inhibits the interleukin-1 (IL-1)-induced expression of the pro-inflammatory proteins matrix metalloproteinase-1 (MMP-1) and matrix metalloproteinase-13 (MMP-13) and the expression of Bcl-3, an IL-1-responsive gene that preferentially contributes to MMP-1 gene expression.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Hemochromatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Iron Overload</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hemochromatosis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Iron Metabolism Disorders/Iron Overload/Hemochromatosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hemochromatosis</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hemochromatosis</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Iron Overload</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Iron Metabolism Disorders</BroaderTerm>
+<Synonym>Bronze Diabetes</Synonym>
+<Synonym>Hemochromatosis</Synonym>
+<Synonym>Hemochromatoses</Synonym>
+<Description>A disorder due to the deposition of hemosiderin in the parenchymal cells, causing tissue damage and dysfunction of the liver, pancreas, heart, and pituitary. Full development of the disease in women is restricted by menstruation, pregnancy, and lower dietary intake of iron. Acquired hemochromatosis may be the result of blood transfusions, excessive dietary iron, or secondary to other disease. Idiopathic or genetic hemochromatosis is an autosomal recessive disorder of metabolism associated with a gene tightly linked to the A locus of the HLA complex on chromosome 6. (From Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Pyruvate Kinase Inhibitor TLN-232</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Pyruvate Kinase Inhibitor TLN-232,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Pyruvate Kinase Inhibitor TLN-232</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pyruvate Kinase Inhibitor TLN-232,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Pyruvate Kinase Inhibitor TLN-232</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CAP-232</Synonym>
+<Synonym>Pyruvate Kinase Inhibitor TLN-232</Synonym>
+<Description>A synthetic cyclic heptapeptide with potential antineoplastic activity. Pyruvate kinase (PK) inhibitor TLN-232 targets pyruvate kinase M2 (M2PK), which may disrupt tumor cell anaerobic glycolysis. M2PK is a dimeric isoform of PK and the predominant PK isoform found in tumor cells</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

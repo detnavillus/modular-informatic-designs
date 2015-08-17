@@ -1,0 +1,16 @@
+<Record>
+<Term>Trench Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bartonella Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bartonellaceae Infections/Bartonella Infections/Trench Fever</ClassificationPath>
+<BroaderTerm>Bartonellaceae Infections</BroaderTerm>
+<BroaderTerm>Bartonella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Trench Fever</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Trench Fever</Synonym>
+<Synonym>Trench Fevers</Synonym>
+<Description>An intermittent fever characterized by intervals of chills, fever, and splenomegaly each of which may last as long as 40 hours. It is caused by BARTONELLA QUINTANA and transmitted by the human louse.</Description>
+<Source>MeSH</Source>
+</Record>

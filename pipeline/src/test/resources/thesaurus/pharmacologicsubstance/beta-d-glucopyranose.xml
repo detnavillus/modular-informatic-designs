@@ -1,0 +1,21 @@
+<Record>
+<Term>Beta-D-Glucopyranose</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Carbohydrate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Carbohydrate/Beta-D-Glucopyranose</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Carbohydrate/Beta-D-Glucopyranose Monohydrate</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Beta-D-Glucopyranose</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Carbohydrate</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Beta-D-Glucopyranose Monohydrate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Beta-D-Glucopyranose</Synonym>
+<Synonym>.BETA.-D-GLUCOPYRANOSE</Synonym>
+<Synonym>Beta-D-Glucopyranose Monohydrate</Synonym>
+<Synonym>.BETA.-D-GLUCOPYRANOSE, MONOHYDRATE</Synonym>
+<Description>The beta isoform of D-glucopyranose, a synthetic simple monosaccharide as an energy source. D-glucopyranose is oxidized in various tissues either under aerobic or anaerobic conditions through glycolysis, and the oxidation reaction produces carbon dioxide, water and ATP.</Description>
+<Description>The monohydrate form of the beta isoform of D-glucopyranose, a synthetic simple monosaccharide as an energy source. D-glucopyranose is oxidized in various tissues either under aerobic or anaerobic conditions through glycolysis, and the oxidation reaction produces carbon dioxide, water and ATP.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

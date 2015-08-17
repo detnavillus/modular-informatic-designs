@@ -1,0 +1,20 @@
+<Record>
+<Term>Enterovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Picornaviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections</ClassificationPath>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Conjunctivitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Coxsackievirus Infections</ChildTerm>
+<ChildTerm>Echovirus Infections</ChildTerm>
+<ChildTerm>Encephalomyelitis, Enzootic Porcine</ChildTerm>
+<ChildTerm>Poliomyelitis</ChildTerm>
+<ChildTerm>Swine Vesicular Disease</ChildTerm>
+<ChildTerm>Hepatitis A</ChildTerm>
+<Synonym>Enterovirus Infections</Synonym>
+<Synonym>Enterovirus Infection</Synonym>
+<Source>MeSH</Source>
+</Record>

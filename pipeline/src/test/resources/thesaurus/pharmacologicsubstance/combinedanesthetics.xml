@@ -1,0 +1,18 @@
+<Record>
+<Term>Combined Anesthetics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anesthetics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Anesthetics/Anesthetics, Combined</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Anesthetics/Anesthetics, Combined</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anesthetics</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Anesthetics, Combined</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Combined Anesthetics</Synonym>
+<Description>The use of two or more chemicals simultaneously or sequentially to induce anesthesia. The drugs need not be in the same dosage form.</Description>
+<Source>MeSH</Source>
+</Record>

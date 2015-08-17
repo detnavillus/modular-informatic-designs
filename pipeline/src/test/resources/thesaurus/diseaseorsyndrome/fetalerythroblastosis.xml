@@ -1,0 +1,33 @@
+<Record>
+<Term>Fetal Erythroblastosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Group Incompatibility</ParentTerm>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Fetal Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Group Incompatibility/Erythroblastosis, Fetal</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Blood Group Incompatibility/Erythroblastosis, Fetal</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases/Erythroblastosis, Fetal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Erythroblastosis, Fetal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Fetal Diseases/Erythroblastosis, Fetal</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Blood Group Incompatibility</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Erythroblastosis, Fetal</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Kernicterus</ChildTerm>
+<ChildTerm>Hydrops Fetalis</ChildTerm>
+<Synonym>Newborn Hemolytic Diseases</Synonym>
+<Synonym>Erythroblastosis Fetali</Synonym>
+<Synonym>Fetal Erythroblastoses</Synonym>
+<Synonym>Fetal Erythroblastosis</Synonym>
+<Synonym>Erythroblastosis Fetalis</Synonym>
+<Synonym>Newborn Hemolytic Disease</Synonym>
+<Synonym>Hemolytic Disease of Newborn</Synonym>
+<Description>A condition characterized by the abnormal presence of ERYTHROBLASTS in the circulation of the FETUS or NEWBORNS. It is a disorder due to BLOOD GROUP INCOMPATIBILITY, such as the maternal alloimmunization by fetal antigen RH FACTORS leading to HEMOLYSIS of ERYTHROCYTES, hemolytic anemia (ANEMIA, HEMOLYTIC), general edema (HYDROPS FETALIS), and SEVERE JAUNDICE IN NEWBORN.</Description>
+<Source>MeSH</Source>
+</Record>

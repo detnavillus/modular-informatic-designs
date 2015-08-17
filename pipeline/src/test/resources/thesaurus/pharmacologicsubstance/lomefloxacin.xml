@@ -1,0 +1,29 @@
+<Record>
+<Term>Lomefloxacin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Quinolone Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Quinolone Compound/Lomefloxacin Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Quinolone Compound/Lomefloxacin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Quinolone Compound</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Lomefloxacin Hydrochloride</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Lomefloxacin</BroaderTerm>
+<Synonym>Mazaquin</Synonym>
+<Synonym>NY 198</Synonym>
+<Synonym>(+-)-1-Ethyl-6,8-difluoro-1,4-dihydro-7-(3-methyl-1-piperazinyl)-4-oxo-3-quinolinecarboxylic acid, monohydrochloride</Synonym>
+<Synonym>Lomefloxacin hydrochloride</Synonym>
+<Synonym>LOMEFLOXACIN</Synonym>
+<Synonym>LOMEFLOXACIN HYDROCHLORIDE</Synonym>
+<Synonym>Lomefloxacin Hydrochloride</Synonym>
+<Synonym>Maxaquin</Synonym>
+<Synonym>Lomefloxacin</Synonym>
+<Description>The hydrochloride salt form of lomefloxacin, a synthetic broad-spectrum fluoroquinolone with antibacterial activity. Lomefloxacin hydrochloride inhibits DNA gyrase, a type II topoisomerase involved in the induction or relaxation of supercoiling during DNA replication. This inhibition leads to a decrease in DNA synthesis during bacterial replication, resulting in cell growth inhibition and eventually cell lysis.</Description>
+<Description>A synthetic broad-spectrum fluoroquinolone with antibacterial activity. Lomefloxacin inhibits DNA gyrase, a type II topoisomerase involved in the induction or relaxation of supercoiling during DNA replication. This inhibition leads to a decrease in DNA synthesis during bacterial replication, resulting in cell growth inhibition and eventually cell lysis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

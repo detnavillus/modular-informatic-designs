@@ -1,0 +1,16 @@
+<Record>
+<Term>Tasquinimod</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiogenesis Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Tasquinimod</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Tasquinimod</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ABR-215050</Synonym>
+<Synonym>Tasquinimod</Synonym>
+<Description>A quinoline-3-carboxamide linomide analogue with antiangiogenic and potential antineoplastic activities. Tasquinimod has been shown to decrease blood vessel density but the exact mechanism of action is not known. This agent has also been shown to augment the antineoplastic effects of docetaxel and androgen ablation in a murine model of prostate cancer involving human prostate cancer xenografts.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

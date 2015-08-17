@@ -1,0 +1,34 @@
+<Record>
+<Term>Exostosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Musculoskeletal System and Soft Tissue</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Musculoskeletal System and Soft Tissue/Exostosis Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Exostosis</ClassificationPath>
+<BroaderTerm>Exostosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Exostosis Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Musculoskeletal System and Soft Tissue</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Exostosis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Exostosis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Exostosis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Exostosis</ChildTerm>
+<ChildTerm>Hereditary Multiple Exostoses</ChildTerm>
+<ChildTerm>Heberden's Node</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Exostosis</ChildTerm>
+<Synonym>Bone Spur</Synonym>
+<Synonym>Exostosis</Synonym>
+<Synonym>Exostosis Adverse Event</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

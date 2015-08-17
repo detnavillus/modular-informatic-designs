@@ -1,0 +1,24 @@
+<Record>
+<Term>Bacteremia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Sepsis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sepsis/Bacteremia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Bacteremia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Bacteremia</ClassificationPath>
+<BroaderTerm>Bacteremia</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Hemorrhagic Septicemia</ChildTerm>
+<ChildTerm>Endotoxemia</ChildTerm>
+<Synonym>Bacteremia</Synonym>
+<Synonym>Bacteremias</Synonym>
+<Description>The presence of viable bacteria circulating in the blood. Fever, chills, tachycardia, and tachypnea are common acute manifestations of bacteremia. The majority of cases are seen in already hospitalized patients, most of whom have underlying diseases or procedures which render their bloodstreams susceptible to invasion.</Description>
+<Source>MeSH</Source>
+</Record>

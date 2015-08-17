@@ -1,0 +1,41 @@
+<Record>
+<Term>Asthma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Obstructive</ParentTerm>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ParentTerm>Respiratory Hypersensitivity</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Asthma</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Asthma</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Asthma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Asthma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Asthma</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Asthma</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Asthma, Exercise-Induced</ChildTerm>
+<ChildTerm>Asthma, Aspirin-Induced</ChildTerm>
+<ChildTerm>Status Asthmaticus</ChildTerm>
+<ChildTerm>Chronic Obstructive Asthma</ChildTerm>
+<Synonym>Asthma</Synonym>
+<Synonym>Asthmas</Synonym>
+<Synonym>Bronchial Asthma</Synonym>
+<Description>A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.</Description>
+<Description>A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

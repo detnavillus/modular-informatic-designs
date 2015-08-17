@@ -1,0 +1,23 @@
+<Record>
+<Term>Terameprocol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Groove Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Groove Binding Agent/Terameprocol</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Terameprocol</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Groove Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>1,1'-(2,3-Dimethyl-1,4-butanediyl)bis(3,4-dimethoxybenzene)</Synonym>
+<Synonym>EM-1421</Synonym>
+<Synonym>M4N</Synonym>
+<Synonym>TMNDGA</Synonym>
+<Synonym>Terameprocol</Synonym>
+<Synonym>Tetra-O-methyl Nordihydroguaiaretic Acid</Synonym>
+<Synonym>Tetra-O-methyl-NDGA</Synonym>
+<Synonym>Tetramethoxynordihydroguaiaretic Acid</Synonym>
+<Description>A synthetic tetra-methylated derivative of nordihydroguaiaretic acid (NDGA) and transcriptional inhibitor with potential antiviral, antiangiogenic, and antineoplastic activities. Terameprocol competes with the transcription factor Sp1 for specific Sp1 DNA binding domains within gene promoter regions during DNA synthesis. In virally-infected cells, blocking of the Sp1 binding site suppresses Sp1-regulated viral promoter activity and gene expression, thereby inhibiting viral transcription and replication. In tumor cells, blockage of Sp1 binding sites by this agent interferes with the transcription of the Sp1-dependant genes cyclin-dependant kinase (Cdc2), survivin, and vascular endothelial growth factor (VEGF), which are overexpressed in a variety of cancers. By suppressing Sp1-regulated transcription of these genes, terameprocol may reduce tumor angiogenesis and tumor cell proliferation and induce tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

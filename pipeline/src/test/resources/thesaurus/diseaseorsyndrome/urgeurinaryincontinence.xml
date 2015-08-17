@@ -1,0 +1,24 @@
+<Record>
+<Term>Urge Urinary Incontinence</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Urinary Incontinence</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence/Urinary Incontinence, Urge</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Urinary Incontinence/Urinary Incontinence, Urge</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Urological Manifestations/Urinary Incontinence/Urinary Incontinence, Urge</ClassificationPath>
+<BroaderTerm>Urinary Incontinence, Urge</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Urinary Incontinence</BroaderTerm>
+<BroaderTerm>Urological Manifestations</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Urge Incontinence</Synonym>
+<Synonym>Urinary Reflex Incontinence</Synonym>
+<Synonym>Urinary Urge Incontinence</Synonym>
+<Description>Involuntary discharge of URINE that is associated with an abrupt and strong desire to void. It is usually related to the involuntary contractions of the detrusor muscle of the bladder (detrusor hyperreflexia or detrusor instability).</Description>
+<Source>MeSH</Source>
+</Record>

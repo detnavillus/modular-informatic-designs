@@ -1,0 +1,24 @@
+<Record>
+<Term>Acute Kidney Tubular Necrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Failure, Acute</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Acute/Kidney Tubular Necrosis, Acute</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Acute/Kidney Tubular Necrosis, Acute</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute/Kidney Failure, Acute/Kidney Tubular Necrosis, Acute</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute/Kidney Failure, Acute/Kidney Tubular Necrosis, Acute</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Failure</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Failure, Acute</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency, Acute</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Kidney Tubular Necrosis, Acute</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Acute Kidney Tubular Necrosis</Synonym>
+<Synonym>Lower Nephron Nephrosis</Synonym>
+<Synonym>Lower Nephron Nephroses</Synonym>
+<Description>Acute kidney failure resulting from destruction of EPITHELIAL CELLS of the KIDNEY TUBULES. It is commonly attributed to exposure to toxic agents or renal ISCHEMIA following severe TRAUMA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Non-physiological Focal Hyperplasia of the Mouse Prostate Gland</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Focal Hyperplasias of the Mouse Prostate Gland</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Reproductive System Disorder/Mouse Male Reproductive System Disorder/Mouse Prostate Disorder/Non-neoplastic Proliferation of the Mouse Prostate Gland/Hyperplasia of the Mouse Prostate Gland/Focal Hyperplasias of the Mouse Prostate Gland/Non-physiological Focal Hyperplasia of the Mouse Prostate Gland</ClassificationPath>
+<BroaderTerm>Focal Hyperplasias of the Mouse Prostate Gland</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hyperplasia of the Mouse Prostate Gland</BroaderTerm>
+<BroaderTerm>Mouse Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Prostate Disorder</BroaderTerm>
+<BroaderTerm>Non-physiological Focal Hyperplasia of the Mouse Prostate Gland</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Non-neoplastic Proliferation of the Mouse Prostate Gland</BroaderTerm>
+<ChildTerm>Combined Epithelial : Stromal Focal Hyperplasia of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Stromal Focal Hyperplasia of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Epithelial Focal Hyperplasia of the Mouse Prostate Gland</ChildTerm>
+<Synonym>Non-physiological (Developmental or induced) Focal Hyperplasia</Synonym>
+<Synonym>Non-physiological Focal Hyperplasia of the Mouse Prostate Gland</Synonym>
+<Synonym>Non-physiological Focal Hyperplasia of the Prostate Gland</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

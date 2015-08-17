@@ -1,0 +1,26 @@
+<Record>
+<Term>Chloroprocaine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Chloroprocaine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Chloroprocaine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Chloroprocaine Hydrochloride</BroaderTerm>
+<BroaderTerm>Chloroprocaine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Benzoic Acid, 4-amino-2-chloro-, 2-(diethylamino)ethyl Ester, Hydrochloride</Synonym>
+<Synonym>2-Diethylaminoethyl 4-amino-2-chlorobenzoate Hydrochloride</Synonym>
+<Synonym>Nesacaine-mpf</Synonym>
+<Synonym>Nesacaine</Synonym>
+<Synonym>CHLOROPROCAINE HYDROCHLORIDE</Synonym>
+<Synonym>Chloroprocaine Hydrochloride</Synonym>
+<Synonym>Chloroprocaine hydrochloride</Synonym>
+<Synonym>CHLOROPROCAINE</Synonym>
+<Synonym>Chloroprocaine</Synonym>
+<Description>A synthetic, aminoester, local, anesthetic agent. At the injection site, chloroprocaine hydrochloride acts by inhibiting sodium influx through binding to specific membrane sodium ion channels in the neuronal cell membranes, restricting sodium permeability, and blocking nerve impulse conduction. This leads to a loss of sensation. Chloroprocaine hydrochloride is short-acting due to rapid hydrolysis by pseudocholinesterase into para-aminobenzoic acid in plasma.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

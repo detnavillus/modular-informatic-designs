@@ -1,0 +1,37 @@
+<Record>
+<Term>Bipolar Disorder</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Affective Disorders, Psychotic</ParentTerm>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders/Affective Disorders, Psychotic/Bipolar Disorder</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Bipolar Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Affective Disorders, Psychotic</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Bipolar Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<ChildTerm>Manic Bipolar Affective Disorder</ChildTerm>
+<ChildTerm>Bipolar Depression</ChildTerm>
+<ChildTerm>Cyclothymic Disorder</ChildTerm>
+<Synonym>Manic-Depressive Psychoses</Synonym>
+<Synonym>Manic Disorders</Synonym>
+<Synonym>Manic States</Synonym>
+<Synonym>Manic Disorder</Synonym>
+<Synonym>Bipolar Depression</Synonym>
+<Synonym>Bipolar Disorders</Synonym>
+<Synonym>Manic-Depressive Psychosis</Synonym>
+<Synonym>Mania</Synonym>
+<Synonym>Manic Depressive Psychosis</Synonym>
+<Synonym>Manias</Synonym>
+<Synonym>Bipolar Disorder</Synonym>
+<Synonym>Manic State</Synonym>
+<Synonym>Bipolar Affective Psychosis</Synonym>
+<Synonym>Manic-Depression</Synonym>
+<Synonym>Manic Depressive Disorder</Synonym>
+<Description>A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

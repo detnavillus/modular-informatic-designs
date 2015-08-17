@@ -1,0 +1,18 @@
+<Record>
+<Term>Warm Ischemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Temporal Concept</SemanticType>
+<ParentTerm>Transplantation</ParentTerm>
+<ClassificationPath>Surgical Procedures, Operative/Transplantation/Warm Ischemia</ClassificationPath>
+<BroaderTerm>Surgical Procedures, Operative</BroaderTerm>
+<BroaderTerm>Warm Ischemia</BroaderTerm>
+<BroaderTerm>Transplantation</BroaderTerm>
+<Synonym>Warm Ischemia</Synonym>
+<Synonym>Warm Ischemias</Synonym>
+<Synonym>Warm Ischemia Time</Synonym>
+<Synonym>Warm Ischemia Times</Synonym>
+<Synonym>Warm Ischemic Time</Synonym>
+<Synonym>Warm Ischemic Times</Synonym>
+<Description>A tissue or organ remaining at physiological temperature during decreased BLOOD perfusion or in the absence of blood supply. During ORGAN TRANSPLANTATION it begins when the organ reaches physiological temperature before the completion of SURGICAL ANASTOMOSIS and ends with reestablishment of the BLOOD CIRCULATION through the tissue.</Description>
+<Source>MeSH</Source>
+</Record>

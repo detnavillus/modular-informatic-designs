@@ -1,0 +1,19 @@
+<Record>
+<Term>Border Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Pestivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Pestivirus Infections/Border Disease</ClassificationPath>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Border Disease</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Border Disease</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Pestivirus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Border Diseases</Synonym>
+<Synonym>Border Disease</Synonym>
+<Description>Congenital disorder of lambs caused by a virus closely related to or identical with certain strains of bovine viral diarrhea virus.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,36 @@
+<Record>
+<Term>Bronchitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Obstructive</ParentTerm>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Bronchitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Bronchitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Bronchitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchitis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<ChildTerm>Acute Bronchitis</ChildTerm>
+<ChildTerm>Chronic Bronchitis</ChildTerm>
+<ChildTerm>Bronchitis, Chronic</ChildTerm>
+<ChildTerm>Bronchiolitis</ChildTerm>
+<Synonym>Bronchitides</Synonym>
+<Synonym>Bronchitis</Synonym>
+<Synonym>bronchitis</Synonym>
+<Description>Inflammation of the large airways in the lung including any part of the BRONCHI, from the PRIMARY BRONCHI to the TERTIARY BRONCHI.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

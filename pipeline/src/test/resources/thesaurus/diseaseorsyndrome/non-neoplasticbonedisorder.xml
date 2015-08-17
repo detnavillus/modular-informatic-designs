@@ -1,0 +1,52 @@
+<Record>
+<Term>Non-Neoplastic Bone Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Connective and Soft Tissue Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Connective Tissue Disorder/Non-Neoplastic Bone Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Disorder</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Bone Paget Disease</ChildTerm>
+<ChildTerm>Lordosis</ChildTerm>
+<ChildTerm>Osteopetrosis</ChildTerm>
+<ChildTerm>Bone Infection</ChildTerm>
+<ChildTerm>Acroosteolysis</ChildTerm>
+<ChildTerm>Osteoporosis</ChildTerm>
+<ChildTerm>Osteochondrosis</ChildTerm>
+<ChildTerm>Bone Necrosis</ChildTerm>
+<ChildTerm>Kyphosis</ChildTerm>
+<ChildTerm>Erdheim-Chester Disease</ChildTerm>
+<ChildTerm>Achondroplasia</ChildTerm>
+<ChildTerm>Dyschondroplasia</ChildTerm>
+<ChildTerm>Hyperostosis</ChildTerm>
+<ChildTerm>Congenital Deformity of Hip</ChildTerm>
+<ChildTerm>Dysostosis</ChildTerm>
+<ChildTerm>Osteofibrous Dysplasia</ChildTerm>
+<ChildTerm>Osteogenesis Imperfecta</ChildTerm>
+<ChildTerm>Spondylolysis</ChildTerm>
+<ChildTerm>Osteomalacia</ChildTerm>
+<ChildTerm>Spondylolisthesis</ChildTerm>
+<ChildTerm>Rickets</ChildTerm>
+<ChildTerm>Chondrocalcinosis</ChildTerm>
+<ChildTerm>Fibrous Dysplasia</ChildTerm>
+<ChildTerm>Spinal Degenerative Disorder</ChildTerm>
+<ChildTerm>Osteitis Fibrosa Cystica</ChildTerm>
+<ChildTerm>Osteolysis</ChildTerm>
+<ChildTerm>Cartilage Development Disorder</ChildTerm>
+<ChildTerm>Bone Infarction</ChildTerm>
+<ChildTerm>Osteopenia</ChildTerm>
+<ChildTerm>Bone Development Disorder</ChildTerm>
+<ChildTerm>Osteochondritis</ChildTerm>
+<ChildTerm>Exostosis</ChildTerm>
+<Synonym>Non-Neoplastic Bone Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

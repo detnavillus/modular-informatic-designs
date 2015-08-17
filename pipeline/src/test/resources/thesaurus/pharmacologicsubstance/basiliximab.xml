@@ -1,0 +1,19 @@
+<Record>
+<Term>Basiliximab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Basiliximab</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Basiliximab</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Basiliximab</Synonym>
+<Synonym>SDZ-CHI-621</Synonym>
+<Synonym>Simulect</Synonym>
+<Description>A recombinant, chimeric, human-murine monoclonal antibody directed against the alpha subunit of the interleukin-2 receptor (IL-2R alpha) with immunosuppressant activity. Basiliximab selectively binds to and blocks IL-2R alpha, expressed on the surface of activated T-lymphocytes, thereby preventing interleukin-2 binding and inhibiting the interleukin-2-mediated activation of lymphocytes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

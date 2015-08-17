@@ -1,0 +1,15 @@
+<Record>
+<Term>Drug Residues</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Body Burden</ParentTerm>
+<ClassificationPath>Environment and Public Health/Public Health/Environmental Pollution/Body Burden/Drug Residues</ClassificationPath>
+<BroaderTerm>Environment and Public Health</BroaderTerm>
+<BroaderTerm>Body Burden</BroaderTerm>
+<BroaderTerm>Drug Residues</BroaderTerm>
+<BroaderTerm>Environmental Pollution</BroaderTerm>
+<BroaderTerm>Public Health</BroaderTerm>
+<Synonym>Drug Residues</Synonym>
+<Synonym>Drug Residue</Synonym>
+<Description>Drugs and their metabolites which are found in the edible tissues and milk of animals after their medication with specific drugs. This term can also apply to drugs found in adipose tissue of humans after drug treatment.</Description>
+<Source>MeSH</Source>
+</Record>

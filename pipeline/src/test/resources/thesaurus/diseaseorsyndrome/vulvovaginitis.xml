@@ -1,0 +1,32 @@
+<Record>
+<Term>Vulvovaginitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Non-Neoplastic Reproductive System Disorder</ParentTerm>
+<ParentTerm>Vaginitis</ParentTerm>
+<ParentTerm>Vulvitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Vulvovaginitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vaginal Diseases/Vaginitis/Vulvovaginitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vulvar Diseases/Vulvitis/Vulvovaginitis</ClassificationPath>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Vaginitis</BroaderTerm>
+<BroaderTerm>Vulvar Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Vulvitis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Vulvovaginitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Vaginal Diseases</BroaderTerm>
+<ChildTerm>Herpetic Vulvovaginitis</ChildTerm>
+<ChildTerm>Candidiasis, Vulvovaginal</ChildTerm>
+<Synonym>Vulvovaginitis</Synonym>
+<Synonym>Vulvovaginitides</Synonym>
+<Description>Inflammation of the VULVA and the VAGINA, characterized by discharge, burning, and PRURITUS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

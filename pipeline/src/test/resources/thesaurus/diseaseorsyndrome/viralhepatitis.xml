@@ -1,0 +1,39 @@
+<Record>
+<Term>Viral Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Infection</ParentTerm>
+<ParentTerm>Hepatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection/Viral Hepatitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis/Viral Hepatitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Infection/Viral Hepatitis Adverse Event</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Viral Hepatitis,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Viral Hepatitis</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Viral Hepatitis Adverse Event</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Viral Hepatitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Viral Hepatitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Viral Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis A Infection</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Viral Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis C Infection</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Viral Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis B Infection</ChildTerm>
+<Synonym>Viral Hepatitis</Synonym>
+<Synonym>Viral hepatitis</Synonym>
+<Synonym>Viral Hepatitis Adverse Event</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

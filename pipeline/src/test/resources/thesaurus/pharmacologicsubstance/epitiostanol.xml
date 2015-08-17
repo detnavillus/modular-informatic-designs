@@ -1,0 +1,20 @@
+<Record>
+<Term>Epitiostanol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Anabolic Steroid/Epitiostanol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen/Epitiostanol</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Epitiostanol,</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Anabolic Steroid</BroaderTerm>
+<BroaderTerm>Epitiostanol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Epitiostanol</Synonym>
+<Description>An androgenic anabolic steroid having potent anti-estrogenic effect, which inhibits the progression of estrogen-stimulated cancers such as breast cancer. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

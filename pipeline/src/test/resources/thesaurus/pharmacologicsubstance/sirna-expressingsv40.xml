@@ -1,0 +1,15 @@
+<Record>
+<Term>siRNA-Expressing SV40</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/siRNA-Expressing SV40</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>siRNA-Expressing SV40</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>siRNA-Expressing SV40</Synonym>
+<Description>A simian virus 40 (SV40)-based shuttle vector, encoding small interfering RNA (siRNA), with potential antineoplastic activity. The expression of siRNA in target tumor cells transfected with an siRNA-expressing SV40 vector may result in siRNA-mediated silencing of target oncogenes and, so, the inhibition of tumor cell growth and the induction of tumor cell death.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,63 @@
+<Record>
+<Term>Anti-Asthmatic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Anti-Asthmatic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Asthmatic Agents</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Ritolukast</ChildTerm>
+<ChildTerm>Bronchodilator Agents</ChildTerm>
+<ChildTerm>Mepixanox</ChildTerm>
+<ChildTerm>Acitazanolast</ChildTerm>
+<ChildTerm>Tixanox</ChildTerm>
+<ChildTerm>Tipelukast</ChildTerm>
+<ChildTerm>Probicromil Calcium</ChildTerm>
+<ChildTerm>Doqualast</ChildTerm>
+<ChildTerm>Binizolast</ChildTerm>
+<ChildTerm>Levalbuterol</ChildTerm>
+<ChildTerm>Bamaquimast</ChildTerm>
+<ChildTerm>Ataquimast</ChildTerm>
+<ChildTerm>Dametralast</ChildTerm>
+<ChildTerm>Enofelast</ChildTerm>
+<ChildTerm>Bimosiamose</ChildTerm>
+<ChildTerm>Traxanox</ChildTerm>
+<ChildTerm>Nivimedone Sodium</ChildTerm>
+<ChildTerm>Asobamast</ChildTerm>
+<ChildTerm>Ablukast</ChildTerm>
+<ChildTerm>Bunaprolast</ChildTerm>
+<ChildTerm>Enoxamast</ChildTerm>
+<ChildTerm>Montelukast Sodium</ChildTerm>
+<ChildTerm>Zafirlukast</ChildTerm>
+<ChildTerm>Tomelukast</ChildTerm>
+<ChildTerm>Tetrazolast Meglumine</ChildTerm>
+<ChildTerm>Melquinast</ChildTerm>
+<ChildTerm>Bronchodilator</ChildTerm>
+<ChildTerm>Bimosiamose Disodium</ChildTerm>
+<ChildTerm>Mast Cell Stabilizer</ChildTerm>
+<ChildTerm>Acreozast</ChildTerm>
+<Synonym>Antiasthmatic Drugs</Synonym>
+<Synonym>Anti-Asthmatic Agents</Synonym>
+<Synonym>Antiasthmatic Agents</Synonym>
+<Synonym>Antiasthmatics</Synonym>
+<Synonym>Anti Asthmatic Drugs</Synonym>
+<Synonym>Anti-asthmatic Agent</Synonym>
+<Synonym>Anti Asthmatics</Synonym>
+<Synonym>Anti Asthmatic Agents</Synonym>
+<Synonym>Anti-Asthmatics</Synonym>
+<Synonym>Anti-Asthmatic Drugs</Synonym>
+<Description>Classified as bronchodilators (beta-adrenoreceptor agonists, xanthines, muscarinic-receptor antagonists) and anti-inflammatory agents (glucocorticoids, cromolyn), natural or synthetic Anti-asthmatic Agents relieve asthma (a recurrent airway obstruction) in multiple ways and at various sites, by reducing bronchial spasm, dyspnea, allergic reaction, local inflammation, and pain. Other agents, such as anti-histamine and antibiotics, may also be used in asthma. (NCI04)</Description>
+<Description>Drugs that are used to treat asthma.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

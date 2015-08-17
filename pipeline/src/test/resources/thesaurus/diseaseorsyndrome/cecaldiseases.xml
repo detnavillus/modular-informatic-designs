@@ -1,0 +1,17 @@
+<Record>
+<Term>Cecal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Cecal Diseases</ClassificationPath>
+<BroaderTerm>Cecal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Cecal Neoplasms</ChildTerm>
+<ChildTerm>Appendicitis</ChildTerm>
+<ChildTerm>Typhlitis</ChildTerm>
+<Synonym>Cecal Diseases</Synonym>
+<Synonym>Cecal Disease</Synonym>
+<Description>Pathological developments in the CECUM.</Description>
+<Source>MeSH</Source>
+</Record>

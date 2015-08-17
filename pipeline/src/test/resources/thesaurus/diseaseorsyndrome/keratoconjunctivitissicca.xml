@@ -1,0 +1,21 @@
+<Record>
+<Term>Keratoconjunctivitis Sicca</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dry Eye Syndromes</ParentTerm>
+<ParentTerm>Keratoconjunctivitis</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Keratoconjunctivitis/Keratoconjunctivitis Sicca</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Keratoconjunctivitis/Keratoconjunctivitis Sicca</ClassificationPath>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases/Dry Eye Syndromes/Keratoconjunctivitis Sicca</ClassificationPath>
+<BroaderTerm>Dry Eye Syndromes</BroaderTerm>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Keratoconjunctivitis</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Keratoconjunctivitis Sicca</BroaderTerm>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Keratoconjunctivitis Sicca</Synonym>
+<Description>Drying and inflammation of the conjunctiva as a result of insufficient lacrimal secretion. When found in association with XEROSTOMIA and polyarthritis, it is called SJOGREN'S SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

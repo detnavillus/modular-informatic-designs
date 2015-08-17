@@ -1,0 +1,16 @@
+<Record>
+<Term>Oxyurida Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Secernentea Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Oxyurida Infections</ClassificationPath>
+<BroaderTerm>Oxyurida Infections</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Oxyuriasis</ChildTerm>
+<Synonym>Oxyurida Infections</Synonym>
+<Synonym>Oxyurida Infection</Synonym>
+<Description>Infections with nematodes of the order OXYURIDA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Levalbuterol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Adrenergic Agonist</ParentTerm>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Levalbuterol Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Levalbuterol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Levalbuterol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Levalbuterol Tartrate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Levalbuterol Tartrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Levalbuterol Tartrate,</BroaderTerm>
+<BroaderTerm>Levalbuterol Hydrochloride</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Levalbuterol Tartrate</BroaderTerm>
+<BroaderTerm>Levalbuterol,</BroaderTerm>
+<BroaderTerm>Levalbuterol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>LEVALBUTEROL</Synonym>
+<Synonym>Levalbuterol tartrate</Synonym>
+<Synonym>(-)-Salbutamol Hydrochloride</Synonym>
+<Synonym>Levalbuterol Hydrochloride</Synonym>
+<Synonym>Levalbuterol hydrochloride</Synonym>
+<Synonym>LEVALBUTEROL HYDROCHLORIDE</Synonym>
+<Synonym>LEVALBUTEROL TARTRATE</Synonym>
+<Synonym>Xopenex</Synonym>
+<Synonym>Levalbuterol Tartrate</Synonym>
+<Synonym>Xopenex Hfa</Synonym>
+<Synonym>Levalbuterol</Synonym>
+<Synonym>1,3-Benzenedimethanol, alpha1-(((1,1-dimethylethyl)amino)methyl)-4-hydroxy-, Hydrochloride,(alpha1R)-</Synonym>
+<Description>The hydrochloride salt form of levalbuterol, a relatively selective sympathomimetic beta-2 adrenergic receptor agonist with bronchodilator activity. Levalbuterol hydrochloride binds to beta-2 adrenergic receptors in bronchial smooth muscle and activates intracellular adenyl cyclase, thereby increasing the production of cyclic-3', 5'-adenosine monophosphate (cAMP). Increased cAMP levels lead to the activation of protein kinase A, which inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations, resulting in relaxation of bronchial smooth muscles. The increased cyclic AMP concentrations also inhibit the release of inflammatory mediators from mast cells.</Description>
+<Description>The tartrate salt form of levalbuterol, the R-enantiomer of the short-acting beta-2 adrenergic receptor agonist albuterol, with bronchodilator activity. Levalbuterol selectively binds to beta-2 adrenergic receptors in bronchial smooth muscle, thereby activating intracellular adenyl cyclase, an enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased cAMP levels cause relaxation of bronchial smooth muscle, relieve bronchospasms, improve mucociliary clearance and inhibit the release of mediators of immediate hypersensitivity from cells, especially from mast cells.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

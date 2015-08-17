@@ -1,0 +1,57 @@
+<Record>
+<Term>Cockayne Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Dwarfism</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Cockayne Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Dwarfism/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Dwarfism/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Cockayne Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Cockayne Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Cockayne Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Cockayne Syndrome,</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Dwarfism</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Cockayne Syndrome</Synonym>
+<Synonym>Type III Cockayne Syndrome</Synonym>
+<Synonym>Group A Cockayne Syndrome</Synonym>
+<Synonym>Type II Cockayne Syndrome</Synonym>
+<Synonym>Cockayne Syndrome Type C</Synonym>
+<Synonym>Progeria Like Syndrome</Synonym>
+<Synonym>Cockayne Syndrome Type 3</Synonym>
+<Synonym>Type C Cockayne Syndrome</Synonym>
+<Synonym>Cockayne syndrome</Synonym>
+<Synonym>Type B Cockayne Syndrome</Synonym>
+<Synonym>Group C Cockayne Syndrome</Synonym>
+<Synonym>Type A Cockayne Syndrome</Synonym>
+<Synonym>Group B Cockayne Syndrome</Synonym>
+<Synonym>Progeria-Like Syndromes</Synonym>
+<Synonym>Progeria-Like Syndrome</Synonym>
+<Synonym>Type I Cockayne Syndrome</Synonym>
+<Description>A syndrome characterized by multiple system abnormalities including DWARFISM; PHOTOSENSITIVITY DISORDERS; PREMATURE AGING; and HEARING LOSS. It is caused by mutations of a number of autosomal recessive genes encoding proteins that involve transcriptional-coupled DNA REPAIR processes. Cockayne syndrome is classified by the severity and age of onset. Type I (classical; CSA) is early childhood onset in the second year of life; type II (congenital; CSB) is early onset at birth with severe symptoms; type III (xeroderma pigmentosum; XP) is late childhood onset with mild symptoms.Type C is a rare form. Its genetic defect is not clear; appears to be a heterogeneous group.  OMIM suggests that Type C should not be used anymore.Caused by mutations of gene ERCC6.Caused by mutations of gene CKN1.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

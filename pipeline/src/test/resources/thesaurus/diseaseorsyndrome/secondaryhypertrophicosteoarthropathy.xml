@@ -1,0 +1,21 @@
+<Record>
+<Term>Secondary Hypertrophic Osteoarthropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Osteoarthropathy, Secondary Hypertrophic</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteoarthropathy, Secondary Hypertrophic</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Osteoarthropathy, Secondary Hypertrophic</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Clubbed Fingers</Synonym>
+<Synonym>Marie Bamberger Disease</Synonym>
+<Synonym>Secondary Hypertrophic Osteoarthropathy</Synonym>
+<Synonym>Clubbed Finger</Synonym>
+<Synonym>Secondary Hypertrophic Osteoarthropathies</Synonym>
+<Synonym>Marie-Bamberger Disease</Synonym>
+<Description>Symmetrical osteitis of the four limbs, chiefly localized to the phalanges and the terminal epiphyses of the long bones of the forearm and leg, sometimes extending to the proximal ends of the limbs and the flat bones, and accompanied by dorsal kyphosis and joint involvement. It is often secondary to chronic conditions of the lungs and heart. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Dacryocystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lacrimal Apparatus Diseases</ParentTerm>
+<ParentTerm>Lacrimal System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Lacrimal System Disorder/Dacryocystitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases/Dacryocystitis</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Dacryocystitis</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Lacrimal System Disorder</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Dacryocystitides</Synonym>
+<Synonym>Dacryocystitis</Synonym>
+<Synonym>Dacryoadenitides</Synonym>
+<Synonym>Dacryoadenitis</Synonym>
+<Description>Inflammation of the lacrimal sac. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

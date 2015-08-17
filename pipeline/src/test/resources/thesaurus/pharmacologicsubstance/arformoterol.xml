@@ -1,0 +1,31 @@
+<Record>
+<Term>Arformoterol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Adrenergic Agonist</ParentTerm>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Arformoterol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Arformoterol Tartrate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Arformoterol Tartrate</ClassificationPath>
+<BroaderTerm>Arformoterol Tartrate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Arformoterol Tartrate,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Arformoterol</BroaderTerm>
+<Synonym>Arformoterol Tartrate</Synonym>
+<Synonym>ARFORMOTEROL TARTRATE</Synonym>
+<Synonym>Arformoterol tartrate</Synonym>
+<Synonym>Brovana</Synonym>
+<Synonym>ARFORMOTEROL</Synonym>
+<Synonym>Arformoterol</Synonym>
+<Description>A long-acting beta-2 adrenergic agonist and isomer of formoterol with bronchodilator activity. Arformoterol selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle and lead to a reduced release of inflammatory mediators from mast cells. This may eventually lead to an improvement of airway function.</Description>
+<Description>The tartrate salt of arformoterol, the (R,R)-enantiomer of formoterol and a long-acting beta-2 adrenergic agonist with bronchodilator activity. Arformoterol selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle and lead to an inhibition of release of inflammatory mediators from mast cells. This may eventually lead to an improvement of airway function.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

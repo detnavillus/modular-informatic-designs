@@ -1,0 +1,24 @@
+<Record>
+<Term>Alcoholic Psychoses</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychoses, Substance-Induced</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ParentTerm>Alcohol-Related Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features/Psychotic Disorders/Psychoses, Substance-Induced/Psychoses, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Psychoses, Alcoholic</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Alcohol-Related Disorders/Psychoses, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Psychoses, Substance-Induced/Psychoses, Alcoholic</ClassificationPath>
+<BroaderTerm>Psychoses, Substance-Induced</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Psychotic Disorders</BroaderTerm>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Psychoses, Alcoholic</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<Synonym>Alcoholic Psychoses</Synonym>
+<Description>A group of mental disorders associated with organic brain damage and caused by poisoning from alcohol.</Description>
+<Source>MeSH</Source>
+</Record>

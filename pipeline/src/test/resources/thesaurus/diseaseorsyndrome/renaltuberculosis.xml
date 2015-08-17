@@ -1,0 +1,28 @@
+<Record>
+<Term>Renal Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Urogenital</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Urogenital/Tuberculosis, Renal</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Tuberculosis, Urogenital/Tuberculosis, Renal</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Tuberculosis, Renal</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Tuberculosis, Renal</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Tuberculosis, Urogenital/Tuberculosis, Renal</ClassificationPath>
+<BroaderTerm>Tuberculosis, Urogenital</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis, Renal</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Renal Tuberculosis</Synonym>
+<Synonym>Renal Tuberculoses</Synonym>
+<Description>Infection of the KIDNEY with species of MYCOBACTERIUM.</Description>
+<Source>MeSH</Source>
+</Record>

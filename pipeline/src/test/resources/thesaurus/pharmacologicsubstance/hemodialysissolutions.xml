@@ -1,0 +1,22 @@
+<Record>
+<Term>Hemodialysis Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Dialysis Solutions</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Dosage Forms/Pharmaceutical Solutions/Dialysis Solutions/Hemodialysis Solutions</ClassificationPath>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Pharmaceutical Solutions/Dialysis Solutions/Hemodialysis Solutions</ClassificationPath>
+<BroaderTerm>Hemodialysis Solutions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Dosage Forms</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Pharmaceutical Solutions</BroaderTerm>
+<BroaderTerm>Dialysis Solutions</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<Synonym>Hemodialysis Solutions</Synonym>
+<Synonym>Hemodialysis Dialysis Solutions</Synonym>
+<Synonym>Hemodialyzates</Synonym>
+<Synonym>Hemodialysates</Synonym>
+<Description>Solutions prepared for hemodialysis. The composition of the pre-dialysis solution may be varied in order to determine the effect of solvated metabolites on anoxia, malnutrition, acid-base balance, etc. Of principal interest are the effect of the choice of buffers (e.g., acetate or carbonate), the addition of cations (Na+, K+, Ca2+), and addition of carbohydrates (glucose).</Description>
+<Source>MeSH</Source>
+</Record>

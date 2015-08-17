@@ -1,0 +1,18 @@
+<Record>
+<Term>Myiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ectoparasitic Infestations</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Ectoparasitic Infestations/Myiasis</ClassificationPath>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Ectoparasitic Infestations</BroaderTerm>
+<BroaderTerm>Myiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Screw Worm Infection</ChildTerm>
+<ChildTerm>Hypodermyiasis</ChildTerm>
+<Synonym>Myiasis</Synonym>
+<Synonym>Myiases</Synonym>
+<Synonym>Maggot Infestations</Synonym>
+<Synonym>Maggot Infestation</Synonym>
+<Description>The invasion of living tissues of man and other mammals by dipterous larvae.</Description>
+<Source>MeSH</Source>
+</Record>

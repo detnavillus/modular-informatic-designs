@@ -1,0 +1,37 @@
+<Record>
+<Term>Condylomata Acuminata</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Sexually Transmitted Diseases, Viral</ParentTerm>
+<ParentTerm>Warts</ParentTerm>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/Condylomata Acuminata</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Papillomavirus Infections/Warts/Condylomata Acuminata</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Viral/Warts/Condylomata Acuminata</ClassificationPath>
+<ClassificationPath>Virus Diseases/Tumor Virus Infections/Warts/Condylomata Acuminata</ClassificationPath>
+<ClassificationPath>Condyloma Acuminatum</ClassificationPath>
+<ClassificationPath>Virus Diseases/Skin Diseases, Viral/Warts/Condylomata Acuminata</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Condylomata Acuminata</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Condyloma Acuminatum</BroaderTerm>
+<BroaderTerm>Papillomavirus Infections</BroaderTerm>
+<BroaderTerm>Tumor Virus Infections</BroaderTerm>
+<BroaderTerm>Warts</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Viral</BroaderTerm>
+<Synonym>condylomata acuminata</Synonym>
+<Synonym>Condylomata Acuminata</Synonym>
+<Synonym>Genital Wart</Synonym>
+<Synonym>Venereal Wart</Synonym>
+<Synonym>Venereal Warts</Synonym>
+<Synonym>Genital Warts</Synonym>
+<Synonym>Condyloma Acuminatum</Synonym>
+<Description>Sexually transmitted form of anogenital warty growth caused by the human papillomaviruses.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

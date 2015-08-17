@@ -1,0 +1,21 @@
+<Record>
+<Term>Unilateral Hearing Loss</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hearing Loss</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Unilateral</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Hearing Loss, Unilateral</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Unilateral</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss, Unilateral</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<Synonym>Unilateral Hearing Loss</Synonym>
+<Description>Partial or complete hearing loss in one ear.</Description>
+<Source>MeSH</Source>
+</Record>

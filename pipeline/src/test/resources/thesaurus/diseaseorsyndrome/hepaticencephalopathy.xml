@@ -1,0 +1,37 @@
+<Record>
+<Term>Hepatic Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Liver Failure</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatic Insufficiency/Liver Failure/Hepatic Encephalopathy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Hepatic Encephalopathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Hepatic Encephalopathy</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hepatic Insufficiency</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hepatic Encephalopathy</BroaderTerm>
+<BroaderTerm>Liver Failure</BroaderTerm>
+<Synonym>Portosystemic Encephalopathy</Synonym>
+<Synonym>Hepatocerebral Encephalopathy</Synonym>
+<Synonym>Hepatic Coma</Synonym>
+<Synonym>Fulminant Hepatic Failure with Cerebral Edema</Synonym>
+<Synonym>Hepatic Encephalopathy</Synonym>
+<Synonym>Portal-Systemic Encephalopathy</Synonym>
+<Synonym>Hepatic Stupors</Synonym>
+<Synonym>Portal Systemic Encephalopathy</Synonym>
+<Synonym>Portosystemic Encephalopathies</Synonym>
+<Synonym>Hepatocerebral Encephalopathies</Synonym>
+<Synonym>Hepatic Stupor</Synonym>
+<Synonym>Portal-Systemic Encephalopathies</Synonym>
+<Synonym>Hepatic Encephalopathies</Synonym>
+<Synonym>Hepatic Comas</Synonym>
+<Description>A syndrome characterized by central nervous system dysfunction in association with LIVER FAILURE, including portal-systemic shunts. Clinical features include lethargy and CONFUSION (frequently progressing to COMA); ASTERIXIS; NYSTAGMUS, PATHOLOGIC; brisk oculovestibular reflexes; decorticate and decerebrate posturing; MUSCLE SPASTICITY; and bilateral extensor plantar reflexes (see REFLEX, BABINSKI). ELECTROENCEPHALOGRAPHY may demonstrate triphasic waves. (From Adams et al., Principles of Neurology, 6th ed, pp1117-20; Plum &amp; Posner, Diagnosis of Stupor and Coma, 3rd ed, p222-5)</Description>
+<Source>MeSH</Source>
+</Record>

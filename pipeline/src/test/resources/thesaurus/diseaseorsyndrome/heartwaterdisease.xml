@@ -1,0 +1,21 @@
+<Record>
+<Term>Heartwater Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Ehrlichiosis</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Anaplasmataceae Infections/Ehrlichiosis/Heartwater Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Heartwater Disease</ClassificationPath>
+<ClassificationPath>Animal Diseases/Heartwater Disease</ClassificationPath>
+<BroaderTerm>Anaplasmataceae Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Ehrlichiosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Heartwater Disease</BroaderTerm>
+<Synonym>Heartwater Disease</Synonym>
+<Description>A tick-borne septicemic disease of domestic and wild ruminants caused by EHRLICHIA RUMINANTIUM.</Description>
+<Source>MeSH</Source>
+</Record>

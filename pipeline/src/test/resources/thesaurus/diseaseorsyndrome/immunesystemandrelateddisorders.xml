@@ -1,0 +1,18 @@
+<Record>
+<Term>Immune System and Related Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Special Category</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Immunodeficiency-Related Disorder</ChildTerm>
+<ChildTerm>Immune System Disorder</ChildTerm>
+<Synonym>Immune System and Related Disorders</Synonym>
+<Synonym>Immunodeficiency and Immunosuppression Disorders</Synonym>
+<Description>A group of non-neoplastic and neoplastic disorders resulting from the deregulation and/or deficiency of immune system functions.  It includes autoimmune disorders (e.g., lupus erythematosus, dermatomyositis, rheumatoid arthritis), congenital and acquired immunodeficiency syndromes including the acquired immune deficiency syndrome (AIDS), and neoplasms (e.g., lymphomas and malignancies secondary to transplantation.)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

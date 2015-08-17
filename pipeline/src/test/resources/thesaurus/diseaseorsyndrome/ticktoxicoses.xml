@@ -1,0 +1,14 @@
+<Record>
+<Term>Tick Toxicoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bites and Stings</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Bites and Stings/Tick Toxicoses</ClassificationPath>
+<BroaderTerm>Bites and Stings</BroaderTerm>
+<BroaderTerm>Tick Toxicoses</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<ChildTerm>Tick Paralysis</ChildTerm>
+<Synonym>Tick Toxicoses</Synonym>
+<Description>Toxicoses caused by toxic substances secreted by the salivary glands of ticks; include tick paralysis (neurotropic toxin), sweating sickness (dermotropic toxin), and Rhipicephalus appendiculatus toxicosis (leukotropic toxin).</Description>
+<Source>MeSH</Source>
+</Record>

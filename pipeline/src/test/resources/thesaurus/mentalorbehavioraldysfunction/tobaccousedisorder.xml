@@ -1,0 +1,29 @@
+<Record>
+<Term>Tobacco Use Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Behavior-Related Disorder</ParentTerm>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Tobacco Use Disorder</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Tobacco Use Disorder</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Tobacco Use Disorder</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Tobacco Use Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Nicotine Dependence</Synonym>
+<Synonym>Tobacco Use Disorders</Synonym>
+<Synonym>Tobacco Use Disorder</Synonym>
+<Synonym>Nicotine Use Disorder</Synonym>
+<Synonym>Nicotine Use Disorders</Synonym>
+<Synonym>Tobacco Dependences</Synonym>
+<Synonym>Tobacco-Use Disorder</Synonym>
+<Synonym>Tobacco Dependence</Synonym>
+<Description>Tobacco used to the detriment of a person's health or social functioning. Tobacco dependence is included.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>RNA Virus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Arenaviridae Infections</ChildTerm>
+<ChildTerm>Retroviridae Infections</ChildTerm>
+<ChildTerm>Reoviridae Infections</ChildTerm>
+<ChildTerm>Flaviviridae Infections</ChildTerm>
+<ChildTerm>Mononegavirales Infections</ChildTerm>
+<ChildTerm>Bunyaviridae Infections</ChildTerm>
+<ChildTerm>Picornaviridae Infections</ChildTerm>
+<ChildTerm>Nidovirales Infections</ChildTerm>
+<ChildTerm>Hepatitis D</ChildTerm>
+<ChildTerm>Hemorrhagic Fevers, Viral</ChildTerm>
+<ChildTerm>Encephalitis, Arbovirus</ChildTerm>
+<ChildTerm>Togaviridae Infections</ChildTerm>
+<ChildTerm>Caliciviridae Infections</ChildTerm>
+<ChildTerm>Hepatitis E</ChildTerm>
+<ChildTerm>Birnaviridae Infections</ChildTerm>
+<ChildTerm>Astroviridae Infections</ChildTerm>
+<ChildTerm>Orthomyxoviridae Infections</ChildTerm>
+<Synonym>RNA Virus Infections</Synonym>
+<Synonym>RNA Virus Infection</Synonym>
+<Source>MeSH</Source>
+</Record>

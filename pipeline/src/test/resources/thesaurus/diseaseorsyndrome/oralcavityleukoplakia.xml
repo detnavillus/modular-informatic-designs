@@ -1,0 +1,25 @@
+<Record>
+<Term>Oral Cavity Leukoplakia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Oral Leukoplakia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity and Lip Precancerous Condition/Oral Leukoplakia/Oral Cavity Leukoplakia</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Leukoplakia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Cavity and Lip Precancerous Condition</BroaderTerm>
+<BroaderTerm>Oral Leukoplakia</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Leukoplakia of Tongue</ChildTerm>
+<ChildTerm>Leukoplakia of Gingiva</ChildTerm>
+<ChildTerm>Mouth Mucous Membrane Leukoplakia</ChildTerm>
+<ChildTerm>Oral Cavity Hairy Leukoplakia</ChildTerm>
+<Synonym>Leukoplakia of Mouth</Synonym>
+<Synonym>Leukoplakia of the Mouth</Synonym>
+<Synonym>Mouth Leukoplakia</Synonym>
+<Synonym>Oral Cavity Leukoplakia</Synonym>
+<Description>A white patch or plaque on oral cavity mucosa that cannot be characterized clinically or pathologically as any other disease. The diagnosis of leukoplakia is one of exclusion; other conditions such as candidiasis, lichen planus, leukoedema, etc. must be ruled out before a diagnosis of leukoplakia can be made. Leukoplakia may be a premalignant condition. --2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

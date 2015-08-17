@@ -1,0 +1,53 @@
+<Record>
+<Term>Glomerulonephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nephritis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephritis/Glomerulonephritis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<ChildTerm>Diffuse Glomerulonephritis</ChildTerm>
+<ChildTerm>Membranous Glomerulonephritis</ChildTerm>
+<ChildTerm>Chronic Glomerulonephritis</ChildTerm>
+<ChildTerm>Subacute Glomerulonephritis</ChildTerm>
+<ChildTerm>Anti-Basement Membrane Glomerulonephritis</ChildTerm>
+<ChildTerm>Exudative Glomerulonephritis</ChildTerm>
+<ChildTerm>Lupus Nephritis</ChildTerm>
+<ChildTerm>Lupus Glomerulonephritis</ChildTerm>
+<ChildTerm>Glomerulonephritis, IGA</ChildTerm>
+<ChildTerm>Rapidly Progressive Glomerulonephritis</ChildTerm>
+<ChildTerm>IgA Nephropathy</ChildTerm>
+<ChildTerm>Glomerulonephritis, Membranoproliferative</ChildTerm>
+<ChildTerm>Membranoproliferative Glomerulonephritis</ChildTerm>
+<ChildTerm>Acute Glomerulonephritis</ChildTerm>
+<ChildTerm>Anti-Glomerular Basement Membrane Disease</ChildTerm>
+<ChildTerm>Glomerulonephritis, Membranous</ChildTerm>
+<ChildTerm>Minimal Change Glomerulonephritis</ChildTerm>
+<ChildTerm>Focal Glomerulonephritis</ChildTerm>
+<ChildTerm>Post-Streptococcal Glomerulonephritis</ChildTerm>
+<ChildTerm>Proliferative Glomerulonephritis</ChildTerm>
+<ChildTerm>Focal Embolic Glomerulonephritis</ChildTerm>
+<ChildTerm>Immune Complex Glomerulonephritis</ChildTerm>
+<ChildTerm>Glomerulosclerosis, Focal Segmental</ChildTerm>
+<ChildTerm>Mesangial Proliferative Glomerulonephritis</ChildTerm>
+<ChildTerm>Crescentic Glomerulonephritis</ChildTerm>
+<Synonym>Bright Disease</Synonym>
+<Synonym>Glomerulonephritis</Synonym>
+<Synonym>Glomerulonephritides</Synonym>
+<Description>Inflammation of the renal glomeruli (KIDNEY GLOMERULUS) that can be classified by the type of glomerular injuries including antibody deposition, complement activation, cellular proliferation, and glomerulosclerosis. These structural and functional abnormalities usually lead to HEMATURIA; PROTEINURIA; HYPERTENSION; and RENAL INSUFFICIENCY.A historical classification which is no longer used. It described acute glomerulonephritis, acute nephritic syndrome, or acute nephritis.  Named for Richard Bright.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

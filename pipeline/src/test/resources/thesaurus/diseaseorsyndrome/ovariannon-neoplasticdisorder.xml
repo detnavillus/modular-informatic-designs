@@ -1,0 +1,27 @@
+<Record>
+<Term>Ovarian Non-Neoplastic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ovarian Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Ovarian Disorder/Ovarian Non-Neoplastic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Ovarian Non-Neoplastic Disorder</ClassificationPath>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Ovarian Non-Neoplastic Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Ovarian Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Ovarian Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ovarian Endometriosis</ChildTerm>
+<ChildTerm>Ovarian Stromal Hyperplasia</ChildTerm>
+<ChildTerm>Polycystic Ovarian Disease</ChildTerm>
+<ChildTerm>Leuteoma of Pregnancy</ChildTerm>
+<ChildTerm>Premature Ovarian Failure</ChildTerm>
+<ChildTerm>Ovarian Stromal Hyperthecosis</ChildTerm>
+<Synonym>Ovarian Non-Neoplastic Disease</Synonym>
+<Synonym>Ovarian Non-Neoplastic Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

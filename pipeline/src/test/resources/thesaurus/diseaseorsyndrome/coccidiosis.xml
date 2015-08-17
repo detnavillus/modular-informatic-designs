@@ -1,0 +1,32 @@
+<Record>
+<Term>Coccidiosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Protozoal Infection</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Protozoal Infection/Coccidiosis</ClassificationPath>
+<BroaderTerm>Protozoal Infection</BroaderTerm>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Toxoplasmosis</ChildTerm>
+<ChildTerm>Cryptosporidiosis</ChildTerm>
+<ChildTerm>Sarcocystosis</ChildTerm>
+<ChildTerm>Cyclosporiasis</ChildTerm>
+<ChildTerm>Isosporiasis</ChildTerm>
+<Synonym>Besnoitiases</Synonym>
+<Synonym>Coccidiosis</Synonym>
+<Synonym>Besnoitiasis</Synonym>
+<Synonym>Coccidioses</Synonym>
+<Synonym>Besnoitioses</Synonym>
+<Synonym>Besnoitiosis</Synonym>
+<Description>Protozoan infection found in animals and man. It is caused by several different genera of COCCIDIA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

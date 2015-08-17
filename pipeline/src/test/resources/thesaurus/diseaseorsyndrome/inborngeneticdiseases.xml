@@ -1,0 +1,58 @@
+<Record>
+<Term>Inborn Genetic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<ChildTerm>Metabolism, Inborn Errors</ChildTerm>
+<ChildTerm>Ataxia Telangiectasia</ChildTerm>
+<ChildTerm>Dwarfism</ChildTerm>
+<ChildTerm>Neoplastic Syndromes, Hereditary</ChildTerm>
+<ChildTerm>Chromosome Disorders</ChildTerm>
+<ChildTerm>Blood Coagulation Disorders, Inherited</ChildTerm>
+<ChildTerm>Heredodegenerative Disorders, Nervous System</ChildTerm>
+<ChildTerm>Cherubism</ChildTerm>
+<ChildTerm>Genetic Diseases, X-Linked</ChildTerm>
+<ChildTerm>Adrenal Hyperplasia, Congenital</ChildTerm>
+<ChildTerm>Eye Diseases, Hereditary</ChildTerm>
+<ChildTerm>Skin Diseases, Genetic</ChildTerm>
+<ChildTerm>Cystic Fibrosis</ChildTerm>
+<ChildTerm>Camurati-Engelmann Syndrome</ChildTerm>
+<ChildTerm>Anemia, Hemolytic, Congenital</ChildTerm>
+<ChildTerm>Anemia, Hypoplastic, Congenital</ChildTerm>
+<ChildTerm>Pain Insensitivity, Congenital</ChildTerm>
+<ChildTerm>Hemoglobinopathies</ChildTerm>
+<ChildTerm>Hereditary Autoinflammatory Diseases</ChildTerm>
+<ChildTerm>Werner Syndrome</ChildTerm>
+<ChildTerm>Alagille Syndrome</ChildTerm>
+<ChildTerm>Kallmann Syndrome</ChildTerm>
+<ChildTerm>Myasthenic Syndromes, Congenital</ChildTerm>
+<ChildTerm>Muscular Dystrophies</ChildTerm>
+<ChildTerm>Cardiomyopathy, Hypertrophic, Familial</ChildTerm>
+<ChildTerm>Hajdu-Cheney Syndrome</ChildTerm>
+<ChildTerm>CADASIL</ChildTerm>
+<ChildTerm>Hyperthyroxinemia, Familial Dysalbuminemic</ChildTerm>
+<ChildTerm>Genetic Diseases, Y-Linked</ChildTerm>
+<ChildTerm>Brugada Syndrome</ChildTerm>
+<ChildTerm>Angioedemas, Hereditary</ChildTerm>
+<ChildTerm>Loeys-Dietz Syndrome</ChildTerm>
+<ChildTerm>Yellow Nail Syndrome</ChildTerm>
+<ChildTerm>Costello Syndrome</ChildTerm>
+<ChildTerm>Donohue Syndrome</ChildTerm>
+<ChildTerm>Autoimmune Lymphoproliferative Syndrome</ChildTerm>
+<ChildTerm>Weill-Marchesani Syndrome</ChildTerm>
+<ChildTerm>Kartagener Syndrome</ChildTerm>
+<ChildTerm>Marfan Syndrome</ChildTerm>
+<ChildTerm>Nail-Patella Syndrome</ChildTerm>
+<ChildTerm>Osteogenesis Imperfecta</ChildTerm>
+<Synonym>Inborn Genetic Disease</Synonym>
+<Synonym>Inborn Genetic Diseases</Synonym>
+<Synonym>Single-Gene Defects</Synonym>
+<Synonym>Single Gene Defects</Synonym>
+<Synonym>Single-Gene Defect</Synonym>
+<Synonym>Hereditary Diseases</Synonym>
+<Synonym>Hereditary Disease</Synonym>
+<Description>Diseases that are caused by genetic mutations present during embryo or fetal development, although they may be observed later in life. The mutations may be inherited from a parent's genome or they may be acquired in utero.Diseases caused by genetic mutations that are inherited from a parent's genome.</Description>
+<Source>MeSH</Source>
+</Record>

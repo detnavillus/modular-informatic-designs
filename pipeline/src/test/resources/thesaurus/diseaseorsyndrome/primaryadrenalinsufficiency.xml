@@ -1,0 +1,19 @@
+<Record>
+<Term>Primary Adrenal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Addison's Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Adrenal Gland Insufficiency/Adrenal Cortical Insufficiency/Addison's Disease/Primary Adrenal Insufficiency</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Primary Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Adrenal Cortical Insufficiency</BroaderTerm>
+<BroaderTerm>Adrenal Gland Insufficiency</BroaderTerm>
+<BroaderTerm>Addison's Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Primary Adrenal Insufficiency</Synonym>
+<Description>A hormonal disorder that occurs when the adrenal glands fail to release adequate amounts of glucocorticoids (cortisol), mineralocorticoids (aldosterone, 11-deoxycorticosterone), and androgens (dehydroepiandrosterone) to meet physiologic needs, despite release of ACTH from the pituitary.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

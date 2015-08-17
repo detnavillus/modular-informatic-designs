@@ -1,0 +1,27 @@
+<Record>
+<Term>Respiration Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<ChildTerm>Respiratory Insufficiency</ChildTerm>
+<ChildTerm>Cheyne-Stokes Respiration</ChildTerm>
+<ChildTerm>Cough</ChildTerm>
+<ChildTerm>Dyspnea</ChildTerm>
+<ChildTerm>Hyperventilation</ChildTerm>
+<ChildTerm>Altitude Sickness</ChildTerm>
+<ChildTerm>Apnea</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome, Newborn</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome, Adult</ChildTerm>
+<ChildTerm>Respiratory Aspiration</ChildTerm>
+<ChildTerm>Acute Chest Syndrome</ChildTerm>
+<ChildTerm>Hoarseness</ChildTerm>
+<ChildTerm>Laryngismus</ChildTerm>
+<ChildTerm>Meconium Aspiration Syndrome</ChildTerm>
+<ChildTerm>Mouth Breathing</ChildTerm>
+<Synonym>Respiration Disorders</Synonym>
+<Synonym>Respiration Disorder</Synonym>
+<Description>Diseases of the respiratory system in general or unspecified or for a specific respiratory disease not available.</Description>
+<Source>MeSH</Source>
+</Record>

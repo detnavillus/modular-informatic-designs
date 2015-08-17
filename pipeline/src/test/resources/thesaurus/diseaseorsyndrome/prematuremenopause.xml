@@ -1,0 +1,25 @@
+<Record>
+<Term>Premature Menopause</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ovarian Diseases</ParentTerm>
+<ParentTerm>Menopause</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Ovarian Diseases/Menopause, Premature</ClassificationPath>
+<ClassificationPath>Reproductive and Urinary Physiological Phenomena/Reproductive Physiological Phenomena/Reproductive Physiological Processes/Reproduction/Sexual Development/Climacteric/Menopause/Menopause, Premature</ClassificationPath>
+<ClassificationPath>Reproductive and Urinary Physiological Phenomena/Reproductive Physiological Phenomena/Climacteric/Menopause/Menopause, Premature</ClassificationPath>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Reproductive and Urinary Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Climacteric</BroaderTerm>
+<BroaderTerm>Reproduction</BroaderTerm>
+<BroaderTerm>Sexual Development</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Ovarian Diseases</BroaderTerm>
+<BroaderTerm>Reproductive Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Menopause</BroaderTerm>
+<BroaderTerm>Menopause, Premature</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Reproductive Physiological Processes</BroaderTerm>
+<Synonym>Premature Menopause</Synonym>
+<Description>The premature cessation of menses (MENSTRUATION) when the last menstrual period occurs in a woman under the age of 40. It is due to the depletion of OVARIAN FOLLICLES. Premature MENOPAUSE can be caused by diseases; OVARIECTOMY; RADIATION; chemicals; and chromosomal abnormalities.</Description>
+<Source>MeSH</Source>
+</Record>

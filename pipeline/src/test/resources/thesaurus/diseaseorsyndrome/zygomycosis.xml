@@ -1,0 +1,18 @@
+<Record>
+<Term>Zygomycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Zygomycosis</ClassificationPath>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Zygomycosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Mucormycosis</ChildTerm>
+<Synonym>Zygomycosis</Synonym>
+<Synonym>Zygomycoses</Synonym>
+<Synonym>Phycomycosis</Synonym>
+<Synonym>Phycomycoses</Synonym>
+<Synonym>Entomophthoramycosis</Synonym>
+<Synonym>Entomophthoramycoses</Synonym>
+<Description>Infection in humans and animals caused by fungi in the class Zygomycetes. It includes MUCORMYCOSIS and entomophthoramycosis. The latter is a tropical infection of subcutaneous tissue or paranasal sinuses caused by fungi in the order Entomophthorales. Phycomycosis, closely related to zygomycosis, describes infection with members of Phycomycetes, an obsolete classification.</Description>
+<Source>MeSH</Source>
+</Record>

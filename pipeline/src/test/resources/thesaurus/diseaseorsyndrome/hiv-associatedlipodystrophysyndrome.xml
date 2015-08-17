@@ -1,0 +1,36 @@
+<Record>
+<Term>HIV-Associated Lipodystrophy Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Lipodystrophy</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Lipodystrophy/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Lipodystrophy/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipodystrophy/HIV-Associated Lipodystrophy Syndrome</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>HIV-Associated Lipodystrophy Syndrome</BroaderTerm>
+<BroaderTerm>Lipodystrophy</BroaderTerm>
+<Synonym>HIV Associated Lipodystrophy Syndrome</Synonym>
+<Synonym>HIV Associated Lipodystrophy</Synonym>
+<Synonym>HIV-Associated Lipodystrophy Syndrome</Synonym>
+<Synonym>HIV Lipodystrophy Syndrome</Synonym>
+<Synonym>HIV-Associated Lipodystrophy</Synonym>
+<Description>Defective metabolism leading to fat maldistribution in patients infected with HIV. The etiology appears to be multifactorial and probably involves some combination of infection-induced alterations in metabolism, direct effects of antiretroviral therapy, and patient-related factors.</Description>
+<Source>MeSH</Source>
+</Record>

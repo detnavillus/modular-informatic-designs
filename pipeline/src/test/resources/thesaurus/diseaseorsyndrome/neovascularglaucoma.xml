@@ -1,0 +1,14 @@
+<Record>
+<Term>Neovascular Glaucoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glaucoma</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Hypertension/Glaucoma/Glaucoma, Neovascular</ClassificationPath>
+<BroaderTerm>Glaucoma</BroaderTerm>
+<BroaderTerm>Glaucoma, Neovascular</BroaderTerm>
+<BroaderTerm>Ocular Hypertension</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Neovascular Glaucoma</Synonym>
+<Synonym>Neovascular Glaucomas</Synonym>
+<Description>A form of secondary glaucoma which develops as a consequence of another ocular disease and is attributed to the forming of new vessels in the angle of the anterior chamber.</Description>
+<Source>MeSH</Source>
+</Record>

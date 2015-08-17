@@ -1,0 +1,18 @@
+<Record>
+<Term>Chronic Schizophrenia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Schizophrenia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction/Cognitive Disturbance/Schizophrenia/Chronic Schizophrenia</ClassificationPath>
+<BroaderTerm>Schizophrenia</BroaderTerm>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance</BroaderTerm>
+<BroaderTerm>Chronic Schizophrenia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Residual Chronic Schizophrenia</ChildTerm>
+<ChildTerm>Latent Chronic Schizophrenia</ChildTerm>
+<Synonym>Chronic Schizophrenia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

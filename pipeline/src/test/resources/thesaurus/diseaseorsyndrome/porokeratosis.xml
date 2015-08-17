@@ -1,0 +1,25 @@
+<Record>
+<Term>Porokeratosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratosis</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porokeratosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Porokeratosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porokeratosis</ClassificationPath>
+<BroaderTerm>Porokeratosis</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<Synonym>Porokeratosis</Synonym>
+<Synonym>Palmoplantar Porokeratosis</Synonym>
+<Synonym>Punctate Porokeratosis</Synonym>
+<Synonym>Linear Porokeratosis</Synonym>
+<Synonym>Porokeratosis of Mibelli</Synonym>
+<Synonym>Porokeratosis Palmaris et Plantaris Disseminata</Synonym>
+<Synonym>Mibelli Porokeratosis</Synonym>
+<Description>A heritable disorder of faulty keratinization characterized by the proliferation of abnormal clones of KERATINOCYTES and lesions showing varying atrophic patches surrounded by an elevated, keratotic border. These keratotic lesions can progress to overt cutaneous neoplasm. Several clinical variants are recognized, including porokeratosis of Mibelli, linear porokeratosis, disseminated superficial actinic porokeratosis, palmoplantar porokeratosis, and punctate porokeratosis.The classical form of porokeratosis with isolated lesions.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Drug Eruptions</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug Toxicity</ParentTerm>
+<ParentTerm>Drug Hypersensitivity</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Drug Eruptions</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Drug Hypersensitivity/Drug Eruptions</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Drug Eruptions</ClassificationPath>
+<BroaderTerm>Drug Eruptions</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Drug Hypersensitivity</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Serum Sickness</ChildTerm>
+<ChildTerm>Epidermal Necrolysis, Toxic</ChildTerm>
+<ChildTerm>Erythema Nodosum</ChildTerm>
+<Synonym>Drug Eruptions</Synonym>
+<Synonym>Dermatitis Medicamentosa</Synonym>
+<Synonym>Drug Eruption</Synonym>
+<Description>Adverse cutaneous reactions caused by ingestion, parenteral use, or local application of a drug. These may assume various morphologic patterns and produce various types of lesions.</Description>
+<Source>MeSH</Source>
+</Record>

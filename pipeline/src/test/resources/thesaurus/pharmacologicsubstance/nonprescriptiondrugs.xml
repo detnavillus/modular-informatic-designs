@@ -1,0 +1,18 @@
+<Record>
+<Term>Nonprescription Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Nonprescription Drugs</ClassificationPath>
+<BroaderTerm>Nonprescription Drugs</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<ChildTerm>Behind-the-Counter Drugs</ChildTerm>
+<Synonym>Nonprescription Drugs</Synonym>
+<Synonym>OTC Drugs</Synonym>
+<Synonym>Over-the-Counter Drugs</Synonym>
+<Synonym>Over the Counter Drugs</Synonym>
+<Synonym>Patent Medicines</Synonym>
+<Synonym>Non-Prescription Drugs</Synonym>
+<Synonym>Non Prescription Drugs</Synonym>
+<Description>Medicines that can be sold legally without a DRUG PRESCRIPTION.</Description>
+<Source>MeSH</Source>
+</Record>

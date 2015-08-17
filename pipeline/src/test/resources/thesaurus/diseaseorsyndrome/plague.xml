@@ -1,0 +1,22 @@
+<Record>
+<Term>Plague</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Yersinia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Yersinia Infections/Plague</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Plague</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Yersinia Infections</BroaderTerm>
+<Synonym>Plague</Synonym>
+<Synonym>Bubonic Plague</Synonym>
+<Synonym>Pulmonic Plague</Synonym>
+<Synonym>Pulmonic Plagues</Synonym>
+<Synonym>Pneumonic Plague</Synonym>
+<Synonym>Pneumonic Plagues</Synonym>
+<Synonym>Meningeal Plague</Synonym>
+<Synonym>Meningeal Plagues</Synonym>
+<Description>An acute infectious disease caused by YERSINIA PESTIS that affects humans, wild rodents, and their ectoparasites. This condition persists due to its firm entrenchment in sylvatic rodent-flea ecosystems throughout the world. Bubonic plague is the most common form.</Description>
+<Source>MeSH</Source>
+</Record>

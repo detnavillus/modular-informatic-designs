@@ -1,0 +1,29 @@
+<Record>
+<Term>Dipivefrin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-glaucoma Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Dipivefrin Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Dipivefrin</ClassificationPath>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Dipivefrin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Dipivefrin Hydrochloride</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(1)-4-(1-Hydroxy-2-(methylamino)ethyl)-1,2-phenylene Dipivalate Hydrochloride</Synonym>
+<Synonym>Propine</Synonym>
+<Synonym>Akpro</Synonym>
+<Synonym>Dipivefrin</Synonym>
+<Synonym>Alcon</Synonym>
+<Synonym>Dipivefrin Hydrochloride</Synonym>
+<Synonym>Dipivefrin hydrochloride</Synonym>
+<Synonym>Propanoic Acid, 2,2-dimethyl-, 4-(1-hydroxy-2-(methylamino)ethyl)-1,2-phenylene Ester, Hydrochloride,(+-)-</Synonym>
+<Synonym>DIPIVEFRIN HYDROCHLORIDE</Synonym>
+<Synonym>DIPIVEFRIN</Synonym>
+<Description>An ester prodrug of epinephrine, with sympathomimetic activity. Due to its lipophilicity, dipivefrin penetrates more easily to the anterior chamber of the eye and is hydrolyzed to epinephrine, when applied locally. Epinephrine, an adrenergic agonist, enhances the outflow of aqueous humor and decreases the production of aqueous humor by vasoconstriction. The overall result is a reduction in intraocular pressure.</Description>
+<Description>An ester with sympathomimetic activities. Dipivefrin hydrochloride is a prodrug of epinephrine that, due to its greater lipophilicity, allows for better penetration into the anterior chamber. Once inside the eye, dipivefrin hydrochloride is converted by hydrolysis to epinephrine. Epinephrine enhances the outflow of aqueous humor and decreases the production of aqueous humor by vasoconstriction. This leads to a reduction in intraocular pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

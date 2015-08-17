@@ -1,0 +1,27 @@
+<Record>
+<Term>Hallucinogens</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Psychotropic Drugs</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Psychotropic Drugs/Hallucinogens</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Hallucinogens</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hallucinogens</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Psychotropic Drugs</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hallucinogens</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Hallucinogenic Substances</Synonym>
+<Synonym>Psychedelics</Synonym>
+<Synonym>Hallucinogens</Synonym>
+<Synonym>Psychedelic Agents</Synonym>
+<Synonym>Hallucinogenic Drugs</Synonym>
+<Synonym>Hallucinogenic Agents</Synonym>
+<Synonym>Psychotomimetic Agents</Synonym>
+<Description>Drugs capable of inducing illusions, hallucinations, delusions, paranoid ideations, and other alterations of mood and thinking. Despite the name, the feature that distinguishes these agents from other classes of drugs is their capacity to induce states of altered perception, thought, and feeling that are not experienced otherwise.</Description>
+<Source>MeSH</Source>
+</Record>

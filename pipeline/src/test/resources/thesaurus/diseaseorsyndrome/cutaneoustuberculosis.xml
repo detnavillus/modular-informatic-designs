@@ -1,0 +1,34 @@
+<Record>
+<Term>Cutaneous Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Tuberculosis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Tuberculosis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Tuberculosis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Cutaneous</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Cutaneous</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Lupus Vulgaris</ChildTerm>
+<ChildTerm>Erythema Induratum</ChildTerm>
+<Synonym>Skin Tuberculoses</Synonym>
+<Synonym>Scrofuloderma</Synonym>
+<Synonym>Tuberculid</Synonym>
+<Synonym>Skin Tuberculosis</Synonym>
+<Synonym>Scrofulodermas</Synonym>
+<Synonym>Tuberculids</Synonym>
+<Synonym>Cutaneous Tuberculosis</Synonym>
+<Synonym>Cutaneous Tuberculoses</Synonym>
+<Description>Tuberculosis of the skin. It includes scrofuloderma and tuberculid, but not LUPUS VULGARIS.</Description>
+<Source>MeSH</Source>
+</Record>

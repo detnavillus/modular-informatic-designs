@@ -1,0 +1,26 @@
+<Record>
+<Term>Cytochalasins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Mycotoxins</ParentTerm>
+<ParentTerm>Indoles</ParentTerm>
+<ParentTerm>Macrolides</ParentTerm>
+<ClassificationPath>Polycyclic Compounds/Macrocyclic Compounds/Macrolides/Cytochalasins</ClassificationPath>
+<ClassificationPath>Biological Factors/Toxins, Biological/Mycotoxins/Cytochalasins</ClassificationPath>
+<ClassificationPath>Heterocyclic Compounds/Heterocyclic Compounds, 2-Ring/Indoles/Cytochalasins</ClassificationPath>
+<BroaderTerm>Polycyclic Compounds</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds, 2-Ring</BroaderTerm>
+<BroaderTerm>Mycotoxins</BroaderTerm>
+<BroaderTerm>Cytochalasins</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Toxins, Biological</BroaderTerm>
+<BroaderTerm>Indoles</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds</BroaderTerm>
+<BroaderTerm>Macrolides</BroaderTerm>
+<BroaderTerm>Macrocyclic Compounds</BroaderTerm>
+<ChildTerm>Cytochalasin D</ChildTerm>
+<ChildTerm>Cytochalasin B</ChildTerm>
+<Synonym>Cytochalasins</Synonym>
+<Description>11- to 14-membered macrocyclic lactones with a fused isoindolone. Members with INDOLES attached at the C10 position are called chaetoglobosins.  They are produced by various fungi. Some members interact with ACTIN and inhibit CYTOKINESIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Gold Sodium Thiosulfate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ParentTerm>Thiosulfates</ParentTerm>
+<ParentTerm>Gold Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Gold Sodium Thiosulfate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sulfur Compounds/Sulfur Acids/Sulfuric Acids/Sulfates/Thiosulfates/Gold Sodium Thiosulfate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Gold Compounds/Gold Sodium Thiosulfate</ClassificationPath>
+<BroaderTerm>Sulfur Acids</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Thiosulfates</BroaderTerm>
+<BroaderTerm>Sulfates</BroaderTerm>
+<BroaderTerm>Gold Sodium Thiosulfate</BroaderTerm>
+<BroaderTerm>Gold Compounds</BroaderTerm>
+<BroaderTerm>Sulfuric Acids</BroaderTerm>
+<BroaderTerm>Sulfur Compounds</BroaderTerm>
+<Synonym>Sanocrisin</Synonym>
+<Synonym>Sodium Aurothiosulfate</Synonym>
+<Synonym>Sanochrysine</Synonym>
+<Synonym>Gold Sodium Thiosulfate</Synonym>
+<Synonym>Thiosulfatoaurate</Synonym>
+<Synonym>Sodium Gold Thiosulfate</Synonym>
+<Synonym>Sanochrysin</Synonym>
+<Description>A sodium salt of gold thiosulfate. It has uses like the ORGANOGOLD COMPOUNDS.</Description>
+<Source>MeSH</Source>
+</Record>

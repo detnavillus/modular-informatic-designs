@@ -1,0 +1,17 @@
+<Record>
+<Term>Peripheral Nervous System Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Autonomic Agents</ChildTerm>
+<ChildTerm>Neuromuscular Agents</ChildTerm>
+<ChildTerm>Sensory System Agents</ChildTerm>
+<Synonym>Peripheral Nervous System Agents</Synonym>
+<Synonym>Peripheral Nervous System Drugs</Synonym>
+<Description>Drugs that act principally at one or more sites within the peripheral neuroeffector systems, the autonomic system, and motor nerve-skeletal system. (From Smith and Reynard, Textbook of Pharmacology, 1991, p75)</Description>
+<Source>MeSH</Source>
+</Record>

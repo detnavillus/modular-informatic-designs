@@ -1,0 +1,40 @@
+<Record>
+<Term>Post-Concussion Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Brain Concussion</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Trauma, Nervous System/Craniocerebral Trauma/Brain Injuries/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Injuries/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Craniocerebral Trauma/Head Injuries, Closed/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Wounds, Nonpenetrating/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Craniocerebral Trauma/Brain Injuries/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Wounds, Nonpenetrating/Head Injuries, Closed/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Craniocerebral Trauma/Brain Injuries/Brain Concussion/Post-Concussion Syndrome</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Craniocerebral Trauma</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Brain Injuries</BroaderTerm>
+<BroaderTerm>Wounds, Nonpenetrating</BroaderTerm>
+<BroaderTerm>Brain Concussion</BroaderTerm>
+<BroaderTerm>Head Injuries, Closed</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Post-Concussion Syndrome</BroaderTerm>
+<BroaderTerm>Trauma, Nervous System</BroaderTerm>
+<Synonym>Post-Concussion Symptoms</Synonym>
+<Synonym>Post Concussion Symptoms</Synonym>
+<Synonym>Post Concussive Syndrome</Synonym>
+<Synonym>Chronic Post-Concussive Syndrome</Synonym>
+<Synonym>Post Concussive Symptoms</Synonym>
+<Synonym>Post-Concussive Symptom</Synonym>
+<Synonym>Chronic Post-Concussive Syndromes</Synonym>
+<Synonym>Post-Concussive Syndrome</Synonym>
+<Synonym>Post Concussion Syndrome</Synonym>
+<Synonym>Post-Concussive Symptoms</Synonym>
+<Synonym>Post-Concussion Symptom</Synonym>
+<Synonym>Post-Concussive Syndromes</Synonym>
+<Synonym>Post-Concussion Syndrome</Synonym>
+<Description>The organic and psychogenic disturbances observed after closed head injuries (HEAD INJURIES, CLOSED). Post-concussion syndrome includes subjective physical complaints (i.e. headache, dizziness), cognitive, emotional, and behavioral changes. These disturbances can be chronic, permanent, or late emerging.</Description>
+<Source>MeSH</Source>
+</Record>

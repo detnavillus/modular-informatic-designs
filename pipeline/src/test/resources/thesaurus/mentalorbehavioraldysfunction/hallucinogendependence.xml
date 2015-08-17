@@ -1,0 +1,17 @@
+<Record>
+<Term>Hallucinogen Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Drug Dependence</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence/Drug Dependence/Hallucinogen Dependence</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Hallucinogen Dependence</BroaderTerm>
+<BroaderTerm>Drug Dependence</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hallucinogen Dependence, Continuous Use</ChildTerm>
+<ChildTerm>Hallucinogen Dependence, Episodic Use</ChildTerm>
+<Synonym>Hallucinogen Dependence</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

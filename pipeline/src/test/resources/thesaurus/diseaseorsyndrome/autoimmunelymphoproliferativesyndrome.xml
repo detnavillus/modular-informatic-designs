@@ -1,0 +1,36 @@
+<Record>
+<Term>Autoimmune Lymphoproliferative Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Lymphoproliferative Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Autoimmune Lymphoproliferative Syndrome</ClassificationPath>
+<ClassificationPath>Autoimmune Lymphoproliferative Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Autoimmune Lymphoproliferative Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders/Autoimmune Lymphoproliferative Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Autoimmune Lymphoproliferative Syndrome</BroaderTerm>
+<Synonym>Caspase 8 Deficiency</Synonym>
+<Synonym>Autoimmune Lymphoproliferative Syndrome Type 2B</Synonym>
+<Synonym>ALPS</Synonym>
+<Synonym>Canale-Smith Syndrome</Synonym>
+<Synonym>Caspase-8 Deficiency</Synonym>
+<Synonym>Autoimmune Lymphoproliferative Syndrome Type 2B (ALPS2B)</Synonym>
+<Synonym>Autoimmune Lymphoproliferative Syndromes</Synonym>
+<Synonym>Caspase 8 Deficiencies</Synonym>
+<Synonym>Caspase-8 Deficiencies</Synonym>
+<Synonym>Autoimmune Lymphoproliferative Syndrome</Synonym>
+<Synonym>Canale Smith Syndrome</Synonym>
+<Description>Rare congenital lymphoid disorder due to mutations in certain Fas-Fas ligand pathway genes. Known causes include mutations in FAS, TNFSF6, NRAS, CASP8, and CASP10 proteins. Clinical features include LYMPHADENOPATHY; SPLENOMEGALY; and AUTOIMMUNITY.Autoimmune lymphoproliferative syndrome due to mutations in CASPASE 8 gene.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

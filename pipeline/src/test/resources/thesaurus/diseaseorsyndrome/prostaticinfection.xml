@@ -1,0 +1,25 @@
+<Record>
+<Term>Prostatic Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Prostate Non-Neoplastic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Genitourinary System Infection/Prostatic Infection,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Male Reproductive System Disorder/Prostate Disorder/Prostate Non-Neoplastic Disorder/Prostatic Infection</ClassificationPath>
+<BroaderTerm>Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Prostate Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Prostate Disorder</BroaderTerm>
+<BroaderTerm>Prostatic Infection,</BroaderTerm>
+<BroaderTerm>Prostatic Infection</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Genitourinary System Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<ChildTerm>Prostatitis</ChildTerm>
+<Synonym>Prostatic Infection</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Fanconi Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hereditary Neoplastic Syndrome</ParentTerm>
+<ParentTerm>Anemia, Hypoplastic, Congenital</ParentTerm>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Aplastic/Anemia, Hypoplastic, Congenital/Fanconi Anemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hypoplastic, Congenital/Fanconi Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Anemia, Aplastic/Anemia, Hypoplastic, Congenital/Fanconi Anemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Fanconi Anemia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/DNA Repair Disorder/Fanconi Anemia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Neoplastic Syndrome/Hereditary Neoplastic Syndrome/Fanconi Anemia</ClassificationPath>
+<BroaderTerm>Fanconi Anemia</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hereditary Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Fanconi Anemia,</BroaderTerm>
+<BroaderTerm>DNA Repair Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Aplastic</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hypoplastic, Congenital</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Fanconi Anemia</Synonym>
+<Synonym>Pancytopenia, Congenital</Synonym>
+<Synonym>Short Limb Dwarfism-Saddle Nose-Spinal Alterations-Metaphyseal Striation Syndrome</Synonym>
+<Synonym>Primary Erythroid Hypoplasia</Synonym>
+<Synonym>Fanconi's anemia</Synonym>
+<Synonym>Fanconi Anemias</Synonym>
+<Synonym>Fanconi's Anemia</Synonym>
+<Synonym>Panmyelopathy, Fanconi</Synonym>
+<Description>Congenital disorder affecting all bone marrow elements, resulting in ANEMIA; LEUKOPENIA; and THROMBOPENIA, and associated with cardiac, renal, and limb malformations as well as dermal pigmentary changes. Spontaneous CHROMOSOME BREAKAGE is a feature of this disease along with predisposition to LEUKEMIA. There are at least 7 complementation groups in Fanconi anemia: FANCA, FANCB, FANCC, FANCD1, FANCD2, FANCE, FANCF, FANCG, and FANCL. (from Online Mendelian Inheritance in Man, http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=227650, August 20, 2004)</Description>
+<Description>Fanconi anemia (FA) is an autosomal recessive genetic disorder characterised clinically by progressive bone marrow failure, skeletal deformities and a predisposition to neoplasia. Patient cells manifest an extreme chromosomal instability and hypersensitivity to polyfunctional alkylating agents. It is assumed that the basic defect is related to the repair of DNA damage, in particular that of so-called DNA crosslinks. Currently there are eight complementation groups in FA (FA-A-FA-H) which indicates that at least eight independent genes can lead to FA. Three of these genes have been identified: FANCA, FANCC and FANCG. (from PMID 10472548)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

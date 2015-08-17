@@ -1,0 +1,26 @@
+<Record>
+<Term>Heroin Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Opioid-Related Disorders</ParentTerm>
+<ParentTerm>Drug Dependence</ParentTerm>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Opioid-Related Disorders/Heroin Dependence</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Opioid-Related Disorders/Heroin Dependence</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence/Drug Dependence/Heroin Dependence</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Heroin Dependence</BroaderTerm>
+<BroaderTerm>Opioid-Related Disorders</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Drug Dependence</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Heroin Abuse</Synonym>
+<Synonym>Heroin Dependence</Synonym>
+<Synonym>Heroin Addiction</Synonym>
+<Description>Strong dependence, both physiological and emotional, upon heroin.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

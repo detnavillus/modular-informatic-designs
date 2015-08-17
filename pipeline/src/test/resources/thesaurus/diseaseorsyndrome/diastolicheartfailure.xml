@@ -1,0 +1,14 @@
+<Record>
+<Term>Diastolic Heart Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Failure</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Failure/Heart Failure, Diastolic</ClassificationPath>
+<BroaderTerm>Heart Failure, Diastolic</BroaderTerm>
+<BroaderTerm>Heart Failure</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Diastolic Heart Failures</Synonym>
+<Synonym>Diastolic Heart Failure</Synonym>
+<Description>Heart failure caused by abnormal myocardial relaxation during DIASTOLE leading to defective cardiac filling.</Description>
+<Source>MeSH</Source>
+</Record>

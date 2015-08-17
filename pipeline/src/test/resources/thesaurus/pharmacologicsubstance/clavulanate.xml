@@ -1,0 +1,19 @@
+<Record>
+<Term>Clavulanate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Beta-Lactam Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Beta-Lactam Antibiotic/Clavulanate Potassium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Beta-Lactam Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Clavulanate Potassium</BroaderTerm>
+<Synonym>4-Oxa-1-azabicyclo(3.2.0)heptane-2-carboxylic acid, 3-(2-hydroxyethylidene)-7-oxo-, Monopotassium Salt,(2R-(2alpha,3Z,5alpha))-</Synonym>
+<Synonym>Amonate</Synonym>
+<Synonym>CLAVULANATE POTASSIUM</Synonym>
+<Synonym>Clavulanate Potassium</Synonym>
+<Description>A semi-synthetic beta-lactamase inhibitor isolated from streptomyces. Clavunalate potassium contains a beta-lactam ring and binds strongly to beta-lactamase at or near its active site. This protects other beta-lactam antibiotics from beta-lactamase catalysis. This drug is used in conjunction with beta-lactamase susceptible penicillins to treat infections caused by beta-lactamase producing organisms.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

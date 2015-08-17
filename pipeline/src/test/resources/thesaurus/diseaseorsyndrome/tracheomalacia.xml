@@ -1,0 +1,27 @@
+<Record>
+<Term>Tracheomalacia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tracheobronchomalacia</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Tracheal Diseases/Tracheobronchomalacia/Tracheomalacia</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Cartilage Diseases/Tracheobronchomalacia/Tracheomalacia</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Cartilage Diseases/Tracheobronchomalacia/Tracheomalacia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Musculoskeletal Abnormalities/Tracheobronchomalacia/Tracheomalacia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Tracheal Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Tracheobronchomalacia</BroaderTerm>
+<BroaderTerm>Musculoskeletal Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Tracheomalacia</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cartilage Diseases</BroaderTerm>
+<Synonym>Trachea Chondromalacias</Synonym>
+<Synonym>Trachea Chondromalacia</Synonym>
+<Synonym>Tracheomalacia</Synonym>
+<Synonym>Chondromalacia of Trachea</Synonym>
+<Synonym>Tracheomalacias</Synonym>
+<Description>A congenital or acquired condition of underdeveloped or degeneration of CARTILAGE in the TRACHEA. This results in a floppy tracheal wall making patency difficult to maintain. It is characterized by wheezing and difficult breathing.</Description>
+<Source>MeSH</Source>
+</Record>

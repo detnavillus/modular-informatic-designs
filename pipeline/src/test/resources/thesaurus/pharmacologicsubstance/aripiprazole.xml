@@ -1,0 +1,21 @@
+<Record>
+<Term>Aripiprazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antipsychotic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antipsychotic Agent/Aripiprazole</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antipsychotic Agent</BroaderTerm>
+<BroaderTerm>Aripiprazole</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ARIPIPRAZOLE</Synonym>
+<Synonym>Opc 14597</Synonym>
+<Synonym>2(1H)-Quinolinone, 7-(4-(4-(2,3-Dichlorophenyl)-1-piperazinyl)butoxy)-3,4-dihydro-</Synonym>
+<Synonym>Abilify</Synonym>
+<Synonym>Aripiprazole</Synonym>
+<Description>A quinoline derivate and atypical anti-psychotic agent. Aripiprazole has partial agonistic activity at dopamine D2 receptors and serotonin 5-HT1A receptors, as well as potent antagonistic activity on serotonin 5-HT2A receptors. This drug stabilizes dopamine and serotonin activity in the limbic and cortical system. Aripiprazole is used in managing symptoms of schizophrenia and of acute manic and mixed episodes associated with bipolar I disorders.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

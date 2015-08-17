@@ -1,0 +1,33 @@
+<Record>
+<Term>Remifentanil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Opioid Receptor Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opioid Receptor Agonist/Remifentanil Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Alkaloid/Opioid/Remifentanil Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Remifentanil Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opioid Receptor Agonist/Remifentanil,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Alkaloid/Opioid/Remifentanil,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Remifentanil</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Alkaloid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Opioid</BroaderTerm>
+<BroaderTerm>Remifentanil,</BroaderTerm>
+<BroaderTerm>Remifentanil</BroaderTerm>
+<BroaderTerm>Opioid Receptor Agonist</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Remifentanil Hydrochloride</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Remifentanil Hydrochloride,</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Remifentanil</Synonym>
+<Synonym>Remifentanil Hydrochloride</Synonym>
+<Synonym>REMIFENTANIL</Synonym>
+<Synonym>Ultiva</Synonym>
+<Synonym>REMIFENTANIL HYDROCHLORIDE</Synonym>
+<Synonym>Remifentanil hydrochloride</Synonym>
+<Synonym>1-Piperidinepropanoic Acid, 4-(methoxycarbonyl)-4-((1-oxopropyl)phenylamino)-, Methyl Ester, Monohydrochloride</Synonym>
+<Description>The hydrochloride salt form of remifentanil, a synthetic anilidopiperidine derivative and short-acting opiate agonist with analgesic and anesthetic properties. Remifentanil selectively binds to and activates the mu-opioid receptor, thereby producing analgesia, respiratory depression, miosis, reduced gastrointestinal motility, and euphoria.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,14 @@
+<Record>
+<Term>Generic Drug</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Medication</ParentTerm>
+<ClassificationPath>Conceptual Entity/Medication/Generic Drug</ClassificationPath>
+<BroaderTerm>Conceptual Entity</BroaderTerm>
+<BroaderTerm>Medication</BroaderTerm>
+<BroaderTerm>Generic Drug</BroaderTerm>
+<Synonym>Generic</Synonym>
+<Synonym>Generic Drug</Synonym>
+<Synonym>generic</Synonym>
+<Description>A pharmaceutical product equivalent to the brand name drug in dosage, safety, strength, how it is taken, quality, performance, and intended use. The FDA bases evaluations of substitutability, or therapeutic equivalence of a generic drug on scientific evaluation. A generic drug product must contain the identical amounts of the same active ingredient(s) as the brand name product and is expected to have equal effect when substituted for the brand name product.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

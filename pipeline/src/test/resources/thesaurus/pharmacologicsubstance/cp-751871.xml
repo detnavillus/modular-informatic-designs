@@ -1,0 +1,16 @@
+<Record>
+<Term>CP-751871</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/CP-751871</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>CP-751871</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CP-751871</Synonym>
+<Description>A human monoclonal antibody directed against the insulin-like growth factor type I receptor (IGF1R) with potential antineoplastic activity. CP-751871 selectively binds to IGF1R, preventing insulin-like growth factor type 1 (IGF1) from binding to the receptor and subsequent receptor autophosphorylation. Inhibition of IGF1R autophosphorylation may result in a reduction in receptor expression on tumor cells that express IGF1R, a reduction in the anti-apoptotic effect of IGF, and inhibition of tumor growth. IGF1R is a receptor tyrosine kinase expressed on most tumor cells and is involved in mitogenesis, angiogenesis, and tumor cell survival.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

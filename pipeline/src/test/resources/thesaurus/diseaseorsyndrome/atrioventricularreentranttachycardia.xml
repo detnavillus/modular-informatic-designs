@@ -1,0 +1,25 @@
+<Record>
+<Term>Atrioventricular Reentrant Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paroxysmal Supraventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Paroxysmal Supraventricular Tachycardia/Atrioventricular Reentrant Tachycardia</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Atrioventricular Reentrant Tachycardia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Paroxysmal Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>AV RE-ENTRANT TACHYCARDIA</Synonym>
+<Synonym>AV Reentrant Tachycardia</Synonym>
+<Synonym>AV re-entrant tachycardia</Synonym>
+<Synonym>Atrioventricular Reentrant Tachycardia</Synonym>
+<Description>A supraventricular tachycardia due to reentry along a circuit including a concealed AV nodal bypass tract. This tachycardia circuit proceeds in an antegrade fashion through the AV node and then is conducted retrograde through the bypass tract into the atria.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

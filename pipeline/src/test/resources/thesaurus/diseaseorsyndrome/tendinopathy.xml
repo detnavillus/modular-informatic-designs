@@ -1,0 +1,25 @@
+<Record>
+<Term>Tendinopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Tendon Injuries</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Tendon Injuries/Tendinopathy</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Tendinopathy</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Tendinopathy</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Tendon Injuries</BroaderTerm>
+<ChildTerm>Tenosynovitis</ChildTerm>
+<Synonym>Tendonitis</Synonym>
+<Synonym>Tendinopathies</Synonym>
+<Synonym>Tendonitides</Synonym>
+<Synonym>Tendinosis</Synonym>
+<Synonym>Tendinoses</Synonym>
+<Synonym>Tendinitis</Synonym>
+<Synonym>Tendinopathy</Synonym>
+<Synonym>Tendinitides</Synonym>
+<Description>Clinical syndrome describing overuse tendon injuries characterized by a combination of PAIN, diffuse or localized swelling, and impaired performance. Distinguishing tendinosis from tendinitis is clinically difficult and can be made only after histopathological examination.Inflammation of TENDONS. It is characterized by the degeneration of tendons accompanied by an inflammatory repair response, fibroblastic proliferation, and formation of granulation tissue. Tendinitis is not a clinical diagnosis and can be confirmed only by histopathological findings.A disorder of TENDONS characterized by COLLAGEN degeneration, other changes to tenocytes and the EXTRACELLULAR MATRIX, and a lack of inflammatory cells. It is caused by aging, microtrauma, or vascular compromise. Tendinosis is not a clinical diagnosis and can be confirmed only by histopathological findings.</Description>
+<Source>MeSH</Source>
+</Record>

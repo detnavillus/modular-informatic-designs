@@ -1,0 +1,21 @@
+<Record>
+<Term>Thyroid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases</ClassificationPath>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Hypothyroidism</ChildTerm>
+<ChildTerm>Euthyroid Sick Syndromes</ChildTerm>
+<ChildTerm>Hyperthyroidism</ChildTerm>
+<ChildTerm>Thyrotoxicosis</ChildTerm>
+<ChildTerm>Thyroid Neoplasms</ChildTerm>
+<ChildTerm>Thyroiditis</ChildTerm>
+<ChildTerm>Hyperthyroxinemia</ChildTerm>
+<ChildTerm>Thyroid Dysgenesis</ChildTerm>
+<ChildTerm>Goiter</ChildTerm>
+<Synonym>Thyroid Diseases</Synonym>
+<Synonym>Thyroid Disease</Synonym>
+<Description>Pathological processes involving the THYROID GLAND.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Epidemic Louse-Borne Typhus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rickettsia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections/Rickettsia Infections/Typhus, Epidemic Louse-Borne</ClassificationPath>
+<BroaderTerm>Typhus, Epidemic Louse-Borne</BroaderTerm>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Rickettsia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Epidemic Louse-Borne Typhus</Synonym>
+<Synonym>Brill-Zinsser Disease</Synonym>
+<Synonym>Brill Zinsser Disease</Synonym>
+<Synonym>Brill Disease</Synonym>
+<Synonym>Brill's Disease</Synonym>
+<Synonym>Brills Disease</Synonym>
+<Synonym>Typhus</Synonym>
+<Description>The classic form of typhus, caused by RICKETTSIA PROWAZEKII, which is transmitted from man to man by the louse Pediculus humanus corporis. This disease is characterized by the sudden onset of intense headache, malaise, and generalized myalgia followed by the formation of a macular skin eruption and vascular and neurologic disturbances.</Description>
+<Source>MeSH</Source>
+</Record>

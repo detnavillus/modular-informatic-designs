@@ -1,0 +1,35 @@
+<Record>
+<Term>Hypoalphalipoproteinemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypolipoproteinemias</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypoalphalipoproteinemias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hypolipoproteinemias/Hypoalphalipoproteinemias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias/Hypoalphalipoproteinemias</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypoalphalipoproteinemias</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypolipoproteinemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<ChildTerm>Tangier Disease</ChildTerm>
+<ChildTerm>Lecithin Acyltransferase Deficiency</ChildTerm>
+<Synonym>Familial High Density Lipoprotein Deficiency Disease</Synonym>
+<Synonym>Familial High-Density Lipoprotein Deficiency Disease</Synonym>
+<Synonym>Hypo alpha Lipoproteinemia</Synonym>
+<Synonym>Familial Hypoalphalipoproteinemia</Synonym>
+<Synonym>Familial alpha-Lipoprotein Deficiency Disease</Synonym>
+<Synonym>HDL Lipoprotein Deficiency Disease</Synonym>
+<Synonym>Primary Hypoalphalipoproteinemia</Synonym>
+<Synonym>Hypo alpha Lipoproteinemias</Synonym>
+<Synonym>Hypoalphalipoproteinemia</Synonym>
+<Synonym>Hypoalphalipoproteinemias</Synonym>
+<Synonym>Familial Hypoalphalipoproteinemias</Synonym>
+<Synonym>Familial alpha Lipoprotein Deficiency Disease</Synonym>
+<Synonym>Primary Hypoalphalipoproteinemias</Synonym>
+<Description>Conditions with abnormally low levels of ALPHA-LIPOPROTEINS (high-density lipoproteins) in the blood. Hypoalphalipoproteinemia can be associated with mutations in genes encoding APOLIPOPROTEIN A-I; LECITHIN CHOLESTEROL ACYLTRANSFERASE; and ATP-BINDING CASSETTE TRANSPORTERS.</Description>
+<Source>MeSH</Source>
+</Record>

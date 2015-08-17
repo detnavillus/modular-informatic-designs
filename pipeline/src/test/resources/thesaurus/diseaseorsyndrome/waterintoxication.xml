@@ -1,0 +1,17 @@
+<Record>
+<Term>Water Intoxication</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Poisoning</ParentTerm>
+<ParentTerm>Water-Electrolyte Imbalance</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Water Intoxication</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Water-Electrolyte Imbalance/Water Intoxication</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Water Intoxication</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Water-Electrolyte Imbalance</BroaderTerm>
+<Synonym>Water Intoxication</Synonym>
+<Description>A condition resulting from the excessive retention of water with sodium depletion.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Biomed 101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Chemoprotective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Miscellaneous Chemoprotective Agent/Biomed 101</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Biomed 101</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemoprotective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Miscellaneous Chemoprotective Agent</BroaderTerm>
+<Synonym>Biomed 101</Synonym>
+<Description>An agent binding to the leukotriene B4 receptor, leading to reduced interleukin-2 mediated hypoxia. Biomed 101 does not affect interleukin-2 antitumor activity.  (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

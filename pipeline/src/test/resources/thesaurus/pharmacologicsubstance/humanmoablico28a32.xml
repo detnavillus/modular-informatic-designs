@@ -1,0 +1,15 @@
+<Record>
+<Term>Human MOAB LICO 28a32</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Human MOAB LICO 28a32</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Human MOAB LICO 28a32</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Human MOAB LICO 28a32</Synonym>
+<Description>A human monoclonal immunoglobulin M (IgM) antibody with potential antineoplastic activity.  Human MOAB LICO 28a32 binds to the colon tumor-associated antigen 28A32 (CTAA 28A32) found on the cell surface and in the cytoplasm of colon carcinoma cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

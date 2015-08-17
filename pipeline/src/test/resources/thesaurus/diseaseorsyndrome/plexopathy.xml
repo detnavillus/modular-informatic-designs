@@ -1,0 +1,17 @@
+<Record>
+<Term>Plexopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Degenerative Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Degenerative Disorder/Plexopathy</ClassificationPath>
+<BroaderTerm>Plexopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Degenerative Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Brachial Plexopathy</ChildTerm>
+<Synonym>Plexopathy</Synonym>
+<Synonym>plexopathy</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

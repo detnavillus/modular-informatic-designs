@@ -1,0 +1,19 @@
+<Record>
+<Term>Rosacea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Rosacea</ClassificationPath>
+<BroaderTerm>Rosacea</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Rhinophyma</ChildTerm>
+<Synonym>Rosacea</Synonym>
+<Synonym>Acne Rosacea</Synonym>
+<Synonym>Phymatous Rosacea</Synonym>
+<Synonym>Ocular Rosacea</Synonym>
+<Synonym>Papulopustular Rosacea</Synonym>
+<Synonym>Erythematotelangiectatic Rosacea</Synonym>
+<Synonym>Granulomatous Rosacea</Synonym>
+<Description>A cutaneous disorder primarily of convexities of the central part of the FACE, such as FOREHEAD; CHEEK; NOSE; and CHIN. It is characterized by FLUSHING; ERYTHEMA; EDEMA; RHINOPHYMA; papules; and ocular symptoms. It may occur at any age but typically after age 30. There are various subtypes of rosacea: erythematotelangiectatic, papulopustular, phymatous, and ocular (National Rosacea Society's Expert Committee on the Classification and Staging of Rosacea, J Am Acad Dermatol 2002; 46:584-7).A variant of rosacea.</Description>
+<Source>MeSH</Source>
+</Record>

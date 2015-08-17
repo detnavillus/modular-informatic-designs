@@ -1,0 +1,29 @@
+<Record>
+<Term>Poxviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>DNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Poxviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Poxviridae Infections</BroaderTerm>
+<ChildTerm>Ecthyma, Contagious</ChildTerm>
+<ChildTerm>Ectromelia, Infectious</ChildTerm>
+<ChildTerm>Smallpox</ChildTerm>
+<ChildTerm>Vaccinia</ChildTerm>
+<ChildTerm>Cowpox</ChildTerm>
+<ChildTerm>Monkeypox</ChildTerm>
+<ChildTerm>Fowlpox</ChildTerm>
+<ChildTerm>Lumpy Skin Disease</ChildTerm>
+<ChildTerm>Molluscum Contagiosum</ChildTerm>
+<ChildTerm>Myxomatosis, Infectious</ChildTerm>
+<Synonym>Poxviridae Infections</Synonym>
+<Synonym>Poxviridae Infection</Synonym>
+<Synonym>Poxvirus Infection</Synonym>
+<Synonym>Poxvirus Infections</Synonym>
+<Synonym>Milker's Nodes</Synonym>
+<Synonym>Milker Nodes</Synonym>
+<Synonym>Milker's Node</Synonym>
+<Synonym>Milkers Nodes</Synonym>
+<Description>Virus diseases caused by the POXVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

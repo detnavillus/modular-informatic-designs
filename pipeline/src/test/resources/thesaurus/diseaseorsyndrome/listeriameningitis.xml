@@ -1,0 +1,31 @@
+<Record>
+<Term>Listeria Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Listeria Infections</ParentTerm>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Listeria Infections/Meningitis, Listeria</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Meningitis, Listeria</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Listeria</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Listeria</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Meningitis, Listeria</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Listeria Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<Synonym>Listeria Meningitis</Synonym>
+<Synonym>Listeria Meningitides</Synonym>
+<Synonym>Listeria Meningoencephalitides</Synonym>
+<Synonym>Listeria Cerebritides</Synonym>
+<Synonym>Listeria Meningoencephalitis</Synonym>
+<Synonym>Listeria monocytogenes Meningitides</Synonym>
+<Synonym>Listeria Cerebritis</Synonym>
+<Synonym>Listeria monocytogenes Meningitis</Synonym>
+<Description>Inflammation of the meninges caused by LISTERIA MONOCYTOGENES infection, usually occurring in individuals under the age of 3 years or over the age of 50 years. It may occur at any age in individuals with IMMUNOLOGIC DEFICIENCY SYNDROMES. Clinical manifestations include FEVER, altered mentation, HEADACHE, meningeal signs, focal neurologic signs, and SEIZURES. (From Medicine 1998 Sep;77(5):313-36)</Description>
+<Source>MeSH</Source>
+</Record>

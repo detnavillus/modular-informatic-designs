@@ -1,0 +1,19 @@
+<Record>
+<Term>Contraceptive Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reproductive Control Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Contraceptive Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Contraceptive Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Contraceptive Agents</BroaderTerm>
+<ChildTerm>Contraceptive Agents, Male</ChildTerm>
+<ChildTerm>Contraceptive Agents, Female</ChildTerm>
+<Synonym>Contraceptives</Synonym>
+<Synonym>Contraceptive Agents</Synonym>
+<Description>Chemical substances that prevent or reduce the probability of CONCEPTION.</Description>
+<Source>MeSH</Source>
+</Record>

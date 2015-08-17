@@ -1,0 +1,32 @@
+<Record>
+<Term>Thrombocytopenia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Cytopenia</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Hematopoietic System Finding/Abnormal Hematology Test Result/Cytopenia/Thrombocytopenia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia</ClassificationPath>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Cytopenia</BroaderTerm>
+<BroaderTerm>Hematopoietic System Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Hematology Test Result</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Thrombocytopenia, Neonatal Alloimmune</ChildTerm>
+<ChildTerm>Jacobsen Distal 11q Deletion Syndrome</ChildTerm>
+<ChildTerm>Thrombotic Microangiopathies</ChildTerm>
+<Synonym>Thrombopenias</Synonym>
+<Synonym>Thrombocytopenia</Synonym>
+<Synonym>Thrombocytopenias</Synonym>
+<Synonym>Thrombopenia</Synonym>
+<Synonym>thrombocytopenia</Synonym>
+<Description>A condition in which there is an abnormally small number of platelets in the circulating blood.</Description>
+<Description>A subnormal level of BLOOD PLATELETS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

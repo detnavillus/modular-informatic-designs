@@ -1,0 +1,15 @@
+<Record>
+<Term>Cognitive Dysfunction</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction</ClassificationPath>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cognitive Disturbance</ChildTerm>
+<Synonym>Cognitive Dysfunction</Synonym>
+<Description>Interference or disruption of cognitive processes.  This term encompasses a large number of problems and issues associated with intellectual functioning and information processing. 2005</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

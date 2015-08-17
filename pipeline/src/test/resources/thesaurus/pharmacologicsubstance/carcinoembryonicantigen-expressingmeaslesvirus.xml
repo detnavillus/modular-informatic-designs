@@ -1,0 +1,18 @@
+<Record>
+<Term>Carcinoembryonic Antigen-Expressing Measles Virus</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Recombinant Viral Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Carcinoembryonic Antigen-Expressing Measles Virus</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Carcinoembryonic Antigen-Expressing Measles Virus</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Carcinoembryonic Antigen-Expressing Measles Virus</Synonym>
+<Synonym>MV-CEA</Synonym>
+<Description>An attenuated oncolytic Edmonston (Ed) strain of measles virus (MV) encoding the soluble extracellular N-terminal domain of human carcinoembryonic antigen (CEA) (MV-CEA) with potential antineoplastic activity. The cellular receptor of MV is human CD46 antigen, a type 1 integral membrane glycoprotein found on nearly all human tissues and overexpressed on many cancer cell types. Mediated through CD46, both haemagglutinin and fusion glycoproteins of MV are required for the attachment to and fusion of host cell membranes, thereby leading to syncytia and cell lysis. The expressed CEA, a tumor associated antigen, can be detected in serum and used as a sensitive marker to monitor viral gene expression in order to easily optimize individual therapy. Compared to wild-type MV, the Ed strain of MV has a lower affinity for the MV receptor signaling lymphocyte-activation molecule (CD150), mainly expressed in B- and T-lymphocytes, but a higher affinity for CD46.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

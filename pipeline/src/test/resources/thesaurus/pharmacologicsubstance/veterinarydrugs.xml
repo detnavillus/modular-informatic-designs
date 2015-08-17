@@ -1,0 +1,13 @@
+<Record>
+<Term>Veterinary Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Veterinary Drugs</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Veterinary Drugs</BroaderTerm>
+<Synonym>Veterinary Drugs</Synonym>
+<Synonym>Veterinary Drug</Synonym>
+<Synonym>Veterinary Pharmaceuticals</Synonym>
+<Description>Drugs used by veterinarians in the treatment of animal diseases. The veterinarian's pharmacological armamentarium is the counterpart of drugs treating human diseases, with dosage and administration adjusted to the size, weight, disease, and idiosyncrasies of the species. In the United States most drugs are subject to federal regulations with special reference to the safety of drugs and residues in edible animal products.</Description>
+<Source>MeSH</Source>
+</Record>

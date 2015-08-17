@@ -1,0 +1,32 @@
+<Record>
+<Term>Herpes Zoster Oticus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Facial Nerve Diseases</ParentTerm>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ParentTerm>Herpes Zoster</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Herpes Zoster/Herpes Zoster Oticus</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Herpes Zoster Oticus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Facial Nerve Diseases/Herpes Zoster Oticus</ClassificationPath>
+<BroaderTerm>Facial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Herpes Zoster Oticus</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Herpes Zoster</BroaderTerm>
+<Synonym>Herpetic Geniculate Ganglionitides</Synonym>
+<Synonym>Herpetic Geniculate Ganglionitis</Synonym>
+<Synonym>Geniculate Neuralgia</Synonym>
+<Synonym>Herpes Zoster Cephalicus</Synonym>
+<Synonym>Geniculate Herpes Zoster</Synonym>
+<Synonym>Herpes Zoster Auricularis</Synonym>
+<Synonym>Herpes Zoster Oticus</Synonym>
+<Synonym>Geniculate Neuralgias</Synonym>
+<Synonym>Ramsay Hunt Auricular Syndrome</Synonym>
+<Synonym>Auricular Syndrome of Ramsay Hunt</Synonym>
+<Description>A syndrome characterized by facial palsy in association with a herpetic eruption of the external auditory meatus. This may occasionally be associated with tinnitus, vertigo, deafness, severe otalgia, and inflammation of the pinna. The condition is caused by reactivation of a latent HERPESVIRUS 3, HUMAN infection which causes inflammation of the facial and vestibular nerves, and may occasionally involve additional cranial nerves. (From Adams et al., Principles of Neurology, 6th ed, p757)</Description>
+<Source>MeSH</Source>
+</Record>

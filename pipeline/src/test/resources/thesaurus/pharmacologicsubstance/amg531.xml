@@ -1,0 +1,17 @@
+<Record>
+<Term>AMG 531</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Colony Stimulating Factor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Colony Stimulating Factor/AMG 531</ClassificationPath>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>AMG 531</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Recombinant Colony Stimulating Factor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AMG 531</Synonym>
+<Synonym>Amgen Megakaryopoiesis Protein 2</Synonym>
+<Description>A recombinant protein with megakaryopoiesis stimulating activity. AMG 531 mimics endogenous thrombopoietin (TPO), directly binding to and activating the platelet thrombopoietin receptor (TPO-R, Mpl, or CD110 antigen), a cytokine receptor belonging to the hematopoietin receptor superfamily. Activation of TPO-R stimulates the proliferation and differentiation of megakaryocytes, resulting in an increase in the production of blood platelets.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

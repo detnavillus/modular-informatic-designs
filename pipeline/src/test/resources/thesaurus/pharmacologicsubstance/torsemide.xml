@@ -1,0 +1,21 @@
+<Record>
+<Term>Torsemide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Loop Diuretic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Diuretic/Loop Diuretic/Torsemide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Torsemide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Loop Diuretic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Diuretic</BroaderTerm>
+<Synonym>TORSEMIDE</Synonym>
+<Synonym>Torsemide</Synonym>
+<Synonym>Torasemide</Synonym>
+<Synonym>Demadex</Synonym>
+<Description>An anilinopyridine sulfonylurea, belong to the class called loop diuretics with anti-hypertensive property. Torsemide interferes with the Na+ binding site of the Na-K-Cl symporter in the luminal membrane of the ascending portion of the loop of Henle in the kidney, thereby blocking the reabsorption of sodium and chloride. This results in an increased excretion of sodium, potassium, chloride, and water. Torsemide exerts its antihypertensive effect through the reduction in plasma volume which subsequently results in increased aldosterone production and ultimately in sodium reabsorption to the blood thereby stabilizing blood pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Benign Familial Pemphigus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ParentTerm>Skin Diseases, Vesiculobullous</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Pemphigus, Benign Familial</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Pemphigus, Benign Familial</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Pemphigus, Benign Familial</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Pemphigus, Benign Familial</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<Synonym>Familial Benign Chronic Pemphigus</Synonym>
+<Synonym>Benign Familial Pemphigus</Synonym>
+<Synonym>Hailey Hailey Disease</Synonym>
+<Synonym>Hailey-Hailey Disease</Synonym>
+<Description>An autosomal dominantly inherited skin disorder characterized by recurrent eruptions of vesicles and BULLAE mainly on the neck, axillae, and groin. Mutations in the ATP2C1 gene (encoding the secretory pathway Ca2++/Mn2++ ATPase 1 (SPCA1)) cause this disease.  It is clinically and histologically similar to DARIER DISEASE - both have abnormal, unstable DESMOSOMES between KERATINOCYTES and defective CALCIUM-TRANSPORTING ATPASES. It is unrelated to PEMPHIGUS VULGARIS though it closely resembles that disease.</Description>
+<Source>MeSH</Source>
+</Record>

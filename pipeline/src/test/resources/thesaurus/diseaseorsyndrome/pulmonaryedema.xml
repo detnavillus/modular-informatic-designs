@@ -1,0 +1,30 @@
+<Record>
+<Term>Pulmonary Edema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Acute Respiratory Failure</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Respiratory Failure/Acute Respiratory Failure/Pulmonary Edema</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Edema</ClassificationPath>
+<BroaderTerm>Pulmonary Edema</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Failure</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Acute Respiratory Failure</BroaderTerm>
+<Synonym>Pulmonary Edema</Synonym>
+<Synonym>Pulmonary Edemas</Synonym>
+<Synonym>Wet Lung</Synonym>
+<Synonym>Edema, pulmonary</Synonym>
+<Synonym>Wet Lungs</Synonym>
+<Description>Excessive accumulation of extravascular fluid in the lung, an indication of a serious underlying disease or disorder. Pulmonary edema prevents efficient PULMONARY GAS EXCHANGE in the PULMONARY ALVEOLI, and can be life-threatening.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

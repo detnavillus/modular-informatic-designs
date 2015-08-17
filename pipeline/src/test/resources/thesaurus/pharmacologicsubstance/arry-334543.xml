@@ -1,0 +1,16 @@
+<Record>
+<Term>ARRY-334543</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/ARRY-334543</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>ARRY-334543</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>ARRY-334543</Synonym>
+<Description>An orally active inhibitor of the epidermal growth factor receptor family with potential antineoplastic activity. ARRY-334543 selectively and reversibly binds to both EGFR (ErbB-1) and Her-2/neu (ErbB-2), thereby preventing the phosphorylation of EGFR and HER-2/neu. This in turn inhibits the activation of various signal transduction pathways, leading to an inhibition of cellular growth and eventually to cell death. EGFR and Her-2 play important roles in cell proliferation and differentiation and are upregulated in various human tumor cell types. Due to the dual inhibition of both EGFR and Her-2, ARRY-334543 might be therapeutically more efficient compared to current therapies that inhibit either EGFR or Her-2 alone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

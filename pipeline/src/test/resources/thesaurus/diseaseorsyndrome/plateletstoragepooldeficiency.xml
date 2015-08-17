@@ -1,0 +1,22 @@
+<Record>
+<Term>Platelet Storage Pool Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Platelet Storage Pool Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Platelet Storage Pool Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Platelet Storage Pool Deficiency</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Platelet Storage Pool Deficiency</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hermanski-Pudlak Syndrome</ChildTerm>
+<Synonym>Storage Pool Deficiency</Synonym>
+<Synonym>Platelet Storage Pool Deficiency</Synonym>
+<Synonym>Storage Pool Deficiencies</Synonym>
+<Description>Disorder characterized by a decrease or lack of platelet dense bodies in which the releasable pool of adenine nucleotides and 5HT are normally stored.</Description>
+<Source>MeSH</Source>
+</Record>

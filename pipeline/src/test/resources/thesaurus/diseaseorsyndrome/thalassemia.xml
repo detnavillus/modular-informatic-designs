@@ -1,0 +1,38 @@
+<Record>
+<Term>Thalassemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemoglobinopathies</ParentTerm>
+<ParentTerm>Anemia, Hemolytic, Congenital</ParentTerm>
+<ParentTerm>Hemoglobinopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Hemoglobinopathy/Thalassemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Thalassemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Thalassemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Thalassemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Thalassemia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hemoglobinopathy</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Thalassemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Thalassemia Major</ChildTerm>
+<ChildTerm>beta-Thalassemia</ChildTerm>
+<ChildTerm>delta-Thalassemia</ChildTerm>
+<ChildTerm>Alpha Thalassemia</ChildTerm>
+<ChildTerm>alpha-Thalassemia</ChildTerm>
+<Synonym>Thalassemia</Synonym>
+<Synonym>Thalassemias</Synonym>
+<Description>A group of hereditary hemolytic anemias in which there is decreased synthesis of one or more hemoglobin polypeptide chains. There are several genetic types with clinical pictures ranging from barely detectable hematologic abnormality to severe and fatal anemia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

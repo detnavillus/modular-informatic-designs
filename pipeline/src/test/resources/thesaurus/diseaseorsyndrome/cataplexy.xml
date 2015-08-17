@@ -1,0 +1,22 @@
+<Record>
+<Term>Cataplexy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Narcolepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence/Narcolepsy/Cataplexy</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence/Narcolepsy/Cataplexy</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Cataplexy</BroaderTerm>
+<BroaderTerm>Disorders of Excessive Somnolence</BroaderTerm>
+<BroaderTerm>Narcolepsy</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Status Cataplexicus</Synonym>
+<Synonym>Henneberg Syndrome</Synonym>
+<Synonym>Cataplexy</Synonym>
+<Synonym>Tonelessness Syndrome</Synonym>
+<Synonym>Tonelessness Syndromes</Synonym>
+<Description>A condition characterized by transient weakness or paralysis of somatic musculature triggered by an emotional stimulus or physical exertion. Cataplexy is frequently associated with NARCOLEPSY. During a cataplectic attack, there is a marked reduction in muscle tone similar to the normal physiologic hypotonia that accompanies rapid eye movement sleep (SLEEP, REM). (From Adams et al., Principles of Neurology, 6th ed, p396)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Oligospermia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Infertility, Male</ParentTerm>
+<ParentTerm>Sexual Dysfunction and Infertility</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Decreased Sperm Count/Oligospermia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Sexual Dysfunction and Infertility/Oligospermia</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Infertility/Infertility, Male/Oligospermia</ClassificationPath>
+<BroaderTerm>Oligospermia</BroaderTerm>
+<BroaderTerm>Decreased Sperm Count</BroaderTerm>
+<BroaderTerm>Infertility</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Oligospermia,</BroaderTerm>
+<BroaderTerm>Infertility, Male</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction and Infertility</BroaderTerm>
+<Synonym>Oligospermia</Synonym>
+<Synonym>Oligozoospermia</Synonym>
+<Synonym>Low Sperm Counts</Synonym>
+<Synonym>Low Sperm Count</Synonym>
+<Description>A condition of suboptimal concentration of SPERMATOZOA in the ejaculated SEMEN to ensure successful FERTILIZATION of an OVUM. In humans, oligospermia is defined as a sperm count below 20 million per milliliter semen.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

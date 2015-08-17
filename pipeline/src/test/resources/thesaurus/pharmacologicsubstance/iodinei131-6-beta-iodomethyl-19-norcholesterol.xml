@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I-131 NP-59</Synonym>
+<Synonym>Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol</Synonym>
+<Description>A radioiodine-labeled cholesterol analogue with radioisotopic activity. Iodine 131-I-6-beta-iodomethyl-19-norcholesterol accumulates in tissues where steroid hormones are produced, including the adrenal cortex and, to a lesser extent, the ovaries and the testes. After binding to low-density lipoprotein (LDL) receptors in the adrenal cortex, this agent is internalized, permitting scintigraphic localization of areas of adrenocortical glucocorticoid, mineralocorticoid and androgen secretion, and the scintigraphic assessment of adrenocortical function.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

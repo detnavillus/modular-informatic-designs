@@ -1,0 +1,21 @@
+<Record>
+<Term>Licorice Root Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hydroxysteroid Dehydrogenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Hydroxysteroid Dehydrogenase Inhibitor/Licorice Root Extract,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/Licorice Root Extract</ClassificationPath>
+<BroaderTerm>Hydroxysteroid Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Licorice Root Extract</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Licorice Root Extract,</BroaderTerm>
+<Synonym>Licorice Extract</Synonym>
+<Synonym>Licorice Root Extract</Synonym>
+<Synonym>Liquorice Extract</Synonym>
+<Description>An herbal extract derived from the root of the plant Glycyrrhiza glabra with potential anti-inflammatory, antioxidant, and antineoplastic activities. Licorice root extract contains glycoside glycyrrhizinic acid and numerous flavonoids. Glycyrrhizinic acid in licorice root extract is hydrolyzed to glycyrrhetic acid (GA); GA inhibits 11 beta-hydroxysteroid dehydrogenase, resulting in inhibition of the conversion of cortisol to the inactive steroid cortisone and elevated cortisol levels. In addition, GA inhibits 17,20-lyase and 17 beta-hydroxysteroid dehydrogenase, resulting in decreased conversions of 17-hydroxyprogesterone to androstenedione and androstenedione to testosterone. The primary antioxidant found in licorice root, the flavonoid glabridin, may inactivate or inhibit the activities of some cytochrome P450 enzymes. In tumor cells, beta-hydroxy-DHP, another flavonoid, may induce Bcl-2 phosphorylation, apoptosis, and G2/M cell cycle arrest.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

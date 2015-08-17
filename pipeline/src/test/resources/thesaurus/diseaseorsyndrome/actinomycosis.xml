@@ -1,0 +1,31 @@
+<Record>
+<Term>Actinomycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Actinomycetales Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Actinomycosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Actinomycosis</ClassificationPath>
+<BroaderTerm>Actinomycosis</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Actinomycosis, Cervicofacial</ChildTerm>
+<ChildTerm>Cervicofacial Actinomycotic Infection</ChildTerm>
+<ChildTerm>Whipple Disease</ChildTerm>
+<ChildTerm>Actinomycetoma</ChildTerm>
+<Synonym>Actinomyces Infections</Synonym>
+<Synonym>Actinomycosis</Synonym>
+<Synonym>Actinomycoses</Synonym>
+<Synonym>Actinomyces Infection</Synonym>
+<Description>Infections with bacteria of the genus ACTINOMYCES.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,43 @@
+<Record>
+<Term>Non-Neoplastic Eye Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Non-Neoplastic Eye Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder,</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Optic Atrophy</ChildTerm>
+<ChildTerm>Dacryoadenitis</ChildTerm>
+<ChildTerm>Blepharoconjunctivitis</ChildTerm>
+<ChildTerm>Cataract</ChildTerm>
+<ChildTerm>Non-Neoplastic Corneal Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Retinal Disorder</ChildTerm>
+<ChildTerm>Glaucoma</ChildTerm>
+<ChildTerm>Keratoconjunctivitis</ChildTerm>
+<ChildTerm>Nystagmus</ChildTerm>
+<ChildTerm>Sunset Syndrome</ChildTerm>
+<ChildTerm>Iritis</ChildTerm>
+<ChildTerm>Vitreous Detachment</ChildTerm>
+<ChildTerm>Uveitis Glaucoma And Hyphema Syndrome</ChildTerm>
+<ChildTerm>Pars Planitis</ChildTerm>
+<ChildTerm>Contact Lens Overwear Syndrome</ChildTerm>
+<ChildTerm>Non-Neoplastic Conjunctival Disorder</ChildTerm>
+<ChildTerm>Cyclitis</ChildTerm>
+<ChildTerm>Eye Infection</ChildTerm>
+<ChildTerm>Hyphema</ChildTerm>
+<ChildTerm>Non-Neoplastic Eyelid Disorder</ChildTerm>
+<ChildTerm>Dry Eye Syndrome</ChildTerm>
+<ChildTerm>Non-Neoplastic Uveal Disorder</ChildTerm>
+<ChildTerm>Choroideremia</ChildTerm>
+<ChildTerm>Iridocyclitis</ChildTerm>
+<Synonym>Non-Neoplastic Eye Disease</Synonym>
+<Synonym>Non-Neoplastic Eye Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Mandibular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Jaw Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Mandibular Diseases</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Mandibular Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Mandibular Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<ChildTerm>Retrognathism</ChildTerm>
+<ChildTerm>Craniomandibular Disorders</ChildTerm>
+<ChildTerm>Mandibular Neoplasms</ChildTerm>
+<ChildTerm>Prognathism</ChildTerm>
+<Synonym>Mandibular Disease</Synonym>
+<Synonym>Mandibular Diseases</Synonym>
+<Source>MeSH</Source>
+</Record>

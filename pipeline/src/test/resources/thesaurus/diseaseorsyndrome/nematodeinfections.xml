@@ -1,0 +1,16 @@
+<Record>
+<Term>Nematode Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Secernentea Infections</ChildTerm>
+<ChildTerm>Adenophorea Infections</ChildTerm>
+<ChildTerm>Larva Migrans</ChildTerm>
+<Synonym>Nematode Infections</Synonym>
+<Synonym>Nematode Infection</Synonym>
+<Description>Infections by nematodes, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

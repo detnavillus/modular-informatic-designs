@@ -1,0 +1,23 @@
+<Record>
+<Term>Andersen Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Long QT Syndrome</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Long QT Syndrome/Andersen Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Long QT Syndrome/Andersen Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Long QT Syndrome/Andersen Syndrome</ClassificationPath>
+<BroaderTerm>Long QT Syndrome</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Andersen Syndrome</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Andersen Syndrome</Synonym>
+<Synonym>Long QT Syndrome 7</Synonym>
+<Description>A form of inherited long QT syndrome (or LQT7) that is characterized by a triad of potassium-sensitive periodic paralysis, VENTRICULAR ECTOPIC BEATS, and abnormal features such as short stature, low-set ears, and SCOLIOSIS. It results from mutations of KCNJ2 gene which encodes a channel protein (INWARD RECTIFIER POTASSIUM CHANNELS) that regulates resting membrane potential.</Description>
+<Source>MeSH</Source>
+</Record>

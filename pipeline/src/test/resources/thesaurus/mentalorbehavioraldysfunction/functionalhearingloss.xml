@@ -1,0 +1,29 @@
+<Record>
+<Term>Functional Hearing Loss</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Hearing Loss</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Functional</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Functional</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Hearing Loss, Functional</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Hearing Loss, Functional</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss, Functional</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<Synonym>Psychogenic Hearing Loss</Synonym>
+<Synonym>Nonorganic Hearing Loss</Synonym>
+<Synonym>Functional Hearing Loss</Synonym>
+<Description>Hearing loss without a physical basis. Often observed in patients with psychological or behavioral disorders.</Description>
+<Source>MeSH</Source>
+</Record>

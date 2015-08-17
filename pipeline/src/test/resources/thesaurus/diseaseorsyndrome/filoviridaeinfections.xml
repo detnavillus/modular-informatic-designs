@@ -1,0 +1,16 @@
+<Record>
+<Term>Filoviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mononegavirales Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Filoviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Filoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Hemorrhagic Fever, Ebola</ChildTerm>
+<ChildTerm>Marburg Virus Disease</ChildTerm>
+<Synonym>Filoviridae Infections</Synonym>
+<Synonym>Filoviridae Infection</Synonym>
+<Description>Infections with viruses of the family FILOVIRIDAE. The infections in humans consist of a variety of clinically similar viral hemorrhagic fevers but the natural reservoir host is unknown.</Description>
+<Source>MeSH</Source>
+</Record>

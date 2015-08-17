@@ -1,0 +1,15 @@
+<Record>
+<Term>Cholera</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vibrio Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Vibrio Infections/Cholera</ClassificationPath>
+<BroaderTerm>Vibrio Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cholera</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Cholera</Synonym>
+<Synonym>Choleras</Synonym>
+<Description>An acute diarrheal disease endemic in India and Southeast Asia whose causative agent is VIBRIO CHOLERAE. This condition can lead to severe dehydration in a matter of hours unless quickly treated.</Description>
+<Source>MeSH</Source>
+</Record>

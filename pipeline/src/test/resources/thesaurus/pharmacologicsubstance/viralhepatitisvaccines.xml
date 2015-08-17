@@ -1,0 +1,17 @@
+<Record>
+<Term>Viral Hepatitis Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Viral Hepatitis Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Viral Hepatitis Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Hepatitis B Vaccines</ChildTerm>
+<ChildTerm>Hepatitis A Vaccines</ChildTerm>
+<Synonym>Viral Hepatitis Vaccines</Synonym>
+<Description>Any vaccine raised against any virus or viral derivative that causes hepatitis.</Description>
+<Source>MeSH</Source>
+</Record>

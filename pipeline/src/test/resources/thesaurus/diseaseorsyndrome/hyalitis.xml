@@ -1,0 +1,19 @@
+<Record>
+<Term>Hyalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitreous Body Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Vitreous Body Disorder/Hyalitis</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Vitreous Body Disorder</BroaderTerm>
+<BroaderTerm>Hyalitis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Hyalitis</Synonym>
+<Synonym>Hyaloiditis</Synonym>
+<Synonym>Vitreitis</Synonym>
+<Synonym>Vitritis</Synonym>
+<Description>Inflammatory intraocular reaction with clouding and cells in vitreous; often accompanies inflammation of ciliary body, iris, choroid, or retina.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

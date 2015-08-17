@@ -1,0 +1,33 @@
+<Record>
+<Term>Paracoccidioidomycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Fungal Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Paracoccidioidomycosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Paracoccidioidomycosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Paracoccidioidomycosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Paracoccidioidomycosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Paracoccidioidomycosis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Paracoccidioidomycosis</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<Synonym>Paracoccidioidomycosis</Synonym>
+<Synonym>Paracoccidioidomycoses</Synonym>
+<Synonym>South American Blastomycosis</Synonym>
+<Description>A mycosis affecting the skin, mucous membranes, lymph nodes, and internal organs. It is caused by Paracoccidioides brasiliensis. It is also called paracoccidioidal granuloma. Superficial resemblance of P. brasiliensis to Blastomyces brasiliensis (BLASTOMYCES) may cause misdiagnosis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

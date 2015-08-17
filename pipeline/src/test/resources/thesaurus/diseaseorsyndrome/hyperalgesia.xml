@@ -1,0 +1,37 @@
+<Record>
+<Term>Hyperalgesia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Symptom</ParentTerm>
+<ParentTerm>Somatosensory Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Somatosensory Disorders/Hyperalgesia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Somatosensory Disorders/Hyperalgesia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Hyperalgesia</ClassificationPath>
+<BroaderTerm>Hyperalgesia</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Somatosensory Disorders</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Hyperalgesia</Synonym>
+<Synonym>Hyperalgesias</Synonym>
+<Synonym>Secondary Hyperalgesias</Synonym>
+<Synonym>Secondary Hyperalgesia</Synonym>
+<Synonym>Tactile Hyperalgesia</Synonym>
+<Synonym>Hyperalgesic Sensations</Synonym>
+<Synonym>Thermal Hyperalgesias</Synonym>
+<Synonym>Primary Hyperalgesia</Synonym>
+<Synonym>Hyperalgesic Sensation</Synonym>
+<Synonym>Tactile Hyperalgesias</Synonym>
+<Synonym>Thermal Hyperalgesia</Synonym>
+<Synonym>Primary Hyperalgesias</Synonym>
+<Description>An increased sensation to painful stimuli that may follow damage to soft tissue containing NOCICEPTORS or injury to a peripheral nerve. Hyperalgesia can occur both at the site of tissue damage (primary hyperalgesia) and in the surrounding undamaged areas (secondary hyperalgesia). (Kandel et al., Principles of Neural Science, 3d ed, p386)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

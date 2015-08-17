@@ -1,0 +1,17 @@
+<Record>
+<Term>Seneca Valley Virus-001</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/Seneca Valley Virus-001</ClassificationPath>
+<BroaderTerm>Seneca Valley Virus-001</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>NTX-010</Synonym>
+<Synonym>Seneca Valley Virus-001</Synonym>
+<Description>A replication-competent oncolytic picornavirus with potential antineoplastic activity. Administered systemically, Seneca Valley virus-001 specifically targets and infects tumor cells with neuroendocrine characteristics. Upon infection, this agent replicates intracellularly, resulting in tumor cell lysis and reduced tumor cell proliferation. The selective tropism of virus replication may involve receptor-mediated internalization.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

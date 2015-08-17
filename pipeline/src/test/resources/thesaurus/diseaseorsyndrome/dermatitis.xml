@@ -1,0 +1,71 @@
+<Record>
+<Term>Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatosis</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis</ClassificationPath>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Herpes Simplex Dermatitis</ChildTerm>
+<ChildTerm>Dermatitis, Seborrheic</ChildTerm>
+<ChildTerm>Urticaria</ChildTerm>
+<ChildTerm>Photodermatitis</ChildTerm>
+<ChildTerm>Acne</ChildTerm>
+<ChildTerm>Dermatitis due to Unspecified Substance taken Internally</ChildTerm>
+<ChildTerm>Psoriasiform Dermatitis</ChildTerm>
+<ChildTerm>Bullous Dermatitis</ChildTerm>
+<ChildTerm>Drug Eruptions</ChildTerm>
+<ChildTerm>Dermatitis due to Dichromate</ChildTerm>
+<ChildTerm>Eczema</ChildTerm>
+<ChildTerm>Dermatosis Papulosa Nigra</ChildTerm>
+<ChildTerm>Photosensitive Dermatitis</ChildTerm>
+<ChildTerm>Acneiform Dermatitis</ChildTerm>
+<ChildTerm>Acanthosis Nigricans</ChildTerm>
+<ChildTerm>Herpes Zoster Dermatitis</ChildTerm>
+<ChildTerm>Vitiligo</ChildTerm>
+<ChildTerm>Dermatitis Herpetiformis</ChildTerm>
+<ChildTerm>Palmoplantar Pustulosis</ChildTerm>
+<ChildTerm>Contact Dermatitis</ChildTerm>
+<ChildTerm>Dermatophytosis</ChildTerm>
+<ChildTerm>Lichenoid Drug Eruption</ChildTerm>
+<ChildTerm>Radiodermatitis</ChildTerm>
+<ChildTerm>Acrodermatitis</ChildTerm>
+<ChildTerm>Dermatitis due to Alkalis</ChildTerm>
+<ChildTerm>Dermatitis, Contact</ChildTerm>
+<ChildTerm>Intertrigo</ChildTerm>
+<ChildTerm>Dermatitis due to Acids</ChildTerm>
+<ChildTerm>Psoriasis</ChildTerm>
+<ChildTerm>Spongiotic Dermatitis</ChildTerm>
+<ChildTerm>Dermatitis due to Food taken Internally</ChildTerm>
+<ChildTerm>Neurodermatitis</ChildTerm>
+<ChildTerm>Lichen Sclerosus et Atrophicus</ChildTerm>
+<ChildTerm>Granulomatous Dermatitis</ChildTerm>
+<ChildTerm>Allergic Dermatitis due to Arnica</ChildTerm>
+<ChildTerm>Dermatitis, Perioral</ChildTerm>
+<ChildTerm>Occupational Dermatitis</ChildTerm>
+<ChildTerm>Dermatitis, Atopic</ChildTerm>
+<ChildTerm>Porphyria Cutanea Tarda</ChildTerm>
+<ChildTerm>Radiation-Induced Dermatitis</ChildTerm>
+<ChildTerm>Dermatitis, Exfoliative</ChildTerm>
+<ChildTerm>Pityriasis Rosea</ChildTerm>
+<ChildTerm>Lichen Planus</ChildTerm>
+<Synonym>Inflammation of the Skin</Synonym>
+<Synonym>Dermatitides</Synonym>
+<Synonym>dermatitis</Synonym>
+<Synonym>Skin Inflammation</Synonym>
+<Synonym>Inflammation of skin</Synonym>
+<Synonym>Inflammation of Skin</Synonym>
+<Synonym>Dermatitis</Synonym>
+<Description>Any inflammation of the skin.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

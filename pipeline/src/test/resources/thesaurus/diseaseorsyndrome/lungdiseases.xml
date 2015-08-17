@@ -1,0 +1,42 @@
+<Record>
+<Term>Lung Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<ChildTerm>Lung Diseases, Interstitial</ChildTerm>
+<ChildTerm>Lung Injury</ChildTerm>
+<ChildTerm>Lung Diseases, Fungal</ChildTerm>
+<ChildTerm>Lung Diseases, Obstructive</ChildTerm>
+<ChildTerm>Pulmonary Atelectasis</ChildTerm>
+<ChildTerm>Pneumonia</ChildTerm>
+<ChildTerm>Lung Neoplasms</ChildTerm>
+<ChildTerm>Solitary Pulmonary Nodule</ChildTerm>
+<ChildTerm>Cystic Fibrosis</ChildTerm>
+<ChildTerm>Lung Diseases, Parasitic</ChildTerm>
+<ChildTerm>Hypertension, Pulmonary</ChildTerm>
+<ChildTerm>Pulmonary Alveolar Proteinosis</ChildTerm>
+<ChildTerm>Pulmonary Edema</ChildTerm>
+<ChildTerm>Pulmonary Embolism</ChildTerm>
+<ChildTerm>Pulmonary Emphysema</ChildTerm>
+<ChildTerm>Pulmonary Eosinophilia</ChildTerm>
+<ChildTerm>Pulmonary Fibrosis</ChildTerm>
+<ChildTerm>Pulmonary Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome, Newborn</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome, Adult</ChildTerm>
+<ChildTerm>Scimitar Syndrome</ChildTerm>
+<ChildTerm>Tuberculosis, Pulmonary</ChildTerm>
+<ChildTerm>Cystic Adenomatoid Malformation of Lung, Congenital</ChildTerm>
+<ChildTerm>Plasma Cell Granuloma, Pulmonary</ChildTerm>
+<ChildTerm>Hepatopulmonary Syndrome</ChildTerm>
+<ChildTerm>Acute Chest Syndrome</ChildTerm>
+<ChildTerm>Hemoptysis</ChildTerm>
+<ChildTerm>Lung Abscess</ChildTerm>
+<Synonym>Lung Diseases</Synonym>
+<Synonym>Lung Disease</Synonym>
+<Synonym>Pulmonary Disease</Synonym>
+<Synonym>Pulmonary Diseases</Synonym>
+<Description>Pathological processes involving any part of the LUNG.</Description>
+<Source>MeSH</Source>
+</Record>

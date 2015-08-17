@@ -1,0 +1,31 @@
+<Record>
+<Term>Typhoid Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Salmonella Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Salmonella Infections/Typhoid Fever</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Typhoid Fever</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Typhoid Fever</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Salmonella Infections</BroaderTerm>
+<Synonym>Typhoid Fevers</Synonym>
+<Synonym>Enteric Fevers</Synonym>
+<Synonym>Typhoids</Synonym>
+<Synonym>Typhoid Fever</Synonym>
+<Synonym>Typhoid</Synonym>
+<Synonym>Abdominal Typhus</Synonym>
+<Synonym>Enteric Fever</Synonym>
+<Description>An acute systemic febrile infection caused by SALMONELLA TYPHI, a serotype of SALMONELLA ENTERICA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

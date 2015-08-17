@@ -1,0 +1,17 @@
+<Record>
+<Term>Herpes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Herpes</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Herpes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Herpes</Synonym>
+<Description>Any inflammatory skin disease caused by a herpesvirus and characterized by the formation of small vesicles in clusters.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

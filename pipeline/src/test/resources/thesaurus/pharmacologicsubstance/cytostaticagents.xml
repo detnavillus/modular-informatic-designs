@@ -1,0 +1,15 @@
+<Record>
+<Term>Cytostatic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Noxae</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Cytostatic Agents</ClassificationPath>
+<BroaderTerm>Cytostatic Agents</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<Synonym>Cytostatic Agents</Synonym>
+<Synonym>Cytostatics</Synonym>
+<Synonym>Cytostatic Drugs</Synonym>
+<Description>Compounds that inhibit or prevent the proliferation of CELLS.</Description>
+<Source>MeSH</Source>
+</Record>

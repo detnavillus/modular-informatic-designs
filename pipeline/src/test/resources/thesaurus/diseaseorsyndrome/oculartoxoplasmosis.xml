@@ -1,0 +1,21 @@
+<Record>
+<Term>Ocular Toxoplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Toxoplasmosis</ParentTerm>
+<ParentTerm>Eye Infections, Parasitic</ParentTerm>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Parasitic/Toxoplasmosis, Ocular</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Toxoplasmosis/Toxoplasmosis, Ocular</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Eye Infections, Parasitic/Toxoplasmosis, Ocular</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Toxoplasmosis, Ocular</BroaderTerm>
+<BroaderTerm>Eye Infections, Parasitic</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Ocular Toxoplasmoses</Synonym>
+<Synonym>Ocular Toxoplasmosis</Synonym>
+<Description>Infection caused by the protozoan parasite TOXOPLASMA in which there is extensive connective tissue proliferation, the retina surrounding the lesions remains normal, and the ocular media remain clear. Chorioretinitis may be associated with all forms of toxoplasmosis, but is usually a late sequel of congenital toxoplasmosis. The severe ocular lesions in infants may lead to blindness.</Description>
+<Source>MeSH</Source>
+</Record>

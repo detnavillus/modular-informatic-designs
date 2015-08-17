@@ -1,0 +1,64 @@
+<Record>
+<Term>Platelet Aggregation Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Platelet Aggregation Inhibitors</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiplatelet Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiplatelet Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Platelet Aggregation Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Israpafant</ChildTerm>
+<ChildTerm>Anagrelide Hydrochloride</ChildTerm>
+<ChildTerm>Rocepafant</ChildTerm>
+<ChildTerm>Furegrelate</ChildTerm>
+<ChildTerm>Pentoxifylline</ChildTerm>
+<ChildTerm>Andrographolide</ChildTerm>
+<ChildTerm>Anagrelide</ChildTerm>
+<ChildTerm>Pamicogrel</ChildTerm>
+<ChildTerm>Ibudilast</ChildTerm>
+<ChildTerm>3,4-Dihydroxyphenylethanol</ChildTerm>
+<ChildTerm>Ticlopidine Hydrochloride</ChildTerm>
+<ChildTerm>Atrinositol</ChildTerm>
+<ChildTerm>Sarpogrelate</ChildTerm>
+<ChildTerm>Eptifibatide</ChildTerm>
+<ChildTerm>Xemilofiban Hydrochloride</ChildTerm>
+<ChildTerm>Cilostazol</ChildTerm>
+<ChildTerm>Dacopafant</ChildTerm>
+<ChildTerm>Foropafant</ChildTerm>
+<ChildTerm>Midazogrel</ChildTerm>
+<ChildTerm>Naftopidil</ChildTerm>
+<ChildTerm>Ditazole</ChildTerm>
+<ChildTerm>Clopidogrel</ChildTerm>
+<ChildTerm>Satigrel</ChildTerm>
+<ChildTerm>Clopidogrel Bisulfate</ChildTerm>
+<ChildTerm>Pentifylline</ChildTerm>
+<ChildTerm>Samixogrel</ChildTerm>
+<ChildTerm>Ticlopidine</ChildTerm>
+<ChildTerm>Tirofiban Hydrochloride</ChildTerm>
+<ChildTerm>Plafibride</ChildTerm>
+<ChildTerm>Ozagrel</ChildTerm>
+<ChildTerm>Picotamide</ChildTerm>
+<Synonym>Platelet Inhibitors</Synonym>
+<Synonym>Antiplatelet Agent</Synonym>
+<Synonym>Blood Platelet Aggregation Inhibitors</Synonym>
+<Synonym>Platelet Aggregation Inhibitors</Synonym>
+<Synonym>Blood Platelet Antagonists</Synonym>
+<Synonym>Antiplatelet Drugs</Synonym>
+<Synonym>Platelet Antiaggregants</Synonym>
+<Synonym>Blood Platelet Antiaggregants</Synonym>
+<Synonym>Platelet Antagonists</Synonym>
+<Synonym>Antiplatelet Agents</Synonym>
+<Description>Drugs or agents which antagonize or impair any mechanism leading to blood platelet aggregation, whether during the phases of activation and shape change or following the dense-granule release reaction and stimulation of the prostaglandin-thromboxane system.</Description>
+<Description>An agent that inhibits platelet aggregation and reduces coagulation in the circulatory system.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

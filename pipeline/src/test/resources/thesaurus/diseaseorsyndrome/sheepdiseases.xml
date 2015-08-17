@@ -1,0 +1,24 @@
+<Record>
+<Term>Sheep Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Sheep Diseases</ClassificationPath>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Bluetongue</ChildTerm>
+<ChildTerm>Border Disease</ChildTerm>
+<ChildTerm>Ecthyma, Contagious</ChildTerm>
+<ChildTerm>Pneumonia, Progressive Interstitial, of Sheep</ChildTerm>
+<ChildTerm>Pulmonary Adenomatosis, Ovine</ChildTerm>
+<ChildTerm>Scrapie</ChildTerm>
+<ChildTerm>Swayback</ChildTerm>
+<ChildTerm>Visna</ChildTerm>
+<ChildTerm>Louping Ill</ChildTerm>
+<ChildTerm>Nairobi Sheep Disease</ChildTerm>
+<Synonym>Sheep Diseases</Synonym>
+<Synonym>Sheep Disease</Synonym>
+<Synonym>Ovine Diseases</Synonym>
+<Synonym>Ovine Disease</Synonym>
+<Description>Diseases of domestic and mountain sheep of the genus Ovis.</Description>
+<Source>MeSH</Source>
+</Record>

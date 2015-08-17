@@ -1,0 +1,20 @@
+<Record>
+<Term>Heart Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Aneurysm</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Heart Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Aneurysm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Heart Aneurysm</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Cardiac Aneurysms</Synonym>
+<Synonym>Heart Aneurysm</Synonym>
+<Synonym>Cardiac Aneurysm</Synonym>
+<Synonym>Heart Aneurysms</Synonym>
+<Description>A localized bulging or dilatation in the muscle wall of a heart (MYOCARDIUM), usually in the LEFT VENTRICLE. Blood-filled aneurysms are dangerous because they may burst. Fibrous aneurysms interfere with the heart function through the loss of contractility. True aneurysm is bound by the vessel wall or cardiac wall. False aneurysms are HEMATOMA caused by myocardial rupture.</Description>
+<Source>MeSH</Source>
+</Record>

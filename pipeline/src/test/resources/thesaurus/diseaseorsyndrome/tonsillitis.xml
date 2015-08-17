@@ -1,0 +1,21 @@
+<Record>
+<Term>Tonsillitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Pharyngitis</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Pharyngitis/Tonsillitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pharyngitis/Tonsillitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Pharyngitis/Tonsillitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngitis</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Tonsillitis</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<ChildTerm>Peritonsillar Abscess</ChildTerm>
+<Synonym>Tonsillitis</Synonym>
+<Synonym>Tonsillitides</Synonym>
+<Description>Inflammation of the tonsils, especially the PALATINE TONSILS but the ADENOIDS (pharyngeal tonsils) and lingual tonsils may also be involved. Tonsillitis usually is caused by bacterial infection. Tonsillitis may be acute, chronic, or recurrent.</Description>
+<Source>MeSH</Source>
+</Record>

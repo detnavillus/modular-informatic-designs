@@ -1,0 +1,16 @@
+<Record>
+<Term>Autoimmune Process</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathologic Process</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Autoimmune Process</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Autoimmune Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<Synonym>Autoimmune</Synonym>
+<Synonym>Autoimmune Process</Synonym>
+<Synonym>Autoimmune reaction</Synonym>
+<Synonym>Reaction, autoimmune</Synonym>
+<Description>Developmentally complex, not necessarily pathological, and possibly pervasive, an Autoimmune Process is a specific humoral or cell-mediated immune response against autologous (self) antigens.  An autoimmune process may produce or be caused by autoimmune disease.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

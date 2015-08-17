@@ -1,0 +1,18 @@
+<Record>
+<Term>Fowlpox Virus Vaccine Vector</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Fowlpox Virus Vaccine Vector</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine Vector</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>FOWLVAC</Synonym>
+<Synonym>Fowlpox Virus Vaccine Vector</Synonym>
+<Description>A recombinant fowlpox virus-based vaccine vector designed to express various tumor-associated peptide antigens. Strong CD8 cytotoxic T cell responses may be induced after prolonged immunization with fowlpox virus vaccines and have been associated with tumor regression. Fowlpox virus is an attractive vector because its genome is easy to manipulate and it does not multiply in human tissues. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

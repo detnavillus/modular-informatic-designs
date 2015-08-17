@@ -1,0 +1,14 @@
+<Record>
+<Term>Tick Infestations</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ectoparasitic Infestations</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Ectoparasitic Infestations/Tick Infestations</ClassificationPath>
+<BroaderTerm>Tick Infestations</BroaderTerm>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Ectoparasitic Infestations</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Tick Infestations</Synonym>
+<Synonym>Tick Infestation</Synonym>
+<Description>Infestations with soft-bodied (Argasidae) or hard-bodied (Ixodidae) ticks.</Description>
+<Source>MeSH</Source>
+</Record>

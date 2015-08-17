@@ -1,0 +1,24 @@
+<Record>
+<Term>Talotrexin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Folate Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Folate Antagonist/Talotrexin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Dihydrofolate Reductase Inhibitor/Talotrexin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Talotrexin,</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Dihydrofolate Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Talotrexin</BroaderTerm>
+<BroaderTerm>Folate Antagonist</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PT-523</Synonym>
+<Synonym>PT523</Synonym>
+<Synonym>Talopterin</Synonym>
+<Synonym>Talotrexin</Synonym>
+<Synonym>Talotrexin Ammonium</Synonym>
+<Description>An antimetabolite analogue of aminopterin with potential antineoplastic activity. As a folate antagonist, talotrexin binds to and inhibits the function of dihydrofolate reductase, resulting in the inhibition of folate metabolism, DNA synthesis, and cell division. Hydrosoluble, talotrexin is actively transported into cells by the reduced folate carrier (RFC) and, therefore, is unlikely to be associated with P-glycoprotein-mediated multidrug resistance.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

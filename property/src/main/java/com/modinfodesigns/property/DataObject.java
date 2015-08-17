@@ -209,7 +209,7 @@ public class DataObject implements IPropertyHolder
     {
       StringBuilder sbr = new StringBuilder( );
       sbr.append( "{" );
-            
+
       if (getName() != null && getName().trim().length() > 0 && jsonNameLabel != null)
       {
         sbr.append( "\"" ).append( jsonNameLabel ).append( "\":\"" ).append( getName( ) ).append( "\"" );
@@ -229,14 +229,13 @@ public class DataObject implements IPropertyHolder
             
       //if (sbr.length() > 1 ) sbr.append( "," );
       //sbr.append( "\"type\"" ).append( getType( ) ).append( "\"" );
-            
+
       for (IProperty prop : propMap.values( ) )
       {
         if ((prop instanceof IntrinsicPropertyDelegate) == false &&
             (prop instanceof IFunctionProperty) == false)
         {
           if (sbr.length() > 1 ) sbr.append( "," );
-                	
           if (prop instanceof DataObject )
           {
             DataObject chObj = (DataObject)prop;
@@ -750,7 +749,8 @@ public class DataObject implements IPropertyHolder
         functionProps.remove( oldNdx );
       }
     }
-        
+     
+    // if property is in a property list - remove it from the list
     if (propMap != null) propMap.remove( propName );
   }
     
@@ -778,7 +778,24 @@ public class DataObject implements IPropertyHolder
     while( propIt != null && propIt.hasNext( ))
     {
       IProperty prop = propIt.next( );
-      if (prop instanceof DataObject)
+      if (prop instanceof PropertyList )
+      {
+        PropertyList propLst = (PropertyList)prop;
+        int propNdx = -1;
+        for (int i = 0; i < propLst.size(); i++) {
+          IProperty lProp = propLst.getProperty( i );
+          if (lProp instanceof DataObject && ((DataObject)lProp).getID().equals( objectID ))
+          {
+            propNdx = i;
+            break;
+          }
+          if (propNdx >= 0)
+          {
+            propLst.removeProperty( propNdx );
+          }
+        }
+      }
+      else if (prop instanceof DataObject)
       {
         DataObject chOb = (DataObject)prop;
         if (chOb.getID() != null && chOb.getID().equals( objectID ))

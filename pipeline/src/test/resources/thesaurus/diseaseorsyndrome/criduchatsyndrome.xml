@@ -1,0 +1,16 @@
+<Record>
+<Term>Cri du Chat Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Cri du Chat Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Cri du Chat Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>5p Deletion Syndrome</Synonym>
+<Synonym>Cat-Cry Syndrome</Synonym>
+<Synonym>Cri du Chat Syndrome</Synonym>
+<Description>A genetic syndrome resulting from a partial deletion on the short arm of chromosome 5.  It is characterized by a cat-like cry in infancy, microcephaly, mental retardation, growth failure, round face, hypertelorism, and cardiac failure.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

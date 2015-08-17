@@ -1,0 +1,38 @@
+<Record>
+<Term>Schistosomiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Trematode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Schistosomiasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Schistosomiasis</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Schistosomiasis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<ChildTerm>Bladder Schistosomiasis</ChildTerm>
+<ChildTerm>Schistosomiasis japonica</ChildTerm>
+<ChildTerm>Schistosoma Mansoni Infection</ChildTerm>
+<ChildTerm>Schistosomiasis mansoni</ChildTerm>
+<ChildTerm>Neuroschistosomiasis</ChildTerm>
+<ChildTerm>Schistosomiasis haematobia</ChildTerm>
+<ChildTerm>Schistosoma Japonicum Infection</ChildTerm>
+<ChildTerm>Schistosoma Hematobium Infection</ChildTerm>
+<ChildTerm>Cutaneous Schistosomiasis</ChildTerm>
+<ChildTerm>Infection by Schistosoma Bovis</ChildTerm>
+<ChildTerm>Infection by Schistosoma Intercalatum</ChildTerm>
+<ChildTerm>Infection by Schistosoma Mattheii</ChildTerm>
+<Synonym>Bilharziasis</Synonym>
+<Synonym>Schistosomiases</Synonym>
+<Synonym>Schistosomiasis</Synonym>
+<Synonym>Bilharziases</Synonym>
+<Description>Infection with flukes (trematodes) of the genus SCHISTOSOMA. Three species produce the most frequent clinical diseases: SCHISTOSOMA HAEMATOBIUM (endemic in Africa and the Middle East), SCHISTOSOMA MANSONI (in Egypt, northern and southern Africa, some West Indies islands, northern 2/3 of South America), and SCHISTOSOMA JAPONICUM (in Japan, China, the Philippines, Celebes, Thailand, Laos). S. mansoni is often seen in Puerto Ricans living in the United States. (Merck Manual, 15th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Retinal Vascular Occlusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Vascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder/Retinal Vascular Occlusion,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Retinal Vascular Disorder/Retinal Vascular Occlusion</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Retinal Vascular Occlusion,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Retinal Vascular Occlusion</BroaderTerm>
+<BroaderTerm>Retinal Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Retinal Artery Occlusion</ChildTerm>
+<ChildTerm>Retinal Vein Occlusion</ChildTerm>
+<Synonym>Retinal Vascular Occlusion</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

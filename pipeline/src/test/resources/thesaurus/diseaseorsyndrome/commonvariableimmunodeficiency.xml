@@ -1,0 +1,24 @@
+<Record>
+<Term>Common Variable Immunodeficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Hypogammaglobulinemia</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Common Variable Immunodeficiency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Deficiency of Humoral Immunity/Hypogammaglobulinemia/Common Variable Immunodeficiency</ClassificationPath>
+<BroaderTerm>Common Variable Immunodeficiency</BroaderTerm>
+<BroaderTerm>Deficiency of Humoral Immunity</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Hypogammaglobulinemia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Common Variable Immunodeficiency</Synonym>
+<Synonym>Acquired Agammaglobulinemia</Synonym>
+<Synonym>Common Variable Immunodeficiencies</Synonym>
+<Description>Heterogeneous group of immunodeficiency syndromes characterized by hypogammaglobulinemia of most isotypes, variable B-cell defects, and the presence of recurrent bacterial infections.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

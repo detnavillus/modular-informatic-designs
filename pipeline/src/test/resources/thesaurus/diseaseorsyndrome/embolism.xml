@@ -1,0 +1,33 @@
+<Record>
+<Term>Embolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Non-Neoplastic Vascular Disorder</ParentTerm>
+<ParentTerm>Embolism and Thrombosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Embolism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Embolism</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Air Embolism</ChildTerm>
+<ChildTerm>Thromboembolism</ChildTerm>
+<ChildTerm>Pulmonary Embolism</ChildTerm>
+<ChildTerm>Embolism, Air</ChildTerm>
+<ChildTerm>Embolism, Fat</ChildTerm>
+<ChildTerm>Embolism, Amniotic Fluid</ChildTerm>
+<Synonym>embolism</Synonym>
+<Synonym>Embolism</Synonym>
+<Synonym>Embolisms</Synonym>
+<Synonym>Embolus</Synonym>
+<Description>Blocking of a blood vessel by an embolus which can be a blood clot or other undissolved material in the blood stream.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

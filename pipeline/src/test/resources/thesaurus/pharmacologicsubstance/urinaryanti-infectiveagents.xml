@@ -1,0 +1,43 @@
+<Record>
+<Term>Urinary Anti-Infective Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Anti-Infective Agents</ParentTerm>
+<ParentTerm>Renal Agents</ParentTerm>
+<ParentTerm>Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Renal Agents/Anti-Infective Agents, Urinary</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Urinary Anti-Infective Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Anti-Infective Agents, Urinary</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Urinary Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents, Urinary</BroaderTerm>
+<BroaderTerm>Renal Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Piromidic Acid</ChildTerm>
+<ChildTerm>Methenamine Hippurate</ChildTerm>
+<ChildTerm>Pipemidic Acid</ChildTerm>
+<ChildTerm>Fosfomycin Tromethamine</ChildTerm>
+<ChildTerm>Nalidixic Acid</ChildTerm>
+<ChildTerm>Methenamine</ChildTerm>
+<ChildTerm>Trimethoprim Sulfate</ChildTerm>
+<ChildTerm>Trimethoprim</ChildTerm>
+<ChildTerm>Nitrofurantoin</ChildTerm>
+<ChildTerm>Fosfomycin</ChildTerm>
+<ChildTerm>Hydroxytoluic Acid</ChildTerm>
+<ChildTerm>Mandelic Acid</ChildTerm>
+<Synonym>Urinary Anti-Infective Agent</Synonym>
+<Synonym>Urinary Anti Infective Agents</Synonym>
+<Synonym>Urinary Antiinfective Agents</Synonym>
+<Synonym>Urinary Anti-Infective Agents</Synonym>
+<Synonym>Urinary Antiseptics</Synonym>
+<Description>Substances capable of killing agents causing urinary tract infections or of preventing them from spreading.</Description>
+<Description>Substances capable of killing agents causing urinary tract infections or of preventing them from spreading. (MeSH)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

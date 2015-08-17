@@ -1,0 +1,41 @@
+<Record>
+<Term>Essential Thrombocythemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Thrombocytosis</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytosis/Thrombocythemia, Essential</ClassificationPath>
+<ClassificationPath>Essential Thrombocythemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Thrombocythemia, Essential</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Thrombocythemia, Essential</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Thrombocytosis/Thrombocythemia, Essential</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Essential Thrombocythemia</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombocytosis</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Thrombocythemia, Essential</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Primary Thrombocytosis</Synonym>
+<Synonym>Essential Thrombocytosis</Synonym>
+<Synonym>essential thrombocythemia</Synonym>
+<Synonym>Idiopathic Thrombocythemias</Synonym>
+<Synonym>Primary Thrombocythemias</Synonym>
+<Synonym>Hemorrhagic Thrombocythemias</Synonym>
+<Synonym>Idiopathic Thrombocythemia</Synonym>
+<Synonym>Hemorrhagic Thrombocythemia</Synonym>
+<Synonym>Primary Thrombocythemia</Synonym>
+<Synonym>Essential Thrombocythemias</Synonym>
+<Synonym>Essential Thrombocythemia</Synonym>
+<Synonym>essential thrombocytosis</Synonym>
+<Synonym>Essential Thrombocytemia</Synonym>
+<Description>A clinical syndrome characterized by repeated spontaneous hemorrhages and a remarkable increase in the number of circulating platelets.</Description>
+<Description>A chronic myeloproliferative disorder that involves primarily the megakaryocytic lineage. It is characterized by sustained thrombocytosis in the blood, increased numbers of large, mature megakaryocytes in the bone marrow, and episodes of thrombosis and/or hemorrhage.  The cause is unknown.  Median survival times of 10-15 years are commonly reported.  (WHO, 2001)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

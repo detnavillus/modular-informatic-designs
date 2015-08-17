@@ -1,0 +1,17 @@
+<Record>
+<Term>Bowman-Birk Inhibitor Concentrate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protease Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Bowman-Birk Inhibitor Concentrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Bowman-Birk Inhibitor Concentrate</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BBIC</Synonym>
+<Synonym>Bowman-Birk Inhibitor Concentrate</Synonym>
+<Synonym>Proteinase Inhibitor, Bowman-Birk Soybean</Synonym>
+<Description>An extract of soybeans enriched in Bowman-Birk inhibitor (BBI), a soybean-derived, 71-amino acid, polypeptide and serine protease inhibitor with potential chemopreventive activity. Bowman-Birk inhibitor contains distinct inhibitory sites for trypsin and chymotrypsin. Although the exact mechanism by which BBI suppresses carcinogenesis is unknown, its antiproliferative activity appears to be linked to the chymotrypsin inhibitory region.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

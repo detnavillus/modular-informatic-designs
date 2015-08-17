@@ -1,0 +1,35 @@
+<Record>
+<Term>Anterior Cerebral Artery Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebral Infarction</ParentTerm>
+<ParentTerm>Cerebral Arterial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Anterior Cerebral Artery</ClassificationPath>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Infarction, Anterior Cerebral Artery</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebral Infarction</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<Synonym>Heubner's Artery Infarction</Synonym>
+<Synonym>Heubner Artery Infarction</Synonym>
+<Synonym>Anterior Cerebral Artery Stroke</Synonym>
+<Synonym>Heubners Artery Infarction</Synonym>
+<Synonym>ACA Infarction</Synonym>
+<Synonym>Anterior Cerebral Artery Infarction</Synonym>
+<Synonym>Anterior Cerebral Artery Syndrome</Synonym>
+<Synonym>ACA Infarctions</Synonym>
+<Description>NECROSIS occurring in the ANTERIOR CEREBRAL ARTERY system, including branches such as Heubner's artery. These arteries supply blood to the medial and superior parts of the CEREBRAL HEMISPHERE, Infarction in the anterior cerebral artery usually results in sensory and motor impairment in the lower body.</Description>
+<Source>MeSH</Source>
+</Record>

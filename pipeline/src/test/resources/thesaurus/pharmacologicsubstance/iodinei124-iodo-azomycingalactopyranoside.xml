@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine I 124-Iodo-Azomycin Galactopyranoside</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iodine I 124-Iodo-Azomycin Galactopyranoside</ClassificationPath>
+<BroaderTerm>Iodine I 124-Iodo-Azomycin Galactopyranoside</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I-124 IAZGP</Synonym>
+<Synonym>Iodine I 124-Iodo-Azomycin Galactopyranoside</Synonym>
+<Description>A diagnostic radiopharmaceutical comprised of iodo-azomycin galactopyranoside (IAZGP) labeled with the positron-emitting radioisotope iodine I 124 and used as an imaging agent. Iodine I 124 iodo-azomycin galactopyranoside (I-124 IAZGP) is reduced under hypoxic conditions, covalently binding to macromolecules in hypoxic cells. After incorporation into hypoxic tumor cell DNA, I-124 IAZGP can be localized and quantified using positron emission tomography (PET), allowing a quantitative assessment of hypoxic tumor burden. IAZGP appears to have a higher water solubility and faster clearance from normal tissue than traditional imidazole tracers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Thoracic Outlet Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Nerve Compression Syndromes</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Thoracic Outlet Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Nerve Compression Syndromes/Thoracic Outlet Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Outlet Syndrome</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Nerve Compression Syndromes</BroaderTerm>
+<ChildTerm>Cervical Rib Syndrome</ChildTerm>
+<Synonym>Scalenus Anticus Syndrome</Synonym>
+<Synonym>Superior Thoracic Aperture Syndrome</Synonym>
+<Synonym>Thoracic Outlet Nerve Compression Syndrome</Synonym>
+<Synonym>Arterial Thoracic Outlet Syndrome</Synonym>
+<Synonym>Neurogenic Thoracic Outlet Syndrome</Synonym>
+<Synonym>Thoracic Outlet Syndrome</Synonym>
+<Synonym>Thoracic Outlet Neurologic Syndrome</Synonym>
+<Synonym>Costoclavicular Syndrome</Synonym>
+<Synonym>Thoracic Outlet Syndromes</Synonym>
+<Synonym>Thoracic Outlet Neurovascular Syndrome</Synonym>
+<Synonym>Venous Thoracic Outlet Syndrome</Synonym>
+<Synonym>Costoclavicular Syndromes</Synonym>
+<Description>A neurovascular syndrome associated with compression of the BRACHIAL PLEXUS; SUBCLAVIAN ARTERY; and SUBCLAVIAN VEIN at the superior thoracic outlet. This may result from a variety of anomalies such as a CERVICAL RIB, anomalous fascial bands, and abnormalities of the origin or insertion of the anterior or medial scalene muscles. Clinical features may include pain in the shoulder and neck region which radiates into the arm, PARESIS or PARALYSIS of brachial plexus innervated muscles, PARESTHESIA, loss of sensation, reduction of arterial pulses in the affected extremity, ISCHEMIA, and EDEMA. (Adams et al., Principles of Neurology, 6th ed, pp214-5).</Description>
+<Source>MeSH</Source>
+</Record>

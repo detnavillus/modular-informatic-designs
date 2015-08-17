@@ -1,0 +1,15 @@
+<Record>
+<Term>Oligonucleotide SPC2996</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antisense Oligonucleotides</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antisense Oligonucleotides/Oligonucleotide SPC2996</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antisense Oligonucleotides</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oligonucleotide SPC2996</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Oligonucleotide SPC2996</Synonym>
+<Description>A synthetic antisense oligonucleotide against Bcl-2 messenger RNA with potential antitumor activity. Oligonucleotide SPC2996 binds to and inactivates Bcl-2 mRNA, thereby inhibiting the expression of Bcl-2 protein, promoting tumor cell apoptosis, and potentially enhancing the efficacy of standard cytotoxic chemotherapy. Linked to tumor drug resistance, the antiapoptotic protein Bcl-2 is upregulated in several types of cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

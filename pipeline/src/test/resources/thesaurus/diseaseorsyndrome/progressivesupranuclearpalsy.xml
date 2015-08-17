@@ -1,0 +1,41 @@
+<Record>
+<Term>Progressive Supranuclear Palsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ophthalmoplegia</ParentTerm>
+<ParentTerm>Tauopathies</ParentTerm>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Paralysis/Ophthalmoplegia/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Paralysis/Ophthalmoplegia/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Eye Diseases/Ocular Motility Disorders/Ophthalmoplegia/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Ocular Motility Disorders/Ophthalmoplegia/Supranuclear Palsy, Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Tauopathies/Supranuclear Palsy, Progressive</ClassificationPath>
+<BroaderTerm>Ophthalmoplegia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tauopathies</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Paralysis</BroaderTerm>
+<BroaderTerm>Supranuclear Palsy, Progressive</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Ocular Motility Disorders</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Progressive Supranuclear Ophthalmoplegias</Synonym>
+<Synonym>Steele Richardson Olszewski Disease</Synonym>
+<Synonym>Progressive Supranuclear Palsies</Synonym>
+<Synonym>Steele-Richardson-Olszewski Syndrome</Synonym>
+<Synonym>Progressive Supranuclear Ophthalmoplegia</Synonym>
+<Synonym>Progressive Supranuclear Palsy</Synonym>
+<Synonym>Steele-Richardson-Olszewski Disease</Synonym>
+<Synonym>Steele Richardson Olszewski Syndrome</Synonym>
+<Description>A degenerative disease of the central nervous system characterized by balance difficulties; OCULAR MOTILITY DISORDERS (supranuclear ophthalmoplegia); DYSARTHRIA; swallowing difficulties; and axial DYSTONIA. Onset is usually in the fifth decade and disease progression occurs over several years. Pathologic findings include neurofibrillary degeneration and neuronal loss in the dorsal MESENCEPHALON; SUBTHALAMIC NUCLEUS; RED NUCLEUS; pallidum; dentate nucleus; and vestibular nuclei. (From Adams et al., Principles of Neurology, 6th ed, pp1076-7)</Description>
+<Source>MeSH</Source>
+</Record>

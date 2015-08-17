@@ -1,0 +1,20 @@
+<Record>
+<Term>ZD-6126</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Endothelial Cell Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial Cell Inhibitor/ZD-6126</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>ZD-6126</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Endothelial Cell Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ANG453</Synonym>
+<Synonym>N-[(5S)-6,7-Dihydro-9,10,11-trimethoxy-3-(phosphonooxy)-5H-dibenzo[a,c]cyclohepten-5-yl]acetamide</Synonym>
+<Synonym>N-acetylcochinol-O-phosphate</Synonym>
+<Synonym>ZD-6126</Synonym>
+<Synonym>ZD6126</Synonym>
+<Description>A water-soluble phosphate prodrug of N-acetylcolchinol with potential antiangiogenesis and antineoplastic activities. ZD-6126 is converted in vivo into N-acetylcolchinol. N-acetylcolchinol binds to and destabilizes the tubulin cytoskeleton of endothelial cells in tumor blood vessels, which may result in tumor endothelial cell apoptosis, the selective occlusion of tumor blood vessels, cessation of tumor blood flow, and tumor necrosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

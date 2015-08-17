@@ -1,0 +1,45 @@
+<Record>
+<Term>Muscular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Myotonic Disorders</ChildTerm>
+<ChildTerm>Fatigue Syndrome, Chronic</ChildTerm>
+<ChildTerm>Arthrogryposis</ChildTerm>
+<ChildTerm>Mitochondrial Myopathies</ChildTerm>
+<ChildTerm>Fibromyalgia</ChildTerm>
+<ChildTerm>Muscle Rigidity</ChildTerm>
+<ChildTerm>Craniomandibular Disorders</ChildTerm>
+<ChildTerm>Rhabdomyolysis</ChildTerm>
+<ChildTerm>Myositis</ChildTerm>
+<ChildTerm>Polymyalgia Rheumatica</ChildTerm>
+<ChildTerm>Tendinopathy</ChildTerm>
+<ChildTerm>Muscular Disorders, Atrophic</ChildTerm>
+<ChildTerm>Paralyses, Familial Periodic</ChildTerm>
+<ChildTerm>Muscle Weakness</ChildTerm>
+<ChildTerm>Myopathies, Structural, Congenital</ChildTerm>
+<ChildTerm>Muscle Cramp</ChildTerm>
+<ChildTerm>Compartment Syndromes</ChildTerm>
+<ChildTerm>Isaacs Syndrome</ChildTerm>
+<ChildTerm>Muscle Spasticity</ChildTerm>
+<ChildTerm>Contracture</ChildTerm>
+<ChildTerm>Muscle Neoplasms</ChildTerm>
+<ChildTerm>Myofascial Pain Syndromes</ChildTerm>
+<ChildTerm>Eosinophilia-Myalgia Syndrome</ChildTerm>
+<Synonym>Muscular Diseases</Synonym>
+<Synonym>Myopathy</Synonym>
+<Synonym>Muscle Disorders</Synonym>
+<Synonym>Myopathies</Synonym>
+<Synonym>Muscular Disease</Synonym>
+<Synonym>Muscle Disorder</Synonym>
+<Synonym>Myopathic Condition</Synonym>
+<Synonym>Myopathic Conditions</Synonym>
+<Description>Acquired, familial, and congenital disorders of SKELETAL MUSCLE and SMOOTH MUSCLE.</Description>
+<Source>MeSH</Source>
+</Record>

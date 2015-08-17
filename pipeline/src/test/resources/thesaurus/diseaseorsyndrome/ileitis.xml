@@ -1,0 +1,20 @@
+<Record>
+<Term>Ileitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enteritis</ParentTerm>
+<ParentTerm>Ileal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enteritis/Ileitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Ileal Diseases/Ileitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enteritis/Ileitis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Ileal Diseases</BroaderTerm>
+<BroaderTerm>Ileitis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Pouchitis</ChildTerm>
+<Synonym>Ileitis</Synonym>
+<Description>Inflammation of any segment of the ILEUM and the ILEOCECAL VALVE.</Description>
+<Source>MeSH</Source>
+</Record>

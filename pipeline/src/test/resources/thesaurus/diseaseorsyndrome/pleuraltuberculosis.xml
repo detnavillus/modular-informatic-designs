@@ -1,0 +1,27 @@
+<Record>
+<Term>Pleural Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Tuberculosis, Pleural</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Tuberculosis, Pleural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Pleural</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Pleural</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Empyema, Tuberculous</ChildTerm>
+<Synonym>Tuberculous Pleurisies</Synonym>
+<Synonym>Tuberculous Pleurisy</Synonym>
+<Synonym>Pleural Tuberculosis</Synonym>
+<Synonym>Pleural Tuberculoses</Synonym>
+<Description>Tuberculosis of the serous membrane lining the thoracic cavity and surrounding the lungs.</Description>
+<Source>MeSH</Source>
+</Record>

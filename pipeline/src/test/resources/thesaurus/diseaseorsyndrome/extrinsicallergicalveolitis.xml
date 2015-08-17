@@ -1,0 +1,42 @@
+<Record>
+<Term>Extrinsic Allergic Alveolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alveolitis</ParentTerm>
+<ParentTerm>Respiratory Hypersensitivity</ParentTerm>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Alveolitis/Extrinsic Allergic Alveolitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Alveolitis, Extrinsic Allergic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Alveolitis, Extrinsic Allergic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Alveolitis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<BroaderTerm>Extrinsic Allergic Alveolitis</BroaderTerm>
+<ChildTerm>Bird Fancier's Lung</ChildTerm>
+<ChildTerm>Bagassosis</ChildTerm>
+<ChildTerm>Silo Filler's Disease</ChildTerm>
+<ChildTerm>Farmer's Lung</ChildTerm>
+<Synonym>Allergic Pneumonitis</Synonym>
+<Synonym>Extrinsic Allergic Alveolitides</Synonym>
+<Synonym>Hypersensitivity Pneumonitis</Synonym>
+<Synonym>Hypersensitivity Pneumonitides</Synonym>
+<Synonym>Extrinsic Allergic Alveolitis</Synonym>
+<Description>A common interstitial lung disease caused by hypersensitivity reactions of PULMONARY ALVEOLI after inhalation of and sensitization to environmental antigens of microbial, animal, or chemical sources. The disease is characterized by lymphocytic alveolitis and granulomatous pneumonitis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

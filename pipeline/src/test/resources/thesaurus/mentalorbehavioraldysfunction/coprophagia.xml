@@ -1,0 +1,31 @@
+<Record>
+<Term>Coprophagia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Signs and Symptoms, Digestive</ParentTerm>
+<ParentTerm>Eating Disorders</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ClassificationPath>Mental Disorders/Eating Disorders/Coprophagia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Signs and Symptoms, Digestive/Coprophagia</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Coprophagia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Coprophagia</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms, Digestive</BroaderTerm>
+<BroaderTerm>Coprophagia</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Eating Disorders</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>Coprophagia</Synonym>
+<Description>Eating of excrement.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

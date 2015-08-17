@@ -1,0 +1,43 @@
+<Record>
+<Term>Bacterial Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumonia</ParentTerm>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Bacterial</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Pneumonia, Bacterial</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Bacterial Pneumonia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Bacterial Pneumonia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Pneumonia,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Bacterial Pneumonia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<ChildTerm>Pneumonia, Mycoplasma</ChildTerm>
+<ChildTerm>Pneumonia, Pneumococcal</ChildTerm>
+<ChildTerm>Pneumonia, Rickettsial</ChildTerm>
+<ChildTerm>Pneumonia of Swine, Mycoplasmal</ChildTerm>
+<ChildTerm>Pneumonia of Calves, Enzootic</ChildTerm>
+<ChildTerm>Pneumonia, Staphylococcal</ChildTerm>
+<Synonym>Bacterial Pneumonia</Synonym>
+<Synonym>Bacterial Pneumonias</Synonym>
+<Description>Inflammation of the lung parenchyma that is caused by bacterial infections.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

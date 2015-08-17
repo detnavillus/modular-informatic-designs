@@ -1,0 +1,21 @@
+<Record>
+<Term>Insulin Pork</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Recombinant Insulin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Recombinant Insulin/Insulin Pork</ClassificationPath>
+<BroaderTerm>Insulin Pork</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Insulin</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Insulin</Synonym>
+<Synonym>Insulin Pork</Synonym>
+<Synonym>INSULIN PORK</Synonym>
+<Synonym>Regular insulin</Synonym>
+<Synonym>Iletin i</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

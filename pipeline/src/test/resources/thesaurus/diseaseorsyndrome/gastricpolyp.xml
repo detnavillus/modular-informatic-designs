@@ -1,0 +1,23 @@
+<Record>
+<Term>Gastric Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Gastric Polyp</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Gastric Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Peutz-Jeghers Polyp of the Stomach</ChildTerm>
+<ChildTerm>Gastric Hyperplastic Polyp</ChildTerm>
+<ChildTerm>Gastric Juvenile Polyp</ChildTerm>
+<ChildTerm>Gastric Cronkhite Canada Polyposis</ChildTerm>
+<Synonym>Gastric Polyp</Synonym>
+<Synonym>Gastric Polyposa</Synonym>
+<Synonym>Gastric Polyposis</Synonym>
+<Synonym>Polyps of Stomach</Synonym>
+<Synonym>Polyps of the Stomach</Synonym>
+<Description>A neoplastic or non-neoplastic lesion arising from the gastric mucosa.  -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

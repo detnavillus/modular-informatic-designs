@@ -1,0 +1,22 @@
+<Record>
+<Term>Hepatitis E</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis, Viral, Human</ParentTerm>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human/Hepatitis E</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human/Hepatitis E</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hepatitis E</ClassificationPath>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Hepatitis E</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Water-Borne Hepatitis</Synonym>
+<Synonym>Hepatitis E</Synonym>
+<Synonym>ET-NANBH</Synonym>
+<Synonym>Water-Borne Hepatitides</Synonym>
+<Description>Acute INFLAMMATION of the LIVER in humans; caused by HEPATITIS E VIRUS, a non-enveloped single-stranded RNA virus. Similar to HEPATITIS A, its incubation period is 15-60 days and is enterically transmitted, usually by fecal-oral transmission.</Description>
+<Source>MeSH</Source>
+</Record>

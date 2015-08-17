@@ -1,0 +1,15 @@
+<Record>
+<Term>Pyoderma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pyoderma</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pyoderma</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Ecthyma</ChildTerm>
+<ChildTerm>Pyoderma Gangrenosum</ChildTerm>
+<Synonym>Pyoderma</Synonym>
+<Synonym>Pyodermas</Synonym>
+<Description>Any purulent skin disease (Dorland, 27th ed).</Description>
+<Source>MeSH</Source>
+</Record>

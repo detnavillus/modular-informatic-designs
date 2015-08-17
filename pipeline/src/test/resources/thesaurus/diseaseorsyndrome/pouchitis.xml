@@ -1,0 +1,20 @@
+<Record>
+<Term>Pouchitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ileitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enteritis/Ileitis/Pouchitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Ileal Diseases/Ileitis/Pouchitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enteritis/Ileitis/Pouchitis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Ileal Diseases</BroaderTerm>
+<BroaderTerm>Pouchitis</BroaderTerm>
+<BroaderTerm>Ileitis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Pouch Ileitis</Synonym>
+<Synonym>Pouchitis</Synonym>
+<Description>Acute INFLAMMATION in the INTESTINAL MUCOSA of the continent ileal reservoir (or pouch) in patients who have undergone ILEOSTOMY and restorative proctocolectomy (PROCTOCOLECTOMY, RESTORATIVE).</Description>
+<Source>MeSH</Source>
+</Record>

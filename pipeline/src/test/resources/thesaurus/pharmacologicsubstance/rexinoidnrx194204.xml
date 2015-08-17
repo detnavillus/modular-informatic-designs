@@ -1,0 +1,19 @@
+<Record>
+<Term>Rexinoid NRX 194204</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Retinoic Acid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Retinoic Acid Agent/Rexinoid NRX 194204</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Rexinoid NRX 194204</BroaderTerm>
+<BroaderTerm>Retinoic Acid Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AGN194204</Synonym>
+<Synonym>NRX194204</Synonym>
+<Synonym>Rexinoid NRX 194204</Synonym>
+<Description>An orally bioavailable synthetic retinoid X receptor (RXR) agonist with potential antineoplastic and anti-inflammatory activities. Rexinoid NRX 194204 selectively binds to and activates RXRs. Because RXRs can form heterodimers with several nuclear receptors, RXR activation by this agent may result in a broad range of gene expression depending on the effector DNA response elements activated. Rexinoid NRX 194204 may inhibit the tumor-necrosis factor (TNF)-mediated release of nitric oxide (NO) and interleukin 6 (IL6) and may inhibit tumor cell proliferation. This agent appears to be less toxic than RAR-selective ligands.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

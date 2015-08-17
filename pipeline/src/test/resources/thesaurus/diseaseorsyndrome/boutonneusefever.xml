@@ -1,0 +1,20 @@
+<Record>
+<Term>Boutonneuse Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Rickettsia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Boutonneuse Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections/Rickettsia Infections/Boutonneuse Fever</ClassificationPath>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Rickettsia Infections</BroaderTerm>
+<BroaderTerm>Boutonneuse Fever</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Mediterranean Spotted Fever</Synonym>
+<Synonym>Boutonneuse Fever</Synonym>
+<Synonym>Boutonneuse Fevers</Synonym>
+<Description>A febrile disease of the Mediterranean area, the Crimea, Africa, and India, caused by infection with RICKETTSIA CONORII.</Description>
+<Source>MeSH</Source>
+</Record>

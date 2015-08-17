@@ -1,0 +1,19 @@
+<Record>
+<Term>Diphtheria Toxoid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Toxoids</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Diphtheria Toxoid</ClassificationPath>
+<BroaderTerm>Diphtheria Toxoid</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria-Tetanus-Pertussis Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<Synonym>Diphtheria Toxoid</Synonym>
+<Synonym>Diphtheria Vaccine</Synonym>
+<Description>The formaldehyde-inactivated toxin of Corynebacterium diphtheriae. It is generally used in mixtures with TETANUS TOXOID and PERTUSSIS VACCINE; (DTP); or with tetanus toxoid alone (DT for pediatric use and Td, which contains 5- to 10-fold less diphtheria toxoid, for other use). Diphtheria toxoid is used for the prevention of diphtheria; DIPHTHERIA ANTITOXIN is for treatment.</Description>
+<Source>MeSH</Source>
+</Record>

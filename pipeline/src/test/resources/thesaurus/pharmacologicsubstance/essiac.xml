@@ -1,0 +1,14 @@
+<Record>
+<Term>Essiac</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Essiac</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Essiac</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Esiak</Synonym>
+<Synonym>Essiac</Synonym>
+<Description>An herbal formula containing burdock root (Arctium lappa), Turkey rhubarb root (Rheum palmatum), sheep sorrel (Rumex acetosella), and slippery elm bark (Ulmus fulva) with potential immunostimulating, anti-inflammatory and anti-tumor activities. The extract's chemical profile, their respective concentrations and the mechanism of action of Essiac are largely unknown due to the proprietary nature of the formula and product inconsistency. Several chemical classes in Essiac are consistently represented and may attribute to its therapeutic effect, including anthraquinone derivatives such as rhein and emodin, high molecular polysaccharides, and lignans such as arctigenin. However, all these chemicals are unlikely to occur in high concentrations in Essiac, and its potential therapeutic effect may be attributed to a potential synergistic effect of these various compounds.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

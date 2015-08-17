@@ -1,0 +1,19 @@
+<Record>
+<Term>Complement Inactivating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Immunosuppressive Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Immunologic Factors/Immunosuppressive Agents/Complement Inactivating Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Complement Inactivating Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Immunosuppressive Agents</BroaderTerm>
+<BroaderTerm>Immunologic Factors</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Complement Inactivating Agents</Synonym>
+<Synonym>Complement Inhibiting Agents</Synonym>
+<Synonym>Complement Cytolysis Inhibiting Agents</Synonym>
+<Description>Compounds that negatively regulate the cascade process of COMPLEMENT ACTIVATION. Uncontrolled complement activation and resulting cell lysis is potentially dangerous for the host.</Description>
+<Source>MeSH</Source>
+</Record>

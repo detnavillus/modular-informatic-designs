@@ -1,0 +1,15 @@
+<Record>
+<Term>M A Idiotypic Determinants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A Idiotypic Determinants</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>M A Idiotypic Determinants</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A Idiotypic Determinants</Synonym>
+<Description>A monoclonal antibody, subtype IgG2a, that targets lactate dehydrogenase (LDH) with potential use in cancer immunotherapy and immunodiagnostics.  Isoforms of LDH are recognized by the immune systems of patients with breast cancer, indicating that these antigens may be expressed by breast cancer cells.  Consequently, M A idiotypic determinants may have utility in the immunodiagnosis or immunotherapy of certain types of cancer. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

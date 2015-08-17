@@ -1,0 +1,27 @@
+<Record>
+<Term>Basal Ganglia Cerebrovascular Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Basal Ganglia Cerebrovascular Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Basal Ganglia Cerebrovascular Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Basal Ganglia Cerebrovascular Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Cerebrovascular Disease</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Basal Ganglia Hemorrhage</ChildTerm>
+<Synonym>Lenticulostriate Vascular Disease</Synonym>
+<Synonym>Lenticulostriate Vasculopathy</Synonym>
+<Synonym>Lenticulostriate Vasculopathies</Synonym>
+<Synonym>Basal Ganglia Vascular Disease</Synonym>
+<Synonym>Basal Ganglia Cerebrovascular Disease</Synonym>
+<Synonym>Lenticulostriate Vascular Diseases</Synonym>
+<Synonym>Vascular Lenticulostriate Diseases</Synonym>
+<Description>A pathological condition caused by impaired blood flow in the basal regions of cerebral hemispheres (BASAL GANGLIA), such as INFARCTION; HEMORRHAGE; or ISCHEMIA in vessels of this brain region including the lateral lenticulostriate arteries. Primary clinical manifestations include involuntary movements (DYSKINESIAS) and muscle weakness (HEMIPARESIS).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Erysipeloid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Erysipelothrix Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Erysipelothrix Infections/Erysipeloid</ClassificationPath>
+<BroaderTerm>Erysipelothrix Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Erysipeloid</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Erysipeloid</Synonym>
+<Synonym>Erysipeloids</Synonym>
+<Description>An infection caused by Erysipelothrix rhusiopathiae that is almost wholly restricted to persons who in their occupation handle infected fish, shellfish, poultry, or meat. Three forms of this condition exist: a mild localized form manifested by local swelling and redness of the skin; a diffuse form that might present with fever; and a rare systemic form associated with endocarditis.</Description>
+<Source>MeSH</Source>
+</Record>

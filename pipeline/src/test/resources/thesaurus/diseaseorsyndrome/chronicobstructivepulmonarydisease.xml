@@ -1,0 +1,42 @@
+<Record>
+<Term>Chronic Obstructive Pulmonary Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Obstructive</ParentTerm>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Pulmonary Disease, Chronic Obstructive</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Chronic Obstructive Pulmonary Disease</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Chronic Obstructive Pulmonary Disease</BroaderTerm>
+<BroaderTerm>Pulmonary Disease, Chronic Obstructive</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<ChildTerm>Pulmonary Emphysema</ChildTerm>
+<ChildTerm>Chronic Bronchitis</ChildTerm>
+<ChildTerm>Bronchitis, Chronic</ChildTerm>
+<ChildTerm>Chronic Obstructive Asthma</ChildTerm>
+<Synonym>Chronic Obstructive Lung Disease</Synonym>
+<Synonym>Chronic Airflow Obstruction</Synonym>
+<Synonym>Chronic Obstructive Airway Disease</Synonym>
+<Synonym>Chronic Obstructive Pulmonary Disease</Synonym>
+<Synonym>COPD</Synonym>
+<Synonym>COPD, chronic obstructive pulmonary disease</Synonym>
+<Synonym>Disease (COPD), chronic obstructive</Synonym>
+<Synonym>Chronic Obstructive Airways Disease</Synonym>
+<Synonym>Pulmonary disease (COPD), chronic obstructive</Synonym>
+<Synonym>Obstructive pulmonary disease (COPD), chronic</Synonym>
+<Synonym>COLD</Synonym>
+<Synonym>COAD</Synonym>
+<Synonym>Chronic obstructive pulmonary disease, (COPD)</Synonym>
+<Synonym>Chronic Airflow Obstructions</Synonym>
+<Description>A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

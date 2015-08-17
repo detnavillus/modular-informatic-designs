@@ -1,0 +1,45 @@
+<Record>
+<Term>Congenital Toxoplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Toxoplasmosis</ParentTerm>
+<ParentTerm>Central Nervous System Protozoal Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Toxoplasmosis/Congenital Toxoplasmosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Toxoplasmosis/Toxoplasmosis, Congenital</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections/Toxoplasmosis, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Toxoplasmosis, Congenital</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Protozoal Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Congenital Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Toxoplasmosis, Congenital</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Congenital Toxoplasma Infections</Synonym>
+<Synonym>Congenital Toxoplasma gondii Infection</Synonym>
+<Synonym>Prenatal Toxoplasmosis</Synonym>
+<Synonym>Congenital toxoplasmosis</Synonym>
+<Synonym>Fetal Toxoplasmoses</Synonym>
+<Synonym>Congenital Toxoplasmoses</Synonym>
+<Synonym>Congenital Toxoplasma Infection</Synonym>
+<Synonym>Prenatal Toxoplasmoses</Synonym>
+<Synonym>Congenital Toxoplasmosis</Synonym>
+<Synonym>Fetal Toxoplasmosis</Synonym>
+<Synonym>Toxoplasmosis, Congenital</Synonym>
+<Description>Prenatal protozoal infection with TOXOPLASMA gondii which is associated with injury to the developing fetal nervous system. The severity of this condition is related to the stage of pregnancy during which the infection occurs; first trimester infections are associated with a greater degree of neurologic dysfunction. Clinical features include HYDROCEPHALUS; MICROCEPHALY; deafness; cerebral calcifications; SEIZURES; and psychomotor retardation. Signs of a systemic infection may also be present at birth, including fever, rash, and hepatosplenomegaly. (From Adams et al., Principles of Neurology, 6th ed, p735)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

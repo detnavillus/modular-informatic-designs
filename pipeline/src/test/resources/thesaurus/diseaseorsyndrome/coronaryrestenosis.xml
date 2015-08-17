@@ -1,0 +1,18 @@
+<Record>
+<Term>Coronary Restenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronary Stenosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Stenosis/Coronary Restenosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Stenosis/Coronary Restenosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Restenosis</BroaderTerm>
+<BroaderTerm>Coronary Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<Synonym>Coronary Restenosis</Synonym>
+<Synonym>Coronary Restenoses</Synonym>
+<Description>Recurrent narrowing or constriction of a coronary artery following surgical procedures performed to alleviate a prior obstruction.</Description>
+<Source>MeSH</Source>
+</Record>

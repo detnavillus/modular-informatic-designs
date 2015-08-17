@@ -1,0 +1,17 @@
+<Record>
+<Term>Corynebacterium Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinomycetales Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Corynebacterium Infections</ClassificationPath>
+<BroaderTerm>Corynebacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Diphtheria</ChildTerm>
+<ChildTerm>Erythrasma</ChildTerm>
+<Synonym>Corynebacterium Infections</Synonym>
+<Synonym>Corynebacterium Infection</Synonym>
+<Description>Infections with bacteria of the genus CORYNEBACTERIUM.</Description>
+<Source>MeSH</Source>
+</Record>

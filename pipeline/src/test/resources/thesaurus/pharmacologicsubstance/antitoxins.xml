@@ -1,0 +1,32 @@
+<Record>
+<Term>Antitoxins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Biological Products</ParentTerm>
+<ParentTerm>Immune Sera</ParentTerm>
+<ParentTerm>Antibodies</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immune Sera/Antitoxins</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Antitoxins</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Antitoxins</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Immune Sera</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<BroaderTerm>Antitoxins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria Antitoxin</ChildTerm>
+<ChildTerm>Antivenins</ChildTerm>
+<ChildTerm>Tetanus Antitoxin</ChildTerm>
+<ChildTerm>Botulinum Antitoxin</ChildTerm>
+<Synonym>Antitoxins</Synonym>
+<Description>Antisera from immunized animals that is purified and used as a passive immunizing agent against specific BACTERIAL TOXINS.</Description>
+<Source>MeSH</Source>
+</Record>

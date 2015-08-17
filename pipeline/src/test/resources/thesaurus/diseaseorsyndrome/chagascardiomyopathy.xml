@@ -1,0 +1,22 @@
+<Record>
+<Term>Chagas Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Chagas Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Chagas Cardiomyopathy</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Trypanosomiasis/Chagas Disease/Chagas Cardiomyopathy</ClassificationPath>
+<BroaderTerm>Euglenozoa Infections</BroaderTerm>
+<BroaderTerm>Trypanosomiasis</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Chagas Disease</BroaderTerm>
+<BroaderTerm>Chagas Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Cardiovascular Trypanosomiasis</Synonym>
+<Synonym>Chagas Cardiomyopathy</Synonym>
+<Synonym>Chagas' Cardiomyopathy</Synonym>
+<Description>A disease of the CARDIAC MUSCLE developed subsequent to the initial protozoan infection by TRYPANOSOMA CRUZI. After infection, less than 10% develop acute illness such as MYOCARDITIS (mostly in children). The disease then enters a latent phase without clinical symptoms until about 20 years later. Myocardial symptoms of advanced CHAGAS DISEASE include conduction defects (HEART BLOCK) and CARDIOMEGALY.</Description>
+<Source>MeSH</Source>
+</Record>

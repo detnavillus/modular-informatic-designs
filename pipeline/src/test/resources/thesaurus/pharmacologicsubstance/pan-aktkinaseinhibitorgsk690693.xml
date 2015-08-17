@@ -1,0 +1,17 @@
+<Record>
+<Term>Pan-AKT Kinase Inhibitor GSK690693</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Serine Threonine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Serine Threonine Kinase Inhibitor/Pan-AKT Kinase Inhibitor GSK690693</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Serine Threonine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Pan-AKT Kinase Inhibitor GSK690693</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>GSK690693</Synonym>
+<Synonym>Pan-AKT Kinase Inhibitor GSK690693</Synonym>
+<Description>An aminofurazan-derived inhibitor of Akt kinases with potential antineoplastic activity. Pan-AKT kinase inhibitor GSK-690693 binds to and inhibits Akt kinases 1, 2, and 3, which may result in the inhibition of protein phosphorylation events downstream from Akt kinases in the PI3K/Akt signaling pathway, and, subsequently, the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. In addition, this agent may inhibit other protein kinases including protein kinase C (PKC) and protein kinase A (PKA). As serine/threonine protein kinases which are involved in a number of biological processes, AKT kinases promote cell survival by inhibiting apoptosis and are required for glucose transport.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

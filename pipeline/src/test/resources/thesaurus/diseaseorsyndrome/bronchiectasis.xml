@@ -1,0 +1,14 @@
+<Record>
+<Term>Bronchiectasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchiectasis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Bronchiectasis</BroaderTerm>
+<ChildTerm>Kartagener Syndrome</ChildTerm>
+<Synonym>Bronchiectasis</Synonym>
+<Synonym>Bronchiectases</Synonym>
+<Description>Persistent abnormal dilatation of the bronchi.</Description>
+<Source>MeSH</Source>
+</Record>

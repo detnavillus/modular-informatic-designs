@@ -1,0 +1,17 @@
+<Record>
+<Term>Tocolytic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reproductive Control Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Tocolytic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Tocolytic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Tocolytic Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Tocolytics</Synonym>
+<Synonym>Tocolytic Agents</Synonym>
+<Description>Drugs that prevent preterm labor and immature birth by suppressing uterine contractions (TOCOLYSIS). Agents used to delay premature uterine activity include magnesium sulfate, beta-mimetics, oxytocin antagonists, calcium channel inhibitors, and adrenergic beta-receptor agonists. The use of intravenous alcohol as a tocolytic is now obsolete.</Description>
+<Source>MeSH</Source>
+</Record>

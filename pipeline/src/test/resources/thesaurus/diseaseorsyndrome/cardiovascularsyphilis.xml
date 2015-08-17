@@ -1,0 +1,25 @@
+<Record>
+<Term>Cardiovascular Syphilis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syphilis</ParentTerm>
+<ParentTerm>Cardiovascular Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Syphilis/Syphilis, Cardiovascular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Syphilis/Syphilis, Cardiovascular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections/Syphilis, Cardiovascular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections/Syphilis, Cardiovascular</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Syphilis</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Syphilis, Cardiovascular</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Syphilitic Aortitis</Synonym>
+<Synonym>Cardiovascular Syphilis</Synonym>
+<Synonym>Syphilitic Aortitides</Synonym>
+<Description>Cardiovascular manifestations of SYPHILIS, an infection of TREPONEMA PALLIDUM. In the late stage of syphilis, sometimes 20-30 years after the initial infection, damages are often seen in the blood vessels including the AORTA and the AORTIC VALVE. Clinical signs include syphilitic aortitis, aortic insufficiency, or aortic ANEURYSM.</Description>
+<Source>MeSH</Source>
+</Record>

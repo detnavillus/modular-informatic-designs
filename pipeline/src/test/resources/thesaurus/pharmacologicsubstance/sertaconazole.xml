@@ -1,0 +1,24 @@
+<Record>
+<Term>Sertaconazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antifungal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Sertaconazole Nitrate</ClassificationPath>
+<BroaderTerm>Sertaconazole Nitrate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antifungal Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Sertaconazole Nitrate</Synonym>
+<Synonym>Dermofix</Synonym>
+<Synonym>1H-Imidazole, 1-(2-((7-chlorobenzo(b)thien-3-yl)methoxy)-2-(2,4-dichlorophenyl)ethyl)-, Mononitrate</Synonym>
+<Synonym>Zalain</Synonym>
+<Synonym>SERTACONAZOLE NITRATE</Synonym>
+<Synonym>Ertaczo</Synonym>
+<Synonym>Sertaconazole nitrate</Synonym>
+<Synonym>Sertaconazole</Synonym>
+<Description>The nitrate salt form of sertaconazole, a synthetic imidazole derivative with antifungal property. Sertaconazole nitrate inhibits fungal cytochrome P-450 sterol C-14 alpha-demethylation, resulting in the accumulation of fungal 14 alpha-methyl sterols and the inhibition of ergosterol synthesis, an essential component of the cell membrane of fungi. This leads to a disruption of cell membrane permeability and leakage of adenine triphosphate (ATP) and other constituents from fugal cells.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

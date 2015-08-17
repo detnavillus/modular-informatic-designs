@@ -1,0 +1,18 @@
+<Record>
+<Term>Helminthiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis</ClassificationPath>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Nematode Infections</ChildTerm>
+<ChildTerm>Cestode Infections</ChildTerm>
+<ChildTerm>Trematode Infections</ChildTerm>
+<ChildTerm>Helminthiasis, Animal</ChildTerm>
+<Synonym>Helminthiasis</Synonym>
+<Synonym>Helminthiases</Synonym>
+<Synonym>Nematomorpha Infection</Synonym>
+<Synonym>Nematomorpha Infections</Synonym>
+<Description>Infestation with parasitic worms of the helminth class.</Description>
+<Source>MeSH</Source>
+</Record>

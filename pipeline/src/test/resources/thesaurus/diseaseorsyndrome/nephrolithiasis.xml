@@ -1,0 +1,21 @@
+<Record>
+<Term>Nephrolithiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urolithiasis</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrolithiasis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrolithiasis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urolithiasis/Nephrolithiasis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urolithiasis/Nephrolithiasis</ClassificationPath>
+<BroaderTerm>Urolithiasis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Nephrolithiasis</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Kidney Calculi</ChildTerm>
+<Synonym>Nephrolithiasis</Synonym>
+<Description>Formation of stones in the KIDNEY.</Description>
+<Source>MeSH</Source>
+</Record>

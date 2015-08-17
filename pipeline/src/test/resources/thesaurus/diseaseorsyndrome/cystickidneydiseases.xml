@@ -1,0 +1,25 @@
+<Record>
+<Term>Cystic Kidney Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Kidney Diseases, Cystic</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases, Cystic</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Polycystic Kidney Diseases</ChildTerm>
+<ChildTerm>Medullary Sponge Kidney</ChildTerm>
+<ChildTerm>Multicystic Dysplastic Kidney</ChildTerm>
+<Synonym>Cystic Kidneys</Synonym>
+<Synonym>Cystic Kidney</Synonym>
+<Synonym>Cystic Kidney Diseases</Synonym>
+<Synonym>Cystic Kidney Disease</Synonym>
+<Synonym>Cystic Renal Diseases</Synonym>
+<Synonym>Cystic Renal Disease</Synonym>
+<Description>A heterogeneous group of hereditary and acquired disorders in which the KIDNEY contains one or more CYSTS unilaterally or bilaterally (KIDNEY, CYSTIC).A kidney containing one or more cysts.</Description>
+<Source>MeSH</Source>
+</Record>

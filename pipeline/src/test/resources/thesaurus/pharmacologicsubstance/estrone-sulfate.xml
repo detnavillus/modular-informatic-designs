@@ -1,0 +1,18 @@
+<Record>
+<Term>Estrone-Sulfate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Estrone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/Therapeutic Estrone/Estrone-Sulfate</ClassificationPath>
+<BroaderTerm>Estrone-Sulfate</BroaderTerm>
+<BroaderTerm>Therapeutic Estrone</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Estrone-Sulfate</Synonym>
+<Description>An aqueous substance that is the sulfate salt form of estrone. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

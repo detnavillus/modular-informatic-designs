@@ -1,0 +1,33 @@
+<Record>
+<Term>Noonan Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Craniofacial Abnormalities</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Noonan Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Musculoskeletal Abnormalities/Craniofacial Abnormalities/Noonan Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Noonan Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Musculoskeletal Abnormalities/Craniofacial Abnormalities/Noonan Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Craniofacial Abnormalities</BroaderTerm>
+<BroaderTerm>Musculoskeletal Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Noonan Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<Synonym>Male Turner Syndrome</Synonym>
+<Synonym>Male Turner's Syndrome</Synonym>
+<Synonym>Female Pseudo-Turner Syndrome</Synonym>
+<Synonym>Male Turner Syndromes</Synonym>
+<Synonym>Noonan Syndrome</Synonym>
+<Synonym>Female Pseudo Turner Syndrome</Synonym>
+<Description>A multifaceted disorder characterized by short stature, webbed neck, ptosis, skeletal malformations, hypertelorism, hormonal imbalance, CRYPTORCHIDISM, multiple cardiac abnormalities (most commonly including PULMONARY VALVE STENOSIS), and some degree of MENTAL RETARDATION. The phenotype bears similarities to that of TURNER SYNDROME that occurs only in females and has its basis in a 45, X karyotype abnormality. However, Noonan syndrome occurs in both males and females with a normal sex chromosome constitution (46,XX and 46,XY).  NS1 is due to mutations at chromosome location 12q24.1, in PTPN11, a gene encoding PROTEIN TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 11. LEOPARD SYNDROME, a disorder that has clinical features overlapping those of Noonan Syndrome, is also due to mutations in PTPN11. In addition, there is a syndrome called neurofibromatosis-Noonan syndrome. Both the PTPN11 and NF1 gene products are involved in the SIGNAL TRANSDUCTION pathway of Ras (RAS PROTEINS).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

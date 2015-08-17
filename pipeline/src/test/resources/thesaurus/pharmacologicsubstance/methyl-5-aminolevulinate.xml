@@ -1,0 +1,16 @@
+<Record>
+<Term>Methyl-5-Aminolevulinate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Photosensitizing Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Photosensitizing Agent/Methyl-5-Aminolevulinate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Methyl-5-Aminolevulinate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Photosensitizing Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Methyl-5-Aminolevulinate</Synonym>
+<Synonym>Metvix</Synonym>
+<Synonym>methyl-5-aminolevulinate</Synonym>
+<Description>The lipophilic methyl ester of 5-aminolevulinic acid prodrug with local photosensitizing and antineoplastic activities. After topical administration at sites of skin lesion, methyl-5-aminolevulinate is converted to the photosensitizer protoporphyrin IX (PpIX) intracellularly. Upon phototherapeutic irradiation, PpIX becomes activated and transfers energy to oxygen, thereby generating singlet oxygen, an intracellular toxin, which can further react to form superoxide and hydroxyl radicals. This leads to local cellular cytotoxic effects.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

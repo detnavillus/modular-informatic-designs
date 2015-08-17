@@ -1,0 +1,21 @@
+<Record>
+<Term>Wegener Granulomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</ParentTerm>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Wegener Granulomatosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis/Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis/Wegener Granulomatosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Wegener Granulomatosis</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Wegener's Granulomatosis</Synonym>
+<Synonym>Wegener Granulomatosis</Synonym>
+<Description>A multisystemic disease of a complex genetic background. It is characterized by inflammation of the blood vessels (VASCULITIS) leading to damage in any number of organs. The common features include granulomatous inflammation of the RESPIRATORY TRACT and kidneys. Most patients have measurable autoantibodies (ANTINEUTROPHIL CYTOPLASMIC ANTIBODIES) against neutrophil proteinase-3 (WEGENER AUTOANTIGEN).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Repaglinide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-diabetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Repaglinide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Repaglinide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-diabetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Repaglinide</Synonym>
+<Synonym>REPAGLINIDE</Synonym>
+<Synonym>AG-EE 623 ZW</Synonym>
+<Synonym>(+)-2-Ethoxy-alpha-(((S)-alpha-isobutyl-o-piperidinobenzyl)carbamoyl)-p-toluic Acid</Synonym>
+<Synonym>Prandin</Synonym>
+<Synonym>Benzoic Acid, 2-ethoxy-4-(2-((3-methyl-1-(2-(1-piperidinyl)phenyl)butyl)amino)-2-oxoethyl)-,(S)-</Synonym>
+<Description>A benzoic acid derivative belonging to the meglitinide class of antidiabetic agents. Repaglinide blocks ATP-dependent potassium channels in pancreatic beta cells, thereby causing depolarization of the cell membrane and subsequent opening of calcium channels. The increased calcium influx into the pancreatic beta cells induces insulin secretion, thereby lowering blood glucose levels.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

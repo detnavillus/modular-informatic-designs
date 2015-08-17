@@ -1,0 +1,22 @@
+<Record>
+<Term>Giardiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Giardiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Giardiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Giardiasis</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Giardiasis</BroaderTerm>
+<Synonym>Lambliasis</Synonym>
+<Synonym>Giardiases</Synonym>
+<Synonym>Lambliases</Synonym>
+<Synonym>Giardiasis</Synonym>
+<Description>An infection of the SMALL INTESTINE caused by the flagellated protozoan GIARDIA LAMBLIA. It is spread via contaminated food and water and by direct person-to-person contact.</Description>
+<Source>MeSH</Source>
+</Record>

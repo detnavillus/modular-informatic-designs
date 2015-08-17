@@ -1,0 +1,42 @@
+<Record>
+<Term>Sodium Fluoride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biomedical or Dental Material</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Cariostatic Agents</ParentTerm>
+<ParentTerm>Reagent</ParentTerm>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ParentTerm>Fluorides</ParentTerm>
+<ClassificationPath>Technology, Industry, and Agriculture/Manufactured Materials/Biomedical and Dental Materials/Cariostatic Agents/Sodium Fluoride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Sodium Fluoride</ClassificationPath>
+<ClassificationPath>Biomedical and Dental Materials/Cariostatic Agents/Sodium Fluoride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Sodium Fluoride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Fluorine Compounds/Hydrofluoric Acid/Fluorides/Sodium Fluoride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Sodium Fluoride</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Fluorides</BroaderTerm>
+<BroaderTerm>Hydrofluoric Acid</BroaderTerm>
+<BroaderTerm>Manufactured Materials</BroaderTerm>
+<BroaderTerm>Cariostatic Agents</BroaderTerm>
+<BroaderTerm>Technology, Industry, and Agriculture</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Fluorine Compounds</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Biomedical and Dental Materials</BroaderTerm>
+<ChildTerm>Acidulated Phosphate Fluoride</ChildTerm>
+<Synonym>NaF</Synonym>
+<Synonym>Sodium Fluoride</Synonym>
+<Synonym>Ossin</Synonym>
+<Synonym>SODIUM FLUORIDE</Synonym>
+<Synonym>Fluoride, sodium</Synonym>
+<Synonym>Sodium Fluoride (NaF)</Synonym>
+<Synonym>Sodium fluoride</Synonym>
+<Synonym>Zymafluor</Synonym>
+<Description>A source of inorganic fluoride which is used topically to prevent dental caries.</Description>
+<Description>An inorganic salt of fluoride used topically or in municipal water fluoridation systems to prevent dental caries.  Fluoride appears to bind to calcium ions in the hydroxyapatite of surface tooth enamel, preventing corrosion of tooth enamel by acids. This agent may also inhibit acid production by commensal oral bacteria. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

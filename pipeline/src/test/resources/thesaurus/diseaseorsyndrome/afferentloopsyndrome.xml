@@ -1,0 +1,20 @@
+<Record>
+<Term>Afferent Loop Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Obstruction</ParentTerm>
+<ParentTerm>Postoperative Complications</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Postoperative Complications/Afferent Loop Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Obstruction/Afferent Loop Syndrome</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Intestinal Obstruction</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Postoperative Complications</BroaderTerm>
+<BroaderTerm>Afferent Loop Syndrome</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Afferent Loop Syndromes</Synonym>
+<Synonym>Afferent Loop Syndrome</Synonym>
+<Description>A complication of gastrojejunostomy (BILLROTH II PROCEDURE), a reconstructive GASTROENTEROSTOMY. It is caused by acute (complete) or chronic (intermittent) obstruction of the afferent jejunal loop due to HERNIA, intussusception, kinking, VOLVULUS, etc. It is characterized by PAIN and VOMITING of BILE-stained fluid.</Description>
+<Source>MeSH</Source>
+</Record>

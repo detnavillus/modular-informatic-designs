@@ -1,0 +1,24 @@
+<Record>
+<Term>Exotropia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Strabismus</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Ocular Motility Disorders/Strabismus/Exotropia</ClassificationPath>
+<ClassificationPath>Eye Diseases/Ocular Motility Disorders/Strabismus/Exotropia</ClassificationPath>
+<BroaderTerm>Ocular Motility Disorders</BroaderTerm>
+<BroaderTerm>Strabismus</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Exotropia</BroaderTerm>
+<Synonym>Divergent Strabismus</Synonym>
+<Synonym>Primary Exotropia</Synonym>
+<Synonym>Alternating Exotropia</Synonym>
+<Synonym>Secondary Exotropia</Synonym>
+<Synonym>Exophoria</Synonym>
+<Synonym>Exodeviations</Synonym>
+<Synonym>Monocular Exotropia</Synonym>
+<Synonym>Exodeviation</Synonym>
+<Synonym>Exotropia</Synonym>
+<Description>A form of ocular misalignment where the visual axes diverge inappropriately. For example, medial rectus muscle weakness may produce this condition as the affected eye will deviate laterally upon attempted forward gaze. An exotropia occurs due to the relatively unopposed force exerted on the eye by the lateral rectus muscle, which pulls the eye in an outward direction.</Description>
+<Source>MeSH</Source>
+</Record>

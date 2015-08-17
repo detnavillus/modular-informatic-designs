@@ -1,0 +1,24 @@
+<Record>
+<Term>Agammaglobulinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ParentTerm>Blood Protein Disorders</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Agammaglobulinemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Agammaglobulinemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Agammaglobulinemia</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Agammaglobulinemia</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Agammaglobulinemias</Synonym>
+<Synonym>Hypogammaglobulinemias</Synonym>
+<Synonym>Agammaglobulinemia</Synonym>
+<Synonym>Hypogammaglobulinemia</Synonym>
+<Description>An immunologic deficiency state characterized by an extremely low level of generally all classes of gamma-globulin in the blood.</Description>
+<Source>MeSH</Source>
+</Record>

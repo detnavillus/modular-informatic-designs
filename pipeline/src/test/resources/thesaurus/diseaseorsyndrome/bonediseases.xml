@@ -1,0 +1,33 @@
+<Record>
+<Term>Bone Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Bone Diseases, Developmental</ChildTerm>
+<ChildTerm>Bone Diseases, Endocrine</ChildTerm>
+<ChildTerm>Bone Cysts</ChildTerm>
+<ChildTerm>Bone Diseases, Infectious</ChildTerm>
+<ChildTerm>Bone Diseases, Metabolic</ChildTerm>
+<ChildTerm>Bone Neoplasms</ChildTerm>
+<ChildTerm>Bone Resorption</ChildTerm>
+<ChildTerm>Hyperostosis</ChildTerm>
+<ChildTerm>Spinal Diseases</ChildTerm>
+<ChildTerm>Eosinophilic Granuloma</ChildTerm>
+<ChildTerm>Epiphyses, Slipped</ChildTerm>
+<ChildTerm>Osteochondrosis</ChildTerm>
+<ChildTerm>Bone Malalignment</ChildTerm>
+<ChildTerm>Genu Valgum</ChildTerm>
+<ChildTerm>Genu Varum</ChildTerm>
+<ChildTerm>Osteonecrosis</ChildTerm>
+<ChildTerm>Osteitis</ChildTerm>
+<ChildTerm>Osteitis Deformans</ChildTerm>
+<ChildTerm>Osteoarthropathy, Primary Hypertrophic</ChildTerm>
+<ChildTerm>Osteoarthropathy, Secondary Hypertrophic</ChildTerm>
+<ChildTerm>Osteochondritis</ChildTerm>
+<Synonym>Bone Diseases</Synonym>
+<Synonym>Bone Disease</Synonym>
+<Description>Diseases of BONES.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Esophageal Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Esophageal Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Esophageal Disorder/Esophageal Polyp</ClassificationPath>
+<BroaderTerm>Esophageal Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Esophageal Polyp</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Esophageal Polyp,</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Giant Fibrovascular Esophageal Polyp</ChildTerm>
+<Synonym>Esophageal Polyp</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

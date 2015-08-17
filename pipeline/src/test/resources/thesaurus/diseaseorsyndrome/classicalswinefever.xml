@@ -1,0 +1,20 @@
+<Record>
+<Term>Classical Swine Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Pestivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Pestivirus Infections/Classical Swine Fever</ClassificationPath>
+<ClassificationPath>Animal Diseases/Swine Diseases/Classical Swine Fever</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Classical Swine Fever</BroaderTerm>
+<BroaderTerm>Pestivirus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Hog Cholera</Synonym>
+<Synonym>Classical Swine Fever</Synonym>
+<Synonym>Swine Fever</Synonym>
+<Description>An acute, highly contagious disease affecting swine of all ages and caused by the CLASSICAL SWINE FEVER VIRUS. It has a sudden onset with high morbidity and mortality.</Description>
+<Source>MeSH</Source>
+</Record>

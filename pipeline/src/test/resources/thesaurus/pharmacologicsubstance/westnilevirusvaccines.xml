@@ -1,0 +1,15 @@
+<Record>
+<Term>West Nile Virus Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/West Nile Virus Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>West Nile Virus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>West Nile Virus Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with WEST NILE VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

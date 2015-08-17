@@ -1,0 +1,20 @@
+<Record>
+<Term>Recombinant Vaccina-MUC-1 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccina-MUC-1 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccina-MUC-1 Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccina-MUC-1 Vaccine</Synonym>
+<Synonym>Recombinant Vaccinia MUC-1</Synonym>
+<Synonym>rV-MUC-1 Vaccine</Synonym>
+<Description>A vaccine containing a recombinant vaccinia virus that encodes the gene for human mucin-1, a tumor-associated antigen. Upon administration, recombinant vaccinia-MUC-1 vaccine may elicit a MUC-1-specific cytotoxic T cell response against tumor cells bearing MUC-1.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

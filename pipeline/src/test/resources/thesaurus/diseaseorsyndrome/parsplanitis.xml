@@ -1,0 +1,30 @@
+<Record>
+<Term>Pars Planitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveitis, Intermediate</ParentTerm>
+<ParentTerm>Choroiditis</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Posterior/Choroiditis/Pars Planitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Uveitis, Intermediate/Pars Planitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Pars Planitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Choroid Diseases/Choroiditis/Pars Planitis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Choroid Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Uveitis, Posterior</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Uveitis, Intermediate</BroaderTerm>
+<BroaderTerm>Pars Planitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Choroiditis</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<Synonym>Pars Planitis</Synonym>
+<Description>Form of granulomatous uveitis occurring in the region of the pars plana. This disorder is a common condition with no detectable focal pathology. It causes fibrovascular proliferation at the inferior ora serrata.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

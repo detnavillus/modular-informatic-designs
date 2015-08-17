@@ -1,0 +1,17 @@
+<Record>
+<Term>Ovarian Cancer Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Ovarian Cancer Peptide Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ovarian Cancer Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>OC-PEP-VAC</Synonym>
+<Synonym>Ovarian Cancer Peptide Vaccine</Synonym>
+<Description>A cancer vaccine comprised of synthetic peptides corresponding to naturally-occurring peptides derived from ovarian cancer cell antigens. Ovarian cancer peptide vaccine may elicit a cytotoxic T-cell response against tumor cells expressing the related ovarian cancer cell antigens. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

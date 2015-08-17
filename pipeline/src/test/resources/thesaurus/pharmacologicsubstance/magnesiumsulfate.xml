@@ -1,0 +1,41 @@
+<Record>
+<Term>Magnesium Sulfate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ParentTerm>Sulfates</ParentTerm>
+<ParentTerm>Magnesium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Magnesium Compounds/Magnesium Sulfate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sulfur Compounds/Sulfur Acids/Sulfuric Acids/Sulfates/Magnesium Sulfate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Magnesium Sulfate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Magnesium Sulfate Anhydrous</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sulfuric Acids</BroaderTerm>
+<BroaderTerm>Sulfur Acids</BroaderTerm>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Magnesium Sulfate Anhydrous</BroaderTerm>
+<BroaderTerm>Sulfates</BroaderTerm>
+<BroaderTerm>Magnesium Compounds</BroaderTerm>
+<BroaderTerm>Magnesium Sulfate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Sulfur Compounds</BroaderTerm>
+<Synonym>MAGNESIUM SULFATE</Synonym>
+<Synonym>Magnesium Sulfate whiskers</Synonym>
+<Synonym>Magnesium SO4</Synonym>
+<Synonym>Heptahydrate Magnesium Sulfate</Synonym>
+<Synonym>Magnesium Sulfate Anhydrous</Synonym>
+<Synonym>Magnesium sulfate</Synonym>
+<Synonym>Magnesium sulfate in dextrose 5%</Synonym>
+<Synonym>MAGNESIUM SULFATE, ANHYDROUS</Synonym>
+<Synonym>Magnesium Sulfate</Synonym>
+<Synonym>Magnesium sulfate in plastic container</Synonym>
+<Synonym>Magnesium sulfate in dextrose 5% in plastic container</Synonym>
+<Description>A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Swine Erysipelas</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Erysipelothrix Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Erysipelothrix Infections/Swine Erysipelas</ClassificationPath>
+<ClassificationPath>Animal Diseases/Erysipelothrix Infections/Swine Erysipelas</ClassificationPath>
+<ClassificationPath>Animal Diseases/Swine Diseases/Swine Erysipelas</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Swine Erysipelas</BroaderTerm>
+<BroaderTerm>Erysipelothrix Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Swine Erysipelas</Synonym>
+<Description>An acute and chronic contagious disease of young pigs caused by Erysipelothrix insidiosa.</Description>
+<Source>MeSH</Source>
+</Record>

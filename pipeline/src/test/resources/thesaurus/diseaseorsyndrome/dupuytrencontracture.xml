@@ -1,0 +1,29 @@
+<Record>
+<Term>Dupuytren Contracture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Contracture</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Contracture/Dupuytren Contracture</ClassificationPath>
+<ClassificationPath>Palmar Fibromatosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Dupuytren Contracture</ClassificationPath>
+<BroaderTerm>Dupuytren Contracture</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Palmar Fibromatosis</BroaderTerm>
+<BroaderTerm>Contracture</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<Synonym>Dupuytren's Disease</Synonym>
+<Synonym>Dupuytren Contracture</Synonym>
+<Synonym>Dupuytren Disease</Synonym>
+<Synonym>Palmar Fibromatosis</Synonym>
+<Synonym>Dupuytren's Contracture</Synonym>
+<Synonym>Dupuytrens Contracture</Synonym>
+<Synonym>Dupuytrens Disease</Synonym>
+<Description>A superficial fibromatosis arising from the soft tissue of the palm. It is characterized by the presence of spindle-shaped fibroblasts, and an infiltrative growth pattern. It predominantly affects adult males.</Description>
+<Description>A fibromatosis of the palmar fascia characterized by thickening and contracture of the fibrous bands on the palmar surfaces of the hand and fingers. It arises most commonly in men between the ages of 30 and 50.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

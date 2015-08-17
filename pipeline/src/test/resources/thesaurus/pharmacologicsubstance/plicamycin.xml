@@ -1,0 +1,54 @@
+<Record>
+<Term>Plicamycin</Term>
+<SemanticType>Antibiotic</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Miscellaneous Antineoplastic Antibiotic</ParentTerm>
+<ParentTerm>Anthracyclines</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Groove Binding Agent/DNA Minor Groove Binding Agent/Plicamycin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Bone Resorption Inhibitor/Plicamycin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antineoplastic Antibiotic/Miscellaneous Antineoplastic Antibiotic/Plicamycin</ClassificationPath>
+<ClassificationPath>Organic Chemicals/Hydrocarbons/Hydrocarbons, Cyclic/Hydrocarbons, Aromatic/Polycyclic Hydrocarbons, Aromatic/Naphthacenes/Anthracyclines/Plicamycin</ClassificationPath>
+<ClassificationPath>Polycyclic Compounds/Polycyclic Hydrocarbons, Aromatic/Naphthacenes/Anthracyclines/Plicamycin</ClassificationPath>
+<ClassificationPath>Carbohydrates/Glycosides/Aminoglycosides/Anthracyclines/Plicamycin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Aminoglycosides</BroaderTerm>
+<BroaderTerm>Bone Resorption Inhibitor</BroaderTerm>
+<BroaderTerm>DNA Minor Groove Binding Agent</BroaderTerm>
+<BroaderTerm>Miscellaneous Antineoplastic Antibiotic</BroaderTerm>
+<BroaderTerm>Carbohydrates</BroaderTerm>
+<BroaderTerm>Anthracyclines</BroaderTerm>
+<BroaderTerm>Plicamycin</BroaderTerm>
+<BroaderTerm>DNA Groove Binding Agent</BroaderTerm>
+<BroaderTerm>Glycosides</BroaderTerm>
+<BroaderTerm>Hydrocarbons, Aromatic</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Antibiotic</BroaderTerm>
+<BroaderTerm>Organic Chemicals</BroaderTerm>
+<BroaderTerm>Plicamycin,</BroaderTerm>
+<BroaderTerm>Hydrocarbons, Cyclic</BroaderTerm>
+<BroaderTerm>Polycyclic Compounds</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Polycyclic Hydrocarbons, Aromatic</BroaderTerm>
+<BroaderTerm>Naphthacenes</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Hydrocarbons</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>Aureolic acid</Synonym>
+<Synonym>MTH</Synonym>
+<Synonym>PA-144</Synonym>
+<Synonym>Plicamycin</Synonym>
+<Synonym>Aureolic Acid</Synonym>
+<Synonym>A-2371</Synonym>
+<Synonym>Mitramycin</Synonym>
+<Synonym>Mithracin</Synonym>
+<Synonym>Mithracine</Synonym>
+<Synonym>Mithramycin</Synonym>
+<Synonym>PLICAMYCIN</Synonym>
+<Description>An antibiotic isolated from the bacterium Streptomyces plicatus with antineoplastic activity. Plicamycin, also known as mithramycin, binds to the minor groove of DNA at GC-rich sites, resulting in inhibition of RNA synthesis; this agent also inhibits mRNA expression, resulting in a reduction in protein synthesis. In addition, plicamycin may inhibit bone resorption by down regulating transcription of c-src, an oncogene involved in bone metabolism and resorption. (NCI04)</Description>
+<Description>A tricyclic pentaglycosidic antibiotic from Streptomyces strains that inhibits RNA and protein synthesis by adhering to DNA. It is used as a fluorescent dye and as an antineoplastic agent, especially in bone and testicular tumors. Plicamycin is also used to reduce hypercalcemia, especially that due to malignancies.</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

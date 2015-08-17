@@ -1,0 +1,20 @@
+<Record>
+<Term>Idiopathic Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Idiopathic Cardiomyopathy</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Idiopathic Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Idiopathic Cardiomyopathy</Synonym>
+<Description>A disease of the heart muscle or myocardium proper whose cause is unknown.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

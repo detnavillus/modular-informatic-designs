@@ -1,0 +1,17 @@
+<Record>
+<Term>Colorado Tick Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Reoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Reoviridae Infections/Colorado Tick Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases/Colorado Tick Fever</ClassificationPath>
+<BroaderTerm>Colorado Tick Fever</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Reoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Colorado Tick Fever</Synonym>
+<Description>A febrile illness characterized by chills, aches, vomiting, leukopenia, and sometimes encephalitis. It is caused by the COLORADO TICK FEVER VIRUS, a reovirus transmitted by the tick Dermacentor andersoni.</Description>
+<Source>MeSH</Source>
+</Record>

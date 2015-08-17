@@ -1,0 +1,49 @@
+<Record>
+<Term>Cerebral Palsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Damage, Chronic</ParentTerm>
+<ParentTerm>Neurodegenerative Disorder</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Damage, Chronic/Cerebral Palsy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Cerebral Palsy</ClassificationPath>
+<BroaderTerm>Cerebral Palsy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Brain Damage, Chronic</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<ChildTerm>Spastic Diplegia</ChildTerm>
+<Synonym>Spastic Cerebral Palsy</Synonym>
+<Synonym>Cerebral Palsy</Synonym>
+<Synonym>Hypotonic Cerebral Palsies</Synonym>
+<Synonym>Little Disease</Synonym>
+<Synonym>Spastic Cerebral Palsies</Synonym>
+<Synonym>Monoplegic Infantile Cerebral Palsy</Synonym>
+<Synonym>Spastic Diplegias</Synonym>
+<Synonym>Rolandic Type Cerebral Palsy</Synonym>
+<Synonym>Diplegic Infantile Cerebral Palsy</Synonym>
+<Synonym>Spastic Diplegia</Synonym>
+<Synonym>Dystonic-Rigid Cerebral Palsy</Synonym>
+<Synonym>Dyskinetic Cerebral Palsy</Synonym>
+<Synonym>CP (Cerebral Palsy)</Synonym>
+<Synonym>Little's Disease</Synonym>
+<Synonym>Mixed Cerebral Palsy</Synonym>
+<Synonym>Dystonic-Rigid Cerebral Palsies</Synonym>
+<Synonym>Mixed Cerebral Palsies</Synonym>
+<Synonym>Athetoid Cerebral Palsy</Synonym>
+<Synonym>Atonic Cerebral Palsy</Synonym>
+<Synonym>Monoplegic Cerebral Palsies</Synonym>
+<Synonym>Hypotonic Cerebral Palsy</Synonym>
+<Synonym>Monoplegic Cerebral Palsy</Synonym>
+<Synonym>Congenital Cerebral Palsy</Synonym>
+<Synonym>Quadriplegic Infantile Cerebral Palsy</Synonym>
+<Description>A heterogeneous group of nonprogressive motor disorders caused by chronic brain injuries that originate in the prenatal period, perinatal period, or first few years of life. The four major subtypes are spastic, athetoid, ataxic, and mixed cerebral palsy, with spastic forms being the most common. The motor disorder may range from difficulties with fine motor control to severe spasticity (see MUSCLE SPASTICITY) in all limbs. Spastic diplegia (Little disease) is the most common subtype, and is characterized by spasticity that is more prominent in the legs than in the arms. Pathologically, this condition may be associated with LEUKOMALACIA, PERIVENTRICULAR. (From Dev Med Child Neurol 1998 Aug;40(8):520-7)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

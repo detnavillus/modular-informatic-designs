@@ -1,0 +1,18 @@
+<Record>
+<Term>AIDS Associated Opportunistic Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Opportunistic Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Opportunistic Infection/AIDS Associated Opportunistic Infection</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Opportunistic Infection</BroaderTerm>
+<BroaderTerm>AIDS Associated Opportunistic Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>AIDS Associated Opportunistic Infection</Synonym>
+<Synonym>AIDS, Opportunistic Infection</Synonym>
+<Description>AIDS related research with a minimum of 20% (or $100,000) research efforts related to the biology, pathogenesis, development of vaccines, epidemiology, pathophysiology, diagnosis and treatment of opportunistic infections associated with HIV infection. To include: Pneumocystosis, toxoplasmosis, cryptosporidiosis, candidiasis, cryptococcosis, mycobacteriosis, cytomegalovirus, papillomavirus, herpes simplex, JC virus, coccidioides, hairy leukoplakia, and HIV-related periodontal disease. (FMB)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

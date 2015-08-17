@@ -1,0 +1,29 @@
+<Record>
+<Term>Lupus Nephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glomerulonephritis</ParentTerm>
+<ParentTerm>Lupus Erythematosus, Systemic</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Lupus Erythematosus, Systemic/Lupus Nephritis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Lupus Nephritis</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Lupus Erythematosus, Systemic/Lupus Nephritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Lupus Nephritis</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Lupus Nephritis</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus, Systemic</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Lupus Glomerulonephritides</Synonym>
+<Synonym>Lupus Nephritides</Synonym>
+<Synonym>Lupus Nephritis</Synonym>
+<Synonym>Lupus Glomerulonephritis</Synonym>
+<Description>Glomerulonephritis associated with autoimmune disease SYSTEMIC LUPUS ERYTHEMATOSUS. Lupus nephritis is histologically classified into 6 classes: class I - normal glomeruli, class II - pure mesangial alterations, class III - focal segmental glomerulonephritis, class IV - diffuse glomerulonephritis, class V - diffuse membranous glomerulonephritis, and class VI - advanced sclerosing glomerulonephritis (The World Health Organization classification 1982).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>AP23573</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>mTOR Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/mTOR Inhibitor/AP23573</ClassificationPath>
+<BroaderTerm>AP23573</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>mTOR Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AP23573</Synonym>
+<Description>A small molecule and non-prodrug analog of rapamycin with potent antitumor activity. AP23573 binds to and inhibits the mammalian target of rapamycin (mTOR), a serine/threonine kinase that is upregulated in some tumors and plays an important role downstream of the phosphatidylinositol (PI3K)/Akt (protein kinase B) signaling pathway. Inhibition of mTOR by AP23573 may lead to cell cycle arrest, and consequently blocks tumor cell growth and proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

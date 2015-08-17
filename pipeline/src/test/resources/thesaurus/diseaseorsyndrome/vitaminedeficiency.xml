@@ -1,0 +1,17 @@
+<Record>
+<Term>Vitamin E Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin E Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Vitamin E Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Steatitis</ChildTerm>
+<Synonym>Vitamin E Deficiency</Synonym>
+<Synonym>Vitamin E Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of VITAMIN E in the diet, characterized by posterior column and spinocerebellar tract abnormalities, areflexia, ophthalmoplegia, and disturbances of gait, proprioception, and vibration. In premature infants vitamin E deficiency is associated with hemolytic anemia, thrombocytosis, edema, intraventricular hemorrhage, and increasing risk of retrolental fibroplasia and bronchopulmonary dysplasia. An apparent inborn error of vitamin E metabolism, named familial isolated vitamin E deficiency, has recently been identified. (Cecil Textbook of Medicine, 19th ed, p1181)</Description>
+<Source>MeSH</Source>
+</Record>

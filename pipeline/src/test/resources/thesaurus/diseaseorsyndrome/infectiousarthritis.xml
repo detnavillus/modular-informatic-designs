@@ -1,0 +1,28 @@
+<Record>
+<Term>Infectious Arthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Arthritis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Arthritis, Infectious</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Infectious</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Arthritis, Infectious</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Arthritis, Reactive</ChildTerm>
+<Synonym>Viral Arthritides</Synonym>
+<Synonym>Septic Arthritides</Synonym>
+<Synonym>Bacterial Arthritides</Synonym>
+<Synonym>Viral Arthritis</Synonym>
+<Synonym>Suppurative Arthritis</Synonym>
+<Synonym>Septic Arthritis</Synonym>
+<Synonym>Infectious Arthritis</Synonym>
+<Synonym>Bacterial Arthritis</Synonym>
+<Synonym>Suppurative Arthritides</Synonym>
+<Synonym>Infectious Arthritides</Synonym>
+<Description>Arthritis caused by BACTERIA; RICKETTSIA; MYCOPLASMA; VIRUSES; FUNGI; or PARASITES.</Description>
+<Source>MeSH</Source>
+</Record>

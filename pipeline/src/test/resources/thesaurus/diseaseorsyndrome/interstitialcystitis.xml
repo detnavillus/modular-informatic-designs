@@ -1,0 +1,33 @@
+<Record>
+<Term>Interstitial Cystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chronic Cystitis</ParentTerm>
+<ParentTerm>Cystitis</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis/Cystitis, Interstitial</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis/Cystitis, Interstitial</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Non-Neoplastic Urinary System Disorder/Non-Neoplastic Bladder Disorder/Cystitis/Chronic Cystitis/Interstitial Cystitis</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bladder Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Urinary Bladder Diseases</BroaderTerm>
+<BroaderTerm>Interstitial Cystitis</BroaderTerm>
+<BroaderTerm>Cystitis, Interstitial</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Chronic Cystitis</BroaderTerm>
+<BroaderTerm>Cystitis</BroaderTerm>
+<Synonym>Painful Bladder Syndrome</Synonym>
+<Synonym>Interstitial Cystitides</Synonym>
+<Synonym>Interstitial Cystitis</Synonym>
+<Synonym>Chronic Interstitial Cystitis</Synonym>
+<Synonym>Chronic Interstitial Cystitides</Synonym>
+<Description>A condition with recurring discomfort or pain in the URINARY BLADDER and the surrounding pelvic region without an identifiable disease. Severity of pain in interstitial cystitis varies greatly and often is accompanied by increased urination frequency and urgency.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

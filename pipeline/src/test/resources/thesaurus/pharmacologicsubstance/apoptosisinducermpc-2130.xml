@@ -1,0 +1,15 @@
+<Record>
+<Term>Apoptosis Inducer MPC-2130</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Apoptosis Inducer MPC-2130</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Apoptosis Inducer MPC-2130</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Apoptosis Inducer MPC-2130</Synonym>
+<Synonym>MPC-2130</Synonym>
+<Description>A broad-acting, apoptosis-inducing, small molecule with potential antineoplastic activity. Although the exact mechanism of action has yet to be fully elucidated, apoptosis inducer MPC-2130 exhibits proapoptotic activities in tumor cells, including membrane phosphatidylserine externalization, release of cytochrome C from mitochondria, caspase activation, cell condensation, and DNA fragmentation. In addition, because this agent is not a substrate for several types of multidrug resistance (MDR) ABC superfamily transporters, such as P-glycoprotein 1 (MDR-1), multidrug resistance-associated protein 1 (MRP1), and breast cancer resistance protein 1 (BCRP1/ABCG2), it may be useful in treating MDR tumors that express these particular MDR efflux pumps.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

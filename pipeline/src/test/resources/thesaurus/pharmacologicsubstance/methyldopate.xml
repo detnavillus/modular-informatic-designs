@@ -1,0 +1,30 @@
+<Record>
+<Term>Methyldopate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Dopamine Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Dopamine Agonist/Methyldopate Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Methyldopate Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Methyldopate Hydrochloride</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Dopamine Agonist</BroaderTerm>
+<BroaderTerm>Methyldopate Hydrochloride,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>L-3-(3,4-Dihydroxyphenyl)-2-methylalanine Ethyl Ester Hydrochloride</Synonym>
+<Synonym>Methyldopate Hydrochloride</Synonym>
+<Synonym>Aldomet</Synonym>
+<Synonym>Methyldopate</Synonym>
+<Synonym>Methyldopa Ethyl Ester Hydrochloride</Synonym>
+<Synonym>L-Tyrosine, 3-hydroxy-alpha-methyl-, Ethyl Ester, Hydrochloride</Synonym>
+<Synonym>Methyldopate hydrochloride</Synonym>
+<Synonym>Aldomet Ester Hydrochloride</Synonym>
+<Synonym>METHYLDOPATE HYDROCHLORIDE</Synonym>
+<Synonym>Methyldopate hcl</Synonym>
+<Description>The hydrochloride salt form of methyldopa, a phenylalanine derivate and aromatic amino acid decarboxylase inhibitor with antihypertensive activity. Methyldopa is a prodrug and is metabolized in the central nervous system. The antihypertensive action of methyldopa seems to be attributable to its conversion into alpha-methylnorepinephrine, which is a potent alpha-2 adrenergic agonist that binds to and stimulates potent central inhibitory alpha-2 adrenergic receptors. This results in a decrease in sympathetic outflow and decreased blood pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

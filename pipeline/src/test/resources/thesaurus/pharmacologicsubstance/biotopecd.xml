@@ -1,0 +1,16 @@
+<Record>
+<Term>Biotope CD</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Biotope CD</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Biotope CD</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Biotope CD</Synonym>
+<Synonym>ZY101</Synonym>
+<Description>A non-viral expression system using multifunctional plasmid DNA to deliver disease-specific to immune cells and encode peptides/proteins to modulate various diseases. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

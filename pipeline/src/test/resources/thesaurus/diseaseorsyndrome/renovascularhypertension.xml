@@ -1,0 +1,23 @@
+<Record>
+<Term>Renovascular Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypertension, Renal</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hypertension, Renal/Hypertension, Renovascular</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hypertension, Renal/Hypertension, Renovascular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hypertension/Hypertension, Renal/Hypertension, Renovascular</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hypertension, Renovascular</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Hypertension, Renal</BroaderTerm>
+<Synonym>Goldblatt Hypertension</Synonym>
+<Synonym>Goldblatt Syndrome</Synonym>
+<Synonym>Renovascular Hypertension</Synonym>
+<Description>Hypertension due to RENAL ARTERY OBSTRUCTION or compression.HYPERTENSION due to renal ISCHEMIA. In 1934, Harry Goldblatt described that hypertension can be produced experimentally by using a clamp to obstruct blood flow to one kidney, the Goldblatt phenomenon.</Description>
+<Source>MeSH</Source>
+</Record>

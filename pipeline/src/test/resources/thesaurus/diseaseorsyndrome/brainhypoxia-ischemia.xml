@@ -1,0 +1,53 @@
+<Record>
+<Term>Brain Hypoxia-Ischemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypoxia, Brain</ParentTerm>
+<ParentTerm>Brain Ischemia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Hypoxia-Ischemia, Brain</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypoxia, Brain/Hypoxia-Ischemia, Brain</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Hypoxia-Ischemia, Brain</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hypoxia, Brain</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Hypoxia-Ischemia, Brain</BroaderTerm>
+<Synonym>Cerebral Hypoxia Ischemia</Synonym>
+<Synonym>Cerebral Anoxia Ischemia</Synonym>
+<Synonym>Brain Ischemia-Anoxias</Synonym>
+<Synonym>Anoxic-Ischemic Encephalopathy</Synonym>
+<Synonym>Ischemic-Hypoxic Encephalopathies</Synonym>
+<Synonym>Cerebral Hypoxia-Ischemia</Synonym>
+<Synonym>Brain Ischemia-Hypoxias</Synonym>
+<Synonym>Brain Ischemia-Anoxia</Synonym>
+<Synonym>Brain Ischemia Anoxia</Synonym>
+<Synonym>Brain Ischemia Hypoxia</Synonym>
+<Synonym>Hypoxic-Ischemic Encephalopathy</Synonym>
+<Synonym>Brain Hypoxia-Ischemia</Synonym>
+<Synonym>Hypoxic-Ischemic Encephalopathies</Synonym>
+<Synonym>Cerebral Ischemia-Anoxia</Synonym>
+<Synonym>Hypoxic Ischemic Encephalopathy</Synonym>
+<Synonym>Cerebral Ischemia-Hypoxias</Synonym>
+<Synonym>Cerebral Ischemia-Anoxias</Synonym>
+<Synonym>Brain Hypoxia-Ischemias</Synonym>
+<Synonym>Anoxic-Ischemic Encephalopathies</Synonym>
+<Synonym>Brain Anoxia Ischemia</Synonym>
+<Synonym>Cerebral Anoxia-Ischemia</Synonym>
+<Synonym>Ischemic Hypoxic Encephalopathy</Synonym>
+<Synonym>Cerebral Ischemia-Hypoxia</Synonym>
+<Synonym>Brain Ischemia-Hypoxia</Synonym>
+<Synonym>Anoxic Ischemic Encephalopathy</Synonym>
+<Synonym>Cerebral Ischemia Hypoxia</Synonym>
+<Synonym>Brain Anoxia-Ischemias</Synonym>
+<Synonym>Brain Anoxia-Ischemia</Synonym>
+<Synonym>Cerebral Anoxia-Ischemias</Synonym>
+<Synonym>Cerebral Hypoxia-Ischemias</Synonym>
+<Synonym>Cerebral Ischemia Anoxia</Synonym>
+<Synonym>Ischemic-Hypoxic Encephalopathy</Synonym>
+<Synonym>Brain Hypoxia Ischemia</Synonym>
+<Description>A disorder characterized by a reduction of oxygen in the blood combined with reduced blood flow (ISCHEMIA) to the brain from a localized obstruction of a cerebral artery or from systemic hypoperfusion. Prolonged hypoxia-ischemia is associated with ISCHEMIC ATTACK, TRANSIENT; BRAIN INFARCTION; BRAIN EDEMA; COMA; and other conditions.</Description>
+<Source>MeSH</Source>
+</Record>

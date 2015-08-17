@@ -1,0 +1,24 @@
+<Record>
+<Term>Coagulation Factor Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Coagulation Factor Deficiency,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Coagulation Disorder/Coagulation Factor Deficiency</ClassificationPath>
+<BroaderTerm>Coagulation Factor Deficiency,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Factor Deficiency</BroaderTerm>
+<BroaderTerm>Coagulation Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hemophilia</ChildTerm>
+<ChildTerm>Acquired Coagulation Factor Deficiency</ChildTerm>
+<ChildTerm>Factor XII Deficiency</ChildTerm>
+<ChildTerm>Factor I Deficiency</ChildTerm>
+<ChildTerm>Factor II Deficiency</ChildTerm>
+<Synonym>Coagulation Factor Deficiency</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

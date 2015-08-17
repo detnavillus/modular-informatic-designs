@@ -1,0 +1,54 @@
+<Record>
+<Term>Adrenergic Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adrenergic Agents</ParentTerm>
+<ParentTerm>Adrenergic Agent</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Antagonists</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Adrenergic Antagonist</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Antagonists</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Adrenergic Agents</BroaderTerm>
+<BroaderTerm>Adrenergic Antagonists</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Adrenergic Antagonist</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Adrenergic beta-Antagonists</ChildTerm>
+<ChildTerm>Labetalol</ChildTerm>
+<ChildTerm>Bufuralol</ChildTerm>
+<ChildTerm>Adrenergic alpha-Antagonists</ChildTerm>
+<ChildTerm>Beta-Adrenergic Antagonist</ChildTerm>
+<ChildTerm>Dilevalol</ChildTerm>
+<ChildTerm>Alpha-Adrenergic Antagonist</ChildTerm>
+<ChildTerm>Butamoxane</ChildTerm>
+<ChildTerm>Brefonalol</ChildTerm>
+<ChildTerm>Sotalol</ChildTerm>
+<ChildTerm>Amosulalol</ChildTerm>
+<Synonym>Adrenergic Blockaders</Synonym>
+<Synonym>Antiadrenergics</Synonym>
+<Synonym>Adrenergic Antagonists</Synonym>
+<Synonym>Anti Adrenergics</Synonym>
+<Synonym>Adrenolytics</Synonym>
+<Synonym>Adrenergic Blocking Agents</Synonym>
+<Synonym>Adrenergic Blocking Agent</Synonym>
+<Synonym>Adrenolytic Drugs</Synonym>
+<Synonym>Adrenergic Blockers</Synonym>
+<Synonym>Adrenergic Blocker</Synonym>
+<Synonym>Adrenergic Receptor Blockaders</Synonym>
+<Synonym>Adrenergic Antagonist</Synonym>
+<Synonym>Adrenergic Receptor Antagonists</Synonym>
+<Synonym>Anti-Adrenergics</Synonym>
+<Synonym>Antiadrenergic Agents</Synonym>
+<Synonym>Adrenergic-Blocking Agents</Synonym>
+<Synonym>Adrenolytic Agents</Synonym>
+<Description>Drugs that bind to but do not activate ADRENERGIC RECEPTORS. Adrenergic antagonists block the actions of the endogenous adrenergic transmitters EPINEPHRINE and NOREPINEPHRINE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

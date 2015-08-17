@@ -1,0 +1,22 @@
+<Record>
+<Term>Microvascular Angina</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Angina Pectoris</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Angina Pectoris/Microvascular Angina</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Angina Pectoris/Microvascular Angina</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Microvascular Angina</BroaderTerm>
+<BroaderTerm>Angina Pectoris</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Angina Pectoris with Normal Coronary Arteriogram</Synonym>
+<Synonym>Angina X Syndromes</Synonym>
+<Synonym>Angina X Syndrome</Synonym>
+<Synonym>Microvascular Angina</Synonym>
+<Synonym>Angina Syndrome Xs</Synonym>
+<Synonym>Angina Syndrome X</Synonym>
+<Synonym>Cardiac Syndrome X</Synonym>
+<Description>ANGINA PECTORIS or angina-like chest pain with a normal coronary arteriogram and positive EXERCISE TEST. The cause of the syndrome is unknown. While its recognition is of clinical importance, its prognosis is excellent. (Braunwald, Heart Disease, 4th ed, p1346; Jablonski Dictionary of Syndromes &amp; Eponymic Diseases, 2d ed). It is different from METABOLIC SYNDROME X,  a syndrome characterized by INSULIN RESISTANCE and HYPERINSULINEMIA, that has increased risk for cardiovascular disease.</Description>
+<Source>MeSH</Source>
+</Record>

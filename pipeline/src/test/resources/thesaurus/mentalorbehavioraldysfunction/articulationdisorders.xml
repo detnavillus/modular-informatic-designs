@@ -1,0 +1,35 @@
+<Record>
+<Term>Articulation Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Speech Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Articulation Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Articulation Disorders</ClassificationPath>
+<BroaderTerm>Articulation Disorders</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Dysarthria</ChildTerm>
+<Synonym>Articulation Disorders</Synonym>
+<Synonym>Phonological Impairments</Synonym>
+<Synonym>Developmental Articulation Disorder</Synonym>
+<Synonym>Misarticulation</Synonym>
+<Synonym>Articulation Disorder</Synonym>
+<Synonym>Speech Articulation Disorder</Synonym>
+<Synonym>Unintelligible Articulation</Synonym>
+<Synonym>Developmental Articulation Disorders</Synonym>
+<Synonym>Phonology Impairment</Synonym>
+<Synonym>Phonology Impairments</Synonym>
+<Synonym>Phonological Impairment</Synonym>
+<Synonym>Disarticulation Disorder</Synonym>
+<Synonym>Speech Articulation Disorders</Synonym>
+<Synonym>Disarticulation Disorders</Synonym>
+<Synonym>Unintelligible Articulations</Synonym>
+<Description>Disorders of the quality of speech characterized by the substitution, omission, distortion, and addition of phonemes.</Description>
+<Source>MeSH</Source>
+</Record>

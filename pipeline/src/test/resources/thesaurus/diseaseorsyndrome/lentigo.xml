@@ -1,0 +1,30 @@
+<Record>
+<Term>Lentigo</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Melanosis</ParentTerm>
+<ParentTerm>Non-Neoplastic Skin Disorder</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders/Hyperpigmentation/Melanosis/Lentigo</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Lentigo</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Melanosis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Lentigo</BroaderTerm>
+<BroaderTerm>Hyperpigmentation</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Peutz-Jeghers Syndrome</ChildTerm>
+<ChildTerm>LEOPARD Syndrome</ChildTerm>
+<ChildTerm>Lentigo Simplex</ChildTerm>
+<Synonym>Lentigos</Synonym>
+<Synonym>Lentiginoses</Synonym>
+<Synonym>Lentiginosis</Synonym>
+<Synonym>Lentigo</Synonym>
+<Description>Small circumscribed melanoses resembling, but differing histologically from, freckles. The concept includes senile lentigo ('liver spots') and nevoid lentigo (nevus spilus, lentigo simplex) and may also occur in association with multiple congenital defects or congenital syndromes (e.g., Peutz-Jeghers syndrome).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

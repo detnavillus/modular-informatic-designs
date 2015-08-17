@@ -1,0 +1,30 @@
+<Record>
+<Term>Cestode Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Taeniasis</ChildTerm>
+<ChildTerm>Diphyllobothriasis</ChildTerm>
+<ChildTerm>Echinococcosis</ChildTerm>
+<ChildTerm>Hymenolepiasis</ChildTerm>
+<ChildTerm>Monieziasis</ChildTerm>
+<Synonym>Cestode Infections</Synonym>
+<Synonym>Cestode Infection</Synonym>
+<Synonym>Tapeworm Infection</Synonym>
+<Synonym>Tapeworm Infections</Synonym>
+<Synonym>Cenuriasis</Synonym>
+<Synonym>Cenuriases</Synonym>
+<Synonym>Raillietiniasis</Synonym>
+<Synonym>Raillietiniases</Synonym>
+<Synonym>Coenuriasis</Synonym>
+<Synonym>Coenuriases</Synonym>
+<Synonym>Dipylidiasis</Synonym>
+<Synonym>Dipylidiases</Synonym>
+<Synonym>Bertielliasis</Synonym>
+<Synonym>Bertielliases</Synonym>
+<Description>Infections with true tapeworms of the helminth subclass CESTODA.</Description>
+<Source>MeSH</Source>
+</Record>

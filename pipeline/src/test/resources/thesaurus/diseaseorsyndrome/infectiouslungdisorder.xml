@@ -1,0 +1,30 @@
+<Record>
+<Term>Infectious Lung Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Infectious Lung Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Infectious Lung Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Infectious Lung Disorder,</BroaderTerm>
+<BroaderTerm>Infectious Lung Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<ChildTerm>Acute Bronchitis</ChildTerm>
+<ChildTerm>Lower Respiratory Tract Infection</ChildTerm>
+<ChildTerm>Upper Respiratory Tract Infection</ChildTerm>
+<ChildTerm>Lung Tuberculosis</ChildTerm>
+<Synonym>Infectious Lung Disease</Synonym>
+<Synonym>Infectious Lung Diseases</Synonym>
+<Synonym>Infectious Lung Disorder</Synonym>
+<Synonym>Infectious Lung Disorders</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

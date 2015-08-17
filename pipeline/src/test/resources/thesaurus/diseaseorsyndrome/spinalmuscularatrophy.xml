@@ -1,0 +1,36 @@
+<Record>
+<Term>Spinal Muscular Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Motor Neuron Disease</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Motor Neuron Disease/Muscular Atrophy, Spinal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Motor Neuron Disease/Muscular Atrophy, Spinal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Atrophy, Spinal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Muscular Atrophy, Spinal</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Motor Neuron Disease</BroaderTerm>
+<BroaderTerm>Muscular Atrophy, Spinal</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Bulbo-Spinal Atrophy, X-Linked</ChildTerm>
+<ChildTerm>Spinal Muscular Atrophies of Childhood</ChildTerm>
+<Synonym>Distal Spinal Muscular Atrophy</Synonym>
+<Synonym>Progressive Myelopathic Muscular Atrophy</Synonym>
+<Synonym>Spinal Muscular Atrophy</Synonym>
+<Synonym>Bulbospinal Neuronopathies</Synonym>
+<Synonym>Oculopharyngeal Spinal Muscular Atrophy</Synonym>
+<Synonym>Adult Spinal Muscular Atrophy</Synonym>
+<Synonym>Scapuloperoneal Form of Spinal Muscular Atrophy</Synonym>
+<Synonym>Progressive Muscular Atrophy</Synonym>
+<Synonym>Adult-Onset Spinal Muscular Atrophy</Synonym>
+<Synonym>Progressive Muscular Atrophies</Synonym>
+<Synonym>Adult Onset Spinal Muscular Atrophy</Synonym>
+<Synonym>Bulbospinal Neuronopathy</Synonym>
+<Synonym>Myelopathic Muscular Atrophy</Synonym>
+<Synonym>Progressive Proximal Myelopathic Muscular Atrophy</Synonym>
+<Description>A group of disorders marked by progressive degeneration of motor neurons in the spinal cord resulting in weakness and muscular atrophy, usually without evidence of injury to the corticospinal tracts. Diseases in this category include Werdnig-Hoffmann disease and later onset SPINAL MUSCULAR ATROPHIES OF CHILDHOOD, most of which are hereditary. (Adams et al., Principles of Neurology, 6th ed, p1089)</Description>
+<Source>MeSH</Source>
+</Record>

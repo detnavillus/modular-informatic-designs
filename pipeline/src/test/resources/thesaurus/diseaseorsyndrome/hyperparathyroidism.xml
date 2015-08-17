@@ -1,0 +1,26 @@
+<Record>
+<Term>Hyperparathyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Parathyroid Gland Disorder</ParentTerm>
+<ParentTerm>Parathyroid Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Parathyroid Gland Disorder/Non-Neoplastic Parathyroid Gland Disorder/Hyperparathyroidism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hyperparathyroidism</ClassificationPath>
+<BroaderTerm>Parathyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Parathyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Primary Hyperparathyroidism</ChildTerm>
+<ChildTerm>Hyperparathyroidism, Secondary</ChildTerm>
+<ChildTerm>Hyperparathyroidism, Primary</ChildTerm>
+<Synonym>Hyperparathyroidism</Synonym>
+<Description>A condition of abnormally elevated output of PARATHYROID HORMONE (or PTH) triggering responses that increase blood CALCIUM. It is characterized by HYPERCALCEMIA and BONE RESORPTION, eventually leading to bone diseases. PRIMARY HYPERPARATHYROIDISM is caused by parathyroid HYPERPLASIA or PARATHYROID NEOPLASMS. SECONDARY HYPERPARATHYROIDISM is increased PTH secretion in response to HYPOCALCEMIA, usually caused by chronic KIDNEY DISEASES.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Maternal Phenylketonuria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Phenylketonurias</ParentTerm>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Phenylketonurias/Phenylketonuria, Maternal</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Phenylketonurias</BroaderTerm>
+<BroaderTerm>Phenylketonuria, Maternal</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Maternal Phenylketonuria</Synonym>
+<Synonym>Maternal Phenylalanine Hydroxylase Deficiency Disease</Synonym>
+<Synonym>Pregnancy in Phenylketonurias</Synonym>
+<Synonym>Pregnancy in Phenylketonuria</Synonym>
+<Description>A condition occurring in untreated or partially treated females with PHENYLKETONURIA when they become pregnant. This may result in damages to the FETUS, including MICROCEPHALY; MENTAL RETARDATION; congenital heart disease; FETAL GROWTH RETARDATION; and CRANIOFACIAL ABNORMALITIES. (From Am J Med Genet 1997 Mar 3;69(1):89-95)</Description>
+<Source>MeSH</Source>
+</Record>

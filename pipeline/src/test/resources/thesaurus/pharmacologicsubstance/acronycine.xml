@@ -1,0 +1,16 @@
+<Record>
+<Term>Acronycine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Adduct Forming Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Adduct Forming Agent/Acronycine</ClassificationPath>
+<BroaderTerm>Acronycine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DNA Adduct Forming Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>Acronycine</Synonym>
+<Description>A natural alkaloid with an acridine structure isolated from the bark of the plant Acronychia baueri (Australian scrub ash) with antineoplastic properties.  Acronycine appears to alkylate DNA and interfere with DNA replication. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

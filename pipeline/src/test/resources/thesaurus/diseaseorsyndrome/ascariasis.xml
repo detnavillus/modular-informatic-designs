@@ -1,0 +1,16 @@
+<Record>
+<Term>Ascariasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ascaridida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections/Ascariasis</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Ascariasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<Synonym>Ascariasis</Synonym>
+<Synonym>Ascariases</Synonym>
+<Description>Infection by nematodes of the genus ASCARIS. Ingestion of infective eggs causes diarrhea and pneumonitis. Its distribution is more prevalent in areas of poor sanitation and where human feces are used for fertilizer.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>M A Radiolabeled T101 Human T-LYMP</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A Radiolabeled T101 Human T-LYMP</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>M A Radiolabeled T101 Human T-LYMP</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A Radiolabeled T101 Human T-LYMP</Synonym>
+<Description>A radiolabeled murine monoclonal antibody (also known as T101) directed against T65, an antigen found on cutaneous T cell lymphoma (CTCL) cells and chronic lymphocytic leukemia (CLL) cells as well as normal T lymphocytes. T101 labeled with 131I, 125I, or 111In has potential use in the radioimaging of CTCL.  M A radiolabeled T101 human T-lymph may induce a cytotoxic T-cell response against T65-expressing T cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

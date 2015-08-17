@@ -1,0 +1,45 @@
+<Record>
+<Term>Paraneoplastic Polyneuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paraneoplastic Syndromes, Nervous System</ParentTerm>
+<ParentTerm>Polyneuropathies</ParentTerm>
+<ParentTerm>Polyneuropathy</ParentTerm>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Polyneuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Paraneoplastic Polyneuropathy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Neuropathy/Polyneuropathy/Paraneoplastic Polyneuropathy,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Paraneoplastic Syndrome/Paraneoplastic Polyneuropathy</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Polyneuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Polyneuropathy</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuropathy</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Polyneuropathy</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes, Nervous System</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Paraneoplastic Polyneuropathy,</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Paraneoplastic Polyneuropathy</BroaderTerm>
+<ChildTerm>Paraneoplastic Subacute Sensory Neuronopathy</ChildTerm>
+<Synonym>Paraneoplastic Polyneuropathies</Synonym>
+<Synonym>Paraneoplastic Neuropathy</Synonym>
+<Synonym>Paraneoplastic Neuropathies</Synonym>
+<Synonym>Paraneoplastic Peripheral Neuropathy</Synonym>
+<Synonym>Paraneoplastic Peripheral Neuropathies</Synonym>
+<Synonym>Paraneoplastic Polyneuropathy</Synonym>
+<Description>A diffuse or multifocal peripheral neuropathy related to the remote effects of a neoplasm, most often carcinoma or lymphoma. Pathologically, there are inflammatory changes in peripheral nerves. The most common clinical presentation is a symmetric distal mixed sensorimotor polyneuropathy. (Adams et al., Principles of Neurology, 6th ed, p1334)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

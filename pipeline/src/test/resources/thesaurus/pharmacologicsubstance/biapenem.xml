@@ -1,0 +1,16 @@
+<Record>
+<Term>Biapenem</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Beta-Lactam Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Beta-Lactam Antibiotic/Biapenem</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Beta-Lactam Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biapenem</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BIAPENEM</Synonym>
+<Synonym>Biapenem</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

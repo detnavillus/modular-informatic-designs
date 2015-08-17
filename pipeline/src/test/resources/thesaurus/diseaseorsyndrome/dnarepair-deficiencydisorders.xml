@@ -1,0 +1,33 @@
+<Record>
+<Term>DNA Repair-Deficiency Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Cell or Molecular Dysfunction</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<ChildTerm>Ataxia Telangiectasia</ChildTerm>
+<ChildTerm>Bloom Syndrome</ChildTerm>
+<ChildTerm>Cockayne Syndrome</ChildTerm>
+<ChildTerm>Colorectal Neoplasms, Hereditary Nonpolyposis</ChildTerm>
+<ChildTerm>Fanconi Anemia</ChildTerm>
+<ChildTerm>Rothmund-Thomson Syndrome</ChildTerm>
+<ChildTerm>Werner Syndrome</ChildTerm>
+<ChildTerm>Xeroderma Pigmentosum</ChildTerm>
+<ChildTerm>Severe Combined Immunodeficiency</ChildTerm>
+<ChildTerm>Li-Fraumeni Syndrome</ChildTerm>
+<ChildTerm>Nijmegen Breakage Syndrome</ChildTerm>
+<Synonym>DNA Repair-Deficiency Disorders</Synonym>
+<Synonym>DNA Repair Deficiency Disorders</Synonym>
+<Synonym>DNA Repair-Deficiency Disorder</Synonym>
+<Synonym>DNA Repair-Deficiency</Synonym>
+<Synonym>DNA Repair Deficiency</Synonym>
+<Synonym>DNA Repair-Deficiencies</Synonym>
+<Synonym>Deficient DNA Repair</Synonym>
+<Synonym>Deficient DNA Repairs</Synonym>
+<Synonym>Chromosome Instability Syndromes</Synonym>
+<Synonym>Chromosome Instability Syndrome</Synonym>
+<Description>Disorders resulting from defective DNA REPAIR processes or the associated cellular responses to DNA DAMAGE.</Description>
+<Source>MeSH</Source>
+</Record>

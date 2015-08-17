@@ -1,0 +1,37 @@
+<Record>
+<Term>Amebic Liver Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amebiasis</ParentTerm>
+<ParentTerm>Liver Diseases, Parasitic</ParentTerm>
+<ParentTerm>Liver Abscess</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis/Liver Abscess, Amebic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Abscess/Liver Abscess, Amebic</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Abdominal Abscess/Liver Abscess/Liver Abscess, Amebic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Liver Diseases, Parasitic/Liver Abscess, Amebic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Parasitic/Liver Abscess, Amebic</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Liver Abscess, Amebic</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Abdominal Abscess</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Liver Abscess</BroaderTerm>
+<BroaderTerm>Liver Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Amoebic Liver Abscess</Synonym>
+<Synonym>Amoebic Liver Abscesses</Synonym>
+<Synonym>Amebic Liver Abscesses</Synonym>
+<Synonym>Hepatic Amoebiasis</Synonym>
+<Synonym>Amebic Liver Abscess</Synonym>
+<Synonym>Hepatic Amebiasis</Synonym>
+<Synonym>Hepatic Entamoebiases</Synonym>
+<Synonym>Amoebic Hepatic Abscesses</Synonym>
+<Synonym>Amoebic Hepatic Abscess</Synonym>
+<Synonym>Hepatic Entamoebiasis</Synonym>
+<Description>Single or multiple areas of PUS due to infection by any ameboid protozoa (AMEBIASIS). A common form is caused by the ingestion of ENTAMOEBA HISTOLYTICA.</Description>
+<Source>MeSH</Source>
+</Record>

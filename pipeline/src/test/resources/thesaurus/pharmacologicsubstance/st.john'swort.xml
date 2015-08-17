@@ -1,0 +1,23 @@
+<Record>
+<Term>St. John's Wort</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/St. John's Wort,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/St. John's Wort</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>St. John's Wort</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>St. John's Wort,</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hypericum Perforatum Extract</Synonym>
+<Synonym>ST. JOHN'S WORT</Synonym>
+<Synonym>St John's Wort</Synonym>
+<Synonym>St. John's Wort</Synonym>
+<Synonym>St. John's wort</Synonym>
+<Synonym>hypericum perforatum</Synonym>
+<Description>An herbal extract prepared from the plant Hypericum perforatum (St. John's wort) with photodynamic, antineoplastic, and antidepressant activities. Hypericin, one of the active compounds found in Hypericum perforatum, is a photosensitizer that, when exposed to a particular wavelength and intensity of light, may induce tumor cell apoptosis. Another compound, hyperforin, induces caspase-dependent apoptosis in certain tumor cell lines. Hypericum perforatum preparations may also stimulate the activity of cytochrome P450 enzymes and P-glycoprotein drug transporters, resulting in increased metabolism and decreased efficacy of various chemotherapeutic agents and other drugs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

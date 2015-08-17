@@ -1,0 +1,52 @@
+<Record>
+<Term>Expectorants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Mucolytic Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Expectorants</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Expectorant</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Expectorant</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Expectorants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Mucolytic Agent</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Fudosteine</ChildTerm>
+<ChildTerm>Tasuldine</ChildTerm>
+<ChildTerm>Eprazinone</ChildTerm>
+<ChildTerm>Guaifenesin</ChildTerm>
+<ChildTerm>Danosteine</ChildTerm>
+<ChildTerm>Mecysteine</ChildTerm>
+<ChildTerm>Taurosteine</ChildTerm>
+<ChildTerm>Domiodol</ChildTerm>
+<ChildTerm>Nesosteine</ChildTerm>
+<ChildTerm>Brovanexine</ChildTerm>
+<ChildTerm>Adamexine</ChildTerm>
+<ChildTerm>Isalsteine</ChildTerm>
+<ChildTerm>Ambroxol</ChildTerm>
+<ChildTerm>Ipecac</ChildTerm>
+<ChildTerm>Guaisteine</ChildTerm>
+<ChildTerm>Erdosteine</ChildTerm>
+<ChildTerm>Telmesteine</ChildTerm>
+<ChildTerm>Moguisteine</ChildTerm>
+<ChildTerm>Dacisteine</ChildTerm>
+<ChildTerm>Prenisteine</ChildTerm>
+<ChildTerm>Acetylcysteine</ChildTerm>
+<ChildTerm>Stepronin</ChildTerm>
+<Synonym>Mucolytics</Synonym>
+<Synonym>Expectorant</Synonym>
+<Synonym>Expectorants</Synonym>
+<Synonym>Mucolytic Agent</Synonym>
+<Synonym>Mucolytic Agents</Synonym>
+<Description>Agents that increase mucous excretion. Mucolytic agents, that is drugs that liquefy mucous secretions, are also included here.</Description>
+<Description>Any agent that promotes ejection of mucus or exudate from the lungs, bronchi and trachea by decreasing mucus viscosity or by increasing the secretion of mucus in a dry, unproductive cough.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

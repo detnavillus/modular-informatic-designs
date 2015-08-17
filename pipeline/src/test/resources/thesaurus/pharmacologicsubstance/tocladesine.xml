@@ -1,0 +1,28 @@
+<Record>
+<Term>Tocladesine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Purine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Ring Compound/Heterocyclic Compound/Purine/Tocladesine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Tocladesine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Ring Compound</BroaderTerm>
+<BroaderTerm>Tocladesine,</BroaderTerm>
+<BroaderTerm>Tocladesine</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Purine</BroaderTerm>
+<BroaderTerm>Heterocyclic Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>8-Chloro Cyclic AMP</Synonym>
+<Synonym>8-Chloroadenosine Cyclic 3':5'-Monophosphate</Synonym>
+<Synonym>8-Cl-cAMP</Synonym>
+<Synonym>Adenazole</Synonym>
+<Synonym>Tocladesine</Synonym>
+<Synonym>tocladesine</Synonym>
+<Description>An antimetabolite and a chlorine derivative of the intracellular secondary messenger, cyclic adenosine 3,5-monophosphate (cAMP), with potential antineoplastic activity. Tocladesine appears to be converted to 8-chloro-adenosine by phosphodiesterases and subsequently phosphorylated to 8-chloro-ATP, which functions as a purine analogue and competes with ATP in transcription. In addition, generation of 8-chloro-ATP depletes endogenous ATP pool that is essential for many biological reactions in intracellular energy transfer. As a result, this agent causes RNA synthesis inhibition, blocks cellular proliferation, and induces apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

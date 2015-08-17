@@ -1,0 +1,33 @@
+<Record>
+<Term>Caplan Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumoconiosis</ParentTerm>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Caplan Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Caplan Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Injury/Pneumoconiosis/Caplan Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Pneumoconiosis/Caplan Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Pneumoconiosis/Caplan Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Caplan Syndrome</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lung Injury</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Caplan Syndrome</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Pneumoconiosis</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Caplans Syndrome</Synonym>
+<Synonym>Caplan Syndrome</Synonym>
+<Synonym>Caplan's Syndrome</Synonym>
+<Synonym>Caplan Syndromes</Synonym>
+<Description>A condition characterized by the presence of RHEUMATOID ARTHRITIS associated with a specific form of pneumoconiosis, often in coal miners and asbestos workers.</Description>
+<Source>MeSH</Source>
+</Record>

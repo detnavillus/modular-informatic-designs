@@ -1,0 +1,33 @@
+<Record>
+<Term>Toxoplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coccidiosis</ParentTerm>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Toxoplasmosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Toxoplasmosis</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Toxoplasmosis, Animal</ChildTerm>
+<ChildTerm>Toxoplasmosis, Ocular</ChildTerm>
+<ChildTerm>Congenital Toxoplasmosis</ChildTerm>
+<ChildTerm>Acquired Toxoplasmosis</ChildTerm>
+<ChildTerm>Toxoplasmosis, Cerebral</ChildTerm>
+<ChildTerm>Toxoplasmosis, Congenital</ChildTerm>
+<ChildTerm>AIDS-Related Toxoplasmosis</ChildTerm>
+<Synonym>Toxoplasmosis</Synonym>
+<Synonym>Toxoplasma gondii Infection</Synonym>
+<Synonym>Toxoplasma gondii Infections</Synonym>
+<Synonym>Toxoplasmoses</Synonym>
+<Description>The acquired form of infection by Toxoplasma gondii in animals and man.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

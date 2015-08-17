@@ -1,0 +1,18 @@
+The concept of inheritance brings something of a real-world view to programming. It allows a class to be defined that has a certain set of characteristics (such as methods and instance variables) and then other classes to be created which are derived from that class. The derived class inherits all of the features of the parent class and typically then adds some features of its own. 
+
+By deriving classes we create what is often referred to as a class hierarchy. The class at the top of the hierarchy is known as the base class or root class and the derived classes as subclasses or child classes. Any number of subclasses may be derived from a class. The class from which a subclass is derived is called the parent class. 
+
+Classes need not only be derived from a root class. For example, a subclass can also inherit from another subclass with the potential to create large and complex class hierarchies. 
+
+In Objective-C a subclass can only be derived from a single direct parent class. This is a concept referred to as single inheritance. 
+
+
+As we can see from the declaration, this class is a subclass of the NSObject base class and contains a number of instance variables and instance methods. Though this is a somewhat basic class it does everything necessary if all you need it to do is store an account number and account balance. Suppose, however, that in addition to the BankAccount class you also needed a class to be used for savings accounts. A savings account will still need to hold an account number and a current balance and methods will still be needed to access that data. One option would be to create an entirely new class, one that duplicates all of the functionality of the BankAccount class together with the new features required by a savings account. A more efficient approach would be to create a new class that is a subclass of the BankAccount class. The class will then inherit all the features of the BankAccount class but can then be extended to add the additional functionality required by a savings account. 
+
+To create a subclass of BankAccount that we will call SavingsAccount we simply write the appropriate interface and implementation structure, this time specifying BankAccount instead of NSObject as the parent class (inheritance passes down through all levels of the class hierarchy so SavingsAccount will still inherit from NSObject via the BankAccount parent class):
+
+Python supports the creation of anonymous functions (i.e. functions that are not bound to a name) at runtime, using a construct called "lambda". This is not exactly the same as lambda in functional programming languages, but it is a very powerful concept that's well integrated into Python and is often used in conjunction with typical functional concepts like filter(), map() and reduce(). 
+
+This piece of code shows the difference between a normal function definition ("f") and a lambda function ("g"): 
+
+If acronym matching is working HTTP should hit by the rest should not. However if I put the acronym REST in, it should hit now - and it does :-)

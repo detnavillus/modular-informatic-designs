@@ -1,0 +1,50 @@
+<Record>
+<Term>Neurologic Gait Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Gait Disorders, Neurologic</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Gait Disorders, Neurologic</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Gait Disorders, Neurologic</BroaderTerm>
+<ChildTerm>Gait Ataxia</ChildTerm>
+<ChildTerm>Gait Apraxia</ChildTerm>
+<Synonym>Charcot Gaits</Synonym>
+<Synonym>Sensorimotor Gait Disorders</Synonym>
+<Synonym>Neurologic Gait Disorders</Synonym>
+<Synonym>Charcots Gait</Synonym>
+<Synonym>Duck Gait</Synonym>
+<Synonym>Unsteady Gait</Synonym>
+<Synonym>Festinating Gait</Synonym>
+<Synonym>Charcot Gait</Synonym>
+<Synonym>Drop Foot Gait</Synonym>
+<Synonym>Athetotic Gait</Synonym>
+<Synonym>Neurologic Ambulation Disorder</Synonym>
+<Synonym>Rigid Gait</Synonym>
+<Synonym>Charcot's Gait</Synonym>
+<Synonym>Neurologic Locomotion Disorders</Synonym>
+<Synonym>Frontal Gait</Synonym>
+<Synonym>Scissors Gait</Synonym>
+<Synonym>Marche a Petit Pas</Synonym>
+<Synonym>Hysterical Gait</Synonym>
+<Synonym>Reeling Gait</Synonym>
+<Synonym>Shuffling Gaits</Synonym>
+<Synonym>Shuffling Gait</Synonym>
+<Synonym>Spastic Gait</Synonym>
+<Synonym>Neurologic Ambulation Disorders</Synonym>
+<Synonym>Sensorimotor Gait Disorder</Synonym>
+<Synonym>Stumbling Gait</Synonym>
+<Synonym>Widebased Gait</Synonym>
+<Synonym>Neurologic Gait Dysfunction</Synonym>
+<Synonym>Broadened Gait</Synonym>
+<Synonym>Neurologic Locomotion Disorder</Synonym>
+<Synonym>Rapid Fatigue of Gait</Synonym>
+<Synonym>Neurologic Gait Disorder</Synonym>
+<Synonym>Hemiplegic Gait</Synonym>
+<Synonym>Neurologic Gait Dysfunctions</Synonym>
+<Description>Gait abnormalities that are a manifestation of nervous system dysfunction. These conditions may be caused by a wide variety of disorders which affect motor control, sensory feedback, and muscle strength including: CENTRAL NERVOUS SYSTEM DISEASES; PERIPHERAL NERVOUS SYSTEM DISEASES; NEUROMUSCULAR DISEASES; or MUSCULAR DISEASES.</Description>
+<Source>MeSH</Source>
+</Record>

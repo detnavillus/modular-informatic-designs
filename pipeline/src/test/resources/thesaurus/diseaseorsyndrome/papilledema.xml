@@ -1,0 +1,43 @@
+<Record>
+<Term>Papilledema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Edema</ParentTerm>
+<ParentTerm>Optic Nerve Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases/Papilledema</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Swelling/Edema/Papilledema</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases/Papilledema</ClassificationPath>
+<BroaderTerm>Edema</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Papilledema</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Swelling</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Papilledema Associated with Increased Intracranial Pressure</Synonym>
+<Synonym>Decreased Intraocular Pressure-Associated Papilledema</Synonym>
+<Synonym>Increased Intracranial Pressure Associated Papilledema</Synonym>
+<Synonym>Optic Disk Edemas</Synonym>
+<Synonym>Papilledema Associated with Decreased Intraocular Pressure</Synonym>
+<Synonym>Optic Disk Edema</Synonym>
+<Synonym>Retinal Edema</Synonym>
+<Synonym>Papilledema</Synonym>
+<Synonym>Increased Intracranial Pressure-Associated Papilledema</Synonym>
+<Synonym>Papilledemas</Synonym>
+<Synonym>Optic Papilla Edemas</Synonym>
+<Synonym>Choked Disks</Synonym>
+<Synonym>Retinal Edemas</Synonym>
+<Synonym>Optic Papilla Edema</Synonym>
+<Synonym>papilledema</Synonym>
+<Synonym>Optic Papillitis</Synonym>
+<Synonym>Choked Disk</Synonym>
+<Description>Swelling around the optic nerve, usually due to pressure on the nerve by a tumor.</Description>
+<Description>Swelling of the OPTIC DISK, usually in association with increased intracranial pressure, characterized by hyperemia, blurring of the disk margins, microhemorrhages, blind spot enlargement, and engorgement of retinal veins. Chronic papilledema may cause OPTIC ATROPHY and visual loss. (Miller et al., Clinical Neuro-Ophthalmology, 4th ed, p175)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

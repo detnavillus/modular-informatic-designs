@@ -1,0 +1,21 @@
+<Record>
+<Term>Neuroaspergillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aspergillosis</ParentTerm>
+<ParentTerm>Central Nervous System Fungal Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Fungal Infections/Neuroaspergillosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Aspergillosis/Neuroaspergillosis</ClassificationPath>
+<BroaderTerm>Aspergillosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Fungal Infections</BroaderTerm>
+<BroaderTerm>Neuroaspergillosis</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Nervous System Invasive Aspergillosis</Synonym>
+<Synonym>Neuroaspergilloses</Synonym>
+<Synonym>Neuroaspergillosis</Synonym>
+<Description>Infections of the nervous system caused by fungi of the genus ASPERGILLUS, most commonly ASPERGILLUS FUMIGATUS. Aspergillus infections may occur in immunocompetent hosts, but are more prevalent in individuals with IMMUNOLOGIC DEFICIENCY SYNDROMES. The organism may spread to the nervous system from focal infections in the lung, mastoid region, sinuses, inner ear, bones, eyes, gastrointestinal tract, and heart. Sinus infections may be locally invasive and enter the intracranial compartment, producing MENINGITIS, FUNGAL; cranial neuropathies; and abscesses in the frontal lobes of the brain. (From Joynt, Clinical Neurology, 1998, Ch 27, pp62-3)</Description>
+<Source>MeSH</Source>
+</Record>

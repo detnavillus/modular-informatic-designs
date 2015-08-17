@@ -1,0 +1,24 @@
+<Record>
+<Term>Tinea Favosa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tinea Capitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Capitis/Tinea Favosa</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Scalp Dermatoses/Tinea Capitis/Tinea Favosa</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea/Tinea Capitis/Tinea Favosa</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea/Tinea Capitis/Tinea Favosa</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tinea Capitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Scalp Dermatoses</BroaderTerm>
+<BroaderTerm>Tinea Favosa</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tinea</BroaderTerm>
+<Synonym>Favus</Synonym>
+<Synonym>Tinea Favosa</Synonym>
+<Description>A disease of the scalp that may affect the glabrous skin and the nails and is recognized by the concave sulfur-yellow crusts that form around loose, wiry hairs. Atrophy ensues, leaving a smooth, glossy, thin, paper-white patch. This type of disease is rare in the United States and more frequently seen in the Middle East, Africa, Southeastern Europe, and other countries bordering the Mediterranean Sea. (Arnold, Odom, and James, Andrew's Diseases of the Skin, 8th ed, p319)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Variegate Porphyria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Porphyrias, Hepatic</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Porphyrias/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porphyrias, Hepatic/Porphyria, Variegate</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias, Hepatic</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Porphyria, Variegate</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<Synonym>Variegate Porphyria</Synonym>
+<Synonym>Porphyria Variegate</Synonym>
+<Synonym>Porphyria Variegates</Synonym>
+<Synonym>Protoporphyrinogen Oxidase Deficiency</Synonym>
+<Description>An autosomal dominant porphyria that is due to a deficiency of protoporphyrinogen oxidase (EC 1.3.3.4) in the LIVER, the seventh enzyme in the 8-enzyme biosynthetic pathway of HEME. Clinical features include both neurological symptoms and cutaneous lesions. Patients excrete increased levels of porphyrin precursors, COPROPORPHYRINS and protoporphyrinogen.</Description>
+<Source>MeSH</Source>
+</Record>

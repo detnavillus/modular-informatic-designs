@@ -1,0 +1,41 @@
+<Record>
+<Term>Pulmonary Emphysema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Chronic Obstructive Pulmonary Disease</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Emphysema</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Chronic Obstructive Pulmonary Disease/Pulmonary Emphysema</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Chronic Obstructive Pulmonary Disease</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Emphysema</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Lung, Hyperlucent</ChildTerm>
+<ChildTerm>Interstitial Emphysema</ChildTerm>
+<Synonym>Panacinar Emphysemas</Synonym>
+<Synonym>Panlobular Emphysemas</Synonym>
+<Synonym>Centriacinar Emphysema</Synonym>
+<Synonym>Centrilobular Emphysema</Synonym>
+<Synonym>Panacinar Emphysema</Synonym>
+<Synonym>Panlobular Emphysema</Synonym>
+<Synonym>Centriacinar Emphysemas</Synonym>
+<Synonym>Focal Emphysema</Synonym>
+<Synonym>Pulmonary Emphysema</Synonym>
+<Synonym>Centrilobular Emphysemas</Synonym>
+<Synonym>Focal Emphysemas</Synonym>
+<Synonym>Emphysema, Pulmonary</Synonym>
+<Synonym>Pulmonary Emphysemas</Synonym>
+<Synonym>Pulmonary emphysema</Synonym>
+<Synonym>Emphysema</Synonym>
+<Description>Enlargement of air spaces distal to the TERMINAL BRONCHIOLES where gas-exchange normally takes place. This is usually due to destruction of the alveolar wall. Pulmonary emphysema can be classified by the location and distribution of the lesions.</Description>
+<Description>A subcategory of chronic obstructive pulmonary disease (COPD).  It occurs in people who smoke and suffer from chronic bronchitis.  It is characterized by inflation of the alveoli, alveolar wall damage, and reduction in the number of alveoli, resulting in difficulty breathing.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

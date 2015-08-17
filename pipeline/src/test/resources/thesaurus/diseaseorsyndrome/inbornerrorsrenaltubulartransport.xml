@@ -1,0 +1,34 @@
+<Record>
+<Term>Inborn Errors Renal Tubular Transport</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Renal Tubular Transport, Inborn Errors</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Oculocerebrorenal Syndrome</ChildTerm>
+<ChildTerm>Hypophosphatemia, Familial</ChildTerm>
+<ChildTerm>Fanconi Syndrome</ChildTerm>
+<ChildTerm>Renal Aminoacidurias</ChildTerm>
+<ChildTerm>Bartter Syndrome</ChildTerm>
+<ChildTerm>Pseudohypoaldosteronism</ChildTerm>
+<ChildTerm>Gitelman Syndrome</ChildTerm>
+<ChildTerm>Liddle Syndrome</ChildTerm>
+<ChildTerm>Acidosis, Renal Tubular</ChildTerm>
+<ChildTerm>Glycosuria, Renal</ChildTerm>
+<Synonym>Renal Tubular Transport Errors</Synonym>
+<Description>Genetic defects in the selective or non-selective transport functions of the KIDNEY TUBULES.</Description>
+<Source>MeSH</Source>
+</Record>

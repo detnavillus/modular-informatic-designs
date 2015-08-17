@@ -1,0 +1,40 @@
+<Record>
+<Term>Graves Ophthalmopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases, Hereditary</ParentTerm>
+<ParentTerm>Graves Disease</ParentTerm>
+<ClassificationPath>Eye Diseases/Orbital Diseases/Exophthalmos/Graves Disease/Graves Ophthalmopathy</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Diseases, Hereditary/Graves Ophthalmopathy</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Graves Disease/Graves Ophthalmopathy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroidism/Graves Disease/Graves Ophthalmopathy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Goiter/Graves Disease/Graves Ophthalmopathy</ClassificationPath>
+<BroaderTerm>Goiter</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Exophthalmos</BroaderTerm>
+<BroaderTerm>Hyperthyroidism</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Orbital Diseases</BroaderTerm>
+<BroaderTerm>Graves Ophthalmopathy</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Graves Disease</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Myopathic Ophthalmopathies</Synonym>
+<Synonym>Thyroid-Associated Ophthalmopathy</Synonym>
+<Synonym>Congestive Ophthalmopathy</Synonym>
+<Synonym>Thyroid-Associated Ophthalmopathies</Synonym>
+<Synonym>Infiltrative Ophthalmopathies</Synonym>
+<Synonym>Thyroid Associated Ophthalmopathy</Synonym>
+<Synonym>Myopathic Ophthalmopathy</Synonym>
+<Synonym>Congestive Ophthalmopathies</Synonym>
+<Synonym>Edematous Ophthalmopathy</Synonym>
+<Synonym>Thyroid Associated Ophthalmopathies</Synonym>
+<Synonym>Dysthyroid Ophthalmopathies</Synonym>
+<Synonym>Edematous Ophthalmopathies</Synonym>
+<Synonym>Dysthyroid Ophthalmopathy</Synonym>
+<Synonym>Infiltrative Ophthalmopathy</Synonym>
+<Synonym>Graves Ophthalmopathy</Synonym>
+<Description>An autoimmune disorder of the EYE, occurring in patients with Graves disease. Subtypes include congestive (inflammation of the orbital connective tissue), myopathic (swelling and dysfunction of the extraocular muscles), and mixed congestive-myopathic ophthalmopathy.</Description>
+<Source>MeSH</Source>
+</Record>

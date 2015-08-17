@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-Neoplastic Nevus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Skin Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Non-Neoplastic Nevus</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nevus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Epidermal Nevus</ChildTerm>
+<ChildTerm>Becker Nevus</ChildTerm>
+<ChildTerm>Verrucous Nevus</ChildTerm>
+<ChildTerm>Nevus of Ito</ChildTerm>
+<ChildTerm>Senile Nevus</ChildTerm>
+<ChildTerm>Nevus of Ota</ChildTerm>
+<ChildTerm>Mongolian Spot</ChildTerm>
+<ChildTerm>Connective Tissue Nevus</ChildTerm>
+<Synonym>Non-Neoplastic Nevus</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

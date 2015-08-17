@@ -1,0 +1,38 @@
+<Record>
+<Term>Sinus Bradycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Supraventricular Arrhythmia</ParentTerm>
+<ParentTerm>Supraventricular and Nodal Arrhythmia Adverse Event</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Sinus Bradycardia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Cardiac Arrhythmia/Supraventricular and Nodal Arrhythmia Adverse Event/Sinus Bradycardia Adverse Event</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Cardiac Arrhythmia</BroaderTerm>
+<BroaderTerm>Sinus Bradycardia</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Sinus Bradycardia Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Supraventricular and Nodal Arrhythmia Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Sinus Bradycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Sinus Bradycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Sinus Bradycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Sinus Bradycardia</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Sinus Bradycardia</ChildTerm>
+<Synonym>SINUS BRADYCARDIA</Synonym>
+<Synonym>Sinus Bradycardia</Synonym>
+<Synonym>Sinus bradycardia</Synonym>
+<Synonym>Sinus Bradycardia Adverse Event</Synonym>
+<Description>A heart rate of less than 60 beats per minute, with its origin in the sinus node.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

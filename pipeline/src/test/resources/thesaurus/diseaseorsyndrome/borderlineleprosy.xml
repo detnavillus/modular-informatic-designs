@@ -1,0 +1,20 @@
+<Record>
+<Term>Borderline Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leprosy, Paucibacillary</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy/Leprosy, Paucibacillary/Leprosy, Borderline</ClassificationPath>
+<BroaderTerm>Leprosy, Paucibacillary</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Leprosy, Borderline</BroaderTerm>
+<Synonym>Borderline Leprosies</Synonym>
+<Synonym>Borderline Leprosy</Synonym>
+<Synonym>Dimorphous Leprosies</Synonym>
+<Synonym>Dimorphous Leprosy</Synonym>
+<Description>A form of LEPROSY in which there are clinical manifestations of both principal types (lepromatous and tuberculoid). The disease may shift toward one of these two polar or principal forms.</Description>
+<Source>MeSH</Source>
+</Record>

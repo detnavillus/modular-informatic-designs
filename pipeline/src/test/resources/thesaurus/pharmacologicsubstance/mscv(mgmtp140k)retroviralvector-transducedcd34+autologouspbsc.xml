@@ -1,0 +1,15 @@
+<Record>
+<Term>MSCV (MGMTP140K) Retroviral Vector-Transduced CD34+ Autologous PBSC</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Autologous Lymphocytes</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Autologous Lymphocytes/MSCV (MGMTP140K) Retroviral Vector-Transduced CD34+ Autologous PBSC</ClassificationPath>
+<BroaderTerm>MSCV (MGMTP140K) Retroviral Vector-Transduced CD34+ Autologous PBSC</BroaderTerm>
+<BroaderTerm>Therapeutic Autologous Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MSCV (MGMTP140K) Retroviral Vector-Transduced CD34+ Autologous PBSC</Synonym>
+<Description>CD34+ peripheral blood stem cells (PBSC) isolated from patient with hematopoietic cell tumor, and transfected with murine stem cell virus retroviral vector encoding a mutant version of the human DNA repair protein O6-alkylguanine-DNA methyltransferase (MGMT). This mutant MGMT protein, MGMTP140K, is resistant to the O6-benzylguanine (BG), an inhibitor of the wild type MGMT. Introduction of these transfected autologous PBSCs back to the patient, may stimulate the expression of the O6 BG resistant mutant MGMT protein, which when used in combination with O6-alkylating drugs could protect the hematopoietic system against the hematopoietic toxicity of chemotherapeutic agents.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

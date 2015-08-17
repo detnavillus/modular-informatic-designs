@@ -1,0 +1,38 @@
+<Record>
+<Term>Reye Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Fatty Liver</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Reye Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Reye Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Reye Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Fatty Liver/Reye Syndrome</ClassificationPath>
+<BroaderTerm>Reye Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Fatty Liver</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Reye Syndrome</Synonym>
+<Synonym>Adult Reye Syndrome</Synonym>
+<Synonym>Reye-Like Syndrome</Synonym>
+<Synonym>Reye Johnson Syndrome</Synonym>
+<Synonym>Adult Reye's Syndrome</Synonym>
+<Synonym>Reye's Like Syndrome</Synonym>
+<Synonym>Reye's-Like Syndrome</Synonym>
+<Synonym>Reye's Syndrome</Synonym>
+<Synonym>Reye-Johnson Syndrome</Synonym>
+<Synonym>Reye Like Syndrome</Synonym>
+<Description>A form of encephalopathy with fatty infiltration of the LIVER, characterized by brain EDEMA and VOMITING that may rapidly progress to SEIZURES; COMA; and DEATH. It is caused by a generalized loss of mitochondrial function leading to disturbances in fatty acid and CARNITINE metabolism.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

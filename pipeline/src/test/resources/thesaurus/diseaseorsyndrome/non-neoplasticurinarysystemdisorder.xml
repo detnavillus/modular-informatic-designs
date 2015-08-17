@@ -1,0 +1,25 @@
+<Record>
+<Term>Non-Neoplastic Urinary System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Non-Neoplastic Urinary System Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Urinary System Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Urinary System Disorder,</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Bladder Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Renal Disorder</ChildTerm>
+<ChildTerm>Nephrogenic Adenoma</ChildTerm>
+<ChildTerm>Non-Neoplastic Ureter Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Urethra Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Urinary System Disorder</Synonym>
+<Synonym>Non-Neoplastic Urinary Tract Disease</Synonym>
+<Synonym>Non-Neoplastic Urinary Tract Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

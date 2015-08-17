@@ -1,0 +1,24 @@
+<Record>
+<Term>Cytochalasin B</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Cytochalasins</ParentTerm>
+<ClassificationPath>Biological Factors/Toxins, Biological/Mycotoxins/Cytochalasins/Cytochalasin B</ClassificationPath>
+<ClassificationPath>Polycyclic Compounds/Macrocyclic Compounds/Macrolides/Cytochalasins/Cytochalasin B</ClassificationPath>
+<ClassificationPath>Heterocyclic Compounds/Heterocyclic Compounds, 2-Ring/Indoles/Cytochalasins/Cytochalasin B</ClassificationPath>
+<BroaderTerm>Polycyclic Compounds</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds, 2-Ring</BroaderTerm>
+<BroaderTerm>Cytochalasins</BroaderTerm>
+<BroaderTerm>Mycotoxins</BroaderTerm>
+<BroaderTerm>Cytochalasin B</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Toxins, Biological</BroaderTerm>
+<BroaderTerm>Indoles</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds</BroaderTerm>
+<BroaderTerm>Macrolides</BroaderTerm>
+<BroaderTerm>Macrocyclic Compounds</BroaderTerm>
+<Synonym>Phomin</Synonym>
+<Synonym>Cytochalasin B</Synonym>
+<Description>A cytotoxic member of the CYTOCHALASINS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Collagenous Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Microscopic Colitis</ParentTerm>
+<ParentTerm>Colitis, Microscopic</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Colitis, Microscopic/Colitis, Collagenous</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Colitis, Microscopic/Colitis, Collagenous</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Colitis/Microscopic Colitis/Collagenous Colitis</ClassificationPath>
+<BroaderTerm>Colitis, Collagenous</BroaderTerm>
+<BroaderTerm>Microscopic Colitis</BroaderTerm>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Collagenous Colitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Colitis, Microscopic</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Collagenous Colitis</Synonym>
+<Description>A subtype of MICROSCOPIC COLITIS, characterized by chronic watery DIARRHEA of unknown origin, a normal COLONOSCOPY but abnormal histopathology on BIOPSY. Microscopic examination of biopsy samples taken from the COLON show larger-than-normal band of subepithelial COLLAGEN.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

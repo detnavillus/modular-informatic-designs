@@ -1,0 +1,16 @@
+<Record>
+<Term>MLN2704</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/MLN2704</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>MLN2704</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MLN2704</Synonym>
+<Synonym>MLN591DM1</Synonym>
+<Description>An immunoconjugate that consists of a humanized monoclonal antibody (MLN591), directed against prostate-specific membrane antigen linked to a maytansinoid (DM1). The monoclonal antibody moiety of MLN2704 binds to tumor cells expressing prostate-specific membrane antigen; MLN274 is then internalized into the tumor cell where the DM1 maytansinoid moiety binds to tubulin and inhibits tubulin polymerization and microtubule assembly, resulting in a disruption of microtubule activity and cell division, and cell death. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

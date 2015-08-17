@@ -1,0 +1,22 @@
+<Record>
+<Term>Calcium Channel Blockers</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Calcium Channel Blockers</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Calcium Channel Blockers</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Calcium Channel Blockers</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Exogenous Calcium Blockaders</Synonym>
+<Synonym>Calcium Channel Blockers</Synonym>
+<Synonym>Exogenous Calcium Inhibitors</Synonym>
+<Synonym>Exogenous Calcium Antagonists</Synonym>
+<Synonym>Calcium Channel Blocking Drugs</Synonym>
+<Description>A class of drugs that act by selective inhibition of calcium influx through cell membranes or on the release and binding of calcium in intracellular pools. Since they are inducers of vascular and other smooth muscle relaxation, they are used in the drug therapy of hypertension and cerebrovascular spasms, as myocardial protective agents, and in the relaxation of uterine spasms.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Bronchopneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchopneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Bronchopneumonia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Bronchopneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Bronchopneumonia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchopneumonia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Bronchial Pneumonias</Synonym>
+<Synonym>Bronchopneumonias</Synonym>
+<Synonym>Bronchial Pneumonia</Synonym>
+<Synonym>Bronchopneumonia</Synonym>
+<Description>Inflammation of the lung parenchyma that is associated with BRONCHITIS, usually involving lobular areas from TERMINAL BRONCHIOLES to the PULMONARY ALVEOLI. The affected areas become filled with exudate that forms consolidated patches.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

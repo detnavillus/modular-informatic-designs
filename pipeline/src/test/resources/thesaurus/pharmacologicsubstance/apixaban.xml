@@ -1,0 +1,19 @@
+<Record>
+<Term>Apixaban</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Apixaban</ClassificationPath>
+<BroaderTerm>Apixaban</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1H-Pyrazolo(3,4-c)pyridine-3-carboxamide, 4,5,6,7-tetrahydro-1-(4-methoxyphenyl)-7-oxo-6-(4-(2-oxo-1-piperidinyl)phenyl)-</Synonym>
+<Synonym>APIXABAN</Synonym>
+<Synonym>Apixaban</Synonym>
+<Synonym>BMS-562247</Synonym>
+<Synonym>BMS-562247-01</Synonym>
+<Description>An orally active inhibitor of coagulation factor Xa with anticoagulant activity. Apixaban directly inhibits factor Xa, thereby interfering with the conversion of prothrombin to thrombin and preventing formation of cross-linked fibrin clots.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

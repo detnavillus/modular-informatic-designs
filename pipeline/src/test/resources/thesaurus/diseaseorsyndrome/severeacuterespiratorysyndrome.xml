@@ -1,0 +1,19 @@
+<Record>
+<Term>Severe Acute Respiratory Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Coronavirus Infections</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Severe Acute Respiratory Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections/Coronavirus Infections/Severe Acute Respiratory Syndrome</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Severe Acute Respiratory Syndrome</BroaderTerm>
+<BroaderTerm>Coronavirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<Synonym>Severe Acute Respiratory Syndrome</Synonym>
+<Description>A viral disorder characterized by high FEVER, dry COUGH, shortness of breath (DYSPNEA) or breathing difficulties, and atypical PNEUMONIA. A virus in the genus CORONAVIRUS is the suspected agent.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>AIDS Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ParentTerm>Vaccine</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/AIDS Vaccines</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/HIV Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>AIDS Vaccines</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>HIV Vaccine</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>HIV Peptide Vaccine</ChildTerm>
+<ChildTerm>PCLUS 3-18MN</ChildTerm>
+<ChildTerm>PCLUS 6.1-18MN</ChildTerm>
+<Synonym>AIDS Vaccines</Synonym>
+<Synonym>HIV Vaccine</Synonym>
+<Synonym>HIV Vaccines</Synonym>
+<Synonym>HIV/AIDS Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines containing inactivated HIV or some of its component antigens and designed to prevent or treat AIDS. Some vaccines containing antigens are recombinantly produced.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

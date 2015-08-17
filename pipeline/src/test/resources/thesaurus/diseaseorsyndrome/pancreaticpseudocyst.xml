@@ -1,0 +1,17 @@
+<Record>
+<Term>Pancreatic Pseudocyst</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pancreatic Cyst</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Pancreatic Cyst/Pancreatic Pseudocyst</ClassificationPath>
+<ClassificationPath>Neoplasms/Cysts/Pancreatic Cyst/Pancreatic Pseudocyst</ClassificationPath>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Pancreatic Cyst</BroaderTerm>
+<BroaderTerm>Pancreatic Pseudocyst</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<Synonym>Pancreatic Pseudocyst</Synonym>
+<Synonym>Pancreatic Pseudocysts</Synonym>
+<Description>Cyst-like space not lined by EPITHELIUM and contained within the PANCREAS. Pancreatic pseudocysts account for most of the cystic collections in the pancreas and are often associated with chronic PANCREATITIS.</Description>
+<Source>MeSH</Source>
+</Record>

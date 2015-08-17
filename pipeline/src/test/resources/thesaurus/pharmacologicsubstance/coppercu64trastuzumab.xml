@@ -1,0 +1,16 @@
+<Record>
+<Term>Copper Cu 64 Trastuzumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Copper Cu 64 Trastuzumab</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Copper Cu 64 Trastuzumab</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Copper Cu 64 Trastuzumab</Synonym>
+<Synonym>Cu-64-trastuzumab</Synonym>
+<Description>A diagnostic radioimmunoconjugate comprised of the recombinant humanized monoclonal antibody trastuzumab conjugated with the positron-emitting radioisotope copper Cu 64. Copper Cu 64 trastuzumab binds to the extracellular domain of human epidermal growth factor receptor 2 (HER2), allowing the detection of HER2 distribution using positron emission tomography (PET).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

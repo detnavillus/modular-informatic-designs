@@ -1,0 +1,22 @@
+<Record>
+<Term>Hormone Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</ParentTerm>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormone Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Leukotriene Antagonists</ChildTerm>
+<ChildTerm>Androgen Antagonists</ChildTerm>
+<ChildTerm>Aldosterone Antagonists</ChildTerm>
+<ChildTerm>Insulin Antagonists</ChildTerm>
+<ChildTerm>Estrogen Receptor Modulators</ChildTerm>
+<ChildTerm>Prostaglandin Antagonists</ChildTerm>
+<ChildTerm>Antithyroid Agents</ChildTerm>
+<Synonym>Hormone Antagonists</Synonym>
+<Description>Chemical substances which inhibit the function of the endocrine glands, the biosynthesis of their secreted hormones, or the action of hormones upon their specific sites.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Hypereosinophilic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Eosinophilia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Eosinophilia/Hypereosinophilic Syndrome</ClassificationPath>
+<ClassificationPath>Hypereosinophilic Syndrome</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Eosinophilia</BroaderTerm>
+<BroaderTerm>Hypereosinophilic Syndrome</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Pulmonary Eosinophilia</ChildTerm>
+<Synonym>Idiopathic Hypereosinophilic Syndromes</Synonym>
+<Synonym>Idiopathic Hypereosinophilic Syndrome</Synonym>
+<Synonym>Eosinophilic Leukemia</Synonym>
+<Synonym>Loeffler's Endocarditis</Synonym>
+<Synonym>Loefflers Endocarditis</Synonym>
+<Synonym>Loeffler Endocarditis</Synonym>
+<Synonym>Hypereosinophilic Syndromes</Synonym>
+<Synonym>Hypereosinophilic Syndrome</Synonym>
+<Synonym>Eosinophilic Leukemias</Synonym>
+<Description>A heterogeneous group of disorders with the common feature of prolonged eosinophilia of unknown cause and associated organ system dysfunction, including the heart, central nervous system, kidneys, lungs, gastrointestinal tract, and skin. There is a massive increase in the number of eosinophils in the blood, mimicking leukemia, and extensive eosinophilic infiltration of the various organs. It is often referred to as idiopathic.</Description>
+<Description>A syndrome characterized by persistent eosinophilia, for which no underlying cause can be found, and which is associated with signs of organ involvement and dysfunction.  This term has often been applied to cases of chronic eosinophilic leukemia.  (WHO, 2001)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

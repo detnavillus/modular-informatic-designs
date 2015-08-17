@@ -1,0 +1,53 @@
+<Record>
+<Term>Familial Amyloid Neuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amyloidosis, Familial</ParentTerm>
+<ParentTerm>Amyloid Neuropathies</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amyloidosis, Familial/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis/Amyloid Neuropathies/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amyloidosis, Familial/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis/Amyloidosis, Familial/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Amyloid Neuropathies, Familial</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Amyloid Neuropathies/Amyloid Neuropathies, Familial</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Amyloid Neuropathies, Familial</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Amyloid Neuropathies</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Amyloidosis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Amyloidosis, Familial</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<Synonym>Jewish Type Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Iowa Type Amyloid Polyneuropathy</Synonym>
+<Synonym>Type VI Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Portuguese Polyneuritic Amyloidoses</Synonym>
+<Synonym>Portuguese Polyneuritic Amyloidosis</Synonym>
+<Synonym>Portuguese Type Familial Amyloid Neuropathy</Synonym>
+<Synonym>Appalachian Type Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Familial Portuguese Polyneuritic Amyloidosis</Synonym>
+<Synonym>Familial Amyloid Neuropathies</Synonym>
+<Synonym>Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>British Type Amyloid Polyneuropathy</Synonym>
+<Synonym>Type I Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Hereditary Neuropathic Amyloidoses</Synonym>
+<Synonym>Type IV Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Type V Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Hereditary Neuropathic Amyloidosis</Synonym>
+<Synonym>Familial Amyloid Neuropathy</Synonym>
+<Synonym>Finnish Type Familial Amyloid Neuropathy</Synonym>
+<Synonym>Type II Familial Amyloid Polyneuropathy</Synonym>
+<Synonym>Familial Amyloid Polyneuropathies</Synonym>
+<Synonym>Swiss Type Amyloid Polyneuropathy</Synonym>
+<Synonym>Type III Familial Amyloid Polyneuropathy</Synonym>
+<Description>Inherited disorders of the peripheral nervous system associated with the deposition of AMYLOID in nerve tissue. The different clinical types based on symptoms correspond to the presence of a variety of mutations in several different proteins including transthyretin (PREALBUMIN); APOLIPOPROTEIN A-I; and GELSOLIN.</Description>
+<Source>MeSH</Source>
+</Record>

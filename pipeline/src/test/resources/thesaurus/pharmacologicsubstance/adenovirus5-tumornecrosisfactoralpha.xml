@@ -1,0 +1,18 @@
+<Record>
+<Term>Adenovirus 5-Tumor Necrosis Factor Alpha</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Adenovirus 5-Tumor Necrosis Factor Alpha</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Adenovirus 5-Tumor Necrosis Factor Alpha</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad 5-TNF Alpha</Synonym>
+<Synonym>Adenovirus 5-Tumor Necrosis Factor Alpha</Synonym>
+<Description>A recombinant agent consisting of a genetically-modified adenovirus 5 vector encoding the protein cytokine tumor necrosis factor (TNF) alpha.  TNF exhibits potent anti-tumor cytolytic properties; the adenovirus 5 vector efficiently infects tumor cells, delivering tumor-specific TNF. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

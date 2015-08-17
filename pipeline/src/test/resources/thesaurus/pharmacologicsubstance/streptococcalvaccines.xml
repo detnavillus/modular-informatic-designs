@@ -1,0 +1,16 @@
+<Record>
+<Term>Streptococcal Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Streptococcal Vaccines</ClassificationPath>
+<BroaderTerm>Streptococcal Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Pneumococcal Vaccines</ChildTerm>
+<Synonym>Streptococcal Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent STREPTOCOCCAL INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

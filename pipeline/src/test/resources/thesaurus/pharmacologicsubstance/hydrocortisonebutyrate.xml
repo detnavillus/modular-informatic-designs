@@ -1,0 +1,24 @@
+<Record>
+<Term>Hydrocortisone Butyrate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Hydrocortisone Butyrate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Hydrocortisone Butyrate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Locoid lipocream</Synonym>
+<Synonym>11-beta,17-alpha,21-Trihydroxy-4-pregnene-3,20-dione 17-alpha-butyrate</Synonym>
+<Synonym>Hydrocortisone Butyrate</Synonym>
+<Synonym>HYDROCORTISONE BUTYRATE</Synonym>
+<Synonym>Locoid</Synonym>
+<Synonym>Hydrocortisone butyrate</Synonym>
+<Description>The butyrate salt form of hydrocortisone, a synthetic glucocorticoid receptor agonist with antiinflammatory, antipruritic and vasoconstrictive effects. Binding and activation of the glucocorticoid receptor results in the activation of lipocortin that in turn inhibits cytosolic phospholipase A2. Lack of phospholipase A2 prevents the release of arachidonic acid, precursor for inflammatory mediator prostaglandins and leukotrienes, from the cell membrane. Secondly, mitogen-activated protein kinase (MAPK) phosphatase 1 is induced, thereby leading to dephosphorylation and inactivation of Jun N-terminal kinase directly inhibiting c-Jun mediated transcription. Finally, transcriptional activity of nuclear factor (NF)-kappa-B is blocked, thereby inhibits the transcription of cyclooxygenase 2, which is essential for prostaglandin production.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

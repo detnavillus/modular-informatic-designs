@@ -1,0 +1,33 @@
+<Record>
+<Term>Microscopic Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Colitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Colitis, Microscopic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Colitis, Microscopic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Colitis/Microscopic Colitis</ClassificationPath>
+<BroaderTerm>Microscopic Colitis</BroaderTerm>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Colitis, Microscopic</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Colitis, Collagenous</ChildTerm>
+<ChildTerm>Lymphocytic Colitis</ChildTerm>
+<ChildTerm>Collagenous Colitis</ChildTerm>
+<ChildTerm>Eosinophilic Colitis</ChildTerm>
+<ChildTerm>Colitis, Lymphocytic</ChildTerm>
+<Synonym>Microscopic Colitis</Synonym>
+<Description>A condition characterized by chronic watery DIARRHEA of unknown origin, a normal COLONOSCOPY but abnormal histopathology on BIOPSY. This syndrome was first described in 1980 by Read and associates. Subtypes include COLLAGENOUS COLITIS and LYMPHOCYTIC COLITIS. Both have similar clinical symptoms and are distinguishable only by histology.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

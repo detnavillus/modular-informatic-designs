@@ -1,0 +1,14 @@
+<Record>
+<Term>Phosphate Buffer</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Phosphate Buffer</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Phosphate Buffer</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Phosphate Buffer</Synonym>
+<Description>A chemical reagent containing at least any one of the many phosphoric acid derivatives, usually in salt form.  The phosphoric salt may be one of three types: strongly acid monometallic, neutral or mildly alkaline dimetallic, and strongly alkaline tri-metallic.  Phosphate buffers are typically adjusted to maintain a certain pH or are "buffered" with other chemical compounds.  Phosphate reagents are used in research laboratories, medicine or industry in various technical procedures. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

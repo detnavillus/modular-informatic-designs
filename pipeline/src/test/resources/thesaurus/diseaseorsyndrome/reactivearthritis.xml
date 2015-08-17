@@ -1,0 +1,35 @@
+<Record>
+<Term>Reactive Arthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spondylarthropathies</ParentTerm>
+<ParentTerm>Arthritis, Infectious</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Infectious/Arthritis, Reactive</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Arthritis, Infectious/Arthritis, Reactive</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Spondylarthritis/Spondylarthropathies/Arthritis, Reactive</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Spondylarthritis/Spondylarthropathies/Arthritis, Reactive</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthropathies</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthritis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Arthritis, Infectious</BroaderTerm>
+<BroaderTerm>Arthritis, Reactive</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Reiter Disease</Synonym>
+<Synonym>Post-Infectious Arthritides</Synonym>
+<Synonym>Post Infectious Arthritis</Synonym>
+<Synonym>Reiters Disease</Synonym>
+<Synonym>Postinfectious Arthritides</Synonym>
+<Synonym>Reactive Arthritis</Synonym>
+<Synonym>Postinfectious Arthritis</Synonym>
+<Synonym>Post-Infectious Arthritis</Synonym>
+<Synonym>Reiter's Disease</Synonym>
+<Synonym>Reactive Arthritides</Synonym>
+<Synonym>Reiter Syndrome</Synonym>
+<Description>An aseptic, inflammatory arthritis developing secondary to a primary extra-articular infection, most typically of the GASTROINTESTINAL TRACT or UROGENITAL SYSTEM. The initiating trigger pathogens are usually SHIGELLA; SALMONELLA; YERSINIA; CAMPYLOBACTER; or CHLAMYDIA TRACHOMATIS. Reactive arthritis is strongly associated with HLA-B27 ANTIGEN.Historically characterized by a triad of inflammation involving the eye (CONJUNCTIVITIS), the bone (POST-INFECTIOUS ARTHRITIS), and the urethra (URETHRITIS), it is now thought to be nearly synonymous with reactive arthritis.</Description>
+<Source>MeSH</Source>
+</Record>

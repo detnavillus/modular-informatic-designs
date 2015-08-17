@@ -1,0 +1,34 @@
+<Record>
+<Term>Lung Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thoracic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Lung Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Lung Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Lung Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Disorder,</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pulmonary Precancerous Condition</ChildTerm>
+<ChildTerm>Non-Neoplastic Lung Disorder</ChildTerm>
+<Synonym>Lung Disorder</Synonym>
+<Synonym>Lung Disorders</Synonym>
+<Synonym>Pulmonary Disease</Synonym>
+<Synonym>Pulmonary Diseases</Synonym>
+<Synonym>Pulmonary Disorder</Synonym>
+<Synonym>Pulmonary Disorders</Synonym>
+<Synonym>Respiratory Disease</Synonym>
+<Synonym>Respiratory Diseases</Synonym>
+<Synonym>Respiratory Disorder</Synonym>
+<Synonym>Respiratory Disorders</Synonym>
+<Synonym>Respiratory System Disease</Synonym>
+<Synonym>Respiratory System Diseases</Synonym>
+<Synonym>Respiratory System Disorder</Synonym>
+<Synonym>Respiratory System Disorders</Synonym>
+<Description>A non-neoplastic or neoplastic condition affecting the lung.  Representative examples of non-neoplastic conditions include chronic obstructive pulmonary disease and pneumonia.  Representative examples of neoplastic conditions include benign processes (e.g., respiratory papilloma) and malignant processes (e.g., lung carcinoma and metastatic cancer to the lung).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

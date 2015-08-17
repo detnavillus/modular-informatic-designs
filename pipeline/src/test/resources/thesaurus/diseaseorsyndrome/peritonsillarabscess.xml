@@ -1,0 +1,26 @@
+<Record>
+<Term>Peritonsillar Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Tonsillitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pharyngitis/Tonsillitis/Peritonsillar Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Peritonsillar Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Pharyngitis/Tonsillitis/Peritonsillar Abscess</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Pharyngitis/Tonsillitis/Peritonsillar Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngitis</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Tonsillitis</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Peritonsillar Abscess</BroaderTerm>
+<Synonym>Peritonsillar Abscesses</Synonym>
+<Synonym>Peritonsillar Abscess</Synonym>
+<Description>An accumulation of purulent material in the area between the PALATINE TONSIL and its capsule.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Drug Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Dependence</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence/Drug Dependence</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Drug Dependence</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hallucinogen Dependence</ChildTerm>
+<ChildTerm>Heroin Dependence</ChildTerm>
+<ChildTerm>Nicotine Dependence</ChildTerm>
+<ChildTerm>Cocaine Dependence</ChildTerm>
+<ChildTerm>Cannabis Dependence</ChildTerm>
+<Synonym>Chemical Dependence</Synonym>
+<Synonym>Drug Dependence</Synonym>
+<Description>Drug dependence - replaced the term "drug addiction" and is defined as a state, psychic and sometimes also physical, resulting from the interaction between a living organism and a drug, characterized by behavioral and other responses that always include a compulsion to take the drug on a continuous or periodic basis in order to experience its psychic effects, and sometimes to avoid the discomfort of its absence. Tolerance may or may not be present. A person may be dependent on more than one drug.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

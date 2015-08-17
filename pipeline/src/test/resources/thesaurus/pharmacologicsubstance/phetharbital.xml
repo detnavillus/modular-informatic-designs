@@ -1,0 +1,16 @@
+<Record>
+<Term>Phetharbital</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Barbiturate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Barbiturate/Phetharbital</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Phetharbital</BroaderTerm>
+<BroaderTerm>Barbiturate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Phetharbital</Synonym>
+<Description>A short-acting barbiturate derivative without hypnotic properties, Phetharbital (N-phenylbarbital) can be used as a sedative and anticonvulsant agent due to its mechanism of enhancing GABA (Gamma Amino Butyric Acid) transmission and inhibition of synaptic excitation. Phetharbital has generally been withdrawn from clinical use. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

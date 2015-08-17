@@ -1,0 +1,24 @@
+<Record>
+<Term>Fallopian Tube Non-Neoplastic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Non-Neoplastic Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Fallopian Tube Non-Neoplastic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Fallopian Tube Disorder/Fallopian Tube Non-Neoplastic Disorder</ClassificationPath>
+<BroaderTerm>Fallopian Tube Non-Neoplastic Disorder,</BroaderTerm>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Fallopian Tube Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Fallopian Tube Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pyosalpinx</ChildTerm>
+<ChildTerm>Fallopian Tube Endometriosis</ChildTerm>
+<ChildTerm>Salpingitis</ChildTerm>
+<Synonym>Fallopian Tube Non-Neoplastic Disease</Synonym>
+<Synonym>Fallopian Tube Non-Neoplastic Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

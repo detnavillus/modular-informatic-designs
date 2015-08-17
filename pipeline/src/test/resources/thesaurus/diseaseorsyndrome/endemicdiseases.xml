@@ -1,0 +1,13 @@
+<Record>
+<Term>Endemic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Public Health</ParentTerm>
+<ClassificationPath>Environment and Public Health/Public Health/Endemic Diseases</ClassificationPath>
+<BroaderTerm>Environment and Public Health</BroaderTerm>
+<BroaderTerm>Endemic Diseases</BroaderTerm>
+<BroaderTerm>Public Health</BroaderTerm>
+<Synonym>Endemic Diseases</Synonym>
+<Synonym>Endemic Disease</Synonym>
+<Description>The constant presence of diseases or infectious agents within a given geographic area or population group. It may also refer to the usual prevalence of a given disease with such area or group. It includes holoendemic and hyperendemic diseases. A holoendemic disease is one for which a high prevalent level of infection begins early in life and affects most of the child population, leading to a state of equilibrium such that the adult population shows evidence of the disease much less commonly than do children (malaria in many communities is a holoendemic disease). A hyperendemic disease is one that is constantly present at a high incidence and/or prevalence rate and affects all groups equally. (Last, A Dictionary of Epidemiology, 3d ed, p53, 78, 80)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Levonordefrin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adrenergic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Levonordefrin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Levonordefrin</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(-)-alpha-(1-Aminoethyl)-3,4-dihydroxybenzyl Alcohol</Synonym>
+<Synonym>1,2-Benzenediol, 4-(2-amino-1-hydroxypropyl)-,(R-(R*,S*))-</Synonym>
+<Synonym>LEVONORDEFRIN</Synonym>
+<Synonym>Levonordefrin</Synonym>
+<Synonym>Neo-Cobefrin</Synonym>
+<Description>The levoisomer of nordefrin, a synthetic catecholamine and norepinephrine derivative with sympathomimetic and antihypertensive effects. Levonordefrin's antihypertensive effect is exerted through activation of alpha 2-adrenergic receptors in the cardiovascular control center of the CNS thereby suppressing the sympathetic output from the brain and subsequently lowering blood pressure. Levonordefrin binds to and activates peripheral alpha 2- adrenergic receptors, thereby causing vasoconstriction.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

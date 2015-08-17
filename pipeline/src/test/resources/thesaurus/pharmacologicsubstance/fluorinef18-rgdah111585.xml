@@ -1,0 +1,16 @@
+<Record>
+<Term>Fluorine F 18-RGD AH111585</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Fluorine F 18-RGD AH111585</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fluorine F 18-RGD AH111585</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>18F-AH111585</Synonym>
+<Synonym>Fluorine F 18-RGD AH111585</Synonym>
+<Description>A small synthetic peptide containing an RGD-sequence (Arg-Gly-Asp) attached to the positron-emitting isotope fluorine F 18 that may be used to selectively image tumor cells and tumor vasculature by PET imaging. The RGD motif of fluorine F 18 RGD-based integrin peptide-polymer AH111585 selectively binds to the alphaVbeta3 integrin receptor, commonly upregulated on the surfaces of tumor cells and tumor vasculature endothelial cells. This agent may be of use in visualizing and quantifying a decrease in tumor vascularity in response to antiangiogenic agents.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

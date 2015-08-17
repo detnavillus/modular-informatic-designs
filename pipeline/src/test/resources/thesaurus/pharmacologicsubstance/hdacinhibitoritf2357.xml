@@ -1,0 +1,16 @@
+<Record>
+<Term>HDAC Inhibitor ITF2357</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histone Deacetylase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Histone Deacetylase Inhibitor/HDAC Inhibitor ITF2357</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Histone Deacetylase Inhibitor</BroaderTerm>
+<BroaderTerm>HDAC Inhibitor ITF2357</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HDAC Inhibitor ITF2357</Synonym>
+<Synonym>ITF2357</Synonym>
+<Description>An orally bioavailable hydroxymate inhibitor of histone deacetylase (HDAC) with potential anti-inflammatory, anti-angiogenic, and antineoplastic activities. HDAC inhibitor ITF2357 inhibits class I and class II HDACs, resulting in an accumulation of highly acetylated histones, followed by the induction of chromatin remodeling and an altered pattern of gene expression. At low, nonapoptotic concentrations, this agent inhibits the production of pro-inflammatory cytokines such as tumor necrosis factor- (TNF-), interleukin-1 (IL-1), IL-6 and interferon-gamma. HDAC inhibitor ITF2357 has also been shown to activate the intrinsic apoptotic pathway, inducing apoptosis in hepatoma cells and leukemic cells. This agent may also exhibit anti-angiogenic activity, inhibiting the production of angiogenic factors such as IL-6 and vascular endothelial cell growth factor (VEGF) by bone marrow stromal cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

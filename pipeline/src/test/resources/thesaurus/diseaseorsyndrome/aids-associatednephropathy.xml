@@ -1,0 +1,65 @@
+<Record>
+<Term>AIDS-Associated Nephropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Focal Segmental Glomerulosclerosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephropathy/Focal Segmental Glomerulosclerosis/HIV-Associated Nephropathy,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/AIDS-Related Disorder/HIV-Associated Nephropathy</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/AIDS-Associated Nephropathy</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/AIDS-Associated Nephropathy</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/AIDS-Associated Nephropathy</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/AIDS-Associated Nephropathy</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/AIDS-Associated Nephropathy</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>HIV-Associated Nephropathy,</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>HIV-Associated Nephropathy</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>AIDS-Related Disorder</BroaderTerm>
+<BroaderTerm>AIDS-Associated Nephropathy</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Focal Segmental Glomerulosclerosis</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Nephropathy</BroaderTerm>
+<Synonym>HIV Related Nephropathy</Synonym>
+<Synonym>HIV-Associated Nephropathies</Synonym>
+<Synonym>HIV-Associated Nephropathy</Synonym>
+<Synonym>AIDS Associated Nephropathies</Synonym>
+<Synonym>Human Immunodeficiency Virus Associated Nephropathy</Synonym>
+<Synonym>AIDS Nephropathies</Synonym>
+<Synonym>HIV Associated Nephropathy</Synonym>
+<Synonym>HIV Related Nephropathies</Synonym>
+<Synonym>AIDS Associated Nephropathy</Synonym>
+<Synonym>HIV-Related Nephropathy</Synonym>
+<Synonym>Human Immunodeficiency Virus-Associated Nephropathy</Synonym>
+<Synonym>AIDS Nephropathy</Synonym>
+<Synonym>HIV-Related Nephropathies</Synonym>
+<Synonym>AIDS-Associated Nephropathy</Synonym>
+<Synonym>HIV Associated Nephropathies</Synonym>
+<Synonym>AIDS-Related Nephropathy</Synonym>
+<Synonym>AIDS-Associated Nephropathies</Synonym>
+<Description>Renal syndrome in human immunodeficiency virus-infected patients characterized by nephrotic syndrome, severe proteinuria, focal and segmental glomerulosclerosis with distinctive tubular and interstitial changes, enlarged kidneys, and peculiar tubuloreticular structures. The syndrome is distinct from heroin-associated nephropathy as well as other forms of kidney disease seen in HIV-infected patients.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Autologous Dendritic Cell-Autologous Tumor mRNA-Human CD40L Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dendritic Cell Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/APC Vaccine/Dendritic Cell Vaccine/Autologous Dendritic Cell-Autologous Tumor mRNA-Human CD40L Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Autologous Dendritic Cell-Autologous Tumor mRNA-Human CD40L Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>APC Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Autologous Dendritic Cell-Autologous Tumor mRNA-Human CD40L Vaccine</Synonym>
+<Description>A cancer vaccine consisting of autologous dendritic cells transfected with autologous tumor mRNA and the human CD40 ligand (CD40L) gene with immunostimulatory and antitumor activities. Vaccination with autologous dendritic cell-autologous tumor mRNA-human CD40L vaccine may elicit a cytotoxic T cell response against tumor cells from which the autologous tumor mRNA was derived. When expressed by dendritic cells, tumor antigens and the co-stimulatory molecule CD40L, which binds to CD40 receptors on antigen presenting cells (APC), facilitate both humoral and cellular immune responses against tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

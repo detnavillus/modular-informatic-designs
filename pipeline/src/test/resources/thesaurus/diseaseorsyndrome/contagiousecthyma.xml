@@ -1,0 +1,20 @@
+<Record>
+<Term>Contagious Ecthyma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Poxviridae Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Ecthyma, Contagious</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Poxviridae Infections/Ecthyma, Contagious</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Ecthyma, Contagious</BroaderTerm>
+<BroaderTerm>Poxviridae Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Contagious Pustular Dermatitis</Synonym>
+<Synonym>Contagious Pustular Dermatitides</Synonym>
+<Synonym>Orf</Synonym>
+<Synonym>Contagious Ecthyma</Synonym>
+<Description>An infectious dermatitis of sheep and goats, affecting primarily the muzzle and lips. It is caused by a poxvirus and may be transmitted to man.</Description>
+<Source>MeSH</Source>
+</Record>

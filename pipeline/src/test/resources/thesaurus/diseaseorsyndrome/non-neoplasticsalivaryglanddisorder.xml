@@ -1,0 +1,22 @@
+<Record>
+<Term>Non-Neoplastic Salivary Gland Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Salivary Gland Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Salivary Gland Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Salivary Gland Disorder/Non-Neoplastic Salivary Gland Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Salivary Gland Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Salivary Gland Disorder,</BroaderTerm>
+<BroaderTerm>Salivary Gland Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sialoadenitis</ChildTerm>
+<Synonym>Non-Neoplastic Salivary Gland Disease</Synonym>
+<Synonym>Non-Neoplastic Salivary Gland Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

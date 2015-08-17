@@ -1,0 +1,16 @@
+<Record>
+<Term>90Y-DOTA-Biotin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/90Y-DOTA-Biotin</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>90Y-DOTA-Biotin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>90Y-DOTA-Biotin</Synonym>
+<Synonym>90Y-DOTA-biotin</Synonym>
+<Description>A radioimmunoconjugate of biotin conjugated with the bifunctional, macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and labeled with beta-emitting radioisotope yttrium 90 (Y 90). Biotin is a water-soluble B-complex vitamin, present in minute amounts in every living cell, while its level in cancerous tissue is higher than that of normal tissue. 90Y-DOTA-Biotin could be used in 3-step pre-targeting radioimmunotherapy that employs tumor targeting antibody conjugated with streptavidin, the natural ligand of biotin.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

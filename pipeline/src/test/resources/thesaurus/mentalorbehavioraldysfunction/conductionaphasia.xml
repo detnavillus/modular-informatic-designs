@@ -1,0 +1,27 @@
+<Record>
+<Term>Conduction Aphasia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Aphasia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia/Aphasia, Conduction</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia/Aphasia, Conduction</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Aphasia</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Aphasia, Conduction</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<Synonym>Conduction Dysphasias</Synonym>
+<Synonym>Associative Aphasias</Synonym>
+<Synonym>Associative Dysphasias</Synonym>
+<Synonym>Conduction Dysphasia</Synonym>
+<Synonym>Conduction Aphasia</Synonym>
+<Synonym>Associative Aphasia</Synonym>
+<Synonym>Associative Dysphasia</Synonym>
+<Synonym>Conduction Aphasias</Synonym>
+<Description>A type of fluent aphasia characterized by an impaired ability to repeat one and two word phrases, despite retained comprehension. This condition is associated with dominant hemisphere lesions involving the arcuate fasciculus (a white matter projection between Broca's and Wernicke's areas) and adjacent structures. Like patients with Wernicke aphasia (APHASIA, WERNICKE), patients with conduction aphasia are fluent but commit paraphasic errors during attempts at written and oral forms of communication. (From Adams et al., Principles of Neurology, 6th ed, p482; Brain &amp; Bannister, Clinical Neurology, 7th ed, p142; Kandel et al., Principles of Neural Science, 3d ed, p848)</Description>
+<Source>MeSH</Source>
+</Record>

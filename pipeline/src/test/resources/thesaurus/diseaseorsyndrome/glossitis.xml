@@ -1,0 +1,15 @@
+<Record>
+<Term>Glossitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tongue Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Tongue Diseases/Glossitis</ClassificationPath>
+<BroaderTerm>Tongue Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Glossitis</BroaderTerm>
+<ChildTerm>Glossitis, Benign Migratory</ChildTerm>
+<Synonym>Glossitis</Synonym>
+<Synonym>Glossitides</Synonym>
+<Description>Inflammation of the tongue.</Description>
+<Source>MeSH</Source>
+</Record>

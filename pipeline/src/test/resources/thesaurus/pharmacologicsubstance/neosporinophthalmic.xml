@@ -1,0 +1,16 @@
+<Record>
+<Term>Neosporin Ophthalmic</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-infective Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Anti-infective Preparation/Neosporin Ophthalmic</ClassificationPath>
+<BroaderTerm>Neosporin Ophthalmic</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-infective Preparation</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Neosporin Ophthalmic</Synonym>
+<Description>Any of the sterile, commercial combination preparations, by Pfizer, containing neomycin sulfate and polymyxin B sulfate, as the main active ingredients, for ophthalmic treatments. Polymyxin B sulfate, a polypeptide produced by Bacillus polymyxa, binds to the negatively charged phospholipids in the cell membrane, thereby altering the permeability of the bacterial cytoplasmic membrane. Neomycin sulfate, an aminoglycoside antibiotic, irreversibly binds to the bacterial 30S subunit proteins and 16S rRNA of ribosome, thereby causing misreading and inhibiting protein synthesis which results in bactericidal effect.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

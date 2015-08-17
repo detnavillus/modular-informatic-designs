@@ -1,0 +1,33 @@
+<Record>
+<Term>Ovine Pulmonary Adenomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retroviridae Infections</ParentTerm>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Tumor Virus Infections</ParentTerm>
+<ParentTerm>Adenocarcinoma</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Glandular and Epithelial/Carcinoma/Adenocarcinoma/Pulmonary Adenomatosis, Ovine</ClassificationPath>
+<ClassificationPath>Virus Diseases/Tumor Virus Infections/Pulmonary Adenomatosis, Ovine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Pulmonary Adenomatosis, Ovine</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Pulmonary Adenomatosis, Ovine</ClassificationPath>
+<BroaderTerm>Carcinoma</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Pulmonary Adenomatosis, Ovine</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Tumor Virus Infections</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Neoplasms, Glandular and Epithelial</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Adenocarcinoma</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Pulmonary Ovine Adenomatosis</Synonym>
+<Synonym>Ovine Pulmonary Carcinoma</Synonym>
+<Synonym>Ovine Pulmonary Adenomatosis</Synonym>
+<Synonym>Ovine Pulmonary Adenomatoses</Synonym>
+<Synonym>Pulmonary Ovine Adenomatoses</Synonym>
+<Synonym>Jaagsiekte</Synonym>
+<Synonym>Ovine Pulmonary Carcinomas</Synonym>
+<Description>A contagious, neoplastic, pulmonary disease of sheep characterized by hyperplasia and hypertrophy of pneumocytes and epithelial cells of the lung. It is caused by JAAGSIEKTE SHEEP RETROVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

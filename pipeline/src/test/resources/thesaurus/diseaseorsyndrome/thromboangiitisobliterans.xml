@@ -1,0 +1,32 @@
+<Record>
+<Term>Thromboangiitis Obliterans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Vascular Disorder</ParentTerm>
+<ParentTerm>Arterial Occlusive Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Thromboangiitis Obliterans</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Thromboangiitis Obliterans</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Peripheral Vascular Disorder/Buerger Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Buerger Disease</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Thromboangiitis Obliterans</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Buergers Disease</Synonym>
+<Synonym>Buerger's Disease</Synonym>
+<Synonym>Buerger Disease</Synonym>
+<Synonym>Thromboangitis Obliterans</Synonym>
+<Synonym>Thromboangiitis Obliterans</Synonym>
+<Description>A non-atherosclerotic, inflammatory thrombotic disease that commonly involves small and medium-sized arteries or veins in the extremities. It is characterized by occlusive THROMBOSIS and FIBROSIS in the vascular wall leading to digital and limb ISCHEMIA and ulcerations. Thromboangiitis obliterans is highly associated with tobacco smoking.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

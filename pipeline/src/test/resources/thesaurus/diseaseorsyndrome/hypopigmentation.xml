@@ -1,0 +1,32 @@
+<Record>
+<Term>Hypopigmentation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Dermatology and Skin</ParentTerm>
+<ParentTerm>Pigmentation Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Dermatology and Skin/Hypopigmentation Adverse Event</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders/Hypopigmentation</ClassificationPath>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Dermatology and Skin</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Hypopigmentation</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hypopigmentation Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Hypopigmentation</ChildTerm>
+<ChildTerm>Vitiligo</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Hypopigmentation</ChildTerm>
+<ChildTerm>Albinism</ChildTerm>
+<Synonym>Hypomelanoses</Synonym>
+<Synonym>Hypopigmentation</Synonym>
+<Synonym>Hypopigmentation Adverse Event</Synonym>
+<Synonym>Hypomelanosis</Synonym>
+<Description>A condition caused by a deficiency or a loss of melanin pigmentation in the epidermis, also known as hypomelanosis. Hypopigmentation can be localized or generalized, and may result from genetic defects, trauma, inflammation, or infections.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Blood Platelet Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Bernard-Soulier Syndrome</ChildTerm>
+<ChildTerm>Platelet Storage Pool Deficiency</ChildTerm>
+<ChildTerm>Thrombocytopenia</ChildTerm>
+<ChildTerm>Thrombasthenia</ChildTerm>
+<ChildTerm>Thrombocytosis</ChildTerm>
+<ChildTerm>von Willebrand Diseases</ChildTerm>
+<ChildTerm>Gray Platelet Syndrome</ChildTerm>
+<Synonym>Blood Platelet Disorders</Synonym>
+<Synonym>Blood Platelet Disorder</Synonym>
+<Synonym>Thrombocytopathy</Synonym>
+<Synonym>Thrombocytopathies</Synonym>
+<Description>Disorders caused by abnormalities in platelet count or function.</Description>
+<Source>MeSH</Source>
+</Record>

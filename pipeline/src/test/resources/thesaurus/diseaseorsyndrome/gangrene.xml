@@ -1,0 +1,24 @@
+<Record>
+<Term>Gangrene</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Necrotic Change</ParentTerm>
+<ParentTerm>Necrosis</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Necrosis/Gangrene</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Morphologic Finding/Necrotic Change/Gangrene</ClassificationPath>
+<BroaderTerm>Necrotic Change</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Necrosis</BroaderTerm>
+<BroaderTerm>Morphologic Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Gangrene</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Gangrenes</Synonym>
+<Synonym>Gangrene</Synonym>
+<Description>Death of tissue, usually in considerable mass and generally associated with loss of vascular (nutritive) supply and followed by bacterial invasion and putrefaction.</Description>
+<Description>Death and putrefaction of tissue usually due to a loss of blood supply.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

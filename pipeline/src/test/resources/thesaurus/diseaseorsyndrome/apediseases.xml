@@ -1,0 +1,15 @@
+<Record>
+<Term>Ape Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Primate Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Primate Diseases/Ape Diseases</ClassificationPath>
+<BroaderTerm>Ape Diseases</BroaderTerm>
+<BroaderTerm>Primate Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Ape Diseases</Synonym>
+<Synonym>Ape Disease</Synonym>
+<Synonym>Pongidae Diseases</Synonym>
+<Synonym>Pongidae Disease</Synonym>
+<Description>Diseases of chimpanzees, gorillas, and orangutans.</Description>
+<Source>MeSH</Source>
+</Record>

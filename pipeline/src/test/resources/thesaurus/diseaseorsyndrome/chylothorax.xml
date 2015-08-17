@@ -1,0 +1,31 @@
+<Record>
+<Term>Chylothorax</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with Pulmonary and Upper Respiratory Systems</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Pulmonary and Upper Respiratory Systems/Chylothorax Adverse Event</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Chylothorax</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Chylothorax Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Pulmonary and Upper Respiratory Systems</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Chylothorax</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Chylothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Chylothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Chylothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Chylothorax</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Chylothorax</ChildTerm>
+<Synonym>Chylothorax Adverse Event</Synonym>
+<Synonym>Chylothorax</Synonym>
+<Description>The presence of chyle in the thoracic cavity. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

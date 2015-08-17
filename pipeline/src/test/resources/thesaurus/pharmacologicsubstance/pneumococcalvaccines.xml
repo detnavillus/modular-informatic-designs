@@ -1,0 +1,21 @@
+<Record>
+<Term>Pneumococcal Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Streptococcal Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Streptococcal Vaccines/Pneumococcal Vaccines</ClassificationPath>
+<BroaderTerm>Streptococcal Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Pneumococcal Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Pneumococcal Vaccines</Synonym>
+<Synonym>Pneumovax</Synonym>
+<Synonym>Pnu-Imune Vaccine</Synonym>
+<Synonym>Pnu Imune Vaccine</Synonym>
+<Synonym>PnuImune Vaccine</Synonym>
+<Synonym>Pneumococcal Polysaccharide Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infections with STREPTOCOCCUS PNEUMONIAE.</Description>
+<Source>MeSH</Source>
+</Record>

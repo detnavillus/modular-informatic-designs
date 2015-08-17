@@ -1,0 +1,25 @@
+<Record>
+<Term>Acute Kidney Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Failure</ParentTerm>
+<ParentTerm>Renal Insufficiency, Acute</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute/Kidney Failure, Acute</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Acute</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Acute</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute/Kidney Failure, Acute</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Failure</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Failure, Acute</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency, Acute</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Kidney Tubular Necrosis, Acute</ChildTerm>
+<Synonym>Acute Renal Failures</Synonym>
+<Synonym>Acute Renal Failure</Synonym>
+<Synonym>Acute Kidney Failure</Synonym>
+<Description>A severe stage of acute renal insufficiency, characterized by the sudden decrease in GLOMERULAR FILTRATION RATE to less than 15 ml per min, sometime to less than 1 to 2 ml per min. It is usually associated with OLIGURIA; EDEMA; and increase in BLOOD UREA NITROGEN and serum CREATININE concentrations.</Description>
+<Source>MeSH</Source>
+</Record>

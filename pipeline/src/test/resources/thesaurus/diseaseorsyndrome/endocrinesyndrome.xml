@@ -1,0 +1,26 @@
+<Record>
+<Term>Endocrine Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Endocrine Disorder/Endocrine Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Endocrine Syndrome</ClassificationPath>
+<BroaderTerm>Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Endocrine Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Endocrine Syndrome,</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Virilism</ChildTerm>
+<ChildTerm>Feminization</ChildTerm>
+<ChildTerm>Conn Syndrome</ChildTerm>
+<ChildTerm>Cushing Syndrome</ChildTerm>
+<ChildTerm>Ectopic Hormone Secretion Syndromes Associated with Neoplasia</ChildTerm>
+<ChildTerm>Zollinger Ellison Syndrome</ChildTerm>
+<ChildTerm>Turner Syndrome</ChildTerm>
+<ChildTerm>WDHA Syndrome</ChildTerm>
+<ChildTerm>Klinefelter Syndrome</ChildTerm>
+<Synonym>Endocrine Syndrome</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

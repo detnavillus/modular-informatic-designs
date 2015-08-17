@@ -1,0 +1,16 @@
+<Record>
+<Term>EGEN-001</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/EGEN-001</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>EGEN-001</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>EGEN-001</Synonym>
+<Synonym>phIL-12-005</Synonym>
+<Description>A novel non-viral vector consisting of a plasmid DNA encoding the human gene for interleukin 12 (IL-12) and a biocompatible, biodegradable delivery polymer with potential antineoplastic activity. EGEN-001 is designed to increase the local concentration of IL-12 in the tumor microenvironment. IL-12 stimulates T-cell-independent production of IFN-gamma by peripheral blood mononuclear cells (PBMCs); enhances natural killer (NK) cell lytic activity; acts as a growth factor for T- and NK-cells; and is important for T-cell differentiation. IL-12 may potentiate antitumoral functions of the host immune system, resulting in immune-mediated tumor regression.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

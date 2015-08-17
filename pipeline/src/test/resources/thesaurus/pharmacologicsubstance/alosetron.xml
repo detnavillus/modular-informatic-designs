@@ -1,0 +1,28 @@
+<Record>
+<Term>Alosetron</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antidiarrheal Agent</ParentTerm>
+<ParentTerm>Serotonin Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidiarrheal Agent/Alosetron Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Antagonist/Alosetron</ClassificationPath>
+<BroaderTerm>Alosetron</BroaderTerm>
+<BroaderTerm>Alosetron Hydrochloride</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antidiarrheal Agent</BroaderTerm>
+<BroaderTerm>Serotonin Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2,3,4,5-Tetrahydro-5-methyl-2-((5-methylimidazol-4-yl)methyl)-1H-pyrido(4,3-b)indol-1-one Monohydrochloride</Synonym>
+<Synonym>Alosetron</Synonym>
+<Synonym>Alosetron Hydrochloride</Synonym>
+<Synonym>1H-Pyrido(4,3-b)indol-1-one, 2,3,4,5-tetrahydro-5-methyl-2((5-methyl-1H-imidazol-4-yl)methyl)-, Monohydrochloride</Synonym>
+<Synonym>ALOSETRON HYDROCHLORIDE</Synonym>
+<Synonym>ALOSETRON</Synonym>
+<Synonym>Lotronex</Synonym>
+<Synonym>Alosetron hydrochloride</Synonym>
+<Description>The chloride salt form of alosetron, a potent and selective 5-HT3 receptor antagonist. Alosetron hydrochloride blocks the actions of serotonin at 5-HT3 sites in the peripheral nervous system, particularly on enteric and nociceptive sensory neurons. Alosteron hydrochloride affects the regulation of visceral pain, decreases gastrointestinal contraction and motility, and decreases gastrointestinal secretions. This drug is used to treat diarrhea-predominant irritable bowel syndrome in women. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

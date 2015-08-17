@@ -1,0 +1,20 @@
+<Record>
+<Term>Anakinra</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Interleukin-1 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Interleukin-1 Receptor Antagonist/Anakinra</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Interleukin-1 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anakinra</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Kineret</Synonym>
+<Synonym>Anakinra</Synonym>
+<Synonym>ANAKINRA</Synonym>
+<Description>A recombinant human nonglycosylated interleukin-1 (IL-1) receptor antagonist with potential antineoplastic activity. Anakinra binds to the IL-1 receptor, thereby blocking the binding of the IL-1 to and activation of its receptor. Blockade of IL-1 activity may inhibit the cascade of downstream pro-angiogenic factors such as vascular endothelial cell growth factor, tumor necrosis factor-alpha, and IL-6, resulting in inhibition of tumor angiogenesis. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

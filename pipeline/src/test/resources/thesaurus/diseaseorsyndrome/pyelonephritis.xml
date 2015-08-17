@@ -1,0 +1,35 @@
+<Record>
+<Term>Pyelonephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nephritis, Interstitial</ParentTerm>
+<ParentTerm>Non-Neoplastic Renal Disorder</ParentTerm>
+<ParentTerm>Pyelitis</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelonephritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelonephritis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial/Pyelonephritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Pyelonephritis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial/Pyelonephritis</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Nephritis, Interstitial</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pyelitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Pyelonephritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<ChildTerm>Pyelonephritis, Xanthogranulomatous</ChildTerm>
+<Synonym>Pyelonephritis</Synonym>
+<Synonym>Pyelonephritides</Synonym>
+<Synonym>Necrotizing Pyelonephritis</Synonym>
+<Description>Inflammation of the KIDNEY involving the renal parenchyma (the NEPHRONS); KIDNEY PELVIS; and KIDNEY CALICES. It is characterized by ABDOMINAL PAIN; FEVER; NAUSEA; VOMITING; and occasionally DIARRHEA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

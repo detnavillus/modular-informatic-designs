@@ -1,0 +1,53 @@
+<Record>
+<Term>Type C Niemann-Pick Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Niemann-Pick Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Niemann-Pick Diseases/Niemann-Pick Disease, Type C</ClassificationPath>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Niemann-Pick Disease, Type C</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Niemann-Pick Diseases</BroaderTerm>
+<Synonym>Neurovisceral Storage Disease with Vertical Supranuclear Ophthalmoplegia</Synonym>
+<Synonym>Nova Scotia Niemann Pick Disease (Type D)</Synonym>
+<Synonym>Niemann Pick's Disease Type D</Synonym>
+<Synonym>Nova Scotia (Type D) Form of Niemann-Pick Disease</Synonym>
+<Synonym>Niemann-Pick's Disease Type C</Synonym>
+<Synonym>Nova Scotia Niemann-Pick Disease (Type D)</Synonym>
+<Synonym>Niemann Pick Disease Type D</Synonym>
+<Synonym>Niemann-Pick Disease Type D</Synonym>
+<Synonym>Niemann Pick Disease without Sphingomyelinase Deficiency</Synonym>
+<Synonym>Niemann-Pick Disease with Cholesterol Esterification Block</Synonym>
+<Synonym>Niemann Pick's Disease Type C</Synonym>
+<Synonym>Niemann-Pick Disease without Sphingomyelinase Deficiency</Synonym>
+<Synonym>Niemann-Pick's Disease Type D</Synonym>
+<Synonym>Niemann Pick Disease with Cholesterol Esterification Block</Synonym>
+<Description>An autosomal recessive lipid storage disorder that is characterized by accumulation of CHOLESTEROL and SPHINGOMYELINS in cells of the VISCERA and the CENTRAL NERVOUS SYSTEM. Type C (or C1) and type D are allelic disorders caused by mutation of gene (NPC1) encoding a protein that mediate intracellular cholesterol transport from lysosomes. Clinical signs include hepatosplenomegaly and chronic neurological symptoms. Type D is a variant in people with a Nova Scotia ancestry.</Description>
+<Source>MeSH</Source>
+</Record>

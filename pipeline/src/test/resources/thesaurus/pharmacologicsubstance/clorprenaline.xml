@@ -1,0 +1,23 @@
+<Record>
+<Term>Clorprenaline</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Beta-Adrenergic Agonist/Clorprenaline Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Clorprenaline Hydrochloride</ClassificationPath>
+<BroaderTerm>Clorprenaline Hydrochloride,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Clorprenaline Hydrochloride</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CLORPRENALINE HYDROCHLORIDE</Synonym>
+<Synonym>Clorprenaline Hydrochloride</Synonym>
+<Synonym>Isoprophenamine Hydrochloride</Synonym>
+<Synonym>USAF EL-50</Synonym>
+<Description>The hydrochloride salt form of clorprenaline, a beta-2 adrenergic agonist with bronchodilator activity. Clorprenaline selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle. This increases air flow and prevents bronchospasms and may eventually lead to an improvement of airway function.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Sweetener Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Sweetener Excipient</ClassificationPath>
+<BroaderTerm>Sweetener Excipient</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Drug Sweetener</Synonym>
+<Synonym>Sweetener</Synonym>
+<Synonym>Sweetener Excipient</Synonym>
+<Description>Therapeutically inactive ingredient of pharmaceutical dosage form used to improve taste of a drug. Aspartame, fructose, saccharin, sorbitol, and sucrose are the most commonly used sweeteners in the United States.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

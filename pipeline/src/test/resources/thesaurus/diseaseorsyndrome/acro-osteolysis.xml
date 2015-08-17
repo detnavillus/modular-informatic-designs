@@ -1,0 +1,23 @@
+<Record>
+<Term>Acro-Osteolysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteolysis</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Acro-Osteolysis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Resorption/Osteolysis/Acro-Osteolysis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Resorption</BroaderTerm>
+<BroaderTerm>Acro-Osteolysis</BroaderTerm>
+<BroaderTerm>Osteolysis</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Hajdu-Cheney Syndrome</ChildTerm>
+<Synonym>Acro-Osteolysis Syndromes</Synonym>
+<Synonym>Acro-Osteolysis Syndrome</Synonym>
+<Synonym>Acro-Osteolysis</Synonym>
+<Synonym>Acroosteolysis</Synonym>
+<Synonym>Acroosteolysis Syndrome</Synonym>
+<Synonym>Acro Osteolysis</Synonym>
+<Description>A condition with congenital and acquired forms causing recurrent ulcers in the fingers and toes. The congenital form exhibits autosomal dominant inheritance; the acquired form is found in workers who handle VINYL CHLORIDE. When acro-osteolysis is accompanied by generalized OSTEOPOROSIS and skull deformations, it is called HAJDU-CHENEY SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

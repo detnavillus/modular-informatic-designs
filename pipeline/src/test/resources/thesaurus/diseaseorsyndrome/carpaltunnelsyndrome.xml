@@ -1,0 +1,32 @@
+<Record>
+<Term>Carpal Tunnel Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Median Neuropathy</ParentTerm>
+<ParentTerm>Cumulative Trauma Disorders</ParentTerm>
+<ParentTerm>Nerve Compression Syndromes</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Sprains and Strains/Cumulative Trauma Disorders/Carpal Tunnel Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Carpal Tunnel Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Nerve Compression Syndromes/Carpal Tunnel Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Mononeuropathies/Median Neuropathy/Carpal Tunnel Syndrome</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Carpal Tunnel Syndrome</BroaderTerm>
+<BroaderTerm>Sprains and Strains</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Median Neuropathy</BroaderTerm>
+<BroaderTerm>Cumulative Trauma Disorders</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Mononeuropathies</BroaderTerm>
+<BroaderTerm>Nerve Compression Syndromes</BroaderTerm>
+<Synonym>Carpal Tunnel Syndrome</Synonym>
+<Synonym>Carpal Tunnel Syndromes</Synonym>
+<Description>Entrapment of the MEDIAN NERVE in the carpal tunnel, which is formed by the flexor retinaculum and the CARPAL BONES. This syndrome may be associated with repetitive occupational trauma (CUMULATIVE TRAUMA DISORDERS); wrist injuries; AMYLOID NEUROPATHIES; rheumatoid arthritis (see ARTHRITIS, RHEUMATOID); ACROMEGALY; PREGNANCY; and other conditions. Symptoms include burning pain and paresthesias involving the ventral surface of the hand and fingers which may radiate proximally. Impairment of sensation in the distribution of the median nerve and thenar muscle atrophy may occur. (Joynt, Clinical Neurology, 1995, Ch51, p45)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

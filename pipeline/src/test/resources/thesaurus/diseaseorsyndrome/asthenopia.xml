@@ -1,0 +1,14 @@
+<Record>
+<Term>Asthenopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Asthenopia</ClassificationPath>
+<BroaderTerm>Asthenopia</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Asthenopia</Synonym>
+<Synonym>Eye Fatigue</Synonym>
+<Synonym>Visual Fatigue</Synonym>
+<Synonym>Eyestrain</Synonym>
+<Description>Term generally used to describe complaints related to refractive error, ocular muscle imbalance, including pain or aching around the eyes, burning and itchiness of the eyelids, ocular fatigue, and headaches.</Description>
+<Source>MeSH</Source>
+</Record>

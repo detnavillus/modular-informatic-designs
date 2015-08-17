@@ -1,0 +1,27 @@
+<Record>
+<Term>Paroxysmal Supraventricular Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Supraventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Paroxysmal Supraventricular Tachycardia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Paroxysmal Tachycardia/Paroxysmal Supraventricular Tachycardia</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Paroxysmal Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Paroxysmal Tachycardia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Paroxysmal Supraventricular Tachycardia,</BroaderTerm>
+<ChildTerm>Paroxysmal Atrial Tachycardia</ChildTerm>
+<ChildTerm>Atrioventricular Reentrant Tachycardia</ChildTerm>
+<ChildTerm>Atrioventricular Nodal Reentry Tachycardia</ChildTerm>
+<Synonym>Paroxysmal Supraventricular Tachycardia</Synonym>
+<Description>An episodic form of supraventricular tachycardia, with abrupt onset and termination.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

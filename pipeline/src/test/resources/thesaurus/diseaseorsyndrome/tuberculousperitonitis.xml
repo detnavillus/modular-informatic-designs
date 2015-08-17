@@ -1,0 +1,22 @@
+<Record>
+<Term>Tuberculous Peritonitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peritonitis</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Peritoneal Diseases/Peritonitis/Peritonitis, Tuberculous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Peritonitis, Tuberculous</ClassificationPath>
+<BroaderTerm>Peritonitis, Tuberculous</BroaderTerm>
+<BroaderTerm>Peritonitis</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Peritoneal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Peritoneal Tuberculosis</Synonym>
+<Synonym>Tuberculous Peritonitis</Synonym>
+<Description>A form of PERITONITIS seen in patients with TUBERCULOSIS, characterized by lesion either as a miliary form or as a pelvic mass on the peritoneal surfaces. Most patients have ASCITES, abdominal swelling, ABDOMINAL PAIN, and other systemic symptoms such as FEVER; WEIGHT LOSS; and ANEMIA.</Description>
+<Source>MeSH</Source>
+</Record>

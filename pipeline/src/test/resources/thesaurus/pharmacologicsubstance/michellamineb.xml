@@ -1,0 +1,15 @@
+<Record>
+<Term>Michellamine B</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reverse Transcriptase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Reverse Transcriptase Inhibitor/Michellamine B</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Reverse Transcriptase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Michellamine B</BroaderTerm>
+<Synonym>Michellamine B</Synonym>
+<Description>A natural naphtylisoquinoline alkaloid with antiviral properties isolated from the tropical plant Ancistrocladus korupensis.  Michellamine B inhibits HIV reverse transcriptase (RT) activity and HIV-induced cellular fusion and syncytium formation, thereby inhibiting the propagation of HIV types 1 and 2.  In addition, this agent inhibits human DNA polymerases alpha and beta.  Michellamine B is also a noncompetitive protein kinase C inhibitor and potent antioxidant. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

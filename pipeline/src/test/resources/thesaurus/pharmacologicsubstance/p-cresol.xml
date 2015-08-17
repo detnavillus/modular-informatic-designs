@@ -1,0 +1,16 @@
+<Record>
+<Term>P-Cresol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Phenol Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Phenol Compound/P-Cresol</ClassificationPath>
+<BroaderTerm>Phenol Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>P-Cresol</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-Methylphenol</Synonym>
+<Synonym>CRESOL, P-</Synonym>
+<Synonym>P-Cresol</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

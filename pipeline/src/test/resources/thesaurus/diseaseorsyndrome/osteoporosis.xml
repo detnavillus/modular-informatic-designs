@@ -1,0 +1,52 @@
+<Record>
+<Term>Osteoporosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Musculoskeletal System and Soft Tissue</ParentTerm>
+<ParentTerm>Bone Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Osteoporosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Musculoskeletal System and Soft Tissue/Osteoporosis Adverse Event</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Osteoporosis</ClassificationPath>
+<BroaderTerm>Osteoporosis Adverse Event</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Osteoporosis</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Musculoskeletal System and Soft Tissue</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 1 Osteoporosis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Osteoporosis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Osteoporosis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Osteoporosis</ChildTerm>
+<ChildTerm>Osteoporosis, Postmenopausal</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Osteoporosis</ChildTerm>
+<ChildTerm>Female Athlete Triad Syndrome</ChildTerm>
+<Synonym>Osteoporosis Adverse Event</Synonym>
+<Synonym>Post-Traumatic Osteoporosis</Synonym>
+<Synonym>Senile Osteoporoses</Synonym>
+<Synonym>Age Related Osteoporosis</Synonym>
+<Synonym>Osteoporoses</Synonym>
+<Synonym>osteoporosis</Synonym>
+<Synonym>Age-Related Bone Losses</Synonym>
+<Synonym>Age-Related Bone Loss</Synonym>
+<Synonym>Post-Traumatic Osteoporoses</Synonym>
+<Synonym>Osteoporosis</Synonym>
+<Synonym>Age-Related Osteoporosis</Synonym>
+<Synonym>Age-Related Osteoporoses</Synonym>
+<Synonym>Senile Osteoporosis</Synonym>
+<Description>A condition of reduced bone mass, with decreased cortical thickness and a decrease in the number and size of the trabeculae of cancellous bone (but normal chemical composition), resulting in increased fracture incidence. Osteoporosis is classified as primary (Type 1, postmenopausal osteoporosis; Type 2, age-associated osteoporosis; and idiopathic, which can affect juveniles, premenopausal women, and middle-aged men) and secondary osteoporosis (which results from an identifiable cause of bone mass loss).</Description>
+<Description>Reduction of bone mass without alteration in the composition of bone, leading to fractures. Primary osteoporosis can be of two major types: postmenopausal osteoporosis (OSTEOPOROSIS, POSTMENOPAUSAL) and age-related or senile osteoporosis.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

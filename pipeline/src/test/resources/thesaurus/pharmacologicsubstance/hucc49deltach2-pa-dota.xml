@@ -1,0 +1,17 @@
+<Record>
+<Term>HuCC49deltaCH2-PA-DOTA</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Conjugated Monoclonal Antibody CC49</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Conjugated Monoclonal Antibody CC49/HuCC49deltaCH2-PA-DOTA</ClassificationPath>
+<BroaderTerm>HuCC49deltaCH2-PA-DOTA</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Conjugated Monoclonal Antibody CC49</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HuCC49DCH2-PA-DOTA</Synonym>
+<Synonym>HuCC49deltaCH2-PA-DOTA</Synonym>
+<Description>An immunoconjugate comprised of a humanized monoclonal antibody with antitumor activity. The monoclonal antibody CC49 is developed from the murine monoclonal antibody B72.3 and is humanized by grafting the hypervariable regions onto the variable light (VL) and variable heavy (VH) frameworks of the monoclonal antibodies LEN and 21/28' CL. In addition the CH2 domain in the constant region is deleted to increase plasma clearance. The resultant antibody binds to the pancarcinoma tumor-associated glycoprotein (TAG)-72 with high affinity. Furthermore, the antibody is conjugated to PA-DOTA, a bifunctional chelating agent and commonly radiolabeled, resulting in an effective agent for radioimmunotherapy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

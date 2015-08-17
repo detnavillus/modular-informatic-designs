@@ -1,0 +1,38 @@
+<Record>
+<Term>Equine Encephalomyelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Viral</ParentTerm>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Alphavirus Infections</ParentTerm>
+<ParentTerm>Encephalomyelitis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Togaviridae Infections/Alphavirus Infections/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalomyelitis/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Encephalomyelitis/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalomyelitis, Equine</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalomyelitis, Equine</ClassificationPath>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Togaviridae Infections</BroaderTerm>
+<BroaderTerm>Encephalomyelitis, Equine</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Alphavirus Infections</BroaderTerm>
+<BroaderTerm>Encephalomyelitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<ChildTerm>Encephalomyelitis, Eastern Equine</ChildTerm>
+<ChildTerm>Encephalomyelitis, Venezuelan Equine</ChildTerm>
+<ChildTerm>Encephalomyelitis, Western Equine</ChildTerm>
+<Synonym>Equine Encephalitis</Synonym>
+<Synonym>Equine Encephalomyelitis Viral Infections</Synonym>
+<Synonym>Equine Encephalomyelitis</Synonym>
+<Synonym>Equine Encephalomyelitis Virus Infections</Synonym>
+<Description>A group of ALPHAVIRUS INFECTIONS which affect horses and man, transmitted via the bites of mosquitoes. Disorders in this category are endemic to regions of South America and North America. In humans, clinical manifestations vary with the type of infection, and range from a mild influenza-like syndrome to a fulminant encephalitis. (From Joynt, Clinical Neurology, 1996, Ch26, pp8-10)</Description>
+<Source>MeSH</Source>
+</Record>

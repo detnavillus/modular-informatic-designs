@@ -1,0 +1,18 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Legionellosis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Legionellosis/Legionnaires' Disease</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Legionellosis</BroaderTerm>
+<BroaderTerm>Legionnaires' Disease</BroaderTerm>
+<Synonym>Legionella pneumophila Infections</Synonym>
+<Synonym>Legionella pneumophila Infection</Synonym>
+<Synonym>Legionnaire's Disease</Synonym>
+<Synonym>Legionnaire Disease</Synonym>
+<Synonym>Legionnaires' Disease</Synonym>
+<Synonym>Legionnaires Disease</Synonym>
+<Description>An acute, sometimes fatal, pneumonia-like bacterial infection characterized by high fever, malaise, muscle aches, respiratory disorders and headache. It is named for an outbreak at the 1976 Philadelphia convention of the American Legion.</Description>
+<Source>MeSH</Source>
+</Record>

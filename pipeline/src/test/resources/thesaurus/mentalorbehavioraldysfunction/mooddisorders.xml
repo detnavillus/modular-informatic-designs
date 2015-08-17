@@ -1,0 +1,16 @@
+<Record>
+<Term>Mood Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<ChildTerm>Affective Disorders, Psychotic</ChildTerm>
+<ChildTerm>Depressive Disorder</ChildTerm>
+<Synonym>Mood Disorders</Synonym>
+<Synonym>Mood Disorder</Synonym>
+<Synonym>Affective Disorders</Synonym>
+<Synonym>Affective Disorder</Synonym>
+<Description>Those disorders that have a disturbance in mood as their predominant feature.</Description>
+<Source>MeSH</Source>
+</Record>

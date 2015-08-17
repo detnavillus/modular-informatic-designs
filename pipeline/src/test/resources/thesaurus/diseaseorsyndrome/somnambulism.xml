@@ -1,0 +1,21 @@
+<Record>
+<Term>Somnambulism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sleep Arousal Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/Sleep Arousal Disorders/Somnambulism</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/Sleep Arousal Disorders/Somnambulism</ClassificationPath>
+<BroaderTerm>Sleep Arousal Disorders</BroaderTerm>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Somnambulism</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Sleep Walking Disorders</Synonym>
+<Synonym>Nocturnal Wandering</Synonym>
+<Synonym>Somnambulism</Synonym>
+<Synonym>Sleep Walking</Synonym>
+<Synonym>Sleep Walking Disorder</Synonym>
+<Synonym>Sleepwalking</Synonym>
+<Description>A parasomnia characterized by a partial arousal that occurs during stage IV of non-REM sleep. Affected individuals exhibit semipurposeful behaviors such as ambulation and are difficult to fully awaken. Children are primarily affected, with a peak age range of 4-6 years.</Description>
+<Source>MeSH</Source>
+</Record>

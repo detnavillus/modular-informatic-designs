@@ -1,0 +1,25 @@
+<Record>
+<Term>Sparganosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Diphyllobothriasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Diphyllobothriasis/Sparganosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Sparganosis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Sparganosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Diphyllobothriasis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Sparganosis</Synonym>
+<Synonym>Sparganoses</Synonym>
+<Description>Infection of animals, including fish and man, with a developmental stage of Diphyllobothrium. This stage has recently been referred to as a plerocercoid but the name sparganum has persisted. Therefore, infection of fish or other animals with the plerocercoid larvae is sparganosis. Fish-eating mammals, including man, are the final hosts.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

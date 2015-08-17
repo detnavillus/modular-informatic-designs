@@ -1,0 +1,16 @@
+<Record>
+<Term>MoAb Bombesin (ITC-D)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/MoAb Bombesin (ITC-D)</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>MoAb Bombesin (ITC-D)</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MoAb Bombesin (ITC-D)</Synonym>
+<Synonym>Monoclonal Antibody Bombesin-ITC-D</Synonym>
+<Description>A monoclonal antibody directed against the neurohormone bombesin that is conjugated to isothiocyanobenzyl diethylenetriaminepentaacetic acid (ITC-D), a bifunctional chelating agent that allows the antibody to be labeled with a metal species. Levels of the neurohormone bombesin, also known as gastrin releasing peptide (GRP), are elevated in lung and thyroid cancers, where the substance acts as an autocrine growth factor. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

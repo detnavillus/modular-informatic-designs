@@ -1,0 +1,15 @@
+<Record>
+<Term>FJ5002</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Telomerase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Telomerase Inhibitor/FJ5002</ClassificationPath>
+<BroaderTerm>Telomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>FJ5002</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FJ5002</Synonym>
+<Description>A derivative of rhodacyanine with potential antineoplastic activity.  FJ5002 inhibits telomerase by interfering with holoenzyme assembly and telomere interaction, thus leading to replication-dependent shortening of telomeres with a concurrent increase in aneuploid metaphases and apoptotic cells.  Telomerase is active in most tumors cells, but is quiescent in adjacent normal cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

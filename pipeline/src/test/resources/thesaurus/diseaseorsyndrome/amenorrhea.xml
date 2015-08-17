@@ -1,0 +1,27 @@
+<Record>
+<Term>Amenorrhea</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Menstrual Disorder</ParentTerm>
+<ParentTerm>Menstruation Disturbances</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Menstruation Disturbances/Amenorrhea</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Menstrual Disorder/Amenorrhea</ClassificationPath>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Menstrual Disorder</BroaderTerm>
+<BroaderTerm>Amenorrhea</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Menstruation Disturbances</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Amenorrhea</Synonym>
+<Synonym>Postpartum Amenorrhea</Synonym>
+<Synonym>Postpartum Amenorrheas</Synonym>
+<Description>Absence of menstruation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

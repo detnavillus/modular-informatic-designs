@@ -1,0 +1,26 @@
+<Record>
+<Term>Ibutilide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiarrhythmic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antiarrhythmic Agent/Ibutilide Fumarate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antiarrhythmic Agent/Ibutilide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ibutilide Fumarate</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ibutilide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Antiarrhythmic Agent</BroaderTerm>
+<Synonym>IBUTILIDE</Synonym>
+<Synonym>Ibutilide Fumarate</Synonym>
+<Synonym>Corvert</Synonym>
+<Synonym>Ibutilide</Synonym>
+<Synonym>Ibutilide fumarate</Synonym>
+<Synonym>(+-)-4'-(4-(Ethylheptylamino)-1-hydroxybutyl)methanesulfonanilide Fumarate(2:1)(salt)</Synonym>
+<Synonym>IBUTILIDE FUMARATE</Synonym>
+<Description>The fumarate salt form of ibutilide, a class III antiarrhythmic agent. Ibutilide exerts its effect by activating a slow, inward, predominately sodium current rather than by blocking outward potassium currents. This results in prolongation of atrial and ventricular action potential duration and refractory periods. Ibutilide slightly decreases the sinus rate and atrioventricular (AV) conduction and produces a dose-related prolongation of the QT interval. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Normal Pressure Hydrocephalus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hydrocephalus</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hydrocephalus/Hydrocephalus, Normal Pressure</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hydrocephalus, Normal Pressure</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hydrocephalus</BroaderTerm>
+<Synonym>NPH (Normal Pressure Hydrocephalus)</Synonym>
+<Synonym>NPHs (Normal Pressure Hydrocephalus)</Synonym>
+<Synonym>Normal Pressure Hydrocephalus</Synonym>
+<Synonym>Hakim Syndrome</Synonym>
+<Synonym>Hakim Syndromes</Synonym>
+<Synonym>Hakim's Syndrome</Synonym>
+<Synonym>Hakim's Syndromes</Synonym>
+<Synonym>Hakims Syndrome</Synonym>
+<Description>A form of compensated hydrocephalus characterized clinically by a slowly progressive gait disorder (see GAIT DISORDERS, NEUROLOGIC), progressive intellectual decline, and URINARY INCONTINENCE. Spinal fluid pressure tends to be in the high normal range. This condition may result from processes which interfere with the absorption of CSF including SUBARACHNOID HEMORRHAGE, chronic MENINGITIS, and other conditions. (From Adams et al., Principles of Neurology, 6th ed, pp631-3)</Description>
+<Source>MeSH</Source>
+</Record>

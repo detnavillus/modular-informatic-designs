@@ -1,0 +1,28 @@
+<Record>
+<Term>Tinea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Tinea</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Tinea</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Tinea</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tinea</BroaderTerm>
+<ChildTerm>Tinea Capitis</ChildTerm>
+<ChildTerm>Tinea Pedis</ChildTerm>
+<ChildTerm>Onychomycosis</ChildTerm>
+<Synonym>Trichophytosis</Synonym>
+<Synonym>Epidermophytosis</Synonym>
+<Synonym>Epidermophytoses</Synonym>
+<Synonym>Trichophytoses</Synonym>
+<Synonym>Tineas</Synonym>
+<Synonym>Ringworm</Synonym>
+<Synonym>Tinea</Synonym>
+<Description>A general term describing various dermatophytoses. Specific types include TINEA CAPITIS (ringworm of the scalp), TINEA FAVOSA (of scalp and skin), TINEA PEDIS (athlete's foot), and tinea unguium (see ONYCHOMYCOSIS, ringworm of the nails). (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

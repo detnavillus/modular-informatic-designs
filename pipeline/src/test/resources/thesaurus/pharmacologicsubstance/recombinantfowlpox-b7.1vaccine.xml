@@ -1,0 +1,21 @@
+<Record>
+<Term>Recombinant Fowlpox-B7.1 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-B7.1 Vaccine</ClassificationPath>
+<BroaderTerm>Recombinant Fowlpox-B7.1 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Fowlpox-B7.1</Synonym>
+<Synonym>Recombinant Fowlpox-B7.1 Vaccine</Synonym>
+<Synonym>rF-B7.1</Synonym>
+<Synonym>rF-B7.1 Vaccine</Synonym>
+<Description>A cancer vaccine comprised of a recombinant fowlpox virus vector encoding the stimulatory molecule transgene B7-1. Recombinant fowlpox-B7.1 vaccine may enhance antigen presentation and activate antitumoral cytotoxic T-cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Lyme Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Borrelia Infections</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Borrelia Infections/Lyme Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Lyme Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Borrelia Infections/Lyme Disease</ClassificationPath>
+<BroaderTerm>Borrelia Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Lyme Disease</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Lyme Neuroborreliosis</ChildTerm>
+<ChildTerm>Erythema Chronicum Migrans</ChildTerm>
+<Synonym>Lyme Disease</Synonym>
+<Synonym>Lyme Borreliosis</Synonym>
+<Synonym>Lyme Arthritis</Synonym>
+<Description>An infectious disease caused by a spirochete, BORRELIA BURGDORFERI, which is transmitted chiefly by Ixodes dammini (see IXODES) and pacificus ticks in the United States and Ixodes ricinis (see IXODES) in Europe. It is a disease with early and late cutaneous manifestations plus involvement of the nervous system, heart, eye, and joints in variable combinations. The disease was formerly known as Lyme arthritis and first discovered at Old Lyme, Connecticut.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,39 @@
+<Record>
+<Term>Middle Cerebral Artery Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebral Infarction</ParentTerm>
+<ParentTerm>Cerebral Arterial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Middle Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Middle Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction/Infarction, Middle Cerebral Artery</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Middle Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction/Infarction, Middle Cerebral Artery</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Infarction, Middle Cerebral Artery</ClassificationPath>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Infarction, Middle Cerebral Artery</BroaderTerm>
+<BroaderTerm>Cerebral Infarction</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<Synonym>Middle Cerebral Artery Occlusion</Synonym>
+<Synonym>Middle Cerebral Artery Circulation Infarction</Synonym>
+<Synonym>Middle Cerebral Artery Thrombosis</Synonym>
+<Synonym>Middle Cerebral Artery Thrombotic Infarction</Synonym>
+<Synonym>Middle Cerebral Artery Infarction</Synonym>
+<Synonym>MCA Infarction</Synonym>
+<Synonym>Middle Cerebral Artery Syndrome</Synonym>
+<Synonym>Middle Cerebral Artery Stroke</Synonym>
+<Synonym>Middle Cerebral Artery Embolic Infarction</Synonym>
+<Synonym>Middle Cerebral Artery Embolus</Synonym>
+<Synonym>Right Middle Cerebral Artery Infarction</Synonym>
+<Synonym>Left Middle Cerebral Artery Infarction</Synonym>
+<Description>NECROSIS occurring in the MIDDLE CEREBRAL ARTERY distribution system which brings blood to the entire lateral aspects of each CEREBRAL HEMISPHERE. Clinical signs include impaired cognition; APHASIA; AGRAPHIA; weak and numbness in the face and arms, contralaterally or bilaterally depending on the infarction.</Description>
+<Source>MeSH</Source>
+</Record>

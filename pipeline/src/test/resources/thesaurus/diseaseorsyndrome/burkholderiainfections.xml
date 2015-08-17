@@ -1,0 +1,16 @@
+<Record>
+<Term>Burkholderia Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Burkholderia Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Burkholderia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Glanders</ChildTerm>
+<ChildTerm>Melioidosis</ChildTerm>
+<Synonym>Burkholderia Infections</Synonym>
+<Synonym>Burkholderia Infection</Synonym>
+<Description>Infections with bacteria of the genus BURKHOLDERIA.</Description>
+<Source>MeSH</Source>
+</Record>

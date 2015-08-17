@@ -1,0 +1,28 @@
+<Record>
+<Term>Antispermatogenic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contraceptive Agents, Male</ParentTerm>
+<ParentTerm>Noxae</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Male/Antispermatogenic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Antispermatogenic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Male/Antispermatogenic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Antispermatogenic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Contraceptive Agents, Male</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Antispermatogenic Agents</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<BroaderTerm>Contraceptive Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Spermatogenesis-Blocking Agents</ChildTerm>
+<ChildTerm>Spermatocidal Agents</ChildTerm>
+<ChildTerm>Sperm Immobilizing Agents</ChildTerm>
+<Synonym>Sperm Maturation Blocking Agents</Synonym>
+<Synonym>Antispermatogenic Agents</Synonym>
+<Description>Agents, either mechanical or chemical, which destroy spermatozoa in the male genitalia and block spermatogenesis.</Description>
+<Source>MeSH</Source>
+</Record>

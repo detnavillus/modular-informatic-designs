@@ -1,0 +1,30 @@
+<Record>
+<Term>Blind Loop Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ParentTerm>Malabsorption Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Malabsorption Syndrome/Blind Loop Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Blind Loop Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Blind Loop Syndrome</ClassificationPath>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Malabsorption Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Blind Loop Syndrome</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Stasis (Blind Loop) Syndrome</Synonym>
+<Synonym>Stasis Syndrome</Synonym>
+<Synonym>Blind Loop Syndrome</Synonym>
+<Synonym>Stagnant Loop Syndromes</Synonym>
+<Synonym>Bacterial Overgrowth Syndrome</Synonym>
+<Synonym>Stagnant Loop Syndrome</Synonym>
+<Description>A malabsorption syndrome that is associated with a blind loop in the upper SMALL INTESTINE that is characterized by the lack of peristaltic movement, stasis of INTESTINAL CONTENTS, and the overgrowth of BACTERIA. Such bacterial overgrowth interferes with BILE SALTS action, FATTY ACIDS processing, MICROVILLI integrity, and the ABSORPTION of nutrients such as VITAMIN B12 and FOLIC ACID.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

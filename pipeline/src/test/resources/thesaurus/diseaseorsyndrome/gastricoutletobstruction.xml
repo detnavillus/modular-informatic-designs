@@ -1,0 +1,15 @@
+<Record>
+<Term>Gastric Outlet Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastric Outlet Obstruction</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Gastric Outlet Obstruction</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Pyloric Stenosis</ChildTerm>
+<Synonym>Gastric Outlet Obstruction</Synonym>
+<Synonym>Gastric Outlet Obstructions</Synonym>
+<Description>The hindering of output from the STOMACH into the SMALL INTESTINE. This obstruction may be of mechanical or functional origin such as EDEMA from PEPTIC ULCER; NEOPLASMS; FOREIGN BODIES; or AGING.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Monoamine Oxidase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Monoamine Oxidase Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Monoamine Oxidase Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Monoamine Oxidase Inhibitors</Synonym>
+<Synonym>MAO Inhibitors</Synonym>
+<Synonym>Monoamine Oxidase Inhibitor</Synonym>
+<Synonym>Reversible Inhibitors of Monoamine Oxidase</Synonym>
+<Synonym>Reversible Inhibitor of Monoamine Oxidase</Synonym>
+<Synonym>RIMA (Reversible Inhibitor of Monoamine Oxidase A)</Synonym>
+<Description>A chemically heterogeneous group of drugs that have in common the ability to block oxidative deamination of naturally occurring monoamines. (From Gilman, et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 8th ed, p414)RIMA shows preference for the A isoenzyme</Description>
+<Source>MeSH</Source>
+</Record>

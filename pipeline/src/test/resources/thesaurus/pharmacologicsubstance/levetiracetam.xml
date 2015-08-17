@@ -1,0 +1,27 @@
+<Record>
+<Term>Levetiracetam</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Neuroprotective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Levetiracetam,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Neuroprotective Agent/Levetiracetam</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Levetiracetam</BroaderTerm>
+<BroaderTerm>Chemoprotective Agent</BroaderTerm>
+<BroaderTerm>Levetiracetam,</BroaderTerm>
+<BroaderTerm>Neuroprotective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Levetiracetam</Synonym>
+<Synonym>LEVETIRACETAM</Synonym>
+<Synonym>1-Pyrrolidineacetamide, Alpha-ethyl-2-oxo-,(S)-</Synonym>
+<Synonym>(S)-alpha-Ethyl-2-oxo-1-pyrrolidineacetamide</Synonym>
+<Synonym>Keppra xr</Synonym>
+<Synonym>Keppra</Synonym>
+<Description>A pyrrolidine with antiepileptic activity. The exact mechanism through which levetiracetam exerts its effects is unknown but does not involve inhibitory and excitatory neurotransmitter activity. Stereoselective binding of levetiracetam was confined to synaptic plasma membranes in the central nervous system with no binding occurring in peripheral tissue. Levetiracetam inhibits burst firing without affecting normal neuronal excitability, which suggests that it may selectively prevent hyper-synchronization of epileptiform burst firing and propagation of seizure activity.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

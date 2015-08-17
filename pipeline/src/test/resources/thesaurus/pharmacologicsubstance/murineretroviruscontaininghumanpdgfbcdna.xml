@@ -1,0 +1,15 @@
+<Record>
+<Term>Murine Retrovirus Containing Human PDGFB cDNA</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Murine Retrovirus Containing Human PDGFB cDNA</ClassificationPath>
+<BroaderTerm>Murine Retrovirus Containing Human PDGFB cDNA</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Murine Retrovirus Containing Human PDGFB cDNA</Synonym>
+<Description>A murine retrovirus that contains plasmid DNA (cDNA) coding for the B chain of platelet-derived growth factor (PDGFB).  Overexpressed in some human brain tumors, PDGFB and PDGF receptors may stimulate tumor development in an autocrine manner.  A murine retrovirus containing human PDGFB cDNA may be used to induce brain tumors in animal models of brain tumorigenesis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

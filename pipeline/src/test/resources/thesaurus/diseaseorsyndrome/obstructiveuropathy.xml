@@ -1,0 +1,16 @@
+<Record>
+<Term>Obstructive Uropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Obstructive Uropathy</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Obstructive Uropathy</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hydronephrosis</ChildTerm>
+<ChildTerm>Hydroureter</ChildTerm>
+<Synonym>Obstructive Uropathy</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Hemoglobinopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies</ClassificationPath>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hemoglobin C Disease</ChildTerm>
+<ChildTerm>Anemia, Sickle Cell</ChildTerm>
+<ChildTerm>Thalassemia</ChildTerm>
+<Synonym>Hemoglobinopathies</Synonym>
+<Synonym>Hemoglobinopathy</Synonym>
+<Description>A group of inherited disorders characterized by structural alterations within the hemoglobin molecule.</Description>
+<Source>MeSH</Source>
+</Record>

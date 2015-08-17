@@ -1,0 +1,16 @@
+<Record>
+<Term>XL647</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/XL647</ClassificationPath>
+<BroaderTerm>XL647</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>XL647</Synonym>
+<Description>An orally active receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. XL647 binds to and inhibits several tyrosine receptor kinases that play major roles in tumor cell proliferation and tumor vascularization, including epidermal growth factor receptor (EGFR; ERBB1), epidermal growth factor receptor 2 (HER2; ERBB2), vascular endothelial growth factor receptor (VEGFR), and ephrin B4 (EphB4). This results in the inhibition of tumor growth and angiogenesis, and eventually leads to tumor regression.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

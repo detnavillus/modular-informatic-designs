@@ -1,0 +1,16 @@
+<Record>
+<Term>Cyanoglycoside Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Plant Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Cyanoglycoside Agent</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Cyanoglycoside Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Laetrile</ChildTerm>
+<ChildTerm>Amygdalin</ChildTerm>
+<Synonym>Cyanoglycoside Agent</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

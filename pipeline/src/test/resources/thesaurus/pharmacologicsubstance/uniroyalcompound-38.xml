@@ -1,0 +1,21 @@
+<Record>
+<Term>Uniroyal Compound-38</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-HIV Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Anti-HIV Agent/Uniroyal Compound-38</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Uniroyal Compound-38</BroaderTerm>
+<BroaderTerm>Anti-HIV Agent</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1-methylethyl-2-chloro-5-[[5,6-dihydro-2-methyl- 1, 4-oxathiin-3-yl-carbonyl]-amino]benzoate</Synonym>
+<Synonym>2-Chloro-5-(((1-methylethoxy)thioxomethyl)amino)benzoic acid</Synonym>
+<Synonym>UC-38</Synonym>
+<Synonym>UC38</Synonym>
+<Synonym>Uniroyal Compound-38</Synonym>
+<Synonym>Uniroyal Jr.</Synonym>
+<Description>A thiocarboxanilide derivative, belongs to the second generation of non-nucleoside reverse transcriptase inhibitors (NNRTI), with anti-viral activity. Uniroyal compound 38 (UC-38), is a non-competitive inhibitor of HIV type 1 (HIV-1) reverse transcriptase (RT), which catalyzes the conversion of genomic RNA into double-stranded pro-viral DNA after cell entry. UC-38 binds to a hydrophobic pocket close to but distinct from the polymerase active site in the p66 subunit and inhibits enzyme activity by mediating allosteric changes in the RT. Inhibition of HIV-1 RT results in termination of viral proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

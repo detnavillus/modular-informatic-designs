@@ -1,0 +1,21 @@
+<Record>
+<Term>Right Ventricular Outflow Tract Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Right Ventricular Outflow Tract Tachycardia</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Right Ventricular Outflow Tract Tachycardia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>OUTFLOW TRACT VENTRICULAR TACHYCARDIA</Synonym>
+<Synonym>Outflow tract ventricular tachycardia</Synonym>
+<Synonym>Right Ventricular Outflow Tract Tachycardia</Synonym>
+<Description>Right ventricular outflow tract tachycardia (RVOT) is the most common type of tachycardia with a female predominance. It is often exercise induced or enhanced. The site of origin is the right ventricular outflow tract and hence the electrocardiographic appearance is that of left bundle branch block and inferior axis. The mechanism is thought to be abnormal automaticity that is sensitive to adenosine.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,13 @@
+<Record>
+<Term>Histoplasmin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antigens, Fungal</ParentTerm>
+<ClassificationPath>Biological Factors/Antigens/Antigens, Fungal/Histoplasmin</ClassificationPath>
+<BroaderTerm>Histoplasmin</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Antigens</BroaderTerm>
+<BroaderTerm>Antigens, Fungal</BroaderTerm>
+<Synonym>Histoplasmin</Synonym>
+<Source>MeSH</Source>
+</Record>

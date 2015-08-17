@@ -1,0 +1,26 @@
+<Record>
+<Term>Botulinum Antitoxin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antitoxins</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Antitoxins/Botulinum Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Botulinum Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Botulinum Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immune Sera/Antitoxins/Botulinum Antitoxin</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Immune Sera</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<BroaderTerm>Antitoxins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<BroaderTerm>Botulinum Antitoxin</BroaderTerm>
+<Synonym>Trivalent Equine Botulinum Antitoxin</Synonym>
+<Synonym>Botulism Antitoxin</Synonym>
+<Synonym>Botulinum Antitoxin</Synonym>
+<Description>Antiserum given therapeutically in BOTULISM.</Description>
+<Source>MeSH</Source>
+</Record>

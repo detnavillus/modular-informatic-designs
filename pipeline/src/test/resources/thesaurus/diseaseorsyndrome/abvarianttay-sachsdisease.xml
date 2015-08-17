@@ -1,0 +1,39 @@
+<Record>
+<Term>AB Variant Tay-Sachs Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gangliosidoses, GM2</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2/Tay-Sachs Disease, AB Variant</ClassificationPath>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Tay-Sachs Disease, AB Variant</BroaderTerm>
+<BroaderTerm>Gangliosidoses, GM2</BroaderTerm>
+<Synonym>GM2 Protein Activator Deficiency Disease</Synonym>
+<Synonym>GM2 Activator Deficiency Disease</Synonym>
+<Synonym>Hexosaminidase Activator Protein Deficiency Disease</Synonym>
+<Synonym>AB Variant Gangliosidosis GM2</Synonym>
+<Description>A progressive neurodegenerative disorder that begins with muscle weakness, then progresses to startle reaction, retardation and seizures. It is characterized by the accumulation of G(M2) GANGLIOSIDE in neurons that is caused by a lack of G(M2) ACTIVATOR PROTEIN function. The AB variant designation refers to the increase of both HEXOSAMINIDASE A and HEXOSAMINIDASE B in tissues that lack of G(M2) activator protein.</Description>
+<Source>MeSH</Source>
+</Record>

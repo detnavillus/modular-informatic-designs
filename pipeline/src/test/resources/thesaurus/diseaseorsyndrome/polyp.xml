@@ -1,0 +1,25 @@
+<Record>
+<Term>Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hamartomatous Polyp</ChildTerm>
+<ChildTerm>Vocal Cord Polyp</ChildTerm>
+<ChildTerm>Nasal Cavity Polyp</ChildTerm>
+<ChildTerm>Paranasal Sinus Polyp</ChildTerm>
+<ChildTerm>Gingival Polyp</ChildTerm>
+<ChildTerm>Vaginal Polyp</ChildTerm>
+<ChildTerm>Uterine Polyp</ChildTerm>
+<ChildTerm>Fibroepithelial Polyp</ChildTerm>
+<ChildTerm>Fibrous Polyp</ChildTerm>
+<ChildTerm>Vulvar Polyp</ChildTerm>
+<ChildTerm>Gastrointestinal Polyp</ChildTerm>
+<Synonym>Polyp</Synonym>
+<Synonym>polyp</Synonym>
+<Description>A usually exophytic mass attached to the underlying tissue by a broad base or a thin stalk.  Polyps can be neoplastic or non-neoplastic.  Neoplastic polyps usually represent proliferations of the epithelium, and are commonly seen in the gastrointestinal tract.  Polyps of the gastrointestinal tract are often called adenomas, are associated with dysplasia, and may eventually transform into carcinomas.  Non-neoplastic polyps may be inflammatory, degenerative, or the result of malformations. -- 2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

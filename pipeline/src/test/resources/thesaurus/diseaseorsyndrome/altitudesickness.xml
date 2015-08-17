@@ -1,0 +1,15 @@
+<Record>
+<Term>Altitude Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiration Disorders</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Altitude Sickness</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Altitude Sickness</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<Synonym>Altitude Sickness</Synonym>
+<Synonym>Altitude Sicknesses</Synonym>
+<Synonym>Mountain Sickness</Synonym>
+<Synonym>Mountain Sicknesses</Synonym>
+<Description>A morbid condition of ANOXIA caused by the reduced available oxygen at high altitudes.</Description>
+<Source>MeSH</Source>
+</Record>

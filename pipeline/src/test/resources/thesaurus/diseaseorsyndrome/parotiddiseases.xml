@@ -1,0 +1,15 @@
+<Record>
+<Term>Parotid Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Salivary Gland Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Parotid Diseases</ClassificationPath>
+<BroaderTerm>Parotid Diseases</BroaderTerm>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Parotitis</ChildTerm>
+<ChildTerm>Parotid Neoplasms</ChildTerm>
+<Synonym>Parotid Diseases</Synonym>
+<Synonym>Parotid Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

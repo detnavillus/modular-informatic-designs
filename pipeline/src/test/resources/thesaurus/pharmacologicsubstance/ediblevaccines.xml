@@ -1,0 +1,25 @@
+<Record>
+<Term>Edible Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Synthetic</ParentTerm>
+<ParentTerm>Vaccines, Subunit</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Synthetic/Vaccines, Edible</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Subunit/Vaccines, Edible</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Recombinant Proteins/Vaccines, Synthetic/Vaccines, Edible</ClassificationPath>
+<ClassificationPath>Biological Factors/Antigens/Vaccines, Synthetic/Vaccines, Edible</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Antigens</BroaderTerm>
+<BroaderTerm>Recombinant Proteins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Vaccines, Synthetic</BroaderTerm>
+<BroaderTerm>Vaccines, Edible</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines, Subunit</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Edible Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines derived from edible plants. Transgenic plants (PLANTS, TRANSGENIC) are used as recombinant protein production systems and the edible plant tissue functions as an oral vaccine.</Description>
+<Source>MeSH</Source>
+</Record>

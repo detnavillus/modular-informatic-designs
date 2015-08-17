@@ -1,0 +1,21 @@
+<Record>
+<Term>Dysgammaglobulinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Blood Protein Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Dysgammaglobulinemia</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Dysgammaglobulinemia</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Dysgammaglobulinemia</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hyper-IgM Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>IgG Deficiency</ChildTerm>
+<ChildTerm>IgA Deficiency</ChildTerm>
+<Synonym>Dysgammaglobulinemia</Synonym>
+<Synonym>Dysgammaglobulinemias</Synonym>
+<Description>An immunologic deficiency state characterized by selective deficiencies of one or more, but not all, classes of immunoglobulins.</Description>
+<Source>MeSH</Source>
+</Record>

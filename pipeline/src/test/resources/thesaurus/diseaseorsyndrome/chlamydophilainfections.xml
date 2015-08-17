@@ -1,0 +1,16 @@
+<Record>
+<Term>Chlamydophila Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chlamydiaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections/Chlamydophila Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Chlamydophila Infections</BroaderTerm>
+<ChildTerm>Psittacosis</ChildTerm>
+<Synonym>Chlamydophila Infections</Synonym>
+<Synonym>Chlamydophila Infection</Synonym>
+<Description>Infections with bacteria of the genus CHLAMYDOPHILA.</Description>
+<Source>MeSH</Source>
+</Record>

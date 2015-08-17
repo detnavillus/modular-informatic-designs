@@ -1,0 +1,19 @@
+<Record>
+<Term>Acute Radiation Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Radiation Injuries</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Radiation Injuries/Acute Radiation Syndrome</ClassificationPath>
+<ClassificationPath>Environment and Public Health/Public Health/Radiologic Health/Radiation Effects/Radiation Injuries/Acute Radiation Syndrome</ClassificationPath>
+<BroaderTerm>Environment and Public Health</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Radiologic Health</BroaderTerm>
+<BroaderTerm>Radiation Injuries</BroaderTerm>
+<BroaderTerm>Radiation Effects</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Public Health</BroaderTerm>
+<BroaderTerm>Acute Radiation Syndrome</BroaderTerm>
+<Synonym>Acute Radiation Syndromes</Synonym>
+<Synonym>Acute Radiation Syndrome</Synonym>
+<Description>A condition caused by a brief whole body exposure to more than one sievert dose equivalent of radiation. Acute radiation syndrome is initially characterized by ANOREXIA; NAUSEA; VOMITING; but can progress to hematological, gastrointestinal, neurological, pulmonary, and other major organ dysfunction.</Description>
+<Source>MeSH</Source>
+</Record>

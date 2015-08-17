@@ -1,0 +1,16 @@
+<Record>
+<Term>GM-K562 Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/GM-K562 Cell Vaccine</ClassificationPath>
+<BroaderTerm>GM-K562 Cell Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>GM-K562 Cell Vaccine</Synonym>
+<Description>A cell-based vaccine comprised of K562 cells transfected with the granulocyte macrophage-colony stimulating factor (GM-CSF) gene with potential immunopotentiating properties. Vaccination with GM-K562 cells may stimulate the host immune system to produce an antitumoral T-lymphocyte response, thereby inhibiting tumor growth. K562 cells are derived from the human erythroleukemia cell line K562. GM-CSF (also known as sagramostim) expressed by vaccine cells binds to specific cell surface receptors, modulating the proliferation and differentiation of a variety of hematopoietic progenitor cells with some specificity towards stimulation of leukocyte production. GM-CSF also promotes antigen presentation, up-regulates antibody-dependent cellular cytotoxicity (ADCC), and increases interleukin-2-mediated lymphokine-activated killer cell function; it may also augment host antitumoral immunity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Bone Marrow Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases</ClassificationPath>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Myeloproliferative Disorders</ChildTerm>
+<ChildTerm>Anemia, Aplastic</ChildTerm>
+<ChildTerm>Myelodysplastic Syndromes</ChildTerm>
+<ChildTerm>Myelodysplastic-Myeloproliferative Diseases</ChildTerm>
+<ChildTerm>Bone Marrow Neoplasms</ChildTerm>
+<Synonym>Bone Marrow Diseases</Synonym>
+<Synonym>Bone Marrow Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

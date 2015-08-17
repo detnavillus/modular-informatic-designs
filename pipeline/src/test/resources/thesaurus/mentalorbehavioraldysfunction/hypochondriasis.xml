@@ -1,0 +1,23 @@
+<Record>
+<Term>Hypochondriasis</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Somatoform Disorders</ParentTerm>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Hypochondriasis</ClassificationPath>
+<ClassificationPath>Mental Disorders/Somatoform Disorders/Hypochondriasis</ClassificationPath>
+<BroaderTerm>Somatoform Disorders</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Hypochondriasis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Hypochondriacal Neuroses</Synonym>
+<Synonym>Hypochondria</Synonym>
+<Synonym>Hypochondriacal Neurosis</Synonym>
+<Synonym>Hypochondriasis</Synonym>
+<Description>Preoccupation with the fear of having, or the idea that one has, a serious disease based on the person's misinterpretation of bodily symptoms. (APA, DSM-IV)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

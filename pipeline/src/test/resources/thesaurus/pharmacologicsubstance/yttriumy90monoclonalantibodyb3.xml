@@ -1,0 +1,19 @@
+<Record>
+<Term>Yttrium Y 90 Monoclonal Antibody B3</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Monoclonal Antibody B3</ClassificationPath>
+<BroaderTerm>Yttrium Y 90 Monoclonal Antibody B3</BroaderTerm>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>90 Y-B3</Synonym>
+<Synonym>MOAB B3, Yttrium Y 90</Synonym>
+<Synonym>Y 90 Monoclonal Antibody B3</Synonym>
+<Synonym>Y90-B3</Synonym>
+<Synonym>Yttrium Y 90 Monoclonal Antibody B3</Synonym>
+<Description>A radioimmunoconjugate of monoclonal antibody (MoAb) B3 conjugated with isotope yttrium 90. MoAb B3 is a murine MoAb that recognizes a Lewis Y carbohydrate antigen present on the surface of many carcinomas. This radioimmunoconjugate emits beta particles that causes cytotoxicity in tumor cells and has both diagnostic and therapeutic uses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

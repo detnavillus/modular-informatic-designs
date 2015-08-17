@@ -1,0 +1,38 @@
+<Record>
+<Term>Scurvy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin Deficiency Disorder</ParentTerm>
+<ParentTerm>Hemostatic Disorders</ParentTerm>
+<ParentTerm>Ascorbic Acid Deficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Nutritional Disorder/Vitamin Deficiency Disorder/Scurvy</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hemostatic Disorders/Scurvy</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemostatic Disorders/Scurvy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Ascorbic Acid Deficiency/Scurvy</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Vitamin Deficiency Disorder</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Nutritional Disorder</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Scurvy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hemostatic Disorders</BroaderTerm>
+<BroaderTerm>Ascorbic Acid Deficiency</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<Synonym>Scurvy</Synonym>
+<Synonym>Scorbutus</Synonym>
+<Synonym>Scurvies</Synonym>
+<Description>An acquired blood vessel disorder caused by severe deficiency of vitamin C (ASCORBIC ACID) in the diet leading to defective collagen formation in small blood vessels. Scurvy is characterized by bleeding in any tissue, weakness, ANEMIA, spongy gums, and a brawny induration of the muscles of the calves and legs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

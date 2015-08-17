@@ -1,0 +1,17 @@
+<Record>
+<Term>Aortic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aortic Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aortic Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Aortic Aneurysm</ChildTerm>
+<ChildTerm>Aortic Arch Syndromes</ChildTerm>
+<ChildTerm>Aortitis</ChildTerm>
+<ChildTerm>Leriche Syndrome</ChildTerm>
+<Synonym>Aortic Diseases</Synonym>
+<Synonym>Aortic Disease</Synonym>
+<Description>Pathological processes involving any part of the AORTA.</Description>
+<Source>MeSH</Source>
+</Record>

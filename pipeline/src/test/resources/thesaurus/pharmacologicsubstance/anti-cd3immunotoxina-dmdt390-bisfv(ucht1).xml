@@ -1,0 +1,17 @@
+<Record>
+<Term>Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunotoxin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Immunotoxin/Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)</BroaderTerm>
+<BroaderTerm>Immunotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>A-dmDT390-bisFv(UCHT1)</Synonym>
+<Synonym>Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)</Synonym>
+<Description>A bivalent recombinant fusion protein immunotoxin derived from the anti-CD3 monoclonal antibody UCHT1 with potential antineoplastic activity. Anti-CD3 immunotoxin A-dmDT390-bisFv(UCHT1) consists of 1-390 amino acid residues of chain A diphtheria toxin (DT) joined via a spacer to the Fv fragment of UCHT1, which is connected to a second UCHT1 Fv fragment via a disulfide bond (hence bisFv); the addition of the second Fv fragment appears to overcome steric hindrance of immunotoxin binding due to the large DT moiety. After the DT moiety is internalized into target T cells, it covalently modifies translational elongation factor 2 (EF-2), thereby inactivates EF-2 and disrupts polypeptide chain elongation. CD3 is a complex of five cell-surface polypeptides that are associated with the T cell receptor complex.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

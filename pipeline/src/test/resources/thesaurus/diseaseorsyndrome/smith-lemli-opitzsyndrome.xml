@@ -1,0 +1,40 @@
+<Record>
+<Term>Smith-Lemli-Opitz Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Steroid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Dyslipidemias</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Smith-Lemli-Opitz Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Steroid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Smith-Lemli-Opitz Syndrome</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<Synonym>7 Dehydrocholesterol Reductase Deficiency</Synonym>
+<Synonym>7-Dehydrocholesterol Reductase Deficiency</Synonym>
+<Synonym>Lethal Acrodysgenital Syndromes</Synonym>
+<Synonym>Rutledge Lethal Multiple Congenital Anomaly Syndrome</Synonym>
+<Synonym>Rutledge Friedman Harrod Syndrome</Synonym>
+<Synonym>RSH-SLO Syndromes</Synonym>
+<Synonym>7-Dehydrocholesterol Reductase Deficiencies</Synonym>
+<Synonym>RSH SLO Syndrome</Synonym>
+<Synonym>Smith Lemli Opitz Syndrome</Synonym>
+<Synonym>Lethal Acrodysgenital Syndrome</Synonym>
+<Synonym>Smith-Lemli-Opitz Syndrome</Synonym>
+<Synonym>RSH-SLO Syndrome</Synonym>
+<Description>An autosomal recessive disorder of CHOLESTEROL metabolism. It is caused by a deficiency of 7-dehydrocholesterol reductase, the enzyme that converts 7-dehydrocholesterol to cholesterol, leading to an abnormally low plasma cholesterol. This syndrome is characterized by multiple CONGENITAL ABNORMALITIES, growth deficiency, and MENTAL RETARDATION.</Description>
+<Source>MeSH</Source>
+</Record>

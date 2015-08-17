@@ -1,0 +1,22 @@
+<Record>
+<Term>Adrenergic Uptake Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Uptake Inhibitors</ParentTerm>
+<ParentTerm>Adrenergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Adrenergic Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Adrenergic Agents/Adrenergic Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Adrenergic Uptake Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Neurotransmitter Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Adrenergic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Adrenergic Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Adrenergic Reuptake Inhibitors</Synonym>
+<Synonym>Adrenergic Uptake Inhibitors</Synonym>
+<Description>Drugs that block the transport of adrenergic transmitters into axon terminals or into storage vesicles within terminals. The tricyclic antidepressants (ANTIDEPRESSIVE AGENTS, TRICYCLIC) and amphetamines are among the therapeutically important drugs that may act via inhibition of adrenergic transport. Many of these drugs also block transport of serotonin.</Description>
+<Source>MeSH</Source>
+</Record>

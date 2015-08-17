@@ -1,0 +1,22 @@
+<Record>
+<Term>Whooping Cough</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Bordetella Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Respiratory Tract Infections/Whooping Cough</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bordetella Infections/Whooping Cough</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Whooping Cough</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Whooping Cough</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bordetella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Whooping Cough</Synonym>
+<Synonym>Pertussis</Synonym>
+<Synonym>Pertusses</Synonym>
+<Description>A respiratory infection caused by BORDETELLA PERTUSSIS and characterized by paroxysmal coughing ending in a prolonged crowing intake of breath.</Description>
+<Source>MeSH</Source>
+</Record>

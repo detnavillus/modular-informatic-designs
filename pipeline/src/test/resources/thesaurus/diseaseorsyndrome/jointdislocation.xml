@@ -1,0 +1,19 @@
+<Record>
+<Term>Joint Dislocation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dislocation</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Injury/Dislocation/Joint Dislocation</ClassificationPath>
+<BroaderTerm>Joint Dislocation</BroaderTerm>
+<BroaderTerm>Injury</BroaderTerm>
+<BroaderTerm>Dislocation</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Shoulder Dislocation</ChildTerm>
+<ChildTerm>Pathologic Joint Dislocation</ChildTerm>
+<ChildTerm>Hip Dislocation</ChildTerm>
+<Synonym>Dislocated joint</Synonym>
+<Synonym>Joint Dislocation</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

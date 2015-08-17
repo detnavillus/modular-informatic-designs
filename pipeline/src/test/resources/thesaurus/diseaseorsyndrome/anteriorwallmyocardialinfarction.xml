@@ -1,0 +1,34 @@
+<Record>
+<Term>Anterior Wall Myocardial Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Myocardial Infarction</ParentTerm>
+<ParentTerm>Electrocardiographic Finding</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Myocardial Infarction/Anterior Wall Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Electrocardiographic Finding/Anterior Wall Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Myocardial Infarction/Anterior Wall Myocardial Infarction</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Electrocardiographic Finding</BroaderTerm>
+<BroaderTerm>Anterior Wall Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Acute Anterior Wall Myocardial Infarction</Synonym>
+<Synonym>Anterolateral Myocardial Infarctions</Synonym>
+<Synonym>Anteroseptal Myocardial Infarction</Synonym>
+<Synonym>Anteroseptal Myocardial Infarctions</Synonym>
+<Synonym>Anterolateral Myocardial Infarction</Synonym>
+<Synonym>Anterior Wall Myocardial Infarction</Synonym>
+<Synonym>ANTERIOR WALL MYOCARDIAL INFARCTION</Synonym>
+<Description>MYOCARDIAL INFARCTION in which the anterior wall of the heart is involved. Anterior wall myocardial infarction is often caused by occlusion of the left anterior descending coronary artery. It can be categorized as anteroseptal or anterolateral wall myocardial infarction.</Description>
+<Description>Electrocardiographic finding showing an injury in leads corresponding to the anatomic region of the anterior wall of the heart.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Enteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Non-Neoplastic Intestinal Disorder</ParentTerm>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enteritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enteritis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Inflammatory Bowel Disease</ChildTerm>
+<ChildTerm>Radiation Enteritis</ChildTerm>
+<ChildTerm>Colitis</ChildTerm>
+<ChildTerm>Ileitis</ChildTerm>
+<ChildTerm>Duodenitis</ChildTerm>
+<ChildTerm>Regional Enteritis</ChildTerm>
+<Synonym>Enteritis</Synonym>
+<Synonym>Enteritides</Synonym>
+<Description>Inflammation of any segment of the SMALL INTESTINE.</Description>
+<Description>Inflammation of the intestine.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

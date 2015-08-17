@@ -1,0 +1,15 @@
+<Record>
+<Term>Diphyllobothriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cestode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Diphyllobothriasis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Diphyllobothriasis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Sparganosis</ChildTerm>
+<Synonym>Diphyllobothriasis</Synonym>
+<Synonym>Diphyllobothriases</Synonym>
+<Description>Infection with tapeworms of the genus Diphyllobothrium.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Pseudomonas Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Pseudomonas Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Pseudomonas Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Pseudomonas Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent or treat PSEUDOMONAS INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

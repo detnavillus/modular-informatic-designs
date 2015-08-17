@@ -1,0 +1,22 @@
+<Record>
+<Term>Calcium Channel Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vasoconstrictor Agents</ParentTerm>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Vasoconstrictor Agents/Calcium Channel Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Calcium Channel Agonists</ClassificationPath>
+<BroaderTerm>Calcium Channel Agonists</BroaderTerm>
+<BroaderTerm>Vasoconstrictor Agents</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Calcium Channel Agonists</Synonym>
+<Synonym>Exogenous Calcium Channel Agonists</Synonym>
+<Synonym>Calcium Channel Agonist</Synonym>
+<Synonym>Calcium Channel Activators</Synonym>
+<Description>Agents that increase calcium influx into calcium channels of excitable tissues. This causes vasoconstriction in VASCULAR SMOOTH MUSCLE and/or CARDIAC MUSCLE cells as well as stimulation of insulin release from pancreatic islets. Therefore, tissue-selective calcium agonists have the potential to combat cardiac failure and endocrinological disorders. They have been used primarily in experimental studies in cell and tissue culture.</Description>
+<Source>MeSH</Source>
+</Record>

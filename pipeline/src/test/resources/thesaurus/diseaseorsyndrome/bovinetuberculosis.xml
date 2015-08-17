@@ -1,0 +1,21 @@
+<Record>
+<Term>Bovine Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Bovine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Tuberculosis, Bovine</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Bovine</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bovine Tuberculosis</Synonym>
+<Synonym>Bovine Tuberculoses</Synonym>
+<Description>An infection of cattle caused by MYCOBACTERIUM BOVIS. It is transmissible to man and other animals.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>VEGFR-2 Inhibitor CT-322</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/VEGFR-2 Inhibitor CT-322</ClassificationPath>
+<BroaderTerm>VEGFR-2 Inhibitor CT-322</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CT-322</Synonym>
+<Synonym>VEGFR-2 Inhibitor CT-322</Synonym>
+<Description>A highly specific, vascular endothelial growth factor receptor-2 (VEGFR-2) antagonist with potential antiangiogenic activity. Derived from human fibronectin, VEGFR-2 inhibitor peptide CT-322 may block the activation of VEGFR-2 by all known activating ligands, thereby inhibiting the growth of new tumor blood vessels.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

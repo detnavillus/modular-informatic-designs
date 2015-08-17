@@ -1,0 +1,26 @@
+<Record>
+<Term>Uterine Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases</ClassificationPath>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Uterine Cervical Diseases</ChildTerm>
+<ChildTerm>Uterine Neoplasms</ChildTerm>
+<ChildTerm>Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Endometritis</ChildTerm>
+<ChildTerm>Uterine Hemorrhage</ChildTerm>
+<ChildTerm>Uterine Rupture</ChildTerm>
+<ChildTerm>Uterine Prolapse</ChildTerm>
+<ChildTerm>Uterine Inversion</ChildTerm>
+<ChildTerm>Pyometra</ChildTerm>
+<ChildTerm>Hematometra</ChildTerm>
+<Synonym>Uterine Diseases</Synonym>
+<Synonym>Uterine Disease</Synonym>
+<Synonym>Endometrial Diseases</Synonym>
+<Synonym>Endometrial Disease</Synonym>
+<Description>Pathological processes involving any part of the UTERUS.</Description>
+<Source>MeSH</Source>
+</Record>

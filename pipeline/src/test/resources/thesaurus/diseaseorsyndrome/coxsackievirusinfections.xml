@@ -1,0 +1,21 @@
+<Record>
+<Term>Coxsackievirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Coxsackievirus Infections</ClassificationPath>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coxsackievirus Infections</BroaderTerm>
+<ChildTerm>Conjunctivitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Pleurodynia, Epidemic</ChildTerm>
+<ChildTerm>Hand, Foot and Mouth Disease</ChildTerm>
+<ChildTerm>Herpangina</ChildTerm>
+<Synonym>Coxsackievirus Infections</Synonym>
+<Synonym>Coxsackie Virus Infection</Synonym>
+<Synonym>Coxsackievirus Infection</Synonym>
+<Synonym>Coxsackie Virus Infections</Synonym>
+<Description>A heterogeneous group of infections produced by coxsackieviruses, including HERPANGINA, aseptic meningitis (MENINGITIS, ASEPTIC), a common-cold-like syndrome, a non-paralytic poliomyelitis-like syndrome, epidemic pleurodynia (PLEURODYNIA, EPIDEMIC) and a serious MYOCARDITIS.</Description>
+<Source>MeSH</Source>
+</Record>

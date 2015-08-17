@@ -1,0 +1,24 @@
+<Record>
+<Term>Trimethobenzamide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiemetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiemetic Agent/Trimethobenzamide</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiemetic Agent/Trimethobenzamide Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antiemetic Agent</BroaderTerm>
+<BroaderTerm>Trimethobenzamide Hydrochloride</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Trimethobenzamide</BroaderTerm>
+<Synonym>Tigan</Synonym>
+<Synonym>Trimethobenzamide Hydrochloride</Synonym>
+<Synonym>TRIMETHOBENZAMIDE</Synonym>
+<Synonym>Trimethobenzamide hydrochloride</Synonym>
+<Synonym>TRIMETHOBENZAMIDE HYDROCHLORIDE</Synonym>
+<Synonym>Trimethobenzamide</Synonym>
+<Description>The hydrochloride salt form of trimethobenzamide, a benzamide derivative with an antiemetic property. Although the mechanism of action is largely unknown, it inhibits the chemoreceptor trigger zone (CTZ), an area in the medulla oblongata through which emetic impulses are conveyed to the vomiting center, thereby suppressing nausea and vomiting.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

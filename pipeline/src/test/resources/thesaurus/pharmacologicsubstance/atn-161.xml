@@ -1,0 +1,17 @@
+<Record>
+<Term>ATN-161</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Alpha V Beta Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial-Specific Integrin:Survival Signaling Inhibitor/Alpha V Beta Inhibitor/ATN-161</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>ATN-161</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Alpha V Beta Inhibitor</BroaderTerm>
+<BroaderTerm>Endothelial-Specific Integrin:Survival Signaling Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ATN-161</Synonym>
+<Description>A small peptide antagonist of integrin alpha5beta1 with potential antineoplastic activity. ATN-161 selectively binds to and blocks the receptor for integrin alpha5beta1, thereby preventing integrin alpha5beta1 binding. This receptor blockade may result in inhibition of endothelial cell-cell interactions, endothelial cell-matrix interactions, angiogenesis, and tumor progression. Integrin alpha5beta1 is expressed on endothelial cells and plays a crucial role in endothelial cell adhesion and migration.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

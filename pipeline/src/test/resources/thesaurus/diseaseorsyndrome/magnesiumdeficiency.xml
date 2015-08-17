@@ -1,0 +1,15 @@
+<Record>
+<Term>Magnesium Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Deficiency Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Magnesium Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Magnesium Deficiency</BroaderTerm>
+<Synonym>Magnesium Deficiency</Synonym>
+<Synonym>Magnesium Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of magnesium in the diet, characterized by anorexia, nausea, vomiting, lethargy, and weakness. Symptoms are paresthesias, muscle cramps, irritability, decreased attention span, and mental confusion, possibly requiring months to appear. Deficiency of body magnesium can exist even when serum values are normal. In addition, magnesium deficiency may be organ-selective, since certain tissues become deficient before others. (Harrison's Principles of Internal Medicine, 12th ed, p1936)</Description>
+<Source>MeSH</Source>
+</Record>

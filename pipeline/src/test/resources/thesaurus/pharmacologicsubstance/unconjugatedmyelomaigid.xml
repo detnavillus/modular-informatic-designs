@@ -1,0 +1,19 @@
+<Record>
+<Term>Unconjugated Myeloma Ig Id</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Idiotype Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Anti-Idiotype Vaccine/Unconjugated Myeloma Ig Id</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Idiotype Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Unconjugated Myeloma Ig Id</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Unconjugated Myeloma Ig Id</Synonym>
+<Synonym>Unconjugated Myeloma Immunoglobulin Idiotype</Synonym>
+<Synonym>Unconjugated Myleoma Immunoglobulin IG ID Vaccine</Synonym>
+<Description>A vaccine consisting of myeloma-specific immunoglobulin that is not conjugated to a carrier molecule.  Vaccination with unconjugated myeloma Ig Id may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against myeloma cells, resulting in decreased tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

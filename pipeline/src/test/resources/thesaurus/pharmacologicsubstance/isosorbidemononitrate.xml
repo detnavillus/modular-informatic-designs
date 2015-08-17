@@ -1,0 +1,25 @@
+<Record>
+<Term>Isosorbide Mononitrate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Vasodilating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Vasodilating Agent/Isosorbide Mononitrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Vasodilating Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Isosorbide Mononitrate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Isosorbide mononitrate</Synonym>
+<Synonym>Monosordil</Synonym>
+<Synonym>Monoket</Synonym>
+<Synonym>ISMO</Synonym>
+<Synonym>1,4:3,6-Dianhydro-D-glucitol 5-nitrate</Synonym>
+<Synonym>Ismo</Synonym>
+<Synonym>ISOSORBIDE MONONITRATE</Synonym>
+<Synonym>Isosorbide Mononitrate</Synonym>
+<Synonym>Imdur</Synonym>
+<Description>The mononitrate salt form of isosorbide, an organic nitrate with vasodilator activity. Isosorbide mononitrate relaxes vascular smooth muscle by formation of the free radical nitric oxide (NO), which is identical to the endothelium-derived relaxing factor (EDRF). NO activates guanylyl cyclase, thereby increasing the synthesis of cGMP within smooth muscle, resulting in dephosphorylation of light chain myosin and relaxation of peripheral arteries and veins. In addition, isosorbide mononitrate relaxes coronary arteries, thereby increasing the blood circulation through the ischemic area. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,68 @@
+<Record>
+<Term>Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Heart in General</ParentTerm>
+<ParentTerm>Blood Pressure Finding</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hypertension</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Heart in General/Hypertension Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Blood Pressure Finding/Hypertension</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Heart in General</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Hypertension Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Blood Pressure Finding</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Uncomplicated Hypertension</ChildTerm>
+<ChildTerm>Renal Hypertension</ChildTerm>
+<ChildTerm>Hypertension, Pregnancy-Induced</ChildTerm>
+<ChildTerm>Unspecified Renovascular Hypertension</ChildTerm>
+<ChildTerm>Paroxysmal Hypertension</ChildTerm>
+<ChildTerm>Borderline Hypertension</ChildTerm>
+<ChildTerm>Diastolic Hypertension</ChildTerm>
+<ChildTerm>Malignant Hypertension</ChildTerm>
+<ChildTerm>Systolic Hypertension</ChildTerm>
+<ChildTerm>Portal Hypertension</ChildTerm>
+<ChildTerm>Endocrine Hypertension</ChildTerm>
+<ChildTerm>Pulmonary Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Hypertension</ChildTerm>
+<ChildTerm>Postpartum Hypertension</ChildTerm>
+<ChildTerm>Pregnancy Associated Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Hypertension</ChildTerm>
+<ChildTerm>Essential Hypertension</ChildTerm>
+<ChildTerm>Hypertension, Renal</ChildTerm>
+<ChildTerm>Hypertension, Malignant</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Hypertension</ChildTerm>
+<ChildTerm>Unspecified Antepartum Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Hypertension</ChildTerm>
+<ChildTerm>Ocular Hypertension</ChildTerm>
+<ChildTerm>Postoperative Hypertension</ChildTerm>
+<ChildTerm>Neonatal Hypertension</ChildTerm>
+<ChildTerm>Secondary Hypertension</ChildTerm>
+<Synonym>High Blood Pressure</Synonym>
+<Synonym>Blood Pressure, Increased</Synonym>
+<Synonym>Vascular Hypertensive Disorder</Synonym>
+<Synonym>hypertension</Synonym>
+<Synonym>Pressure, high blood</Synonym>
+<Synonym>High blood pressure</Synonym>
+<Synonym>High Blood Pressures</Synonym>
+<Synonym>Hypertension</Synonym>
+<Synonym>Blood Pressure, High</Synonym>
+<Synonym>Hypertension Adverse Event</Synonym>
+<Synonym>Increased blood pressure</Synonym>
+<Description>Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more.</Description>
+<Description>Pathological increase in blood pressure; a repeatedly elevated blood pressure exceeding 140 over 90 mmHg.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

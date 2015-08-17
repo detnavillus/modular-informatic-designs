@@ -1,0 +1,30 @@
+<Record>
+<Term>Arrhythmia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ventricular Arrhythmia</ChildTerm>
+<ChildTerm>Trigeminy</ChildTerm>
+<ChildTerm>Bigeminy</ChildTerm>
+<ChildTerm>Supraventricular Arrhythmia</ChildTerm>
+<ChildTerm>Right Ventricular Outflow Tract Tachycardia</ChildTerm>
+<ChildTerm>Isorhythmic Atrioventricular Dissociation</ChildTerm>
+<ChildTerm>Paroxysmal Tachycardia</ChildTerm>
+<ChildTerm>Heart Block</ChildTerm>
+<Synonym>Arrhythmia</Synonym>
+<Synonym>Cardiac Arrhythmia</Synonym>
+<Synonym>Cardiac dysrhythmias</Synonym>
+<Synonym>Cardiac dysrhythmia</Synonym>
+<Description>Any variation from the normal rate or rhythm (which may include the origin of the impulse and/or its subsequent propagation) in the heart.</Description>
+<Source>RTI</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Graves Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Goiter</ParentTerm>
+<ParentTerm>Exophthalmos</ParentTerm>
+<ParentTerm>Hyperthyroidism</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Goiter/Graves' Disease,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Hyperthyroidism/Graves' Disease</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroidism/Graves Disease</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Goiter/Graves Disease</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Graves Disease</ClassificationPath>
+<ClassificationPath>Eye Diseases/Orbital Diseases/Exophthalmos/Graves Disease</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Exophthalmos</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Graves' Disease,</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Graves' Disease</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Goiter</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Hyperthyroidism</BroaderTerm>
+<BroaderTerm>Orbital Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Graves Disease</BroaderTerm>
+<ChildTerm>Graves Ophthalmopathy</ChildTerm>
+<Synonym>Exophthalmic Goiter</Synonym>
+<Synonym>Graves' Disease</Synonym>
+<Synonym>Exophthalmic Goiters</Synonym>
+<Synonym>Basedow Disease</Synonym>
+<Synonym>Basedow's Disease</Synonym>
+<Synonym>Basedows Disease</Synonym>
+<Synonym>Graves Disease</Synonym>
+<Description>A common form of hyperthyroidism with a diffuse hyperplastic GOITER. It is an autoimmune disorder that produces antibodies against the THYROID STIMULATING HORMONE RECEPTOR. These autoantibodies activate the TSH receptor, thereby stimulating the THYROID GLAND and hypersecretion of THYROID HORMONES. These autoantibodies can also affect the eyes (GRAVES OPHTHALMOPATHY) and the skin (Graves dermopathy).</Description>
+<Description>Hyperthyroidism associated with diffuse hyperplasia of the thyroid gland (goiter), resulting from production of antibodies that are directed against the thyrotropin receptor complex of the follicular epithelial cells.  As a result, the thyroid gland enlarges and secrets increased amounts of thyroid hormones. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

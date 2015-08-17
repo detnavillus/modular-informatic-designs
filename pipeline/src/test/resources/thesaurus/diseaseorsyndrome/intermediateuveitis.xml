@@ -1,0 +1,25 @@
+<Record>
+<Term>Intermediate Uveitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Uveal Disorder/Non-Neoplastic Uveal Disorder/Uveitis/Intermediate Uveitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Uveitis, Intermediate</ClassificationPath>
+<BroaderTerm>Uveitis, Intermediate</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Intermediate Uveitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Uveal Disorder</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Uveal Disorder</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pars Planitis</ChildTerm>
+<Synonym>Chronic Cyclitis</Synonym>
+<Synonym>Intermediate Uveitis</Synonym>
+<Description>Inflammation of the pars plana, ciliary body, and adjacent structures.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

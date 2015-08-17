@@ -1,0 +1,34 @@
+<Record>
+<Term>Eosinophilia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Leukocyte Disorders</ParentTerm>
+<ParentTerm>Abnormal Hematology Test Result</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Hematopoietic System Finding/Abnormal Hematology Test Result/Eosinophilia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Eosinophilia</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hematopoietic System Finding</BroaderTerm>
+<BroaderTerm>Eosinophilia</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Hematology Test Result</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Bone Marrow Eosinophilia</ChildTerm>
+<ChildTerm>Eosinophilic Granuloma</ChildTerm>
+<ChildTerm>Hypereosinophilic Syndrome</ChildTerm>
+<ChildTerm>Angiolymphoid Hyperplasia with Eosinophilia</ChildTerm>
+<ChildTerm>Peripheral Blood Eosinophilia</ChildTerm>
+<ChildTerm>Eosinophilia-Myalgia Syndrome</ChildTerm>
+<Synonym>Tropical Eosinophilias</Synonym>
+<Synonym>Tropical Eosinophilia</Synonym>
+<Synonym>Eosinophilia</Synonym>
+<Synonym>Eosinophilias</Synonym>
+<Synonym>eosinophilia</Synonym>
+<Description>Abnormal increase in eosinophils in the blood, tissues or organs.</Description>
+<Description>Abnormal increase of EOSINOPHILS in the blood, tissues or organs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

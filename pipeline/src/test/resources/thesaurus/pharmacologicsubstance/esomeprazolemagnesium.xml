@@ -1,0 +1,21 @@
+<Record>
+<Term>Esomeprazole Magnesium</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Proton Pump Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-ulcer Agent/Proton Pump Inhibitor/Esomeprazole Magnesium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-ulcer Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Proton Pump Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Esomeprazole Magnesium</BroaderTerm>
+<Synonym>ESOMEPRAZOLE MAGNESIUM</Synonym>
+<Synonym>Esomeprazole magnesium</Synonym>
+<Synonym>Nexium</Synonym>
+<Synonym>Esomeprazole Magnesium</Synonym>
+<Description>The magnesium salt of esomeprazole, the S-isomer of omeprazole, with gastric proton pump inhibitor activity. In the acidic compartment of parietal cells, esomeprazole is protonated and converted into the active achiral sulphenamide; the active sulphenamide forms one or more covalent disulfide bonds with the proton pump hydrogen-potassium adenosine triphosphatase (H+/K+ ATPase), thereby inhibiting its activity and the parietal cell secretion of H+ ions into the gastric lumen, the final step in gastric acid production. H+/K+ ATPase is an integral membrane protein of the gastric parietal cell.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

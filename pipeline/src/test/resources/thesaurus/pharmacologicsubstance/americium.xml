@@ -1,0 +1,33 @@
+<Record>
+<Term>Americium</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<ParentTerm>Metals, Heavy</ParentTerm>
+<ParentTerm>Radioactive Element</ParentTerm>
+<ParentTerm>Actinoid Series Elements</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Elements/Metals, Heavy/Americium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Metals/Metals, Heavy/Americium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Actinoid Series Elements/Americium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Elements, Radioactive/Actinoid Series Elements/Americium</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Metals/Actinoid Series Elements/Americium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Radioactive Element/Americium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Elements</BroaderTerm>
+<BroaderTerm>Metals, Heavy</BroaderTerm>
+<BroaderTerm>Americium</BroaderTerm>
+<BroaderTerm>Elements, Radioactive</BroaderTerm>
+<BroaderTerm>Actinoid Series Elements</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Radioactive Element</BroaderTerm>
+<BroaderTerm>Metals</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Americium</Synonym>
+<Description>A man-made radioactive element with atomic symbol Am, atomic number 95, and atomic weight 243.</Description>
+<Description>Americium. A completely man-made radioactive actinide with atomic symbol Am, atomic number 95, and atomic weight 243. Its valence can range from +3 to +6. Because of its nonmagnetic ground state, it is an excellent superconductor. It is also used in bone mineral analysis and as a radiation source for radiotherapy.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

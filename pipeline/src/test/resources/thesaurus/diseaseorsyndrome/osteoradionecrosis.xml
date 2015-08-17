@@ -1,0 +1,33 @@
+<Record>
+<Term>Osteoradionecrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Radiation Injuries</ParentTerm>
+<ParentTerm>Radiation Toxicity</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Radiation Injuries/Osteoradionecrosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Injury/Toxicity/Radiation Toxicity/Osteoradionecrosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Bone Necrosis/Osteoradionecrosis</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Osteoradionecrosis,</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Radiation Injuries</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Injury</BroaderTerm>
+<BroaderTerm>Bone Necrosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Radiation Toxicity</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Toxicity</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Osteoradionecrosis</BroaderTerm>
+<Synonym>Osteoradionecroses</Synonym>
+<Synonym>Osteoradionecrosis</Synonym>
+<Description>Necrosis of bone following radiation injury.</Description>
+<Description>Necrosis of bone following exposure to a source of radiation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

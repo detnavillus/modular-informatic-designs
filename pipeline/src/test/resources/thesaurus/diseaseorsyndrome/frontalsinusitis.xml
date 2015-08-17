@@ -1,0 +1,30 @@
+<Record>
+<Term>Frontal Sinusitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sinusitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Frontal Sinusitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Frontal Sinusitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Sinusitis/Frontal Sinusitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Nasal Cavity and Paranasal Sinus Disorder/Paranasal Sinus Disorder/Non-Neoplastic Paranasal Sinus Disorder/Sinusitis/Frontal Sinusitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Diseases</BroaderTerm>
+<BroaderTerm>Sinusitis</BroaderTerm>
+<BroaderTerm>Frontal Sinusitis</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Paranasal Sinus Disorder</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Nasal Cavity and Paranasal Sinus Disorder</BroaderTerm>
+<ChildTerm>Chronic Frontal Sinusitis</ChildTerm>
+<Synonym>Frontal Sinusitis</Synonym>
+<Synonym>Frontal Sinusitides</Synonym>
+<Description>Inflammation of the NASAL MUCOSA in the FRONTAL SINUS. In many cases, it is caused by an infection of the bacteria STREPTOCOCCUS PNEUMONIAE or HAEMOPHILUS INFLUENZAE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

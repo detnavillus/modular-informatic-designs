@@ -1,0 +1,22 @@
+<Record>
+<Term>Peutz-Jeghers Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hamartomatous Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Peutz-Jeghers Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Hamartomatous Polyp/Peutz-Jeghers Polyp</ClassificationPath>
+<BroaderTerm>Peutz-Jeghers Polyp,</BroaderTerm>
+<BroaderTerm>Hamartomatous Polyp</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Peutz-Jeghers Polyp</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Peutz-Jeghers Polyp of the Stomach</ChildTerm>
+<ChildTerm>Peutz-Jeghers Colon Polyp</ChildTerm>
+<ChildTerm>Peutz-Jeghers Polyp of the Small Intestine</ChildTerm>
+<Synonym>Peutz Jeghers Polyp</Synonym>
+<Synonym>Peutz-Jeghers Polyp</Synonym>
+<Description>Peutz-Jeghers polyps occur within the stomach, small and large intestines, and rarely within esophagus, nasopharynx and the urinary tract.  The Peutz-Jeghers polyps are grossly lobulated and dark.  Microscopically, they have a central core of smooth muscle covered by mucosa.  The smooth muscle shows tree-like branching.  The question of whether or not the Peutz-Jeghers polyp is precancerous is a matter of controversy.  The loss of heterozygosity on chromosome 19p (where the responsible gene LKB1 is located) suggests that the increased risk of malignancy may be due to malignant transformation from hamartoma to adenocarcinoma. --2002</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

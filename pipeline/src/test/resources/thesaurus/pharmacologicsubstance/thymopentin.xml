@@ -1,0 +1,33 @@
+<Record>
+<Term>Thymopentin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Thymopoietins</ParentTerm>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/Thymopentin</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Thymus Hormones/Thymopoietins/Thymopentin</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Thymopoietins</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Thymopentin</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Thymus Hormones</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Sintomodulina</Synonym>
+<Synonym>N-[N-[N-(N{2}-L-Arginyl-L-lysyl)-L-alpha-aspartyl]-L-valyl]-L-tyrosine</Synonym>
+<Synonym>TP-5</Synonym>
+<Synonym>Thymopoietin Pentapeptide</Synonym>
+<Synonym>Thymopentin</Synonym>
+<Synonym>Immunox</Synonym>
+<Synonym>N-(N-(N-(N(2)-L-Arginyl-L-Lysyl)-L-alpha-Aspartyl)-L-Valyl)-L-Tyrosine</Synonym>
+<Synonym>Mepentil</Synonym>
+<Synonym>Timunox</Synonym>
+<Description>Synthetic pentapeptide corresponding to the amino acids 32-36 of thymopoietin and exhibiting the full biological activity of the natural hormone. It is an immunomodulator which has been studied for possible use in the treatment of rheumatoid arthritis, AIDS, and other primary immunodeficiencies.</Description>
+<Description>A synthetic pentapeptide which is the active site of the naturally occurring hormone thymopoietin with immunomodulating properties. Thymopentin enhances the production of thymic T cells and may help restore immunocompetence in immunosuppressed subjects. This agent also augments the effects of ionizing radiation by arresting cancer cells in the G2/M phase of the cell cycle. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

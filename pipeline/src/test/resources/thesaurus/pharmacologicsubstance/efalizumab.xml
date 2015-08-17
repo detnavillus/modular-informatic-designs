@@ -1,0 +1,18 @@
+<Record>
+<Term>Efalizumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Efalizumab</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Efalizumab</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Efalizumab</Synonym>
+<Synonym>Raptiva</Synonym>
+<Description>A humanized IgG1 monoclonal antibody directed against CD11a, the alpha subunit of human leukocyte-function-associated antigen type 1 (LFA-1), with immunosuppressant activity. Efalizumab binds to CD11a, which is expressed on all leukocytes, resulting in a reduction in the cell surface expression of CD11a. In addition, this agent inhibits the binding of LFA-1 to intercellular adhesion molecule-1 (ICAM-1), resulting in the inhibition of leukocyte adherence and the suppression of cell-mediated immunity. LFA-1 binding to ICAM-1 is involved in the activation of T lymphocytes, adhesion of T lymphocytes to endothelial cells, and migration of T lymphocytes to sites of inflammation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

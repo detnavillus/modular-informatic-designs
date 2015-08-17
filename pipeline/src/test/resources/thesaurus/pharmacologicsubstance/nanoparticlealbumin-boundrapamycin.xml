@@ -1,0 +1,17 @@
+<Record>
+<Term>Nanoparticle Albumin-Bound Rapamycin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>mTOR Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/mTOR Inhibitor/Nanoparticle Albumin-Bound Rapamycin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>mTOR Inhibitor</BroaderTerm>
+<BroaderTerm>Nanoparticle Albumin-Bound Rapamycin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>ABI-009</Synonym>
+<Synonym>Nanoparticle Albumin-Bound Rapamycin</Synonym>
+<Description>The macrolide antibiotic rapamycin bound to nanoparticle albumin with immunosuppressant and potential antiangiogenic and antineoplastic activities. Rapamycin (sirolimus) binds to the immunophilin FK Binding Protein-12 (FKBP-12) to generate a complex that binds to and inhibits the activation of the mammalian Target Of Rapamycin (mTOR), a key regulatory kinase. In turn, inhibition of mTOR may result in the inhibition of the phosphatidylinositol 3 (PI-3) kinase/Akt pathway and vascular endothelial cell growth factor (VEGF) secretion, which may result in decreased tumor cell proliferation and tumor angiogenesis. The binding of water-insoluble rapamycin to nanoparticle albumin permits the albumin-mediated endocytosis of rapamycin by tumor cells and endothelial cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

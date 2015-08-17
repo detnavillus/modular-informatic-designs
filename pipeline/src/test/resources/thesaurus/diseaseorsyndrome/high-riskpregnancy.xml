@@ -1,0 +1,17 @@
+<Record>
+<Term>High-Risk Pregnancy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy</ParentTerm>
+<ClassificationPath>Reproductive and Urinary Physiological Phenomena/Reproductive Physiological Phenomena/Reproductive Physiological Processes/Reproduction/Pregnancy/Pregnancy, High-Risk</ClassificationPath>
+<BroaderTerm>Reproductive Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Reproductive and Urinary Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Reproduction</BroaderTerm>
+<BroaderTerm>Pregnancy</BroaderTerm>
+<BroaderTerm>Pregnancy, High-Risk</BroaderTerm>
+<BroaderTerm>Reproductive Physiological Processes</BroaderTerm>
+<Synonym>High-Risk Pregnancy</Synonym>
+<Synonym>High Risk Pregnancy</Synonym>
+<Synonym>High-Risk Pregnancies</Synonym>
+<Description>Pregnancy in which the mother and/or FETUS are at greater than normal risk of MORBIDITY or MORTALITY. Causes include inadequate PRENATAL CARE, previous obstetrical history (ABORTION, SPONTANEOUS), pre-existing maternal disease, pregnancy-induced disease (GESTATIONAL HYPERTENSION), and MULTIPLE PREGNANCY, as well as advanced maternal age above 35.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Berubicin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anthracycline Antineoplastic Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Berubicin Hydrochloride</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Berubicin Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>BERUBICIN HYDROCHLORIDE</Synonym>
+<Synonym>Berubicin Hydrochloride</Synonym>
+<Synonym>RTA 744</Synonym>
+<Synonym>WP744</Synonym>
+<Description>The hydrochloride salt of the anthracycline derivative berubicin with potential antineoplastic activity. Berubicin intercalates into DNA and interrupts topoisomerase II activity, resulting in the inhibition of DNA replication and repair, and RNA and protein synthesis. Unlike other anthracycline derivatives, this agent crosses the blood-brain barrier (BBB).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

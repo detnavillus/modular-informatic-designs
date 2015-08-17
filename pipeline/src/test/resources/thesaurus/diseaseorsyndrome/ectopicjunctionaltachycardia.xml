@@ -1,0 +1,21 @@
+<Record>
+<Term>Ectopic Junctional Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tachycardia, Supraventricular</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Ectopic Junctional</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Ectopic Junctional</ClassificationPath>
+<BroaderTerm>Tachycardia, Ectopic Junctional</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Tachycardia, Supraventricular</BroaderTerm>
+<Synonym>Ectopic Junctional Tachycardia</Synonym>
+<Synonym>Junctional Ectopic Tachycardia</Synonym>
+<Synonym>Ectopic Junctional Tachycardias</Synonym>
+<Synonym>Junctional Ectopic Tachycardias</Synonym>
+<Description>A rare form of supraventricular tachycardia caused by automatic, not reentrant, conduction initiated from sites at the atrioventricular junction, but not the ATRIOVENTRICULAR NODE. It usually occurs during myocardial infarction, after heart surgery, or in digitalis intoxication with a HEART RATE ranging from 140 to 250 beats per minute.</Description>
+<Source>MeSH</Source>
+</Record>

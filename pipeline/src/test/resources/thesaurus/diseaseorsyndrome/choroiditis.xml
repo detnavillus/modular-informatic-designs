@@ -1,0 +1,22 @@
+<Record>
+<Term>Choroiditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Choroid Diseases</ParentTerm>
+<ParentTerm>Uveitis, Posterior</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Choroid Diseases/Choroiditis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Uveitis, Posterior/Choroiditis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Choroid Diseases</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Choroiditis</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Uveitis, Posterior</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Pars Planitis</ChildTerm>
+<ChildTerm>Chorioretinitis</ChildTerm>
+<Synonym>Choroiditis</Synonym>
+<Synonym>Choroiditides</Synonym>
+<Description>Inflammation of the choroid.</Description>
+<Source>MeSH</Source>
+</Record>

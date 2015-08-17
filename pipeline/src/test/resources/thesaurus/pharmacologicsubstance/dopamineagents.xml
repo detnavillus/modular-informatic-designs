@@ -1,0 +1,22 @@
+<Record>
+<Term>Dopamine Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Dopamine Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Dopamine Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Dopamine Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<ChildTerm>Dopamine Antagonists</ChildTerm>
+<ChildTerm>Dopamine Uptake Inhibitors</ChildTerm>
+<ChildTerm>Dopamine Agonists</ChildTerm>
+<Synonym>Dopamine Drugs</Synonym>
+<Synonym>Dopaminergic Drugs</Synonym>
+<Synonym>Dopamine Agents</Synonym>
+<Synonym>Dopaminergic Agents</Synonym>
+<Description>Any drugs that are used for their effects on dopamine receptors, on the life cycle of dopamine, or on the survival of dopaminergic neurons.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Diseases Infant, Premature</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Infant, Premature, Diseases</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Infant, Premature, Diseases</BroaderTerm>
+<ChildTerm>Bronchopulmonary Dysplasia</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome, Newborn</ChildTerm>
+<ChildTerm>Retinopathy of Prematurity</ChildTerm>
+<ChildTerm>Leukomalacia, Periventricular</ChildTerm>
+<Synonym>Infant, Premature, Diseases</Synonym>
+<Source>MeSH</Source>
+</Record>

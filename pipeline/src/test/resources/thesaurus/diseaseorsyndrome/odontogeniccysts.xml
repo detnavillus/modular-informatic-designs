@@ -1,0 +1,26 @@
+<Record>
+<Term>Odontogenic Cysts</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Jaw Cysts</ParentTerm>
+<ClassificationPath>Neoplasms/Cysts/Bone Cysts/Jaw Cysts/Odontogenic Cysts</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Jaw Cysts/Odontogenic Cysts</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Jaw Cysts/Odontogenic Cysts</ClassificationPath>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Bone Cysts</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Jaw Cysts</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Odontogenic Cysts</BroaderTerm>
+<ChildTerm>Basal Cell Nevus Syndrome</ChildTerm>
+<ChildTerm>Periodontal Cyst</ChildTerm>
+<ChildTerm>Odontogenic Cyst, Calcifying</ChildTerm>
+<ChildTerm>Dentigerous Cyst</ChildTerm>
+<Synonym>Odontogenic Cyst</Synonym>
+<Synonym>Keratocyst</Synonym>
+<Synonym>Keratocysts</Synonym>
+<Synonym>Odontogenic Cysts</Synonym>
+<Description>Cysts found in the jaws and arising from epithelium involved in tooth formation. They include follicular cysts (e.g., primordial cyst, dentigerous cyst, multilocular cyst), lateral periodontal cysts, and radicular cysts. They may become keratinized (odontogenic keratocysts). Follicular cysts may give rise to ameloblastomas and, in rare cases, undergo malignant transformation.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Pulmonary Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Lung Disorder</ParentTerm>
+<ParentTerm>Valvular Insufficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Valvular Insufficiency/Pulmonary Valvular Insufficiency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pulmonary Insufficiency</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Valvular Insufficiency</BroaderTerm>
+<BroaderTerm>Pulmonary Insufficiency</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Valvular Insufficiency</BroaderTerm>
+<Synonym>Insufficiency, pulmonary</Synonym>
+<Synonym>Pulmonary Insufficiency</Synonym>
+<Synonym>Pulmonary Valvular Insufficiency</Synonym>
+<Description>Dysfunction of the pulmonary valve, with incomplete valve closure resulting in valvular regurgitation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

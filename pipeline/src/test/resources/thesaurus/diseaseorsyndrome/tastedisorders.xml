@@ -1,0 +1,26 @@
+<Record>
+<Term>Taste Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sensation Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Taste Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Taste Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Taste Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<ChildTerm>Ageusia</ChildTerm>
+<ChildTerm>Dysgeusia</ChildTerm>
+<Synonym>Primary Taste Disorder</Synonym>
+<Synonym>Secondary Taste Disorders</Synonym>
+<Synonym>Taste Disorder</Synonym>
+<Synonym>Secondary Taste Disorder</Synonym>
+<Synonym>Taste Disorders</Synonym>
+<Synonym>Metallic Taste</Synonym>
+<Synonym>Metallic Tastes</Synonym>
+<Synonym>Primary Taste Disorders</Synonym>
+<Description>Conditions characterized by an alteration in gustatory function or perception. Taste disorders are frequently associated with OLFACTION DISORDERS. Additional potential etiologies include METABOLIC DISEASES; DRUG TOXICITY; and taste pathway disorders (e.g., TASTE BUD diseases; FACIAL NERVE DISEASES; GLOSSOPHARYNGEAL NERVE DISEASES; and BRAIN STEM diseases).</Description>
+<Source>MeSH</Source>
+</Record>

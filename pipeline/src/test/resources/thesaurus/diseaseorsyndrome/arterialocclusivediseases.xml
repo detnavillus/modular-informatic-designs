@@ -1,0 +1,25 @@
+<Record>
+<Term>Arterial Occlusive Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Arteriosclerosis</ChildTerm>
+<ChildTerm>Renal Artery Obstruction</ChildTerm>
+<ChildTerm>Thromboangiitis Obliterans</ChildTerm>
+<ChildTerm>Retinal Artery Occlusion</ChildTerm>
+<ChildTerm>Carotid Stenosis</ChildTerm>
+<ChildTerm>Malignant Atrophic Papulosis</ChildTerm>
+<ChildTerm>Fibromuscular Dysplasia</ChildTerm>
+<ChildTerm>Leriche Syndrome</ChildTerm>
+<ChildTerm>Mesenteric Vascular Occlusion</ChildTerm>
+<ChildTerm>Moyamoya Disease</ChildTerm>
+<Synonym>Arterial Occlusive Diseases</Synonym>
+<Synonym>Arterial Occlusive Disease</Synonym>
+<Synonym>Arterial Obstructive Diseases</Synonym>
+<Synonym>Arterial Obstructive Disease</Synonym>
+<Description>Pathological processes which result in the partial or complete obstruction of ARTERIES. They are characterized by greatly reduced or absence of blood flow through these vessels. They are also known as arterial insufficiency.</Description>
+<Source>MeSH</Source>
+</Record>

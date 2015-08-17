@@ -1,0 +1,16 @@
+<Record>
+<Term>Fibrin Modulating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Fibrin Modulating Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Fibrin Modulating Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Antifibrinolytic Agents</ChildTerm>
+<ChildTerm>Fibrinolytic Agents</ChildTerm>
+<Synonym>Fibrin Modulating Agents</Synonym>
+<Synonym>Fibrin Modulators</Synonym>
+<Description>Agents that affect the function of FIBRIN in BLOOD COAGULATION. They used as COAGULANTS for HEMORRHAGE or ANTICOAGULANTS for THROMBOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

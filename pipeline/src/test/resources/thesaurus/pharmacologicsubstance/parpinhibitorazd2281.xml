@@ -1,0 +1,17 @@
+<Record>
+<Term>PARP Inhibitor AZD2281</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Poly (ADP-Ribose) Polymerase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Poly (ADP-Ribose) Polymerase Inhibitor/PARP Inhibitor AZD2281</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Poly (ADP-Ribose) Polymerase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>PARP Inhibitor AZD2281</BroaderTerm>
+<Synonym>AZD2281</Synonym>
+<Synonym>KU-0059436</Synonym>
+<Synonym>PARP Inhibitor AZD2281</Synonym>
+<Description>A small molecule inhibitor of the nuclear enzyme poly(ADP-ribose) polymerase (PARP) with potential chemosensitizing, radiosensitizing, and antineoplastic activities. PARP inhibitor AZD2281 selectively binds to and inhibits PARP, inhibiting PARP-mediated repair of single strand DNA breaks; PARP inhibition may enhance the cytotoxicity of DNA-damaging agents and may reverse tumor cell chemoresistance and radioresistance. PARP catalyzes post-translational ADP-ribosylation of nuclear proteins and can be activated by single-stranded DNA breaks.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

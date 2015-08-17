@@ -1,0 +1,32 @@
+<Record>
+<Term>Basal Ganglia Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dystonia Musculorum Deformans</ChildTerm>
+<ChildTerm>Multiple System Atrophy</ChildTerm>
+<ChildTerm>Supranuclear Palsy, Progressive</ChildTerm>
+<ChildTerm>Basal Ganglia Cerebrovascular Disease</ChildTerm>
+<ChildTerm>Chorea Gravidarum</ChildTerm>
+<ChildTerm>Parkinsonian Disorders</ChildTerm>
+<ChildTerm>Tourette Syndrome</ChildTerm>
+<ChildTerm>Pantothenate Kinase-Associated Neurodegeneration</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<ChildTerm>Huntington Disease</ChildTerm>
+<ChildTerm>Meige Syndrome</ChildTerm>
+<ChildTerm>Neuroleptic Malignant Syndrome</ChildTerm>
+<Synonym>Basal Ganglia Diseases</Synonym>
+<Synonym>Basal Ganglia Disease</Synonym>
+<Synonym>Basal Ganglia Disorders</Synonym>
+<Synonym>Basal Ganglia Disorder</Synonym>
+<Synonym>Extrapyramidal Disorders</Synonym>
+<Synonym>Extrapyramidal Disorder</Synonym>
+<Synonym>Lenticulostriate Disorders</Synonym>
+<Synonym>Lenticulostriate Disorder</Synonym>
+<Description>Diseases of the BASAL GANGLIA including the PUTAMEN; GLOBUS PALLIDUS; claustrum; AMYGDALA; and CAUDATE NUCLEUS. DYSKINESIAS (most notably involuntary movements and alterations of the rate of movement) represent the primary clinical manifestations of these disorders. Common etiologies include CEREBROVASCULAR DISORDERS; NEURODEGENERATIVE DISEASES; and CRANIOCEREBRAL TRAUMA.</Description>
+<Source>MeSH</Source>
+</Record>

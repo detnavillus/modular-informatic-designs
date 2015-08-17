@@ -1,0 +1,25 @@
+<Record>
+<Term>Bacterial Prostatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Prostatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Bacterial Prostatitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Male Reproductive System Disorder/Prostate Disorder/Prostate Non-Neoplastic Disorder/Prostatic Infection/Prostatitis/Bacterial Prostatitis</ClassificationPath>
+<BroaderTerm>Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Prostate Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Prostatitis</BroaderTerm>
+<BroaderTerm>Prostate Disorder</BroaderTerm>
+<BroaderTerm>Prostatic Infection</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Prostatitis</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Prostatitis,</BroaderTerm>
+<Synonym>Bacterial Prostatitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

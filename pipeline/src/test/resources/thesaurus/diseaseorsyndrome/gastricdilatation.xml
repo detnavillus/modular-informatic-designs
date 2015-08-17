@@ -1,0 +1,16 @@
+<Record>
+<Term>Gastric Dilatation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastric Dilatation</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastric Dilatation</BroaderTerm>
+<Synonym>Gastric Dilatation</Synonym>
+<Synonym>Stomach Dilatation</Synonym>
+<Synonym>Stomach Dilation</Synonym>
+<Synonym>Gastric Dilation</Synonym>
+<Description>Abnormal distention of the STOMACH due to accumulation of gastric contents that may reach 10 to 15 liters. Gastric dilatation may be the result of GASTRIC OUTLET OBSTRUCTION; ILEUS; GASTROPARESIS; or denervation.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Vinorelbine Tartrate Emulsion</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vinca Alkaloid Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Vinca Alkaloid Compound/Vinorelbine Tartrate Emulsion,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Vinca-Domain Binding Agent/Vinorelbine Tartrate Emulsion</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Vinca Alkaloid Compound</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Vinorelbine Tartrate Emulsion</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Vinca-Domain Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Vinorelbine Tartrate Emulsion,</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ANX-530</Synonym>
+<Synonym>Vinorelbine Tartrate Emulsion</Synonym>
+<Synonym>Vinorelbine Tartrate Injectable Emulsion</Synonym>
+<Description>An emulsion containing the tartrate salt of the semisynthetic vinca alkaloid vinorelbine with antineoplastic activity. Vinorelbine binds to tubulin, inhibiting tubulin polymerization into microtubules; cell division is prevented, the cell cycle is arrested metaphase and cell death ensues. In this formulation vinorelbine is emulsified in a homogeneous suspension of nanoparticles, which protects the venous endothelium from coming into direct contact with the active ingredient, potentially reducing vinorelbine-associated venous toxicity at the venous injection site.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

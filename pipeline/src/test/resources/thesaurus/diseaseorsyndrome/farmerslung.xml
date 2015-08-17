@@ -1,0 +1,39 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alveolitis, Extrinsic Allergic</ParentTerm>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Farmer's Lung</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Alveolitis, Extrinsic Allergic/Farmer's Lung</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic/Farmer's Lung</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Alveolitis, Extrinsic Allergic/Farmer's Lung</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Alveolitis, Extrinsic Allergic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Farmer's Lung</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Farmer Lung</Synonym>
+<Synonym>Mushroom Workers Lung</Synonym>
+<Synonym>Mushroom Worker's Lungs</Synonym>
+<Synonym>Farmers Lung</Synonym>
+<Synonym>Mushroom Worker Lung</Synonym>
+<Synonym>Farmer's Lung</Synonym>
+<Synonym>Mushroom Worker's Lung</Synonym>
+<Synonym>Farmer's Lungs</Synonym>
+<Description>A form of alveolitis or pneumonitis due to an acquired hypersensitivity to inhaled antigens associated with farm environment. Antigens in the farm dust are commonly from bacteria actinomycetes (SACCHAROPOLYSPORA and THERMOACTINOMYCES), fungi, and animal proteins in the soil, straw, crops, pelts, serum, and excreta.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

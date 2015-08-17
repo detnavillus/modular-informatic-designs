@@ -1,0 +1,28 @@
+<Record>
+<Term>Tropical Sprue</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ParentTerm>Malabsorption Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Malabsorption Syndrome/Tropical Sprue</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Sprue, Tropical</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Sprue, Tropical</ClassificationPath>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sprue, Tropical</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Malabsorption Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Tropical Sprue</BroaderTerm>
+<Synonym>Post-Infective Tropical Malabsorption</Synonym>
+<Synonym>Idiopathic Tropical Malabsorption Syndrome</Synonym>
+<Synonym>Tropical Sprue</Synonym>
+<Description>A chronic malabsorption syndrome, occurring mainly in residents of or visitors to the tropics or subtropics. The failed INTESTINAL ABSORPTION of nutrients from the SMALL INTESTINE results in MALNUTRITION and ANEMIA that is due to FOLIC ACID deficiency.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

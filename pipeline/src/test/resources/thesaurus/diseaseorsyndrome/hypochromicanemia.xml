@@ -1,0 +1,26 @@
+<Record>
+<Term>Hypochromic Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Hypochromic Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hypochromic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hypochromic Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Hypochromic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Anemia, Iron-Deficiency</ChildTerm>
+<Synonym>Hypochromic Anemias</Synonym>
+<Synonym>Chloroses</Synonym>
+<Synonym>Chlorosis</Synonym>
+<Synonym>Hypochromic Anemia</Synonym>
+<Description>Anemia characterized by a decrease in the ratio of the weight of hemoglobin to the volume of the erythrocyte, i.e., the mean corpuscular hemoglobin concentration is less than normal. The individual cells contain less hemoglobin than they could have under optimal conditions. Hypochromic anemia may be caused by iron deficiency from a low iron intake, diminished iron absorption, or excessive iron loss. It can also be caused by infections or other diseases, therapeutic drugs, lead poisoning, and other conditions. (Stedman, 25th ed; from Miale, Laboratory Medicine: Hematology, 6th ed, p393)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

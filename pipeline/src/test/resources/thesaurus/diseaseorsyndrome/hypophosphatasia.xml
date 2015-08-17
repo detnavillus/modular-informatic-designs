@@ -1,0 +1,28 @@
+<Record>
+<Term>Hypophosphatasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypophosphatasia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hypophosphatasia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hypophosphatasia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Hypophosphatasia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>Hypophosphatasia</Synonym>
+<Synonym>Hypophosphatasias</Synonym>
+<Description>A genetic metabolic disorder resulting from serum and bone alkaline phosphatase deficiency leading to hypercalcemia, ethanolamine phosphatemia, and ethanolamine phosphaturia. Clinical manifestations include severe skeletal defects resembling vitamin D-resistant rickets, failure of the calvarium to calcify, dyspnea, cyanosis, vomiting, constipation, renal calcinosis, failure to thrive, disorders of movement, beading of the costochondral junction, and rachitic bone changes. (From Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

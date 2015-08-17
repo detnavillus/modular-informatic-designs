@@ -1,0 +1,15 @@
+<Record>
+<Term>IPI-609</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Signal Transduction Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Signal Transduction Inhibitor/IPI-609</ClassificationPath>
+<BroaderTerm>Signal Transduction Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>IPI-609</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>IPI-609</Synonym>
+<Description>A novel proprietary small molecule, and a selective inhibitor of sonic hedgehog signaling pathway, with potential anti-tumor activity. The hedgehog signaling pathway is normally active during neuronal development in embryos and quiescent in adult cells. However, aberrant activation of the hedgehog pathway in adults has been implicated in many cancers, including cancers of the pancreas, prostate, lung (small cell), and brain (glioma). IPI-609 exerts its effect through inhibiting the hedgehog signaling pathway and thereby alters gene expressions of the cancer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

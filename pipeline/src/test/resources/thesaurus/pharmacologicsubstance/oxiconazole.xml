@@ -1,0 +1,26 @@
+<Record>
+<Term>Oxiconazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antifungal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Oxiconazole Nitrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Oxiconazole</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antifungal Agent</BroaderTerm>
+<BroaderTerm>Oxiconazole Nitrate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oxiconazole</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Oxiconazole Nitrate</Synonym>
+<Synonym>OXICONAZOLE</Synonym>
+<Synonym>Oxiconazole</Synonym>
+<Synonym>Oxiconazole nitrate</Synonym>
+<Synonym>Ethanone, 1-(2,4-dichlorophenyl)-2-(1H-imidazol-1-yl)-, O-((2,4-dichlorophenyl)methyl)oxime,(Z)-, Mononitrate</Synonym>
+<Synonym>Oxistat</Synonym>
+<Synonym>OXICONAZOLE NITRATE</Synonym>
+<Synonym>(Z)-1-(2-(2,4-Dichlorophenyl)-2-(((2,4-dichlorophenyl)oxy)imino)ethyl)-1H-imidazole Mononitrate</Synonym>
+<Description>The nitrate salt form of oxiconazole, a synthetic imidazole derivative with an antifungal activity. Oxiconazole nitrate inhibits cytochrome P-450 dependent C-14 alpha demethylation of fungal sterols, which results in accumulation of 14 alpha-methyl sterols, inhibition of ergosterol synthesis, disruption of cell membrane permeability, and ultimately inhibition of cell wall synthesis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

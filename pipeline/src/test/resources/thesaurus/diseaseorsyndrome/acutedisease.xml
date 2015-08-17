@@ -1,0 +1,14 @@
+<Record>
+<Term>Acute Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Acute Disease</ClassificationPath>
+<BroaderTerm>Acute Disease</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<Synonym>Acute Disease</Synonym>
+<Synonym>Acute Diseases</Synonym>
+<Description>Disease having a short and relatively severe course.</Description>
+<Source>MeSH</Source>
+</Record>

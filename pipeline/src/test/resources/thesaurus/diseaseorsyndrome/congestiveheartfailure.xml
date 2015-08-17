@@ -1,0 +1,22 @@
+<Record>
+<Term>Congestive Heart Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Congestive Heart Failure</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Congestive Heart Failure</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cardiac Failure Congestive</Synonym>
+<Synonym>Congestive Heart Failure</Synonym>
+<Synonym>Failure, congestive heart</Synonym>
+<Synonym>Heart failure, congestive</Synonym>
+<Synonym>congestive heart failure</Synonym>
+<Description>1. inadequacy of the heart so that as a pump it fails to maintain the circulation of blood, with the result that congestion and edema develop in the tissues; SEE ALSO forward heart failure, backward heart failure, right ventricular failure, left ventricular failure. SYN cardiac failure, cardiac insufficiency, congestive heart failure, myocardial insufficiency. 2. resulting clinical syndromes including shortness of breath, pitting edema, enlarged tender liver, engorged neck veins, and pulmonary rales in various combinations.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

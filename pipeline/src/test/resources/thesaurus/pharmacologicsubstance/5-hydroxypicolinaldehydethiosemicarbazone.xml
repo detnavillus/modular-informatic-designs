@@ -1,0 +1,21 @@
+<Record>
+<Term>5-Hydroxypicolinaldehyde Thiosemicarbazone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Ribonucleotide Reductase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Pyrimidine Antagonist/5-Hydroxypicolinaldehyde Thiosemicarbazone,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Ribonucleotide Reductase Inhibitor/5-Hydroxypicolinaldehyde Thiosemicarbazone</ClassificationPath>
+<BroaderTerm>5-Hydroxypicolinaldehyde Thiosemicarbazone</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pyrimidine Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ribonucleotide Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>5-Hydroxypicolinaldehyde Thiosemicarbazone,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>5-HP</Synonym>
+<Synonym>5-Hydroxypicolinaldehyde Thiosemicarbazone</Synonym>
+<Description>A thiosemicarbazone antimetabolite. A derivative of 5-hydroxypicolinaldehyde, 5-HP inhibits DNA polymerase, resulting in the inhibition of DNA replication and cell death. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

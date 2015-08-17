@@ -1,0 +1,27 @@
+<Record>
+<Term>Epothilone B Analogue</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane-Pocket Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lactone Compound/Macrolide/Epothilone Compound/Epothilone B Analogue,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Epothilone B Analogue</ClassificationPath>
+<BroaderTerm>Macrolide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Epothilone B Analogue</BroaderTerm>
+<BroaderTerm>Epothilone Compound</BroaderTerm>
+<BroaderTerm>Epothilone B Analogue,</BroaderTerm>
+<BroaderTerm>Lactone Compound</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Ixabepilone</ChildTerm>
+<ChildTerm>Oral Ixabepilone</ChildTerm>
+<Synonym>Epothilone B Analog</Synonym>
+<Synonym>Epothilone B Analogue</Synonym>
+<Description>Analogues of epothilone B exhibiting antineoplastic activity.  Epothilone B analogues bind to tubulin and promote tubulin polymerization and microtubule stabilization, thereby inhibiting mitosis. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

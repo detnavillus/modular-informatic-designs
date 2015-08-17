@@ -1,0 +1,30 @@
+<Record>
+<Term>Hemostatic Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemostatic Disorders</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hemostatic Disorders</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hemostatic Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Telangiectasia, Hereditary Hemorrhagic</ChildTerm>
+<ChildTerm>Scurvy</ChildTerm>
+<ChildTerm>Pseudoxanthoma Elasticum</ChildTerm>
+<ChildTerm>Shwartzman Phenomenon</ChildTerm>
+<ChildTerm>Waldenstrom Macroglobulinemia</ChildTerm>
+<ChildTerm>Purpura, Hyperglobulinemic</ChildTerm>
+<ChildTerm>Ehlers-Danlos Syndrome</ChildTerm>
+<ChildTerm>Cryoglobulinemia</ChildTerm>
+<ChildTerm>Purpura, Schoenlein-Henoch</ChildTerm>
+<ChildTerm>Hemangioma, Cavernous</ChildTerm>
+<ChildTerm>Multiple Myeloma</ChildTerm>
+<Synonym>Hemostatic Disorder</Synonym>
+<Synonym>Vascular Hemostatic Disorders</Synonym>
+<Synonym>Hemostatic Disorders</Synonym>
+<Description>Pathological processes involving the integrity of blood circulation. Hemostasis depends on the integrity of BLOOD VESSELS, blood fluidity, and BLOOD COAGULATION. Majority of the hemostatic disorders are caused by disruption of the normal interaction between the VASCULAR ENDOTHELIUM, the plasma proteins (including BLOOD COAGULATION FACTORS), and PLATELETS.</Description>
+<Source>MeSH</Source>
+</Record>

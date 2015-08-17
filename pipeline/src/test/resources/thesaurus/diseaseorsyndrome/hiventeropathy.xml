@@ -1,0 +1,37 @@
+<Record>
+<Term>HIV Enteropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/HIV Enteropathy</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/HIV Enteropathy</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/HIV Enteropathy</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/HIV Enteropathy</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>HIV Enteropathy</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Idiopathic AIDS Enteropathy</Synonym>
+<Synonym>HIV-Associated Enteropathy</Synonym>
+<Synonym>AIDS Enteropathies</Synonym>
+<Synonym>AIDS Enteropathy</Synonym>
+<Synonym>HIV Associated Enteropathy</Synonym>
+<Synonym>AIDS-Associated Enteropathy</Synonym>
+<Synonym>HIV-Associated Enteropathies</Synonym>
+<Synonym>AIDS Associated Enteropathy</Synonym>
+<Synonym>HIV Enteropathies</Synonym>
+<Synonym>AIDS-Associated Enteropathies</Synonym>
+<Synonym>Idiopathic AIDS Enteropathies</Synonym>
+<Synonym>HIV Enteropathy</Synonym>
+<Description>A syndrome characterized by chronic, well-established DIARRHEA (greater than one month in duration) without an identified infectious cause after thorough evaluation, in an HIV-positive individual. It is thought to be due to direct or indirect effects of HIV on the enteric mucosa. HIV enteropathy is a diagnosis of exclusion and can be made only after other forms of diarrheal illness have been ruled out. (Harrison's Principles of Internal Medicine, 13th ed, pp1607-8; Haubrich et al., Bockus Gastroenterology, 5th ed, p1155)</Description>
+<Source>MeSH</Source>
+</Record>

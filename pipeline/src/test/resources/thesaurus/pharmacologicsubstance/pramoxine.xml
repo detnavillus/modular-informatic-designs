@@ -1,0 +1,23 @@
+<Record>
+<Term>Pramoxine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Pramoxine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Pramoxine Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Pramoxine Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Pramoxine</BroaderTerm>
+<Synonym>4-(3-(p-Butoxyphenoxy)propyl)morpholine Hydrochloride</Synonym>
+<Synonym>Fleet</Synonym>
+<Synonym>PRAMOXINE</Synonym>
+<Synonym>Tronolane</Synonym>
+<Synonym>PRAMOXINE HYDROCHLORIDE</Synonym>
+<Synonym>Pramoxine Hydrochloride</Synonym>
+<Synonym>Tronothane</Synonym>
+<Synonym>Pramoxine</Synonym>
+<Description>The hydrochloride salt form of pramoxine, a morpholine derivative with local anesthetic property. Pramoxine hydrochloride decreases the permeability of the neuronal membrane to sodium ions by reversibly binding to and inhibiting voltage-gated sodium channels. This results in stabilization of the membrane and , thereby inhibiting the ionic fluxes required for membrane depolarization, hence resulting in the failure to initiate a propagated action potential and subsequent conduction blockade.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

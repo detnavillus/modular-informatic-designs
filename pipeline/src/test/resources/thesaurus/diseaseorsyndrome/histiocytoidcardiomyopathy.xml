@@ -1,0 +1,26 @@
+<Record>
+<Term>Histiocytoid Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Histiocytoid Cardiomyopathy</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Histiocytoid Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Arachnocytosis of the Myocardium</Synonym>
+<Synonym>Congenital Cardiomyopathy</Synonym>
+<Synonym>Histiocytoid Cardiomyopathy</Synonym>
+<Synonym>Infantile Xanthomatous Cardiomyopathy</Synonym>
+<Synonym>Isolated Cardiac Lipidosis</Synonym>
+<Synonym>Myocardial Hamartoma</Synonym>
+<Synonym>Oncocytic Cardiomyopathy</Synonym>
+<Synonym>Purkinje Cell Hamartoma</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,36 @@
+<Record>
+<Term>Myoclonic Epilepsies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Epilepsies, Myoclonic</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Epilepsies, Myoclonic</BroaderTerm>
+<ChildTerm>Myoclonic Epilepsies, Progressive</ChildTerm>
+<ChildTerm>Myoclonic Epilepsy, Juvenile</ChildTerm>
+<Synonym>Myoclonic Epilepsies</Synonym>
+<Synonym>Myoclonic Epilepsy</Synonym>
+<Synonym>Myoclonic Seizure Disorder</Synonym>
+<Synonym>Myoclonic Seizure Disorders</Synonym>
+<Synonym>Myoclonus Epilepsies</Synonym>
+<Synonym>Myoclonus Epilepsy</Synonym>
+<Synonym>Symptomatic Myoclonic Epilepsy</Synonym>
+<Synonym>Symptomatic Myoclonic Epilepsies</Synonym>
+<Synonym>Benign Infantile Myoclonic Epilepsy</Synonym>
+<Synonym>Myoclonic Astatic Epilepsy</Synonym>
+<Synonym>Myoclonic Astatic Epilepsies</Synonym>
+<Synonym>Severe Infantile Myoclonic Epilepsy</Synonym>
+<Synonym>Infantile Severe Myoclonic Epilepsy</Synonym>
+<Synonym>Idiopathic Myoclonic Epilepsy</Synonym>
+<Synonym>Idiopathic Myoclonic Epilepsies</Synonym>
+<Synonym>Cryptogenic Myoclonic Epilepsy</Synonym>
+<Synonym>Cryptogenic Myoclonic Epilepsies</Synonym>
+<Synonym>Myoclonic Absence Epilepsy</Synonym>
+<Synonym>Myoclonic Absence Epilepsies</Synonym>
+<Synonym>Myoclonic Encephalopathy</Synonym>
+<Synonym>Myoclonic Encephalopathies</Synonym>
+<Description>A clinically diverse group of epilepsy syndromes characterized either by myoclonic seizures or by myoclonus in association with other seizure types. Myoclonic epilepsy syndromes are divided into three subtypes based on etiology: familial, cryptogenic, and symptomatic (i.e., occurring secondary to known disease processes such as infections, hypoxic-ischemic injuries, trauma, etc.).</Description>
+<Source>MeSH</Source>
+</Record>

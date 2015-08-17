@@ -1,0 +1,19 @@
+<Record>
+<Term>Leg Length Inequality</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Pathological Conditions, Anatomical</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Leg Length Inequality</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Leg Length Inequality</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Leg Length Inequality</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Leg Length Inequalities</Synonym>
+<Synonym>Leg Length Inequality</Synonym>
+<Description>A condition in which one of a pair of legs fails to grow as long as the other, which could result from injury or surgery.</Description>
+<Source>MeSH</Source>
+</Record>

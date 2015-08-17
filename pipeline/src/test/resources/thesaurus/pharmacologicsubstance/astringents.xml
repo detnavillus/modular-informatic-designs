@@ -1,0 +1,17 @@
+<Record>
+<Term>Astringents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dermatologic Agents</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Dermatologic Agents/Astringents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Astringents</ClassificationPath>
+<BroaderTerm>Astringents</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Dermatologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Astringents</Synonym>
+<Description>Agents, usually topical, that cause the contraction of tissues for the control of bleeding or secretions.</Description>
+<Source>MeSH</Source>
+</Record>

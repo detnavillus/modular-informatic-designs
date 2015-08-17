@@ -1,0 +1,31 @@
+<Record>
+<Term>Piperazine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antihelminthic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antihelminthic Agent/Piperazine Citrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antihelminthic Agent/Piperazine</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antihelminthic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Piperazine</BroaderTerm>
+<BroaderTerm>Piperazine Citrate</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PIPERAZINE CITRATE</Synonym>
+<Synonym>Pripsen</Synonym>
+<Synonym>Piperazine citrate</Synonym>
+<Synonym>Antepar</Synonym>
+<Synonym>PIPERAZINE</Synonym>
+<Synonym>Bryrel</Synonym>
+<Synonym>Piperazine, 2-hydroxy-1,2,3-propanetricarboxylate(3:2)</Synonym>
+<Synonym>Multifuge</Synonym>
+<Synonym>Piperazine</Synonym>
+<Synonym>Piperazine Citrate</Synonym>
+<Synonym>Pipralen</Synonym>
+<Synonym>Vermidol</Synonym>
+<Description>The citrate salt of piperazine, a cyclic amine with anthelminthic property. Piperazine citrate is a gamma-aminobutyric acid GABA receptor agonist and blocks the activity of acetylcholine at the neuromuscular junction thereby altering neuronal cell membrane permeability and causing hyperpolarization. This results in flaccid paralysis of worm musculature allowing the worm to become dislodged by peristalsis and expelled from the body.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

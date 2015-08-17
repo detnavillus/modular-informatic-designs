@@ -1,0 +1,14 @@
+<Record>
+<Term>Tooth Erosion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tooth Wear</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Wear/Tooth Erosion</ClassificationPath>
+<BroaderTerm>Tooth Wear</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Tooth Erosion</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Tooth Erosion</Synonym>
+<Synonym>Tooth Erosions</Synonym>
+<Description>Progressive loss of the hard substance of a tooth by chemical processes that do not involve bacterial action. (Jablonski, Dictionary of Dentistry, 1992, p296)</Description>
+<Source>MeSH</Source>
+</Record>

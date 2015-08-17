@@ -1,0 +1,27 @@
+<Record>
+<Term>Breast Fibrocystic Change, Proliferative Type</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Fibrocystic Change</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Breast Fibrocystic Change/Breast Fibrocystic Change, Proliferative Type</ClassificationPath>
+<BroaderTerm>Breast Fibrocystic Change</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Breast Fibrocystic Change, Proliferative Type</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Proliferating Breast Lesion without Atypia</ChildTerm>
+<ChildTerm>Breast Sclerosing Adenosis</ChildTerm>
+<ChildTerm>Fibrocystic Disease, Proliferative Type with Atypia</ChildTerm>
+<ChildTerm>Radial Scar</ChildTerm>
+<Synonym>Benign Proliferative Breast Disease</Synonym>
+<Synonym>Breast Fibrocystic Change, Proliferative Type</Synonym>
+<Synonym>Proliferative Breast Disease</Synonym>
+<Synonym>Proliferative Breast Lesion</Synonym>
+<Synonym>Proliferative Fibrocystic Change</Synonym>
+<Synonym>Proliferative Type Fibrocystic Change of Breast</Synonym>
+<Synonym>Proliferative Type Fibrocystic Change of the Breast</Synonym>
+<Synonym>benign proliferative breast disease</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

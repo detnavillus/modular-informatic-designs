@@ -1,0 +1,37 @@
+<Record>
+<Term>Communication Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Communication Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Learning Disorders</ChildTerm>
+<ChildTerm>Language Disorders</ChildTerm>
+<Synonym>Developmental Communication Disorder</Synonym>
+<Synonym>Neurogenic Communication Disorder</Synonym>
+<Synonym>Communicative Disorder</Synonym>
+<Synonym>Communicative Dysfunctions</Synonym>
+<Synonym>Developmental Communication Disorders</Synonym>
+<Synonym>Childhood Communication Disorders</Synonym>
+<Synonym>Communicative Dysfunction</Synonym>
+<Synonym>Neurogenic Communication Disorders</Synonym>
+<Synonym>Childhood Communication Disorder</Synonym>
+<Synonym>Communication Disabilities</Synonym>
+<Synonym>Communication Disability</Synonym>
+<Synonym>Acquired Communication Disorder</Synonym>
+<Synonym>Communication Disorder</Synonym>
+<Synonym>Communication Disorders</Synonym>
+<Synonym>Acquired Communication Disorders</Synonym>
+<Synonym>Communicative Disorders</Synonym>
+<Description>Disorders of verbal and nonverbal communication caused by receptive or expressive LANGUAGE DISORDERS, cognitive dysfunction (e.g., MENTAL RETARDATION), psychiatric conditions, and HEARING DISORDERS.</Description>
+<Source>MeSH</Source>
+</Record>

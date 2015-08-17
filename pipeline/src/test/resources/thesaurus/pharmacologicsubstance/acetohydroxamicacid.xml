@@ -1,0 +1,24 @@
+<Record>
+<Term>Acetohydroxamic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Chelating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chelating Agent/Acetohydroxamic Acid</ClassificationPath>
+<BroaderTerm>Chelating Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Acetohydroxamic Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Acetohydroxamic acid</Synonym>
+<Synonym>ACETOHYDROXAMIC ACID</Synonym>
+<Synonym>N-Hydroxy-acetamide</Synonym>
+<Synonym>Acetohydroximic Acid</Synonym>
+<Synonym>Lithostat</Synonym>
+<Synonym>Acetohydroxamic Acid</Synonym>
+<Synonym>N-Acetyl Hydroxyacetamide</Synonym>
+<Synonym>2-Hydroxyamino-2-ethanal</Synonym>
+<Description>A urea analogue with bacterial urease inhibiting activity. Acetohydroxamic acid is used as adjunctive therapy in the treatment of urinary tract infections caused by urease-producing bacteria. In addition, this drug is used in the prophylaxis and treatment of struvite renal calculi, whose formation is favored by urease-producing bacteria, by dissolving renal stones as well as preventing the formation of new crystals. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

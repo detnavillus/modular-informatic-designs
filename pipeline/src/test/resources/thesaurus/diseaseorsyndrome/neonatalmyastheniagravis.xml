@@ -1,0 +1,22 @@
+<Record>
+<Term>Neonatal Myasthenia Gravis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myasthenia Gravis</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Myasthenia Gravis/Myasthenia Gravis, Neonatal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Myasthenia Gravis/Myasthenia Gravis, Neonatal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Neuromuscular Junction Diseases/Myasthenia Gravis/Myasthenia Gravis, Neonatal</ClassificationPath>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Myasthenia Gravis, Neonatal</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Myasthenia Gravis</BroaderTerm>
+<BroaderTerm>Neuromuscular Junction Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Persistent Neonatal Myasthenia Gravis</Synonym>
+<Synonym>Antenatal Myasthenia Gravis</Synonym>
+<Synonym>Neonatal Myasthenia Gravis</Synonym>
+<Synonym>Transient Neonatal Myasthenia Gravis</Synonym>
+<Description>A disorder of neuromuscular transmission that occurs in a minority of newborns born to women with myasthenia gravis. Clinical features are usually present at birth or develop in the first 3 days of life and consist of hypotonia and impaired respiratory, suck, and swallowing abilities. This condition is associated with the passive transfer of acetylcholine receptor antibodies through the placenta. In the majority of infants the myasthenic weakness resolves (i.e., transient neonatal myasthenia gravis) although this disorder may rarely continue beyond the neonatal period (i.e., persistent neonatal myasthenia gravis). (From Menkes, Textbook of Child Neurology, 5th ed, p823; Neurology 1997 Jan;48(1):50-4)</Description>
+<Source>MeSH</Source>
+</Record>

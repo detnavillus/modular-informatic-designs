@@ -1,0 +1,21 @@
+<Record>
+<Term>Perennial Rhinitis, Allergic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Hypersensitivity</ParentTerm>
+<ParentTerm>Rhinitis</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Rhinitis, Allergic, Perennial</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Rhinitis, Allergic, Perennial</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Rhinitis/Rhinitis, Allergic, Perennial</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Rhinitis/Rhinitis, Allergic, Perennial</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Rhinitis, Allergic, Perennial</BroaderTerm>
+<BroaderTerm>Rhinitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Description>Inflammation of the mucous membrane of the nose similar to that found in hay fever except that symptoms persist throughout the year. The causes are usually air-borne allergens, particularly dusts, feathers, molds, animal fur, etc.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Haemophilus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pasteurellaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Haemophilus Infections</ClassificationPath>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Haemophilus Infections</BroaderTerm>
+<ChildTerm>Chancroid</ChildTerm>
+<ChildTerm>Meningitis, Haemophilus</ChildTerm>
+<Synonym>Haemophilus Infections</Synonym>
+<Synonym>Hemophilus Infections</Synonym>
+<Synonym>Hemophilus Infection</Synonym>
+<Synonym>Haemophilus Infection</Synonym>
+<Description>Infections with bacteria of the genus HAEMOPHILUS.</Description>
+<Source>MeSH</Source>
+</Record>

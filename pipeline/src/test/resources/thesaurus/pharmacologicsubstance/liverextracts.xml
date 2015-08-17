@@ -1,0 +1,14 @@
+<Record>
+<Term>Liver Extracts</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Tissue Extracts</ParentTerm>
+<ClassificationPath>Complex Mixtures/Tissue Extracts/Liver Extracts</ClassificationPath>
+<BroaderTerm>Tissue Extracts</BroaderTerm>
+<BroaderTerm>Liver Extracts</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Liver Extracts</Synonym>
+<Synonym>Perhepar</Synonym>
+<Description>Extracts of liver tissue containing uncharacterized specific factors with specific activities; a soluble thermostable fraction of mammalian liver is used in the treatment of pernicious anemia.</Description>
+<Source>MeSH</Source>
+</Record>

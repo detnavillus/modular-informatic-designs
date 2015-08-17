@@ -1,0 +1,25 @@
+<Record>
+<Term>Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myocardial Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Restrictive Cardiomyopathy</ChildTerm>
+<ChildTerm>Histiocytoid Cardiomyopathy</ChildTerm>
+<ChildTerm>Cardiomyopathy in Chagas' Disease</ChildTerm>
+<ChildTerm>Idiopathic Cardiomyopathy</ChildTerm>
+<ChildTerm>Alcoholic Cardiomyopathy</ChildTerm>
+<ChildTerm>Hypertrophic Cardiomyopathy</ChildTerm>
+<Synonym>Cardiomyopathy</Synonym>
+<Description>A disease of the heart muscle or myocardium proper. Cardiomyopathies may be classified as either primary or secondary, on the basis of etiology, or on the pathophysiology of the lesion: hypertrophic, dilated, or restrictive.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

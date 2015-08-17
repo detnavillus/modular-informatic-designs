@@ -1,0 +1,15 @@
+<Record>
+<Term>Flavonoid Tablet</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antioxidant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/Flavonoid Tablet</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Flavonoid Tablet</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Flavonoid Tablet</Synonym>
+<Description>A tablet formulation of flavonoids with antioxidant and potential chemopreventive activities. Polyphenolic, soluble plant pigment flavonoids inactivate oxygen radicals, prevent lipid peroxidation, and inhibit DNA oxidation. In vitro, these agents have been shown to increase the rate of apoptosis, and inhibit cell proliferation and angiogenesis. Furthermore, flavonoids can induce conjugating enzymes, such as glutathione transferases and glucuronosyltransferases.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

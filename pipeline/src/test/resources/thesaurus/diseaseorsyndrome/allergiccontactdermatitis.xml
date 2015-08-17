@@ -1,0 +1,38 @@
+<Record>
+<Term>Allergic Contact Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Contact Dermatitis</ParentTerm>
+<ParentTerm>Dermatitis, Contact</ParentTerm>
+<ParentTerm>Hypersensitivity, Delayed</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Allergic Contact</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Delayed/Dermatitis, Allergic Contact</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Contact Dermatitis/Allergic Contact Dermatitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Allergic Contact</ClassificationPath>
+<BroaderTerm>Allergic Contact Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Delayed</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Dermatitis, Allergic Contact</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Contact Dermatitis</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<ChildTerm>Dermatitis, Toxicodendron</ChildTerm>
+<ChildTerm>Dermatitis, Photoallergic</ChildTerm>
+<Synonym>Allergic Contact Dermatitis</Synonym>
+<Synonym>Allergic Eczematous Dermatitides</Synonym>
+<Synonym>Allergic Contact Dermatitides</Synonym>
+<Synonym>Allergic Eczematous Dermatitis</Synonym>
+<Description>A contact dermatitis due to allergic sensitization to various substances. These substances subsequently produce inflammatory reactions in the skin of those who have acquired hypersensitivity to them as a result of prior exposure.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Encephalomalacia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Encephalomalacia</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Encephalomalacia</BroaderTerm>
+<ChildTerm>Leukomalacia, Periventricular</ChildTerm>
+<Synonym>Encephalomalacia</Synonym>
+<Synonym>Encephalomalacias</Synonym>
+<Synonym>Cerebromalacia</Synonym>
+<Synonym>Cerebromalacias</Synonym>
+<Synonym>Multicystic Encephalomalacia</Synonym>
+<Synonym>Multicystic Encephalomalacias</Synonym>
+<Description>Softening or loss of brain tissue following CEREBRAL INFARCTION; cerebral ischemia (see BRAIN ISCHEMIA), infection, CRANIOCEREBRAL TRAUMA, or other injury. The term is often used during gross pathologic inspection to describe blurred cortical margins and decreased consistency of brain tissue following infarction. Multicystic encephalomalacia refers to the formation of multiple cystic cavities of various sizes in the cerebral cortex of neonates and infants following injury, most notably perinatal hypoxia-ischemic events. (From Davis et al., Textbook of Neuropathology, 2nd ed, p665; J Neuropathol Exp Neurol, 1995 Mar;54(2):268-75)</Description>
+<Source>MeSH</Source>
+</Record>

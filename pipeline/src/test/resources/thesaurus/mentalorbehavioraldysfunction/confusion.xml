@@ -1,0 +1,51 @@
+<Record>
+<Term>Confusion</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Confusion</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Confusion</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Confusion Adverse Event</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Confusion</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Confusion</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Confusion Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Confusion</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 2 Confusion</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Confusion</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Confusion</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Confusion</ChildTerm>
+<ChildTerm>Delirium</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Confusion</ChildTerm>
+<Synonym>Confusion</Synonym>
+<Synonym>Bewilderment</Synonym>
+<Synonym>Confusion/Disorientation</Synonym>
+<Synonym>Confusional States</Synonym>
+<Synonym>Confusional State</Synonym>
+<Synonym>Post-Ictal Confusion</Synonym>
+<Synonym>Confusion Adverse Event</Synonym>
+<Synonym>Reactive Confusion</Synonym>
+<Synonym>Disorientation</Synonym>
+<Synonym>Disorientation/confusion</Synonym>
+<Description>A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation.</Description>
+<Description>A mental state characterized by a lack of clear and orderly thought and behavior.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

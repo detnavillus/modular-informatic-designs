@@ -1,0 +1,17 @@
+<Record>
+<Term>Organic Mental Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Central Nervous System Disorder/Organic Mental Disorder</ClassificationPath>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Organic Mental Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nonpsychotic Mental Disorder Following Organic Brain Damage</ChildTerm>
+<ChildTerm>Transient Organic Mental Disorder</ChildTerm>
+<Synonym>Organic Mental Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

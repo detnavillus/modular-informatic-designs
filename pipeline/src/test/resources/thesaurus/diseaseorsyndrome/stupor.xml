@@ -1,0 +1,19 @@
+<Record>
+<Term>Stupor</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Unconsciousness</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Stupor</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Stupor</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Unconsciousness</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Stupor</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<Synonym>Narcosis</Synonym>
+<Synonym>Stupor</Synonym>
+<Description>A state of reduced sensibility and response to stimuli which is distinguished from COMA in that the person can be aroused by vigorous and repeated stimulation. The person is still conscious and can make voluntary movements. It can be induced by CENTRAL NERVOUS SYSTEM AGENTS. The word derives from Latin stupere and is related to stunned, stupid, dazed or LETHARGY.A state of depressed CENTRAL NERVOUS SYSTEM marked by stupor or insensibility.</Description>
+<Source>MeSH</Source>
+</Record>

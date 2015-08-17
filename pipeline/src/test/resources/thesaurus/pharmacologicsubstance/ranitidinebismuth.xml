@@ -1,0 +1,23 @@
+<Record>
+<Term>Ranitidine Bismuth</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Histamine-2 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-ulcer Agent/Histamine-2 Receptor Antagonist/Ranitidine Bismuth Citrate</ClassificationPath>
+<BroaderTerm>Ranitidine Bismuth Citrate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-ulcer Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Histamine-2 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ranitidine Bismuth Citrate</Synonym>
+<Synonym>N-(2-((5-((Dimethylamino)methyl)furfuryl)thio)ethyl)-N'-methyl-2-nitro-1,1-ethenediamine, compound with bismuth(3(+)) citrate (1:1)</Synonym>
+<Synonym>RANITIDINE BISMUTH CITRATE</Synonym>
+<Synonym>Ranitidine bismuth</Synonym>
+<Synonym>Tritec</Synonym>
+<Synonym>Ranitidine bismuth citrate</Synonym>
+<Description>A member of the class of histamine H2-receptor antagonists with antacid activity. Ranitidine is a competitive and reversible inhibitor of the action of histamine, released by enterochromaffin-like (ECL) cells, at the histamine H2-receptors on parietal cells in the stomach, thereby inhibiting the normal and meal-stimulated secretion of stomach acid. In addition, other substances that promote acid secretion have a reduced effect on parietal cells when the H2 receptors are blocked.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

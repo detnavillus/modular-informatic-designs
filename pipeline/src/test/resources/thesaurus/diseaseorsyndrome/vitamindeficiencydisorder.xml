@@ -1,0 +1,19 @@
+<Record>
+<Term>Vitamin Deficiency Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutritional Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Nutritional Disorder/Vitamin Deficiency Disorder</ClassificationPath>
+<BroaderTerm>Vitamin Deficiency Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Avitaminosis</ChildTerm>
+<ChildTerm>Beri Beri</ChildTerm>
+<ChildTerm>Scurvy</ChildTerm>
+<Synonym>Vitamin Deficiency Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

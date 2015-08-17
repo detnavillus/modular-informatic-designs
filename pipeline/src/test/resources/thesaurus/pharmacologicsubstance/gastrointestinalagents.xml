@@ -1,0 +1,25 @@
+<Record>
+<Term>Gastrointestinal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Gastrointestinal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Gastrointestinal Agents</BroaderTerm>
+<ChildTerm>Cathartics</ChildTerm>
+<ChildTerm>Cholagogues and Choleretics</ChildTerm>
+<ChildTerm>Emetics</ChildTerm>
+<ChildTerm>Anti-Ulcer Agents</ChildTerm>
+<ChildTerm>Antidiarrheals</ChildTerm>
+<ChildTerm>Antiemetics</ChildTerm>
+<ChildTerm>Laxatives</ChildTerm>
+<ChildTerm>Lipotropic Agents</ChildTerm>
+<Synonym>Gastrointestinal Agents</Synonym>
+<Synonym>Gastrointestinal Drugs</Synonym>
+<Synonym>Gastric Agents</Synonym>
+<Synonym>Gastric Drugs</Synonym>
+<Synonym>Digestants</Synonym>
+<Description>Drugs used for their effects on the gastrointestinal system, as to control gastric acidity, regulate gastrointestinal motility and water flow, and improve digestion.</Description>
+<Source>MeSH</Source>
+</Record>

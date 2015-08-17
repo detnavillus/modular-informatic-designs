@@ -1,0 +1,36 @@
+<Record>
+<Term>Measles-Mumps-Rubella Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Combined</ParentTerm>
+<ParentTerm>Measles Vaccine</ParentTerm>
+<ParentTerm>Mumps Vaccine</ParentTerm>
+<ParentTerm>Rubella Vaccine</ParentTerm>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Rubella Vaccine/Measles-Mumps-Rubella Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Measles-Mumps-Rubella Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Mumps Vaccine/Measles-Mumps-Rubella Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Measles Vaccine/Measles-Mumps-Rubella Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Combined/Measles-Mumps-Rubella Vaccine</ClassificationPath>
+<BroaderTerm>Vaccines, Combined</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Measles Vaccine</BroaderTerm>
+<BroaderTerm>Mumps Vaccine</BroaderTerm>
+<BroaderTerm>Measles-Mumps-Rubella Vaccine</BroaderTerm>
+<BroaderTerm>Rubella Vaccine</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Mumps-Measles-Rubella Vaccine</Synonym>
+<Synonym>Priorix</Synonym>
+<Synonym>MMR Vaccine</Synonym>
+<Synonym>Trimovax</Synonym>
+<Synonym>Pluserix</Synonym>
+<Synonym>Measles-Mumps-Rubella Vaccine</Synonym>
+<Synonym>Virivac</Synonym>
+<Synonym>Mumps Measles Rubella Vaccine</Synonym>
+<Synonym>Triviraten Berna</Synonym>
+<Synonym>Measles Mumps Rubella Vaccine</Synonym>
+<Description>A combined vaccine used to prevent MEASLES; MUMPS; and RUBELLA.</Description>
+<Source>MeSH</Source>
+</Record>

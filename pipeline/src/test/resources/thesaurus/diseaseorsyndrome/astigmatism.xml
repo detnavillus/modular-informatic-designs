@@ -1,0 +1,12 @@
+<Record>
+<Term>Astigmatism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Refractive Errors</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors/Astigmatism</ClassificationPath>
+<BroaderTerm>Astigmatism</BroaderTerm>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Astigmatism</Synonym>
+<Description>Unequal curvature of the refractive surfaces of the eye. Thus a point source of light cannot be brought to a point focus on the retina but is spread over a more or less diffuse area. This results from the radius of curvature in one plane being longer or shorter than the radius at right angles to it. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

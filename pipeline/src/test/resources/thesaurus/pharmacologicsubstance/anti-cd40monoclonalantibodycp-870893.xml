@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD40 Monoclonal Antibody CP-870,893</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-CD40 Monoclonal Antibody CP-870,893</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Anti-CD40 Monoclonal Antibody CP-870,893</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD40 Monoclonal Antibody CP-870,893</Synonym>
+<Synonym>CP-870,893</Synonym>
+<Description>A fully human monoclonal antibody (MoAb) agonist of the cell surface receptor CD40 with potential immunostimulatory and antineoplastic activities. Similar to the CD40 ligand (CD40L or CD154), CD40 agonist monoclonal antibody CP-870,893 binds to CD40 on a variety of immune cell types, triggering the cellular proliferation and activation of antigen-presenting cells (APCs), activating B cells and T cells, and enhancing the immune response; in addition, this agent may activate CD40 present on the surfaces of some solid tumor cells, resulting in apoptosis and decreased tumor growth. CD40, a member of the tumor necrosis factor (TNF) receptor superfamily, is expressed on various immune cells, many B-cell malignancies, and some solid tumors, mediating both indirect tumor cell killing through the activation of the immune system and direct tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

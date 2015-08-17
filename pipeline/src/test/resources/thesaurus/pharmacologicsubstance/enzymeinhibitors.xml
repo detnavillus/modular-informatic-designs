@@ -1,0 +1,30 @@
+<Record>
+<Term>Enzyme Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Carbonic Anhydrase Inhibitors</ChildTerm>
+<ChildTerm>Cholinesterase Inhibitors</ChildTerm>
+<ChildTerm>Protease Inhibitors</ChildTerm>
+<ChildTerm>Phosphodiesterase Inhibitors</ChildTerm>
+<ChildTerm>Protein Synthesis Inhibitors</ChildTerm>
+<ChildTerm>Uncoupling Agents</ChildTerm>
+<ChildTerm>Lipoxygenase Inhibitors</ChildTerm>
+<ChildTerm>Cyclooxygenase Inhibitors</ChildTerm>
+<ChildTerm>Nucleic Acid Synthesis Inhibitors</ChildTerm>
+<ChildTerm>Hydroxymethylglutaryl-CoA Reductase Inhibitors</ChildTerm>
+<ChildTerm>Integrase Inhibitors</ChildTerm>
+<ChildTerm>Aromatase Inhibitors</ChildTerm>
+<ChildTerm>Protein Kinase Inhibitors</ChildTerm>
+<ChildTerm>Proton Pump Inhibitors</ChildTerm>
+<ChildTerm>Histone Deacetylase Inhibitors</ChildTerm>
+<ChildTerm>Folic Acid Antagonists</ChildTerm>
+<ChildTerm>Monoamine Oxidase Inhibitors</ChildTerm>
+<Synonym>Enzyme Inhibitors</Synonym>
+<Description>Compounds or agents that combine with an enzyme in such a manner as to prevent the normal substrate-enzyme combination and the catalytic reaction.</Description>
+<Source>MeSH</Source>
+</Record>

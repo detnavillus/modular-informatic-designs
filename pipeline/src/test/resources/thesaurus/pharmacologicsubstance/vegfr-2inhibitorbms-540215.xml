@@ -1,0 +1,19 @@
+<Record>
+<Term>VEGFR-2 Inhibitor BMS-540215</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/VEGFR-2 Inhibitor BMS-540215</ClassificationPath>
+<BroaderTerm>VEGFR-2 Inhibitor BMS-540215</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>(R)-1-(4-(4-Fluoro-2-methyl-1H-indol-5-yloxy)-5- methylpyrrolo[2,1-f][1,2,4]triazin-6-yloxy)propan- 2-ol</Synonym>
+<Synonym>BMS-540215</Synonym>
+<Synonym>VEGFR-2 Inhibitor BMS-540215</Synonym>
+<Synonym>VEGFR2 Inhibitor BMS-540215</Synonym>
+<Description>A pyrrolotriazine-based compound and an inhibitor of vascular endothelial growth factor receptor-2 (VEGFR-2) with potential antineoplastic activity. BMS-540215 specifically targets and binds strongly to human VEGFR-2, a tyrosine kinase receptor and pro-angiogenic growth factor expressed almost exclusively on vascular endothelial cells. Blockade of VEGFR-2 by this agent may lead to an inhibition of VEGF-stimulated endothelial cell migration and proliferation, thereby inhibiting tumor angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

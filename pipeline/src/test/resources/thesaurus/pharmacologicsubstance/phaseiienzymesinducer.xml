@@ -1,0 +1,22 @@
+<Record>
+<Term>Phase II Enzymes Inducer</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chemopreventive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Phase II Enzymes Inducer</ClassificationPath>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Phase II Enzymes Inducer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>CDDO</ChildTerm>
+<ChildTerm>Phenethyl Isothiocyanate</ChildTerm>
+<ChildTerm>Sulforaphane</ChildTerm>
+<ChildTerm>Resveratrol</ChildTerm>
+<ChildTerm>Diindolylmethane</ChildTerm>
+<ChildTerm>Oltipraz</ChildTerm>
+<ChildTerm>Beta-Naphthoflavone</ChildTerm>
+<ChildTerm>Anethole Trithione</ChildTerm>
+<Synonym>Phase II Enzymes Inducer</Synonym>
+<Description>Any natural or synthetic substance that enhances the activity of any phase II metabolic enzymes. Phase II detoxification enzymes, such as glutathione-S-transferase (GST), glucuronyl transferase, acyl transferase, or sulfotransferase, catalyze conjugation reactions of xenobiotics or metabolites formed in phase I reactions. Conjugation reactions greatly enhance polarity of xenobiotics or their metabolites, thereby facilitate their elimination from the body. Phase II conjugation reactions include glucuronidation, methylation, acetylation, and glutathione, sulfate and amino acid conjugation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

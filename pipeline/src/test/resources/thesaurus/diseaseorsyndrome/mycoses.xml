@@ -1,0 +1,29 @@
+<Record>
+<Term>Mycoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses</ClassificationPath>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Aspergillosis</ChildTerm>
+<ChildTerm>Lung Diseases, Fungal</ChildTerm>
+<ChildTerm>Blastomycosis</ChildTerm>
+<ChildTerm>Dermatomycoses</ChildTerm>
+<ChildTerm>Candidiasis</ChildTerm>
+<ChildTerm>Coccidioidomycosis</ChildTerm>
+<ChildTerm>Cryptococcosis</ChildTerm>
+<ChildTerm>Piedra</ChildTerm>
+<ChildTerm>Pneumocystis Infections</ChildTerm>
+<ChildTerm>Eye Infections, Fungal</ChildTerm>
+<ChildTerm>Fungemia</ChildTerm>
+<ChildTerm>Microsporidiosis</ChildTerm>
+<ChildTerm>Central Nervous System Fungal Infections</ChildTerm>
+<ChildTerm>Zygomycosis</ChildTerm>
+<ChildTerm>Geotrichosis</ChildTerm>
+<ChildTerm>Histoplasmosis</ChildTerm>
+<ChildTerm>Paracoccidioidomycosis</ChildTerm>
+<Synonym>Mycoses</Synonym>
+<Synonym>Fungus Diseases</Synonym>
+<Synonym>Fungus Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

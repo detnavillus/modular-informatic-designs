@@ -1,0 +1,21 @@
+<Record>
+<Term>Malignant Lymphoma, Non-Cleaved Cell Type</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malignant Lymphoma by Cell Type (Working Formulation)</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Neoplasm/Neoplasm by Special Category/Neoplasm by Obsolete Classification/Hematopoietic and Lymphoid Neoplasm (Antiquated)/Lymphoma by Working Formulation (Antiquated)/Malignant Lymphoma by Cell Type (Working Formulation)/Malignant Lymphoma, Non-Cleaved Cell Type</ClassificationPath>
+<BroaderTerm>Malignant Lymphoma by Cell Type (Working Formulation)</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lymphoma by Working Formulation (Antiquated)</BroaderTerm>
+<BroaderTerm>Neoplasm</BroaderTerm>
+<BroaderTerm>Neoplasm by Special Category</BroaderTerm>
+<BroaderTerm>Neoplasm by Obsolete Classification</BroaderTerm>
+<BroaderTerm>Malignant Lymphoma, Non-Cleaved Cell Type</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid Neoplasm (Antiquated)</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Malignant Lymphoma Follicular, Large Noncleaved Cell Type</ChildTerm>
+<ChildTerm>Malignant Lymphoma, Non-Cleaved, Diffuse</ChildTerm>
+<ChildTerm>Non-Burkitt's Lymphoma</ChildTerm>
+<Synonym>Malignant Lymphoma, Non-Cleaved Cell Type</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

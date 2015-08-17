@@ -1,0 +1,24 @@
+<Record>
+<Term>Female Reproductive System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Fallopian Tube Disorder</ChildTerm>
+<ChildTerm>Vaginal Disorder</ChildTerm>
+<ChildTerm>Placenta Disorder</ChildTerm>
+<ChildTerm>Uterine Disorder</ChildTerm>
+<ChildTerm>Ovarian Disorder</ChildTerm>
+<ChildTerm>Female Reproductive System Precancerous Condition</ChildTerm>
+<ChildTerm>Pregnancy Disorder</ChildTerm>
+<ChildTerm>Vulvar Disorder</ChildTerm>
+<ChildTerm>Female Non-Neoplastic Reproductive System Disorder</ChildTerm>
+<Synonym>Female Reproductive System Disease</Synonym>
+<Synonym>Female Reproductive System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

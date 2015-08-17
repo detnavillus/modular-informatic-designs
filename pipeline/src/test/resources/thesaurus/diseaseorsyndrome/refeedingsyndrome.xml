@@ -1,0 +1,13 @@
+<Record>
+<Term>Refeeding Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malnutrition</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Refeeding Syndrome</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Refeeding Syndrome</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<Synonym>Refeeding Syndrome</Synonym>
+<Description>A condition of metabolic imbalance that is caused by complications of initially feeding a severely malnourished patient too aggressively. Usually occurring within the first 5 days of refeeding, this syndrome is characterized by WATER-ELECTROLYTE IMBALANCE; GLUCOSE INTOLERANCE; CARDIAC ARRHYTHMIAS; and DIARRHEA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Emerging Communicable Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Communicable Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Communicable Diseases/Communicable Diseases, Emerging</ClassificationPath>
+<BroaderTerm>Communicable Diseases, Emerging</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Communicable Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Emerging Communicable Disease</Synonym>
+<Synonym>Emerging Communicable Diseases</Synonym>
+<Synonym>Emerging Infectious Disease</Synonym>
+<Synonym>Emerging Infectious Diseases</Synonym>
+<Description>Reporting of new and reemerging infectious diseases and studies that seek to improve the understanding of factors involved in disease emergence, prevention, and elimination.</Description>
+<Source>MeSH</Source>
+</Record>

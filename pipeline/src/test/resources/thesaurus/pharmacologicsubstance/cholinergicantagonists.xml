@@ -1,0 +1,28 @@
+<Record>
+<Term>Cholinergic Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cholinergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Cholinergic Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Muscarinic Antagonists</ChildTerm>
+<ChildTerm>Nicotinic Antagonists</ChildTerm>
+<Synonym>Cholinolytics</Synonym>
+<Synonym>Anticholinergics</Synonym>
+<Synonym>Acetylcholine Antagonists</Synonym>
+<Synonym>Cholinergic-Blocking Agents</Synonym>
+<Synonym>Cholinergic Antagonists</Synonym>
+<Synonym>Anti-Cholinergics</Synonym>
+<Synonym>Cholinergic Blocking Agents</Synonym>
+<Synonym>Anti Cholinergics</Synonym>
+<Synonym>Anticholinergic Agents</Synonym>
+<Synonym>Cholinergic Antagonist</Synonym>
+<Description>Drugs that bind to but do not activate CHOLINERGIC RECEPTORS, thereby blocking the actions of ACETYLCHOLINE or cholinergic agonists.</Description>
+<Source>MeSH</Source>
+</Record>

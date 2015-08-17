@@ -1,0 +1,16 @@
+<Record>
+<Term>Indium In 111 CHX-A DTPA Trastuzumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Indium In 111 CHX-A DTPA Trastuzumab</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Indium In 111 CHX-A DTPA Trastuzumab</BroaderTerm>
+<Synonym>111In-CHX-A"-DTPA-Trastuzumab</Synonym>
+<Synonym>Indium In 111 CHX-A DTPA Trastuzumab</Synonym>
+<Description>An indium In 111-labeled trastuzumab with potential use as an imaging agent. Indium In 111 CHX-A DTPA trastuzumab is chemically conjugated via a bifunctional metal chelator molecule, 2-(p-isothiocyanatobenzyl)-cyclohexyl-diethylenetriaminepentaacetic acid (CHX-A DTPA), a backbone-substituted derivative of DTPA. This agent may allow radioimmunolocalization of HER2-positive cells. Trastuzumab, a recombinant humanized monoclonal antibody that selectively binds with high affinity to the extracellular domain of human epidermal growth factor receptor 2 (HER2), may elicit an antibody-dependent cellular cytotoxicity (ADCC) against tumor cells that overexpress HER2.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

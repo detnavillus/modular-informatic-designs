@@ -1,0 +1,22 @@
+<Record>
+<Term>Metabolic Syndrome X</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ParentTerm>Insulin Resistance</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hyperinsulinism/Insulin Resistance/Metabolic Syndrome X</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolic Syndrome X</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hyperinsulinism</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Syndrome X</BroaderTerm>
+<BroaderTerm>Insulin Resistance</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<Synonym>Metabolic X Syndrome</Synonym>
+<Synonym>Reaven Syndrome X</Synonym>
+<Synonym>Insulin Resistance Syndrome X</Synonym>
+<Synonym>Dysmetabolic Syndrome X</Synonym>
+<Synonym>Metabolic Syndrome X</Synonym>
+<Synonym>Metabolic Cardiovascular Syndrome</Synonym>
+<Description>A cluster of metabolic risk factors for CARDIOVASCULAR DISEASES and TYPE 2 DIABETES MELLITUS. The major components of metabolic syndrome X include excess ABDOMINAL FAT; atherogenic DYSLIPIDEMIA; HYPERTENSION; HYPERGLYCEMIA; INSULIN RESISTANCE; a proinflammatory state; and a prothrombotic (THROMBOSIS) state. (from AHA/NHLBI/ADA Conference Proceedings, Circulation 2004; 109:551-556)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Tadalafil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Phosphodiesterase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Phosphodiesterase Inhibitor/Tadalafil</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Tadalafil</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Phosphodiesterase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TADALAFIL</Synonym>
+<Synonym>Ic351</Synonym>
+<Synonym>(6R,12aR)-2,3,6,7,12,12a-Hexahydro-2-methyl-6-(3,4-methylenedioxyphenyl)pyrazino(1',2':1,6)pyrido(3,4-b)indole-1,4-dione</Synonym>
+<Synonym>Tadalafil</Synonym>
+<Synonym>Adcirca</Synonym>
+<Synonym>Cialis</Synonym>
+<Description>A carboline-based compound with vasodilatory activity. Tadalfil selectively inhibits the cyclic guanosine monophosphate (cGMP)-specific type 5 phosphodiesterase- (PDE-5)-mediated degradation of cGMP, which is found in the smooth muscle of the corpus cavernosa and corpus spongiosum of the penis. Inhibition of cGMP degradation by tadalfil results in prolonged muscle relaxation, vasodilation, and blood engorgement of the corpus cavernosa, and, so, prolonged penile erection.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

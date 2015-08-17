@@ -1,0 +1,33 @@
+<Record>
+<Term>Drug-Induced Akathisia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug Toxicity</ParentTerm>
+<ParentTerm>Psychomotor Agitation</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ParentTerm>Neurotoxicity Syndromes</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Akathisia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Akathisia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Dyskinesias/Psychomotor Agitation/Akathisia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Akathisia, Drug-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Akathisia, Drug-Induced</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Psychomotor Agitation</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Akathisia, Drug-Induced</BroaderTerm>
+<Synonym>Drug-Induced Acathisia</Synonym>
+<Synonym>Drug-Induced Akathisia</Synonym>
+<Synonym>Drug Induced Akathisia</Synonym>
+<Synonym>Pseudoakathisia</Synonym>
+<Synonym>Tardive Akathisia</Synonym>
+<Description>A condition associated with the use of certain medications and characterized by an internal sense of motor restlessness often described as an inability to resist the urge to move.</Description>
+<Source>MeSH</Source>
+</Record>

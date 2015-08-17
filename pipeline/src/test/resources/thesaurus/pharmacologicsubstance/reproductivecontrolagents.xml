@@ -1,0 +1,23 @@
+<Record>
+<Term>Reproductive Control Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Menstruation-Inducing Agents</ChildTerm>
+<ChildTerm>Abortifacient Agents</ChildTerm>
+<ChildTerm>Tocolytic Agents</ChildTerm>
+<ChildTerm>Oxytocics</ChildTerm>
+<ChildTerm>Luteolytic Agents</ChildTerm>
+<ChildTerm>Fertility Agents</ChildTerm>
+<ChildTerm>Contraceptive Agents</ChildTerm>
+<Synonym>Reproductive Control Agents</Synonym>
+<Description>Substances used either in the prevention or facilitation of pregnancy.</Description>
+<Source>MeSH</Source>
+</Record>

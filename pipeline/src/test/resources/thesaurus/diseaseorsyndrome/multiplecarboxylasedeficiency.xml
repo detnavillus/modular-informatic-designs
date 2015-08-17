@@ -1,0 +1,26 @@
+<Record>
+<Term>Multiple Carboxylase Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amino Acid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Multiple Carboxylase Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Multiple Carboxylase Deficiency</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Multiple Carboxylase Deficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Multiple Carboxylase Deficiency</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Multiple Carboxylase Deficiency</BroaderTerm>
+<ChildTerm>Holocarboxylase Synthetase Deficiency</ChildTerm>
+<ChildTerm>Biotinidase Deficiency</ChildTerm>
+<Synonym>Multiple Carboxylase Deficiencies</Synonym>
+<Synonym>Combined Carboxylase Deficiency</Synonym>
+<Synonym>Combined Carboxylase Deficiencies</Synonym>
+<Synonym>Multiple Carboxylase Deficiency</Synonym>
+<Description>A deficiency in the activities of biotin-dependent enzymes (propionyl-CoA carboxylase, methylcrotonyl-CoA carboxylase, and PYRUVATE CARBOXYLASE) due to one of two defects in BIOTIN metabolism. The neonatal form is due to HOLOCARBOXYLASE SYNTHETASE DEFICIENCY. The late-onset form is due to BIOTINIDASE DEFICIENCY.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Polycythemia (Excluding Polycythemia Vera)</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polycythemia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Hematologic and Lymphocytic Disorder/Polycythemia/Polycythemia (Excluding Polycythemia Vera)</ClassificationPath>
+<BroaderTerm>Polycythemia (Excluding Polycythemia Vera)</BroaderTerm>
+<BroaderTerm>Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Polycythemia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Secondary Polycythemia</ChildTerm>
+<ChildTerm>Polycythemia Neonatorum</ChildTerm>
+<ChildTerm>Physiological Polycythemia</ChildTerm>
+<ChildTerm>Familiar Polycythemia</ChildTerm>
+<Synonym>Polycythemia (Excluding Polycythemia Vera)</Synonym>
+<Synonym>Polycythemia (Excluding Rubra Vera)</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

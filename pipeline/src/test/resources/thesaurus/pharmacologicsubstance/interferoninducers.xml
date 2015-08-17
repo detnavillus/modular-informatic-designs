@@ -1,0 +1,15 @@
+<Record>
+<Term>Interferon Inducers</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Immunologic Factors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Immunologic Factors/Interferon Inducers</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Interferon Inducers</BroaderTerm>
+<BroaderTerm>Immunologic Factors</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Interferon Inducers</Synonym>
+<Description>Agents that promote the production and release of interferons. They include mitogens, lipopolysaccharides, and the synthetic polymers Poly A-U and Poly I-C. Viruses, bacteria, and protozoa have been also known to induce interferons.</Description>
+<Source>MeSH</Source>
+</Record>

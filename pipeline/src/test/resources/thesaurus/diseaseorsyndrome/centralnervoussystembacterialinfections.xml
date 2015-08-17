@@ -1,0 +1,25 @@
+<Record>
+<Term>Central Nervous System Bacterial Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Central Nervous System Infections/Central Nervous System Bacterial Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Lyme Neuroborreliosis</ChildTerm>
+<ChildTerm>Brain Abscess</ChildTerm>
+<ChildTerm>Epidural Abscess</ChildTerm>
+<ChildTerm>Empyema, Subdural</ChildTerm>
+<ChildTerm>Neurosyphilis</ChildTerm>
+<ChildTerm>Tuberculosis, Central Nervous System</ChildTerm>
+<ChildTerm>Meningitis, Bacterial</ChildTerm>
+<Synonym>Central Nervous System Bacterial Infections</Synonym>
+<Description>Bacterial infections of the brain, spinal cord, and meninges, including infections involving the perimeningeal spaces.</Description>
+<Source>MeSH</Source>
+</Record>

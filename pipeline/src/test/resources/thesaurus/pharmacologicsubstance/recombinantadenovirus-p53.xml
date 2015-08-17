@@ -1,0 +1,20 @@
+<Record>
+<Term>Recombinant Adenovirus-p53</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Recombinant Adenovirus-p53</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Adenovirus-p53</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Adenovirus-p53</Synonym>
+<Synonym>SCH 58500</Synonym>
+<Synonym>SCH-58500</Synonym>
+<Synonym>rAd/p53</Synonym>
+<Description>A genetically-engineered adenovirus that contains the gene that encodes the human tumor-suppressor protein p53 with potential antineoplastic activity. Recombinant adenovirus-p53 SCH-58500 delivers p53 into tumor cells, which may result in p53-mediated cell cycle arrest and apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

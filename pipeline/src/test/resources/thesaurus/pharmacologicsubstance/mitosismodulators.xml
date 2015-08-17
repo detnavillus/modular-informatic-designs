@@ -1,0 +1,15 @@
+<Record>
+<Term>Mitosis Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Mitosis Modulators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Mitosis Modulators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Antimitotic Agents</ChildTerm>
+<ChildTerm>Mitogens</ChildTerm>
+<Synonym>Mitosis Modulators</Synonym>
+<Description>Agents that affect MITOSIS of CELLS.</Description>
+<Source>MeSH</Source>
+</Record>

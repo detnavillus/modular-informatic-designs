@@ -1,0 +1,18 @@
+<Record>
+<Term>Psittacosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Chlamydophila Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections/Chlamydophila Infections/Psittacosis</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Psittacosis</BroaderTerm>
+<BroaderTerm>Chlamydophila Infections</BroaderTerm>
+<Synonym>Psittacosis</Synonym>
+<Synonym>Psittacoses</Synonym>
+<Synonym>Ornithosis</Synonym>
+<Synonym>Ornithoses</Synonym>
+<Description>Infection with CHLAMYDOPHILA PSITTACI (formerly Chlamydia psittaci), transmitted to humans by inhalation of dust-borne contaminated nasal secretions or excreta of infected BIRDS. This infection results in a febrile illness characterized by PNEUMONITIS and systemic manifestations.</Description>
+<Source>MeSH</Source>
+</Record>

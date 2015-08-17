@@ -1,0 +1,16 @@
+<Record>
+<Term>Common Bile Duct Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bile Duct Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Bile Duct Diseases/Common Bile Duct Diseases</ClassificationPath>
+<BroaderTerm>Common Bile Duct Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Bile Duct Diseases</BroaderTerm>
+<ChildTerm>Biliary Dyskinesia</ChildTerm>
+<ChildTerm>Common Bile Duct Neoplasms</ChildTerm>
+<ChildTerm>Choledocholithiasis</ChildTerm>
+<Synonym>Common Bile Duct Diseases</Synonym>
+<Description>Diseases of the COMMON BILE DUCT including the AMPULLA OF VATER and the SPHINCTER OF ODDI.</Description>
+<Source>MeSH</Source>
+</Record>

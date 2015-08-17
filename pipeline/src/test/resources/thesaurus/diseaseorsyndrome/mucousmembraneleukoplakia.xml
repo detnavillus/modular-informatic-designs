@@ -1,0 +1,16 @@
+<Record>
+<Term>Mucous Membrane Leukoplakia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leukoplakia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Leukoplakia/Mucous Membrane Leukoplakia</ClassificationPath>
+<BroaderTerm>Leukoplakia</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Mucous Membrane Leukoplakia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Mouth Mucous Membrane Leukoplakia</ChildTerm>
+<Synonym>Mucous Membrane Leukoplakia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

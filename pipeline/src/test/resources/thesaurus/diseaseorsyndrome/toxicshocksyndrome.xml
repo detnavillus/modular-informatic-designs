@@ -1,0 +1,19 @@
+<Record>
+<Term>Toxic Shock Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Toxic Shock Syndrome</ClassificationPath>
+<BroaderTerm>Toxic Shock Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Shock syndrome (TSS), toxic</Synonym>
+<Synonym>Syndrome (TSS), toxic shock</Synonym>
+<Synonym>TSS</Synonym>
+<Synonym>TSS, toxic shock syndrome</Synonym>
+<Synonym>Toxic Shock Syndrome</Synonym>
+<Synonym>Toxic shock syndrome, (TSS)</Synonym>
+<Description>A rare acute life-threatening systemic bacterial noncontagious illness caused by any of several related staphylococcal exotoxins. TSS characterised by high fever, hypotension, rash, multi-organ dysfunction, and cutaneous desquamation during the early convalescent period. The toxins affect the host immune system, causing an exuberant and pathological host inflammatory response. Laboratory findings consistent with TSS include leukocytosis, elevated prothrombin time, hypoalbuminemia, hypocalcemia, and pyuria.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

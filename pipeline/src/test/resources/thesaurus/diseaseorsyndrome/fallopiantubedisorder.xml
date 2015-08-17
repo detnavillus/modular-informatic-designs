@@ -1,0 +1,17 @@
+<Record>
+<Term>Fallopian Tube Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Fallopian Tube Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Fallopian Tube Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Fallopian Tube Non-Neoplastic Disorder</ChildTerm>
+<Synonym>Fallopian Tube Disease</Synonym>
+<Synonym>Fallopian Tube Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Theileriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Protozoan Infections, Animal</ParentTerm>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Theileriasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Tick-Borne Diseases/Theileriasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Theileriasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Theileriasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal/Theileriasis</ClassificationPath>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Theileriasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Theileriosis</Synonym>
+<Synonym>Theileriases</Synonym>
+<Synonym>Corridor Disease</Synonym>
+<Synonym>East Coast Fever</Synonym>
+<Synonym>Theileriasis</Synonym>
+<Synonym>Theilerioses</Synonym>
+<Description>Infection of cattle, sheep, or goats with protozoa of the genus THEILERIA. This infection results in an acute or chronic febrile condition.</Description>
+<Source>MeSH</Source>
+</Record>

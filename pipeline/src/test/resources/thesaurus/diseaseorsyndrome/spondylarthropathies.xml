@@ -1,0 +1,22 @@
+<Record>
+<Term>Spondylarthropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spondylarthritis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Spondylarthritis/Spondylarthropathies</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Spondylarthritis/Spondylarthropathies</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthropathies</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthritis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Spondylitis, Ankylosing</ChildTerm>
+<ChildTerm>Arthritis, Reactive</ChildTerm>
+<ChildTerm>Arthritis, Psoriatic</ChildTerm>
+<Synonym>Spondylarthropathy</Synonym>
+<Synonym>Spondylarthropathies</Synonym>
+<Description>Heterogeneous group of arthritic diseases sharing clinical and radiologic features. They are associated with the HLA-B27 ANTIGEN and some with a triggering infection. Most involve the axial joints in the SPINE, particularly the SACROILIAC JOINT, but can also involve asymmetric peripheral joints. Subsets include ANKYLOSING SPONDYLITIS; REACTIVE ARTHRITIS; PSORIATIC ARTHRITIS; and others.</Description>
+<Source>MeSH</Source>
+</Record>

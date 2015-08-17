@@ -1,0 +1,21 @@
+<Record>
+<Term>Degarelix</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Gonadotropin Releasing Hormone Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Gonadotropin Releasing Hormone Inhibitor/Degarelix</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Degarelix</BroaderTerm>
+<BroaderTerm>Gonadotropin Releasing Hormone Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>FE200486</Synonym>
+<Synonym>Firmagon</Synonym>
+<Synonym>Degarelix acetate</Synonym>
+<Synonym>N-acetyl-3-(naphtalen-2-yl)-D-alanyl-4-chloro-D-phenylalanyl-3-(pyridin-3-yl)-D-alanyl-L-seryl-4-((((4S)-2,6-dioxohexahydropyrimidin-4-yl)carbonyl)amino)-L-phenylalanyl-4-(carbamoylamino)-D-phenylalanyl-L-leucyl-N6-(1-methylethyl)-L-lysyl-L-prolyl-D-alaninamide</Synonym>
+<Synonym>Degarelix</Synonym>
+<Description>A long-acting, synthetic peptide with gonadotrophin-releasing hormone (GnRH) antagonistic properties. Degarelix targets and blocks GnRH receptors located on the surfaces of gonadotroph cells in the anterior pituitary, thereby reducing secretion of luteinizing hormone (LH) by pituitary gonadotroph cells and so decreasing testosterone production by interstitial (Leydig) cells in the testes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

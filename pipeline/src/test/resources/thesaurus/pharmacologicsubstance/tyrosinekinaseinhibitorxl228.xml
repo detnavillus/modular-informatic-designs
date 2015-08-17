@@ -1,0 +1,17 @@
+<Record>
+<Term>Tyrosine Kinase Inhibitor XL228</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Tyrosine Kinase Inhibitor XL228</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor XL228</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>Tyrosine Kinase Inhibitor XL228</Synonym>
+<Synonym>XL228</Synonym>
+<Description>A synthetic molecule that targets multiple tyrosine kinases with potential antineoplastic activity. Tyrosine kinase inhibitor XL228 binds to and inhibits the activities of multiple tyrosine kinases, such as the insulin-like growth factor 1 receptor (IGF1R), Src tyrosine kinase, and Bcr-Abl tyrosine kinase. Blockade of these kinases may result in the inhibition of tumor angiogenesis, cell proliferation, and metastasis. In addition, this agent may be a potent inhibitor of the T315I mutant form of the Abl protein, which is associated with the resistance of chronic myelogenous leukemia (CML) to other tyrosine kinase inhibitors. IGF1R and Src tyrosine kinases are upregulated in many tumor cells and play important roles in tumor cell proliferation and metastasis. Bcr-Abl translocation leads to constitutive activation of ABL kinase and is commonly associated with Philadelphia-positive acute lymphocytic leukemia (ALL).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

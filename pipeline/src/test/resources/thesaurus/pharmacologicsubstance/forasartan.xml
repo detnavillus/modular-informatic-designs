@@ -1,0 +1,20 @@
+<Record>
+<Term>Forasartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Forasartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Forasartan</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>5-((3,5-dibutyl-1H-1,2,4-triazol-1-yl)methyl)-2-(2-(1H-tetrazol-5-yl)phenyl)pyridine</Synonym>
+<Synonym>FORASARTAN</Synonym>
+<Synonym>Forasartan</Synonym>
+<Synonym>SC 52458</Synonym>
+<Description>A nonpeptide angiotensin II receptor antagonist with antihypertensive activity. Forasartan selectively competes with angiotensin II for the binding of the angiotensin II (AT1) receptor subtype 1 in vascular smooth muscle, thereby blocking angiotensin II-mediated vasoconstriction resulting in vascular dilatation. In addition, the antagonistic effect on AT1 in the adrenal gland, prevents angiotensin II-induced stimulation of aldosterone synthesis and secretion by the adrenal cortex. This blocks the effects of aldosterone leading to an increase in sodium excretion and water and eventually a reduction in plasma volume and blood pressure.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

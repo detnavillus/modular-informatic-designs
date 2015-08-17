@@ -1,0 +1,17 @@
+<Record>
+<Term>Chronic Drug-Induced Liver Injury</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug-Induced Liver Injury</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug-Induced Liver Injury/Drug-Induced Liver Injury, Chronic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Drug-Induced Liver Injury/Drug-Induced Liver Injury, Chronic</ClassificationPath>
+<BroaderTerm>Drug-Induced Liver Injury, Chronic</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Drug-Induced Liver Injury</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<Synonym>Chronic Drug Induced Liver Injury</Synonym>
+<Synonym>Chronic Drug-Induced Liver Injury</Synonym>
+<Description>Liver disease lasting six months or more, caused by an adverse drug effect.  The adverse effect may result from a direct toxic effect of a drug or metabolite, or an idiosyncratic response to a drug or metabolite.</Description>
+<Source>MeSH</Source>
+</Record>

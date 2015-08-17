@@ -1,0 +1,26 @@
+<Record>
+<Term>Premature Cardiac Complexes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmias, Cardiac</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Cardiac Complexes, Premature</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Cardiac Complexes, Premature</ClassificationPath>
+<BroaderTerm>Cardiac Complexes, Premature</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Atrial Premature Complexes</ChildTerm>
+<ChildTerm>Ventricular Premature Complexes</ChildTerm>
+<Synonym>Premature Cardiac Complices</Synonym>
+<Synonym>Ectopic Heartbeats</Synonym>
+<Synonym>Ectopic Heartbeat</Synonym>
+<Synonym>Premature Beats</Synonym>
+<Synonym>Premature Cardiac Complex</Synonym>
+<Synonym>Extrasystoles</Synonym>
+<Synonym>Extrasystole</Synonym>
+<Synonym>Premature Beat</Synonym>
+<Synonym>Premature Cardiac Complexes</Synonym>
+<Description>A group of cardiac arrhythmias in which the cardiac contractions are not initiated at the SINOATRIAL NODE. They include both atrial and ventricular premature beats, and are also known as extra or ectopic heartbeats. Their frequency is increased in heart diseases.</Description>
+<Source>MeSH</Source>
+</Record>

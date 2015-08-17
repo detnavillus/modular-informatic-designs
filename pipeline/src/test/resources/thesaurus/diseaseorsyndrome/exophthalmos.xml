@@ -1,0 +1,26 @@
+<Record>
+<Term>Exophthalmos</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Orbital Diseases</ParentTerm>
+<ParentTerm>Eye and Ear Finding</ParentTerm>
+<ClassificationPath>Eye Diseases/Orbital Diseases/Exophthalmos</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Head and Neck Finding/Eye and Ear Finding/Exophthalmos</ClassificationPath>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Exophthalmos</BroaderTerm>
+<BroaderTerm>Orbital Diseases</BroaderTerm>
+<BroaderTerm>Head and Neck Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Eye and Ear Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Graves Disease</ChildTerm>
+<Synonym>Exophthalmos</Synonym>
+<Synonym>Proptosis</Synonym>
+<Synonym>Proptoses</Synonym>
+<Description>Abnormal protrusion of both eyes; may be caused by endocrine gland malfunction, malignancy, injury, or paralysis of the extrinsic muscles of the eye.</Description>
+<Description>A protrusion of the eyeball from the socket.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

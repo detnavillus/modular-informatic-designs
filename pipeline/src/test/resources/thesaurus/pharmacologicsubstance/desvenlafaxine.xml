@@ -1,0 +1,25 @@
+<Record>
+<Term>Desvenlafaxine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antidepressant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Desvenlafaxine Succinate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antidepressant Agent/Desvenlafaxine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Desvenlafaxine</BroaderTerm>
+<BroaderTerm>Desvenlafaxine Succinate</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antidepressant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Desvenlafaxine succinate</Synonym>
+<Synonym>DESVENLAFAXINE SUCCINATE</Synonym>
+<Synonym>Desvenlafaxine</Synonym>
+<Synonym>Desvenlafaxine Succinate</Synonym>
+<Synonym>Pristiq</Synonym>
+<Synonym>DESVENLAFAXINE</Synonym>
+<Description>A synthetic phenethylamine bicyclic derivative with antidepressant activity. Desvenlafaxine is a selective reuptake inhibitor of serotonin and norepinephrine due to its high binding affinities to the pre-synaptic serotonin and norepinephrine transporters. By blocking both transporters, this agent prolongs neurotransmitter activities of both serotonin and norepinephrine, thereby alleviating depressive state.</Description>
+<Description>The succinate salt form of desvenlafaxine, a synthetic phenethylamine bicyclic derivative with antidepressant activity. Desvenlafaxine is a selective reuptake inhibitor of serotonin and norepinephrine due to its high binding affinities to the pre-synaptic serotonin and norepinephrine transporters. By blocking both transporters, this agent prolongs neurotransmitter activities of both serotonin and norepinephrine, thereby alleviating depressive state.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

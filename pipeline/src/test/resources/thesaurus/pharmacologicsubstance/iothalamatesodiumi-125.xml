@@ -1,0 +1,20 @@
+<Record>
+<Term>Iothalamate Sodium I-125</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iothalamate Sodium I-125</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Iothalamate Sodium I-125</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Benzoic Acid, 3-(acetylamino)diiodoiodo-(sup 125)I-5-((methylamino)carbonyl)-, Monosodium Salt</Synonym>
+<Synonym>Diatrizoate Sodium I 125</Synonym>
+<Synonym>Glofil-125</Synonym>
+<Synonym>IOTHALAMATE SODIUM, I-125</Synonym>
+<Synonym>Iothalamate Sodium I-125</Synonym>
+<Synonym>Monosodium 5-acetamido-triiodo-N-methylisophthalamate, labeled with Iodine-125</Synonym>
+<Description>The sodium salt form of iothalamate, an organic iodine compound, labeled with iodine I-125 and used as a radiopharmaceutical. Iothalamate sodium I-125 is cleared by glomerular filtration without tubular secretion or reabsorption and can be used as a diagnostic tool to determine the glomerular filtration rate.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

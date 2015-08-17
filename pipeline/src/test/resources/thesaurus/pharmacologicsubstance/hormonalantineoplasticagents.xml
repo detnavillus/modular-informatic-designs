@@ -1,0 +1,18 @@
+<Record>
+<Term>Hormonal Antineoplastic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Antineoplastic Agents, Hormonal</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents, Hormonal</BroaderTerm>
+<Synonym>Hormonal Antineoplastic Agents</Synonym>
+<Synonym>Hormonal Antineoplastics</Synonym>
+<Synonym>Antineoplastic Hormonal Drugs</Synonym>
+<Synonym>Hormonal Antineoplastic Drugs</Synonym>
+<Synonym>Antineoplastic Hormonal Agents</Synonym>
+<Description>Antineoplastic agents that are used to treat hormone-sensitive tumors. Hormone-sensitive tumors may be hormone-dependent, hormone-responsive, or both. A hormone-dependent tumor regresses on removal of the hormonal stimulus, by surgery or pharmacological block. Hormone-responsive tumors may regress when pharmacologic amounts of hormones are administered regardless of whether previous signs of hormone sensitivity were observed. The major hormone-responsive cancers include carcinomas of the breast, prostate, and endometrium; lymphomas; and certain leukemias. (From AMA Drug Evaluations Annual 1994, p2079)</Description>
+<Source>MeSH</Source>
+</Record>

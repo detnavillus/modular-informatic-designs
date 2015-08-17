@@ -1,0 +1,50 @@
+<Record>
+<Term>Wolff-Parkinson-White Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Pre-Excitation Syndromes</ParentTerm>
+<ParentTerm>Pre-Excitation Syndrome</ParentTerm>
+<ParentTerm>Heart Defects, Congenital</ParentTerm>
+<ParentTerm>Conduction Abnormality and Atrioventricular Heart Block Adverse Event</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Cardiac Arrhythmia/Conduction Abnormality and Atrioventricular Heart Block Adverse Event/Wolff-Parkinson-White Syndrome Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Pre-Excitation Syndrome/Wolff-Parkinson-White Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Wolff-Parkinson-White Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Pre-Excitation Syndromes/Wolff-Parkinson-White Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Cardiac Arrhythmia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Wolff-Parkinson-White Syndrome</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Pre-Excitation Syndromes</BroaderTerm>
+<BroaderTerm>Pre-Excitation Syndrome</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Conduction Abnormality and Atrioventricular Heart Block Adverse Event</BroaderTerm>
+<BroaderTerm>Wolff-Parkinson-White Syndrome Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 1 Wolff-Parkinson-White Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Wolff-Parkinson-White Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Wolff-Parkinson-White Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Wolff-Parkinson-White Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Wolff-Parkinson-White Syndrome</ChildTerm>
+<Synonym>WOLFF-PARKINSON-WHITE SYNDROME</Synonym>
+<Synonym>WPW Syndrome</Synonym>
+<Synonym>Wolff Parkinson White Syndrome</Synonym>
+<Synonym>Wolf Parkinson White Syndrome</Synonym>
+<Synonym>Wolf-Parkinson-White Syndrome</Synonym>
+<Synonym>Wolff-Parkinson-White Syndrome</Synonym>
+<Synonym>Wolff-Parkinson-White syndrome</Synonym>
+<Synonym>Wolff-Parkinson-White Syndrome Adverse Event</Synonym>
+<Description>A form of ventricular pre-excitation characterized by a short PR interval and a long QRS interval with a delta wave. In this syndrome, atrial impulse conducts to the HEART VENTRICLES via an accessory pathway located between the wall of the right or left atria and the ventricles, known as the bundle of Kent. The inherited form can be caused by mutation of PRKAG2 gene encoding a gamma-2 regulatory subunit of AMP-activated protein kinase.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

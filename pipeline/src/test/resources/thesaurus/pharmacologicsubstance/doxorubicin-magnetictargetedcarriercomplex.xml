@@ -1,0 +1,20 @@
+<Record>
+<Term>Doxorubicin-Magnetic Targeted Carrier Complex</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Doxorubicin-Magnetic Targeted Carrier Complex</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Doxorubicin-Magnetic Targeted Carrier Complex</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>DOX-MTC</Synonym>
+<Synonym>Doxorubicin-Magnetic Targeted Carrier Complex</Synonym>
+<Synonym>MTC-DOX</Synonym>
+<Description>A formulation of the anthracycline antibiotic doxorubicin in which doxorubicin is bound to microscopic beads of activated carbon and iron as a magnetic-targeted carrier (MTC). Doxorubicin, an intercalator and a topoisomerase II inhibitor, prevents DNA replication and ultimately inhibits protein synthesis. This agent also generates oxygen free radicals, resulting in cytotoxic lipid peroxidation of cell membrane lipids. Guided by the placement of a magnet on the body surface overlying a tumor site, the doxorubicin-MTC complex delivers doxorubicin directly to the tumor site, thereby targeting and prolonging the duration of doxorubicin-mediated cytotoxicity to the tumor bed while minimizing systemic toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

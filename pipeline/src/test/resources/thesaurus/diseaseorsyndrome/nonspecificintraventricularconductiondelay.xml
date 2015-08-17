@@ -1,0 +1,23 @@
+<Record>
+<Term>Nonspecific Intraventricular Conduction Delay</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Nonspecific Intraventricular Conduction Delay</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nonspecific Intraventricular Conduction Delay</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>INTRAVENTRICULAR CONDUCTION DELAY, NONSPECIFIC</Synonym>
+<Synonym>IVCD</Synonym>
+<Synonym>Intraventricular conduction delay, nonspecific</Synonym>
+<Synonym>Nonspecific Intraventricular Conduction Delay</Synonym>
+<Description>A delay in transmission of cardiac electrical impulses in the His-Purkinje system, diagnosed when the QRS is modestly prolonged (&amp;lt; 120 msec) and the QRS pattern and axis are not typical of a hemiblock. The conduction delay is considered to occur beyond the Purkinje's myocardial gates and arises from slow cell-to-cell conduction. The phenomenon is common in patients with acute MI.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

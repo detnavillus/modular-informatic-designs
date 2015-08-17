@@ -1,0 +1,15 @@
+<Record>
+<Term>Venous Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Venous Insufficiency</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Venous Insufficiency</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Postphlebitic Syndrome</ChildTerm>
+<ChildTerm>Postthrombotic Syndrome</ChildTerm>
+<Synonym>Venous Insufficiency</Synonym>
+<Synonym>Venous Insufficiencies</Synonym>
+<Description>Impaired venous blood flow or venous return (venous stasis), usually caused by inadequate venous valves. Venous insufficiency often occurs in the legs, and is associated with EDEMA and sometimes with VENOUS STASIS ULCERS at the ankle.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Gingival Overgrowth</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gingival Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Gingival Diseases/Gingival Overgrowth</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Gingival Diseases</BroaderTerm>
+<BroaderTerm>Gingival Overgrowth</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Fibromatosis, Gingival</ChildTerm>
+<ChildTerm>Gingival Hyperplasia</ChildTerm>
+<ChildTerm>Gingival Hypertrophy</ChildTerm>
+<Synonym>Gingival Overgrowth</Synonym>
+<Synonym>Gingival Overgrowths</Synonym>
+<Description>Excessive growth of the gingiva either by an increase in the size of the constituent cells (GINGIVAL HYPERTROPHY) or by an increase in their number (GINGIVAL HYPERPLASIA). (From Jablonski's Dictionary of Dentistry, 1992, p574)</Description>
+<Source>MeSH</Source>
+</Record>

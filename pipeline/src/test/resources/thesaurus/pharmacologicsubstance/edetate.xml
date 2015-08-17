@@ -1,0 +1,22 @@
+<Record>
+<Term>Edetate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Chelating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chelating Agent/Edetate Disodium</ClassificationPath>
+<BroaderTerm>Chelating Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Edetate Disodium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Sodium versenate</Synonym>
+<Synonym>Disodium edetate</Synonym>
+<Synonym>Edetate disodium</Synonym>
+<Synonym>EDETATE DISODIUM</Synonym>
+<Synonym>Edetate Disodium</Synonym>
+<Synonym>Edetate</Synonym>
+<Description>The disodium salt form of edetate, a heavy metal chelating agent with anti-hypercalcemic and anti-arrhythmic properties. Edetate, a heavy metal antagonist, chelates divalent and trivalent metals, forming soluble stable complexes which are readily excreted by the kidneys, thereby can be used to lower serum calcium concentrations. In addition, this agent exerts a negative inotropic effect on the heart through a transiently induced hypocalcemic state, thereby antagonizing the inotropic and chronotropic effects of digitalis glycosides on the ventricles of the heart. Upon ocular administration, edetate exerts its ophthalmic effect by chelating calcium to form soluble complexes, thereby removing corneal calcium deposits.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Gastrointestinal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Intestinal Disorder</ChildTerm>
+<ChildTerm>Stomach Disorder</ChildTerm>
+<ChildTerm>Pancreatic Disorder</ChildTerm>
+<ChildTerm>Esophageal Disorder</ChildTerm>
+<ChildTerm>Gastrointestinal Precancerous Condition</ChildTerm>
+<ChildTerm>Anal Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Gastrointestinal Disorder</ChildTerm>
+<ChildTerm>Liver and Biliary Tract Disorder</ChildTerm>
+<ChildTerm>Gastrointestinal Polyp</ChildTerm>
+<Synonym>Digestive Diseases</Synonym>
+<Synonym>GASTROINTESTINAL DISORDERS</Synonym>
+<Synonym>Gastrointestinal Diseases and Manifestations</Synonym>
+<Synonym>Gastrointestinal Disorder</Synonym>
+<Description>Diseases of the digestive tract (oral cavity to anus) and associated organs (salivary glands, liver, pancreas).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

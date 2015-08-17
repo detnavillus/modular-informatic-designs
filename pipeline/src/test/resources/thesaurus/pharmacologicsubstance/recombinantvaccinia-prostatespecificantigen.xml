@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Vaccinia-Prostate Specific Antigen</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-Prostate Specific Antigen</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-Prostate Specific Antigen</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-PSA</Synonym>
+<Synonym>Recombinant Vaccinia-Prostate Specific Antigen</Synonym>
+<Synonym>rV-PSA</Synonym>
+<Description>A recombinant vaccinia virus encoding prostate-specific antigen (PSA).  Vaccination with recombinant vaccinia-PSA may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against tumor cells positive for PSA, which may decrease tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

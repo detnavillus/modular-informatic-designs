@@ -1,0 +1,26 @@
+<Record>
+<Term>Bacterial Eye Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Eye Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Keratoconjunctivitis, Infectious</ChildTerm>
+<ChildTerm>Conjunctivitis, Bacterial</ChildTerm>
+<ChildTerm>Uveitis, Suppurative</ChildTerm>
+<ChildTerm>Tuberculosis, Ocular</ChildTerm>
+<ChildTerm>Hordeolum</ChildTerm>
+<Synonym>Bacterial Ocular Infections</Synonym>
+<Synonym>Bacterial Eye Infections</Synonym>
+<Synonym>Bacterial Ocular Infection</Synonym>
+<Synonym>Bacterial Eye Infection</Synonym>
+<Description>Infections in the inner or external eye caused by microorganisms belonging to several families of bacteria. Some of the more common genera found are Haemophilus, Neisseria, Staphylococcus, Streptococcus, and Chlamydia.</Description>
+<Source>MeSH</Source>
+</Record>

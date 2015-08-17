@@ -1,0 +1,26 @@
+<Record>
+<Term>Meningism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Meningism</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Meningism</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Meningism</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Dupres Syndrome</Synonym>
+<Synonym>Meningitis-Like Reaction</Synonym>
+<Synonym>Meningitis Like Reaction</Synonym>
+<Synonym>Meningismus</Synonym>
+<Synonym>Pseudomeningitides</Synonym>
+<Synonym>Meningitis-Like Reactions</Synonym>
+<Synonym>Dupre Syndrome</Synonym>
+<Synonym>Meningism</Synonym>
+<Synonym>Meningisms</Synonym>
+<Synonym>Pseudomeningitis</Synonym>
+<Synonym>Dupre's Syndrome</Synonym>
+<Description>A condition characterized by neck stiffness, headache, and other symptoms suggestive of meningeal irritation, but without actual inflammation of the meninges (MENINGITIS). Spinal fluid pressure may be elevated but spinal fluid is normal. (DeJong, The Neurologic Examination, 4th ed, p673)</Description>
+<Source>MeSH</Source>
+</Record>

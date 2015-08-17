@@ -1,0 +1,23 @@
+<Record>
+<Term>Intrinsic Positive-Pressure Respiration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Insufficiency</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Insufficiency/Positive-Pressure Respiration, Intrinsic</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Positive-Pressure Respiration, Intrinsic</BroaderTerm>
+<BroaderTerm>Respiratory Insufficiency</BroaderTerm>
+<Synonym>Intrinsic Positive-Pressure Respiration</Synonym>
+<Synonym>AutoPEEP</Synonym>
+<Synonym>Intrinsic PEEP</Synonym>
+<Synonym>Non-Therapeutic Positive-Pressure Respiration</Synonym>
+<Synonym>Non Therapeutic Positive Pressure Respiration</Synonym>
+<Synonym>Occult PEEP</Synonym>
+<Synonym>Occult Positive-Pressure Respiration</Synonym>
+<Synonym>Nontherapeutic Positive-Pressure Respiration</Synonym>
+<Synonym>Nontherapeutic Positive Pressure Respiration</Synonym>
+<Synonym>Auto-PEEP</Synonym>
+<Synonym>Auto PEEP</Synonym>
+<Description>Non-therapeutic positive end-expiratory pressure occurring frequently in patients with severe airway obstruction. It can appear with or without the administration of external positive end-expiratory pressure (POSITIVE-PRESSURE RESPIRATION). It presents an important load on the inspiratory muscles which are operating at a mechanical disadvantage due to hyperinflation. Auto-PEEP may cause profound hypotension that should be treated by intravascular volume expansion, increasing the time for expiration, and/or changing from assist mode to intermittent mandatory ventilation mode. (From Harrison's Principles of Internal Medicine, 12th ed, p1127)</Description>
+<Source>MeSH</Source>
+</Record>

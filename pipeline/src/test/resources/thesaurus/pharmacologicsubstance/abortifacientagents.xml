@@ -1,0 +1,20 @@
+<Record>
+<Term>Abortifacient Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reproductive Control Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Abortifacient Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Abortifacient Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Abortifacient Agents</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Abortifacient Agents, Steroidal</ChildTerm>
+<ChildTerm>Abortifacient Agents, Nonsteroidal</ChildTerm>
+<Synonym>Postconception Contraceptive Agents</Synonym>
+<Synonym>Abortifacient Agents</Synonym>
+<Synonym>Abortifacients</Synonym>
+<Description>Chemical substances that interrupt pregnancy after implantation.</Description>
+<Source>MeSH</Source>
+</Record>

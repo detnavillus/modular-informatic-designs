@@ -1,0 +1,56 @@
+<Record>
+<Term>Hepatitis C</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Viral Hepatitis</ParentTerm>
+<ParentTerm>Hepatitis, Viral, Human</ParentTerm>
+<ParentTerm>Flaviviridae Infections</ParentTerm>
+<ParentTerm>Hepatitis Virus</ParentTerm>
+<ClassificationPath>Organism_Kind/Organism/Virus/Other Virus Grouping/Hepatitis Virus/Hepatitis C Virus,/NCIThesaurus/Organism_Kind/Organism/Virus/RNA Virus/Positive Sense ssRNA Virus/Flavivirus/Hepatitis C Virus</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human/Hepatitis C</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis/Viral Hepatitis/Hepatitis C Infection</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human/Hepatitis C</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Hepatitis C</ClassificationPath>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Positive Sense ssRNA Virus</BroaderTerm>
+<BroaderTerm>Hepatitis C Virus,</BroaderTerm>
+<BroaderTerm>Hepatitis C Virus</BroaderTerm>
+<BroaderTerm>Other Virus Grouping</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Organism_Kind</BroaderTerm>
+<BroaderTerm>RNA Virus</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Flavivirus</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis C Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Viral Hepatitis</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Organism</BroaderTerm>
+<BroaderTerm>Hepatitis Virus</BroaderTerm>
+<BroaderTerm>Virus</BroaderTerm>
+<BroaderTerm>Hepatitis C</BroaderTerm>
+<ChildTerm>Hepatitis C, Chronic</ChildTerm>
+<Synonym>hepatitis C</Synonym>
+<Synonym>Hepatitis C Virus</Synonym>
+<Synonym>Virus-Hepatitis C</Synonym>
+<Synonym>PT-NANBH</Synonym>
+<Synonym>Hepatitis C Infection</Synonym>
+<Synonym>Non-A, Non-B Hepatitis</Synonym>
+<Synonym>NANBH</Synonym>
+<Synonym>HCV</Synonym>
+<Synonym>Hepatitis C</Synonym>
+<Description>INFLAMMATION of the LIVER in humans caused by HEPATITIS C VIRUS, a single-stranded RNA virus. Its incubation period is 30-90 days. Hepatitis C is transmitted primarily by contaminated blood parenterally, and is often associated with transfusion and intravenous drug abuse. However, in a significant number of cases, the source of hepatitis C infection is unknown.</Description>
+<Description>A viral infection caused by the hepatitis C virus.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

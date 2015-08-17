@@ -1,0 +1,23 @@
+<Record>
+<Term>Female Athlete Triad Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteoporosis</ParentTerm>
+<ParentTerm>Eating Disorders</ParentTerm>
+<ParentTerm>Gonadal Disorders</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Osteoporosis/Female Athlete Triad Syndrome</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Female Athlete Triad Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Eating Disorders/Female Athlete Triad Syndrome</ClassificationPath>
+<BroaderTerm>Osteoporosis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Eating Disorders</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Female Athlete Triad Syndrome</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Female Athlete Triad</Synonym>
+<Synonym>Female Athlete Triad Syndrome</Synonym>
+<Description>A condition of competitive female athletes in which there are interrelated problems of EATING DISORDERS; AMENORRHEA; and OSTEOPOROSIS.</Description>
+<Source>MeSH</Source>
+</Record>

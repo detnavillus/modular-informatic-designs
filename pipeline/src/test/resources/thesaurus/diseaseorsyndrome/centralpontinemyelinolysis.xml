@@ -1,0 +1,25 @@
+<Record>
+<Term>Central Pontine Myelinolysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Myelinolysis, Central Pontine</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Myelinolysis, Central Pontine</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Myelinolysis, Central Pontine</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Myelinolysis, Central Pontine</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Extrapontine Myelinoclases</Synonym>
+<Synonym>Extrapontine Myelinolysis</Synonym>
+<Synonym>Extrapontine Myelinoclasis</Synonym>
+<Synonym>Extrapontine Myelinolyses</Synonym>
+<Synonym>Central Pontine Myelinoclasis</Synonym>
+<Synonym>Central Pontine Myelinolysis</Synonym>
+<Description>A demyelinating condition affecting the PONS and characterized clinically by an acute progressive QUADRIPLEGIA; DYSARTHRIA; DYSPHAGIA; and alterations of consciousness. Pathologic features include prominent demyelination in the central PONS with sparing of axons and neurons. This condition is usually associated with systemic disorders such as HYPONATREMIA; chronic ALCOHOLISM; LIVER FAILURE; severe BURNS; malignant NEOPLASMS; hemorrhagic PANCREATITIS; HEMODIALYSIS; and SEPSIS. The rapid medical correction of hyponatremia has been cited as a cause of this condition. (From Adams et al., Principles of Neurology, 6th ed, pp1125-6)</Description>
+<Source>MeSH</Source>
+</Record>

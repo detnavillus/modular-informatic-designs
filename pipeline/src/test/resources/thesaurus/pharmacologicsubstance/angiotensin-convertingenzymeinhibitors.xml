@@ -1,0 +1,72 @@
+<Record>
+<Term>Angiotensin-Converting Enzyme Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ParentTerm>Protease Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Protease Inhibitors/Angiotensin-Converting Enzyme Inhibitors</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/ACE Inhibitor</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Angiotensin-Converting Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>ACE Inhibitor</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Protease Inhibitors</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Enalapril</ChildTerm>
+<ChildTerm>Spirapril Hydrochloride</ChildTerm>
+<ChildTerm>Spirapril</ChildTerm>
+<ChildTerm>Ramipril</ChildTerm>
+<ChildTerm>Rentiapril</ChildTerm>
+<ChildTerm>Trandolapril</ChildTerm>
+<ChildTerm>Utibaprilat</ChildTerm>
+<ChildTerm>Pentopril</ChildTerm>
+<ChildTerm>Omapatrilat</ChildTerm>
+<ChildTerm>Imidapril</ChildTerm>
+<ChildTerm>Delapril Hydrochloride</ChildTerm>
+<ChildTerm>Moexipril Hydrochloride</ChildTerm>
+<ChildTerm>Enalaprilat</ChildTerm>
+<ChildTerm>Ramiprilat</ChildTerm>
+<ChildTerm>Trandolaprilat</ChildTerm>
+<ChildTerm>Zofenoprilat Arginine</ChildTerm>
+<ChildTerm>Fosinoprilat</ChildTerm>
+<ChildTerm>Moexiprilat</ChildTerm>
+<ChildTerm>Imidaprilat</ChildTerm>
+<ChildTerm>Perindopril</ChildTerm>
+<ChildTerm>Quinapril Hydrochloride</ChildTerm>
+<ChildTerm>Perindopril Erbumine</ChildTerm>
+<ChildTerm>Lisinopril</ChildTerm>
+<ChildTerm>Zabiciprilat</ChildTerm>
+<ChildTerm>Enalapril Maleate</ChildTerm>
+<ChildTerm>Captopril</ChildTerm>
+<ChildTerm>Perindoprilat</ChildTerm>
+<ChildTerm>Fosinopril Sodium</ChildTerm>
+<ChildTerm>Fosinopril</ChildTerm>
+<ChildTerm>Benazepril</ChildTerm>
+<ChildTerm>Pivopril</ChildTerm>
+<ChildTerm>Benazepril Hydrochloride</ChildTerm>
+<ChildTerm>Quinapril</ChildTerm>
+<ChildTerm>Fasidotril</ChildTerm>
+<ChildTerm>Benazeprilat</ChildTerm>
+<Synonym>(ACE)-inhibitor</Synonym>
+<Synonym>Angiotensin Converting Enzyme Antagonists</Synonym>
+<Synonym>Angiotensin I-Converting Enzyme Inhibitors</Synonym>
+<Synonym>Kininase II Antagonists</Synonym>
+<Synonym>Angiotensin Converting Enzyme Inhibitors</Synonym>
+<Synonym>Angiotensin-Converting Enzyme Inhibitors</Synonym>
+<Synonym>Kininase II Inhibitors</Synonym>
+<Synonym>Angiotensin-Converting Enzyme Inhibitor</Synonym>
+<Synonym>ACE Inhibitor</Synonym>
+<Synonym>ACE Inhibitors</Synonym>
+<Synonym>Angiotensin-Converting Enzyme Antagonists</Synonym>
+<Synonym>Angiotensin I Converting Enzyme Inhibitors</Synonym>
+<Description>A class of agents that target at angiotensin-converting enzyme (ACE), which catalyzes conversion of angiotensin I to angiotensin II. As a result these inhibitors cause vasodilation and mild natriuresis.  In addition, ACE inhibitors induce prostaglandin synthesis, which also plays a role in their antihypertensive effects.</Description>
+<Description>A class of drugs whose main indications are the treatment of hypertension and heart failure. They exert their hemodynamic effect mainly by inhibiting the renin-angiotensin system. They also modulate sympathetic nervous system activity and increase prostaglandin synthesis. They cause mainly vasodilation and mild natriuresis without affecting heart rate and contractility.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

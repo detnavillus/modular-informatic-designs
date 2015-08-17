@@ -1,0 +1,22 @@
+<Record>
+<Term>Marijuana Abuse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Marijuana Abuse</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Marijuana Abuse</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Marijuana Abuse</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<Synonym>Hashish Abuse</Synonym>
+<Synonym>Marijuana Abuse</Synonym>
+<Synonym>Marijuana Dependence</Synonym>
+<Synonym>Marihuana Abuse</Synonym>
+<Synonym>Cannabis Related Disorder</Synonym>
+<Synonym>Cannabis Abuse</Synonym>
+<Synonym>Cannabis Dependence</Synonym>
+<Synonym>Cannabis-Related Disorder</Synonym>
+<Description>The excessive use of marijuana with associated psychological symptoms and impairment in social or occupational functioning.</Description>
+<Source>MeSH</Source>
+</Record>

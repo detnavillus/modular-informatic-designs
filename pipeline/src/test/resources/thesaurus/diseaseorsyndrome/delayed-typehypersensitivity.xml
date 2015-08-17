@@ -1,0 +1,20 @@
+<Record>
+<Term>Delayed-Type Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Hypersensitivity/Delayed-Type Hypersensitivity</ClassificationPath>
+<BroaderTerm>Delayed-Type Hypersensitivity</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Delayed-Type Hypersensitivity</Synonym>
+<Synonym>Delayed-Type Hypersensitivity Response</Synonym>
+<Synonym>delayed-type hypersensitivity response</Synonym>
+<Description>Delayed hypersensitivity reaction (DTH) - type IV reaction, an inflammatory response that develops 24 to 72 hours after exposure to an antigen that the immune system recognizes as foreign. DTH is mediated by T cells rather than by antibodies. Th1 cells produce interferon gamma, interleukin (IL)-2, and tumor necrosis factor-beta and promote a cell-mediated immune response.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,32 @@
+<Record>
+<Term>Rat-Bite Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fusobacteriaceae Infections</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ParentTerm>Zoonotic Bacterial Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Fusobacteriaceae Infections/Rat-Bite Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rat-Bite Fever</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Zoonotic Infection/Zoonotic Bacterial Infection/Rat-Bite Fever</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Fusobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Zoonotic Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Zoonotic Bacterial Infection</BroaderTerm>
+<BroaderTerm>Rat-Bite Fever</BroaderTerm>
+<Synonym>Rat Bite Fever</Synonym>
+<Synonym>Ratbite Fevers</Synonym>
+<Synonym>Ratbite Fever</Synonym>
+<Synonym>Sodoku</Synonym>
+<Synonym>Rat-Bite Fever</Synonym>
+<Synonym>Rat-Bite Fevers</Synonym>
+<Description>A syndrome characterized by recurring fever, rash, and arthralgias occurring days to weeks after a rat bite. The causative agents are either Streptobacillus moniliformis or Spirillum minus.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Aromatase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aromatase Inhibitor</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Aromatase Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aromatase Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Steroidal Aromatase Inhibitor</ChildTerm>
+<ChildTerm>Non-Steroidal Aromatase Inhibitor</ChildTerm>
+<ChildTerm>Plomestane</ChildTerm>
+<Synonym>Estrogen Synthase Inhibitor</Synonym>
+<Synonym>Androstenedione Aromatase Inhibitor</Synonym>
+<Synonym>Aromatase Inhibitor</Synonym>
+<Synonym>Aromatase Inhibitors</Synonym>
+<Synonym>Estrogen Synthetase Inhibitor</Synonym>
+<Description>Compounds that inhibit AROMATASE in order to reduce production of estrogenic steroid hormones.</Description>
+<Description>An agent that blocks the function of the enzyme aromatase with antineoplastic activity.  Aromatase inhibitors belong to two classes: Type I steroidal drugs are androgen substrate analogues that bind competitively but irreversibly to the enzyme.  Type II nonsteroidal inhibitors fit into the substrate binding site and bind reversibly to the enzyme.  Present in many tissues, aromatases are heme-containing enzymes that catalyze the adrenal conversion of cholesterol to pregnenolone and the peripheral conversion (aromatization) of androgenic precursors to estrogens. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

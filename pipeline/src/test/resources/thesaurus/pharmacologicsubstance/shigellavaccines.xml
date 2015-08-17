@@ -1,0 +1,15 @@
+<Record>
+<Term>Shigella Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Shigella Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Shigella Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Shigella Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent bacillary dysentery (DYSENTERY, BACILLARY) caused by species of SHIGELLA.</Description>
+<Source>MeSH</Source>
+</Record>

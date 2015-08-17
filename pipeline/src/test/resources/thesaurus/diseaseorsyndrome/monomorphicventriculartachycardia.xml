@@ -1,0 +1,24 @@
+<Record>
+<Term>Monomorphic Ventricular Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia/Ventricular Tachycardia/Monomorphic Ventricular Tachycardia</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Ventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Monomorphic Ventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Monomorphic Ventricular Tachycardia</Synonym>
+<Synonym>VENTRICULAR TACHYCARDIA, MONOMORPHIC</Synonym>
+<Synonym>Ventricular Tachycardia, Monomorphic</Synonym>
+<Synonym>Ventricular tachycardia, monomorphic</Synonym>
+<Description>A ventricular tachycardia in which the ventricular activation sequence is constant. The morphology of the electrocardiographic waveform is unchanging and is referred to as monomorphic.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

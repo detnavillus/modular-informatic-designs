@@ -1,0 +1,22 @@
+<Record>
+<Term>Doripenem</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Lactam Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Beta-Lactam Antibiotic/Doripenem</ClassificationPath>
+<BroaderTerm>Doripenem</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Beta-Lactam Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Doripenem</Synonym>
+<Synonym>DORIPENEM</Synonym>
+<Synonym>Doribax</Synonym>
+<Synonym>FInibax</Synonym>
+<Synonym>S-4661</Synonym>
+<Description>A broad-spectrum, carbapenem antibiotic with bactericidal and beta-lactamase resistant activities. Doripenem binds to penicillin binding proteins (PBPs) located on the bacterial cell wall, particularly PBPs 2 and 3, thereby inhibiting the final transpeptidation step in the synthesis of peptidoglycan, an essential component of the bacterial cell wall. Inhibition results in a weakening and eventually lysis of the bacterial cell wall. This agent is two- to 16-fold more potent than imipenem and comparable to ertapenem and meropenem.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

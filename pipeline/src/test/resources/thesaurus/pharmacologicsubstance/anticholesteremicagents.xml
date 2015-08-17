@@ -1,0 +1,22 @@
+<Record>
+<Term>Anticholesteremic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antilipemic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antilipemic Agents/Anticholesteremic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antimetabolites/Antilipemic Agents/Anticholesteremic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anticholesteremic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antilipemic Agents</BroaderTerm>
+<BroaderTerm>Antimetabolites</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Hydroxymethylglutaryl-CoA Reductase Inhibitors</ChildTerm>
+<Synonym>Cholesterol Inhibitors</Synonym>
+<Synonym>Anticholesteremics</Synonym>
+<Synonym>Anticholesteremic Agents</Synonym>
+<Synonym>Anticholesteremic Drugs</Synonym>
+<Synonym>Hypocholesteremic Agents</Synonym>
+<Description>Substances used to lower plasma cholesterol levels.</Description>
+<Source>MeSH</Source>
+</Record>

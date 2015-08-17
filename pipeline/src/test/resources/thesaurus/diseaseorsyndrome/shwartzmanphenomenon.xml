@@ -1,0 +1,24 @@
+<Record>
+<Term>Shwartzman Phenomenon</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemostatic Disorders</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Shwartzman Phenomenon</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemostatic Disorders/Shwartzman Phenomenon</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hemostatic Disorders/Shwartzman Phenomenon</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Shwartzman Phenomenon</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hemostatic Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Schwartzman Reactions</Synonym>
+<Synonym>Shwartzman Phenomenon</Synonym>
+<Synonym>Shwartzman Reaction</Synonym>
+<Synonym>Schwartzman Phenomenon</Synonym>
+<Synonym>Schwartzman Reaction</Synonym>
+<Description>Hemorrhagic necrosis that was first demonstrated in rabbits with a two-step reaction, an initial local (intradermal) or general (intravenous) injection of a priming endotoxin (ENDOTOXINS) followed by a second intravenous endotoxin injection (provoking agent) 24 h later. The acute inflammation damages the small blood vessels. The following intravascular coagulation leads to capillary and venous THROMBOSIS and NECROSIS. Shwartzman phenomenon can also occur in other species with a single injection of a provoking agent, and during infections or pregnancy. Its susceptibility depends on the status of IMMUNE SYSTEM, coagulation, FIBRINOLYSIS, and blood flow.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Peritoneal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peritoneal and Retroperitoneal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Peritoneal Disorder</ClassificationPath>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Peritoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Endosalpingiosis</ChildTerm>
+<ChildTerm>Non-Neoplastic Peritoneal Disorder</ChildTerm>
+<ChildTerm>Ascites</ChildTerm>
+<Synonym>Peritoneal Disease</Synonym>
+<Synonym>Peritoneal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

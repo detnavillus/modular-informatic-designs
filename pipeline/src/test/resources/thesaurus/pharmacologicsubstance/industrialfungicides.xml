@@ -1,0 +1,18 @@
+<Record>
+<Term>Industrial Fungicides</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Pesticides</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Pesticides/Fungicides, Industrial</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Pesticides/Fungicides, Industrial</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Agrochemicals/Pesticides/Fungicides, Industrial</ClassificationPath>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Agrochemicals</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Fungicides, Industrial</BroaderTerm>
+<BroaderTerm>Pesticides</BroaderTerm>
+<Synonym>Industrial Fungicides</Synonym>
+<Description>Chemicals that kill or inhibit the growth of fungi in agricultural applications, on wood, plastics, or other materials, in swimming pools, etc.</Description>
+<Source>MeSH</Source>
+</Record>

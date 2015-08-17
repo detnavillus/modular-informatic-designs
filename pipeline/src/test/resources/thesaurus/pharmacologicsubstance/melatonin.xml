@@ -1,0 +1,44 @@
+<Record>
+<Term>Melatonin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Neuroreactive Substance or Biogenic Amine</SemanticType>
+<ParentTerm>Hormones</ParentTerm>
+<ParentTerm>Miscellaneous Hormone Agent</ParentTerm>
+<ParentTerm>Tryptamines</ParentTerm>
+<ParentTerm>Hormone</ParentTerm>
+<ClassificationPath>Heterocyclic Compounds/Heterocyclic Compounds, 2-Ring/Indoles/Tryptamines/Melatonin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Physiology-Regulatory Factor/Hormone/Melatonin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Therapeutic Melatonin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Antioxidant/Therapeutic Melatonin</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Melatonin</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Melatonin</BroaderTerm>
+<BroaderTerm>Therapeutic Melatonin,</BroaderTerm>
+<BroaderTerm>Tryptamines</BroaderTerm>
+<BroaderTerm>Antioxidant</BroaderTerm>
+<BroaderTerm>Hormone</BroaderTerm>
+<BroaderTerm>Indoles</BroaderTerm>
+<BroaderTerm>Physiology-Regulatory Factor</BroaderTerm>
+<BroaderTerm>Therapeutic Melatonin</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds, 2-Ring</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Melatonin</Synonym>
+<Synonym>Circadin</Synonym>
+<Synonym>Therapeutic Melatonin</Synonym>
+<Synonym>N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide</Synonym>
+<Synonym>5-Methoxy-N-acetyltryptamine</Synonym>
+<Description>A hormone involved in sleep regulatory activity, and a tryptophan-derived neurotransmitter, which inhibits the synthesis and secretion of other neurotransmitters such as dopamine and GABA. Melatonin is synthesized from serotonin intermediate in the pineal gland and the retina where the enzyme 5-hydroxyindole-O-methyltransferase, that catalyzes the last step of synthesis, is found. This hormone binds to and activates melatonin receptors and is involved in regulating the sleep and wake cycles. In addition, melatonin possesses antioxidative and immunoregulatory properties via regulating other neurotransmitters.</Description>
+<Description>A biogenic amine that is found in animals and plants. In mammals, melatonin is produced by the PINEAL GLAND. Its secretion increases in darkness and decreases during exposure to light. Melatonin is implicated in the regulation of SLEEP, mood, and REPRODUCTION. Melatonin is also an effective antioxidant.</Description>
+<Description>A therapeutic chemically synthesized form of the pineal indole melatonin with antioxidant properties. The pineal synthesis and secretion of melatonin, a serotonin-derived neurohormone, is dependent on beta-adrenergic receptor function. Melatonin is involved in numerous biological functions including circadian rhythm, sleep, the stress response, aging, and immunity.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

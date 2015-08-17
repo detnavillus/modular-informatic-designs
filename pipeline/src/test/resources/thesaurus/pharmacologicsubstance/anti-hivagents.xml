@@ -1,0 +1,27 @@
+<Record>
+<Term>Anti-HIV Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Retroviral Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents/Anti-Retroviral Agents/Anti-HIV Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-HIV Agents</BroaderTerm>
+<BroaderTerm>Anti-Retroviral Agents</BroaderTerm>
+<ChildTerm>HIV Protease Inhibitors</ChildTerm>
+<ChildTerm>HIV Integrase Inhibitors</ChildTerm>
+<ChildTerm>HIV Fusion Inhibitors</ChildTerm>
+<Synonym>Anti-HIV Agents</Synonym>
+<Synonym>Anti HIV Agents</Synonym>
+<Synonym>Anti-HIV Drugs</Synonym>
+<Synonym>Anti HIV Drugs</Synonym>
+<Synonym>AIDS Drugs</Synonym>
+<Synonym>Anti-AIDS Agents</Synonym>
+<Synonym>Anti AIDS Agents</Synonym>
+<Synonym>Anti-AIDS Drugs</Synonym>
+<Synonym>Anti AIDS Drugs</Synonym>
+<Description>Agents used to treat AIDS and/or stop the spread of the HIV infection. These do not include drugs used to treat symptoms or opportunistic infections associated with AIDS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Conjunctival Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases</ClassificationPath>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Conjunctival Neoplasms</ChildTerm>
+<ChildTerm>Conjunctivitis</ChildTerm>
+<ChildTerm>Pterygium</ChildTerm>
+<ChildTerm>Xerophthalmia</ChildTerm>
+<ChildTerm>Pemphigoid, Benign Mucous Membrane</ChildTerm>
+<Synonym>Conjunctival Diseases</Synonym>
+<Synonym>Conjunctival Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

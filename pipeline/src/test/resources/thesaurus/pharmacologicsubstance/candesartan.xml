@@ -1,0 +1,19 @@
+<Record>
+<Term>Candesartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Candesartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Candesartan</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-Ethoxy-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]-3H-benzoimidazole-4-carboxylic Acid</Synonym>
+<Synonym>CANDESARTAN</Synonym>
+<Synonym>Candesartan</Synonym>
+<Description>A synthetic, benzimidazole-derived angiotensin II receptor antagonist prodrug with antihypertensive activity. Candesartan selectively competes with angiotensin II for the binding of the angiotensin II receptor subtype 1 (AT1) in vascular smooth muscle, blocking angiotensin II-mediated vasoconstriction and inducing vasodilatation. In addition, antagonism of AT1 in the adrenal gland inhibits angiotensin II-stimulated aldosterone synthesis and secretion by the adrenal cortex; sodium and water excretion increase, followed by a reduction in plasma volume and blood pressure.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

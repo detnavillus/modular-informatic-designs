@@ -1,0 +1,18 @@
+<Record>
+<Term>Sensory System Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peripheral Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Analgesics</ChildTerm>
+<ChildTerm>Anesthetics, Local</ChildTerm>
+<ChildTerm>Narcotic Antagonists</ChildTerm>
+<Synonym>Sensory System Agents</Synonym>
+<Synonym>Sensory System Drugs</Synonym>
+<Description>Drugs that act on neuronal sensory receptors resulting in an increase, decrease, or modification of afferent nerve activity. (From Smith and Reynard, Textbook of Pharmacology, 1991, p367)</Description>
+<Source>MeSH</Source>
+</Record>

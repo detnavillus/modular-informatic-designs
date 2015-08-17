@@ -1,0 +1,28 @@
+<Record>
+<Term>Clofarabine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Ribonucleotide Reductase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Purine Antagonist/Clofarabine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Ribonucleotide Reductase Inhibitor/Clofarabine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Purine Antagonist</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Clofarabine</BroaderTerm>
+<BroaderTerm>Ribonucleotide Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Clofarabine,</BroaderTerm>
+<Synonym>clofarabine</Synonym>
+<Synonym>2-Chloro-9-(2-deoxy-2-fluoroarabinofuranosyl)adenine</Synonym>
+<Synonym>Clofarabine</Synonym>
+<Synonym>Clolar</Synonym>
+<Synonym>Clofarex</Synonym>
+<Synonym>2-Chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl)-9H-purin-6-amine</Synonym>
+<Synonym>CLOFARABINE</Synonym>
+<Description>A second generation purine nucleoside analog with antineoplastic activity. Clofarabine is phosphorylated intracellularly to the cytotoxic active 5'-triphosphate metabolite, which inhibits the enzymatic activities of ribonucleotide reductase and DNA polymerase, resulting in inhibition of DNA repair and synthesis of DNA and RNA. This nucleoside analog also disrupts mitochondrial function and membrane integrity, resulting in the release of pre-apoptotic factors, including cytochrome C and apoptotic-inducing factors, which activate apoptosis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

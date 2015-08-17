@@ -1,0 +1,26 @@
+<Record>
+<Term>Fenofibrate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antilipidemic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antilipidemic Agent/Fenofibrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Fenofibrate</BroaderTerm>
+<BroaderTerm>Antilipidemic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fenoglide</Synonym>
+<Synonym>Antara (micronized)</Synonym>
+<Synonym>Fenofibrate (micronized)</Synonym>
+<Synonym>Lipofen</Synonym>
+<Synonym>Tricor (micronized)</Synonym>
+<Synonym>Tricor</Synonym>
+<Synonym>Lipidil</Synonym>
+<Synonym>Fenofibrate</Synonym>
+<Synonym>Triglide</Synonym>
+<Synonym>FENOFIBRATE</Synonym>
+<Description>A synthetic phenoxy-isobutyric acid derivate and prodrug with antihyperlipidemic activity. Fenofibrate is hydrolyzed in vivo to its active metabolite fenofibric acid that binds to and activates peroxisome proliferator activated receptor alpha (PPARalpha), resulting in the activation of lipoprotein lipase and reduction of the production of apoprotein C-III, an inhibitor of lipoprotein lipase activity. Increased lipolysis and a fall in plasma triglycerides, in turn, leads to the modification of the small, dense low density lipoporotein (LDL) particles into larger particles that are catabolized more rapidly. In addition, activation of PPARalpha also increases the synthesis of apoproteins A-I, A-II, and high density lipoprotein (HDL)-cholesterol. Overall, fenofibrate reduces total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides and triglyceride rich lipoprotein (VLDL) while increasing HDL cholesterol.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

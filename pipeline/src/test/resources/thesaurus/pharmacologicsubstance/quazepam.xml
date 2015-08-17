@@ -1,0 +1,23 @@
+<Record>
+<Term>Quazepam</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Benzodiazepine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Benzodiazepine/Quazepam</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Benzodiazepine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Quazepam</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Dormalin</Synonym>
+<Synonym>Selepam</Synonym>
+<Synonym>Quazepam</Synonym>
+<Synonym>QUAZEPAM</Synonym>
+<Synonym>Doral</Synonym>
+<Synonym>2H-1,4-Benzodiazepine-2-thione, 7-chloro-5-(2-fluorophenyl)-1,3-dihydro-1-(2,2,2-trifluoroethyl)-</Synonym>
+<Description>A synthetic benzodiazepine derivative with anxiolytic, sedative and hypnotic properties. Quazepam and its major metabolite 2-oxoquazepam potentiate gamma-aminobutyric acid (GABA) activity by binding to the benzodiazepine-1 recognition site (BZ-1) within the GABA-A receptor, located in the limbic, neocortical and mesencephalic reticular system. This increases the frequency of GABA-activated chloride channel opening events, allowing the flow of chloride ions into the neuron leading to membrane hyperpolarization and decreased neuronal excitability.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

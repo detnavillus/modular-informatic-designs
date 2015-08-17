@@ -1,0 +1,29 @@
+<Record>
+<Term>Herpetic Keratitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratitis</ParentTerm>
+<ParentTerm>Eye Infections, Viral</ParentTerm>
+<ParentTerm>Herpes Simplex</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Keratitis, Herpetic</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral/Keratitis, Herpetic</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Herpes Simplex/Keratitis, Herpetic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral/Keratitis, Herpetic</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>Keratitis, Herpetic</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Herpes Simplex</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Keratitis, Dendritic</ChildTerm>
+<Synonym>Herpetic Keratitis</Synonym>
+<Synonym>Herpes Simplex Keratitides</Synonym>
+<Synonym>Ocular Herpes Simplex</Synonym>
+<Synonym>Herpetic Keratitides</Synonym>
+<Synonym>Herpes Simplex Keratitis</Synonym>
+<Description>A superficial, epithelial Herpesvirus hominis infection of the cornea, characterized by the presence of small vesicles which may break down and coalesce to form dendritic ulcers (KERATITIS, DENDRITIC). (Dictionary of Visual Science, 3d ed)</Description>
+<Source>MeSH</Source>
+</Record>

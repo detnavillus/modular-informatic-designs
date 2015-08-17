@@ -1,0 +1,51 @@
+<Record>
+<Term>Antitussive Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Antitussive Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Antitussive Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antitussive Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antitussive Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antitussive Agent</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Homarylamine</ChildTerm>
+<ChildTerm>Iquindamine</ChildTerm>
+<ChildTerm>Prenoxdiazine</ChildTerm>
+<ChildTerm>Morclofone</ChildTerm>
+<ChildTerm>Zipeprol</ChildTerm>
+<ChildTerm>Sodium Dibunate</ChildTerm>
+<ChildTerm>Droxypropine</ChildTerm>
+<ChildTerm>Bibenzonium</ChildTerm>
+<ChildTerm>Hydrocodone</ChildTerm>
+<ChildTerm>Brometenamine</ChildTerm>
+<ChildTerm>Mofoxime</ChildTerm>
+<ChildTerm>Guaiapate</ChildTerm>
+<ChildTerm>Pituxate</ChildTerm>
+<ChildTerm>Alloclamide</ChildTerm>
+<ChildTerm>Etofuradine</ChildTerm>
+<ChildTerm>Hydrocodone Bitartrate</ChildTerm>
+<ChildTerm>Xyloxemine</ChildTerm>
+<ChildTerm>Benzonatate</ChildTerm>
+<ChildTerm>Bibenzonium Bromide</ChildTerm>
+<ChildTerm>Dimemorfan</ChildTerm>
+<ChildTerm>Flualamide</ChildTerm>
+<Synonym>Antitussives</Synonym>
+<Synonym>Antitussive Agents</Synonym>
+<Synonym>Antitussive Agent</Synonym>
+<Synonym>Antitussive Drugs</Synonym>
+<Description>Any substance that is capable of relieving or suppressing coughing.</Description>
+<Description>Agents that suppress cough. They act centrally on the medullary cough center. EXPECTORANTS, also used in the treatment of cough, act locally.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

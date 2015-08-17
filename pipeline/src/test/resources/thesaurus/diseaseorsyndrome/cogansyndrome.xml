@@ -1,0 +1,23 @@
+<Record>
+<Term>Cogan Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vestibulocochlear Nerve Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Vestibulocochlear Nerve Diseases/Cogan Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Cogan Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Cogan Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Vestibulocochlear Nerve Diseases</BroaderTerm>
+<BroaderTerm>Cogan Syndrome</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Cogan's Syndrome</Synonym>
+<Synonym>Cogan Syndrome</Synonym>
+<Synonym>Cogans Syndrome</Synonym>
+<Description>A condition consisting of inflammatory eye disease usually presenting as interstitial KERATITIS, vestibuloauditory dysfunction, and large- to medium-vessel vasculitis.</Description>
+<Source>MeSH</Source>
+</Record>

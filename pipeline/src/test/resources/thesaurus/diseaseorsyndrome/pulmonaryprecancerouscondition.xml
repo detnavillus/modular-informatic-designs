@@ -1,0 +1,22 @@
+<Record>
+<Term>Pulmonary Precancerous Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Precancerous Condition by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Lung Disorder/Pulmonary Precancerous Condition,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site/Pulmonary Precancerous Condition</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Lung Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Pulmonary Precancerous Condition,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Pulmonary Precancerous Condition</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<ChildTerm>Diffuse Idiopathic Pulmonary Neuroendocrine Cell Hyperplasia</ChildTerm>
+<Synonym>Pulmonary Precancerous Condition</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

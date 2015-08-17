@@ -149,8 +149,8 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private void renderFieldTypeAttributesXML( IProperty prop, StringBuilder strbuilder )
   {
     strbuilder.append( "<" ).append( fieldTag ).append( " name=\"" )
-              .append( prop.getName( ) ).append( " type=\"" )
-              .append( prop.getType() ).append( ">" );
+              .append( prop.getName( ) ).append( "\" type=\"" )
+              .append( prop.getType() ).append( "\">" );
       
     String format = (propFormatMap != null) ? propFormatMap.get( prop.getName( ) ) : null;
     String propValue = (format != null) ? prop.getValue( format ) : prop.getValue( );
@@ -161,7 +161,7 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private void renderTagNameIsFieldXML( IProperty prop, StringBuilder strbuilder )
   {
     strbuilder.append( "<" ).append( fixForTagName( prop.getName( ) ) ).append( " type=\"" )
-              .append( prop.getType() ).append( ">" );
+              .append( prop.getType() ).append( "\">" );
 
     String format = (propFormatMap != null) ? propFormatMap.get( prop.getName( ) ) : null;
     String propValue = (format != null) ? prop.getValue( format ) : prop.getValue( );

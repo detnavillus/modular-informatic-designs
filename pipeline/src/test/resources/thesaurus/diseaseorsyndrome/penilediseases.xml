@@ -1,0 +1,21 @@
+<Record>
+<Term>Penile Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Penile Diseases</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Penile Diseases</BroaderTerm>
+<ChildTerm>Balanitis</ChildTerm>
+<ChildTerm>Phimosis</ChildTerm>
+<ChildTerm>Priapism</ChildTerm>
+<ChildTerm>Hypospadias</ChildTerm>
+<ChildTerm>Penile Induration</ChildTerm>
+<ChildTerm>Penile Neoplasms</ChildTerm>
+<Synonym>Penile Diseases</Synonym>
+<Synonym>Penile Disease</Synonym>
+<Synonym>Penis Diseases</Synonym>
+<Synonym>Penis Disease</Synonym>
+<Description>Pathological processes involving the PENIS or its component tissues.</Description>
+<Source>MeSH</Source>
+</Record>

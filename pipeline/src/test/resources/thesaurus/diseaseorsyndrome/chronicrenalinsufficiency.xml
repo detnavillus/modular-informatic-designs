@@ -1,0 +1,24 @@
+<Record>
+<Term>Chronic Renal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Insufficiency</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Chronic</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Chronic</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency, Chronic</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Kidney Failure, Chronic</ChildTerm>
+<Synonym>Chronic Renal Insufficiency</Synonym>
+<Synonym>CKD</Synonym>
+<Synonym>Chronic Renal Insufficiencies</Synonym>
+<Synonym>chronic kidney disease</Synonym>
+<Synonym>Chronic Kidney Insufficiencies</Synonym>
+<Synonym>Chronic Kidney Insufficiency</Synonym>
+<Description>Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+</Record>

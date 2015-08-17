@@ -1,0 +1,14 @@
+<Record>
+<Term>Catastrophic Illness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Catastrophic Illness</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<BroaderTerm>Catastrophic Illness</BroaderTerm>
+<Synonym>Catastrophic Illness</Synonym>
+<Synonym>Catastrophic Illnesses</Synonym>
+<Description>An acute or prolonged illness usually considered to be life-threatening or with the threat of serious residual disability. Treatment may be radical and is frequently costly.</Description>
+<Source>MeSH</Source>
+</Record>

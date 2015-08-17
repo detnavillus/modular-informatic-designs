@@ -1,0 +1,24 @@
+<Record>
+<Term>Strontium-89</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<ParentTerm>Radioisotope</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Isotope/Radioisotope/Strontium-89,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Adjuvant Analgesic/Strontium-89</ClassificationPath>
+<BroaderTerm>Strontium-89,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Radioisotope</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant Analgesic</BroaderTerm>
+<BroaderTerm>Isotope</BroaderTerm>
+<BroaderTerm>Strontium-89</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Strontium-89</Synonym>
+<Synonym>strontium-89</Synonym>
+<Description>A radioisotope of strontium, a heavy metal found naturally as a non-radioactive element.  With a half-life of 50 days, strontium-89 is a beta emitter that is metabolized much like calcium.  This agent is preferentially absorbed by osteoblastic bone metastases. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

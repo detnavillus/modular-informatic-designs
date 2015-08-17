@@ -1,0 +1,16 @@
+<Record>
+<Term>Adenoviral Vector Encoding HSV Thymidine Kinase</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Adenoviral Vector Encoding HSV Thymidine Kinase</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Adenoviral Vector Encoding HSV Thymidine Kinase</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ADV-tk</Synonym>
+<Synonym>Adenoviral Vector Encoding HSV Thymidine Kinase</Synonym>
+<Description>An adenoviral vector engineered to express the herpes simplex virus thymidine kinase (HSV-tk) gene, which, when administered in conjunction with a synthetic acyclic guanosine analogue, possesses potential antineoplastic activity. Adenoviral vector encoding HSV thymidine kinase is transduced into tumor cells, sensitizing tumor cells that overexpress HSV-tk to synthetic acyclic guanosine analogues. Subsequently, a low dose of a synthetic acyclic guanosine analogue such as valacyclovir (VCV) or ganciclovir (GCV) is given, which may preferentially kill tumor cells containing the adenoviral vector and overexpressing HSV-tk. Release of tumor-associated antigens (TAAs) by dying tumor cells may then stimulate an antitumor cytotoxic T lymphocyte (CTL) response.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

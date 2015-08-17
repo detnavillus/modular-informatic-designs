@@ -1,0 +1,18 @@
+<Record>
+<Term>Bruceanol G</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Bruceanol Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Quassinoid Agent/Bruceanol Agent/Bruceanol G</ClassificationPath>
+<BroaderTerm>Quassinoid Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Bruceanol G</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Bruceanol Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Bruceanol G</Synonym>
+<Description>A natural quassinoid agent extracted from Brucea antidysenterica with potential antineoplastic activity that is cytotoxic to certain cancer cell lines. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

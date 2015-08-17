@@ -1,0 +1,17 @@
+<Record>
+<Term>Pertussis Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Pertussis Vaccine</ClassificationPath>
+<BroaderTerm>Pertussis Vaccine</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria-Tetanus-Pertussis Vaccine</ChildTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<Synonym>Pertussis Vaccine</Synonym>
+<Description>A suspension of killed Bordetella pertussis organisms, used for immunization against pertussis (WHOOPING COUGH). It is generally used in a mixture with diphtheria and tetanus toxoids (DTP). There is an acellular pertussis vaccine prepared from the purified antigenic components of Bordetella pertussis, which causes fewer adverse reactions than whole-cell vaccine and, like the whole-cell vaccine, is generally used in a mixture with diphtheria and tetanus toxoids. (From Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

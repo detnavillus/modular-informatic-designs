@@ -1,0 +1,36 @@
+<Record>
+<Term>Congenital Adrenal Hyperplasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Steroid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Congenital Adrenal Gland Disorder</ParentTerm>
+<ParentTerm>Adrenal Gland Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Hyperplasia, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Adrenal Hyperplasia, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Adrenal Hyperplasia, Congenital</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors/Adrenal Hyperplasia, Congenital</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Congenital Adrenal Gland Disorder/Congenital Adrenal Gland Hyperplasia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Hyperplasia, Congenital</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Steroid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital Adrenal Gland Hyperplasia</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<Synonym>Congenital Adrenal Hyperplasias</Synonym>
+<Synonym>Congenital Adrenal Hyperplasia</Synonym>
+<Synonym>Congenital Adrenal Gland Hyperplasia</Synonym>
+<Description>A group of inherited disorders of the ADRENAL GLANDS, caused by enzyme defects in the synthesis of cortisol (HYDROCORTISONE) and/or ALDOSTERONE leading to accumulation of precursors for ANDROGENS. Depending on the hormone imbalance, congenital adrenal hyperplasia can be classified as salt-wasting, hypertensive, virilizing, or feminizing. The most common defect is in STEROID 21-HYDROXYLASE. Other defects occur in STEROID 11-BETA-HYDROXYLASE; STEROID 17-ALPHA-HYDROXYLASE; or 3-beta-hydroxysteroid dehydrogenase (3-HYDROXYSTEROID DEHYDROGENASES).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

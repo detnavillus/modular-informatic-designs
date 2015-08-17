@@ -1,0 +1,27 @@
+<Record>
+<Term>Cerebral Arterial Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Arterial Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Infarction, Anterior Cerebral Artery</ChildTerm>
+<ChildTerm>Infarction, Middle Cerebral Artery</ChildTerm>
+<ChildTerm>Moyamoya Disease</ChildTerm>
+<ChildTerm>CADASIL</ChildTerm>
+<ChildTerm>Cerebral Amyloid Angiopathy</ChildTerm>
+<ChildTerm>Infarction, Posterior Cerebral Artery</ChildTerm>
+<Synonym>Cerebral Artery Disease</Synonym>
+<Synonym>Cerebral Artery Diseases</Synonym>
+<Synonym>Cerebral Arterial Disease</Synonym>
+<Synonym>Cerebral Arterial Diseases</Synonym>
+<Description>Pathological conditions of intracranial ARTERIES supplying the CEREBRUM. These diseases often are due to abnormalities or pathological processes in the ANTERIOR CEREBRAL ARTERY; MIDDLE CEREBRAL ARTERY; and POSTERIOR CEREBRAL ARTERY.</Description>
+<Source>MeSH</Source>
+</Record>

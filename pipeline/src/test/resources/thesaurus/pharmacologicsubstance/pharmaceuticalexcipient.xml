@@ -1,0 +1,42 @@
+<Record>
+<Term>Pharmaceutical Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Industrial Aid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Essential Minor Component of Pharmaceutical Excipient</ChildTerm>
+<ChildTerm>Binder Excipient</ChildTerm>
+<ChildTerm>Calcium Sulfate Dihydrate</ChildTerm>
+<ChildTerm>Propiolactone</ChildTerm>
+<ChildTerm>Filler Excipient</ChildTerm>
+<ChildTerm>Laurocapram</ChildTerm>
+<ChildTerm>Compression Aid Excipient</ChildTerm>
+<ChildTerm>Lubricant Excipient</ChildTerm>
+<ChildTerm>Diluent Excipient</ChildTerm>
+<ChildTerm>Color Excipient</ChildTerm>
+<ChildTerm>Surfactant Excipient</ChildTerm>
+<ChildTerm>Disintegrant Excipient</ChildTerm>
+<ChildTerm>Flavor Excipient</ChildTerm>
+<ChildTerm>Sweetener Excipient</ChildTerm>
+<ChildTerm>Drug Vehicle</ChildTerm>
+<ChildTerm>Calcium Sulfate Anhydrous</ChildTerm>
+<ChildTerm>Stannous Chloride</ChildTerm>
+<ChildTerm>Butane</ChildTerm>
+<ChildTerm>Diethylene Glycol Monoethyl Ether</ChildTerm>
+<ChildTerm>Preservative Excipient</ChildTerm>
+<ChildTerm>Coating Excipient</ChildTerm>
+<ChildTerm>Dispersing Excipient</ChildTerm>
+<ChildTerm>Calcium Sulfate</ChildTerm>
+<ChildTerm>Printing Ink Excipient</ChildTerm>
+<ChildTerm>Glidant Excipient</ChildTerm>
+<ChildTerm>Suspending Excipient</ChildTerm>
+<Synonym>Drug Excipient</Synonym>
+<Synonym>Excipient</Synonym>
+<Synonym>Pharmaceutical Excipient</Synonym>
+<Description>Any intentionally added component of a finished pharmaceutical product other than the claimed therapeutic or diagnostic ingredient(s). The excipients are added to facilitate administration or manufacture, improve product delivery, promote the consistent release and bioavailability of the drug, enhance stability, assist in product identification, or enhance other product characteristics. Pharmaceutical excipients do not affect therapeutic effects of the preparation or suitable tests or assays. The term does not apply to macromolecular compounds like albumin, or compounds like amino acids and sugars that are used in biological products, nor does it apply to process or product-related impurities (e.g. degradation products, residual solvents), or extraneous contaminants.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

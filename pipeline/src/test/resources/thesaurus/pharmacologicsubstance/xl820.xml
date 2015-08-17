@@ -1,0 +1,16 @@
+<Record>
+<Term>XL820</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/XL820</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>XL820</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>XL820</Synonym>
+<Description>An orally bioavailable, small molecule receptor tyrosine kinase inhibitor with potential antineoplastic activity. XL820 binds to and inhibits the receptor tyrosine kinases for vascular endothelial growth factor (VEGF), c-kit, and platelet-derived growth factor (PDGF). In tumor models of breast carcinomas, gliomas, and leukemia, this agent exhibits dose-dependent growth inhibition and has been shown to cause tumor regression.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

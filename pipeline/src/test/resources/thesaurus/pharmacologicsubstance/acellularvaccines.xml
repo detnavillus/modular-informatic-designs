@@ -1,0 +1,16 @@
+<Record>
+<Term>Acellular Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Subunit</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Subunit/Vaccines, Acellular</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Vaccines, Acellular</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines, Subunit</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</ChildTerm>
+<Synonym>Acellular Vaccines</Synonym>
+<Description>Vaccines that are produced by using only the antigenic part of the disease causing organism. They often require a "booster" every few years to maintain their effectiveness.</Description>
+<Source>MeSH</Source>
+</Record>

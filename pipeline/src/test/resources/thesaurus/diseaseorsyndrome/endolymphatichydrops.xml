@@ -1,0 +1,14 @@
+<Record>
+<Term>Endolymphatic Hydrops</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Labyrinth Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Labyrinth Diseases/Endolymphatic Hydrops</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Endolymphatic Hydrops</BroaderTerm>
+<BroaderTerm>Labyrinth Diseases</BroaderTerm>
+<ChildTerm>Meniere Disease</ChildTerm>
+<Synonym>Endolymphatic Hydrops</Synonym>
+<Description>An accumulation of ENDOLYMPH in the inner ear (LABYRINTH) leading to buildup of pressure and distortion of intralabyrinthine structures, such as COCHLEA and SEMICIRCULAR CANALS. It is characterized by SENSORINEURAL HEARING LOSS; TINNITUS; and sometimes VERTIGO.</Description>
+<Source>MeSH</Source>
+</Record>

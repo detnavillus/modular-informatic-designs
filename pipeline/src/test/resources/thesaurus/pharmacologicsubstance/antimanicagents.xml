@@ -1,0 +1,22 @@
+<Record>
+<Term>Antimanic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tranquilizing Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Depressants/Tranquilizing Agents/Antimanic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Depressants/Tranquilizing Agents/Antimanic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Psychotropic Drugs/Tranquilizing Agents/Antimanic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Psychotropic Drugs</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Central Nervous System Depressants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antimanic Agents</BroaderTerm>
+<BroaderTerm>Tranquilizing Agents</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Antimanic Drugs</Synonym>
+<Synonym>Antimanics</Synonym>
+<Synonym>Antimanic Agents</Synonym>
+<Description>Agents that are used to treat bipolar disorders or mania associated with other affective disorders.</Description>
+<Source>MeSH</Source>
+</Record>

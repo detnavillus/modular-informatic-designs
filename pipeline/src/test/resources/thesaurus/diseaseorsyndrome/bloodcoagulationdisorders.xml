@@ -1,0 +1,22 @@
+<Record>
+<Term>Blood Coagulation Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Blood Coagulation Disorders, Inherited</ChildTerm>
+<ChildTerm>Coagulation Protein Disorders</ChildTerm>
+<ChildTerm>Disseminated Intravascular Coagulation</ChildTerm>
+<ChildTerm>Platelet Storage Pool Deficiency</ChildTerm>
+<ChildTerm>Purpura</ChildTerm>
+<ChildTerm>Purpura, Thrombocytopenic</ChildTerm>
+<ChildTerm>Thrombocythemia, Essential</ChildTerm>
+<ChildTerm>Vitamin K Deficiency</ChildTerm>
+<ChildTerm>Protein S Deficiency</ChildTerm>
+<Synonym>Blood Coagulation Disorders</Synonym>
+<Synonym>Blood Coagulation Disorder</Synonym>
+<Description>Hemorrhagic and thrombotic disorders that occur as a consequence of abnormalities in blood coagulation due to a variety of factors such as COAGULATION PROTEIN DISORDERS; BLOOD PLATELET DISORDERS; BLOOD PROTEIN DISORDERS or nutritional conditions.</Description>
+<Source>MeSH</Source>
+</Record>

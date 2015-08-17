@@ -47,6 +47,7 @@ public class TestPermutationMethods extends TestCase
     
   public void testGetPermutations( )
   {
+    if (debugConsole) System.out.println( "testGetPermutations" );
     List<int[]> arrays = PermutationMethods.getPermutations( 1, 4, 2 );
     // result should be: [1],[2],[3],[4],[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]
     assertEquals( arrays.size(), 10 );
@@ -78,6 +79,19 @@ public class TestPermutationMethods extends TestCase
       printArrays( arrays );
       System.out.println( "" );
     }
+    if (debugConsole) System.out.println( "testGetPermutations done" );
+  }
+    
+  public void testGetUniquePermutations( )
+  {
+    if (debugConsole) System.out.println( "testGetUniquePermutations" );
+    List<int[]> arrays = PermutationMethods.getUniquePermutations( 1, 5, 5 );
+    if (debugConsole)
+    {
+      printArrays( arrays );
+      System.out.println( "" );
+    }
+    if (debugConsole) System.out.println( "testGetUniquePermutations done" );
   }
     
   private void arraysEqual( int[] arr1, int[] arr2 )

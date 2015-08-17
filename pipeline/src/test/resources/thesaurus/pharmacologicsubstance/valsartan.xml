@@ -1,0 +1,24 @@
+<Record>
+<Term>Valsartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Valsartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Valsartan</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>N-(p-(o-1H-Tetrazol-5-ylphenyl)benzyl)-N-valeryl-L-valine</Synonym>
+<Synonym>Diovan</Synonym>
+<Synonym>CGP 48933</Synonym>
+<Synonym>VALSARTAN</Synonym>
+<Synonym>L-Valine, N-(1-oxopentyl)-N-((2'-(1H-tetrazol-5-yl)(1,1'-biphenyl)-4-yl)methyl)-</Synonym>
+<Synonym>Valsartan</Synonym>
+<Description>An orally active nonpeptide triazole-derived antagonist of angiotensin (AT) II with antihypertensive properties. Valsartan selectively and competitively blocks the binding of angiotensin II to the AT1 subtype receptor in vascular smooth muscle and the adrenal gland, preventing AT II-mediated vasoconstriction, aldosterone synthesis and secretion, and renal reabsorption of sodium, and resulting in vasodilation, increased excretion of sodium and water, a reduction in plasma volume, and a reduction in blood pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

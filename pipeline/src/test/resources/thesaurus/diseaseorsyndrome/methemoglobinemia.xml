@@ -1,0 +1,24 @@
+<Record>
+<Term>Methemoglobinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Methemoglobinemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Methemoglobinemia</ClassificationPath>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Methemoglobinemia</BroaderTerm>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Methemoglobinemias</Synonym>
+<Synonym>Methemoglobinemia</Synonym>
+<Description>The presence of methemoglobin in the blood, resulting in cyanosis. A small amount of methemoglobin is present in the blood normally, but injury or toxic agents convert a larger proportion of hemoglobin into methemoglobin, which does not function reversibly as an oxygen carrier. Methemoglobinemia may be due to a defect in the enzyme NADH methemoglobin reductase (an autosomal recessive trait) or to an abnormality in hemoglobin M (an autosomal dominant trait). (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

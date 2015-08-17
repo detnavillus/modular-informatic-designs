@@ -1,0 +1,16 @@
+<Record>
+<Term>Idiopathic Interstitial Pneumonias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Idiopathic Interstitial Pneumonias</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Idiopathic Interstitial Pneumonias</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<ChildTerm>Cryptogenic Organizing Pneumonia</ChildTerm>
+<ChildTerm>Idiopathic Pulmonary Fibrosis</ChildTerm>
+<Synonym>Idiopathic Interstitial Pneumonias</Synonym>
+<Synonym>Idiopathic Interstitial Pneumonia</Synonym>
+<Description>A group of interstitial lung diseases with no known etiology. There are several entities with varying patterns of inflammation and fibrosis. They are classified by their distinct clinical-radiological-pathological features and prognosis. They include IDIOPATHIC PULMONARY FIBROSIS; CRYPTOGENIC ORGANIZING PNEUMONIA; and others.</Description>
+<Source>MeSH</Source>
+</Record>

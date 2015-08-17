@@ -1,0 +1,15 @@
+<Record>
+<Term>Gold Colloid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Gold Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Gold Compounds/Gold Colloid</ClassificationPath>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Gold Colloid</BroaderTerm>
+<BroaderTerm>Gold Compounds</BroaderTerm>
+<ChildTerm>Gold Colloid, Radioactive</ChildTerm>
+<Synonym>Gold Colloid</Synonym>
+<Synonym>Colloidal Gold</Synonym>
+<Description>A suspension of metallic gold particles.</Description>
+<Source>MeSH</Source>
+</Record>

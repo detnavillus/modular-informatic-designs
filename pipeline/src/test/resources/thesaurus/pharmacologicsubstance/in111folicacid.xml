@@ -1,0 +1,16 @@
+<Record>
+<Term>In 111 Folic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/In 111 Folic Acid</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>In 111 Folic Acid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>In 111 Folic Acid</Synonym>
+<Synonym>Indium In 111 Folic Acid</Synonym>
+<Description>A radioimmunoconjugate of folic acid labeled with indium 111 (In-111) with immunotherapeutic property. In 111 Folic Acid emits gamma radiation and X-Ray photons that can be captured by gamma camera allowing imaging of tumor cells that express folate receptors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

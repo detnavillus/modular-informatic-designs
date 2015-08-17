@@ -1,0 +1,24 @@
+<Record>
+<Term>Efegatran</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protease Inhibitor</ParentTerm>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Efegatran Sulfate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Efegatran,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Efegatran</ClassificationPath>
+<BroaderTerm>Efegatran Sulfate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Efegatran</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Efegatran,</BroaderTerm>
+<Synonym>EFEGATRAN</Synonym>
+<Synonym>Efegatran Sulfate</Synonym>
+<Synonym>Efegatran</Synonym>
+<Synonym>EFEGATRAN SULFATE</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

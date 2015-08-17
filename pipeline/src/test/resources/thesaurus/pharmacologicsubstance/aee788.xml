@@ -1,0 +1,18 @@
+<Record>
+<Term>AEE788</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/AEE788</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>AEE788</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AEE 788</Synonym>
+<Synonym>AEE-788</Synonym>
+<Synonym>AEE788</Synonym>
+<Description>An orally bioavailable multiple-receptor tyrosine kinase inhibitor. AEE788 inhibits phosphorylation of the tyrosine kinases of epidermal growth factor receptor (EGFR), human epidermal growth factor receptor 2 (HER2), and vascular endothelial growth factor receptor 2 (VEGF2), resulting in receptor inhibition, the inhibition of cellular proliferation, and induction of tumor cell and tumor-associated endothelial cell apoptosis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

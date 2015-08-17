@@ -1,0 +1,17 @@
+<Record>
+<Term>Neutropenic Enterocolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterocolitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enterocolitis/Enterocolitis, Neutropenic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enterocolitis/Enterocolitis, Neutropenic</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Enterocolitis, Neutropenic</BroaderTerm>
+<BroaderTerm>Enterocolitis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Neutropenic Enterocolitis</Synonym>
+<Synonym>Ileocecal Syndrome</Synonym>
+<Description>A syndrome characterized by inflammation in the ILEUM, the CECUM, and the ASCENDING COLON. It is observed in cancer patients with CHEMOTHERAPY-induced NEUTROPENIA or in other immunocompromised individuals (IMMUNOCOMPROMISED HOST).</Description>
+<Source>MeSH</Source>
+</Record>

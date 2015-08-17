@@ -1,0 +1,20 @@
+<Record>
+<Term>Endocrine Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Endocrine</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Tuberculosis, Endocrine</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tuberculosis, Endocrine</BroaderTerm>
+<Synonym>Endocrine Tuberculoses</Synonym>
+<Synonym>Endocrine Tuberculosis</Synonym>
+<Description>Infection of the ENDOCRINE GLANDS with species of MYCOBACTERIUM, most often MYCOBACTERIUM TUBERCULOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

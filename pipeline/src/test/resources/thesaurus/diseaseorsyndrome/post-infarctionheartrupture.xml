@@ -1,0 +1,18 @@
+<Record>
+<Term>Post-Infarction Heart Rupture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Rupture</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Rupture/Heart Rupture, Post-Infarction</ClassificationPath>
+<BroaderTerm>Heart Rupture, Post-Infarction</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Rupture</BroaderTerm>
+<ChildTerm>Ventricular Septal Rupture</ChildTerm>
+<Synonym>Post-Infarction Heart Rupture</Synonym>
+<Synonym>Post Infarction Heart Rupture</Synonym>
+<Synonym>Post-Infarction Heart Ruptures</Synonym>
+<Synonym>Post-Infarction Cardiac Rupture</Synonym>
+<Synonym>Post-Infarction Cardiac Ruptures</Synonym>
+<Description>Laceration or tearing of cardiac tissues appearing after MYOCARDIAL INFARCTION.</Description>
+<Source>MeSH</Source>
+</Record>

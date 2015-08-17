@@ -1,0 +1,24 @@
+<Record>
+<Term>Connective Tissue Nevus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Nevus</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Non-Neoplastic Nevus/Connective Tissue Nevus,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hamartoma/Connective Tissue Nevus</ClassificationPath>
+<BroaderTerm>Connective Tissue Nevus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nevus</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Nevus,</BroaderTerm>
+<BroaderTerm>Hamartoma</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Eruptive Collagenoma</ChildTerm>
+<ChildTerm>Circumscribed Storiform Collagenoma</ChildTerm>
+<Synonym>Collagen Hamartoma</Synonym>
+<Synonym>Collagen Nevus</Synonym>
+<Synonym>Collagenoma</Synonym>
+<Synonym>Connective Tissue Nevus</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

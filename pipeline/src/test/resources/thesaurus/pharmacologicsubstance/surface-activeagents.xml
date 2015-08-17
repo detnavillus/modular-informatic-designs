@@ -1,0 +1,23 @@
+<Record>
+<Term>Surface-Active Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biomedical or Dental Material</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Specialty Uses of Chemicals</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Surface-Active Agents</ClassificationPath>
+<BroaderTerm>Surface-Active Agents</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Detergents</ChildTerm>
+<ChildTerm>Antifoaming Agents</ChildTerm>
+<ChildTerm>Wetting Agents</ChildTerm>
+<ChildTerm>Emulsifying Agents</ChildTerm>
+<ChildTerm>Immunosorbents</ChildTerm>
+<Synonym>Surface-Active Agents</Synonym>
+<Synonym>Surface Active Agents</Synonym>
+<Synonym>Tensides</Synonym>
+<Synonym>Surfactants</Synonym>
+<Synonym>Amphiphilic Agents</Synonym>
+<Description>Agents that modify interfacial tension of water; usually substances that have one lipophilic and one hydrophilic group in the molecule; includes soaps, detergents, emulsifiers, dispersing and wetting agents, and several groups of antiseptics.</Description>
+<Source>MeSH</Source>
+</Record>

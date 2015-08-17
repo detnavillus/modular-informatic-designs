@@ -1,0 +1,29 @@
+<Record>
+<Term>Chronic Kidney Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Insufficiency, Chronic</ParentTerm>
+<ParentTerm>Kidney Failure</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Chronic/Kidney Failure, Chronic</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Chronic</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure/Kidney Failure, Chronic</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Chronic/Kidney Failure, Chronic</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency, Chronic</BroaderTerm>
+<BroaderTerm>Kidney Failure</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Kidney Failure, Chronic</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>End Stage Kidney Disease</Synonym>
+<Synonym>Chronic Renal Failure</Synonym>
+<Synonym>Chronic Kidney Failure</Synonym>
+<Synonym>End-Stage Renal Failure</Synonym>
+<Synonym>End Stage Renal Disease</Synonym>
+<Synonym>ESRD</Synonym>
+<Synonym>End-Stage Renal Disease</Synonym>
+<Synonym>End-Stage Kidney Disease</Synonym>
+<Description>The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.</Description>
+<Source>MeSH</Source>
+</Record>

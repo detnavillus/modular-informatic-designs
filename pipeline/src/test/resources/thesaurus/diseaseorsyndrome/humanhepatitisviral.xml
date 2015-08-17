@@ -1,0 +1,21 @@
+<Record>
+<Term>Human Hepatitis, Viral</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Hepatitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human</ClassificationPath>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<ChildTerm>Hepatitis B</ChildTerm>
+<ChildTerm>Hepatitis D</ChildTerm>
+<ChildTerm>Hepatitis E</ChildTerm>
+<ChildTerm>Hepatitis A</ChildTerm>
+<ChildTerm>Hepatitis C</ChildTerm>
+<Synonym>Hepatitis, Viral, Human</Synonym>
+<Description>INFLAMMATION of the LIVER in humans due to infection by VIRUSES. There are several significant types of human viral hepatitis with infection caused by enteric-transmission (HEPATITIS A; HEPATITIS E) or blood transfusion (HEPATITIS B; HEPATITIS C; and HEPATITIS D).</Description>
+<Source>MeSH</Source>
+</Record>

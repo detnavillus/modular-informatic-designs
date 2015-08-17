@@ -1,0 +1,16 @@
+<Record>
+<Term>Angioimmunoblastic T-Cell Lymphoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Angioimmunoblastic T-Cell Lymphoma</ClassificationPath>
+<BroaderTerm>Angioimmunoblastic T-Cell Lymphoma</BroaderTerm>
+<Synonym>AILD</Synonym>
+<Synonym>AILT</Synonym>
+<Synonym>Angioimmunoblastic Lymphadenopathy</Synonym>
+<Synonym>Angioimmunoblastic Lymphadenopathy Type T-Cell Lymphoma</Synonym>
+<Synonym>Angioimmunoblastic Lymphadenopathy with Dysproteinemia</Synonym>
+<Synonym>Angioimmunoblastic T-Cell Lymphoma</Synonym>
+<Description>A mature T-cell non-Hodgkin lymphoma, characterized by systemic disease and a polymorphous infiltrate involving lymph nodes.  It occurs in the middle aged and elderly, with an equal incidence in males and females.  The clinical course is typically aggressive.  (WHO, 2001)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

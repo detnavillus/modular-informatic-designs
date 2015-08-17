@@ -1,0 +1,23 @@
+<Record>
+<Term>Triamcinolone Hexacetonide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Triamcinolone Hexacetonide</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Triamcinolone Hexacetonide</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Triamcinolone hexacetonide</Synonym>
+<Synonym>TRIAMCINOLONE HEXACETONIDE</Synonym>
+<Synonym>(11beta,16alpha)-21-(3,3-Dimethyl-1-oxobutoxy)-9-fluoro-11-hydroxy-16,17-((1-methylethylidene)bis(oxy))pregna-1,4-diene-3,20-dione</Synonym>
+<Synonym>Aristospan</Synonym>
+<Synonym>Triamcinolone Hexacetonide</Synonym>
+<Description>The hexacetonide salt form of triamcinolone, a synthetic glucocorticosteroid with immunosuppressive and anti-inflammatory activity. Triamcinolone hexacetonide binds to specific cytosolic glucocorticoid receptors and subsequently interacts with glucocorticoid receptor response element on DNA and alters gene expression. This results in an induction of the synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators. Consequently, an overall reduction in chronic inflammation and autoimmune reactions are accomplished.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Spinal Cord Vascular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Spinal Cord Vascular Diseases</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Spinal Cord Vascular Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Vascular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Spinal Cord Ischemia</ChildTerm>
+<ChildTerm>Anterior Spinal Artery Syndrome</ChildTerm>
+<Synonym>Posterior Spinal Artery Syndrome</Synonym>
+<Synonym>Hematomyelia</Synonym>
+<Synonym>Spinal Cord Vascular Diseases</Synonym>
+<Synonym>Hematomyelias</Synonym>
+<Description>Pathological processes involving any of the BLOOD VESSELS feeding the SPINAL CORD, such as the anterior and paired posterior spinal arteries or their many branches. Disease processes may include ATHEROSCLEROSIS; EMBOLISM; and ARTERIOVENOUS MALFORMATIONS leading to ISCHEMIA or HEMORRHAGE into the spinal cord (hematomyelia).</Description>
+<Source>MeSH</Source>
+</Record>

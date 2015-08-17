@@ -1,0 +1,35 @@
+<Record>
+<Term>Thrombophlebitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Vascular Disorder</ParentTerm>
+<ParentTerm>Venous Thrombosis</ParentTerm>
+<ParentTerm>Phlebitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Peripheral Vascular Diseases/Phlebitis/Thrombophlebitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Venous Thrombosis/Thrombophlebitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Phlebitis/Thrombophlebitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Thrombophlebitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Phlebitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thrombophlebitis</BroaderTerm>
+<BroaderTerm>Venous Thrombosis</BroaderTerm>
+<BroaderTerm>Peripheral Vascular Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<ChildTerm>Injection Site Thrombophlebitis</ChildTerm>
+<Synonym>Thrombophlebitides</Synonym>
+<Synonym>Thrombophlebitis</Synonym>
+<Synonym>thrombophlebitis</Synonym>
+<Synonym>Phlegmasia Alba Dolens</Synonym>
+<Description>Inflammation of a vein associated with a blood clot (THROMBUS).Inflammation that is characterized by swollen, pale, and painful limb. It is usually caused by DEEP VEIN THROMBOSIS in a FEMORAL VEIN, following PARTURITION or an illness. This condition is also called milk leg or white leg.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

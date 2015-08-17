@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD19 Monoclonal Antibody MDX-1342</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-CD19 Monoclonal Antibody MDX-1342</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Anti-CD19 Monoclonal Antibody MDX-1342</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD19 Monoclonal Antibody MDX-1342</Synonym>
+<Synonym>MDX-1342</Synonym>
+<Description>A fully human anti-CD19 monoclonal antibody directed against the B-cell-specific membrane protein CD-19 with potential antineoplastic activity. Anti-CD19 monoclonal antibody MDX-1342 binds to CD19, depleting and eliminating CD19-expressing B-cells. CD19 is widely expressed during B-cell development, from pro-B-cell to early plasma cell stages.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

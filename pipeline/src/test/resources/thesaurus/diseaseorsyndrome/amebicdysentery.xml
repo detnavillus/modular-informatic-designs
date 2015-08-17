@@ -1,0 +1,38 @@
+<Record>
+<Term>Amebic Dysentery</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Amebiasis</ParentTerm>
+<ParentTerm>Dysentery</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis/Dysentery, Amebic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Dysentery, Amebic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Dysentery/Dysentery, Amebic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Dysentery, Amebic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Dysentery/Dysentery, Amebic</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Dysentery, Amebic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Dysentery</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Intestinal Amebiasis</Synonym>
+<Synonym>Amoebic Colitis</Synonym>
+<Synonym>Intestinal Amoebiasis</Synonym>
+<Synonym>Amoebic Dysentery</Synonym>
+<Synonym>Amebic Colitis</Synonym>
+<Synonym>Intestinal Amebiases</Synonym>
+<Synonym>Amoebic Colitides</Synonym>
+<Synonym>Amebic Colitides</Synonym>
+<Synonym>Intestinal Entamoebiases</Synonym>
+<Synonym>Intestinal Entamoebiasis</Synonym>
+<Synonym>Amebic Dysenteries</Synonym>
+<Synonym>Intestinal Amoebiases</Synonym>
+<Synonym>Amoebic Dysenteries</Synonym>
+<Synonym>Amebic Dysentery</Synonym>
+<Description>DYSENTERY caused by intestinal amebic infection, chiefly with ENTAMOEBA HISTOLYTICA. This condition may be associated with amebic infection of the LIVER and other distant sites.</Description>
+<Source>MeSH</Source>
+</Record>

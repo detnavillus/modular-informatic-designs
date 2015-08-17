@@ -1,0 +1,16 @@
+<Record>
+<Term>CD20-targeted Polypeptide TRU-015</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/CD20-targeted Polypeptide TRU-015</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>CD20-targeted Polypeptide TRU-015</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CD20-targeted Polypeptide TRU-015</Synonym>
+<Synonym>TRU-015</Synonym>
+<Description>A proprietary antibody-based single-chain polypeptide with B cell-depleting activity. Significantly smaller than a whole antibody, CD20-targeted polypeptide TRU-015 binds specifically to the B cell-specific cell surface antigen CD20 with full immunoglobulin Fv fragment-type target binding activity and full immunoglobulin Fc fragment-type effector function. This agent transiently depletes CD20-bearing B cells by inducing B cell -directed complement dependent cytotoxicity (CDC) and antibody-dependent cell-mediated cytotoxicity (ADCC) and B cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

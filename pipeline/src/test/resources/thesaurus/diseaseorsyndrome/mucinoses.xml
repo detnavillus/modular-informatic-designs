@@ -1,0 +1,19 @@
+<Record>
+<Term>Mucinoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Mucinoses</ClassificationPath>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mucinoses</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Mucinosis, Follicular</ChildTerm>
+<ChildTerm>Scleredema Adultorum</ChildTerm>
+<ChildTerm>Mucopolysaccharidoses</ChildTerm>
+<ChildTerm>Ganglion Cysts</ChildTerm>
+<ChildTerm>Scleromyxedema</ChildTerm>
+<ChildTerm>Myxedema</ChildTerm>
+<Synonym>Mucinoses</Synonym>
+<Synonym>Mucinosis</Synonym>
+<Description>Mucoid states characterized by the elevated deposition and accumulation of mucin (mucopolysaccharides) in dermal tissue. The fibroblasts are responsible for the production of acid mucopolysaccharides (GLYCOSAMINOGLYCANS) in the ground substance of the connective tissue system. When fibroblasts produce abnormally large quantities of mucopolysaccharides as hyaluronic acid, chondroitin sulfate, or heparin, they accumulate in large amounts in the dermis.</Description>
+<Source>MeSH</Source>
+</Record>

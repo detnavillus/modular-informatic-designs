@@ -1,0 +1,19 @@
+<Record>
+<Term>Cholesterol Embolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Embolism, Fat</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Embolism/Embolism, Fat/Embolism, Cholesterol</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism, Cholesterol</BroaderTerm>
+<BroaderTerm>Embolism</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism, Fat</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Blue Toe Syndrome</ChildTerm>
+<Synonym>Cholesterol Embolisms</Synonym>
+<Synonym>Cholesterol Embolism</Synonym>
+<Synonym>Atheroembolism</Synonym>
+<Synonym>Atheroembolisms</Synonym>
+<Description>Blocking of a blood vessel by CHOLESTEROL-rich atheromatous deposits, generally occurring in the flow from a large artery to small arterial branches. It is also called arterial-arterial embolization or atheroembolism which may be spontaneous or iatrogenic. Patients with spontaneous atheroembolism often have painful, cyanotic digits of acute onset.</Description>
+<Source>MeSH</Source>
+</Record>

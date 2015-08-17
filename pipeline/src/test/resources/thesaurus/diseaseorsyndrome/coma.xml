@@ -1,0 +1,35 @@
+<Record>
+<Term>Coma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Unconsciousness</ParentTerm>
+<ParentTerm>Nervous System Finding</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Nervous System Finding/Coma</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Coma</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Consciousness Disorders/Unconsciousness/Coma</ClassificationPath>
+<BroaderTerm>Unconsciousness</BroaderTerm>
+<BroaderTerm>Nervous System Finding</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Coma</BroaderTerm>
+<BroaderTerm>Consciousness Disorders</BroaderTerm>
+<ChildTerm>Insulin Coma</ChildTerm>
+<ChildTerm>Coma, Post-Head Injury</ChildTerm>
+<ChildTerm>Brain Death</ChildTerm>
+<Synonym>Comas</Synonym>
+<Synonym>Comatose</Synonym>
+<Synonym>Pseudocoma</Synonym>
+<Synonym>Coma</Synonym>
+<Synonym>Pseudocomas</Synonym>
+<Description>A profound state of unconsciousness associated with depressed cerebral activity from which the individual cannot be aroused. Coma generally occurs when there is dysfunction or injury involving both cerebral hemispheres or the brain stem RETICULAR FORMATION.Feigned coma or psychogenic coma.  These patients appear comatose (i.e., unresponsive, unarousable, or both) but have no structural lesion, metabolic or toxic disorder.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

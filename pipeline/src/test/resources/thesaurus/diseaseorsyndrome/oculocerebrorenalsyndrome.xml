@@ -1,0 +1,62 @@
+<Record>
+<Term>Oculocerebrorenal Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Renal Tubular Transport, Inborn Errors</ParentTerm>
+<ParentTerm>Amino Acid Transport Disorders, Inborn</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Transport Disorders, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Transport Disorders, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Oculocerebrorenal Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Oculocerebrorenal Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Amino Acid Transport Disorders, Inborn</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Oculocerebrorenal Syndrome</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Renal Tubular Transport, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Cerebrooculorenal Syndromes</Synonym>
+<Synonym>Oculocerebrorenal Dystrophies</Synonym>
+<Synonym>Cerebro Oculo Renal Syndrome</Synonym>
+<Synonym>Renal Oculocerebrodystrophy</Synonym>
+<Synonym>Cerebrooculorenal Syndrome</Synonym>
+<Synonym>Lowe-Terrey-MacLachlan Syndrome</Synonym>
+<Synonym>Lowe Syndrome</Synonym>
+<Synonym>Lowe-Bickel Syndrome</Synonym>
+<Synonym>Lowe Terrey MacLachlan Syndrome</Synonym>
+<Synonym>Cerebro-Oculo-Renal Syndromes</Synonym>
+<Synonym>Renal-Oculocerebrodystrophies</Synonym>
+<Synonym>Oculocerebrorenal Syndrome</Synonym>
+<Synonym>Lowe Bickel Syndrome</Synonym>
+<Synonym>Lowe Disease</Synonym>
+<Synonym>Lowe Oculocerebrorenal Syndrome</Synonym>
+<Synonym>Renal-Oculocerebrodystrophy</Synonym>
+<Synonym>Cerebro-Oculo-Renal Syndrome</Synonym>
+<Synonym>Oculocerebrorenal Dystrophy</Synonym>
+<Description>A sex-linked recessive disorder affecting multiple systems including the EYE, the NERVOUS SYSTEM, and the KIDNEY. Clinical features include congenital CATARACT; MENTAL RETARDATION; and renal tubular dysfunction (FANCONI SYNDROME; RENAL TUBULAR ACIDOSIS; X-LINKED HYPOPHOSPHATEMIA or vitamin-D-resistant rickets) and SCOLIOSIS. This condition is due to a deficiency of phosphatidylinositol 4,5-bisphosphate-5-phosphatase leading to defects in PHOSPHATIDYLINOSITOL metabolism and INOSITOL signaling pathway. (from Menkes, Textbook of Child Neurology, 5th ed, p60; Am J Hum Genet 1997 Jun;60(6):1384-8)</Description>
+<Source>MeSH</Source>
+</Record>

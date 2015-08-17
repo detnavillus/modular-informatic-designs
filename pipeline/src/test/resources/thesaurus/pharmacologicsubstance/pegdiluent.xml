@@ -1,0 +1,13 @@
+<Record>
+<Term>PEG Diluent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/PEG Diluent</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>PEG Diluent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PEG Diluent</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

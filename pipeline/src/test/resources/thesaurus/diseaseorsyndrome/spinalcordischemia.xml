@@ -1,0 +1,23 @@
+<Record>
+<Term>Spinal Cord Ischemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Experimental Model of Disease</SemanticType>
+<ParentTerm>Spinal Cord Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Spinal Cord Vascular Diseases/Spinal Cord Ischemia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Spinal Cord Vascular Diseases/Spinal Cord Ischemia</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Ischemia</BroaderTerm>
+<BroaderTerm>Spinal Cord Vascular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Anterior Spinal Artery Syndrome</ChildTerm>
+<Synonym>Spinal Cord Ischemia</Synonym>
+<Synonym>Ischemic Myelopathies</Synonym>
+<Synonym>Ischemic Myelopathy</Synonym>
+<Synonym>Spinal Cord Ischemias</Synonym>
+<Synonym>Experimental Spinal Cord Ischemia</Synonym>
+<Description>Reduced blood flow to the spinal cord which is supplied by the anterior spinal artery and the paired posterior spinal arteries. This condition may be associated with ARTERIOSCLEROSIS, trauma, emboli, diseases of the aorta, and other disorders. Prolonged ischemia may lead to INFARCTION of spinal cord tissue.</Description>
+<Source>MeSH</Source>
+</Record>

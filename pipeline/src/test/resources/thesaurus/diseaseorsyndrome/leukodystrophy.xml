@@ -1,0 +1,18 @@
+<Record>
+<Term>Leukodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Leukodystrophy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Leukodystrophy</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Adrenoleukodystrophy</ChildTerm>
+<ChildTerm>Krabbe Disease</ChildTerm>
+<ChildTerm>Metachromatic Leukodystrophy</ChildTerm>
+<Synonym>Leukodystrophy</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

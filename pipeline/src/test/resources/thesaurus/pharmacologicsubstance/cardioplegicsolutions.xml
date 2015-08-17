@@ -1,0 +1,23 @@
+<Record>
+<Term>Cardioplegic Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Solutions</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Pharmaceutical Solutions/Cardioplegic Solutions</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Dosage Forms/Pharmaceutical Solutions/Cardioplegic Solutions</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Cardioplegic Solutions</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Dosage Forms</BroaderTerm>
+<BroaderTerm>Cardioplegic Solutions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Pharmaceutical Solutions</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Cardioplegic Solutions</Synonym>
+<Synonym>Cardioplegic Solution</Synonym>
+<Description>Solutions which, upon administration, will temporarily arrest cardiac activity. They are used in the performance of heart surgery.</Description>
+<Source>MeSH</Source>
+</Record>

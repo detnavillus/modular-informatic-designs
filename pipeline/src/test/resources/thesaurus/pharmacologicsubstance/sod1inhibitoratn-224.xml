@@ -1,0 +1,19 @@
+<Record>
+<Term>SOD1 Inhibitor ATN-224</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/SOD1 Inhibitor ATN-224,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/SOD1 Inhibitor ATN-224</ClassificationPath>
+<BroaderTerm>SOD1 Inhibitor ATN-224,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>SOD1 Inhibitor ATN-224</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ATN-224</Synonym>
+<Synonym>SOD1 Inhibitor ATN-224</Synonym>
+<Description>An orally active second generation tetrathiomolybdate analog with anti-angiogenic and antineoplastic activities. ATN-224 selectively chelates the copper ion in superoxide dismutase 1 (SOD1) in endothelial cells, thereby depleting SOD1 of copper and inhibiting its activity. Inhibition of SOD1 interferes with the activation of several signal transduction pathways required for cellular proliferation and angiogenesis, including those mediated by ERK1/2 and FAK and Src kinases. This results in an inhibition of cell proliferation and angiogenesis as well as induction of apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

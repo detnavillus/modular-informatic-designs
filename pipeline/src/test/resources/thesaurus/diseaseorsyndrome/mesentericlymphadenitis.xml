@@ -1,0 +1,21 @@
+<Record>
+<Term>Mesenteric Lymphadenitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Lymphadenitis</ParentTerm>
+<ParentTerm>Peritoneal Diseases</ParentTerm>
+<ClassificationPath>Mesenteric Lymphadenitis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphadenitis/Mesenteric Lymphadenitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Peritoneal Diseases/Mesenteric Lymphadenitis</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphadenitis</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Mesenteric Lymphadenitis</BroaderTerm>
+<BroaderTerm>Peritoneal Diseases</BroaderTerm>
+<Synonym>Mesenteric Lymphadenitides</Synonym>
+<Synonym>Mesenteric Lymphadenitis</Synonym>
+<Description>INFLAMMATION of LYMPH NODES in the MESENTERY.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

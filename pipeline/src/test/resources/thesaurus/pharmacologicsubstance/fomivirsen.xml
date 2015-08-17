@@ -1,0 +1,23 @@
+<Record>
+<Term>Fomivirsen</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antisense Oligonucleotides</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antisense Oligonucleotides/Fomivirsen Sodium</ClassificationPath>
+<BroaderTerm>Fomivirsen Sodium</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antisense Oligonucleotides</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fomivirsen Sodium</Synonym>
+<Synonym>Fomivirsen sodium</Synonym>
+<Synonym>Fomivirsen</Synonym>
+<Synonym>ISIS 2922</Synonym>
+<Synonym>Vitravene</Synonym>
+<Synonym>FOMIVIRSEN SODIUM</Synonym>
+<Synonym>Vitravene Preservative Free</Synonym>
+<Description>The sodium salt form of fomivirsen, an antisense phosphorothioate oligodeoxynucleotide (ODN) with potent antiviral property. Fomivirsen is a 21-nucleotide ODN complementary to mRNA of the immediate-early region 2 of human cytomegalovirus (CMV). Hybridization of this antisense ODN to CMV mRNA prevents RNA transcription from the immediate-early region 2 gene, thereby inhibiting viral replication. In addition, this agent inhibits adsorption of CMV into host cells via a sequence-independent mechanism. Overall, fomivirsen inhibits viral propagation via inhibiting viral replication and viral uptake by host cells, hence delaying progression of CMV-associated retinitis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

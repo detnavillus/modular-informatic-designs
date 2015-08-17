@@ -1,0 +1,15 @@
+<Record>
+<Term>Hypericin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Plant Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Hypericin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Hypericin</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hypericin</Synonym>
+<Description>An anthraquinone derivative that is naturally found in the yellow flower of Hypericum perforatum (St. John's wort) with antidepressant, potential antiviral, antineoplastic and immunostimulating activities. Hypericin appears to inhibit the neuronal uptake of serotonin, norepinephrine, dopamine, gamma-amino butyric acid (GABA) and L-glutamate, which may contribute to its antidepressant effect. Hypericin may also prevent the replication of encapsulated viruses probably due to inhibition of the assembly and shedding of virus particles in infected cells. This agent also exerts potent phototoxic effects by triggering apoptotic signaling that results in formation of reactive oxygen species.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

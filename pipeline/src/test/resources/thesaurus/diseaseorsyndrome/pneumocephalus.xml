@@ -1,0 +1,32 @@
+<Record>
+<Term>Pneumocephalus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ParentTerm>Brain Injuries</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Craniocerebral Trauma/Brain Injuries/Pneumocephalus</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Trauma, Nervous System/Craniocerebral Trauma/Brain Injuries/Pneumocephalus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Pneumocephalus</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Craniocerebral Trauma/Brain Injuries/Pneumocephalus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Injuries/Pneumocephalus</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Pneumocephalus</BroaderTerm>
+<BroaderTerm>Craniocerebral Trauma</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Brain Injuries</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Trauma, Nervous System</BroaderTerm>
+<Synonym>Pneumocephalus</Synonym>
+<Synonym>Cranial Airocele</Synonym>
+<Synonym>Cranial Airoceles</Synonym>
+<Synonym>Cranial Pneumocyst</Synonym>
+<Synonym>Cranial Pneumocysts</Synonym>
+<Synonym>Pressure Pneumocephalus</Synonym>
+<Synonym>Tension Pneumocephalus</Synonym>
+<Synonym>Intracranial Gas</Synonym>
+<Synonym>Traumatic Pneumocephalus</Synonym>
+<Synonym>Epidural Pneumocephalus</Synonym>
+<Description>Presence of air or gas within the intracranial cavity (e.g., epidural space, subdural space, intracerebral, etc.) which may result from traumatic injuries, fistulous tract formation, erosions of the skull from NEOPLASMS or infection, NEUROSURGICAL PROCEDURES, and other conditions.</Description>
+<Source>MeSH</Source>
+</Record>

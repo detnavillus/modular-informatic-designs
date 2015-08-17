@@ -1,0 +1,21 @@
+<Record>
+<Term>Dopamine Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Neuroreactive Substance or Biogenic Amine</SemanticType>
+<ParentTerm>Dopamine Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Dopamine Agents/Dopamine Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Dopamine Agents/Dopamine Antagonists</ClassificationPath>
+<BroaderTerm>Dopamine Antagonists</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Dopamine Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<Synonym>Dopamine Antagonists</Synonym>
+<Synonym>Dopamine Receptor Antagonists</Synonym>
+<Synonym>Dopamine Blockers</Synonym>
+<Synonym>Dopaminergic Antagonists</Synonym>
+<Description>Drugs that bind to but do not activate DOPAMINE RECEPTORS, thereby blocking the actions of dopamine or exogenous agonists. Many drugs used in the treatment of psychotic disorders (ANTIPSYCHOTIC AGENTS) are dopamine antagonists, although their therapeutic effects may be due to long-term adjustments of the brain rather than to the acute effects of blocking dopamine receptors. Dopamine antagonists have been used for several other clinical purposes including as ANTIEMETICS, in the treatment of Tourette syndrome, and for hiccup. Dopamine receptor blockade is associated with NEUROLEPTIC MALIGNANT SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

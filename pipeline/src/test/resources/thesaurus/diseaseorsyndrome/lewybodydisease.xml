@@ -1,0 +1,30 @@
+<Record>
+<Term>Lewy Body Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ParentTerm>Parkinsonian Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Lewy Body Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Parkinsonian Disorders/Lewy Body Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Parkinsonian Disorders/Lewy Body Disease</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Lewy Body Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Lewy Body Disease</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lewy Body Disease</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinsonian Disorders</BroaderTerm>
+<Synonym>Lewy Body Disease</Synonym>
+<Synonym>Cortical Lewy Body Disease</Synonym>
+<Synonym>Diffuse Lewy Body Disease</Synonym>
+<Synonym>Lewy Body Type Senile Dementia</Synonym>
+<Synonym>Lewy Body Dementia</Synonym>
+<Description>A neurodegenerative disease characterized by dementia, mild parkinsonism, and fluctuations in attention and alertness. The neuropsychiatric manifestations tend to precede the onset of bradykinesia, MUSCLE RIGIDITY, and other extrapyramidal signs. DELUSIONS and visual HALLUCINATIONS are relatively frequent in this condition. Histologic examination reveals LEWY BODIES in the CEREBRAL CORTEX and BRAIN STEM. SENILE PLAQUES and other pathologic features characteristic of ALZHEIMER DISEASE may also be present. (From Neurology 1997;48:376-380; Neurology 1996;47:1113-1124)</Description>
+<Source>MeSH</Source>
+</Record>

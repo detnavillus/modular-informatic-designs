@@ -1,0 +1,16 @@
+<Record>
+<Term>19-nor-Progesterone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Progestin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Progestin/19-nor-Progesterone</ClassificationPath>
+<BroaderTerm>19-nor-Progesterone</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Progestin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>19-nor-Progesterone</Synonym>
+<Description>A steroid progestin derivative with antigonadotropic activity.  19-nor-Progesterone decreases luteinizing hormone (LH) and follicle stimulatory hormone (FSH) secretion, which are effects likely mediated through the binding of this agent to the progesterone receptor.  The antigonadotropic activity of this hormone results in reinforcement of its antiestrogenic activity, allowing treatment of the clinical hyper-estrogenic symptoms of peri-menopause without negative metabolic or hemostatic effects.  19-nor-Progesterone, in addition to its inhibitory effect on ovulation, induces changes in the endometrium, rendering it resistant to implantation, and in the cervical mucus, rendering it hostile to spermatozoa migration.  This agent is also a potent mineralocorticoid. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

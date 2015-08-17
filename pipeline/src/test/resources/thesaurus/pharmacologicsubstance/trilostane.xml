@@ -1,0 +1,34 @@
+<Record>
+<Term>Trilostane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>3-Hydroxysteroid Dehydrogenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Adrenal/Trilostane,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Hydroxysteroid Dehydrogenase Inhibitor/3-Hydroxysteroid Dehydrogenase Inhibitor/Trilostane,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aromatase Inhibitor/Steroidal Aromatase Inhibitor/Trilostane</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Hydroxysteroid Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Anti-Adrenal</BroaderTerm>
+<BroaderTerm>3-Hydroxysteroid Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Steroidal Aromatase Inhibitor</BroaderTerm>
+<BroaderTerm>Trilostane,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Trilostane</BroaderTerm>
+<Synonym>TRILOSTANE</Synonym>
+<Synonym>Desopan</Synonym>
+<Synonym>2Alpha-cyano-4alpha,5alpha-epoxyandrostan-17beta-ol-3-one</Synonym>
+<Synonym>WIN 24,540</Synonym>
+<Synonym>Modrenal</Synonym>
+<Synonym>4,5-Epoxy-17-hydroxy-3-oxoandrostane-2-carbonitrile</Synonym>
+<Synonym>WIN 24540</Synonym>
+<Synonym>Trilostane</Synonym>
+<Synonym>(4Alpha,5alpha,17beta)-4,5-epoxy-3,17-dihydroxyandrost-2-ene-2-carbonitrile</Synonym>
+<Synonym>Modrastane</Synonym>
+<Description>A synthetic derivative of androstane with adrenocortical suppressive properties.  Trilostane reversibly inhibits 3 beta-hydroxysteroid dehydrogenase delta 5-4 isomerase in the adrenal cortex, resulting in the decreased synthesis of mineralocorticoids and glucocorticoids and the decreased conversion of pregnenolone to progesterone. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Corneal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Corneal Opacity</ChildTerm>
+<ChildTerm>Corneal Dystrophies, Hereditary</ChildTerm>
+<ChildTerm>Keratitis</ChildTerm>
+<ChildTerm>Trachoma</ChildTerm>
+<ChildTerm>Corneal Edema</ChildTerm>
+<ChildTerm>Corneal Neovascularization</ChildTerm>
+<ChildTerm>Corneal Endothelial Cell Loss</ChildTerm>
+<ChildTerm>Corneal Wavefront Aberration</ChildTerm>
+<ChildTerm>Corneal Perforation</ChildTerm>
+<ChildTerm>Iridocorneal Endothelial Syndrome</ChildTerm>
+<ChildTerm>Keratoconus</ChildTerm>
+<Synonym>Corneal Diseases</Synonym>
+<Synonym>Corneal Disease</Synonym>
+<Description>Diseases of the cornea.</Description>
+<Source>MeSH</Source>
+</Record>

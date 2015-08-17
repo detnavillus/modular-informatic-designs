@@ -1,0 +1,19 @@
+<Record>
+<Term>Paclitaxel-Loaded Polymeric Micelle</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Paclitaxel-Loaded Polymeric Micelle</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Paclitaxel-Loaded Polymeric Micelle</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Genexol PM</Synonym>
+<Synonym>Paclitaxel-Loaded Polymeric Micelle</Synonym>
+<Description>A biodegradable poly(ethylene glycol)-poly(D,L-lactide) copolymer micelle nanoparticle-entrapped formulation of paclitaxel with antineoplastic activity. Paclitaxel promotes microtubule assembly and prevents depolymerization, thus interfering with normal mitosis. The copolymer residue increases the water-solubility of paclitaxel and allows delivery of higher doses than those achievable with paclitaxel alone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

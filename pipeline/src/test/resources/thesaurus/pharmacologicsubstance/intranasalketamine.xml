@@ -1,0 +1,16 @@
+<Record>
+<Term>Intranasal Ketamine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Analgesic Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Analgesic Preparation/Intranasal Ketamine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Intranasal Ketamine</BroaderTerm>
+<BroaderTerm>Analgesic Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Intranasal Ketamine</Synonym>
+<Description>An intranasal formulation of the synthetic cyclohexanone ketamine with analgesic and anesthetic activities. Although its mechanism of action is not well understood, ketamine appears to non-competitively block N-methyl-D-aspartate (NMDA) receptors and agonistically bind to and activate opioid mu and sigma receptors, thereby reducing pain perception, inducing sedation, and producing dissociative anesthesia.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

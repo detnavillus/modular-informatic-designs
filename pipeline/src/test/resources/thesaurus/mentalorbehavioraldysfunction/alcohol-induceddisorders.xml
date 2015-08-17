@@ -1,0 +1,21 @@
+<Record>
+<Term>Alcohol-Induced Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Alcohol-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<ChildTerm>Cardiomyopathy, Alcoholic</ChildTerm>
+<ChildTerm>Alcohol-Induced Disorders, Nervous System</ChildTerm>
+<ChildTerm>Psychoses, Alcoholic</ChildTerm>
+<ChildTerm>Pancreatitis, Alcoholic</ChildTerm>
+<ChildTerm>Liver Diseases, Alcoholic</ChildTerm>
+<ChildTerm>Fetal Alcohol Syndrome</ChildTerm>
+<Synonym>Alcohol-Induced Disorders</Synonym>
+<Synonym>Alcohol Induced Disorders</Synonym>
+<Synonym>Alcohol-Induced Disorder</Synonym>
+<Description>Disorders stemming from the misuse and abuse of alcohol.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Ehrlichiosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anaplasmataceae Infections</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Anaplasmataceae Infections/Ehrlichiosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Ehrlichiosis</ClassificationPath>
+<BroaderTerm>Anaplasmataceae Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Ehrlichiosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Heartwater Disease</ChildTerm>
+<Synonym>Ehrlichioses</Synonym>
+<Synonym>Ehrlichiosis</Synonym>
+<Description>A tick-borne disease characterized by FEVER; HEADACHE; myalgias; ANOREXIA; and occasionally RASH. It is caused by several bacterial species and can produce disease in DOGS; CATTLE; SHEEP; GOATS; HORSES; and humans. The primary species causing human disease are EHRLICHIA CHAFFEENSIS; ANAPLASMA PHAGOCYTOPHILUM; and Ehrlichia ewingii.</Description>
+<Source>MeSH</Source>
+</Record>

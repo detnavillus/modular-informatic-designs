@@ -1,0 +1,25 @@
+<Record>
+<Term>Olanzapine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antipsychotic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antipsychotic Agent/Olanzapine</ClassificationPath>
+<BroaderTerm>Olanzapine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antipsychotic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Zyprexa Relprevv</Synonym>
+<Synonym>Olanzapine</Synonym>
+<Synonym>Zyprexa zydis</Synonym>
+<Synonym>LY 170053</Synonym>
+<Synonym>Zyprexa</Synonym>
+<Synonym>2-Methyl-4-(4-methyl-1-piperazinyl)-10H-thieno(2,3-b)(1,5)benzodiazepine</Synonym>
+<Synonym>Olanzapine pamoate</Synonym>
+<Synonym>OLANZAPINE</Synonym>
+<Synonym>Zydis</Synonym>
+<Description>A synthetic derivative of thienobenzodiazepine with antipsychotic, antinausea, and antiemetic activities. As a selective monoaminergic antagonist, olanzapine binds with high affinity binding to the following receptors: serotoninergic, dopaminergic, muscarinic M1-5, histamine H1, and alpha-1-adrenergic receptors; it binds weakly to gamma-aminobutyric acid type A, benzodiazepine, and beta-adrenergic receptors. The antinausea and antiemetic effects of this agent appear to be due to the blockade of 5-HT2 and 5-HT3 receptors for serotonin. Although its exact mechanism of action in schizophrenia is unknown, it has been proposed that olanzapine's antipsychotic activity is mediated through antagonism to dopamine D2 receptors with rapid ligand-receptor dissociation kinetics that help to minimize extrapyramidal symptoms (EPS). Olanzapine may also stimulate appetite.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

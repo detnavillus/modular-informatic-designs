@@ -1,0 +1,42 @@
+<Record>
+<Term>Cerebrospinal Fluid Otorrhea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Otorrhea</ParentTerm>
+<ParentTerm>Craniocerebral Trauma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Discharge/Fluid Discharge/Otorrhea/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Craniocerebral Trauma/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Craniocerebral Trauma/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Trauma, Nervous System/Craniocerebral Trauma/Cerebrospinal Fluid Otorrhea</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Otorrhea</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Discharge</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Trauma, Nervous System</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Fluid Discharge</BroaderTerm>
+<BroaderTerm>Craniocerebral Trauma</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cerebrospinal Fluid Otorrhea</BroaderTerm>
+<Synonym>Cerebrospinal Otorrhea</Synonym>
+<Synonym>Traumatic Cerebrospinal Fluid Otorrhea</Synonym>
+<Synonym>Cerebrospinal Fluid Otorrheas</Synonym>
+<Synonym>Post-Traumatic Cerebrospinal Fluid Otorrhea</Synonym>
+<Synonym>Spontaneous Cerebrospinal Fluid Otorrhea</Synonym>
+<Synonym>Post Traumatic Cerebrospinal Fluid Otorrhea</Synonym>
+<Synonym>Cerebrospinal Fluid Otorrhea</Synonym>
+<Description>Discharge of cerebrospinal fluid through the external auditory meatus or through the eustachian tube into the nasopharynx. This is usually associated with CRANIOCEREBRAL TRAUMA (e.g., SKULL FRACTURE involving the TEMPORAL BONE;), NEUROSURGICAL PROCEDURES; or other conditions, but may rarely occur spontaneously. (From Am J Otol 1995 Nov;16(6):765-71)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

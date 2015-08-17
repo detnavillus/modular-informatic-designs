@@ -1,0 +1,14 @@
+<Record>
+<Term>Iatrogenesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathogenesis</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Pathogenesis/Iatrogenesis</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Iatrogenesis</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Pathogenesis</BroaderTerm>
+<Synonym>Iatrogenesis</Synonym>
+<Description>A state of ill health caused by medical treatment, usually due to mistakes made in treatment.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

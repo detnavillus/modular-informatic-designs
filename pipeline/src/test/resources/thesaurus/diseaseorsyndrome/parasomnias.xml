@@ -1,0 +1,31 @@
+<Record>
+<Term>Parasomnias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sleep Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias</ClassificationPath>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Nocturnal Myoclonus Syndrome</ChildTerm>
+<ChildTerm>Sleep Arousal Disorders</ChildTerm>
+<ChildTerm>Sleep-Wake Transition Disorders</ChildTerm>
+<ChildTerm>REM Sleep Parasomnias</ChildTerm>
+<ChildTerm>Sleep Bruxism</ChildTerm>
+<ChildTerm>Nocturnal Paroxysmal Dystonia</ChildTerm>
+<ChildTerm>Restless Legs Syndrome</ChildTerm>
+<Synonym>Benign Neonatal Sleep Myoclonus</Synonym>
+<Synonym>Sleep Drunkenness</Synonym>
+<Synonym>Parasomnia</Synonym>
+<Synonym>Parasomnias</Synonym>
+<Synonym>Sleep Drunkennesses</Synonym>
+<Synonym>Sleep Related Abnormal Swallowing Syndrome</Synonym>
+<Synonym>Sleep-Related Abnormal Swallowing Syndrome</Synonym>
+<Synonym>Sleep Sensory Paroxysms</Synonym>
+<Synonym>Sleep Sensory Paroxysm</Synonym>
+<Description>Movements or behaviors associated with sleep, sleep stages, or partial arousals from sleep that may impair sleep maintenance. Parasomnias are generally divided into four groups: arousal disorders, sleep-wake transition disorders, parasomnias of REM sleep, and nonspecific parasomnias. (From Thorpy, Sleep Disorders Medicine, 1994, p191)</Description>
+<Source>MeSH</Source>
+</Record>

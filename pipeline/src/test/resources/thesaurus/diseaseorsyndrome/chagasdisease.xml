@@ -1,0 +1,18 @@
+<Record>
+<Term>Chagas Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Trypanosomiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Trypanosomiasis/Chagas Disease</ClassificationPath>
+<BroaderTerm>Euglenozoa Infections</BroaderTerm>
+<BroaderTerm>Trypanosomiasis</BroaderTerm>
+<BroaderTerm>Chagas Disease</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Chagas Cardiomyopathy</ChildTerm>
+<Synonym>Chagas Disease</Synonym>
+<Synonym>American Trypanosomiasis</Synonym>
+<Synonym>South American Trypanosomiasis</Synonym>
+<Synonym>Chagas' Disease</Synonym>
+<Description>Infection with the protozoan parasite TRYPANOSOMA CRUZI, a form of TRYPANOSOMIASIS endemic in Central and South America. It is named after the Brazilian physician Carlos Chagas, who discovered the parasite. Infection by the parasite (positive serologic result only) is distinguished from the clinical manifestations that develop years later, such as destruction of PARASYMPATHETIC GANGLIA; CHAGAS CARDIOMYOPATHY; and dysfunction of the ESOPHAGUS or COLON.</Description>
+<Source>MeSH</Source>
+</Record>

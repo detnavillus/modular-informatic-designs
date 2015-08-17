@@ -1,0 +1,19 @@
+<Record>
+<Term>Desirudin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Desirudin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Desirudin</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>63-Desulfohirudin(Hirudo medicinalis isoform HV1)</Synonym>
+<Synonym>CGP 39393</Synonym>
+<Synonym>DESIRUDIN</Synonym>
+<Synonym>Desirudin</Synonym>
+<Synonym>Iprivask</Synonym>
+<Description>A synthetic recombinant form of the naturally occurring hirudin, the anticoagulant substance found in leech. Desirudin is a selective and almost irreversible inhibitor of thrombin, both free and clot-bound, by blocking its active site. This anticoagulant agent has no effect on other components of the hemostatic system. Desirudin is particularly used to prevent deep vein thrombosis in patients undergoing hip and knee replacement surgery.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

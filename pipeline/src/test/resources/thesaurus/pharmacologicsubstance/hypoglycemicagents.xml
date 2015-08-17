@@ -1,0 +1,18 @@
+<Record>
+<Term>Hypoglycemic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hypoglycemic Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hypoglycemic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Hypoglycemic Agents</Synonym>
+<Synonym>Hypoglycemics</Synonym>
+<Synonym>Hypoglycemic Drugs</Synonym>
+<Synonym>Antidiabetics</Synonym>
+<Synonym>Antidiabetic Drugs</Synonym>
+<Synonym>Antidiabetic Agents</Synonym>
+<Description>Agents which lower the blood glucose level.</Description>
+<Source>MeSH</Source>
+</Record>

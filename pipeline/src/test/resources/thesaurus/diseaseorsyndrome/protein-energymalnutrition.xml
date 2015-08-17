@@ -1,0 +1,21 @@
+<Record>
+<Term>Protein-Energy Malnutrition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Pathologic Function</SemanticType>
+<ParentTerm>Protein Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Protein Deficiency/Protein-Energy Malnutrition</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Protein-Energy Malnutrition</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Protein Deficiency</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Kwashiorkor</ChildTerm>
+<Synonym>Protein-Energy Malnutrition</Synonym>
+<Synonym>Protein Energy Malnutrition</Synonym>
+<Synonym>Protein-Calorie Malnutrition</Synonym>
+<Synonym>Protein Calorie Malnutrition</Synonym>
+<Synonym>Marasmus</Synonym>
+<Description>The lack of sufficient energy or protein to meet the body's metabolic demands, as a result of either an inadequate dietary intake of protein, intake of poor quality dietary protein, increased demands due to disease, or increased nutrient losses.</Description>
+<Source>MeSH</Source>
+</Record>

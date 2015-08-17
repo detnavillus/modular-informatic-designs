@@ -1,0 +1,17 @@
+<Record>
+<Term>Coating Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Coating Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Coating Excipient</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Lac Resin</ChildTerm>
+<Synonym>Coating</Synonym>
+<Synonym>Coating Excipient</Synonym>
+<Description>Therapeutically inactive ingredient of pharmaceutical dosage form used to protect it against premature physical breakup and to prevent unwanted environmental interactions. Coating can mask bad taste and allow pills to be swallowed easily. Several types of coatings are used: thin film, sugar coating, enteric coating (the most unpredictable because such coated tablets may pass through the stomach intact and be released into the intestine at unpredictable intervals all at one time rather than slowly over a period of time. Typical pill coatings include zein, shellac, or sugars.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

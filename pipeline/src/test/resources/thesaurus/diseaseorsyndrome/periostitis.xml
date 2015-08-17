@@ -1,0 +1,17 @@
+<Record>
+<Term>Periostitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Infectious</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious/Periostitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious/Periostitis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Periostitis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Periostitides</Synonym>
+<Synonym>Periostitis</Synonym>
+<Description>Inflammation of the periosteum. The condition is generally chronic, and is marked by tenderness and swelling of the bone and an aching pain. Acute periostitis is due to infection, is characterized by diffuse suppuration, severe pain, and constitutional symptoms, and usually results in necrosis. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

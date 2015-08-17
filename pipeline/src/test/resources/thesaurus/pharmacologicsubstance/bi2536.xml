@@ -1,0 +1,16 @@
+<Record>
+<Term>BI 2536</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitotic Enzyme Modulator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Mitotic Enzyme Modulator/BI 2536</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>BI 2536</BroaderTerm>
+<BroaderTerm>Mitotic Enzyme Modulator</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BI 2536</Synonym>
+<Description>A small molecule compound with potential antineoplastic activities. BI 2536 binds to and inhibits Polo-like kinase 1 (Plk1), resulting in mitotic arrest, disruption of cytokinesis, and apoptosis in susceptible tumor cell populations. Plk1, a serine/threonine-protein kinase, is a key regulator of multiple processes fundamental to mitosis and cell division.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

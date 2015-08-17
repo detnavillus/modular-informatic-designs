@@ -1,0 +1,25 @@
+<Record>
+<Term>Valvular Regurgitation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Valvular Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Valvular Regurgitation</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Regurgitation</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pulmonary Valvular Regurgitation</ChildTerm>
+<ChildTerm>Mitral Regurgitation</ChildTerm>
+<ChildTerm>Tricuspid Regurgitation</ChildTerm>
+<ChildTerm>Aortic Regurgitation</ChildTerm>
+<Synonym>Regurgitation, Valvular</Synonym>
+<Synonym>Valvular Regurgitation</Synonym>
+<Synonym>Valvular regurgitation</Synonym>
+<Description>Regurgitation of the blood of the heart valves owning to imperfect closing, insufficiency or incompetency of the valves.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

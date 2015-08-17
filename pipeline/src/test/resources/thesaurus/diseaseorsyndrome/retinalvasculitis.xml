@@ -1,0 +1,17 @@
+<Record>
+<Term>Retinal Vasculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Retinal Vasculitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Vasculitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Retinal Vasculitis</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Retinal Vasculitis</Synonym>
+<Description>Inflammation of the retinal vasculature with various causes including infectious disease; LUPUS ERYTHEMATOSUS, SYSTEMIC; MULTIPLE SCLEROSIS; BEHCET SYNDROME; and CHORIORETINITIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,38 @@
+<Record>
+<Term>Septic Shock</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Systemic Inflammatory Response Syndrome</ParentTerm>
+<ParentTerm>Shock</ParentTerm>
+<ParentTerm>Sepsis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sepsis/Shock, Septic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Fluid and Electrolyte Manifestation/Shock/Septic Shock</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Shock/Systemic Inflammatory Response Syndrome/Shock, Septic</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Shock, Septic</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Shock, Septic</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Fluid and Electrolyte Manifestation</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Septic Shock</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Shock</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>Septic shock</Synonym>
+<Synonym>Toxic Shock Syndrome</Synonym>
+<Synonym>Endotoxic Shock</Synonym>
+<Synonym>Septic Shock</Synonym>
+<Synonym>Shock, septic</Synonym>
+<Synonym>Toxic Shock</Synonym>
+<Synonym>Toxic Shock Syndromes</Synonym>
+<Description>Sepsis associated with HYPOTENSION or hypoperfusion despite adequate fluid resuscitation. Perfusion abnormalities may include, but are not limited to LACTIC ACIDOSIS; OLIGURIA; or acute alteration in mental status.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>PI3K Inhibitor BEZ235</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/PI3K Inhibitor BEZ235</ClassificationPath>
+<BroaderTerm>PI3K Inhibitor BEZ235</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BEZ235</Synonym>
+<Synonym>PI3K Inhibitor BEZ235</Synonym>
+<Description>An orally bioavailable phosphatidylinositol 3-kinase (PI3K) inhibitor with potential antineoplastic activity. PI3K inhibitor BEZ235 specifically inhibits PIK3 in the PI3K/AKT kinase (or protein kinase B) signaling pathway, which may trigger the translocation of cytosolic Bax to the mitochondrial outer membrane, increasing mitochondrial membrane permeability; apoptotic cell death may ensue. Bax is a member of the proapoptotic Bcl2 family of proteins.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

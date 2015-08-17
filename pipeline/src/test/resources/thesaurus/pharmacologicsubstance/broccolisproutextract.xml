@@ -1,0 +1,13 @@
+<Record>
+<Term>Broccoli Sprout Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Broccoli Sprout Extract</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Broccoli Sprout Extract</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Broccoli Sprout Extract</Synonym>
+<Description>A cruciferous vegetable extract with potential chemopreventive properties. Broccoli sprout extract contains a high amount of sulforaphane, a naturally occurring isothiocyanate. Sulforaphane activates transcription factor Nrf2, a member of the basic leucine zipper family, which binds to and activates antioxidant-response elements (AREs). Subsequently, activated AREs, cis-acting regulatory enhancer elements found in the 5' flanking region of many phase II detoxification enzymes, mediate the transcription of these enzymes (particularly glutathione-S-transferase and quinone oxidoreductase) resulting in the detoxification of highly reactive carcinogens.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

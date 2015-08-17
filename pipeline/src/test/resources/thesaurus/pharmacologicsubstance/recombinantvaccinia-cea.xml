@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Vaccinia-CEA</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-CEA</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-CEA</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>RV CEA</Synonym>
+<Synonym>Recombinant Vaccinia-CEA</Synonym>
+<Synonym>rV-CEA</Synonym>
+<Description>A recombinant vaccinia virus encoding carcinoembryonic antigen (CEA). CEA is overexpressed in several cancer cell types, including gastrointestinal, breast, and non-small cell lung cancers. Attenuated vaccinia virus is a highly effective immunizing agent that evokes both humoral and cell-mediated responses.  Vaccination with this agent may evoke a cytotoxic immune response to CEA-expressing cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

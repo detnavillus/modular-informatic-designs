@@ -1,0 +1,21 @@
+<Record>
+<Term>Antiprotozoal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiparasitic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Antiprotozoal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agents</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Coccidiostats</ChildTerm>
+<ChildTerm>Amebicides</ChildTerm>
+<ChildTerm>Antimalarials</ChildTerm>
+<ChildTerm>Antitrichomonal Agents</ChildTerm>
+<ChildTerm>Trypanocidal Agents</ChildTerm>
+<Synonym>Antiprotozoal Agents</Synonym>
+<Synonym>Schizonticides</Synonym>
+<Description>Substances that are destructive to protozoans.Substances that inhibit the SCHIZONTS stage of protozoa. There is particular interest in them as ANTIMALARIALS.</Description>
+<Source>MeSH</Source>
+</Record>

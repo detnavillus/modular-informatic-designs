@@ -1,0 +1,15 @@
+<Record>
+<Term>Oncolytic Ad5-Delta 24RGD</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Oncolytic Ad5-Delta 24RGD</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Ad5-Delta 24RGD</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ad5-Delta24RGD</Synonym>
+<Synonym>Oncolytic Ad5-Delta 24RGD</Synonym>
+<Description>An adenovirus serotype 5 strain, selectively replication competent in cells defective in the Rb/p16 tumor suppressor pathway, with potential oncolytic activity. Oncolytic adenovirus Ad5-Delta 24RGD contains an integrin binding RGD-4C motif, allowing Coxsackie adenovirus receptor-independent infection of tumor cells, which are often deficient for Coxsackie and adenovirus receptors (CARs). Selectively replication competent in cells that are defective in retinoblastoma gene (Rb) or cyclin-dependent kinase inhibitor-2A (p16), active replication of oncolytic adenovirus Ad5-Delta 24RGD in tumor cells may induce oncolysis or cell lysis. As integral components of the late G1 restriction point, the Rb gene product and p16 are negative regulators of the cell cycle; ovarian cancer cells and non-small cell lung cancer cells may be defective in the Rb/p16 pathway.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

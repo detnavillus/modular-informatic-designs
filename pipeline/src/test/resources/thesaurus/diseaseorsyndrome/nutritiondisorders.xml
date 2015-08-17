@@ -1,0 +1,20 @@
+<Record>
+<Term>Nutrition Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutritional and Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders</ClassificationPath>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<ChildTerm>Malnutrition</ChildTerm>
+<ChildTerm>Overnutrition</ChildTerm>
+<ChildTerm>Child Nutrition Disorders</ChildTerm>
+<ChildTerm>Wasting Syndrome</ChildTerm>
+<ChildTerm>Infant Nutrition Disorders</ChildTerm>
+<ChildTerm>Hypervitaminosis A</ChildTerm>
+<Synonym>Nutrition Disorders</Synonym>
+<Synonym>Nutrition Disorder</Synonym>
+<Synonym>Nutritional Disorders</Synonym>
+<Synonym>Nutritional Disorder</Synonym>
+<Description>Disorders caused by nutritional imbalance, either overnutrition or undernutrition.</Description>
+<Source>MeSH</Source>
+</Record>

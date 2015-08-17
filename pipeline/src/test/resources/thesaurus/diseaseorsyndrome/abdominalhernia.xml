@@ -1,0 +1,19 @@
+<Record>
+<Term>Abdominal Hernia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Hernia</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Hernia/Hernia, Abdominal</ClassificationPath>
+<BroaderTerm>Hernia, Abdominal</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Hernia</BroaderTerm>
+<ChildTerm>Gastroschisis</ChildTerm>
+<ChildTerm>Hernia, Femoral</ChildTerm>
+<ChildTerm>Hernia, Inguinal</ChildTerm>
+<ChildTerm>Hernia, Ventral</ChildTerm>
+<Synonym>Abdominal Hernia</Synonym>
+<Synonym>Abdominal Hernias</Synonym>
+<Description>A protrusion of abdominal structures through the retaining ABDOMINAL WALL. It involves two parts: an opening in the abdominal wall, and a hernia sac consisting of PERITONEUM and abdominal contents. Abdominal hernias include groin hernia (HERNIA, FEMORAL; HERNIA, INGUINAL) and VENTRAL HERNIA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Dasatinib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Dasatinib</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Dasatinib Anhydrous</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Dasatinib Anhydrous</BroaderTerm>
+<BroaderTerm>Dasatinib</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>BMS-354825</Synonym>
+<Synonym>Sprycel</Synonym>
+<Synonym>DASATINIB</Synonym>
+<Synonym>Dasatinib</Synonym>
+<Synonym>Dasatinib Anhydrous</Synonym>
+<Synonym>DASATINIB ANHYDROUS</Synonym>
+<Description>An orally bioavailable synthetic small molecule-inhibitor of SRC-family protein-tyrosine kinases.  Dasatinib binds to and inhibits the growth-promoting activities of these kinases. Apparently because of its less stringent binding affinity for the BCR-ABL kinase, dasatinib has been shown to overcome the resistance to imatinib of chronic myeloid leukemia (CML) cells harboring BCR-ABL kinase domain point mutations. SRC-family protein-tyrosine kinases interact with variety of cell-surface receptors and participate in intracellular signal transduction pathways; tumorigenic forms can occur through altered regulation or expression of the endogenous protein and by way of virally-encoded kinase genes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

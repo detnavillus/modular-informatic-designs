@@ -1,0 +1,18 @@
+<Record>
+<Term>Hemophilia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Factor Deficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Coagulation Factor Deficiency/Hemophilia</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Factor Deficiency</BroaderTerm>
+<BroaderTerm>Hemophilia</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hemophilia A</ChildTerm>
+<ChildTerm>Hemophilia B</ChildTerm>
+<Synonym>Hemophilia</Synonym>
+<Synonym>hemophilia</Synonym>
+<Description>A deficiency or abnormality of a blood coagulation factor characterized by the tendency to spontaneous or exaggerated post-traumatic hemorrhage, Hemophilia is typically a hereditary disorder but, rarely, may be acquired. Inherited coagulation factor-deficient hemophilias include hemophilia A or classic hemophilia (factor VIII deficiency) hemophilia B or Christmas disease (factor IX deficiency), and hemophilia C (factor XI deficiency). In individuals without hereditary hemophilia A, factor VIII inhibitors may occur spontaneously as autoantibodies, resulting in a condition known as 'acquired hemophilia.' Approximately 10 % of patients with acquired hemophilia have an underlying malignancy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

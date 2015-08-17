@@ -1,0 +1,17 @@
+<Record>
+<Term>Yttrium 90-DOTA-Chimeric Monoclonal Antibody cG250</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium 90-DOTA-Chimeric Monoclonal Antibody cG250</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Yttrium 90-DOTA-Chimeric Monoclonal Antibody cG250</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>90Y-DOTA-cG250</Synonym>
+<Synonym>Yttrium 90-DOTA-Chimeric Monoclonal Antibody cG250</Synonym>
+<Synonym>Yttrium-90 DOTA Conjugated Chimeric MoAb G250</Synonym>
+<Description>A radioimmunoconjugate comprised of the chimeric monoclonal antibody cG250 conjugated with the bifunctional, macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and labeled with the beta-emitting radioisotope yttrium 90. The antibody moiety of yttrium 90 DOTA chimeric monoclonal antibody cG250 binds to renal cell carcinoma cells expressing the G250 antigen, thereby selectively delivering a cytotoxic dose of beta radiation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

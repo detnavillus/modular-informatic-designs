@@ -1,0 +1,46 @@
+<Record>
+<Term>Antiparasitic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Anti-Infective Agents</ParentTerm>
+<ParentTerm>Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Imcarbofos</ChildTerm>
+<ChildTerm>Dymanthine Hydrochloride</ChildTerm>
+<ChildTerm>Phenyliodoundecynoate</ChildTerm>
+<ChildTerm>Sodium Stibogluconate</ChildTerm>
+<ChildTerm>Benzyl Benzoate</ChildTerm>
+<ChildTerm>Spirotriazine Hydrochloride</ChildTerm>
+<ChildTerm>Tibenzate</ChildTerm>
+<ChildTerm>Antiprotozoal Agent</ChildTerm>
+<ChildTerm>Anthelmintics</ChildTerm>
+<ChildTerm>Antiprotozoal Agents</ChildTerm>
+<ChildTerm>Antihelminthic Agent</ChildTerm>
+<ChildTerm>Bromociclen</ChildTerm>
+<ChildTerm>Edelfosine</ChildTerm>
+<ChildTerm>Homidium Bromide</ChildTerm>
+<ChildTerm>Artesunate</ChildTerm>
+<ChildTerm>Diloxanide</ChildTerm>
+<ChildTerm>Tafenoquine</ChildTerm>
+<Synonym>Antiparasitic Agent</Synonym>
+<Synonym>Antiparasitic Drugs</Synonym>
+<Synonym>Antiparasitic Agents</Synonym>
+<Synonym>antiparasitics</Synonym>
+<Synonym>Antiparasitics</Synonym>
+<Synonym>Antiparasitic</Synonym>
+<Synonym>Parasiticides</Synonym>
+<Description>Drugs used to treat or prevent parasitic infections.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

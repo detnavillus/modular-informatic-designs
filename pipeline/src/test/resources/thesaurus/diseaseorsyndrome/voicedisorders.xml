@@ -1,0 +1,32 @@
+<Record>
+<Term>Voice Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Laryngeal Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Laryngeal Diseases/Voice Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Voice Disorders</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Laryngeal Diseases/Voice Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Voice Disorders</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Voice Disorders</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Laryngeal Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dysphonia</ChildTerm>
+<ChildTerm>Aphonia</ChildTerm>
+<ChildTerm>Hoarseness</ChildTerm>
+<Synonym>Neurologic Voice Disorders</Synonym>
+<Synonym>Voice Fatigue</Synonym>
+<Synonym>Voice Disturbances</Synonym>
+<Synonym>Voice Disorders</Synonym>
+<Synonym>Voice Fatigues</Synonym>
+<Synonym>Neurologic Voice Disorder</Synonym>
+<Synonym>Voice Disorder</Synonym>
+<Synonym>Voice Disturbance</Synonym>
+<Description>Pathological processes that affect voice production, usually involving VOCAL CORDS and the LARYNGEAL MUCOSA. Voice disorders can be caused by organic (anatomical), or functional (emotional or psychological) factors leading to DYSPHONIA; APHONIA; and defects in VOICE QUALITY, loudness, and pitch.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Incretins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<ParentTerm>Hormones</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Incretins</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Incretins</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Incretins</Synonym>
+<Synonym>Incretin</Synonym>
+<Synonym>Glucose-Dependent Insulin-Releasing Hormone</Synonym>
+<Synonym>Glucose Dependent Insulin Releasing Hormone</Synonym>
+<Description>Peptides which stimulate INSULIN release from the PANCREATIC BETA CELLS following oral nutrient ingestion, or postprandially.</Description>
+<Source>MeSH</Source>
+</Record>

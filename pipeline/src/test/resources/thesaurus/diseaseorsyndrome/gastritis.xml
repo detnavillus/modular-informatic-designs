@@ -1,0 +1,47 @@
+<Record>
+<Term>Gastritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Stomach Disorder</ParentTerm>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Non-Neoplastic Stomach Disorder/Gastritis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Gastritis</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Stomach Disorder</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gastritis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Gastritis, Atrophic</ChildTerm>
+<ChildTerm>Helicobacter Pylori-Associated Gastritis</ChildTerm>
+<ChildTerm>Gastritis Associated with Crohn Disease</ChildTerm>
+<ChildTerm>Eosinophilic Gastritis</ChildTerm>
+<ChildTerm>Hemorrhagic Gastritis</ChildTerm>
+<ChildTerm>Necrotizing Gastritis</ChildTerm>
+<ChildTerm>Giant Hypertrophic Gastritis</ChildTerm>
+<ChildTerm>Viral Gastritis</ChildTerm>
+<ChildTerm>Granulomatous Gastritis</ChildTerm>
+<ChildTerm>Gastritis, Hypertrophic</ChildTerm>
+<ChildTerm>Chronic Gastritis</ChildTerm>
+<ChildTerm>Bacterial Gastritis</ChildTerm>
+<ChildTerm>Alcoholic Gastritis</ChildTerm>
+<ChildTerm>Fungal Gastritis</ChildTerm>
+<ChildTerm>Acute Gastritis</ChildTerm>
+<ChildTerm>Erosive Gastritis</ChildTerm>
+<ChildTerm>Persistent Superficial Gastritis</ChildTerm>
+<ChildTerm>Lymphocytic Gastritis</ChildTerm>
+<Synonym>Gastritis</Synonym>
+<Synonym>Gastritides</Synonym>
+<Description>Inflammation of the GASTRIC MUCOSA, a lesion observed in a number of unrelated disorders.</Description>
+<Description>Inflammation of the stomach.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

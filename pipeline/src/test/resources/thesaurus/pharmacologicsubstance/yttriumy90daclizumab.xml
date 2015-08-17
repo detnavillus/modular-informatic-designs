@@ -1,0 +1,17 @@
+<Record>
+<Term>Yttrium Y 90 Daclizumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Daclizumab</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Yttrium Y 90 Daclizumab</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y90 Daclizumab</Synonym>
+<Synonym>Y90 MOAB Anti-Tac</Synonym>
+<Synonym>Yttrium Y 90 Daclizumab</Synonym>
+<Description>A synthetic radioimmunoconjugate comprised of a humanized anti-interleukin-2 (IL-2) antibody linked to the radioisotope Yttrium 90 with potential antineoplastic activity.  Daclizumab binds with high affinity to the Tac (also called CD25) subunit of the IL-2 receptor complex and inhibits the binding of IL-2, thereby blocking the IL-2-mediated activation of lymphocytes.  As Yttrium Y 90 daclizumab, daclizumab delivers radiation specifically to lymphocytes that express the IL-2 receptor. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

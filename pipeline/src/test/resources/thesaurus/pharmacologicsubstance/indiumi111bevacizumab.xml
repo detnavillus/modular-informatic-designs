@@ -1,0 +1,16 @@
+<Record>
+<Term>Indium I 111 Bevacizumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Indium I 111 Bevacizumab</ClassificationPath>
+<BroaderTerm>Indium I 111 Bevacizumab</BroaderTerm>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>In-111-Bevacizumab</Synonym>
+<Synonym>Indium I 111 Bevacizumab</Synonym>
+<Description>A radioimmunoconjugate comprised of the recombinant humanized monoclonal antibody bevacizumab conjugated with the gamma-emitting radioisotope indium In 111. Indium I 111 bevacizumab binds to vascular endothelial growth factor (VEGF), allowing the detection of VEGF distribution using gamma scintigraphy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

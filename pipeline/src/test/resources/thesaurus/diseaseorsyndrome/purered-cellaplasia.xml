@@ -1,0 +1,18 @@
+<Record>
+<Term>Pure Red-Cell Aplasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Red-Cell Aplasia, Pure</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Red-Cell Aplasia, Pure</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Anemia, Diamond-Blackfan</ChildTerm>
+<Synonym>Erythrocyte Aplasia</Synonym>
+<Synonym>Erythrocyte Aplasias</Synonym>
+<Synonym>Pure Red-Cell Aplasia</Synonym>
+<Synonym>Pure Red Cell Aplasia</Synonym>
+<Synonym>Pure Red-Cell Aplasias</Synonym>
+<Description>Suppression of erythropoiesis with little or no abnormality of leukocyte or platelet production.</Description>
+<Source>MeSH</Source>
+</Record>

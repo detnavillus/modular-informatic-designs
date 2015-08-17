@@ -1,0 +1,16 @@
+<Record>
+<Term>PPI-2458</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Endothelial Cell Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Endothelial Cell Inhibitor/PPI-2458</ClassificationPath>
+<BroaderTerm>PPI-2458</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Endothelial Cell Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PPI-2458</Synonym>
+<Description>A synthetic derivative of fumagillin with antineoplastic and cytotoxic properties.  PPI-2458 irreversibly inhibits the enzyme methionine aminopeptidase type 2 (MetAP2), thereby preventing abnormal cell growth and angiogenesis. PPI-2458 is reported to have a better toxicity profile compared to other agents of its class. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

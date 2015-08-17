@@ -1,0 +1,18 @@
+<Record>
+<Term>Autologous Dendritic Cell-Tumor Fusion Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dendritic Cell Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/APC Vaccine/Dendritic Cell Vaccine/Autologous Dendritic Cell-Tumor Fusion Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>APC Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Autologous Dendritic Cell-Tumor Fusion Vaccine</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Autologous Dendritic Cell-Tumor Fusion Vaccine</Synonym>
+<Description>A therapeutic cancer vaccine consisting of autologous dendritic cells (DCs) fused with autologous tumor cells with potential immunostimulatory and antineoplastic activities. Autologous dendritic cell-tumor fusion vaccine is generated in vitro by mixing DCs and irradiated tumor cells harvested from individual patients and treating them with polyethylene glycol (PEG) to produce DC-tumor cell fusion hybrid cells. Upon administration, autologous dendritic cell-tumor fusion vaccine may elicit antitumor humoral and cellular immune responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

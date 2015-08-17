@@ -1,0 +1,20 @@
+<Record>
+<Term>Cesium Cs 137</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioisotope</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Isotope/Radioisotope/Cesium Cs 137</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Cesium Cs 137</BroaderTerm>
+<BroaderTerm>Radioisotope</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Isotope</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cesium Cs 137</Synonym>
+<Synonym>Cesium, Isotope of Mass 137</Synonym>
+<Synonym>Cesium-137</Synonym>
+<Synonym>Cs-137</Synonym>
+<Description>A radioactive isotope of cesium with an atomic mass of 139 and potential application in radiotherapy. Cesium Cs 137 is prevalent due to its spontaneous production, which occurs as a result of nuclear fission of other radioactive materials, such as uranium and plutonium. This radionuclide has a relatively long half-life, 30 years, and decays by emitting beta particles. Both Cs 137 and its metastable nuclear isomer, barium-137m, emit gamma radiation of moderate energy and so are used in sterilization procedures in the food industry or in hospital environments.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

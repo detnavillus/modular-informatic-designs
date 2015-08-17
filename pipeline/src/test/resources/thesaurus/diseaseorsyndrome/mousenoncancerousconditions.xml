@@ -1,0 +1,22 @@
+<Record>
+<Term>Mouse Noncancerous Conditions</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Cancer-Related Conditions</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<ChildTerm>Inflammatory Conditions of the Mouse Mammary Gland</ChildTerm>
+<ChildTerm>Non-proliferative Developmental Conditions of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Inflammatory Diseases of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Non-neoplastic Disorders of the Mouse Skin</ChildTerm>
+<ChildTerm>Benign Conditions of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Non-proliferative Developmental Conditions of the Mouse Mammary Gland</ChildTerm>
+<ChildTerm>Inflammatory Conditions of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Non-Neoplastic Hematopoietic Disorders of Mouse</ChildTerm>
+<Synonym>Mouse Noncancerous Conditions</Synonym>
+<Synonym>Noncancerous Conditions</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

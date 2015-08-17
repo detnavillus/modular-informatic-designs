@@ -1,0 +1,17 @@
+<Record>
+<Term>Thrombotic Microangiopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Coagulation Disorder/Thrombotic Microangiopathy</ClassificationPath>
+<BroaderTerm>Thrombotic Microangiopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Thrombotic Microangiopathy</Synonym>
+<Description>The syndromes of microangiopathic hemolytic anemia, thrombocytopenia, and variable signs of organ impairment, due to platelet aggregation in the microcirculation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

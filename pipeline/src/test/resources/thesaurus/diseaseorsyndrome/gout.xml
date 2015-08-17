@@ -1,0 +1,41 @@
+<Record>
+<Term>Gout</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis</ParentTerm>
+<ParentTerm>Purine-Pyrimidine Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Rheumatic Diseases</ParentTerm>
+<ParentTerm>Metabolic Disorder</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Gout</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors/Gout</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Purine-Pyrimidine Metabolism, Inborn Errors/Gout</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Gout</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Metabolic Disorder/Gout,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Arthropathy/Arthritis/Gout</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Purine-Pyrimidine Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Arthropathy</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gout,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gout</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Disorder</BroaderTerm>
+<ChildTerm>Arthritis, Gouty</ChildTerm>
+<Synonym>Gout</Synonym>
+<Synonym>Gouts</Synonym>
+<Description>Hereditary metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of uric acid calculi.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

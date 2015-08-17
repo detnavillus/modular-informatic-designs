@@ -1,0 +1,32 @@
+<Record>
+<Term>Oral Candidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Candidiasis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Candidiasis/Candidiasis, Oral</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Candidiasis/Oral Candidiasis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Candidiasis, Oral</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Oral Candidiasis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Candidiasis, Oral</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Candidiasis</BroaderTerm>
+<Synonym>Oral Candidiasis</Synonym>
+<Synonym>Oral Moniliases</Synonym>
+<Synonym>Oral Candidiases</Synonym>
+<Synonym>Oral Moniliasis</Synonym>
+<Synonym>Thrush</Synonym>
+<Synonym>thrush</Synonym>
+<Description>Infection of the mucous membranes of the mouth by a fungus of the genus CANDIDA. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

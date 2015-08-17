@@ -1,0 +1,26 @@
+<Record>
+<Term>Toxicodendron Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis, Allergic Contact</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Allergic Contact/Dermatitis, Toxicodendron</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Allergic Contact/Dermatitis, Toxicodendron</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Delayed/Dermatitis, Allergic Contact/Dermatitis, Toxicodendron</ClassificationPath>
+<BroaderTerm>Dermatitis, Allergic Contact</BroaderTerm>
+<BroaderTerm>Dermatitis, Toxicodendron</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Delayed</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Poison Ivy Dermatitis</Synonym>
+<Synonym>Rhus Dermatitis</Synonym>
+<Synonym>Rhus Dermatitides</Synonym>
+<Synonym>Poison Ivy Dermatitides</Synonym>
+<Synonym>Toxicodendron Dermatitides</Synonym>
+<Synonym>Toxicodendron Dermatitis</Synonym>
+<Description>An allergic contact dermatitis caused by exposure to plants of the genus Toxicodendron (formerly Rhus). These include poison ivy, poison oak, and poison sumac, all plants that contain the substance urushiol, a potent skin sensitizing agent. (From Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

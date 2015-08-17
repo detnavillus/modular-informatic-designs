@@ -1,0 +1,17 @@
+<Record>
+<Term>Mitogens</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Mitosis Modulators</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Mitosis Modulators/Mitogens</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Mitogens</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Mitosis Modulators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Mitogens</Synonym>
+<Synonym>Phytomitogens</Synonym>
+<Description>Substances that stimulate mitosis and lymphocyte transformation. They include not only substances associated with LECTINS, but also substances from streptococci (associated with streptolysin S) and from strains of alpha-toxin-producing staphylococci. (Stedman, 25th ed)</Description>
+<Source>MeSH</Source>
+</Record>

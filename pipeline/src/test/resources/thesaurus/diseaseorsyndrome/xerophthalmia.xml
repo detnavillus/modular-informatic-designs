@@ -1,0 +1,28 @@
+<Record>
+<Term>Xerophthalmia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dry Eye Syndromes</ParentTerm>
+<ParentTerm>Conjunctival Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Conjunctival Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Xerophthalmia</ClassificationPath>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases/Dry Eye Syndromes/Xerophthalmia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Xerophthalmia</ClassificationPath>
+<BroaderTerm>Dry Eye Syndromes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Xerophthalmia</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Xerophthalmia</Synonym>
+<Synonym>Xerophthalmias</Synonym>
+<Synonym>Conjunctival Xerosis</Synonym>
+<Description>Dryness of the eye surfaces caused by deficiency of tears or conjunctival secretions. It may be associated with vitamin A deficiency, trauma, or any condition in which the eyelids do not close completely.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

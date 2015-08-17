@@ -1,0 +1,19 @@
+<Record>
+<Term>Nephrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrosis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrosis</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Nephrosis</BroaderTerm>
+<ChildTerm>Nephrotic Syndrome</ChildTerm>
+<ChildTerm>Nephrosis, Lipoid</ChildTerm>
+<Synonym>Nephroses</Synonym>
+<Synonym>Nephrosis</Synonym>
+<Description>Pathological processes of the KIDNEY without inflammatory or neoplastic components. Nephrosis may be a primary disorder or secondary complication of other diseases. It is characterized by the NEPHROTIC SYNDROME indicating the presence of PROTEINURIA and HYPOALBUMINEMIA with accompanying EDEMA.</Description>
+<Source>MeSH</Source>
+</Record>

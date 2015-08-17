@@ -1,0 +1,38 @@
+<Record>
+<Term>Cranial Nerve Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases</ClassificationPath>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Vestibulocochlear Nerve Diseases</ChildTerm>
+<ChildTerm>Oculomotor Nerve Diseases</ChildTerm>
+<ChildTerm>Cranial Nerve Neoplasms</ChildTerm>
+<ChildTerm>Ocular Motility Disorders</ChildTerm>
+<ChildTerm>Facial Nerve Diseases</ChildTerm>
+<ChildTerm>Facial Neuralgia</ChildTerm>
+<ChildTerm>Trigeminal Nerve Diseases</ChildTerm>
+<ChildTerm>Vagus Nerve Diseases</ChildTerm>
+<ChildTerm>Optic Nerve Diseases</ChildTerm>
+<ChildTerm>Olfactory Nerve Diseases</ChildTerm>
+<ChildTerm>Cranial Nerve Injuries</ChildTerm>
+<ChildTerm>Abducens Nerve Diseases</ChildTerm>
+<ChildTerm>Trochlear Nerve Diseases</ChildTerm>
+<ChildTerm>Glossopharyngeal Nerve Diseases</ChildTerm>
+<ChildTerm>Accessory Nerve Diseases</ChildTerm>
+<ChildTerm>Hypoglossal Nerve Diseases</ChildTerm>
+<Synonym>Cranial Nerve Diseases</Synonym>
+<Synonym>Cranial Nerve Disease</Synonym>
+<Synonym>Nervus Cranialis Disorders</Synonym>
+<Synonym>Nervus Cranialis Disorder</Synonym>
+<Synonym>Cranial Nerve Disorders</Synonym>
+<Synonym>Cranial Nerve Disorder</Synonym>
+<Synonym>Cranial Neuropathies</Synonym>
+<Synonym>Cranial Neuropathy</Synonym>
+<Synonym>Multiple Cranial Neuropathies</Synonym>
+<Synonym>Multiple Cranial Neuropathy</Synonym>
+<Synonym>Cranial Nerve Palsies</Synonym>
+<Synonym>Cranial Nerve Palsy</Synonym>
+<Description>Disorders of one or more of the twelve cranial nerves. With the exception of the optic and olfactory nerves, this includes disorders of the brain stem nuclei from which the cranial nerves originate or terminate.</Description>
+<Source>MeSH</Source>
+</Record>

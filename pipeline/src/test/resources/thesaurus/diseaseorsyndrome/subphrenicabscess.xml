@@ -1,0 +1,23 @@
+<Record>
+<Term>Subphrenic Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abdominal Abscess</ParentTerm>
+<ParentTerm>Peritonitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Peritoneal Diseases/Peritonitis/Subphrenic Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Abdominal Abscess/Subphrenic Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Abdominal Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Subphrenic Abscess</BroaderTerm>
+<BroaderTerm>Peritonitis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Peritoneal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Subdiaphragmatic Abscesses</Synonym>
+<Synonym>Subphrenic Abscess</Synonym>
+<Synonym>Subphrenic Abscesses</Synonym>
+<Synonym>Subdiaphragmatic Abscess</Synonym>
+<Description>Accumulation of purulent EXUDATES beneath the DIAPHRAGM, also known as upper abdominal abscess. It is usually associated with PERITONITIS or postoperative infections.</Description>
+<Source>MeSH</Source>
+</Record>

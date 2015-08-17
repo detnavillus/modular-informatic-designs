@@ -1,0 +1,20 @@
+<Record>
+<Term>Weil Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leptospirosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Leptospirosis/Weil Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Leptospirosis/Weil Disease</ClassificationPath>
+<BroaderTerm>Leptospirosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Weil Disease</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Weils Disease</Synonym>
+<Synonym>Weil's Disease</Synonym>
+<Synonym>Spirochetal Jaundice</Synonym>
+<Synonym>Icterohemorrhagic Leptospirosis</Synonym>
+<Synonym>Weil Disease</Synonym>
+<Description>A severe form of LEPTOSPIROSIS, usually caused by LEPTOSPIRA INTERROGANS SEROVAR ICTEROHAEMORRHAGIAE and occasionally other serovars. It is transmitted to humans by the rat and is characterized by hemorrhagic and renal symptoms with accompanying JAUNDICE.</Description>
+<Source>MeSH</Source>
+</Record>

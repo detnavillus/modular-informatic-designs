@@ -1,0 +1,29 @@
+<Record>
+<Term>Pityriasis Lichenoides</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parapsoriasis</ParentTerm>
+<ParentTerm>Pityriasis</ParentTerm>
+<ParentTerm>Lichenoid Eruptions</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Pityriasis/Pityriasis Lichenoides</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Parapsoriasis/Pityriasis Lichenoides</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Lichenoid Eruptions/Pityriasis Lichenoides</ClassificationPath>
+<BroaderTerm>Parapsoriasis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Pityriasis</BroaderTerm>
+<BroaderTerm>Lichenoid Eruptions</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Pityriasis Lichenoides</BroaderTerm>
+<Synonym>Pityriasis Lichenoides Chronica</Synonym>
+<Synonym>Acute Pityriasis Lichenoides</Synonym>
+<Synonym>Habermanns Disease</Synonym>
+<Synonym>Habermann Disease</Synonym>
+<Synonym>Mucha Habermann Disease</Synonym>
+<Synonym>Chronic Pityriasis Lichenoides</Synonym>
+<Synonym>Habermann's Disease</Synonym>
+<Synonym>Pityriasis Lichenoides</Synonym>
+<Synonym>Pityriasis Lichenoides et Varioliformis Acuta</Synonym>
+<Synonym>Mucha-Habermann Disease</Synonym>
+<Description>A subgroup of PARAPSORIASIS itself divided into acute and chronic forms. The acute form is characterized by the abrupt onset of a generalized, reddish-brown, maculopapular eruption. Lesions may be vesicular, hemorrhagic, crusted, or necrotic. Histologically the disease is characterized by epidermal necrolysis. The chronic form shows milder skin changes with necrosis.</Description>
+<Source>MeSH</Source>
+</Record>

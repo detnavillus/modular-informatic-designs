@@ -1,0 +1,16 @@
+<Record>
+<Term>Fluorine F 18 EF5</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Fluorine F 18 EF5</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fluorine F 18 EF5</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>F18-EF5</Synonym>
+<Synonym>Fluorine F 18 EF5</Synonym>
+<Description>A radioconjugate consisting of EF5, a fluorinated derivative of etanidazole, conjugated to fluorine F 18, a positron emitting isotope. EF5 binds to hypoxic tissue; conjugation to Fluorine F 18 allows imaging of hypoxic regions within tumors. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

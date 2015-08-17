@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD45 Monoclonal Antibody AHN-12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-CD45 Monoclonal Antibody AHN-12</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Anti-CD45 Monoclonal Antibody AHN-12</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AHN-12</Synonym>
+<Synonym>Anti-CD45 Monoclonal Antibody AHN-12</Synonym>
+<Description>A high affinity IgG1 monoclonal antibody with potential immunotherapeutic activity. Anti-CD45 monoclonal antibody AHN-12 recognizes CD45, a transmembrane protein tyrosine phosphatase that is expressed on the surface of normal and malignant hematopoietic cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

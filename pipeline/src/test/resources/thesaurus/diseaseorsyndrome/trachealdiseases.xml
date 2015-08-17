@@ -1,0 +1,17 @@
+<Record>
+<Term>Tracheal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Tracheal Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Tracheal Diseases</BroaderTerm>
+<ChildTerm>Tracheal Neoplasms</ChildTerm>
+<ChildTerm>Tracheal Stenosis</ChildTerm>
+<ChildTerm>Tracheitis</ChildTerm>
+<ChildTerm>Tracheobronchomegaly</ChildTerm>
+<ChildTerm>Tracheoesophageal Fistula</ChildTerm>
+<ChildTerm>Tracheobronchomalacia</ChildTerm>
+<Synonym>Tracheal Diseases</Synonym>
+<Synonym>Tracheal Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

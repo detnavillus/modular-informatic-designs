@@ -1,0 +1,29 @@
+<Record>
+<Term>Coagulation Protein Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders</ClassificationPath>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Hemophilia B</ChildTerm>
+<ChildTerm>Afibrinogenemia</ChildTerm>
+<ChildTerm>Factor V Deficiency</ChildTerm>
+<ChildTerm>Factor VII Deficiency</ChildTerm>
+<ChildTerm>Factor X Deficiency</ChildTerm>
+<ChildTerm>Factor XI Deficiency</ChildTerm>
+<ChildTerm>Factor XII Deficiency</ChildTerm>
+<ChildTerm>Factor XIII Deficiency</ChildTerm>
+<ChildTerm>von Willebrand Diseases</ChildTerm>
+<ChildTerm>Activated Protein C Resistance</ChildTerm>
+<ChildTerm>Hemophilia A</ChildTerm>
+<ChildTerm>Hypoprothrombinemias</ChildTerm>
+<Synonym>Coagulation Protein Disorders</Synonym>
+<Synonym>Coagulation Protein Disorder</Synonym>
+<Synonym>Blood Coagulation Factor Deficiencies</Synonym>
+<Synonym>Coagulation Proteins Disorders</Synonym>
+<Synonym>Coagulation Proteins Disorder</Synonym>
+<Description>Hemorrhagic and thrombotic disorders resulting from abnormalities or deficiencies of coagulation proteins.</Description>
+<Source>MeSH</Source>
+</Record>

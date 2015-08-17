@@ -1,0 +1,47 @@
+<Record>
+<Term>Myositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Soft Tissue Disorder</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Myositis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Myositis Ossificans</ChildTerm>
+<ChildTerm>Interstitial Myositis</ChildTerm>
+<ChildTerm>Dermatomyositis</ChildTerm>
+<ChildTerm>Idiopathic Granulomatous Myositis</ChildTerm>
+<ChildTerm>Infective Myositis</ChildTerm>
+<ChildTerm>Polymyositis</ChildTerm>
+<ChildTerm>Myositis, Inclusion Body</ChildTerm>
+<ChildTerm>Pyomyositis</ChildTerm>
+<ChildTerm>Orbital Myositis</ChildTerm>
+<Synonym>Myositis</Synonym>
+<Synonym>Inflammatory Muscle Disease</Synonym>
+<Synonym>Proliferative Myositides</Synonym>
+<Synonym>Focal Myositis</Synonym>
+<Synonym>Proliferative Myositis</Synonym>
+<Synonym>Focal Myositides</Synonym>
+<Synonym>Infectious Myositides</Synonym>
+<Synonym>Myositides</Synonym>
+<Synonym>Inflammatory Myopathies</Synonym>
+<Synonym>Idiopathic Inflammatory Myopathies</Synonym>
+<Synonym>Inflammatory Myopathy</Synonym>
+<Synonym>Inflammatory Muscle Diseases</Synonym>
+<Synonym>Idiopathic Inflammatory Myopathy</Synonym>
+<Synonym>Infectious Myositis</Synonym>
+<Description>Inflammation of a muscle or muscle tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

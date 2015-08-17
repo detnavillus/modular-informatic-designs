@@ -1,0 +1,19 @@
+<Record>
+<Term>Entacapone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiparkinsonian Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiparkinsonian Agent/Entacapone</ClassificationPath>
+<BroaderTerm>Entacapone</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antiparkinsonian Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Entacapone</Synonym>
+<Synonym>Comtan</Synonym>
+<Synonym>ENTACAPONE</Synonym>
+<Description>A nitrocatechol compound with anti-parkinsonian property. Entacapone is a selective and reversible inhibitor of catechol-O-methyltransferase (COMT), which catalyzes the transfer of the methyl group of S-adenosyl-L-methionine to the phenolic group of substrates that contain a catechol structure including dihydroxyphenylalanine (DOPA), catecholamines (dopamine, norepinephrine, and epinephrine) and their hydroxylated metabolites. When administered in conjunction with dopaminergic agents such as L-DOPA, entacapone prevents the metabolism and inactivation of adjunct drugs, thereby increasing the bioavailability of these compounds by facilitating their passage across the blood-brain barrier.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Osteochondrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Osteochondrosis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteochondrosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Osteochondrosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Spinal Osteochondrosis</ChildTerm>
+<ChildTerm>Juvenile Osteochondrosis</ChildTerm>
+<Synonym>Osgood Schlatter Disease</Synonym>
+<Synonym>Koehler Disease</Synonym>
+<Synonym>Koehler's Disease</Synonym>
+<Synonym>Koehlers Disease</Synonym>
+<Synonym>Osgood-Schlatter Disease</Synonym>
+<Synonym>Osteochondroses</Synonym>
+<Synonym>Osteochondrosis</Synonym>
+<Description>Any of a group of bone disorders involving one or more ossification centers (EPIPHYSES). It is characterized by degeneration or NECROSIS followed by revascularization and reossification. Osteochondrosis often occurs in children causing varying degrees of discomfort or pain. There are many eponymic types for specific affected areas, such as tarsal navicular (Kohler disease) and tibial tuberosity (Osgood-Schlatter disease).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

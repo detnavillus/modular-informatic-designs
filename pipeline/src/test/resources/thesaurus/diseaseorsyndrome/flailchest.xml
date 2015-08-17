@@ -1,0 +1,15 @@
+<Record>
+<Term>Flail Chest</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thoracic Injuries</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Thoracic Injuries/Flail Chest</ClassificationPath>
+<BroaderTerm>Thoracic Injuries</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Flail Chest</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<Synonym>Flail Chest</Synonym>
+<Synonym>Stove-in Chest</Synonym>
+<Synonym>Stove in Chest</Synonym>
+<Description>A complication of multiple rib fractures, rib and sternum fractures, or thoracic surgery. A portion of the chest wall becomes isolated from the thoracic cage and exhibits paradoxical respiration.</Description>
+<Source>MeSH</Source>
+</Record>

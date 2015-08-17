@@ -1,0 +1,25 @@
+<Record>
+<Term>Cervicofacial Actinomycosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinomycosis</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Actinomycosis, Cervicofacial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Actinomycosis/Actinomycosis, Cervicofacial</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Actinomycosis, Cervicofacial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Actinomycosis, Cervicofacial</ClassificationPath>
+<BroaderTerm>Actinomycosis</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Actinomycosis, Cervicofacial</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Cervicofacial Actinomycoses</Synonym>
+<Synonym>Cervicofacial Actinomycosis</Synonym>
+<Description>A form of ACTINOMYCOSIS characterized by slow-growing inflammatory lesions of the lymph nodes that drain the mouth (lumpy jaw), reddening of the overlying skin, and intraperitoneal abscesses.</Description>
+<Source>MeSH</Source>
+</Record>

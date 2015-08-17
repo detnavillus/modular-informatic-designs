@@ -1,0 +1,25 @@
+<Record>
+<Term>Antifibrinolytic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Fibrin Modulating Agents</ParentTerm>
+<ParentTerm>Hemostatics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Fibrin Modulating Agents/Antifibrinolytic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Coagulants/Hemostatics/Antifibrinolytic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Coagulants</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Fibrin Modulating Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hemostatics</BroaderTerm>
+<BroaderTerm>Antifibrinolytic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Antiplasmins</Synonym>
+<Synonym>Antifibrinolysins</Synonym>
+<Synonym>Antifibrinolytic Agents</Synonym>
+<Synonym>Antifibrinolytics</Synonym>
+<Synonym>Plasmin Inhibitor</Synonym>
+<Synonym>Plasmin Inhibitors</Synonym>
+<Description>Agents that prevent fibrinolysis or lysis of a blood clot or thrombus. Several endogenous antiplasmins are known. The drugs are used to control massive hemorrhage and in other coagulation disorders.</Description>
+<Source>MeSH</Source>
+</Record>

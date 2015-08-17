@@ -1,0 +1,19 @@
+<Record>
+<Term>Non-Neoplastic Non-Lymphoid Hematopoietic Disorders of Mouse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Hematopoietic Disorders of Mouse</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Non-Neoplastic Hematopoietic Disorders of Mouse/Non-Neoplastic Non-Lymphoid Hematopoietic Disorders of Mouse</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematopoietic Disorders of Mouse</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Non-Lymphoid Hematopoietic Disorders of Mouse</BroaderTerm>
+<ChildTerm>Non-Neoplastic Mast Cell Disorders of the Mouse Hematologic System</ChildTerm>
+<ChildTerm>Non-Neoplastic Histiocytic Disorders of Mouse</ChildTerm>
+<ChildTerm>Non-Neoplastic Myeloid Disorders of Mouse</ChildTerm>
+<Synonym>Non-Neoplastic Non-Lymphoid Hematopoietic Disorders</Synonym>
+<Synonym>Non-Neoplastic Non-lymphoid Disorders</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

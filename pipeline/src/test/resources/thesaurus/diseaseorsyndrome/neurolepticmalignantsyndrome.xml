@@ -1,0 +1,25 @@
+<Record>
+<Term>Neuroleptic Malignant Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Neurotoxicity Syndromes</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Neuroleptic Malignant Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Neurotoxicity Syndromes/Neuroleptic Malignant Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurotoxicity Syndromes/Neuroleptic Malignant Syndrome</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Neuroleptic Malignant Syndrome</BroaderTerm>
+<BroaderTerm>Neurotoxicity Syndromes</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Neuroleptic Malignant Syndromes</Synonym>
+<Synonym>NMS (Neuroleptic Malignant Syndrome)</Synonym>
+<Synonym>Neuroleptic Malignant Syndrome</Synonym>
+<Synonym>NMSs (Neuroleptic Malignant Syndrome)</Synonym>
+<Synonym>Neuroleptic Induced Neuroleptic Malignant Syndrome</Synonym>
+<Synonym>Neuroleptic-Induced Neuroleptic Malignant Syndrome</Synonym>
+<Description>A potentially fatal syndrome associated primarily with the use of neuroleptic agents (see ANTIPSYCHOTIC AGENTS) which are in turn associated with dopaminergic receptor blockade (see RECEPTORS, DOPAMINE) in the BASAL GANGLIA and HYPOTHALAMUS, and sympathetic dysregulation. Clinical features include diffuse MUSCLE RIGIDITY; TREMOR; high FEVER; diaphoresis; labile blood pressure; cognitive dysfunction; and autonomic disturbances. Serum CPK level elevation and a leukocytosis may also be present. (From Adams et al., Principles of Neurology, 6th ed, p1199; Psychiatr Serv 1998 Sep;49(9):1163-72)</Description>
+<Source>MeSH</Source>
+</Record>

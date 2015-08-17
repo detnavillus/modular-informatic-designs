@@ -1,0 +1,27 @@
+<Record>
+<Term>Toxic Epidermal Necrolysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug Eruptions</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Drug Hypersensitivity/Drug Eruptions/Epidermal Necrolysis, Toxic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Drug Eruptions/Epidermal Necrolysis, Toxic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Drug Eruptions/Epidermal Necrolysis, Toxic</ClassificationPath>
+<BroaderTerm>Drug Eruptions</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Epidermal Necrolysis, Toxic</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Drug Hypersensitivity</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Lyells Syndrome</Synonym>
+<Synonym>Nonstaphylococcal Scalded Skin Syndrome</Synonym>
+<Synonym>Toxic Epidermal Necrolysis</Synonym>
+<Synonym>Lyell's Syndrome</Synonym>
+<Synonym>Toxic Epidermal Necrolyses</Synonym>
+<Synonym>Lyell Syndrome</Synonym>
+<Description>An exfoliative disease of skin seen primarily in adults and characterized by flaccid bullae and spreading erythema so that the skin has the appearance of being scalded. It results primarily from a toxic reaction to various drugs, but occasionally occurs as a result of infection, neoplastic conditions, or other exposure.</Description>
+<Source>MeSH</Source>
+</Record>

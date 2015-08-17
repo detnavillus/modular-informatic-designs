@@ -1,0 +1,15 @@
+<Record>
+<Term>Jejunal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Jejunal Diseases</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Jejunal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Jejunal Neoplasms</ChildTerm>
+<Synonym>Jejunal Diseases</Synonym>
+<Synonym>Jejunal Disease</Synonym>
+<Description>Pathological development in the JEJUNUM region of the SMALL INTESTINE.</Description>
+<Source>MeSH</Source>
+</Record>

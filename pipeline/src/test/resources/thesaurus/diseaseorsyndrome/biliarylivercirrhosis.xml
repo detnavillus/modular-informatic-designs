@@ -1,0 +1,23 @@
+<Record>
+<Term>Biliary Liver Cirrhosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cholestasis, Intrahepatic</ParentTerm>
+<ParentTerm>Liver Cirrhosis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Cirrhosis/Liver Cirrhosis, Biliary</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Bile Duct Diseases/Cholestasis/Cholestasis, Intrahepatic/Liver Cirrhosis, Biliary</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Cholestasis, Intrahepatic/Liver Cirrhosis, Biliary</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Liver Cirrhosis, Biliary</BroaderTerm>
+<BroaderTerm>Cholestasis, Intrahepatic</BroaderTerm>
+<BroaderTerm>Liver Cirrhosis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cholestasis</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Bile Duct Diseases</BroaderTerm>
+<Synonym>Primary Biliary Cirrhosis</Synonym>
+<Synonym>Obstructive Liver Cirrhosis</Synonym>
+<Synonym>Secondary Biliary Cirrhosis</Synonym>
+<Synonym>Biliary Cirrhosis</Synonym>
+<Description>FIBROSIS of the hepatic parenchyma due to obstruction of BILE flow (CHOLESTASIS) in the intrahepatic or extrahepatic bile ducts (BILE DUCTS, INTRAHEPATIC; BILE DUCTS, EXTRAHEPATIC). Primary biliary cirrhosis involves the destruction of small intra-hepatic bile ducts and bile secretion. Secondary biliary cirrhosis is produced by prolonged obstruction of large intrahepatic or extrahepatic bile ducts from a variety of causes.</Description>
+<Source>MeSH</Source>
+</Record>

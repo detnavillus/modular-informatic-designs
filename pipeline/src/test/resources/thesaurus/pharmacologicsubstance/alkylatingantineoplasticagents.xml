@@ -1,0 +1,25 @@
+<Record>
+<Term>Alkylating Antineoplastic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Alkylating Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Antineoplastic Agents, Alkylating</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Alkylating Agents/Antineoplastic Agents, Alkylating</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Alkylating Agents/Antineoplastic Agents, Alkylating</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents, Alkylating</BroaderTerm>
+<BroaderTerm>Alkylating Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<Synonym>Alkylating Antineoplastic Agents</Synonym>
+<Synonym>Alkylating Antineoplastics</Synonym>
+<Synonym>Antineoplastic Alkylating Drugs</Synonym>
+<Synonym>Antineoplastic Alkylating Agents</Synonym>
+<Synonym>Alkylating Antineoplastic Drugs</Synonym>
+<Description>A class of drugs that differs from other alkylating agents used clinically in that they are monofunctional and thus unable to cross-link cellular macromolecules. Among their common properties are a requirement for metabolic activation to intermediates with antitumor efficacy and the presence in their chemical structures of N-methyl groups, that after metabolism, can covalently modify cellular DNA. The precise mechanisms by which each of these drugs acts to kill tumor cells are not completely understood. (From AMA, Drug Evaluations Annual, 1994, p2026)</Description>
+<Source>MeSH</Source>
+</Record>

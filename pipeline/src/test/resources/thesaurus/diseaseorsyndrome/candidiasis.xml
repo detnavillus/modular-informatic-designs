@@ -1,0 +1,36 @@
+<Record>
+<Term>Candidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Fungal Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Candidiasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Candidiasis</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Candidiasis</BroaderTerm>
+<ChildTerm>Chronic Candidiasis</ChildTerm>
+<ChildTerm>Candidiasis, Oral</ChildTerm>
+<ChildTerm>Mucocutaneous Candidiasis</ChildTerm>
+<ChildTerm>Oral Candidiasis</ChildTerm>
+<ChildTerm>Candidiasis, Chronic Mucocutaneous</ChildTerm>
+<ChildTerm>Vulvovaginal Candidiasis</ChildTerm>
+<ChildTerm>Oropharyngeal Candidiasis</ChildTerm>
+<ChildTerm>Candida Esophagitis</ChildTerm>
+<ChildTerm>Candidiasis, Vulvovaginal</ChildTerm>
+<ChildTerm>Candidiasis, Cutaneous</ChildTerm>
+<Synonym>Moniliasis</Synonym>
+<Synonym>Moniliases</Synonym>
+<Synonym>Candidiases</Synonym>
+<Synonym>Candidosis</Synonym>
+<Synonym>Candidiasis</Synonym>
+<Description>Infection with a fungus of the genus CANDIDA. It is usually a superficial infection of the moist areas of the body and is generally caused by CANDIDA ALBICANS. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

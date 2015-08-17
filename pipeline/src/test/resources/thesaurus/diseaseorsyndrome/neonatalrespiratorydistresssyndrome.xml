@@ -1,0 +1,29 @@
+<Record>
+<Term>Neonatal Respiratory Distress Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Distress Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Respiratory Distress Syndrome/Neonatal Respiratory Distress Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Hyaline Membrane Syndrome/Neonatal Respiratory Distress Syndrome</ClassificationPath>
+<BroaderTerm>Hyaline Membrane Syndrome</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Neonatal Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Neonatal Respiratory Distress Syndrome,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Neonatal Respiratory Distress Syndrome</Synonym>
+<Synonym>Newborns (RDS), respiratory distress syndrome of</Synonym>
+<Synonym>RDS Of Newborns</Synonym>
+<Synonym>RDS, respiratory distress syndrome of newborns</Synonym>
+<Synonym>Respiratory Distress Syndrome Of Newborns</Synonym>
+<Synonym>Respiratory distress syndrome of newborns (RDS)</Synonym>
+<Synonym>Syndrome of newborns (RDS), respiratory distress</Synonym>
+<Description>A condition of the newborn marked by dyspnea with cyanosis, most frequently occurring in premature infants, children of diabetic mothers and infants delivered by cesarean section, and sometimes with no predisposing cause.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

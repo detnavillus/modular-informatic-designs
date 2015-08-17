@@ -1,0 +1,28 @@
+<Record>
+<Term>Cerebellar Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebellar Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebellar Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Cerebellar Ataxia</ChildTerm>
+<ChildTerm>Spinocerebellar Degenerations</ChildTerm>
+<ChildTerm>Cerebellar Neoplasms</ChildTerm>
+<ChildTerm>Dandy-Walker Syndrome</ChildTerm>
+<ChildTerm>Miller Fisher Syndrome</ChildTerm>
+<ChildTerm>Paraneoplastic Cerebellar Degeneration</ChildTerm>
+<Synonym>Cerebellar Diseases</Synonym>
+<Synonym>Cerebellar Disease</Synonym>
+<Synonym>Cerebellum Diseases</Synonym>
+<Synonym>Cerebellum Disease</Synonym>
+<Synonym>Cerebellar Syndromes</Synonym>
+<Synonym>Cerebellar Syndrome</Synonym>
+<Synonym>Cerebellar Disorders</Synonym>
+<Synonym>Cerebellar Disorder</Synonym>
+<Synonym>Cerebellar Dysfunction</Synonym>
+<Synonym>Cerebellar Dysfunctions</Synonym>
+<Description>Diseases that affect the structure or function of the cerebellum. Cardinal manifestations of cerebellar dysfunction include dysmetria, GAIT ATAXIA, and MUSCLE HYPOTONIA.</Description>
+<Source>MeSH</Source>
+</Record>

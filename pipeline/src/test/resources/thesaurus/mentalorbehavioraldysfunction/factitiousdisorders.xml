@@ -1,0 +1,15 @@
+<Record>
+<Term>Factitious Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Factitious Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Factitious Disorders</BroaderTerm>
+<ChildTerm>Munchausen Syndrome</ChildTerm>
+<Synonym>Factitious Disorders</Synonym>
+<Synonym>Ganser Syndrome</Synonym>
+<Synonym>Pseudodementia</Synonym>
+<Synonym>Pseudopsychosis</Synonym>
+<Description>Disorders characterized by physical or psychological symptoms that are not real, genuine, or natural.</Description>
+<Source>MeSH</Source>
+</Record>

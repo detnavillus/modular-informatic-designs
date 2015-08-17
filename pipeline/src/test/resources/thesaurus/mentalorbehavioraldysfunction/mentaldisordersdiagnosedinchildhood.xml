@@ -1,0 +1,28 @@
+<Record>
+<Term>Mental Disorders Diagnosed in Childhood</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood</ClassificationPath>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Attention Deficit and Disruptive Behavior Disorders</ChildTerm>
+<ChildTerm>Child Development Disorders, Pervasive</ChildTerm>
+<ChildTerm>Child Behavior Disorders</ChildTerm>
+<ChildTerm>Developmental Disabilities</ChildTerm>
+<ChildTerm>Communication Disorders</ChildTerm>
+<ChildTerm>Learning Disorders</ChildTerm>
+<ChildTerm>Elimination Disorders</ChildTerm>
+<ChildTerm>Anxiety, Separation</ChildTerm>
+<ChildTerm>Feeding and Eating Disorders of Childhood</ChildTerm>
+<ChildTerm>Tic Disorders</ChildTerm>
+<ChildTerm>Stereotypic Movement Disorder</ChildTerm>
+<ChildTerm>Motor Skills Disorders</ChildTerm>
+<ChildTerm>Reactive Attachment Disorder</ChildTerm>
+<ChildTerm>Mental Retardation</ChildTerm>
+<ChildTerm>Mutism</ChildTerm>
+<Synonym>Mental Disorders Diagnosed in Childhood</Synonym>
+<Synonym>Child Mental Disorders</Synonym>
+<Synonym>Child Mental Disorder</Synonym>
+<Description>Those psychiatric disorders usually first diagnosed in infancy, childhood, or adolescence. These disorders can also be first diagnosed during other life stages.</Description>
+<Source>MeSH</Source>
+</Record>

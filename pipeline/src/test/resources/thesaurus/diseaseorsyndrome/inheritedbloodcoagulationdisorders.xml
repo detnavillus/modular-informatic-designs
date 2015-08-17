@@ -1,0 +1,41 @@
+<Record>
+<Term>Inherited Blood Coagulation Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Factor XI Deficiency</ChildTerm>
+<ChildTerm>Hermanski-Pudlak Syndrome</ChildTerm>
+<ChildTerm>Hemophilia A</ChildTerm>
+<ChildTerm>Wiskott-Aldrich Syndrome</ChildTerm>
+<ChildTerm>Bernard-Soulier Syndrome</ChildTerm>
+<ChildTerm>Factor X Deficiency</ChildTerm>
+<ChildTerm>Activated Protein C Resistance</ChildTerm>
+<ChildTerm>Hypoprothrombinemias</ChildTerm>
+<ChildTerm>Factor XIII Deficiency</ChildTerm>
+<ChildTerm>Factor XII Deficiency</ChildTerm>
+<ChildTerm>Gray Platelet Syndrome</ChildTerm>
+<ChildTerm>von Willebrand Diseases</ChildTerm>
+<ChildTerm>Factor V Deficiency</ChildTerm>
+<ChildTerm>Hemophilia B</ChildTerm>
+<ChildTerm>Antithrombin III Deficiency</ChildTerm>
+<ChildTerm>Afibrinogenemia</ChildTerm>
+<ChildTerm>Protein C Deficiency</ChildTerm>
+<ChildTerm>Factor VII Deficiency</ChildTerm>
+<ChildTerm>Thrombasthenia</ChildTerm>
+<Synonym>Inherited Coagulation Disorders</Synonym>
+<Synonym>Hereditary Coagulation Disorder</Synonym>
+<Synonym>Inherited Coagulation Disorder</Synonym>
+<Synonym>Hereditary Coagulation Disorders</Synonym>
+<Synonym>Inherited Blood Coagulation Disorders</Synonym>
+<Synonym>Hereditary Blood Coagulation Disorders</Synonym>
+<Description>Hemorrhagic and thrombotic disorders that occur as a consequence of inherited abnormalities in blood coagulation.</Description>
+<Source>MeSH</Source>
+</Record>

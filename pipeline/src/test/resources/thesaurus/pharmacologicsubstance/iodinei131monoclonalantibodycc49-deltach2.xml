@@ -1,0 +1,18 @@
+<Record>
+<Term>Iodine I 131 Monoclonal Antibody CC49-deltaCH2</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Iodine I 131 Monoclonal Antibody CC49-deltaCH2</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Iodine I 131 Monoclonal Antibody CC49-deltaCH2</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>131I-HuCC49-deltaCH2</Synonym>
+<Synonym>131I-MOAB CC49-deltaCH2</Synonym>
+<Synonym>I131 MOAB CC49-deltaCH2</Synonym>
+<Synonym>Iodine I 131 Monoclonal Antibody CC49-deltaCH2</Synonym>
+<Description>A radioimmunoconjugate consisting of the humanized CH2 domain-deleted monoclonal antibody CC49 and iodine I 131 with antineoplastic activity. Monoclonal antibody CC49-deltaCH2 targets the tumor-associated glycoprotein 72 (TAG-72) that is expressed by a wide range of human neoplasms including colorectal, gastric, pancreatic, ovarian, endometrial, breast, non-small cell lung, and prostate cancers. Iodine I 131 monoclonal antibody CC49-deltaCH2 binds to tumor cells expressing TAG-72, selectively delivering a cytotoxic dose of beta and gamma radiation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

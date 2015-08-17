@@ -1,0 +1,24 @@
+<Record>
+<Term>Nimesulide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Phenol Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Phenol Compound/Nimesulide,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/Nimesulide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Nimesulide</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nimesulide,</BroaderTerm>
+<BroaderTerm>Cyclooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Phenol Compound</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>N-(4-Nitro-2-phenoxyphenyl)methanesulfonamide</Synonym>
+<Synonym>Nimesulide</Synonym>
+<Description>A nonsteroidal arylsulfonamide with anti-inflammatory properties.  Nimesulide inhibits the cyclooxygenase-mediated conversion of arachidonic acid to pro-inflammatory prostaglandins.  Modestly selective for COX-2, this agent binds to the enzyme, thereby inactivating it.  Nimesulide may inhibit some carcinogenic COX-2-related carcinogenic effects on xenobiotic metabolism, apoptosis, immune surveillance and angiogenesis (overexpressed COX-2 in tumor epithelial cells enhances production of vascular growth factors and the formation of capillary-like networks). (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

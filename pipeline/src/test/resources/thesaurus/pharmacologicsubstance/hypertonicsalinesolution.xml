@@ -1,0 +1,32 @@
+<Record>
+<Term>Hypertonic Saline Solution</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Hypertonic Solutions</ParentTerm>
+<ParentTerm>Osmotic Diuretic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Hypertonic Saline,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Diuretic/Osmotic Diuretic/Hypertonic Saline</ClassificationPath>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Hypertonic Solutions/Saline Solution, Hypertonic</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Saline Solution, Hypertonic</BroaderTerm>
+<BroaderTerm>Diuretic</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Hypertonic Solutions</BroaderTerm>
+<BroaderTerm>Hypertonic Saline,</BroaderTerm>
+<BroaderTerm>Osmotic Diuretic</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Hypertonic Saline</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hypertonic Saline Solution</Synonym>
+<Synonym>Saline Hypertonic Solution</Synonym>
+<Synonym>Saline Hypertonic Solutions</Synonym>
+<Synonym>Hypertonic Saline Solutions</Synonym>
+<Synonym>Hypertonic Saline</Synonym>
+<Description>Any solution of sodium chloride (NaCl) in water with a concentration of NaCl higher than that found in physiological saline (0.9% w/v). When administered in vivo, hypertonic saline (HTS) exhibits several physiological effects beneficial to cerebral injury including: 1) osmotic and vasoregulatory - by promoting the flow of excess water from cerebral tissue to the blood via osmosis and decreasing edema in the vascular endothelium of injured tissues, thus lowering vascular resistance and allowing more blood flow; 2) hemodynamic - by effectively expanding plasma volume; 3) immunomodulatory - by preventing leukocytes from becoming activated and adhering to injured neurons and; 4) neurochemical - by counteracting detrimental excitatory amino acids through the normalization of neuronal cell membranes and by restoration of normal electrolyte and neurotransmitter levels in brain cells, and normal cell volumes.</Description>
+<Description>Hypertonic sodium chloride solution. A solution having an osmotic pressure greater than that of physiologic salt solution (0.9 g NaCl in 100 ml purified water).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

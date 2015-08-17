@@ -1,0 +1,24 @@
+<Record>
+<Term>Acrodermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Abnormalities</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Skin Abnormalities/Acrodermatitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Acrodermatitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Abnormalities/Acrodermatitis</ClassificationPath>
+<BroaderTerm>Acrodermatitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Abnormalities</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<Synonym>Acrodermatitis</Synonym>
+<Synonym>Infantile Papular Acrodermatitis</Synonym>
+<Synonym>Acrodermatitides</Synonym>
+<Synonym>Gianotti-Crosti Syndrome</Synonym>
+<Synonym>Infantile Papular Acrodermatitides</Synonym>
+<Synonym>Gianotti Crosti Syndrome</Synonym>
+<Description>Inflammation involving the skin of the extremities, especially the hands and feet. Several forms are known, some idiopathic and some hereditary. The infantile form is called Gianotti-Crosti syndrome.</Description>
+<Source>MeSH</Source>
+</Record>

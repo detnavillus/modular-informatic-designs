@@ -1,0 +1,19 @@
+<Record>
+<Term>Alum Compounds</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Aluminum Compounds</ParentTerm>
+<ParentTerm>Sulfates</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Sulfur Compounds/Sulfur Acids/Sulfuric Acids/Sulfates/Alum Compounds</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Aluminum Compounds/Alum Compounds</ClassificationPath>
+<BroaderTerm>Sulfur Acids</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Alum Compounds</BroaderTerm>
+<BroaderTerm>Aluminum Compounds</BroaderTerm>
+<BroaderTerm>Sulfates</BroaderTerm>
+<BroaderTerm>Sulfuric Acids</BroaderTerm>
+<BroaderTerm>Sulfur Compounds</BroaderTerm>
+<Synonym>Alum Compounds</Synonym>
+<Description>Aluminum metal sulfate compounds used medically as astringents and for many industrial purposes. They are used in veterinary medicine for the treatment of ulcerative stomatitis, leukorrhea, conjunctivitis, pharyngitis, metritis, and minor wounds.</Description>
+<Source>MeSH</Source>
+</Record>

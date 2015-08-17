@@ -1,0 +1,21 @@
+<Record>
+<Term>Nut Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Food Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity/Nut Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Nut Hypersensitivity</BroaderTerm>
+<Synonym>Nut Hypersensitivity</Synonym>
+<Synonym>Nut Hypersensitivities</Synonym>
+<Synonym>Tree Nut Hypersensitivity</Synonym>
+<Synonym>Tree Nut Hypersensitivities</Synonym>
+<Synonym>Nut Allergy</Synonym>
+<Synonym>Nut Allergies</Synonym>
+<Synonym>Tree Nut Allergy</Synonym>
+<Synonym>Tree Nut Allergies</Synonym>
+<Description>Allergic reaction to tree nuts that is triggered by the immune system.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>E1A Lipid Complex</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/E1A Lipid Complex</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>E1A Lipid Complex</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>E1A Lipid Complex</Synonym>
+<Synonym>E1A-Lipid Complex</Synonym>
+<Synonym>Lipid Complex, E1A</Synonym>
+<Description>E1A gene combined with lipids that serve as a means to deliver the E1A gene into the cancer cells. The combination of lipids and the E1A gene is called the E1A Lipid Complex.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

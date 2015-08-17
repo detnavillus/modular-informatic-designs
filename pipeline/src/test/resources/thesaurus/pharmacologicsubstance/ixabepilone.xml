@@ -1,0 +1,30 @@
+<Record>
+<Term>Ixabepilone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Epothilone B Analogue</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Epothilone B Analogue/Ixabepilone</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Ixabepilone</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Epothilone B Analogue</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ixempra Kit</Synonym>
+<Synonym>IXABEPILONE</Synonym>
+<Synonym>BMS 247550</Synonym>
+<Synonym>BMS247550</Synonym>
+<Synonym>Ixabepilone</Synonym>
+<Synonym>Epothilone-B BMS 247550</Synonym>
+<Synonym>Ixempra</Synonym>
+<Synonym>BMS-247550</Synonym>
+<Synonym>(1S,3S,7S,10R,11S,12S,16R)-7,11-Dihydroxy-8,8,10,12,16-pentamethyl-3-[(1E)-1-methyl-2-(2-methyl-4-thiazolyl)ethenyl]-17-oxa-4-azabicyclo[14.1.0]heptadecane-5,9-dione</Synonym>
+<Synonym>Epothilone</Synonym>
+<Synonym>Azaepothilone B</Synonym>
+<Description>An orally bioavailable semisynthetic analogue of epothilone B with antineoplastic activity. Ixabepilone binds to tubulin and promotes tubulin polymerization and microtubule stabilization, thereby arresting cells in the G2-M phase of the cell cycle and inducing tumor cell apoptosis. This agent demonstrates antineoplastic activity against taxane-resistant cell lines.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

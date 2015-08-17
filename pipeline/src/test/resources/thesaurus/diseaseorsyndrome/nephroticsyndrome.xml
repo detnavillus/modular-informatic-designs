@@ -1,0 +1,44 @@
+<Record>
+<Term>Nephrotic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Nephrosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephrotic Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Nephrotic Syndrome</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrosis/Nephrotic Syndrome</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephrosis/Nephrotic Syndrome</ClassificationPath>
+<BroaderTerm>Nephrotic Syndrome</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Nephrotic Syndrome,</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Nephrosis</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Membranoproliferative Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Endothelial Glomerulonephritis</ChildTerm>
+<ChildTerm>Congenital Nephrotic Syndrome</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Hypocomplementemic Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Membranous Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Persistent Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Mesangiocapillary Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Lobular Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Minimal Change Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Segmental Hyalinosis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Proliferative Glomerulonephritis</ChildTerm>
+<ChildTerm>Nephrotic Syndrome with Lesion of Focal Glomerulosclerosis</ChildTerm>
+<Synonym>Nephrotic Syndromes</Synonym>
+<Synonym>Nephrotic Syndrome</Synonym>
+<Description>A condition characterized by severe PROTEINURIA, greater than 3.5 g/day in an average adult. The substantial loss of protein in the urine results in complications such as HYPOPROTEINEMIA; generalized EDEMA; HYPERTENSION; and HYPERLIPIDEMIAS. Diseases associated with nephrotic syndrome generally cause chronic kidney dysfunction.</Description>
+<Description>A collection of symptoms that include severe edema, proteinuria, and hypoalbuminemia; it is indicative of renal dysfunction.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

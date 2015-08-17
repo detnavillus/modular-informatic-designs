@@ -6,48 +6,43 @@ import com.modinfodesigns.pipeline.process.IDataObjectProcessor;
 import com.modinfodesigns.pipeline.source.IDataObjectSource;
 import com.modinfodesigns.property.DataObject;
 import com.modinfodesigns.property.DataList;
-import com.modinfodesigns.property.compare.IPropertyHolderMatcher;
+import com.modinfodesigns.property.transform.IPropertyHolderTransform;
+import com.modinfodesigns.property.transform.PropertyTransformException;
 import com.modinfodesigns.property.string.StringProperty;
 import com.modinfodesigns.security.IUserCredentials;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.HashSet;
+import java.util.Iterator;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
  * Creates a set of DataObjects from a Taxonomy.  Can be set to return all nodes
- * or just leaf nodes, or nodes that match a filter (IPropertyHolderMatcher).
- * 
- * This enables nesting of TaxonomyDataSource in a DataListTaxonomyBuilder to
- * create a filtered (i.e. "pruned" ) taxonomy.
- * 
- * Adds Taxonomy properties such as path.
- * 
+ * or just leaf nodes.
+ *
  * @author Ted Sullivan
  */
 public class TaxonomyDataSource implements IDataObjectSource
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( TaxonomyDataSource.class );
-
+    
   private String taxonomyBuilderName;
     
   private ITaxonomyBuilder taxoBuilder;
     
   private boolean leafNodesOnly = false;
     
-  private String pathProperty = "path";
+  private boolean executeAllPerNode = true;   // if true execute all transforms on each node
+                                            // if false, executes each transform on all nodes
     
-  private String parentIDProp  = "parentID";
+  private ArrayList<IPropertyHolderTransform> dataTransforms;
     
   private ArrayList<IDataObjectProcessor> dataProcs;
     
-  private int batchSize = 50;
-    
-  private String dataMatcherName;
-    
-  private IPropertyHolderMatcher dobjMatcher;
+  private HashSet<String> uniqueNodes;
     
   public void setTaxonomyBuilder( ITaxonomyBuilder taxoBuilder )
   {
@@ -69,21 +64,16 @@ public class TaxonomyDataSource implements IDataObjectSource
     this.leafNodesOnly = (leafNodesOnly != null && leafNodesOnly.equalsIgnoreCase( "true" ));
   }
     
-  public void setDataMatcher( IPropertyHolderMatcher dataMatcher )
+  public void setExecuteAllPerNode( boolean executeAllPerNode )
   {
-    this.dobjMatcher = dataMatcher;
+    this.executeAllPerNode = executeAllPerNode;
   }
     
-  public void setDataMatcherRef( String dataMatcherName )
+  public void setExecuteAllPerNode( String executeAllPerNode )
   {
-    this.dataMatcherName = dataMatcherName;
+    this.executeAllPerNode = (executeAllPerNode != null && executeAllPerNode.equalsIgnoreCase( "true" ));
   }
     
-  public void setParentIDProperty( String parentIDProp )
-  {
-    this.parentIDProp = parentIDProp;
-  }
-
   @Override
   public void run( IUserCredentials withUser )
   {
@@ -93,71 +83,84 @@ public class TaxonomyDataSource implements IDataObjectSource
       LOG.error( "Could not get TaxonomyBuilder! " );
       return;
     }
-    
-    ITaxonomyNode taxo = theBuilder.buildTaxonomy( );
-    IPropertyHolderMatcher dataMatcher = getDataMatcher( );
         
+    ITaxonomyNode taxo = theBuilder.buildTaxonomy( );
+        
+    uniqueNodes = new HashSet<String>( );
+    DataList nodeList = new DataList( );
+      
     if (taxo != null)
     {
       List<ITaxonomyNode> descendants = taxo.getDescendants( );
       if (descendants != null)
       {
-        DataList dList = new DataList( );
-                
         for (int i = 0; i < descendants.size( ); i++)
         {
           ITaxonomyNode descendant = descendants.get( i );
           if (!leafNodesOnly || descendant.isLeafNode( ) )
           {
-            DataObject dobj = new DataObject( );
-            dobj.setName( descendant.getName( ) );
-            dobj.setID( descendant.getID( ) );
-            dobj.setProperties( descendant.getProperties( ) );
-                        
-            List<String> paths = descendant.getPaths( );
-            if (paths != null)
+            if (!uniqueNodes.contains( descendant.getID( ) ) )
             {
-              for (int p = 0; p < paths.size(); p++ )
+              // in this mode execute all transforms on each node
+              if (executeAllPerNode && dataTransforms != null)
               {
-                String path = paths.get( p );
-                dobj.addProperty( new StringProperty( pathProperty, path ));
-              }
-            }
-                        
-            if (dataMatcher == null || dataMatcher.equals( withUser, dobj ))
-            {
-              List<ITaxonomyNode> parents = descendant.getParents( );
-              if (parents != null && parents.size() > 0)
-              {
-                for (int p = 0; p < parents.size(); p++ )
+                for (IPropertyHolderTransform dataTransform : dataTransforms )
                 {
-                  ITaxonomyNode parent = parents.get( p );
-                  dobj.addProperty( new StringProperty( parentIDProp, parent.getID( ) ));
+                  try
+                  {
+                    dataTransform.transformPropertyHolder( descendant );
+                  }
+                  catch (PropertyTransformException pte )
+                  {
+                    // Oh damn!
+                  }
                 }
               }
-                            
-              dList.addDataObject( dobj );
-            }
-                        
-            if ( dList.size( ) == batchSize )
-            {
-              for (int p = 0; p < dataProcs.size( ); p++)
+                
+              uniqueNodes.add( descendant.getID( ) );
+              if (descendant instanceof DataObject)
               {
-                IDataObjectProcessor dataProc = dataProcs.get( p );
-                dataProc.processDataList( dList );
+                nodeList.addDataObject( (DataObject)descendant );
               }
-                            
-              dList.clearDataList( );
+              else
+              {
+                // not a DataObject - need to clone it!
+                DataObject dobj = new DataObject( );
+                dobj.setName( descendant.getName( ) );
+                dobj.setID( descendant.getID( ) );
+                dobj.setProperties( descendant.getProperties( ) );
+                nodeList.addDataObject( dobj );
+              }
+            }
+          }
+        }
+
+        // in this mode - execute each transform on all nodes
+        if ( !executeAllPerNode && dataTransforms != null )
+        {
+          for (IPropertyHolderTransform dataTransform : dataTransforms )
+          {
+            for (Iterator<DataObject> dit = nodeList.getData( ); dit.hasNext(); )
+            {
+              DataObject dobj = dit.next();
+              try
+              {
+                dataTransform.transformPropertyHolder( dobj );
+              }
+              catch ( PropertyTransformException pte )
+              {
+                // Oh damn!
+              }
             }
           }
         }
                 
-        if (dList.size( ) > 0 )
+        if ( nodeList.size( ) > 0 )
         {
           for (int p = 0; p < dataProcs.size( ); p++)
           {
             IDataObjectProcessor dataProc = dataProcs.get( p );
-            dataProc.processDataList( dList );
+            dataProc.processDataList( nodeList );
           }
         }
       }
@@ -167,31 +170,16 @@ public class TaxonomyDataSource implements IDataObjectSource
   private ITaxonomyBuilder getTaxonomyBuilder( )
   {
     if (taxoBuilder != null || taxonomyBuilderName == null) return taxoBuilder;
-    
+        
     synchronized( this )
     {
       if (taxoBuilder != null || taxonomyBuilderName == null) return taxoBuilder;
-        
+            
       ApplicationManager appMan = ApplicationManager.getInstance( );
       taxoBuilder = (ITaxonomyBuilder)appMan.getApplicationObject( taxonomyBuilderName, "TaxonomyBuilder" );
     }
         
     return taxoBuilder;
-  }
-    
-  private IPropertyHolderMatcher getDataMatcher( )
-  {
-    if (dobjMatcher != null || dataMatcherName == null) return dobjMatcher;
-            
-    synchronized( this )
-    {
-      if (dobjMatcher != null || dataMatcherName == null) return dobjMatcher;
-        
-      ApplicationManager appMan = ApplicationManager.getInstance( );
-      dobjMatcher = (IPropertyHolderMatcher)appMan.getApplicationObject( dataMatcherName, "DataMatcher" );
-    }
-            
-    return dobjMatcher;
   }
     
     
@@ -200,12 +188,17 @@ public class TaxonomyDataSource implements IDataObjectSource
   {
     run( (IUserCredentials)null );
   }
-
+    
+  public void addDataTransform( IPropertyHolderTransform dataTransform )
+  {
+    if (dataTransforms == null) dataTransforms = new ArrayList<IPropertyHolderTransform>( );
+    dataTransforms.add( dataTransform );
+  }
+    
   @Override
   public void addDataObjectProcessor( IDataObjectProcessor dataProcessor )
   {
     if (dataProcs == null) dataProcs = new ArrayList<IDataObjectProcessor>( );
     dataProcs.add( dataProcessor );
   }
-
 }

@@ -1,0 +1,15 @@
+<Record>
+<Term>Gallium Ga 68-DOTANOC</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Gallium Ga 68-DOTANOC</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gallium Ga 68-DOTANOC</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Gallium Ga 68-DOTANOC</Synonym>
+<Description>A gallium Ga 68-radiolabeled analogue of somatostatin that may be used in conjunction with positron emission tomography (PET) to image neuroendocrine tumors and metastases. Gallium Ga 68-DOTANOC is a conjugate of the somatostatin analogue 1-Nal3-octreotide (NOC) and gallium Ga 68-labeled 1,4,7,10-tetraazacyclododecane-N,N',N'',N'''-tetraacetic acid (DOTA). The somatostatin analogue NOC has a high affinity for somatostatin receptor subtypes 2, 3, and 5; these receptor subtypes have been shown to be present in large numbers on neuroendocrine tumors and their metastases, while most other normal tissues express low levels of these somatostatin receptor subtypes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

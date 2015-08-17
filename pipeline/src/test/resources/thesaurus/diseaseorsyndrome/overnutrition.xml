@@ -1,0 +1,13 @@
+<Record>
+<Term>Overnutrition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Overnutrition</ClassificationPath>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Overnutrition</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<ChildTerm>Obesity</ChildTerm>
+<Synonym>Overnutrition</Synonym>
+<Description>An imbalanced nutritional status resulted from excessive intake of nutrients. Generally, overnutrition generates an energy imbalance between food consumption and energy expenditure leading to disorders such as OBESITY.</Description>
+<Source>MeSH</Source>
+</Record>

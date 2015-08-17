@@ -1,0 +1,20 @@
+<Record>
+<Term>Farmer's Lung</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Agricultural Workers' Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Agricultural Workers' Diseases/Farmer's Lung</ClassificationPath>
+<BroaderTerm>Agricultural Workers' Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Farmer's Lung</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<Synonym>Farmer's Lung</Synonym>
+<Synonym>Farmer Lung</Synonym>
+<Synonym>Farmer's Lungs</Synonym>
+<Synonym>Farmers Lung</Synonym>
+<Synonym>Mushroom Worker's Lung</Synonym>
+<Synonym>Mushroom Worker Lung</Synonym>
+<Synonym>Mushroom Worker's Lungs</Synonym>
+<Synonym>Mushroom Workers Lung</Synonym>
+<Description>A form of alveolitis or pneumonitis due to an acquired hypersensitivity to inhaled antigens associated with farm environment. Antigens in the farm dust are commonly from bacteria actinomycetes (SACCHAROPOLYSPORA and THERMOACTINOMYCES), fungi, and animal proteins in the soil, straw, crops, pelts, serum, and excreta.</Description>
+<Source>MeSH</Source>
+</Record>

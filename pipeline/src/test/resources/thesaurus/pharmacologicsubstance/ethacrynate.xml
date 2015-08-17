@@ -1,0 +1,19 @@
+<Record>
+<Term>Ethacrynate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Loop Diuretic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Diuretic/Loop Diuretic/Ethacrynate Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Ethacrynate Sodium</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Loop Diuretic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Diuretic</BroaderTerm>
+<Synonym>ETHACRYNATE SODIUM</Synonym>
+<Synonym>Edecrin Sodium</Synonym>
+<Synonym>Ethacrynate Sodium</Synonym>
+<Synonym>Sodium Ethacrynate</Synonym>
+<Description>The sodium salt form of ethacrynic acid, an aryloxy-acetic acid derivative belonging to the class of loop diuretics. Ethacrynic sodium interferes with the chloride binding site of the Na+, K+, Cl- cotransporter system in the thick ascending loop of Henle, thereby inhibiting the reabsorption of sodium, potassium, and chloride ions. This leads to an increase in the excretion of sodium, potassium, chloride, calcium, and water.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>EP-2101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/EP-2101</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>EP-2101</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>EP-2101</Synonym>
+<Description>A proprietary cancer DNA vaccine that contains multiple natural and modified epitopes derived from the four tumor associated antigens, CEA, HER2/neu, p53, and MAGE 2/3. EP-2101 also includes CAP1-6D, a heteroclitic CEA analog, and PADRE, a proprietary universal T-cell epitope that serves to enhance the immunogenicity of the epitopes.  This agent has been shown to elicit cytotoxic T-lymphocyte responses against tumor cells expressing these multiple epitopes. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

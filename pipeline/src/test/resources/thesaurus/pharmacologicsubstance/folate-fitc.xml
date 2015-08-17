@@ -1,0 +1,17 @@
+<Record>
+<Term>Folate-FITC</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Folate-FITC</ClassificationPath>
+<BroaderTerm>Folate-FITC</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>EC17</Synonym>
+<Synonym>Folate Fluorescein Isothiocyanate Conjugate</Synonym>
+<Synonym>Folate-FITC</Synonym>
+<Description>A conjugate consisting of fluorescein isothiocyanate (FITC) conjugated with folate with potential antineoplastic activity. Folate-FITC binds to folate receptors, which are overexpressed on the surfaces of many cancer cells including kidney and ovarian cancer cells. Once bound to the cancer cell through the folate moiety of the conjugate, circulating anti-fluorescein antibodies may recognize and bind to the FITC moiety, resulting in antibody-dependent cellular cytotoxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

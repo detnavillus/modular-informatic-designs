@@ -1,0 +1,30 @@
+<Record>
+<Term>Herpes Genitalis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ParentTerm>Sexually Transmitted Diseases, Viral</ParentTerm>
+<ParentTerm>Herpes Simplex</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Herpes Genitalis</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Herpes Simplex/Herpes Genitalis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/Herpes Genitalis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Herpes Genitalis</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Herpes Genitalis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Herpes Simplex</BroaderTerm>
+<Synonym>Genital Herpes</Synonym>
+<Synonym>Genital Herpes Simplex</Synonym>
+<Synonym>Herpes Genitalis</Synonym>
+<Synonym>Herpes Simplex Virus Genital Infection</Synonym>
+<Description>Infection of the genitals (GENITALIA) with HERPES SIMPLEX VIRUS in either the males or the females.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Ectoparasitic Infestations</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Parasitic</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Ectoparasitic Infestations</ClassificationPath>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Ectoparasitic Infestations</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Mite Infestations</ChildTerm>
+<ChildTerm>Myiasis</ChildTerm>
+<ChildTerm>Tick Infestations</ChildTerm>
+<ChildTerm>Lice Infestations</ChildTerm>
+<Synonym>Ectoparasitic Infestations</Synonym>
+<Synonym>Ectoparasitic Infestation</Synonym>
+<Description>Infestations by PARASITES which live on, or burrow into, the surface of their host's EPIDERMIS. Most ectoparasites are ARTHROPODS.</Description>
+<Source>MeSH</Source>
+</Record>

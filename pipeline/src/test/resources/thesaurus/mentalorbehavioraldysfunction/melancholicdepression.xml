@@ -1,0 +1,17 @@
+<Record>
+<Term>Melancholic Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depression</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression/Melancholic Depression</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Melancholic Depression</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Depression with Melancholic Features</Synonym>
+<Synonym>Melancholia</Synonym>
+<Synonym>Melancholic Depression</Synonym>
+<Description>A subtype of depression characterized by the inability to find pleasure in positive things combined with physical agitation, insomnia, or decreased appetite.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

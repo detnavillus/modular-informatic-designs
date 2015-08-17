@@ -1,0 +1,18 @@
+<Record>
+<Term>Marek Disease Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Herpesvirus Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Herpesvirus Vaccines/Marek Disease Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Herpesvirus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Marek Disease Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Marek Disease Vaccines</Synonym>
+<Synonym>Marek's Disease Vaccines</Synonym>
+<Synonym>Mareks Disease Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent MAREK DISEASE, an avian disease caused by a herpesvirus.</Description>
+<Source>MeSH</Source>
+</Record>

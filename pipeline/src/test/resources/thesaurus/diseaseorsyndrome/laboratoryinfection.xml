@@ -1,0 +1,17 @@
+<Record>
+<Term>Laboratory Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Occupational Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Laboratory Infection</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Laboratory Infection</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Laboratory Infection</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Laboratory Infection</Synonym>
+<Synonym>Laboratory Infections</Synonym>
+<Description>Accidentally acquired infection in laboratory workers.</Description>
+<Source>MeSH</Source>
+</Record>

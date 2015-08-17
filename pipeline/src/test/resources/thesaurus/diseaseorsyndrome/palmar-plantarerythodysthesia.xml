@@ -1,0 +1,17 @@
+<Record>
+<Term>Palmar-Plantar Erythodysthesia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Palmar-Plantar Erythodysthesia</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Palmar-Plantar Erythodysthesia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sickle Cell Dactylitis</ChildTerm>
+<Synonym>Hand-Foot Syndrome</Synonym>
+<Synonym>Palmar-Plantar Erythodysthesia</Synonym>
+<Synonym>hand-foot syndrome</Synonym>
+<Synonym>palmar-plantar erythrodysthesia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

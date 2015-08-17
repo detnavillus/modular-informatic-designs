@@ -1,0 +1,28 @@
+<Record>
+<Term>Atrophic Muscular Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Disorders, Atrophic</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Muscular Disorders, Atrophic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Muscular Disorders, Atrophic</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Disorders, Atrophic</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Muscular Dystrophies</ChildTerm>
+<ChildTerm>Postpoliomyelitis Syndrome</ChildTerm>
+<Synonym>Atrophic Muscular Disorder</Synonym>
+<Synonym>Spinopontine Atrophy</Synonym>
+<Synonym>Disuse Atrophy</Synonym>
+<Synonym>Disuse Atrophies</Synonym>
+<Synonym>Spinobulbar Atrophies</Synonym>
+<Synonym>Spinobulbar Muscular Atrophies</Synonym>
+<Synonym>Spinopontine Atrophies</Synonym>
+<Synonym>Atrophic Muscular Disorders</Synonym>
+<Synonym>Spinobulbar Muscular Atrophy</Synonym>
+<Synonym>Spinobulbar Atrophy</Synonym>
+<Description>Disorders characterized by an abnormal reduction in muscle volume due to a decrease in the size or number of muscle fibers. Atrophy may result from diseases intrinsic to muscle tissue (e.g., MUSCULAR DYSTROPHY) or secondary to PERIPHERAL NERVOUS SYSTEM DISEASES that impair innervation to muscle tissue (e.g., MUSCULAR ATROPHY, SPINAL).</Description>
+<Source>MeSH</Source>
+</Record>

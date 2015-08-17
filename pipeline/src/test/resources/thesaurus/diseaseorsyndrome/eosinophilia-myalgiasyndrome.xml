@@ -1,0 +1,25 @@
+<Record>
+<Term>Eosinophilia-Myalgia Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Eosinophilia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Eosinophilia/Eosinophilia-Myalgia Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Eosinophilia-Myalgia Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Eosinophilia-Myalgia Syndrome</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Eosinophilia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eosinophilia-Myalgia Syndrome</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>L-Tryptophan-Related Eosinophilia-Myalgia Syndromes</Synonym>
+<Synonym>L-Tryptophan-Related Eosinophilia-Myalgia Syndrome</Synonym>
+<Synonym>Eosinophilia Myalgia Syndrome</Synonym>
+<Synonym>Eosinophilia-Myalgia Syndrome</Synonym>
+<Synonym>Eosinophilia-Myalgia Syndromes</Synonym>
+<Description>A complex systemic syndrome with inflammatory and autoimmune components that affect the skin, fascia, muscle, nerve, blood vessels, lung, and heart. Diagnostic features generally include EOSINOPHILIA, myalgia severe enough to limit usual activities of daily living, and the absence of coexisting infectious, autoimmune or other conditions that may induce eosinophilia. Biopsy of affected tissue reveals a microangiopathy associated with diffuse inflammation involving connective tissue. (From Spitzer et al., J Rheumatol Suppl 1996 Oct;46:73-9; Blackburn WD, Semin Arthritis Rheum 1997 Jun;26(6):788-93)</Description>
+<Source>MeSH</Source>
+</Record>

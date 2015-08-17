@@ -1,0 +1,16 @@
+<Record>
+<Term>851B Gel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Human Papilloma Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Human Papilloma Virus Vaccine/851B Gel</ClassificationPath>
+<BroaderTerm>851B Gel</BroaderTerm>
+<BroaderTerm>Human Papilloma Virus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>851B Gel</Synonym>
+<Description>A topical gel containing a peptide derived from the human papillomavirus (HPV). Application of 851B gel may stimulate the host immune system to trigger a cytotoxic T-lymphocyte response to cells that express HPV.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

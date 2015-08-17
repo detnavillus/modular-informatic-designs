@@ -1,0 +1,39 @@
+<Record>
+<Term>Wiskott-Aldrich Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ParentTerm>Lymphopenia</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Leukopenia/Lymphopenia/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Wiskott-Aldrich Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Lymphopenia/Wiskott-Aldrich Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Wiskott-Aldrich Syndrome</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Leukopenia</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Lymphopenia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Aldrich Syndrome</Synonym>
+<Synonym>Wiskott-Aldrich Syndrome</Synonym>
+<Synonym>Wiskott Aldrich Syndrome</Synonym>
+<Description>A rare, X-linked immunodeficiency syndrome characterized by eczema, thrombocytopenia, and recurrent pyogenic infection. It is seen exclusively in young boys. Typically, IgM levels are low and IgA and IgE levels are elevated. Lymphoreticular malignancies are common.</Description>
+<Description>A rare, X-linked immunodeficiency syndrome characterized by ECZEMA; LYMPHOPENIA; and, recurrent pyogenic infection. It is seen exclusively in young boys. Typically, IMMUNOGLOBULIN M levels are low and IMMUNOGLOBULIN A and IMMUNOGLOBULIN E levels are elevated. Lymphoreticular malignancies are common.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Apoptosis Inducer GCS-100</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Apoptosis Inducer GCS-100</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Apoptosis Inducer GCS-100</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Apoptosis Inducer GCS-100</Synonym>
+<Synonym>GCS-100</Synonym>
+<Description>A galectin-binding polysaccharide derived from citrus pectin with potential antineoplastic activity. Apoptosis inducer GCS-100 binds to the carbohydrate-binding domain of the lectin galectin-3, which may result in apoptosis mediated through mitochondria/caspase activation cascades; this agent may overcome tumor growth mediated through anti-apoptotic protein Bcl-2, heat-shock protein 27 (Hsp27), and nuclear factor-kappa B (NF-kB). Galectin-3, a chimeric molecule consisting of both carbohydrate recognition and collagen-like domains, interacts with a variety of carbohydrate and protein ligands to form pentamers with unique crosslinking abilities; this lectin also exhibits anti-apoptotic properties, perhaps, in part, through the regulation of intracellular signaling pathways.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

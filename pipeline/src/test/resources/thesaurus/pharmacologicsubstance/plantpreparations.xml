@@ -1,0 +1,19 @@
+<Record>
+<Term>Plant Preparations</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Products</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Plant Preparations</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Plant Preparations</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Plant Extracts</ChildTerm>
+<ChildTerm>Plant Oils</ChildTerm>
+<ChildTerm>Coffee</ChildTerm>
+<ChildTerm>Tea</ChildTerm>
+<Synonym>Plant Preparations</Synonym>
+<Synonym>Herbal Preparation</Synonym>
+<Synonym>Herbal Preparations</Synonym>
+<Synonym>Plant Preparation</Synonym>
+<Description>Material prepared from plants.</Description>
+<Source>MeSH</Source>
+</Record>

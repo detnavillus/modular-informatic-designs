@@ -1,0 +1,19 @@
+<Record>
+<Term>Reoviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Reoviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Reoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Bluetongue</ChildTerm>
+<ChildTerm>Colorado Tick Fever</ChildTerm>
+<ChildTerm>African Horse Sickness</ChildTerm>
+<ChildTerm>Rotavirus Infections</ChildTerm>
+<Synonym>Reoviridae Infections</Synonym>
+<Synonym>Reovirus Infections</Synonym>
+<Synonym>Reovirus Infection</Synonym>
+<Synonym>Reoviridae Infection</Synonym>
+<Description>Infections produced by reoviruses, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Hemorrhagic Fever with Renal Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Hantavirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections/Hantavirus Infections/Hemorrhagic Fever with Renal Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Hemorrhagic Fever with Renal Syndrome</ClassificationPath>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fever with Renal Syndrome</BroaderTerm>
+<BroaderTerm>Hantavirus Infections</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Hemorrhagic Fever with Renal Syndrome</Synonym>
+<Synonym>HFRS</Synonym>
+<Synonym>Nephropathia Epidemica</Synonym>
+<Synonym>Hemorrhagic Nephroso-Nephritides</Synonym>
+<Synonym>Epidemic Hemorrhagic Fevers</Synonym>
+<Synonym>Hemorrhagic Nephroso-Nephritis</Synonym>
+<Synonym>Hemorrhagic Nephroso Nephritis</Synonym>
+<Synonym>Epidemic Hemorrhagic Fever</Synonym>
+<Synonym>Korean Hemorrhagic Fever</Synonym>
+<Description>An acute febrile disease occurring predominately in Asia. It is characterized by fever, prostration, vomiting, hemorrhagic phenonema, shock, and renal failure. It is caused by any one of several closely related species of the genus Hantavirus. The most severe form is caused by HANTAAN VIRUS whose natural host is the rodent Apodemus agrarius. Milder forms are caused by SEOUL VIRUS and transmitted by the rodents Rattus rattus and R. norvegicus, and the PUUMALA VIRUS with transmission by Clethrionomys galreolus.Mild form of HFRS rarely hemorrhagic and seldom fatal. Caused by the PUUMALA VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

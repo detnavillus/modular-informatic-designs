@@ -1,0 +1,18 @@
+<Record>
+<Term>Hyperoxaluria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hyperoxaluria</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hyperoxaluria</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Hyperoxaluria</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Hyperoxaluria, Primary</ChildTerm>
+<Synonym>Oxaluria</Synonym>
+<Synonym>Hyperoxaluria</Synonym>
+<Description>Excretion of an excessive amount of OXALATES in the urine.</Description>
+<Source>MeSH</Source>
+</Record>

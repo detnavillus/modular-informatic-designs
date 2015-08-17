@@ -1,0 +1,63 @@
+<Record>
+<Term>Ammonium</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Topical Preparation</ParentTerm>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ParentTerm>Chlorides</ParentTerm>
+<ParentTerm>Sulfates</ParentTerm>
+<ParentTerm>Quaternary Ammonium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Quaternary Ammonium Compounds/Ammonium Chloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Topical Preparation/Ammonium Lactate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Ammonium Chloride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Quaternary Ammonium Compounds/Ammonium Sulfate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sulfur Compounds/Sulfur Acids/Sulfuric Acids/Sulfates/Ammonium Sulfate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Hydrochloric Acid/Chlorides/Ammonium Chloride</ClassificationPath>
+<BroaderTerm>Topical Preparation</BroaderTerm>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chlorides</BroaderTerm>
+<BroaderTerm>Nitrogen Compounds</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Hydrochloric Acid</BroaderTerm>
+<BroaderTerm>Quaternary Ammonium Compounds</BroaderTerm>
+<BroaderTerm>Ammonium Sulfate</BroaderTerm>
+<BroaderTerm>Sulfuric Acids</BroaderTerm>
+<BroaderTerm>Sulfur Acids</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ammonium Lactate</BroaderTerm>
+<BroaderTerm>Sulfates</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Sulfur Compounds</BroaderTerm>
+<BroaderTerm>Ammonium Chloride</BroaderTerm>
+<Synonym>Ammonium chloride in plastic container</Synonym>
+<Synonym>Ammonium lactate</Synonym>
+<Synonym>Amchlor</Synonym>
+<Synonym>Ammonium</Synonym>
+<Synonym>Ammonium Sulfate</Synonym>
+<Synonym>Sal Ammoniac</Synonym>
+<Synonym>Ammonium chloride</Synonym>
+<Synonym>Salmiac</Synonym>
+<Synonym>AMMONIUM LACTATE</Synonym>
+<Synonym>AMMONIUM CHLORIDE</Synonym>
+<Synonym>Ammonium Lactate</Synonym>
+<Synonym>Lactic Acid/Ammonium Hydroxide</Synonym>
+<Synonym>Ammonium Muriate</Synonym>
+<Synonym>Ammonium chloride 2.14%</Synonym>
+<Synonym>Salammonite</Synonym>
+<Synonym>Lac-hydrin</Synonym>
+<Synonym>Ammonium chloride 0.9% in normal saline</Synonym>
+<Synonym>Ammonium Chloride</Synonym>
+<Description>A systemic and urinary acidifying salt. Ammonium chloride helps maintain pH and exerts a mild diuretic effect. This acid forming salt also exerts an expectorant effect by irritating the mucous membranes and is used for alleviation of cough.</Description>
+<Description>An acidifying agent that has expectorant and diuretic effects. Also used in etching and batteries and as a flux in electroplating.</Description>
+<Description>Sulfuric acid diammonium salt. It is used in CHEMICAL FRACTIONATION of proteins.</Description>
+<Description>An organic salt of ammonium (lactic acid neutralized with ammonium hydroxide), topical moisturizing Ammonium Lactate can be applied as a humectant in ichthyosis vulgaris and xerosis. Available as cream or lotion, this agent moisturizes the skin and breaks up the scales. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

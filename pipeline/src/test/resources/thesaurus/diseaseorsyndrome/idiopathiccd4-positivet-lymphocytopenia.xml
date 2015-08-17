@@ -1,0 +1,24 @@
+<Record>
+<Term>Idiopathic CD4-Positive T-Lymphocytopenia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphopenia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Leukopenia/Lymphopenia/T-Lymphocytopenia, Idiopathic CD4-Positive</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Lymphopenia/T-Lymphocytopenia, Idiopathic CD4-Positive</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>T-Lymphocytopenia, Idiopathic CD4-Positive</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Lymphopenia</BroaderTerm>
+<BroaderTerm>Leukopenia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Idiopathic CD4+ T Lymphocytopenia</Synonym>
+<Synonym>Idiopathic CD4 Positive T-Lymphocytopenia</Synonym>
+<Synonym>CD4+ T Lymphocytopenia</Synonym>
+<Synonym>Idiopathic CD4-Positive T-Lymphocytopenia</Synonym>
+<Synonym>CD4+ T-Lymphocytopenias</Synonym>
+<Synonym>CD4+ T-Lymphocytopenia</Synonym>
+<Synonym>Idiopathic CD4+ T-Lymphocytopenia</Synonym>
+<Description>Reproducible depletion of CD4+ lymphocytes below 300 per cubic millimeter in the absence of HIV infection or other known causes of immunodeficiency. This is a rare, heterogeneous syndrome and does not appear to be caused by a transmissible agent.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Foot Dermatoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Foot Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Foot Diseases/Foot Dermatoses</ClassificationPath>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Foot Dermatoses</BroaderTerm>
+<ChildTerm>Tinea Pedis</ChildTerm>
+<Synonym>Foot Dermatoses</Synonym>
+<Synonym>Foot Dermatosis</Synonym>
+<Description>Skin diseases of the foot, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Extrahepatic Cholestasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Cholestasis</ParentTerm>
+<ParentTerm>Gastrointestinal System Finding</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Gastrointestinal System Finding/Extrahepatic Cholestasis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Bile Duct Diseases/Cholestasis/Cholestasis, Extrahepatic</ClassificationPath>
+<BroaderTerm>Extrahepatic Cholestasis</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cholestasis</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Bile Duct Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cholestasis, Extrahepatic</BroaderTerm>
+<BroaderTerm>Gastrointestinal System Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Extrahepatic Cholestasis</Synonym>
+<Synonym>Extrahepatic Bile Duct Obstruction</Synonym>
+<Synonym>Extrahepatic Biliary Stasis</Synonym>
+<Description>Impairment of bile flow in the large BILE DUCTS by mechanical obstruction or stricture due to benign or malignant processes.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

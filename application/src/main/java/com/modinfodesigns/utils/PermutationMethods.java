@@ -5,6 +5,66 @@ import java.util.ArrayList;
 
 public class PermutationMethods
 {
+    
+  private static boolean debugConsole = false;
+    
+  // remove redundant arrays so if we have 1,5 arraySize = 5
+  // 1,2,3,4,5  covers 1,2,3,4; 1,2,3 and 1,2 etc.
+  public static List<int[]> getUniquePermutations( int start, int end, int arraySize )
+  {
+    List<int[]> perms = getPermutations( start, end, arraySize );
+    List<int[]> uniquePerms = new ArrayList<int[]>( perms );
+      
+    // for start=1, end=5, arraysize=5
+    // remove [1,2,3,4],[1,2,3],[1,2],[1], [2,3,4],[2,3],[2], [3,4],[3], [4]
+    for (int i = start; i < end; i++)
+    {
+       uniquePerms = removeSequences( uniquePerms, i, arraySize-1 );
+    }
+      
+    return uniquePerms;
+  }
+    
+    
+  private static List<int[]> removeSequences( List<int[]> inputs, int start, int end )
+  {
+    if (debugConsole) System.out.println( " removeSequences: " + start + " to " + end );
+    ArrayList<int[]> output = new ArrayList<int[]>( );
+      
+    // if arr[0] == start and is sequential, don't add it
+    for (int[] arr : inputs )
+    {
+      if (debugConsole)
+      {
+        System.out.println( "checking sequence" );
+        printArray( arr );
+      }
+
+      if (arr[0] == start && isSequential( arr ) && arr[arr.length-1] <= end)
+      {
+        if (debugConsole)
+        {
+          System.out.println( "removing sequence " );
+          printArray( arr );
+        }
+      }
+      else output.add( arr );
+    }
+      
+    return output;
+  }
+    
+  private static boolean isSequential( int[] array )
+  {
+    int startVal = array[0];
+    for (int i = 1; i < array.length; i++)
+    {
+      if ( array[i] != ++startVal ) return false;
+    }
+      
+    return true;
+  }
+
   // pairs   1,4  [1,2],[1,3],[1,4],[2,3],[2,4],[3,4]
   // triples 1,4  [1,2,3],[1,2,4],[1,3,4],[2,3,4]
   // triples 1,5  [1,2,3],[1,2,4],[1,2,5],[1,3,4],[1,3,5],[1,4,5],[2,3,4],[2,3,5],[2,4,5],[3,4,5]
@@ -80,5 +140,14 @@ public class PermutationMethods
       array[i] = start + i;
     }
     return array;
+  }
+    
+  private static void printArray( int[] array )
+  {
+    for (int i = 0; i < array.length; i++ ) {
+      System.out.print( array[i] + "," );
+    }
+      
+    System.out.println( "" );
   }
 }

@@ -1,0 +1,22 @@
+<Record>
+<Term>Therapeutic Steroid Hormone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Hormone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Progestin</ChildTerm>
+<ChildTerm>7Beta-Hydroxyfluasterone</ChildTerm>
+<ChildTerm>Therapeutic Androgen</ChildTerm>
+<ChildTerm>Steroidal Estrogen</ChildTerm>
+<ChildTerm>Fluasterone</ChildTerm>
+<ChildTerm>Adrenal Agent</ChildTerm>
+<Synonym>Steroid Hormone</Synonym>
+<Synonym>Therapeutic Steroid Hormone</Synonym>
+<Description>Synthetically made hormones possessing the steroid ring system; e.g., androgens, estrogens, and adrenocortical hormones.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Labyrinthitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis</ParentTerm>
+<ParentTerm>Labyrinth Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Labyrinthitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Labyrinth Diseases/Labyrinthitis</ClassificationPath>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Labyrinthitis</BroaderTerm>
+<BroaderTerm>Labyrinth Diseases</BroaderTerm>
+<Synonym>Labyrinthitides</Synonym>
+<Synonym>Labyrinthitis</Synonym>
+<Synonym>Otitis Interna</Synonym>
+<Description>Inflammation of the inner ear (LABYRINTH).</Description>
+<Source>MeSH</Source>
+</Record>

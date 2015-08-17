@@ -1,0 +1,25 @@
+<Record>
+<Term>Pick Disease of the Brain</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dementia</ParentTerm>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Pick Disease of the Brain</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Pick Disease of the Brain</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pick Disease of the Brain</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<Synonym>Pick Disease of the Brain</Synonym>
+<Synonym>Pick's Disease</Synonym>
+<Synonym>Lobar Atrophy of the Brain</Synonym>
+<Synonym>Picks Disease</Synonym>
+<Synonym>Circumscribed Lobar Atrophy of the Brain</Synonym>
+<Synonym>Lobar Atrophy (Brain)</Synonym>
+<Synonym>Lobar Atrophies (Brain)</Synonym>
+<Synonym>Pick Disease</Synonym>
+<Synonym>Picks Disease of Brain</Synonym>
+<Description>A rare form of DEMENTIA that is sometimes familial. Clinical features include APHASIA; APRAXIA; CONFUSION; ANOMIA; memory loss; and personality deterioration. This pattern is consistent with the pathologic findings of circumscribed atrophy of the poles of the FRONTAL LOBE and TEMPORAL LOBE. Neuronal loss is maximal in the HIPPOCAMPUS, entorhinal cortex, and AMYGDALA. Some ballooned cortical neurons contain argentophylic (Pick) bodies. (From Brain Pathol 1998 Apr;8(2):339-54; Adams et al., Principles of Neurology, 6th ed, pp1057-9)</Description>
+<Source>MeSH</Source>
+</Record>

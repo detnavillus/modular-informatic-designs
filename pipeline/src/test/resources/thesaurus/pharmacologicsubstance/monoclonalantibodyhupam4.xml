@@ -1,0 +1,16 @@
+<Record>
+<Term>Monoclonal Antibody HuPAM4</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody HuPAM4</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody HuPAM4</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MOAB HuPAM4</Synonym>
+<Synonym>Monoclonal Antibody HuPAM4</Synonym>
+<Description>A humanized monoclonal antibody directed against the pancreatic cancer antigen MUC1 with potential antineoplastic activity. Monoclonal antibody HuPAM4 (mAb HuPAM4) binds to cells expressing MUC1 antigen; mAb HuPAM4 may be useful as a carrier for radioisotopes and other antineoplastic therapeutic agents. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

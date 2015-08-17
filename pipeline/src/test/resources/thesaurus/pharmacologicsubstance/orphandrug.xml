@@ -1,0 +1,14 @@
+<Record>
+<Term>Orphan Drug</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmacologic Substance</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Orphan Drug</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Orphan Drug</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Sodium Dichloroacetate</ChildTerm>
+<Synonym>Orphan Drug</Synonym>
+<Description>A compound or product that demonstrates promise for the diagnosis and/or treatment of rare diseases and conditions that affect fewer than 200,000 people. The U.S. Orphan Drug Act (1983) encourages development of these therapeutics by tax breaks and a seven-year monopoly on drug sales. These incentives promote the development and manufacturing of such therapeutics, which otherwise might not be profitable because of the small potential market.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

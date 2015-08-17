@@ -1,0 +1,32 @@
+<Record>
+<Term>Sleep Bruxism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Parasomnias</ParentTerm>
+<ParentTerm>Bruxism</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Bruxism/Sleep Bruxism</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/Sleep Bruxism</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/Sleep Bruxism</ClassificationPath>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Sleep Bruxism</BroaderTerm>
+<BroaderTerm>Bruxism</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Sleep-Related Bruxism</Synonym>
+<Synonym>Adult Sleep Bruxism</Synonym>
+<Synonym>Adult Sleep Bruxisms</Synonym>
+<Synonym>Sleep Bruxisms</Synonym>
+<Synonym>Childhood Sleep Bruxisms</Synonym>
+<Synonym>Nocturnal Bruxisms</Synonym>
+<Synonym>Sleep Bruxism</Synonym>
+<Synonym>Nocturnal Teeth Grinding Disorder</Synonym>
+<Synonym>Nocturnal Bruxism</Synonym>
+<Synonym>Childhood Sleep Bruxism</Synonym>
+<Synonym>Sleep Related Bruxism</Synonym>
+<Synonym>Sleep-Related Bruxisms</Synonym>
+<Description>A sleep disorder characterized by grinding and clenching of the teeth and forceful lateral or protrusive jaw movements. Sleep bruxism may be associated with TOOTH INJURIES; TEMPOROMANDIBULAR JOINT DISORDERS; sleep disturbances; and other conditions.</Description>
+<Source>MeSH</Source>
+</Record>

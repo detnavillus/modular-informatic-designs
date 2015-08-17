@@ -1,0 +1,16 @@
+<Record>
+<Term>D 24851</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tubulin Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/D 24851</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>D 24851</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>D 24851</Synonym>
+<Description>A synthetic cytotoxic small molecule that binds to tubulin.  Bound to tubulin, D 24851 inhibits tubulin polymerization, cell cycle progression at the G2/M phase and, consequently, tumor cell growth.  This agent has been shown to be active against multi-drug resistant tumors. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Hypercholesterolemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Laboratory or Test Result</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Abnormal Blood Chemistry and Hematology Test Result</ParentTerm>
+<ParentTerm>Hyperlipidemias</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Test Result/Laboratory Finding/Abnormal Laboratory Test Result/Abnormal Blood Chemistry and Hematology Test Result/Hypercholesterolemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias/Hypercholesterolemia</ClassificationPath>
+<BroaderTerm>Abnormal Laboratory Test Result</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Laboratory Finding</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Test Result</BroaderTerm>
+<BroaderTerm>Hypercholesterolemia</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Abnormal Blood Chemistry and Hematology Test Result</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<Synonym>Hypercholesterolemia</Synonym>
+<Synonym>Hypercholesteremias</Synonym>
+<Synonym>Hypercholesteremia</Synonym>
+<Synonym>Hypercholesterolemias</Synonym>
+<Synonym>elevated cholesterol</Synonym>
+<Synonym>elevated serum cholesterol</Synonym>
+<Synonym>high cholesterol</Synonym>
+<Description>Hypercholesterolemia; the presence of an abnormal amount of cholesterol in the cells and plasma of the blood.</Description>
+<Description>A condition with abnormally high levels of CHOLESTEROL in the blood. It is defined as a cholesterol value exceeding the 95th percentile for the population.</Description>
+<Source>RTI</Source>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

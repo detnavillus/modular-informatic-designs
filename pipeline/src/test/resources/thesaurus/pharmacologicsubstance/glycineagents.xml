@@ -1,0 +1,18 @@
+<Record>
+<Term>Glycine Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Glycine Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Glycine Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Glycine Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<Synonym>Glycinergic Agents</Synonym>
+<Synonym>Glycine Agents</Synonym>
+<Synonym>Glycinergic Agent</Synonym>
+<Description>Substances used for their pharmacological actions on glycinergic systems. Glycinergic agents include agonists, antagonists, degradation or uptake inhibitors, depleters, precursors, and modulators of receptor function.</Description>
+<Source>MeSH</Source>
+</Record>

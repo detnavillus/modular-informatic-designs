@@ -1,0 +1,18 @@
+<Record>
+<Term>Adrenocortical Hyperfunction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Gland Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenocortical Hyperfunction</ClassificationPath>
+<BroaderTerm>Adrenocortical Hyperfunction</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<ChildTerm>Hyperaldosteronism</ChildTerm>
+<ChildTerm>Cushing Syndrome</ChildTerm>
+<Synonym>Adrenocortical Hyperfunction</Synonym>
+<Synonym>Hypercorticism</Synonym>
+<Synonym>Hyperadrenocorticism</Synonym>
+<Synonym>Adrenal Gland Hyperfunction</Synonym>
+<Synonym>Hyperadrenalism</Synonym>
+<Description>Excess production of ADRENAL CORTEX HORMONES such as ALDOSTERONE; HYDROCORTISONE; DEHYDROEPIANDROSTERONE; and/or ANDROSTENEDIONE. Hyperadrenal syndromes include CUSHING SYNDROME; HYPERALDOSTERONISM; and VIRILISM.</Description>
+<Source>MeSH</Source>
+</Record>

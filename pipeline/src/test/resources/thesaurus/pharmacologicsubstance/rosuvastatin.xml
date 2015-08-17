@@ -1,0 +1,23 @@
+<Record>
+<Term>Rosuvastatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>HMG-CoA Reductase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/HMG-CoA Reductase Inhibitor/Rosuvastatin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/HMG-CoA Reductase Inhibitor/Rosuvastatin Calcium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>HMG-CoA Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Rosuvastatin</BroaderTerm>
+<BroaderTerm>Rosuvastatin Calcium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Crestor</Synonym>
+<Synonym>ROSUVASTATIN CALCIUM</Synonym>
+<Synonym>ROSUVASTATIN</Synonym>
+<Synonym>Rosuvastatin calcium</Synonym>
+<Synonym>Rosuvastatin</Synonym>
+<Synonym>Rosuvastatin Calcium</Synonym>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

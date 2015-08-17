@@ -1,0 +1,17 @@
+<Record>
+<Term>Y 90 Anti-CEA Monoclonal Antibody</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Y 90 Anti-CEA Monoclonal Antibody</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Y 90 Anti-CEA Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y 90 Anti-CEA Monoclonal Antibody</Synonym>
+<Synonym>Y90 Anti-CEA Monoclonal Antibody</Synonym>
+<Synonym>Yttrium Y90 Anti-CEA monoclonal antibody</Synonym>
+<Description>A radioimmunoconjugate of monoclonal antibody against human carcinoembryonic antigen (CEA), labeled with yttrium 90 (Y-90). CEA is over-expressed in many tumor cell types. Using anti-CEA monoclonal antibody to deliver beta emitting nuclide Y-90 to CEA-positive cells results in tissue specific cytotoxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

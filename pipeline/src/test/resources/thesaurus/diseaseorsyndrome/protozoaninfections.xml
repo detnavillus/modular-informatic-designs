@@ -1,0 +1,25 @@
+<Record>
+<Term>Protozoan Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections</ClassificationPath>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Protozoan Infections, Animal</ChildTerm>
+<ChildTerm>Tick-Borne Diseases</ChildTerm>
+<ChildTerm>Ciliophora Infections</ChildTerm>
+<ChildTerm>Malaria</ChildTerm>
+<ChildTerm>Euglenozoa Infections</ChildTerm>
+<ChildTerm>Coccidiosis</ChildTerm>
+<ChildTerm>Dientamoebiasis</ChildTerm>
+<ChildTerm>Amebiasis</ChildTerm>
+<ChildTerm>Trichomonas Infections</ChildTerm>
+<ChildTerm>Central Nervous System Protozoal Infections</ChildTerm>
+<ChildTerm>Giardiasis</ChildTerm>
+<Synonym>Protozoan Infections</Synonym>
+<Synonym>Protozoan Infection</Synonym>
+<Synonym>Histomoniasis</Synonym>
+<Synonym>Histomoniases</Synonym>
+<Description>Infections with unicellular organisms formerly members of the subkingdom Protozoa.</Description>
+<Source>MeSH</Source>
+</Record>

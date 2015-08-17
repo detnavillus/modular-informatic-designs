@@ -1,0 +1,15 @@
+<Record>
+<Term>Invasive Pulmonary Aspergillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pulmonary Aspergillosis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Fungal/Pulmonary Aspergillosis/Invasive Pulmonary Aspergillosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Invasive Pulmonary Aspergillosis</BroaderTerm>
+<BroaderTerm>Pulmonary Aspergillosis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Fungal</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<Synonym>Invasive Pulmonary Aspergillosis</Synonym>
+<Synonym>Chronic Necrotizing Pulmonary Aspergillosis</Synonym>
+<Description>Lung infections with the invasive forms of ASPERGILLUS, usually after surgery, transplantation, prolonged NEUTROPENIA or treatment with high-doses of CORTICOSTEROIDS. Invasive pulmonary aspergillosis can progress to CHRONIC NECROTIZING PULMONARY ASPERGILLOSIS or hematogenous spread to other organs.</Description>
+<Source>MeSH</Source>
+</Record>

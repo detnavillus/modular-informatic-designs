@@ -1,0 +1,18 @@
+<Record>
+<Term>Peripheral Vascular Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Vascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Peripheral Vascular Disease</ClassificationPath>
+<BroaderTerm>Peripheral Vascular Disease</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Disease, peripheral vascular</Synonym>
+<Synonym>Peripheral Vascular Disease</Synonym>
+<Synonym>Vascular disease, peripheral</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

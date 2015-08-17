@@ -1,0 +1,17 @@
+<Record>
+<Term>Orthomyxoviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Orthomyxoviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Orthomyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Influenza in Birds</ChildTerm>
+<ChildTerm>Influenza, Human</ChildTerm>
+<Synonym>Orthomyxoviridae Infections</Synonym>
+<Synonym>Orthomyxovirus Infection</Synonym>
+<Synonym>Orthomyxoviridae Infection</Synonym>
+<Synonym>Orthomyxovirus Infections</Synonym>
+<Description>Virus diseases caused by the ORTHOMYXOVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

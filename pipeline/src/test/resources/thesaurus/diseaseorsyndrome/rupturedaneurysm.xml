@@ -1,0 +1,25 @@
+<Record>
+<Term>Ruptured Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Aneurysm</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Aneurysm/Ruptured Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Aneurysm, Ruptured</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Aneurysm, Ruptured</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Ruptured Aneurysm</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Aortic Rupture</ChildTerm>
+<ChildTerm>Ruptured Aortic Aneurysm</ChildTerm>
+<Synonym>Ruptured Aneurysm</Synonym>
+<Synonym>Ruptured Aneurysms</Synonym>
+<Description>The tearing or bursting of the weakened wall of the aneurysmal sac, usually heralded by sudden worsening pain. The great danger of a ruptured aneurysm is the large amount of blood spilling into the surrounding tissues and cavities, causing HEMORRHAGIC SHOCK.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

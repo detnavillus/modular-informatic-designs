@@ -1,0 +1,26 @@
+<Record>
+<Term>Cinacalcet</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Malignancy-Associated Hypercalcemia Inhibitor</ParentTerm>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Malignancy-Associated Hypercalcemia Inhibitor/Cinacalcet Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cinacalcet</ClassificationPath>
+<BroaderTerm>Cinacalcet</BroaderTerm>
+<BroaderTerm>Malignancy-Associated Hypercalcemia Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Cinacalcet Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Cinacalcet</Synonym>
+<Synonym>CINACALCET</Synonym>
+<Synonym>CINACALCET HYDROCHLORIDE</Synonym>
+<Synonym>1-Naphthalenemethanamine, a-methyl-N-(3-(3-(trifluoromethyl)phenyl)propyl)-,(aR)-, Hydrochloride</Synonym>
+<Synonym>Cinacalcet Hydrochloride</Synonym>
+<Synonym>Sensipar</Synonym>
+<Synonym>Cinacalcet hydrochloride</Synonym>
+<Description>An oral calcimimetic. Cinacalcet hydrochloride increases the sensitivity of the calcium-sensing receptors on the chief cells in the parathyroid gland to extracellular calcium, thereby reducing parathyroid hormone secretion. A reduction in parathyroid hormone levels inhibits osteoclast activity, favourably impacts bone-specific alkaline phosphatase, bone turnover, and bone fibrosis, and leads to normalization of serum calcium and phosphate levels. Cinacalcet hydrochloride is a treatment option for primary and secondary hyperparathyroidism and parathyroid carcinoma.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Echinococcosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cestode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Echinococcosis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Echinococcosis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Echinococcosis, Hepatic</ChildTerm>
+<ChildTerm>Echinococcosis, Pulmonary</ChildTerm>
+<Synonym>Echinococcosis</Synonym>
+<Synonym>Echinococcoses</Synonym>
+<Synonym>Hydatid Cyst</Synonym>
+<Synonym>Hydatidosis</Synonym>
+<Synonym>Hydatidoses</Synonym>
+<Synonym>Hydatid Cysts</Synonym>
+<Description>An infection caused by the infestation of the larval form of tapeworms of the genus Echinococcus. The liver, lungs, and kidney are the most common areas of infestation.</Description>
+<Source>MeSH</Source>
+</Record>

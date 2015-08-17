@@ -1,0 +1,26 @@
+<Record>
+<Term>Serotonin Uptake Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Uptake Inhibitors</ParentTerm>
+<ParentTerm>Serotonin Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Serotonin Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Serotonin Agents/Serotonin Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Serotonin Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Serotonin Agents/Serotonin Uptake Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Neurotransmitter Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Serotonin Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Serotonin Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<Synonym>5-Hydroxytryptamine Uptake Inhibitors</Synonym>
+<Synonym>Serotonin Uptake Inhibitors</Synonym>
+<Synonym>5 HT Uptake Inhibitors</Synonym>
+<Synonym>5 Hydroxytryptamine Uptake Inhibitors</Synonym>
+<Synonym>Serotonin Reuptake Inhibitors</Synonym>
+<Synonym>5-HT Uptake Inhibitors</Synonym>
+<Description>Compounds that specifically inhibit the reuptake of serotonin in the brain. This increases the serotonin concentration in the synaptic cleft which then activates serotonin receptors to a greater extent. These agents have been used in treatment of depression, panic disorder, obsessive-compulsive behavior, and alcoholism, as analgesics, and to treat obesity and bulimia. Many of the ADRENERGIC UPTAKE INHIBITORS also inhibit serotonin uptake; they are not included here.</Description>
+<Source>MeSH</Source>
+</Record>

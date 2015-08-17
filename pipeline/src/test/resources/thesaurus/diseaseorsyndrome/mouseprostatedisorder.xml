@@ -1,0 +1,20 @@
+<Record>
+<Term>Mouse Prostate Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Male Reproductive System Disorder</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Reproductive System Disorder/Mouse Male Reproductive System Disorder/Mouse Prostate Disorder</ClassificationPath>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mouse Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Prostate Disorder</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Reproductive System Disorder</BroaderTerm>
+<ChildTerm>Non-neoplastic Proliferation of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Non-proliferative Developmental Conditions of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Neoplasms of the Mouse Prostate Gland</ChildTerm>
+<ChildTerm>Inflammatory Conditions of the Mouse Prostate Gland</ChildTerm>
+<Synonym>Mouse Prostate Disorder</Synonym>
+<Synonym>Prostate Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

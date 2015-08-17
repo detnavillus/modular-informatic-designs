@@ -1,0 +1,33 @@
+<Record>
+<Term>Ankylosing Spondylitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ankylosis</ParentTerm>
+<ParentTerm>Spondylarthropathies</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Spondylarthritis/Spondylarthropathies/Spondylitis, Ankylosing</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Ankylosis/Spondylitis, Ankylosing</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Spondylarthritis/Spondylarthropathies/Spondylitis, Ankylosing</ClassificationPath>
+<BroaderTerm>Ankylosis</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthropathies</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthritis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Spondylitis, Ankylosing</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Ankylosing Spondylitis</Synonym>
+<Synonym>Bechterews Disease</Synonym>
+<Synonym>Marie-Struempell Disease</Synonym>
+<Synonym>Ankylosing Spondylarthritides</Synonym>
+<Synonym>Bechterew Disease</Synonym>
+<Synonym>Bechterew's Disease</Synonym>
+<Synonym>Marie Struempell Disease</Synonym>
+<Synonym>Spondylarthritis Ankylopoietica</Synonym>
+<Synonym>Rheumatoid Spondylitis</Synonym>
+<Synonym>Ankylosing Spondylarthritis</Synonym>
+<Synonym>Ankylosing Spondyloarthritis</Synonym>
+<Synonym>Ankylosing Spondyloarthritides</Synonym>
+<Description>A chronic inflammatory condition affecting the axial joints, such as the SACROILIAC JOINT and other intervertebral or costovertebral joints. It occurs predominantly in young males and is characterized by pain and stiffness of joints (ANKYLOSIS) with inflammation at tendon insertions.</Description>
+<Source>MeSH</Source>
+</Record>

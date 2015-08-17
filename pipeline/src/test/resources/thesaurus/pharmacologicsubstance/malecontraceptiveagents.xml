@@ -1,0 +1,19 @@
+<Record>
+<Term>Male Contraceptive Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contraceptive Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Male</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Contraceptive Agents/Contraceptive Agents, Male</ClassificationPath>
+<BroaderTerm>Contraceptive Agents, Male</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Contraceptive Agents</BroaderTerm>
+<ChildTerm>Antispermatogenic Agents</ChildTerm>
+<Synonym>Male Contraceptive Agents</Synonym>
+<Synonym>Male Contraceptives</Synonym>
+<Description>Chemical substances or agents with contraceptive activity in males. Use for male contraceptive agents in general or for which there is no specific heading.</Description>
+<Source>MeSH</Source>
+</Record>

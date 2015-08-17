@@ -15,16 +15,16 @@ public class TestCreateDescendantAtPath extends TestCase
     TaxonomyNode rootNode = new TaxonomyNode( "root" );
 
     TaxonomyNode nodeCalledSue = rootNode.createDescendantAtPath( "/should/create/node/called/Sue" );
-    System.out.println( nodeCalledSue.getName( ) );
+    assertEquals( nodeCalledSue.getName( ), "Sue" );
 
     TaxonomyNode calledNode = (TaxonomyNode)rootNode.getDescendantNode( "/root/should/create/node/called" );
-    System.out.println( calledNode.getName( ) );
+    assertEquals( calledNode.getName( ),  "called" );
       
     calledNode = (TaxonomyNode)rootNode.getDescendantNode( "/should/create/node/called" );
-    System.out.println( calledNode.getName( ) );
+    assertEquals( calledNode.getName( ), "called" );
             
     List<ITaxonomyNode> sueParents = nodeCalledSue.getParents();
-    System.out.println( sueParents.size( ) );
+    assertEquals( sueParents.size( ), 1 );
   }
 
 }

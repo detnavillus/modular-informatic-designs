@@ -1,0 +1,30 @@
+<Record>
+<Term>Long-Acting Insulin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<ParentTerm>Insulin</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Peptides/Peptide Hormones/Pancreatic Hormones/Proinsulin/Insulin/Insulin, Long-Acting</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Peptide Hormones/Pancreatic Hormones/Proinsulin/Insulin/Insulin, Long-Acting</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Pancreatic Hormones</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Insulin</BroaderTerm>
+<BroaderTerm>Peptides</BroaderTerm>
+<BroaderTerm>Proinsulin</BroaderTerm>
+<BroaderTerm>Peptide Hormones</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Insulin, Long-Acting</BroaderTerm>
+<Synonym>Ultralente Insulin</Synonym>
+<Synonym>Long-Acting Insulin</Synonym>
+<Synonym>Protophan</Synonym>
+<Synonym>Lente Insulin</Synonym>
+<Synonym>Insulin Novo Monotard</Synonym>
+<Synonym>Protamine Zinc Insulin</Synonym>
+<Synonym>Mixtard</Synonym>
+<Synonym>Long Acting Insulin</Synonym>
+<Synonym>Monotard Insulin</Synonym>
+<Synonym>Semilente Insulin</Synonym>
+<Description>Insulin formulation containing substance which delays or retards time period of the absorption of insulin.Sterile suspension, in a buffered water medium, of insulin modified by the addition of zinc chloride in a manner such that the solid phase of the suspension consists of a mixture of crystals and amorphous material in a ratio of approximately 7:3. (From The Merck Index, 11th ed, p4888)A long-acting, modified form of INSULIN containing protamine and zinc. Its duration of action lasts up to 36 hours.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Follicular Mucinosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alopecia</ParentTerm>
+<ParentTerm>Sebaceous Gland Diseases</ParentTerm>
+<ParentTerm>Mucinoses</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sebaceous Gland Diseases/Mucinosis, Follicular</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Hypotrichosis/Alopecia/Mucinosis, Follicular</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Mucinoses/Mucinosis, Follicular</ClassificationPath>
+<BroaderTerm>Alopecia</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Mucinosis, Follicular</BroaderTerm>
+<BroaderTerm>Sebaceous Gland Diseases</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mucinoses</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Hypotrichosis</BroaderTerm>
+<Synonym>Alopecia Mucinosa</Synonym>
+<Synonym>Follicular Mucinoses</Synonym>
+<Synonym>Follicular Mucinosis</Synonym>
+<Description>A disease of the pilosebaceous unit, presenting clinically as grouped follicular papules or plaques with associated hair loss. It is caused by mucinous infiltration of tissues, and usually involving the scalp, face, and neck. It may be primary (idiopathic) or secondary to mycosis fungoides or reticulosis.</Description>
+<Source>MeSH</Source>
+</Record>

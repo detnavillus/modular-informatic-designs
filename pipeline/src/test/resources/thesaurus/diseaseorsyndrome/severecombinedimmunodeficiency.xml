@@ -1,0 +1,49 @@
+<Record>
+<Term>Severe Combined Immunodeficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Immunologic Deficiency Syndromes</ParentTerm>
+<ParentTerm>Congenital Combined Immunodeficiency</ParentTerm>
+<ParentTerm>DNA Repair-Deficiency Disorders</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Severe Combined Immunodeficiency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Combined Immunodeficiency/Severe Combined Immunodeficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/DNA Repair-Deficiency Disorders/Severe Combined Immunodeficiency</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Severe Combined Immunodeficiency</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Severe Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Congenital Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>DNA Repair-Deficiency Disorders</BroaderTerm>
+<ChildTerm>Adenosine Deaminase Deficiency</ChildTerm>
+<ChildTerm>Severe Combined Immunodeficiency with Absence of T and B Cells</ChildTerm>
+<ChildTerm>Severe Combined Immunodeficiency with Absence of T, Normal B Cells</ChildTerm>
+<ChildTerm>Purine-Nucleoside Phosphorylase Deficiency</ChildTerm>
+<ChildTerm>Bare Lymphocyte Syndrome</ChildTerm>
+<ChildTerm>X-Linked Severe Combined Immunodeficiency</ChildTerm>
+<ChildTerm>X-Linked Combined Immunodeficiency Diseases</ChildTerm>
+<Synonym>Severe Combined Immunodeficiencies</Synonym>
+<Synonym>SCID</Synonym>
+<Synonym>Omenn Syndrome</Synonym>
+<Synonym>Familial Reticuloendotheliosis</Synonym>
+<Synonym>Omenns Syndrome</Synonym>
+<Synonym>Omenn's Syndrome</Synonym>
+<Synonym>Bare Lymphocyte Syndromes</Synonym>
+<Synonym>Severe Combined Immunologic Deficiency</Synonym>
+<Synonym>Severe Combined Immunodeficiency Syndrome</Synonym>
+<Synonym>Severe Combined Immunodeficiency</Synonym>
+<Synonym>Familial Reticuloendothelioses</Synonym>
+<Synonym>Bare Lymphocyte Syndrome</Synonym>
+<Description>X-linked or autosomal recessive disorder characterized by defects of both humoral and cell mediated immunity, resulting in low or absent antibody levels, leukopenia, marked susceptibility to infections, and early death.--2004</Description>
+<Description>Group of rare congenital disorders characterized by impairment of both humoral and cell-mediated immunity, leukopenia, and low or absent antibody levels. It is inherited as an X-linked or autosomal recessive defect. Mutations occurring in many different genes cause human Severe Combined Immunodeficiency (SCID).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>125IUdR</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/125IUdR</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>125IUdR</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>125-I Deoxyuridine</Synonym>
+<Synonym>125IUdR</Synonym>
+<Description>A radiopharmaceutical comprised of a thymidine analog, 5-iodo-2''-deoxyuridine (idoxuridine), labelled with the Auger electron emitter Iodine 125 that has been used as an assay for testing cell-mediated cytotoxicity and exhibits cytotoxicity by incorporating into DNA, causing DNA strand breaks. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

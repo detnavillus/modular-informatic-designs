@@ -1,0 +1,40 @@
+<Record>
+<Term>Barth Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Heart Defects, Congenital</ParentTerm>
+<ParentTerm>Abnormalities, Multiple</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Abnormalities, Multiple/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Abnormalities/Heart Defects, Congenital/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Defects, Congenital/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Barth Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Barth Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Barth Syndrome</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Abnormalities, Multiple</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<Synonym>3-methylglutaconicaciduria type 2s</Synonym>
+<Synonym>Barth Syndrome</Synonym>
+<Synonym>3 methylglutaconicaciduria type 2</Synonym>
+<Synonym>MGA type IIs</Synonym>
+<Synonym>3-methylglutaconicaciduria type II</Synonym>
+<Synonym>3-methylglutaconicaciduria type 2</Synonym>
+<Synonym>MGA Type 2</Synonym>
+<Synonym>3-methylglutaconicaciduria type IIs</Synonym>
+<Synonym>MGA type II</Synonym>
+<Description>Rare congenital X-linked disorder of lipid metabolism. Barth syndrome is transmitted in an X-linked recessive pattern. The syndrome is characterized by muscular weakness, growth retardation, DILATED CARDIOMYOPATHY, variable NEUTROPENIA, 3-methylglutaconic aciduria (type II) and decreases in mitochondrial CARDIOLIPIN level. Other biochemical and morphological mitochondrial abnormalities also exist.</Description>
+<Source>MeSH</Source>
+</Record>

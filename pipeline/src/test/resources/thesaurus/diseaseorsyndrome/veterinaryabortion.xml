@@ -1,0 +1,18 @@
+<Record>
+<Term>Veterinary Abortion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abortion, Spontaneous</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Abortion, Veterinary</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Abortion, Spontaneous/Abortion, Veterinary</ClassificationPath>
+<BroaderTerm>Abortion, Veterinary</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abortion, Spontaneous</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Brucellosis, Bovine</ChildTerm>
+<Synonym>Veterinary Abortion</Synonym>
+<Synonym>Veterinary Abortions</Synonym>
+<Description>Premature expulsion of the FETUS in animals.</Description>
+<Source>MeSH</Source>
+</Record>

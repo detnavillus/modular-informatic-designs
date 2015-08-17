@@ -1,0 +1,34 @@
+<Record>
+<Term>Scheuermann Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Kyphosis</ParentTerm>
+<ParentTerm>Spinal Osteochondrosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteochondrosis/Spinal Osteochondrosis/Scheuermann Disease</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Curvatures/Kyphosis/Scheuermann Disease</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Osteochondrosis/Scheuermann Disease</ClassificationPath>
+<BroaderTerm>Spinal Curvatures</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Scheuermann Disease</BroaderTerm>
+<BroaderTerm>Kyphosis</BroaderTerm>
+<BroaderTerm>Spinal Osteochondrosis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Osteochondrosis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Scheuermann Kyphosis</Synonym>
+<Synonym>Scheuermann Disease</Synonym>
+<Synonym>Spine Juvenile Osteochondroses</Synonym>
+<Synonym>Juvenile Kyphosis</Synonym>
+<Synonym>Scheuermanns Disease</Synonym>
+<Synonym>Scheuermann's Kyphosis</Synonym>
+<Synonym>Scheuermann's Disease</Synonym>
+<Synonym>Scheuermann's Kyphoses</Synonym>
+<Synonym>Scheuermann Kyphoses</Synonym>
+<Synonym>Adolescent Kyphoses</Synonym>
+<Synonym>Spine Juvenile Osteochondrosis</Synonym>
+<Synonym>Juvenile Kyphoses</Synonym>
+<Synonym>Adolescent Kyphosis</Synonym>
+<Synonym>Scheuermanns Kyphosis</Synonym>
+<Synonym>Juvenile Osteochondrosis of Spine</Synonym>
+<Description>A type of juvenile osteochondrosis affecting the fibrocartilaginous disc (INTERVERTEBRAL DISK) in the thoracic or thoracolumbar region of the SPINE. It is characterized by a forward concave SPINAL CURVATURE or KYPHOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

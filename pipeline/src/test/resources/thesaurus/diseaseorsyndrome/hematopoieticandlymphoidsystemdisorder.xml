@@ -1,0 +1,19 @@
+<Record>
+<Term>Hematopoietic and Lymphoid System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder</ClassificationPath>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Bone Marrow Disorder</ChildTerm>
+<ChildTerm>Hematologic and Lymphocytic Disorder</ChildTerm>
+<ChildTerm>Splenic Disorder</ChildTerm>
+<Synonym>BLOOD AND LYMPHATIC SYSTEM DISORDERS</Synonym>
+<Synonym>Hematopoietic and Lymphoid System Disease</Synonym>
+<Synonym>Hematopoietic and Lymphoid System Disorder</Synonym>
+<Description>Any deviation from the normal structure or function of the blood or lymphatic system that is manifested by a characteristic set of symptoms and signs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

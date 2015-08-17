@@ -1,0 +1,20 @@
+<Record>
+<Term>Recombinant Modified Vaccinia Ankara-5T4 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Modified Vaccinia Ankara-5T4 Vaccine</ClassificationPath>
+<BroaderTerm>Recombinant Modified Vaccinia Ankara-5T4 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant MVA-5T4 Vaccine</Synonym>
+<Synonym>Recombinant Modified Vaccinia Ankara-5T4 Vaccine</Synonym>
+<Synonym>Recombinant Pox Virus Encoding 5T4 Vaccine</Synonym>
+<Synonym>TroVax</Synonym>
+<Description>A cancer vaccine comprised of a recombinant modified vaccinia Ankara (MVA) viral vector encoding the 5T4 fetal oncoprotein (MVA-h5T4). Vaccination with recombinant modified vaccinia Ankara-5T4 vaccine may stimulate the host immune system to mount a humoral and cytotoxic T lymphocyte (CTL) response against tumor cells expressing 5T4 fetal oncoprotein antigen, resulting in tumor cell lysis. The MVA viral vector, derived from the replication-competent strain Ankara, is a highly attenuated, replication-defective vaccinia strain incapable of virion assembly.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

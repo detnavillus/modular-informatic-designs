@@ -1,0 +1,53 @@
+<Record>
+<Term>Stroke</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorder</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Cerebrovascular Disorder/Cerebrovascular Accident</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cerebrovascular Accident</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<ChildTerm>Brain Infarction</ChildTerm>
+<Synonym>Brain Vascular Accidents</Synonym>
+<Synonym>CVA, Cerebrovascular accident</Synonym>
+<Synonym>Syndrome, stroke</Synonym>
+<Synonym>Cerebrovascular Stroke</Synonym>
+<Synonym>Acute Cerebrovascular Accident</Synonym>
+<Synonym>Cerebrovascular Apoplexy</Synonym>
+<Synonym>CVAs (Cerebrovascular Accident)</Synonym>
+<Synonym>Apoplexy</Synonym>
+<Synonym>Stroke Syndrome</Synonym>
+<Synonym>Acute Cerebrovascular Accidents</Synonym>
+<Synonym>Brain Vascular Accident</Synonym>
+<Synonym>Cerebral Strokes</Synonym>
+<Synonym>CVA (Cerebrovascular Accident)</Synonym>
+<Synonym>Cerebrovascular Accidents</Synonym>
+<Synonym>Cerebrovascular Strokes</Synonym>
+<Synonym>Cerebrovascular Accident</Synonym>
+<Synonym>Strokes</Synonym>
+<Synonym>Acute Stroke</Synonym>
+<Synonym>Cerebrovascular accident, (CVA)</Synonym>
+<Synonym>Acute Strokes</Synonym>
+<Synonym>Cerebral Stroke</Synonym>
+<Synonym>CVA</Synonym>
+<Synonym>Stroke</Synonym>
+<Description>A group of pathological conditions characterized by sudden, non-convulsive loss of neurological function due to BRAIN ISCHEMIA or INTRACRANIAL HEMORRHAGES. Stroke is classified by the type of tissue NECROSIS, such as the anatomic location, vasculature involved, etiology, age of the affected individual, and hemorrhagic vs. non-hemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)</Description>
+<Description>A sudden, nonconvulsive loss of neurologic function due to an ischemic or hemorrhagic intracranial vascular event. In general, cerebrovascular accidents are classified by anatomic location in the brain, vascular distribution, etiology, age of the affected individual, and hemorrhagic vs. nonhemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

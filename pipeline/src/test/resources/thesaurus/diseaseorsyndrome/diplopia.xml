@@ -1,0 +1,50 @@
+<Record>
+<Term>Diplopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Visual Manifestations</ParentTerm>
+<ParentTerm>Vision Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Neurological Signs and Symptoms/Sensory Manifestations/Visual Manifestations/Diplopia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Diplopia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Diplopia</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Diplopia</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Visual Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Sensory Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Neurological Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Diplopia</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<Synonym>Monocular Diplopia</Synonym>
+<Synonym>Horizontal Diplopia</Synonym>
+<Synonym>Cortical Diplopias</Synonym>
+<Synonym>Unilateral Diplopias</Synonym>
+<Synonym>Horizontal Diplopias</Synonym>
+<Synonym>Unilateral Diplopia</Synonym>
+<Synonym>Vertical Diplopias</Synonym>
+<Synonym>Double Vision</Synonym>
+<Synonym>Vertical Diplopia</Synonym>
+<Synonym>Polyopsias</Synonym>
+<Synonym>Cortical Diplopia</Synonym>
+<Synonym>Diplopias</Synonym>
+<Synonym>Intermittent Diplopia</Synonym>
+<Synonym>Monocular Diplopias</Synonym>
+<Synonym>Refractive Diplopia</Synonym>
+<Synonym>Refractive Diplopias</Synonym>
+<Synonym>Intermittent Diplopias</Synonym>
+<Synonym>Diplopia</Synonym>
+<Synonym>Polyopsia</Synonym>
+<Description>A visual symptom in which a single object is perceived by the visual cortex as two objects rather than one. Disorders associated with this condition include REFRACTIVE ERRORS; STRABISMUS; OCULOMOTOR NERVE DISEASES; TROCHLEAR NERVE DISEASES; ABDUCENS NERVE DISEASES; and diseases of the BRAIN STEM and OCCIPITAL LOBE.</Description>
+<Description>The condition in which a single object appears as two objects. Also called "double vision." (from medterms.com)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

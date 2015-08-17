@@ -1,0 +1,20 @@
+<Record>
+<Term>Infectious Pregnancy Complications</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy Complications, Infectious</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Pregnancy Complications, Infectious</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pregnancy Complications, Infectious</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Abortion, Septic</ChildTerm>
+<ChildTerm>Puerperal Infection</ChildTerm>
+<ChildTerm>Pregnancy Complications, Parasitic</ChildTerm>
+<Synonym>Infectious Pregnancy Complications</Synonym>
+<Synonym>Infectious Pregnancy Complication</Synonym>
+<Description>The co-occurrence of pregnancy and an INFECTION. The infection may precede or follow FERTILIZATION.</Description>
+<Source>MeSH</Source>
+</Record>

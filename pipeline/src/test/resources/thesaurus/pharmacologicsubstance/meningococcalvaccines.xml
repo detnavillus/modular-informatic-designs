@@ -1,0 +1,20 @@
+<Record>
+<Term>Meningococcal Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Meningococcal Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Meningococcal Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Meningococcal Vaccines</Synonym>
+<Synonym>Meningococcal Vaccine</Synonym>
+<Synonym>Menomune</Synonym>
+<Synonym>Bivalent Meningococcal Vaccine</Synonym>
+<Synonym>Meningococcal Polysaccharide Vaccine</Synonym>
+<Synonym>Tetravalent Meningococcal Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with NEISSERIA MENINGITIDIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Choline Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Choline Deficiency</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Choline Deficiency</BroaderTerm>
+<Synonym>Choline Deficiency</Synonym>
+<Synonym>Choline Deficiencies</Synonym>
+<Description>A condition produced by a deficiency of CHOLINE in animals. Choline is known as a lipotropic agent because it has been shown to promote the transport of excess fat from the liver under certain conditions in laboratory animals. Combined deficiency of choline (included in the B vitamin complex) and all other methyl group donors causes liver cirrhosis in some animals. Unlike compounds normally considered as vitamins, choline does not serve as a cofactor in enzymatic reactions. (From Saunders Dictionary &amp; Encyclopedia of Laboratory Medicine and Technology, 1984)</Description>
+<Source>MeSH</Source>
+</Record>

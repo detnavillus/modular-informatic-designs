@@ -1,0 +1,15 @@
+<Record>
+<Term>Hyperthyroxinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroxinemia</ClassificationPath>
+<BroaderTerm>Hyperthyroxinemia</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Thyroid Hormone Resistance Syndrome</ChildTerm>
+<ChildTerm>Hyperthyroxinemia, Familial Dysalbuminemic</ChildTerm>
+<Synonym>Hyperthyroxinemia</Synonym>
+<Synonym>Hyperthyroxinemias</Synonym>
+<Description>Abnormally elevated THYROXINE level in the BLOOD.</Description>
+<Source>MeSH</Source>
+</Record>

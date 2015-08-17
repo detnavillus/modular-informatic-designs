@@ -1,0 +1,34 @@
+<Record>
+<Term>Placenta Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ParentTerm>Female Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Placenta Disorder</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Placenta Diseases</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Placenta Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Placenta Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Placental Insufficiency</ChildTerm>
+<ChildTerm>Placenta, Retained</ChildTerm>
+<ChildTerm>Placental Non-Neoplastic Disorder</ChildTerm>
+<ChildTerm>Chorioamnionitis</ChildTerm>
+<ChildTerm>Placenta Previa</ChildTerm>
+<ChildTerm>Placenta Accreta</ChildTerm>
+<ChildTerm>Abruptio Placentae</ChildTerm>
+<Synonym>Placenta Disease</Synonym>
+<Synonym>Placental Disease</Synonym>
+<Synonym>Placenta Disorder</Synonym>
+<Synonym>Placental Diseases</Synonym>
+<Synonym>Placenta Disorders</Synonym>
+<Synonym>Placenta Diseases</Synonym>
+<Description>Pathological processes or abnormal functions of the PLACENTA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

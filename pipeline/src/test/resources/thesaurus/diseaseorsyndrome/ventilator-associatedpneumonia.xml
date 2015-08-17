@@ -1,0 +1,25 @@
+<Record>
+<Term>Ventilator-Associated Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumonia</ParentTerm>
+<ParentTerm>Ventilator-Induced Lung Injury</ParentTerm>
+<ParentTerm>Cross Infection</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Injury/Ventilator-Induced Lung Injury/Pneumonia, Ventilator-Associated</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cross Infection/Pneumonia, Ventilator-Associated</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Ventilator-Associated</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Ventilator-Associated</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Injury</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Ventilator-Induced Lung Injury</BroaderTerm>
+<BroaderTerm>Cross Infection</BroaderTerm>
+<BroaderTerm>Pneumonia, Ventilator-Associated</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Ventilator Associated Pneumonia</Synonym>
+<Synonym>Ventilator-Associated Pneumonia</Synonym>
+<Description>Serious INFLAMMATION of the LUNG in patients who required the use of PULMONARY VENTILATOR. It is usually caused by cross bacterial infections in hospitals (NOSOCOMIAL INFECTIONS).</Description>
+<Source>MeSH</Source>
+</Record>

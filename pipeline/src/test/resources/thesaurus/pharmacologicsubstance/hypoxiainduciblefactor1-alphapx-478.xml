@@ -1,0 +1,15 @@
+<Record>
+<Term>Hypoxia Inducible Factor 1-Alpha PX-478</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Hypoxia Inducible Factor 1-Alpha PX-478</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hypoxia Inducible Factor 1-Alpha PX-478</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hypoxia Inducible Factor 1-Alpha PX-478</Synonym>
+<Synonym>PX-478</Synonym>
+<Description>An orally active small molecule with potential antineoplastic activity. Although its mechanism of action has yet to be fully elucidated, HIF1-alpha inhibitor PX-478 appears to inhibit hypoxia-inducible factor 1-alpha (HIF1A) expression, which may result in decreased expression of HIF1A downstream target genes important to tumor growth and survival, a reduction in tumor cell proliferation, and the induction of tumor cell apoptosis. The inhibitory effect of this agent is independent of the tumor suppressor genes VHL and p53 and may be related to derangements in glucose uptake and metabolism due to inhibition of glucose transporter-1 (Glut-1).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

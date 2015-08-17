@@ -1,0 +1,23 @@
+<Record>
+<Term>DL-Propoxyphene</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Opioid Receptor Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opioid Receptor Agonist/DL-Propoxyphene,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Alkaloid/Opioid/DL-Propoxyphene,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/DL-Propoxyphene</ClassificationPath>
+<BroaderTerm>DL-Propoxyphene,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Alkaloid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>DL-Propoxyphene</BroaderTerm>
+<BroaderTerm>Opioid</BroaderTerm>
+<BroaderTerm>Opioid Receptor Agonist</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DL-Propoxyphene</Synonym>
+<Synonym>PROPOXYPHENE, DL-</Synonym>
+<Description>A racemic mixture of propoxyphene, a synthetic opiate agonist with narcotic analgesic activity. The analgesic effect of propoxyphene is due to its d-isomer, dextropropoxyphene, which bind to opiate receptors, primarily the OP3 receptor located within the central nervous system (CNS). Mediated through G-protein coupled OP3 receptors and cAMP signaling, the release of nociceptive neurotransmitters such as substance P, gamma-aminobutyric acid (GABA), dopamine, acetylcholine, and noradrenaline is inhibited. Propoxyphene also inhibits the release of vasopressin, somatostatin, insulin and glucagon and close N-type voltage-operated calcium channels and open calcium-dependent inwardly rectifying potassium channels. This results in hyperpolarization and reduced neuronal excitability.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

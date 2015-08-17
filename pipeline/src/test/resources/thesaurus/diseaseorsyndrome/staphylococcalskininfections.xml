@@ -1,0 +1,33 @@
+<Record>
+<Term>Staphylococcal Skin Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Staphylococcal Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Staphylococcal Infections/Staphylococcal Skin Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Staphylococcal Skin Infections</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Staphylococcal Skin Infections</BroaderTerm>
+<BroaderTerm>Staphylococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Furunculosis</ChildTerm>
+<ChildTerm>Impetigo</ChildTerm>
+<ChildTerm>Staphylococcal Scalded Skin Syndrome</ChildTerm>
+<Synonym>Skin Staphylococcal Disease</Synonym>
+<Synonym>Staphylococcal Skin Disease</Synonym>
+<Synonym>Skin Staphylococcal Diseases</Synonym>
+<Synonym>Skin Staphylococcal Infection</Synonym>
+<Synonym>Staphylococcal Skin Infection</Synonym>
+<Synonym>Staphylococcal Skin Diseases</Synonym>
+<Synonym>Staphylococcal Skin Infections</Synonym>
+<Synonym>Skin Staphylococcal Infections</Synonym>
+<Description>Infections to the skin caused by bacteria of the genus STAPHYLOCOCCUS.</Description>
+<Source>MeSH</Source>
+</Record>

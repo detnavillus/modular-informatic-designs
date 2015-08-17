@@ -1,0 +1,17 @@
+<Record>
+<Term>Varicocele</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Varicocele</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Varicocele</ClassificationPath>
+<BroaderTerm>Varicocele</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Varicocele</Synonym>
+<Synonym>Varicoceles</Synonym>
+<Description>A condition characterized by the dilated tortuous veins of the SPERMATIC CORD with a marked left-sided predominance. Adverse effect on male fertility occurs when varicocele leads to an increased scrotal (and testicular) temperature and reduced testicular volume.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Parasitic Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Infectious</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Parasitic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Scabies</ChildTerm>
+<ChildTerm>Lice Infestations</ChildTerm>
+<ChildTerm>Ectoparasitic Infestations</ChildTerm>
+<ChildTerm>Leishmaniasis</ChildTerm>
+<ChildTerm>Onchocerciasis</ChildTerm>
+<ChildTerm>Larva Migrans</ChildTerm>
+<Synonym>Parasitic Skin Disease</Synonym>
+<Synonym>Parasitic Skin Diseases</Synonym>
+<Description>Skin diseases caused by ARTHROPODS; HELMINTHS; or other parasites.</Description>
+<Source>MeSH</Source>
+</Record>

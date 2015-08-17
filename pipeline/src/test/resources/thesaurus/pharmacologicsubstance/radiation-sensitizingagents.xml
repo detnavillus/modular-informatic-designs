@@ -1,0 +1,55 @@
+<Record>
+<Term>Radiation-Sensitizing Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Physiological Effects of Drugs</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Radiosensitizing Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Radiation-Sensitizing Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Radiosensitizing Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Radiation-Sensitizing Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Efaproxiral Sodium</ChildTerm>
+<ChildTerm>Efaproxiral</ChildTerm>
+<ChildTerm>Desmethylmisonidazole</ChildTerm>
+<ChildTerm>5-Iodo-2-pyrimidinone-2'-deoxyribose</ChildTerm>
+<ChildTerm>Photosensitizing Agents</ChildTerm>
+<ChildTerm>Pimonidazole</ChildTerm>
+<ChildTerm>Neu-Sensamide</ChildTerm>
+<ChildTerm>N-Methylformamide</ChildTerm>
+<ChildTerm>Cisplatin Liposomal</ChildTerm>
+<ChildTerm>Lonidamine</ChildTerm>
+<ChildTerm>6-Aminonicotinamide</ChildTerm>
+<ChildTerm>Mitolactol</ChildTerm>
+<ChildTerm>Perflubron</ChildTerm>
+<ChildTerm>Hyperbaric Oxygen</ChildTerm>
+<ChildTerm>Boronophenylalanine-Fructose Complex</ChildTerm>
+<ChildTerm>Cladribine</ChildTerm>
+<ChildTerm>Carbogen</ChildTerm>
+<ChildTerm>Declopramide</ChildTerm>
+<ChildTerm>Misonidazole</ChildTerm>
+<ChildTerm>Cytochlor</ChildTerm>
+<ChildTerm>Pimonidazole Hydrochloride</ChildTerm>
+<ChildTerm>Cisplatin-E Therapeutic Implant</ChildTerm>
+<ChildTerm>Cisplatin</ChildTerm>
+<ChildTerm>Nolatrexed Dihydrochloride</ChildTerm>
+<Synonym>Radiosensitizing Agent</Synonym>
+<Synonym>Radiation Sensitizing Agents</Synonym>
+<Synonym>radiosensitizers</Synonym>
+<Synonym>Radiosensitizing Drugs</Synonym>
+<Synonym>Radiation Sensitizers</Synonym>
+<Synonym>Radiosensitizers</Synonym>
+<Synonym>Radiation Sensitizing Drugs</Synonym>
+<Synonym>Radiation-Sensitizing Agents</Synonym>
+<Synonym>Radiosensitizing Agents</Synonym>
+<Synonym>Radiation-Sensitizing Drugs</Synonym>
+<Description>Drugs used to potentiate the effectiveness of radiation therapy in destroying unwanted cells.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

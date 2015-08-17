@@ -1,0 +1,14 @@
+<Record>
+<Term>Ciliophora Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Ciliophora Infections</ClassificationPath>
+<BroaderTerm>Ciliophora Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Balantidiasis</ChildTerm>
+<Synonym>Ciliophora Infections</Synonym>
+<Synonym>Ciliophora Infection</Synonym>
+<Description>Infections with protozoa of the phylum CILIOPHORA.</Description>
+<Source>MeSH</Source>
+</Record>

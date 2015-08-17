@@ -1,0 +1,23 @@
+<Record>
+<Term>Valproate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Valproate Sodium</ClassificationPath>
+<BroaderTerm>Valproate Sodium</BroaderTerm>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Valproate Sodium</Synonym>
+<Synonym>Valproate</Synonym>
+<Synonym>Ergenyl</Synonym>
+<Synonym>2-Propylpentanoic Acid Sodium Salt</Synonym>
+<Synonym>Valproate sodium</Synonym>
+<Synonym>Depacon</Synonym>
+<Synonym>VALPROATE SODIUM</Synonym>
+<Description>The sodium salt form of valproic acid with anti-epileptic activity. Valproate sodium is converted into its active form, valproate ion, in blood. Although the mechanism of action remains to be elucidated, valproate sodium increases concentrations of gamma-aminobutyric acid (GABA) in the brain, probably due to inhibition of the enzymes responsible for the catabolism of GABA. This potentiates the synaptic actions of GABA. Valproate sodium may also affect potassium channels, thereby creating a direct membrane-stabilizing effect.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

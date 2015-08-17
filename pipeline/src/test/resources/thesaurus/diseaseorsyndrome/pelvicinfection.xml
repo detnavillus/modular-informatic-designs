@@ -1,0 +1,14 @@
+<Record>
+<Term>Pelvic Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Pelvic Infection</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Pelvic Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pelvic Inflammatory Disease</ChildTerm>
+<Synonym>Pelvic Infection</Synonym>
+<Synonym>Pelvic Infections</Synonym>
+<Description>Infection involving the tissues or organs in the PELVIS.</Description>
+<Source>MeSH</Source>
+</Record>

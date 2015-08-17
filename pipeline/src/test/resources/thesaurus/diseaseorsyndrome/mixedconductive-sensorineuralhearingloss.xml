@@ -1,0 +1,21 @@
+<Record>
+<Term>Mixed Conductive-Sensorineural Hearing Loss</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hearing Loss</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Hearing Loss, Mixed Conductive-Sensorineural</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Mixed Conductive-Sensorineural</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Mixed Conductive-Sensorineural</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss, Mixed Conductive-Sensorineural</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<Synonym>Mixed Hearing Loss</Synonym>
+<Description>Hearing loss due to damage or impairment of both the conductive elements (HEARING LOSS, CONDUCTIVE) and the sensorineural elements (HEARING LOSS, SENSORINEURAL) of the ear.</Description>
+<Source>MeSH</Source>
+</Record>

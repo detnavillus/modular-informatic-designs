@@ -1,0 +1,31 @@
+<Record>
+<Term>Cutaneous Lupus Erythematosus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Lupus Erythematosus</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Lupus Erythematosus/Cutaneous Lupus Erythematosus</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Lupus Erythematosus, Cutaneous</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Lupus Erythematosus, Cutaneous</ClassificationPath>
+<BroaderTerm>Lupus Erythematosus, Cutaneous</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Cutaneous Lupus Erythematosus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<ChildTerm>Lupus Erythematosus, Discoid</ChildTerm>
+<ChildTerm>Systemic Lupus Erythematosus Rash</ChildTerm>
+<ChildTerm>Discoid Lupus Erythematosus</ChildTerm>
+<Synonym>Cutaneous Lupus Erythematosus</Synonym>
+<Description>A form of lupus erythematosus in which the skin may be the only organ involved or in which skin involvement precedes the spread into other body systems. It has been classified into three forms - acute (= LUPUS ERYTHEMATOSUS, SYSTEMIC with skin lesions), subacute, and chronic (= LUPUS ERYTHEMATOSUS, DISCOID).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

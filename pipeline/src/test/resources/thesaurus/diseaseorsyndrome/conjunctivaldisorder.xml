@@ -1,0 +1,17 @@
+<Record>
+<Term>Conjunctival Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Conjunctival Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Conjunctival Disorder</ChildTerm>
+<ChildTerm>Conjunctival Vascular Disorder</ChildTerm>
+<Synonym>Conjunctival Disease</Synonym>
+<Synonym>Conjunctival Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

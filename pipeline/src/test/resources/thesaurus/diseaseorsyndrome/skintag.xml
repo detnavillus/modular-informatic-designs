@@ -1,0 +1,25 @@
+<Record>
+<Term>Skin Tag</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Reactive Cutaneous Fibrous Lesion</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Reactive Cutaneous Fibrous Lesion/Skin Tag,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Fibroepithelial Polyp/Skin Tag</ClassificationPath>
+<BroaderTerm>Reactive Cutaneous Fibrous Lesion</BroaderTerm>
+<BroaderTerm>Skin Tag</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Fibroepithelial Polyp</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Tag,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Acrochordon</Synonym>
+<Synonym>Cutaneous Fibroepithelial Polyp</Synonym>
+<Synonym>Cutaneous Tag</Synonym>
+<Synonym>Fibroepithelial Polyp of Skin</Synonym>
+<Synonym>Fibroepithelial Polyp of the Skin</Synonym>
+<Synonym>Skin Tag</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

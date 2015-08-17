@@ -1,0 +1,20 @@
+<Record>
+<Term>Excitatory Amino Acid Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Excitatory Amino Acid Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Excitatory Amino Acid Agents/Excitatory Amino Acid Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Excitatory Amino Acid Agents/Excitatory Amino Acid Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Excitatory Amino Acid Agents</BroaderTerm>
+<BroaderTerm>Excitatory Amino Acid Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<Synonym>Glutamate Receptor Antagonists</Synonym>
+<Synonym>Excitatory Amino Acid Antagonists</Synonym>
+<Synonym>Glutamate Antagonists</Synonym>
+<Synonym>EAA Antagonists</Synonym>
+<Description>Drugs that bind to but do not activate excitatory amino acid receptors, thereby blocking the actions of agonists.</Description>
+<Source>MeSH</Source>
+</Record>

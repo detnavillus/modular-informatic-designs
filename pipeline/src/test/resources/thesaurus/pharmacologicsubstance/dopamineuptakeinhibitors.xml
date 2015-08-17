@@ -1,0 +1,22 @@
+<Record>
+<Term>Dopamine Uptake Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Uptake Inhibitors</ParentTerm>
+<ParentTerm>Dopamine Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Dopamine Agents/Dopamine Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Dopamine Agents/Dopamine Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Dopamine Uptake Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Neurotransmitter Uptake Inhibitors/Dopamine Uptake Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Neurotransmitter Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Dopamine Uptake Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Dopamine Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Dopamine Uptake Inhibitors</Synonym>
+<Synonym>Dopamine Reuptake Inhibitors</Synonym>
+<Description>Drugs that block the transport of DOPAMINE into axon terminals or into storage vesicles within terminals. Most of the ADRENERGIC UPTAKE INHIBITORS also inhibit dopamine uptake.</Description>
+<Source>MeSH</Source>
+</Record>

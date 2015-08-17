@@ -1,0 +1,23 @@
+<Record>
+<Term>Right Bundle Branch Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Right Bundle Branch Block</ClassificationPath>
+<BroaderTerm>Right Bundle Branch Block</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>RBBB</Synonym>
+<Synonym>RIGHT BUNDLE BRANCH BLOCK</Synonym>
+<Synonym>Right Bundle Branch Block</Synonym>
+<Synonym>Right bundle branch block</Synonym>
+<Description>An impairment of transmission of the cardiac electrical impulse along the fibers of the right bundle branch.  A " complete RBBB pattern" (with QRS duration > 0.11s) does not necessarily reflect the existence of a total conduction block in the right branch. This pattern only indicates that the entire or major parts of both ventricles are activated by the impulse emerging from the left branch. Thus, a significant degree of conduction delay ("high-grade" or "incomplete RBBB") can produce a similar pattern.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

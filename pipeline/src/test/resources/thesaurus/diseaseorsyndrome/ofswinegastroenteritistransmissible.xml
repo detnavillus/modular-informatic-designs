@@ -1,0 +1,25 @@
+<Record>
+<Term>of Swine Gastroenteritis, Transmissible</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Coronavirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases/Gastroenteritis, Transmissible, of Swine</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections/Coronavirus Infections/Gastroenteritis, Transmissible, of Swine</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Coronavirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Gastroenteritis, Transmissible, of Swine</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Transmissible Porcine Gastroenteritides</Synonym>
+<Synonym>Porcine Transmissible Gastroenteritides</Synonym>
+<Synonym>Transmissible Porcine Gastroenteritis</Synonym>
+<Synonym>Swine Transmissible Gastroenteritis</Synonym>
+<Synonym>Transmissible Gastroenteritis of Swine</Synonym>
+<Synonym>Porcine Transmissible Gastroenteritis</Synonym>
+<Synonym>Swine Transmissible Gastroenteritides</Synonym>
+<Description>A condition of chronic gastroenteritis in adult pigs and fatal gastroenteritis in piglets caused by a CORONAVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

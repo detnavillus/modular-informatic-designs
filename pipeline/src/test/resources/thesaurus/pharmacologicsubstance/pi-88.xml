@@ -1,0 +1,21 @@
+<Record>
+<Term>PI-88</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/PI-88,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Angiogenesis Activator Inhibitor/PI-88</ClassificationPath>
+<BroaderTerm>Angiogenesis Activator Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>PI-88,</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>PI-88</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PI-88</Synonym>
+<Synonym>Phosphomannopentaose Sulfate</Synonym>
+<Description>A mixture of highly sulfated, monophosphorylated mannose oligosaccharides, derived from the extracellular phosphomannan of the yeast Pichia (Hansenula) holstii, with potential antiangiogenic activity. Heparanase inhibitor PI-88 inhibits the endo-beta-D-glucuronidase heparanase, which may interfere with the heparanase-mediated degradation of heparan-sulfate proteoglycans in extracellular matrices, an important step in the metastatic process. This agent may also bind with high affinity to the heparan sulfate-binding domains of vascular endothelial growth factor (VEGF) and fibroblast growth factors 1 and 2, thereby reducing their functional activities and inhibiting VEGF and FGF stimulation of tumor angiogenesis. Increased heparanase activity has been implicated in tumor angiogenesis and metastasis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

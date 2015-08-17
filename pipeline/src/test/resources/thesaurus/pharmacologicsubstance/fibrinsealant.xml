@@ -1,0 +1,20 @@
+<Record>
+<Term>Fibrin Sealant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Miscellaneous Adjuvant/Fibrin Sealant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fibrin Sealant</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Adjuvant</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Artiss</Synonym>
+<Synonym>Beriplast P</Synonym>
+<Synonym>Fibrin Sealant</Synonym>
+<Synonym>TISSEEL</Synonym>
+<Synonym>TISSEEL VH Kit</Synonym>
+<Synonym>fibrin sealant</Synonym>
+<Description>A plasma-derived fibrin biomatrix preparation consisting of two separate solutions that are combined on application. The sealer protein solution contains clottable human fibrinogen and bovine aprotinin, a fibrinolysis inhibitor; the thrombin solution contains human thrombin and calcium chloride. When the solutions are combined, a clot is formed, reproducing the final stages of the coagulation cascade.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

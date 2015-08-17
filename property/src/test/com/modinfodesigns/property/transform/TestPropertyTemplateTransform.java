@@ -26,7 +26,7 @@ public class TestPropertyTemplateTransform extends TestCase
     dobj.setProperty( new StringProperty( "condition", "hysterical" ));
         
     ptt.transformPropertyHolder( dobj );
-    System.out.println( dobj.getValue( ) );
+    assertEquals( dobj.getValue( ), "{\"condition\":\"hysterical\",\"system\":\"Cable News Network\",\"transformed\":\"This is a test of the Cable News Network. Shouldn't you be hysterical now?\"}" );
         
     TemplateFunctionProperty tfp = new TemplateFunctionProperty( );
     tfp.setName( "formletter" );

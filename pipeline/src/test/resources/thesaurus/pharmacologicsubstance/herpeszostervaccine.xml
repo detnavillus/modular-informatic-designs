@@ -1,0 +1,20 @@
+<Record>
+<Term>Herpes Zoster Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Chickenpox Vaccine</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Herpesvirus Vaccines/Chickenpox Vaccine/Herpes Zoster Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Herpesvirus Vaccines</BroaderTerm>
+<BroaderTerm>Herpes Zoster Vaccine</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Chickenpox Vaccine</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Herpes Zoster Vaccine</Synonym>
+<Synonym>Zoster Vaccine</Synonym>
+<Synonym>Shingles Vaccine</Synonym>
+<Synonym>Zostavax</Synonym>
+<Description>An attenuated vaccine used to prevent and/or treat HERPES ZOSTER, a disease caused by HUMAN HERPESVIRUS 3.</Description>
+<Source>MeSH</Source>
+</Record>

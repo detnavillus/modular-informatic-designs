@@ -1,0 +1,15 @@
+<Record>
+<Term>Monoclonal Antibody CHIR-12.12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody CHIR-12.12</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody CHIR-12.12</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Monoclonal Antibody CHIR-12.12</Synonym>
+<Description>A monoclonal antibody directed against the B-cell surface antigen CD40 with potential antineoplastic activity. Monoclonal antibody CHIR-12.12 binds to and inhibits CD40, thereby inhibiting CD40 ligand-induced cell proliferation and triggering cell lysis via antibody-dependent cellular cytotoxicity (ADCC) in cells overexpressing CD40. CD40, an integral membrane protein found on the surface of B lymphocytes, is a member of the tumor necrosis factor receptor superfamily and is highly expressed in a number of B-cell malignancies.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

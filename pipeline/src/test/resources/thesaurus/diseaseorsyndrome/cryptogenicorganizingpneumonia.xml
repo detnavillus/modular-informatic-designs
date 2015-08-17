@@ -1,0 +1,38 @@
+<Record>
+<Term>Cryptogenic Organizing Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumonia</ParentTerm>
+<ParentTerm>Bronchiolitis Obliterans</ParentTerm>
+<ParentTerm>Idiopathic Interstitial Pneumonias</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Idiopathic Interstitial Pneumonias/Cryptogenic Organizing Pneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Bronchitis/Bronchiolitis/Bronchiolitis Obliterans/Cryptogenic Organizing Pneumonia</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchitis/Bronchiolitis/Bronchiolitis Obliterans/Cryptogenic Organizing Pneumonia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Cryptogenic Organizing Pneumonia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Bronchiolitis Obliterans</BroaderTerm>
+<BroaderTerm>Cryptogenic Organizing Pneumonia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchitis</BroaderTerm>
+<BroaderTerm>Idiopathic Interstitial Pneumonias</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchiolitis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>BOOP</Synonym>
+<Synonym>Bronchiolitis Obliterans Organizing Pneumonia</Synonym>
+<Synonym>Cryptogenic Organizing Pneumonias</Synonym>
+<Synonym>Cryptogenic Organizing Pneumonia</Synonym>
+<Description>A disease formerly considered a form of interstitial pneumonia. Its etiology is obscure but it may be associated with toxic fumes, infection, and connective tissue disease. Clinical symptoms include cough, dyspnea and influenza-like symptoms with the development of the usual interstitial pneumonia in many cases. Obstructive symptoms are limited to smokers. There are patchy polypoid masses of intra-alveolar granulation tissue in small airway lumina and alveolar ducts. "Organizing" refers to unresolved pneumonia (in which the alveolar exudate persists and eventually undergoes fibrosis) in which fibrous tissue forms in the alveoli.</Description>
+<Description>An interstitial lung disease of unknown etiology, occurring between 21-80 years of age. It is characterized by a dramatic onset of a "pneumonia-like" illness with cough, fever, malaise, fatigue, and weight loss. Pathological features include prominent interstitial inflammation without collagen fibrosis, diffuse fibroblastic foci, and no microscopic honeycomb change. There is excessive proliferation of granulation tissue within small airways and alveolar ducts.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

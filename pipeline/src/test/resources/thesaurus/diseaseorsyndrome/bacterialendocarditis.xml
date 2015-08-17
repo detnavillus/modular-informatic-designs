@@ -1,0 +1,24 @@
+<Record>
+<Term>Bacterial Endocarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ParentTerm>Cardiovascular Infections</ParentTerm>
+<ParentTerm>Endocarditis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Endocarditis/Endocarditis, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections/Endocarditis, Bacterial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections/Endocarditis, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Endocarditis, Bacterial</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Endocarditis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Endocarditis, Bacterial</BroaderTerm>
+<ChildTerm>Endocarditis, Subacute Bacterial</ChildTerm>
+<Synonym>Bacterial Endocarditides</Synonym>
+<Synonym>Bacterial Endocarditis</Synonym>
+<Description>Inflammation of the ENDOCARDIUM caused by BACTERIA that entered the bloodstream. The strains of bacteria vary with predisposing factors, such as CONGENITAL HEART DEFECTS; HEART VALVE DISEASES; HEART VALVE PROSTHESIS IMPLANTATION; or intravenous drug use.</Description>
+<Source>MeSH</Source>
+</Record>

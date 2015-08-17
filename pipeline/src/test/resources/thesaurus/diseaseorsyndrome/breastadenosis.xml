@@ -1,0 +1,22 @@
+<Record>
+<Term>Breast Adenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Breast Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Breast Adenosis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Breast Adenosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Breast Apocrine Adenosis</ChildTerm>
+<ChildTerm>Breast Microglandular Adenosis</ChildTerm>
+<ChildTerm>Breast Sclerosing Adenosis</ChildTerm>
+<ChildTerm>Breast Adenomyoepithelial Adenosis</ChildTerm>
+<ChildTerm>Breast Blunt Duct Adenosis</ChildTerm>
+<Synonym>Adenosis of Breast</Synonym>
+<Synonym>Adenosis of the Breast</Synonym>
+<Synonym>Breast Adenosis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

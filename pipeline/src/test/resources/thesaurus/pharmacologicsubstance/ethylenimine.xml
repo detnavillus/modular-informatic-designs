@@ -1,0 +1,26 @@
+<Record>
+<Term>Ethylenimine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Ethylenimine Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Ethylenimine Compound/Ethylenimine</ClassificationPath>
+<BroaderTerm>Ethylenimine Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ethylenimine</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Aminoethylene</Synonym>
+<Synonym>Azacyclopropane</Synonym>
+<Synonym>Azirane</Synonym>
+<Synonym>Aziridine</Synonym>
+<Synonym>Dimethyleneimine</Synonym>
+<Synonym>Dimethylenimine</Synonym>
+<Synonym>Ethyleneimine</Synonym>
+<Synonym>Ethylenimine</Synonym>
+<Synonym>Ethylimine</Synonym>
+<Description>A monofunctional alkylating agent with potential antineoplastic activity.  Reacting with DNA mainly at guanine and adenine residues, ethylenimine alkylates DNA, thereby producing DNA interstrand crosslinks and DNA breaks, and interfering with DNA replication and cell division. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

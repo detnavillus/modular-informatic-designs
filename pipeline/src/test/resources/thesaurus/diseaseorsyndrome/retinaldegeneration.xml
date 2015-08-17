@@ -1,0 +1,30 @@
+<Record>
+<Term>Retinal Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Retinal Disorder</ParentTerm>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Non-Neoplastic Retinal Disorder/Retinal Degeneration</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Retinal Disorder</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Macular Degeneration</ChildTerm>
+<ChildTerm>Peripheral Retinal Degeneration</ChildTerm>
+<ChildTerm>Retinoschisis</ChildTerm>
+<ChildTerm>Retinal Drusen</ChildTerm>
+<ChildTerm>Retinitis Pigmentosa</ChildTerm>
+<Synonym>Retina, Degeneration Of</Synonym>
+<Synonym>Degeneration of retina</Synonym>
+<Synonym>Retinal Degeneration</Synonym>
+<Synonym>Retinal Degenerations</Synonym>
+<Description>A retrogressive pathological change in the retina, focal or generalized, caused by genetic defects, inflammation, trauma, vascular disease, or aging. Degeneration affecting predominantly the macula lutea of the retina is MACULAR DEGENERATION. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p304)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

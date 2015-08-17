@@ -1,0 +1,24 @@
+<Record>
+<Term>Gallbladder Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Gallbladder Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Liver and Biliary Tract Disorder/Biliary Tract Disorder/Gallbladder Disorder/Gallbladder Polyp</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gallbladder Polyp,</BroaderTerm>
+<BroaderTerm>Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Gallbladder Polyp</BroaderTerm>
+<BroaderTerm>Gallbladder Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Liver and Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Gallbladder Hyperplastic Polyp</ChildTerm>
+<Synonym>Gallbladder Polyp</Synonym>
+<Synonym>Polyp of Gallbladder</Synonym>
+<Synonym>Polyp of the Gallbladder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Proparacaine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Proparacaine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Proparacaine</ClassificationPath>
+<BroaderTerm>Proparacaine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Proparacaine Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ophthetic</Synonym>
+<Synonym>Kainair</Synonym>
+<Synonym>Ophthaine</Synonym>
+<Synonym>Benzoic Acid, 3-amino-4-propoxy-, 2-(diethylamino)ethyl Ester, Hydrochloride</Synonym>
+<Synonym>Keracaine</Synonym>
+<Synonym>2-(Diethylamino)ethyl 3-amino-4-propoxybenzoate Monohydrochloride</Synonym>
+<Synonym>PROPARACAINE HYDROCHLORIDE</Synonym>
+<Synonym>Proparacaine</Synonym>
+<Synonym>PROPARACAINE</Synonym>
+<Synonym>Proparacaine hydrochloride</Synonym>
+<Synonym>Alcaine</Synonym>
+<Synonym>Proparacaine Hydrochloride</Synonym>
+<Synonym>Paracaine</Synonym>
+<Description>The hydrochloride salt form of proparacaine, a benzoic acid derivative with local anesthetic property. Proparacaine hydrochloride stabilizes the neuronal membrane by binding to and inhibiting voltage-gated sodium channels, thereby inhibiting sodium ion influx required for the initiation and conduction of impulses within the neuronal cell, and resulting in a loss of sensation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

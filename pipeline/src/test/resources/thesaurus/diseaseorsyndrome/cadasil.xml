@@ -1,0 +1,29 @@
+<Record>
+<Term>CADASIL</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Cerebral Arterial Diseases</ParentTerm>
+<ParentTerm>Dementia, Vascular</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Dementia, Vascular/CADASIL</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Dementia, Vascular/CADASIL</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/CADASIL</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/CADASIL</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/CADASIL</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Dementia, Vascular</BroaderTerm>
+<BroaderTerm>CADASIL</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>CADASILM</Synonym>
+<Synonym>CADASIL</Synonym>
+<Description>A familial, cerebral arteriopathy mapped to chromosome 19q12, and characterized by the presence of granular deposits in small CEREBRAL ARTERIES producing ischemic STROKE; PSEUDOBULBAR PALSY; and multiple subcortical infarcts (CEREBRAL INFARCTION). CADASIL is an acronym for Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy. CADASIL differs from BINSWANGER DISEASE by the presence of MIGRAINE WITH AURA and usually by the lack of history of arterial HYPERTENSION. (From Bradley et al, Neurology in Clinical Practice, 2000, p1146)A subvariety of CADASIL characterized by the high frequency of MIGRAINE. The acronym stands for Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts, Leukoencephalopathy, and Migraine.</Description>
+<Source>MeSH</Source>
+</Record>

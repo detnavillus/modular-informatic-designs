@@ -1,0 +1,36 @@
+<Record>
+<Term>Hemorrhagic Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematologic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Bernard-Soulier Syndrome</ChildTerm>
+<ChildTerm>Hemophilia B</ChildTerm>
+<ChildTerm>Afibrinogenemia</ChildTerm>
+<ChildTerm>Hemostatic Disorders</ChildTerm>
+<ChildTerm>Disseminated Intravascular Coagulation</ChildTerm>
+<ChildTerm>Factor V Deficiency</ChildTerm>
+<ChildTerm>Factor VII Deficiency</ChildTerm>
+<ChildTerm>Factor X Deficiency</ChildTerm>
+<ChildTerm>Factor XI Deficiency</ChildTerm>
+<ChildTerm>Factor XII Deficiency</ChildTerm>
+<ChildTerm>Factor XIII Deficiency</ChildTerm>
+<ChildTerm>Platelet Storage Pool Deficiency</ChildTerm>
+<ChildTerm>Thrombasthenia</ChildTerm>
+<ChildTerm>Thrombocythemia, Essential</ChildTerm>
+<ChildTerm>Vitamin K Deficiency</ChildTerm>
+<ChildTerm>von Willebrand Diseases</ChildTerm>
+<ChildTerm>Waterhouse-Friderichsen Syndrome</ChildTerm>
+<ChildTerm>Wiskott-Aldrich Syndrome</ChildTerm>
+<ChildTerm>Purpura, Thrombocytopenic, Idiopathic</ChildTerm>
+<ChildTerm>Hemophilia A</ChildTerm>
+<ChildTerm>Hypoprothrombinemias</ChildTerm>
+<Synonym>Hemorrhagic Disorders</Synonym>
+<Synonym>Hemorrhagic Disorder</Synonym>
+<Synonym>Hemorrhagic Diathesis</Synonym>
+<Synonym>Hemorrhagic Diatheses</Synonym>
+<Description>Spontaneous or near spontaneous bleeding caused by a defect in clotting mechanisms (BLOOD COAGULATION DISORDERS) or another abnormality causing a structural flaw in the blood vessels (HEMOSTATIC DISORDERS).</Description>
+<Source>MeSH</Source>
+</Record>

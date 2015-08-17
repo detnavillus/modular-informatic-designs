@@ -1,0 +1,17 @@
+<Record>
+<Term>African Trypanosomiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Trypanosomiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Trypanosomiasis/Trypanosomiasis, African</ClassificationPath>
+<BroaderTerm>Euglenozoa Infections</BroaderTerm>
+<BroaderTerm>Trypanosomiasis, African</BroaderTerm>
+<BroaderTerm>Trypanosomiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>African Trypanosomiases</Synonym>
+<Synonym>African Trypanosomiasis</Synonym>
+<Synonym>African Sleeping Sickness</Synonym>
+<Synonym>Nagana</Synonym>
+<Description>A disease endemic among people and animals in Central Africa. It is caused by various species of trypanosomes, particularly T. gambiense and T. rhodesiense. Its second host is the tsetse fly. Involvement of the central nervous system produces "African sleeping sickness." Nagana is a rapidly fatal trypanosomiasis of horses and other animals.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Type 2 Diabetes Mellitus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Mellitus, Type 2</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Diabetes Mellitus/Type 2 Diabetes Mellitus</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Diabetes Mellitus, Type 2</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Type 2 Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus, Type 2</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<ChildTerm>Diabetes Mellitus, Lipoatrophic</ChildTerm>
+<Synonym>Type 2 DM</Synonym>
+<Synonym>MODY</Synonym>
+<Synonym>Type II Diabetes</Synonym>
+<Synonym>Type II Diabetes Mellitus</Synonym>
+<Synonym>Adult-Onset Diabetes Mellitus</Synonym>
+<Synonym>Maturity Onset Diabetes Mellitus</Synonym>
+<Synonym>Non-Insulin-Dependent Diabetes Mellitus</Synonym>
+<Synonym>Non-Insulin Dependent Diabetes</Synonym>
+<Synonym>Type 2 Diabetes Mellitus Non-Insulin Dependent</Synonym>
+<Synonym>Stable Diabetes Mellitus</Synonym>
+<Synonym>Type 2 Diabetes</Synonym>
+<Synonym>Type 2 Diabetes Mellitus</Synonym>
+<Synonym>Maturity-Onset Diabetes Mellitus</Synonym>
+<Synonym>Slow-Onset Diabetes Mellitus</Synonym>
+<Synonym>Non-Insulin Dependent Diabetes Mellitus</Synonym>
+<Synonym>Adult-Onset Diabetes</Synonym>
+<Synonym>Ketosis-Resistant Diabetes Mellitus</Synonym>
+<Synonym>NIDDM</Synonym>
+<Description>A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.</Description>
+<Description>A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

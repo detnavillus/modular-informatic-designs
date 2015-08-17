@@ -1,0 +1,41 @@
+<Record>
+<Term>Graft vs Host Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ParentTerm>Transplant-Related Disorder</ParentTerm>
+<ClassificationPath>Immune System Diseases/Graft vs Host Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Graft Versus Host Disease,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/Transplant-Related Disorder/Graft Versus Host Disease</ClassificationPath>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Transplant-Related Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Graft Versus Host Disease</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Graft vs Host Disease</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Graft Versus Host Disease,</BroaderTerm>
+<ChildTerm>Acute Graft Versus Host Disease</ChildTerm>
+<ChildTerm>Chronic Graft Versus Host Disease</ChildTerm>
+<ChildTerm>Intestinal Graft Versus Host Disease</ChildTerm>
+<Synonym>Graft Versus Host Disease</Synonym>
+<Synonym>Graft Vs. Host Disease</Synonym>
+<Synonym>graft-versus-host disease</Synonym>
+<Synonym>GVHD</Synonym>
+<Synonym>Graft vs Host Disease</Synonym>
+<Synonym>Homologous Wasting Disease</Synonym>
+<Synonym>Runt Disease</Synonym>
+<Synonym>Graft-Versus-Host Disease</Synonym>
+<Synonym>Graft-vs-Host Diseases</Synonym>
+<Synonym>Graft-Versus-Host Diseases</Synonym>
+<Synonym>Graft-Versus-Host-Disease</Synonym>
+<Synonym>Graft-vs-Host Disease</Synonym>
+<Description>An incompatibility reaction (which may be fatal) in a subject (host) of low immunological competence (deficient lymphoid tissue) who has been the recipient of immunologically competent lymphoid tissue from a donor who lacks at least one antigen possessed by the recipient host; the reaction, or disease, is the result of action of the transplanted cells against those host tissues that possess the antigen not possessed by the donor. Seen most commonly following bone marrow transplantation, acute disease is seen after 5-40 days and chronic disease weeks to months after transplantation, affecting, principally, the gastrointestinal tract, liver, and skin.</Description>
+<Description>The clinical entity characterized by anorexia, diarrhea, loss of hair, leukopenia, thrombocytopenia, growth retardation, and eventual death brought about by the GRAFT VS HOST REACTION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

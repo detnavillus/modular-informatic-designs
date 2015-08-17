@@ -1,0 +1,32 @@
+<Record>
+<Term>Antibacterial Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibacterial Agent</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibacterial Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Gentamicin Sulfate</ChildTerm>
+<ChildTerm>Bibrocathol</ChildTerm>
+<ChildTerm>Fusidate Sodium</ChildTerm>
+<ChildTerm>Fuzlocillin</ChildTerm>
+<ChildTerm>Gloximonam</ChildTerm>
+<ChildTerm>Fusidic Acid</ChildTerm>
+<ChildTerm>Sulfaloxic Acid</ChildTerm>
+<ChildTerm>Posizolid</ChildTerm>
+<ChildTerm>Xenygloxal</ChildTerm>
+<ChildTerm>Ticarcillin Disodium</ChildTerm>
+<ChildTerm>Erythromycin Gluceptate</ChildTerm>
+<ChildTerm>Cloxyquin</ChildTerm>
+<ChildTerm>Vancomycin Hydrochloride</ChildTerm>
+<ChildTerm>Colistimethate</ChildTerm>
+<ChildTerm>Brodimoprim</ChildTerm>
+<ChildTerm>Iclaprim</ChildTerm>
+<ChildTerm>Nitrofurantoin Sodium</ChildTerm>
+<Synonym>Antibacterial Agent</Synonym>
+<Synonym>Antimicrobial Agent</Synonym>
+<Description>A family of substances capable of destroying or inhibiting the growth of microorganisms.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

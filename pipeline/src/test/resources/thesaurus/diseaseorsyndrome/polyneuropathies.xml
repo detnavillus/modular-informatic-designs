@@ -1,0 +1,31 @@
+<Record>
+<Term>Polyneuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies</ClassificationPath>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Hereditary Sensory and Motor Neuropathy</ChildTerm>
+<ChildTerm>Hereditary Sensory and Autonomic Neuropathies</ChildTerm>
+<ChildTerm>Polyradiculoneuropathy</ChildTerm>
+<ChildTerm>Tangier Disease</ChildTerm>
+<ChildTerm>POEMS Syndrome</ChildTerm>
+<ChildTerm>Alcoholic Neuropathy</ChildTerm>
+<ChildTerm>Paraneoplastic Polyneuropathy</ChildTerm>
+<Synonym>Polyneuropathies</Synonym>
+<Synonym>Polyneuropathy</Synonym>
+<Synonym>Motor Polyneuropathies</Synonym>
+<Synonym>Motor Polyneuropathy</Synonym>
+<Synonym>Familial Polyneuropathies</Synonym>
+<Synonym>Familial Polyneuropathy</Synonym>
+<Synonym>Inherited Polyneuropathies</Synonym>
+<Synonym>Inherited Polyneuropathy</Synonym>
+<Synonym>Acquired Polyneuropathies</Synonym>
+<Synonym>Acquired Polyneuropathy</Synonym>
+<Synonym>Critical Illness Polyneuropathies</Synonym>
+<Synonym>Critical Illness Polyneuropathy</Synonym>
+<Description>Diseases of multiple peripheral nerves simultaneously.  Polyneuropathies usually are characterized by symmetrical, bilateral distal motor and sensory impairment with a graded increase in severity distally. The pathological processes affecting peripheral nerves include degeneration of the axon, myelin or both. The various forms of polyneuropathy are categorized by the type of nerve affected (e.g., sensory, motor, or autonomic), by the distribution of nerve injury (e.g., distal vs. proximal), by nerve component primarily affected (e.g., demyelinating vs. axonal), by etiology, or by pattern of inheritance.</Description>
+<Source>MeSH</Source>
+</Record>

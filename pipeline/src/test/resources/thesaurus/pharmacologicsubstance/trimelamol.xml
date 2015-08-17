@@ -1,0 +1,20 @@
+<Record>
+<Term>Trimelamol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Ethylenimine Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Ethylenimine Compound/Trimelamol</ClassificationPath>
+<BroaderTerm>Ethylenimine Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Trimelamol</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BRN 4261541</Synonym>
+<Synonym>Methanol, ((s-triazine-2,4,6-triyl)trimethyltrinitrilo)tri-</Synonym>
+<Synonym>Trimelamol</Synonym>
+<Synonym>Trimethyloltrimethylmelamine</Synonym>
+<Description>A synthetic derivative of trimethylmelamine with antineoplastic properties.  An analogue of siderophores (microbial iron chelators), trimelamol induces the formation of a reactive iminium species which may crosslink DNA. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

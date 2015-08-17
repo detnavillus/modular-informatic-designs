@@ -1,0 +1,17 @@
+<Record>
+<Term>DNA Repair Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/DNA Repair Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>DNA Repair Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nijmegen Breakage Syndrome</ChildTerm>
+<ChildTerm>Fanconi Anemia</ChildTerm>
+<ChildTerm>Xeroderma Pigmentosum</ChildTerm>
+<Synonym>DNA Repair Deficiency</Synonym>
+<Synonym>DNA Repair Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

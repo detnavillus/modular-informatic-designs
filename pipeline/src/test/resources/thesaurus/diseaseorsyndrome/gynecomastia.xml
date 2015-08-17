@@ -1,0 +1,40 @@
+<Record>
+<Term>Gynecomastia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Sexual and Reproductive Function</ParentTerm>
+<ParentTerm>Breast Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Breast Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Gynecomastia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Sexual and Reproductive Function/Gynecomastia Adverse Event</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases/Gynecomastia</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Gynecomastia Adverse Event</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Gynecomastia</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Sexual and Reproductive Function</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Gynecomastia</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Gynecomastia</ChildTerm>
+<Synonym>Adolescent Gynecomastia</Synonym>
+<Synonym>Newborn Gynecomastia</Synonym>
+<Synonym>Gynecomastia Adverse Event</Synonym>
+<Synonym>Male Breast Enlargement</Synonym>
+<Synonym>Infant Gynecomastia</Synonym>
+<Synonym>Gynecomastia</Synonym>
+<Description>Excessive development of the breasts in males; usually the result of hormonal imbalance or treatment with certain drugs.</Description>
+<Description>Enlargement of the BREAST in the males, caused by an excess of ESTROGENS. Physiological gynecomastia is normally observed in NEWBORNS; ADOLESCENT; and AGING males.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

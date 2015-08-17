@@ -1,0 +1,18 @@
+<Record>
+<Term>DL-5-Hydroxytryptophan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Amino Acid Derivative</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid Derivative/DL-5-Hydroxytryptophan</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Amino Acid Derivative</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>DL-5-Hydroxytryptophan</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>5-HTP</Synonym>
+<Synonym>5-HYDROXY TRYPTOPHAN,DL-</Synonym>
+<Synonym>DL-5-Hydroxytryptophan</Synonym>
+<Description>A racemic mixture of 5-hydroxytryptophan (5-HTP), a precursor to the neurotransmitter serotonin with anti-depressant, analgesic and appetite-suppressant activities. DL-5-HTP is decarboxylated to serotonin by aromatic-L-amino-acid decarboxylase, and results in increased serotonin levels within the brain. Mediated through serotonin receptors, elevated levels of serotonin causes increased serotonin neurotransmissions, hence leading to release of depression, pain and appetite.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

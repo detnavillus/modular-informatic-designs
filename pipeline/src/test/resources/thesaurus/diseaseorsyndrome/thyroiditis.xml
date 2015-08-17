@@ -1,0 +1,35 @@
+<Record>
+<Term>Thyroiditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroiditis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Thyroiditis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Thyroiditis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroiditis,</BroaderTerm>
+<BroaderTerm>Thyroiditis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Subacute Thyroiditis</ChildTerm>
+<ChildTerm>Riedel Fibrosing Thyroiditis</ChildTerm>
+<ChildTerm>Thyroiditis, Subacute</ChildTerm>
+<ChildTerm>Thyroiditis, Suppurative</ChildTerm>
+<ChildTerm>Lymphocytic Thyroiditis</ChildTerm>
+<ChildTerm>Thyroiditis, Autoimmune</ChildTerm>
+<Synonym>Thyroiditis</Synonym>
+<Synonym>Thyroiditides</Synonym>
+<Description>Inflammatory diseases of the THYROID GLAND. Thyroiditis can be classified into acute (THYROIDITIS, SUPPURATIVE), subacute (granulomatous and lymphocytic), chronic fibrous (Riedel's), chronic lymphocytic (HASHIMOTO DISEASE), transient (POSTPARTUM THYROIDITIS), and other AUTOIMMUNE THYROIDITIS subtypes.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Flaviviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Pestivirus Infections</ChildTerm>
+<ChildTerm>Flavivirus Infections</ChildTerm>
+<ChildTerm>Hepatitis C</ChildTerm>
+<Synonym>Flaviviridae Infections</Synonym>
+<Synonym>Flaviviridae Infection</Synonym>
+<Description>Infections with viruses of the family FLAVIVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

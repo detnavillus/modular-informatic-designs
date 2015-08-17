@@ -1,0 +1,27 @@
+<Record>
+<Term>Filarial Elephantiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Filariasis</ParentTerm>
+<ParentTerm>Elephantiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Spirurida Infections/Filariasis/Elephantiasis, Filarial</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphedema/Elephantiasis/Elephantiasis, Filarial</ClassificationPath>
+<BroaderTerm>Filariasis</BroaderTerm>
+<BroaderTerm>Spirurida Infections</BroaderTerm>
+<BroaderTerm>Elephantiasis</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Elephantiasis, Filarial</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Lymphedema</BroaderTerm>
+<Synonym>Lymphatic Filariases</Synonym>
+<Synonym>Filarial Elephantiases</Synonym>
+<Synonym>Bancroftian Elephantiasis</Synonym>
+<Synonym>Bancroftian Elephantiases</Synonym>
+<Synonym>Lymphatic Filariasis</Synonym>
+<Synonym>Filarial Elephantiasis</Synonym>
+<Description>Parasitic infestation of the human lymphatic system by WUCHERERIA BANCROFTI or BRUGIA MALAYI. It is also called lymphatic filariasis.</Description>
+<Source>MeSH</Source>
+</Record>

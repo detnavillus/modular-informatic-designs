@@ -1,0 +1,24 @@
+<Record>
+<Term>Adams-Stokes Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Heart Block/Adams-Stokes Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Heart Block/Adams-Stokes Syndrome</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Adams-Stokes Syndrome</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<Synonym>Adam Stokes Attacks</Synonym>
+<Synonym>Adams-Stokes Syndrome</Synonym>
+<Synonym>Stokes Adams Syndrome</Synonym>
+<Synonym>Adam-Stokes Attacks</Synonym>
+<Synonym>Stokes-Adams Attacks</Synonym>
+<Synonym>Adams Stokes Syndrome</Synonym>
+<Synonym>Stokes Adams Attacks</Synonym>
+<Synonym>Stokes-Adams Syndrome</Synonym>
+<Description>A condition of fainting spells caused by heart block, often an atrioventricular block, that leads to BRADYCARDIA and drop in CARDIAC OUTPUT. When the cardiac output becomes too low, the patient faints (SYNCOPE). In some cases, the syncope attacks are transient and in others cases repetitive and persistent.</Description>
+<Source>MeSH</Source>
+</Record>

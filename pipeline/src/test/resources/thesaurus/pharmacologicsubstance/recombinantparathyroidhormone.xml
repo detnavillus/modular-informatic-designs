@@ -1,0 +1,14 @@
+<Record>
+<Term>Recombinant Parathyroid Hormone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Hormone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Recombinant Parathyroid Hormone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Parathyroid Hormone</BroaderTerm>
+<Synonym>Recombinant Parathyroid Hormone</Synonym>
+<Description>A recombinant therapeutic agent that is identical or similar to an 84-amino-acid polypeptide produced by the parathyroid gland which functions to maintain a constant concentration of calcium ions (Ca2+) in the extracellular fluid.  In target tissues, parathyroid hormone (PTH) binds to and activates the PTH receptor (PTHR), a cell surface G protein-coupled receptor; there are two types of receptors, PTHR1 found in bone and the kidney and PTHR2 found primarily in the central nervous system (CNS), pancreas, testis, and placenta. Activation of PTHRs results in the activation of adenylyl cyclase and phospholipase C in target tissue cells, which, depending upon the specific target tissue, results in the enhancement of intestinal Ca2+ absorption, mobilization of bone Ca2+, and renal Ca2+ reabsorption.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

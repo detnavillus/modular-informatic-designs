@@ -1,0 +1,24 @@
+<Record>
+<Term>Trismus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Spasm</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neuromuscular Manifestations/Spasm/Trismus</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neuromuscular Manifestations/Spasm/Trismus</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Spasm</BroaderTerm>
+<BroaderTerm>Neuromuscular Manifestations</BroaderTerm>
+<BroaderTerm>Trismus</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Masseter Muscle Spasm</Synonym>
+<Synonym>Masseter Muscle Spasms</Synonym>
+<Synonym>Masseter Spasm</Synonym>
+<Synonym>Trismus</Synonym>
+<Synonym>Lockjaw</Synonym>
+<Synonym>Masseter Spasms</Synonym>
+<Synonym>Lock Jaw</Synonym>
+<Description>Spasmodic contraction of the masseter muscle resulting in forceful jaw closure. This may be seen with a variety of diseases, including TETANUS, as a complication of radiation therapy, trauma, or in association with neoplastic conditions.</Description>
+<Source>MeSH</Source>
+</Record>

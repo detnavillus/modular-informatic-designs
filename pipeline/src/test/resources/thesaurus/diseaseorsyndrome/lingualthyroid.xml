@@ -1,0 +1,18 @@
+<Record>
+<Term>Lingual Thyroid</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Dysgenesis</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroid Dysgenesis/Lingual Thyroid</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Thyroid Dysgenesis/Lingual Thyroid</ClassificationPath>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Lingual Thyroid</BroaderTerm>
+<BroaderTerm>Thyroid Dysgenesis</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Lingual Goiter</ChildTerm>
+<Synonym>Lingual Thyroids</Synonym>
+<Synonym>Lingual Thyroid</Synonym>
+<Description>A condition characterized by the presence of rudimentary THYROID tissue at the base of the TONGUE. It is due to failed embryonic development and migration of thyroid tissue to its normal location. The lingual thyroid usually cannot maintain adequate hormone production thereby resulting in HYPOTHYROIDISM.</Description>
+<Source>MeSH</Source>
+</Record>

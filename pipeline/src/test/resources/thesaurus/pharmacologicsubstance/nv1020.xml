@@ -1,0 +1,16 @@
+<Record>
+<Term>NV1020</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/NV1020</ClassificationPath>
+<BroaderTerm>NV1020</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>NV1020</Synonym>
+<Description>A genetically engineered oncolytic virus with potential antineoplastic property. NV1020 is constructed from the herpes simplex virus 1 (HSV-1) by the deletion of a single copy of the gamma (1)34.5 gene and the substitution of the UL23 region of the thymidine kinase (tk) gene with a DNA fragment from HSV-2, thereby resulting in a replication-competent, attenuated virus. This modified virus preferentially transfects rapidly dividing cells, which causes cell lysis in tumor cells. NV1020 has shown reduced virulence against normal tissues and a decreased neurovirulence in comparison with some other modified HSV strains.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

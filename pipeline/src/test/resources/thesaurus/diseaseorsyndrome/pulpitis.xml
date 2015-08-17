@@ -1,0 +1,27 @@
+<Record>
+<Term>Pulpitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Oral Cavity Finding</ParentTerm>
+<ParentTerm>Dental Pulp Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Pulp Diseases/Pulpitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Head and Neck Finding/Oral Cavity Finding/Pulpitis</ClassificationPath>
+<BroaderTerm>Oral Cavity Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Pulp Diseases</BroaderTerm>
+<BroaderTerm>Head and Neck Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Pulpitis</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Endodontic Inflammations</Synonym>
+<Synonym>Pulpitides</Synonym>
+<Synonym>Pulpitis</Synonym>
+<Synonym>Endodontic Inflammation</Synonym>
+<Description>Inflammation of the dental pulp.</Description>
+<Description>Inflammation of the DENTAL PULP, usually due to bacterial infection in dental caries, tooth fracture, or other conditions causing exposure of the pulp to bacterial invasion. Chemical irritants, thermal factors, hyperemic changes, and other factors may also cause pulpitis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

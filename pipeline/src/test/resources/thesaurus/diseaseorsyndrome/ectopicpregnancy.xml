@@ -1,0 +1,29 @@
+<Record>
+<Term>Ectopic Pregnancy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Disorder</ParentTerm>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Pregnancy Disorder/Ectopic Pregnancy</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy, Ectopic</ClassificationPath>
+<BroaderTerm>Pregnancy, Ectopic</BroaderTerm>
+<BroaderTerm>Pregnancy Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Ectopic Pregnancy</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pregnancy, Tubal</ChildTerm>
+<ChildTerm>Pregnancy, Abdominal</ChildTerm>
+<Synonym>Ovarian Pregnancy</Synonym>
+<Synonym>Pregnancy, ectopic</Synonym>
+<Synonym>Ectopic Pregnancies</Synonym>
+<Synonym>Ectopic Pregnancy</Synonym>
+<Synonym>Ovarian Pregnancies</Synonym>
+<Description>A potentially life-threatening condition in which the EMBRYO, MAMMALIAN implants outside the cavity of the UTERUS. Most ectopic pregnancies (>96%) occur in the FALLOPIAN TUBES, known as TUBAL PREGNANCY. They can be in other locations, such as UTERINE CERVIX; OVARY; and abdominal cavity (PREGNANCY, ABDOMINAL).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

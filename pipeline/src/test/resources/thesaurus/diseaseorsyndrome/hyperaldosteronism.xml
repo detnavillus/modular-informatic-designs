@@ -1,0 +1,17 @@
+<Record>
+<Term>Hyperaldosteronism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenocortical Hyperfunction</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenocortical Hyperfunction/Hyperaldosteronism</ClassificationPath>
+<BroaderTerm>Adrenocortical Hyperfunction</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hyperaldosteronism</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<ChildTerm>Bartter Syndrome</ChildTerm>
+<Synonym>Hyperaldosteronism</Synonym>
+<Synonym>Aldosteronism</Synonym>
+<Synonym>Conn Syndrome</Synonym>
+<Synonym>Primary Hyperaldosteronism</Synonym>
+<Description>A condition caused by the overproduction of ALDOSTERONE. It is characterized by sodium retention and potassium excretion with resultant HYPERTENSION and HYPOKALEMIA.Primary hyperaldosteronism caused by the excess production of ALDOSTERONE by an ADENOMA of the ZONA GLOMERULOSA or CONN ADENOMA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Tyrphostins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Benzylidene Compounds</ParentTerm>
+<ParentTerm>Quinoxalines</ParentTerm>
+<ParentTerm>Nitriles</ParentTerm>
+<ClassificationPath>Organic Chemicals/Hydrocarbons/Hydrocarbons, Cyclic/Hydrocarbons, Aromatic/Benzene Derivatives/Benzylidene Compounds/Tyrphostins</ClassificationPath>
+<ClassificationPath>Heterocyclic Compounds/Heterocyclic Compounds, 2-Ring/Quinoxalines/Tyrphostins</ClassificationPath>
+<ClassificationPath>Organic Chemicals/Nitriles/Tyrphostins</ClassificationPath>
+<BroaderTerm>Hydrocarbons, Aromatic</BroaderTerm>
+<BroaderTerm>Benzene Derivatives</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds, 2-Ring</BroaderTerm>
+<BroaderTerm>Tyrphostins</BroaderTerm>
+<BroaderTerm>Organic Chemicals</BroaderTerm>
+<BroaderTerm>Heterocyclic Compounds</BroaderTerm>
+<BroaderTerm>Benzylidene Compounds</BroaderTerm>
+<BroaderTerm>Quinoxalines</BroaderTerm>
+<BroaderTerm>Nitriles</BroaderTerm>
+<BroaderTerm>Hydrocarbons</BroaderTerm>
+<BroaderTerm>Hydrocarbons, Cyclic</BroaderTerm>
+<Synonym>Tyrphostins</Synonym>
+<Description>A family of synthetic protein tyrosine kinase inhibitors. They selectively inhibit receptor autophosphorylation and are used to study receptor function.</Description>
+<Source>MeSH</Source>
+</Record>

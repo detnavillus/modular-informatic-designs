@@ -1,0 +1,15 @@
+<Record>
+<Term>LY573636</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/LY573636</ClassificationPath>
+<BroaderTerm>LY573636</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>LY573636</Synonym>
+<Synonym>N-(2,4-Dichlorobenzoyl)-5-bromothiophene-2-sulfonamide</Synonym>
+<Description>A sulfonamide compound with potential antiproliferative activity. LY573636 may have mechanisms of action similar to those of other sulfonamide derivatives. In combination with an angiogenesis inhibitor, LY573636 may exert potentially synergistic antiangiogenic effects, resulting in inhibition of tumor angiogenesis and tumor cell proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

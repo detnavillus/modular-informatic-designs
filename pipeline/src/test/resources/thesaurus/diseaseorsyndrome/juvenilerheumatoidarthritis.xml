@@ -1,0 +1,43 @@
+<Record>
+<Term>Juvenile Rheumatoid Arthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rheumatoid Arthritis</ParentTerm>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Arthritis, Juvenile Rheumatoid</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Arthritis, Juvenile Rheumatoid</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Arthritis, Juvenile Rheumatoid</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Rheumatoid Arthritis/Juvenile Rheumatoid Arthritis</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Arthritis, Rheumatoid/Arthritis, Juvenile Rheumatoid</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Arthritis, Juvenile Rheumatoid</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Rheumatoid Arthritis</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<BroaderTerm>Juvenile Rheumatoid Arthritis</BroaderTerm>
+<Synonym>Juvenile-Onset Still's Disease</Synonym>
+<Synonym>Juvenile-Onset Stills Disease</Synonym>
+<Synonym>Juvenile Chronic Arthritis</Synonym>
+<Synonym>Juvenile-Onset Still Disease</Synonym>
+<Synonym>Juvenile Idiopathic Arthritides</Synonym>
+<Synonym>Juvenile Idiopathic Arthritis</Synonym>
+<Synonym>Juvenile Onset Still Disease</Synonym>
+<Synonym>Juvenile Rheumatoid Arthritis</Synonym>
+<Synonym>Juvenile Onset Stills Disease</Synonym>
+<Description>Rheumatoid arthritis of children occurring in three major subtypes defined by the symptoms present during the first six months following onset: systemic-onset (Still's Disease, Juvenile-Onset), polyarticular-onset, and pauciarticular-onset. Adult-onset cases of Still's disease (STILL'S DISEASE, ADULT-ONSET) are also known. Only one subtype of juvenile rheumatoid arthritis (polyarticular-onset, rheumatoid factor-positive) clinically resembles adult rheumatoid arthritis and is considered its childhood equivalent.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

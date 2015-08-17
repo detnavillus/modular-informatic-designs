@@ -1,0 +1,23 @@
+<Record>
+<Term>Spondylitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Infectious</ParentTerm>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious/Spondylitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious/Spondylitis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis, Spinal</ChildTerm>
+<ChildTerm>Spondylarthritis</ChildTerm>
+<ChildTerm>Discitis</ChildTerm>
+<Synonym>Spondylitis</Synonym>
+<Synonym>Spondylitides</Synonym>
+<Description>Inflammation of the SPINE. This includes both arthritic and non-arthritic conditions.</Description>
+<Source>MeSH</Source>
+</Record>

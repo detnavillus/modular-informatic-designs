@@ -1,0 +1,26 @@
+<Record>
+<Term>Non-Neoplastic Hepatic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Liver and Biliary Tract Disorder/Hepatic Disorder/Non-Neoplastic Hepatic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder,</BroaderTerm>
+<BroaderTerm>Liver and Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<ChildTerm>Alcoholic Liver Disease</ChildTerm>
+<ChildTerm>Hepatitis</ChildTerm>
+<ChildTerm>Hepatic Failure</ChildTerm>
+<ChildTerm>Cirrhosis</ChildTerm>
+<Synonym>Non-Neoplastic Hepatic Disease</Synonym>
+<Synonym>Non-Neoplastic Hepatic Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

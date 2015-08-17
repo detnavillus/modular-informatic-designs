@@ -1,0 +1,17 @@
+<Record>
+<Term>Proliferative Change of the Rat Respiratory System</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rat Proliferative Change by Location</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Rat Histopathology Diagnoses for Proliferative Changes/Rat Proliferative Change by Location/Proliferative Change of the Rat Respiratory System</ClassificationPath>
+<BroaderTerm>Proliferative Change of the Rat Respiratory System</BroaderTerm>
+<BroaderTerm>Rat Proliferative Change by Location</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Rat Histopathology Diagnoses for Proliferative Changes</BroaderTerm>
+<ChildTerm>Rat Respiratory Epithelial Metaplasia</ChildTerm>
+<ChildTerm>Rat Goblet Cell Metaplasia</ChildTerm>
+<ChildTerm>Rat Respiratory System Neoplasms</ChildTerm>
+<Synonym>Proliferative Change of the Rat Respiratory System</Synonym>
+<Synonym>Rat Respiratory System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

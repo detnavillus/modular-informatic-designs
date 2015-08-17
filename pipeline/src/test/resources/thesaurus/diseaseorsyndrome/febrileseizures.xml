@@ -1,0 +1,29 @@
+<Record>
+<Term>Febrile Seizures</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Seizures, Febrile</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Seizures, Febrile</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Febrile Seizure</Synonym>
+<Synonym>Febrile Convulsion Seizure</Synonym>
+<Synonym>Febrile Convulsion Seizures</Synonym>
+<Synonym>Febrile Fit</Synonym>
+<Synonym>Febrile Fits</Synonym>
+<Synonym>Pyrexial Seizure</Synonym>
+<Synonym>Pyrexial Seizures</Synonym>
+<Synonym>Fever Convulsion</Synonym>
+<Synonym>Fever Convulsions</Synonym>
+<Synonym>Fever Seizure</Synonym>
+<Synonym>Fever Seizures</Synonym>
+<Synonym>Pyrexial Convulsion</Synonym>
+<Synonym>Pyrexial Convulsions</Synonym>
+<Synonym>Febrile Convulsion</Synonym>
+<Synonym>Febrile Convulsions</Synonym>
+<Synonym>Febrile Seizures</Synonym>
+<Description>Seizures that occur during a febrile episode. It is a common condition, affecting 2-5% of children aged 3 months to five years. An autosomal dominant pattern of inheritance has been identified in some families. The majority are simple febrile seizures (generally defined as generalized onset, single seizures with a duration of less than 30 minutes). Complex febrile seizures are characterized by focal onset, duration greater than 30 minutes, and/or more than one seizure in a 24 hour period. The likelihood of developing epilepsy (i.e., a nonfebrile seizure disorder) following simple febrile seizures is low. Complex febrile seizures are associated with a moderately increased incidence of epilepsy. (From Menkes, Textbook of Child Neurology, 5th ed, p784)</Description>
+<Source>MeSH</Source>
+</Record>

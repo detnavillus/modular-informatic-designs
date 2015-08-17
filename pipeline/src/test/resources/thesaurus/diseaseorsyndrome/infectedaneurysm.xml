@@ -1,0 +1,24 @@
+<Record>
+<Term>Infected Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Aneurysm</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Aneurysm, Infected</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Aneurysm, Infected</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Aneurysm, Infected</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Infected Aneurysm</Synonym>
+<Synonym>Fungal Aneurysm</Synonym>
+<Synonym>Infected Aneurysms</Synonym>
+<Synonym>Bacterial Aneurysms</Synonym>
+<Synonym>Bacterial Aneurysm</Synonym>
+<Synonym>Mycotic Aneurysms</Synonym>
+<Synonym>Fungal Aneurysms</Synonym>
+<Synonym>Mycotic Aneurysm</Synonym>
+<Description>Aneurysm due to growth of microorganisms in the arterial wall, or infection arising within preexisting arteriosclerotic aneurysms.</Description>
+<Source>MeSH</Source>
+</Record>

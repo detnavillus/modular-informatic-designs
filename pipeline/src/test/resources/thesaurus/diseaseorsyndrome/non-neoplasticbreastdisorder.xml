@@ -1,0 +1,31 @@
+<Record>
+<Term>Non-Neoplastic Breast Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Breast Disorder/Non-Neoplastic Breast Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder,</BroaderTerm>
+<BroaderTerm>Breast Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nipple Ulceration</ChildTerm>
+<ChildTerm>Mammary Duct Ectasia</ChildTerm>
+<ChildTerm>Breast Hypertrophy</ChildTerm>
+<ChildTerm>Breast Fibrocystic Change</ChildTerm>
+<ChildTerm>Breast Adenosis</ChildTerm>
+<ChildTerm>Breast Fat Necrosis</ChildTerm>
+<ChildTerm>Galactocele</ChildTerm>
+<ChildTerm>Gynecomastia</ChildTerm>
+<ChildTerm>Mastitis</ChildTerm>
+<ChildTerm>Breast Hamartoma</ChildTerm>
+<Synonym>Non-Neoplastic Breast Disease</Synonym>
+<Synonym>Non-Neoplastic Breast Disorder</Synonym>
+<Synonym>Non-Neoplastic Disease of Breast</Synonym>
+<Synonym>Non-Neoplastic Disease of the Breast</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

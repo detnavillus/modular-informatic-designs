@@ -1,0 +1,16 @@
+<Record>
+<Term>Lactic Acid, L-</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Industrial Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Lactic Acid, L-</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Lactic Acid, L-</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-Hydroxypropanoic Acid</Synonym>
+<Synonym>LACTIC ACID, L-</Synonym>
+<Synonym>Lactic Acid, L-</Synonym>
+<Synonym>Milk Acid</Synonym>
+<Description>The levorotatory isomer of lactic acid, the biologically active isoform in humans.  Lactic acid or lactate is produced during fermentation from pyruvate by lactate dehydrogenase. This reaction, in addition to producing lactic acid, also produces nicotinamide adenine dinucleotide (NAD) that is then used in glycolysis to produce energy source adenosine triphosphate (ATP).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

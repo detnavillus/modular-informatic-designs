@@ -1,0 +1,39 @@
+<Record>
+<Term>Goiter</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Thyroid Gland Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Goiter,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Goiter</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Goiter</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Goiter,</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Goiter</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Toxic Nodular Goiter</ChildTerm>
+<ChildTerm>Graves' Disease</ChildTerm>
+<ChildTerm>Nontoxic Goiter</ChildTerm>
+<ChildTerm>Endemic Goiter</ChildTerm>
+<ChildTerm>Lingual Goiter</ChildTerm>
+<ChildTerm>Goiter, Substernal</ChildTerm>
+<ChildTerm>Goiter, Endemic</ChildTerm>
+<ChildTerm>Goiter, Nodular</ChildTerm>
+<ChildTerm>Graves Disease</ChildTerm>
+<Synonym>Goiters</Synonym>
+<Synonym>Goiter</Synonym>
+<Synonym>goiter</Synonym>
+<Description>Enlargement of the THYROID GLAND that may increase from about 20 grams to hundreds of grams in human adults. Goiter is observed in individuals with normal thyroid function (euthyroidism), thyroid deficiency (HYPOTHYROIDISM), or hormone overproduction (HYPERTHYROIDISM). Goiter may be congenital or acquired, sporadic or endemic (GOITER, ENDEMIC).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

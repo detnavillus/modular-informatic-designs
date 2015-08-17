@@ -1,0 +1,22 @@
+<Record>
+<Term>Iron-Deficiency Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hypochromic</ParentTerm>
+<ParentTerm>Iron Metabolism Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hypochromic/Anemia, Iron-Deficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Iron Metabolism Disorders/Anemia, Iron-Deficiency</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Iron-Deficiency</BroaderTerm>
+<BroaderTerm>Anemia, Hypochromic</BroaderTerm>
+<BroaderTerm>Iron Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Iron-Deficiency Anemias</Synonym>
+<Synonym>Iron-Deficiency Anemia</Synonym>
+<Synonym>Iron Deficiency Anemia</Synonym>
+<Synonym>Iron Deficiency Anemias</Synonym>
+<Description>Anemia characterized by decreased or absent iron stores, low serum iron concentration, low transferrin saturation, and low hemoglobin concentration or hematocrit value. The erythrocytes are hypochromic and microcytic and the iron binding capacity is increased.</Description>
+<Source>MeSH</Source>
+</Record>

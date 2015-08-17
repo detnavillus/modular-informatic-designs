@@ -1,0 +1,22 @@
+<Record>
+<Term>Dialysis Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalopathy/Dialysis Encephalopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Encephalopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Dialysis Encephalopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Dementia, Dialysis</Synonym>
+<Synonym>Dialysis Dementia</Synonym>
+<Synonym>Dialysis Encephalopathy</Synonym>
+<Synonym>Dialysis dementia</Synonym>
+<Synonym>Progressive Dialysis Encephalopathy</Synonym>
+<Description>A severe, often fatal encephalopathy which has been attributed to accumulation in the brain of aluminum from dialysate prepared with inadequately purified water.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

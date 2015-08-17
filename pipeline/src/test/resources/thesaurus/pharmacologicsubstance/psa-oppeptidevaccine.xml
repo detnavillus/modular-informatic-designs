@@ -1,0 +1,16 @@
+<Record>
+<Term>PSA-OP Peptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/PSA-OP Peptide Vaccine</ClassificationPath>
+<BroaderTerm>PSA-OP Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>PSA-OP Peptide Vaccine</Synonym>
+<Description>A 30-residue prostate specific antigen (PSA) oligoepitope peptide (OP) vaccine with potential antineoplastic activity.  PSA-OP peptide vaccine contains the PSA-1 and PSA-3 HLA-A2 epitopes and the PSA-9 HLA-class I-A3 epitope joined by peptide linker sequences.  In an animal model, vaccination with this agent has been shown to elicit a cytotoxic T-lymphocyte immune response. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

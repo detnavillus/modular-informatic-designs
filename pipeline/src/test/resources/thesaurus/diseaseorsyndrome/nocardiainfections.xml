@@ -1,0 +1,16 @@
+<Record>
+<Term>Nocardia Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinomycetales Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Nocardia Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nocardia Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Mycetoma</ChildTerm>
+<Synonym>Nocardia Infections</Synonym>
+<Synonym>Nocardia Infection</Synonym>
+<Description>Infections with bacteria of the genus NOCARDIA.</Description>
+<Source>MeSH</Source>
+</Record>

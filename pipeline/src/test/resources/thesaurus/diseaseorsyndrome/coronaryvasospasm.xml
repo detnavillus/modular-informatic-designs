@@ -1,0 +1,29 @@
+<Record>
+<Term>Coronary Vasospasm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Vasoconstriction</ParentTerm>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Vasoconstriction/Coronary Vasospasm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Vasospasm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Vasospasm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Coronary Vasospasm</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Vasoconstriction</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Coronary Vasospasms</Synonym>
+<Synonym>Coronary Artery Vasospasms</Synonym>
+<Synonym>Coronary Artery Vasospasm</Synonym>
+<Synonym>Coronary Vasospasm</Synonym>
+<Description>Spasm of the large- or medium-sized coronary arteries.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

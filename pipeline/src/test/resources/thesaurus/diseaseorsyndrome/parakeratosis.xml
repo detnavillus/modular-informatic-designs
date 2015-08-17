@@ -1,0 +1,22 @@
+<Record>
+<Term>Parakeratosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Morphologic Finding</ParentTerm>
+<ParentTerm>Keratosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Morphologic Finding/Parakeratosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Parakeratosis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Parakeratosis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Morphologic Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Parakeratosis</Synonym>
+<Synonym>Parakeratoses</Synonym>
+<Description>Persistence of the nuclei of the keratinocytes into the stratum corneum of the skin. This is a normal state only in the epithelium of true mucous membranes in the mouth and vagina. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

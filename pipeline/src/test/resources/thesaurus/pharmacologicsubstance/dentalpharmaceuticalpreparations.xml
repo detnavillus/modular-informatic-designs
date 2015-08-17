@@ -1,0 +1,15 @@
+<Record>
+<Term>Dental Pharmaceutical Preparations</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ParentTerm>Biomedical and Dental Materials</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Pharmaceutical Preparations, Dental</ClassificationPath>
+<ClassificationPath>Biomedical and Dental Materials/Pharmaceutical Preparations, Dental</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations, Dental</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Biomedical and Dental Materials</BroaderTerm>
+<Synonym>Dental Drugs</Synonym>
+<Synonym>Dental Pharmaceutical Preparations</Synonym>
+<Description>Drugs intended for DENTISTRY.</Description>
+<Source>MeSH</Source>
+</Record>

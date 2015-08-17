@@ -1,0 +1,19 @@
+<Record>
+<Term>Perimeningeal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Perimeningeal Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Perimeningeal Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Subdural Effusion</ChildTerm>
+<ChildTerm>Empyema, Subdural</ChildTerm>
+<ChildTerm>Epidural Abscess</ChildTerm>
+<Synonym>Perimeningeal Infections</Synonym>
+<Synonym>Perimeningeal Infection</Synonym>
+<Synonym>Parameningeal Infections</Synonym>
+<Synonym>Parameningeal Infection</Synonym>
+<Description>Infectious processes, including abscesses, effusions, and empyemas which occur in the epidural or subdural spaces surrounding the brain and spinal cord.</Description>
+<Source>MeSH</Source>
+</Record>

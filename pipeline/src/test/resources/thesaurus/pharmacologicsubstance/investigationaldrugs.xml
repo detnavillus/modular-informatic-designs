@@ -1,0 +1,12 @@
+<Record>
+<Term>Investigational Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Drugs, Investigational</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Drugs, Investigational</BroaderTerm>
+<Synonym>Investigational New Drugs</Synonym>
+<Synonym>Investigational Drugs</Synonym>
+<Description>Drugs which have received FDA approval for human testing but have yet to be approved for commercial marketing. This includes drugs used for treatment while they still are undergoing clinical trials (Treatment IND). The main heading includes drugs under investigation in foreign countries.</Description>
+<Source>MeSH</Source>
+</Record>

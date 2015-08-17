@@ -1,0 +1,94 @@
+<Record>
+<Term>Cisplatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Chlorine Compounds</ParentTerm>
+<ParentTerm>Radiosensitizing Agent</ParentTerm>
+<ParentTerm>Platinum Compounds</ParentTerm>
+<ParentTerm>Nitrogen Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Platinum Compounds/Cisplatin</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Cisplatin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Radiosensitizing Agent/Cisplatin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Adduct Forming Agent/Platinum Compound/Cisplatin</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Cisplatin</ClassificationPath>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Platinum Compounds</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nitrogen Compounds</BroaderTerm>
+<BroaderTerm>DNA Adduct Forming Agent</BroaderTerm>
+<BroaderTerm>Radiosensitizing Agent</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Cisplatin,</BroaderTerm>
+<BroaderTerm>Platinum Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Cisplatin</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>Platinol-aq</Synonym>
+<Synonym>Dichlorodiammineplatinum</Synonym>
+<Synonym>Platosin</Synonym>
+<Synonym>NSC-119875</Synonym>
+<Synonym>(SP-4-2)-Diamminedichloroplatinum</Synonym>
+<Synonym>Cisplatinum</Synonym>
+<Synonym>cis-Dichlorodiammineplatinum(II)</Synonym>
+<Synonym>Cis-diammine-dichloroplatinum</Synonym>
+<Synonym>Platinol</Synonym>
+<Synonym>Cis-diamminedichloroplatinum</Synonym>
+<Synonym>Cis-diamminedichloro Platinum (II)</Synonym>
+<Synonym>Platiran</Synonym>
+<Synonym>Cis-dichloroammine Platinum (II)</Synonym>
+<Synonym>cis Platinum</Synonym>
+<Synonym>Platiblastin-S</Synonym>
+<Synonym>Platamine</Synonym>
+<Synonym>Platino</Synonym>
+<Synonym>Platinum Diamminodichloride</Synonym>
+<Synonym>Cisplatyl</Synonym>
+<Synonym>Cisplatina</Synonym>
+<Synonym>Blastolem</Synonym>
+<Synonym>Citoplatino</Synonym>
+<Synonym>CISPLATIN</Synonym>
+<Synonym>Plastistil</Synonym>
+<Synonym>Cis-platinous Diamine Dichloride</Synonym>
+<Synonym>DDP</Synonym>
+<Synonym>Metaplatin</Synonym>
+<Synonym>Biocisplatinum</Synonym>
+<Synonym>Platinol-AQ VHA Plus</Synonym>
+<Synonym>Cismaplat</Synonym>
+<Synonym>Abiplatin</Synonym>
+<Synonym>Platinol-AQ</Synonym>
+<Synonym>Cis-platinum II Diamine Dichloride</Synonym>
+<Synonym>Platinex</Synonym>
+<Synonym>Citosin</Synonym>
+<Synonym>Peyrone's Chloride</Synonym>
+<Synonym>Lederplatin</Synonym>
+<Synonym>Platistin</Synonym>
+<Synonym>cisplatin</Synonym>
+<Synonym>Platinol- AQ</Synonym>
+<Synonym>cis-Diamminedichloroplatinum</Synonym>
+<Synonym>Platinum</Synonym>
+<Synonym>CDDP</Synonym>
+<Synonym>Platidiam</Synonym>
+<Synonym>Cysplatyna</Synonym>
+<Synonym>Cis-diamminedichloridoplatinum</Synonym>
+<Synonym>Platiblastin</Synonym>
+<Synonym>Cis-platinum</Synonym>
+<Synonym>Platinoxan</Synonym>
+<Synonym>cis-Diamminedichloroplatinum(II)</Synonym>
+<Synonym>Peyrone's Salt</Synonym>
+<Synonym>Briplatin</Synonym>
+<Synonym>cis Diamminedichloroplatinum</Synonym>
+<Synonym>Platinum, Diaminedichloro-, cis- (8CI)</Synonym>
+<Synonym>Neoplatin</Synonym>
+<Synonym>Cis-platinum II</Synonym>
+<Synonym>cis-Platinum</Synonym>
+<Synonym>Placis</Synonym>
+<Synonym>Cisplatin</Synonym>
+<Description>An inorganic and water-soluble platinum complex. After undergoing hydrolysis, it reacts with DNA to produce both intra and interstrand crosslinks. These crosslinks appear to impair replication and transcription of DNA. The cytotoxicity of cisplatin correlates with cellular arrest in the G2 phase of the cell cycle.</Description>
+<Description>An inorganic platinum agent (cis-diamminedichloroplatinum) with antineoplastic activity.  Cisplatin forms highly reactive, charged, platinum complexes which bind to nucleophilic groups such as GC-rich sites in DNA, inducing intrastrand and interstrand DNA cross-links, as well as DNA-protein cross-links. These cross-links result in apoptosis and cell growth inhibition. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

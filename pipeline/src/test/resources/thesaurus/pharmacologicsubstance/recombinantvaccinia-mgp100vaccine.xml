@@ -1,0 +1,18 @@
+<Record>
+<Term>Recombinant Vaccinia-Mgp100 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-Mgp100 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-Mgp100 Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-Mgp100 Vaccine</Synonym>
+<Synonym>r- Mgp100 Vaccine</Synonym>
+<Description>A recombinant vaccinia virus encoding a modified peptide of the gp100 melanoma-melanocyte antigen with potential use in cancer immunotherapy.  gp100 human antigen is a wild type self-antigen expressed by melanocytes, pigmented retinal cells and most melanomas. This recombinant vaccinia Mgp100 encodes a fragment epitope of gp100 bearing 2 amino acids substitution; T->M at position 210 and 288 A ->V at position 210. This modification may stimulate tumor infiltrating lymphocytes (TIL) more efficiently.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

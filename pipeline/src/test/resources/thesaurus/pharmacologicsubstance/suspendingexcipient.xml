@@ -1,0 +1,19 @@
+<Record>
+<Term>Suspending Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Suspending Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Suspending Excipient</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Drug Suspending Agent</Synonym>
+<Synonym>Suspending</Synonym>
+<Synonym>Suspending Agent</Synonym>
+<Synonym>Suspending Excipient</Synonym>
+<Synonym>Suspensing Excipient</Synonym>
+<Description>Therapeutically inactive ingredient of pharmaceutical dosage form used to prevent aggregation of the active drug in liquid form, allowing uniform concentrations to be maintained for accurate dosing.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Phase I Enzymes Inhibitor</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chemopreventive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Phase I Enzymes Inhibitor</ClassificationPath>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Phase I Enzymes Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Oltipraz</ChildTerm>
+<ChildTerm>Beta-Naphthoflavone</ChildTerm>
+<Synonym>Phase I Enzymes Inhibitor</Synonym>
+<Description>Any natural or synthetic substance that inhibits the activity of any phase I metabolic enzyme. The cytochrome P450 (CYP450) mono-oxygenase family of enzymes catalyzes the majority of the phase I reactions. CYP450 enzymes oxidize xenobiotics, especially drugs and carcinogens, as well as certain endogenous substances. This leads to the introduction of a polar functional group to the compound, enhances their water solubility and renal excretion. However, a highly reactive intermediate and more toxic metabolite than the parent molecule may be produced that can potentially react with and damage DNA. The main CYP450 enzymes involved in the activation of carcinogens include CYP1A1, -1A2, -2A6, -2E1 and -3A4. Phase I enzymes inhibitors prevent the biotransformation of many pro-carcinogens to activated mutagens and carcinogens.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

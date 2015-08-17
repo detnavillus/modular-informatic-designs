@@ -1,0 +1,21 @@
+<Record>
+<Term>Enzootic Porcine Encephalomyelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases/Encephalomyelitis, Enzootic Porcine</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Encephalomyelitis, Enzootic Porcine</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Encephalomyelitis, Enzootic Porcine</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Enzootic Porcine Encephalomyelitis</Synonym>
+<Synonym>Porcine Poliomyelitis</Synonym>
+<Synonym>Talfan Disease</Synonym>
+<Synonym>Teschen Disease</Synonym>
+<Description>A picornavirus infection producing symptoms similar to poliomyelitis in pigs.</Description>
+<Source>MeSH</Source>
+</Record>

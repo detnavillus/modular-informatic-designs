@@ -1,0 +1,14 @@
+<Record>
+<Term>Peripheral Stem Cell Transplant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Peripheral Stem Cell Transplant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peripheral Stem Cell Transplant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Peripheral Stem Cell Transplant</Synonym>
+<Description>A method of hematopoietic reconstitution, Peripheral Stem Cell Transplants utilize (transfuse) hematopoietic stem cells harvested from circulating blood of an autologous, syngeneic, or allogeneic donor to reconstitute the bone marrow of the transplant recipient. Peripheral stem cell transplants are performed following partial or complete bone marrow ablation of a patient, done as therapy for certain blood diseases or following high dose chemotherapy or radiation treatment for cancer. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

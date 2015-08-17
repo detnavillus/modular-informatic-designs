@@ -1,0 +1,15 @@
+<Record>
+<Term>Critical Illness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Critical Illness</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Critical Illness</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<Synonym>Critical Illness</Synonym>
+<Synonym>Critical Illnesses</Synonym>
+<Synonym>Critically Ill</Synonym>
+<Description>A disease or state in which death is possible or imminent.</Description>
+<Source>MeSH</Source>
+</Record>

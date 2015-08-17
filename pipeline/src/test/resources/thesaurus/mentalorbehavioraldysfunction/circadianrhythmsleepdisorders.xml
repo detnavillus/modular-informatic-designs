@@ -1,0 +1,40 @@
+<Record>
+<Term>Circadian Rhythm Sleep Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Dyssomnias</ParentTerm>
+<ParentTerm>Occupational Diseases</ParentTerm>
+<ParentTerm>Chronobiology Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Circadian Rhythm</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Circadian Rhythm</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Sleep Disorders, Circadian Rhythm</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Chronobiology Disorders/Sleep Disorders, Circadian Rhythm</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Circadian Rhythm</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Chronobiology Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Jet Lag Syndrome</ChildTerm>
+<Synonym>Shift-Work Sleep Disorder</Synonym>
+<Synonym>Sleep Wake Schedule Disorders</Synonym>
+<Synonym>Non 24 Hour Sleep Wake Disorder</Synonym>
+<Synonym>Nonorganic Sleep Wake Cycle Disorders</Synonym>
+<Synonym>Sleep-Wake Cycle Disorder</Synonym>
+<Synonym>Sleep-Wake Schedule Disorder</Synonym>
+<Synonym>Delayed Sleep Phase Syndrome</Synonym>
+<Synonym>Sleep-Wake Schedule Disorders</Synonym>
+<Synonym>Advanced Sleep Phase Syndrome</Synonym>
+<Synonym>Disturbed Nyctohemeral Rhythms</Synonym>
+<Synonym>Sleep-Wake Cycle Disorders</Synonym>
+<Synonym>Sleep Wake Cycle Disorders</Synonym>
+<Synonym>Circadian Rhythm Sleep Disorders</Synonym>
+<Synonym>Non-24 Hour Sleep-Wake Disorder</Synonym>
+<Synonym>Shift-Work Sleep Disorders</Synonym>
+<Synonym>Shift Work Sleep Disorder</Synonym>
+<Synonym>Disturbed Nyctohemeral Rhythm</Synonym>
+<Description>Dyssomnias associated with disruption of the normal 24 hour sleep wake cycle secondary to travel (e.g., JET LAG SYNDROME), shift work, or other causes.</Description>
+<Source>MeSH</Source>
+</Record>

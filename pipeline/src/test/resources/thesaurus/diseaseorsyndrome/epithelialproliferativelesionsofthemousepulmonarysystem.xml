@@ -1,0 +1,20 @@
+<Record>
+<Term>Epithelial Proliferative Lesions of the Mouse Pulmonary System</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pulmonary Proliferative Lesions of the Mouse</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Respiratory System Disorder/Mouse Pulmonary Disorder/Pulmonary Proliferative Lesions of the Mouse/Epithelial Proliferative Lesions of the Mouse Pulmonary System</ClassificationPath>
+<BroaderTerm>Mouse Pulmonary Disorder</BroaderTerm>
+<BroaderTerm>Epithelial Proliferative Lesions of the Mouse Pulmonary System</BroaderTerm>
+<BroaderTerm>Mouse Respiratory System Disorder</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Pulmonary Proliferative Lesions of the Mouse</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Hyperplasia of the Mouse Pulmonary System</ChildTerm>
+<ChildTerm>Tumors of the Mouse Pulmonary System</ChildTerm>
+<ChildTerm>Preinvasive Lesions of the Mouse Pulmonary System</ChildTerm>
+<Synonym>Epithelial Proliferative Lesions of the Mouse Pulmonary System</Synonym>
+<Synonym>Epithelial Proliferative Lesions of the Pulmonary System</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

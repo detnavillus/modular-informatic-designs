@@ -1,0 +1,26 @@
+<Record>
+<Term>Aspergillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Fungal Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Aspergillosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Aspergillosis</ClassificationPath>
+<BroaderTerm>Aspergillosis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Neuroaspergillosis</ChildTerm>
+<ChildTerm>Aspergillosis, Allergic Bronchopulmonary</ChildTerm>
+<Synonym>Aspergillosis</Synonym>
+<Synonym>aspergillosis</Synonym>
+<Synonym>Aspergilloses</Synonym>
+<Description>Infections with fungi of the genus ASPERGILLUS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

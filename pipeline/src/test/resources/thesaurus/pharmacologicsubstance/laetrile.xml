@@ -1,0 +1,17 @@
+<Record>
+<Term>Laetrile</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cyanoglycoside Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Cyanoglycoside Agent/Laetrile</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Cyanoglycoside Agent</BroaderTerm>
+<BroaderTerm>Laetrile</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Laetrile</Synonym>
+<Synonym>Laetrille</Synonym>
+<Description>Originally, the name laetrile was the contraction of laevo-mandelonitrile glucoside, a cyanogenic glycoside found naturally in some plants.  Over the years the meaning of laetrile has changed.  There are now preparations called Laetrile where amygdalin is the major constituent.  Laetrile and amygdalin are often used interchangeably, but are different agents.  Cyanide and benzaldehyde are metabolites of both laetrile and amygdalin.  Both metabolites may possess antineoplastic properties.  Laetrile has been used as an anticancer treatment in humans worldwide, but scientific evidence does not support its effectiveness.  It is not approved for use in the United States. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

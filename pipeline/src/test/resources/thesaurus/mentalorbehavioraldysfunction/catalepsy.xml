@@ -1,0 +1,31 @@
+<Record>
+<Term>Catalepsy</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Nervous System Finding</ParentTerm>
+<ParentTerm>Dyskinesias</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Nervous System Finding/Catalepsy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Dyskinesias/Catalepsy</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Dyskinesias/Catalepsy</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Dyskinesias</BroaderTerm>
+<BroaderTerm>Nervous System Finding</BroaderTerm>
+<BroaderTerm>Catalepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Anochlesia</Synonym>
+<Synonym>Anochlesias</Synonym>
+<Synonym>Waxy Flexibilities</Synonym>
+<Synonym>Catalepsies</Synonym>
+<Synonym>Cerea Flexibilitas</Synonym>
+<Synonym>Catalepsy</Synonym>
+<Synonym>Waxy Flexibility</Synonym>
+<Description>A condition characterized by inactivity, decreased responsiveness to stimuli, and a tendency to maintain an immobile posture. The limbs tend to remain in whatever position they are placed (waxy flexibility). Catalepsy may be associated with PSYCHOTIC DISORDERS (e.g., SCHIZOPHRENIA, CATATONIC), nervous system drug toxicity, and other conditions.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

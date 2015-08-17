@@ -1,0 +1,23 @@
+<Record>
+<Term>Strongylida Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Secernentea Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Trichostrongyloidiasis</ChildTerm>
+<ChildTerm>Hookworm Infections</ChildTerm>
+<ChildTerm>Strongyle Infections, Equine</ChildTerm>
+<ChildTerm>Oesophagostomiasis</ChildTerm>
+<Synonym>Strongylida Infections</Synonym>
+<Synonym>Strongylida Infection</Synonym>
+<Synonym>Stephanurus dentatus Infections</Synonym>
+<Synonym>Stephanurus dentatus Infection</Synonym>
+<Synonym>Syngamiasis</Synonym>
+<Synonym>Syngamiases</Synonym>
+<Description>Infections with nematodes of the order STRONGYLIDA.</Description>
+<Source>MeSH</Source>
+</Record>

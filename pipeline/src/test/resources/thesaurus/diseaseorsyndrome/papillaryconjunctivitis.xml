@@ -1,0 +1,18 @@
+<Record>
+<Term>Papillary Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Conjunctivitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis/Papillary Conjunctivitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Papillary Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Giant Papillary Conjunctivitis</ChildTerm>
+<Synonym>Papillary Conjunctivitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Quinupristin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Quinupristin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Quinupristin</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>N-((6R,9S,10R,13S,15aS,18R,22S,24aS)-22-(p-(Dimethylamino)benzyl)-6-ethyldocosahydro-10,23-dimethyl-5,8,12,15,17,21,24-heptaoxo-13-phenyl-18-(((3S)-3-quinuclidinylthio)methyl)-12H-pyrido(2,1-f)pyrrolo(2,1-l)(1,4,7,10,13,16)oxapentaazacyclononadecin-9-yl)-3-hydroxypicolinamide</Synonym>
+<Synonym>QUINUPRISTIN</Synonym>
+<Synonym>Quinupristin</Synonym>
+<Synonym>Virginiamycin S1, 4-(4-(dimethylamino)-N-methyl-L-phenylalanine)-5-(5-((1-azabicyclo(2.2.2)oct-3-ylthio)methyl)-4-oxo-L-2-piperidinecarboxylic Acid)-,(S)-</Synonym>
+<Description>A semi-synthetic derivative of pristinamycin, a natural occurring type B streptogramin. Quinupristin binds to the bacterial 50S ribosomal subunit, thereby inhibiting peptide chain elongation, and causing early termination of normal bacterial protein synthesis. Quinupristin is primarily effective against gram-positive cocci.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

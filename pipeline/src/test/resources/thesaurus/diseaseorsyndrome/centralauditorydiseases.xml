@@ -1,0 +1,25 @@
+<Record>
+<Term>Central Auditory Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retrocochlear Diseases</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Auditory Diseases, Central</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Retrocochlear Diseases/Auditory Diseases, Central</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Retrocochlear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Auditory Diseases, Central</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Hearing Loss, Central</ChildTerm>
+<ChildTerm>Auditory Perceptual Disorders</ChildTerm>
+<Synonym>Auditory Cortex Disorders</Synonym>
+<Synonym>Central Auditory Pathway Disorders</Synonym>
+<Synonym>Central Auditory Diseases</Synonym>
+<Synonym>Auditory Cortex Disorder</Synonym>
+<Synonym>Central Auditory Dysfunction</Synonym>
+<Synonym>Central Auditory Disease</Synonym>
+<Description>Disorders of hearing or auditory perception due to pathological processes of the AUDITORY PATHWAYS in the CENTRAL NERVOUS SYSTEM. These include CENTRAL HEARING LOSS and AUDITORY PERCEPTUAL DISORDERS.</Description>
+<Source>MeSH</Source>
+</Record>

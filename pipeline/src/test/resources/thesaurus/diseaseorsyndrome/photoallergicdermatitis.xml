@@ -1,0 +1,33 @@
+<Record>
+<Term>Photoallergic Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis, Allergic Contact</ParentTerm>
+<ParentTerm>Photosensitivity Disorders</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Allergic Contact/Dermatitis, Photoallergic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Allergic Contact/Dermatitis, Photoallergic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Delayed/Dermatitis, Allergic Contact/Dermatitis, Photoallergic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Photosensitivity Disorders/Dermatitis, Photoallergic</ClassificationPath>
+<BroaderTerm>Dermatitis, Allergic Contact</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Photosensitivity Disorders</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Dermatitis, Photoallergic</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Delayed</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Photosensitive Contact Dermatitis</Synonym>
+<Synonym>Photoallergic Dermatitides</Synonym>
+<Synonym>Photoallergy</Synonym>
+<Synonym>Photocontact Dermatitis</Synonym>
+<Synonym>Photoallergic Contact Dermatitis</Synonym>
+<Synonym>Photoallergies</Synonym>
+<Synonym>Photoallergic Contact Dermatitides</Synonym>
+<Synonym>Photocontact Dermatitides</Synonym>
+<Synonym>Photosensitive Contact Dermatitides</Synonym>
+<Synonym>Photoallergic Dermatitis</Synonym>
+<Description>A delayed hypersensitivity involving the reaction between sunlight or other radiant energy source and a chemical substance to which the individual has been previously exposed and sensitized. It manifests as a papulovesicular, eczematous, or exudative dermatitis occurring chiefly on the light-exposed areas of the skin.</Description>
+<Source>MeSH</Source>
+</Record>

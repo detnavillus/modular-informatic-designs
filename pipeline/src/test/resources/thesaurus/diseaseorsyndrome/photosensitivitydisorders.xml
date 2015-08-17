@@ -1,0 +1,27 @@
+<Record>
+<Term>Photosensitivity Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Photosensitivity Disorders</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Photosensitivity Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Sunburn</ChildTerm>
+<ChildTerm>Xeroderma Pigmentosum</ChildTerm>
+<ChildTerm>Dermatitis, Photoallergic</ChildTerm>
+<ChildTerm>Dermatitis, Phototoxic</ChildTerm>
+<ChildTerm>Hydroa Vacciniforme</ChildTerm>
+<Synonym>Photosensitivity Disorders</Synonym>
+<Synonym>Photosensitivity Disorder</Synonym>
+<Synonym>Photodermatitis</Synonym>
+<Synonym>Photodermatitides</Synonym>
+<Synonym>Chronic Actinic Dermatitis</Synonym>
+<Synonym>Chronic Actinic Dermatitides</Synonym>
+<Synonym>Actinic Dermatitides</Synonym>
+<Synonym>Actinic Dermatitis</Synonym>
+<Synonym>Photosensitization</Synonym>
+<Synonym>Actinic Reticuloid Syndrome</Synonym>
+<Synonym>Actinic Reticuloid Syndromes</Synonym>
+<Description>Abnormal responses to sunlight or artificial light due to extreme reactivity of light-absorbing molecules in tissues. It refers almost exclusively to skin photosensitivity, including sunburn, reactions due to repeated prolonged exposure in the absence of photosensitizing factors, and reactions requiring photosensitizing factors such as photosensitizing agents and certain diseases. With restricted reference to skin tissue, it does not include photosensitivity of the eye to light, as in photophobia or photosensitive epilepsy.</Description>
+<Source>MeSH</Source>
+</Record>

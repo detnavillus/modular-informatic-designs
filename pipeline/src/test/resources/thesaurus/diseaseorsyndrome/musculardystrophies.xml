@@ -1,0 +1,33 @@
+<Record>
+<Term>Muscular Dystrophies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Muscular Disorders, Atrophic</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Muscular Dystrophies</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Muscular Dystrophies</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Muscular Disorders, Atrophic</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Muscular Dystrophies, Limb-Girdle</ChildTerm>
+<ChildTerm>Glycogen Storage Disease Type VII</ChildTerm>
+<ChildTerm>Distal Myopathies</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Duchenne</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Emery-Dreifuss</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Facioscapulohumeral</ChildTerm>
+<ChildTerm>Muscular Dystrophy, Oculopharyngeal</ChildTerm>
+<ChildTerm>Myotonic Dystrophy</ChildTerm>
+<Synonym>Myodystrophica</Synonym>
+<Synonym>Muscular Dystrophies</Synonym>
+<Synonym>Myodystrophicas</Synonym>
+<Synonym>Myodystrophies</Synonym>
+<Synonym>Muscular Dystrophy</Synonym>
+<Synonym>Myodystrophy</Synonym>
+<Description>A heterogeneous group of inherited MYOPATHIES, characterized by wasting and weakness of the SKELETAL MUSCLE. They are categorized by the sites of MUSCLE WEAKNESS; AGE OF ONSET; and INHERITANCE PATTERNS.</Description>
+<Source>MeSH</Source>
+</Record>

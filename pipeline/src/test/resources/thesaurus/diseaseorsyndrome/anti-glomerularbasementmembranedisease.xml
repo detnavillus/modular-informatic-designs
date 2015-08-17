@@ -1,0 +1,34 @@
+<Record>
+<Term>Anti-Glomerular Basement Membrane Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glomerulonephritis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Anti-Glomerular Basement Membrane Disease</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Anti-Glomerular Basement Membrane Disease</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Anti-Glomerular Basement Membrane Disease</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Anti-Glomerular Basement Membrane Disease</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Anti-Glomerular Basement Membrane Disease</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Goodpasture's Syndrome</Synonym>
+<Synonym>Anti-GBM Disease</Synonym>
+<Synonym>Goodpastures Syndrome</Synonym>
+<Synonym>Anti GBM Disease</Synonym>
+<Synonym>Lung Purpura with Nephritis</Synonym>
+<Synonym>Anti Glomerular Basement Membrane Disease</Synonym>
+<Synonym>Goodpasture Syndrome</Synonym>
+<Synonym>Anti-Glomerular Basement Membrane Disease</Synonym>
+<Description>An autoimmune disease of the KIDNEY and the LUNG. It is characterized by the presence of circulating autoantibodies targeting the epitopes in the non-collagenous domains of COLLAGEN TYPE IV in the basement membranes of kidney glomeruli (KIDNEY GLOMERULUS) and lung alveoli (PULMONARY ALVEOLI), and the subsequent destruction of these basement membranes. Clinical features include pulmonary alveolar hemorrhage and glomerulonephritis.</Description>
+<Source>MeSH</Source>
+</Record>

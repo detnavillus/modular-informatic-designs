@@ -1,0 +1,22 @@
+<Record>
+<Term>Pleural Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<ChildTerm>Chylothorax</ChildTerm>
+<ChildTerm>Empyema, Pleural</ChildTerm>
+<ChildTerm>Tuberculosis, Pleural</ChildTerm>
+<ChildTerm>Pleural Effusion</ChildTerm>
+<ChildTerm>Pleural Neoplasms</ChildTerm>
+<ChildTerm>Pleurisy</ChildTerm>
+<ChildTerm>Pneumothorax</ChildTerm>
+<ChildTerm>Hemopneumothorax</ChildTerm>
+<ChildTerm>Hemothorax</ChildTerm>
+<ChildTerm>Hydropneumothorax</ChildTerm>
+<ChildTerm>Hydrothorax</ChildTerm>
+<Synonym>Pleural Diseases</Synonym>
+<Synonym>Pleural Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

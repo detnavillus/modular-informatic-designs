@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Vaccinia-TRP1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-TRP1</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-TRP1</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-TRP1</Synonym>
+<Synonym>Tyrosinase-Related Protein-1-Vaccinia</Synonym>
+<Synonym>rV-TRP1</Synonym>
+<Description>A recombinant vaccinia virus encoding the melanocyte differentiation antigen tyrosinase-related protein-1 (TRP-1) with potential use in cancer immunotherapy. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

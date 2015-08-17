@@ -1,0 +1,17 @@
+<Record>
+<Term>Rubella</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rubivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Togaviridae Infections/Rubivirus Infections/Rubella</ClassificationPath>
+<BroaderTerm>Rubivirus Infections</BroaderTerm>
+<BroaderTerm>Rubella</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Togaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Rubella Syndrome, Congenital</ChildTerm>
+<Synonym>Rubella</Synonym>
+<Synonym>Rubellas</Synonym>
+<Synonym>German Measles</Synonym>
+<Description>An acute, usually benign, infectious disease caused by the RUBELLA VIRUS and most often affecting children and nonimmune young adults, in which the virus enters the respiratory tract via droplet nuclei and spreads to the lymphatic system. (From Dorland, 27th edition)</Description>
+<Source>MeSH</Source>
+</Record>

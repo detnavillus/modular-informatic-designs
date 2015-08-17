@@ -1,0 +1,22 @@
+<Record>
+<Term>of Sheep Pneumonia, Progressive Interstitial</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>Lentivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/Pneumonia, Progressive Interstitial, of Sheep</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Pneumonia, Progressive Interstitial, of Sheep</ClassificationPath>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Pneumonia, Progressive Interstitial, of Sheep</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>Pneumonia, Progressive Interstitial, of Sheep</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<Synonym>Progressive Interstitial Pneumonia of Sheep</Synonym>
+<Synonym>Maedi</Synonym>
+<Description>Chronic respiratory disease caused by the VISNA-MAEDI VIRUS. It was formerly believed to be identical with jaagsiekte (PULMONARY ADENOMATOSIS, OVINE) but is now recognized as a separate entity.</Description>
+<Source>MeSH</Source>
+</Record>

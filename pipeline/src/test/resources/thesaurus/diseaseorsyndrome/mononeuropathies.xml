@@ -1,0 +1,27 @@
+<Record>
+<Term>Mononeuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Mononeuropathies</ClassificationPath>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mononeuropathies</BroaderTerm>
+<ChildTerm>Median Neuropathy</ChildTerm>
+<ChildTerm>Sciatic Neuropathy</ChildTerm>
+<ChildTerm>Tibial Neuropathy</ChildTerm>
+<ChildTerm>Ulnar Neuropathies</ChildTerm>
+<ChildTerm>Radial Neuropathy</ChildTerm>
+<ChildTerm>Peroneal Neuropathies</ChildTerm>
+<ChildTerm>Femoral Neuropathy</ChildTerm>
+<Synonym>Mononeuropathies</Synonym>
+<Synonym>Mononeuropathy</Synonym>
+<Synonym>Mononeuritis Multiplex</Synonym>
+<Synonym>Mononeuropathy Multiplex</Synonym>
+<Synonym>Mononeuropathy Multiplex Syndrome</Synonym>
+<Synonym>Mononeuropathy Multiplex Syndromes</Synonym>
+<Synonym>Mononeuritis</Synonym>
+<Synonym>Mononeuritides</Synonym>
+<Description>Disease or trauma involving a single peripheral nerve in isolation, or out of proportion to evidence of diffuse peripheral nerve dysfunction. Mononeuropathy multiplex refers to a condition characterized by multiple isolated nerve injuries. Mononeuropathies may result from a wide variety of causes, including ISCHEMIA; traumatic injury; compression; CONNECTIVE TISSUE DISEASES; CUMULATIVE TRAUMA DISORDERS; and other conditions.</Description>
+<Source>MeSH</Source>
+</Record>

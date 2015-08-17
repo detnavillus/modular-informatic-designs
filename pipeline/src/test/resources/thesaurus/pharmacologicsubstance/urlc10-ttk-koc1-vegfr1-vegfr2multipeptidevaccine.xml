@@ -1,0 +1,16 @@
+<Record>
+<Term>URLC10-TTK-KOC1-VEGFR1-VEGFR2 Multipeptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/URLC10-TTK-KOC1-VEGFR1-VEGFR2 Multipeptide Vaccine</ClassificationPath>
+<BroaderTerm>URLC10-TTK-KOC1-VEGFR1-VEGFR2 Multipeptide Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>URLC10-TTK-KOC1-VEGFR1-VEGFR2 Multipeptide Vaccine</Synonym>
+<Description>A cancer vaccine containing five peptide epitopes with potential immunostimulatory and antitumor activity. Peptide epitopes in this vaccine are derived from: URLC10 (up-regulated lung cancer 10), TTK (TTK protein kinase), KOC1 (IGF II mRNA Binding Protein 3) and VEGFRs (vascular endothelial growth factor receptors) 1 and 2. Upon administration, URLC10-TTK-KOC1-VEGFR1-VEGFR2 multipeptide vaccine may stimulate a cytotoxic T lymphocyte (CTL) response against tumor cells expressing URLC10, TTK, KCO1, VEGFR 1 and 2 peptides, resulting in cell lysis and decreased tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

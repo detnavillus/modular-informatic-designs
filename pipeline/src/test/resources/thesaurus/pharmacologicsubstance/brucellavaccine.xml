@@ -1,0 +1,15 @@
+<Record>
+<Term>Brucella Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Brucella Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Brucella Vaccine</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Brucella Vaccine</Synonym>
+<Description>A bacterial vaccine for the prevention of brucellosis in man and animal. Brucella abortus vaccine is used for the immunization of cattle, sheep, and goats.</Description>
+<Source>MeSH</Source>
+</Record>

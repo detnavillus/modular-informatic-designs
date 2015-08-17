@@ -1,0 +1,20 @@
+<Record>
+<Term>Transdermal Estrogen</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Estradiol</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/Therapeutic Estradiol/Transdermal Estrogen</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Estradiol</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Transdermal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Divigel</Synonym>
+<Synonym>EstroGel</Synonym>
+<Synonym>Estrodiol Gel</Synonym>
+<Synonym>Transdermal Estrogen</Synonym>
+<Description>A transdermal formulation containing the synthetic form of estradiol, the most potent, endogenously produced estrogen. Upon topical administration, estradiol diffuses through the cell membrane and binds to and activates specific intracellular estrogen receptors located on estrogen-responsive tissues, including the reproductive tract, breast, pituitary, hypothalamus, liver, and bone. The activated ligand-receptor complex binds to estrogen response elements on DNA and promotes the transcription of genes involved in the functioning of the female reproductive system and secondary sex characteristics. In addition, estradiol inhibits the pituitary secretion of the gonadotropins luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

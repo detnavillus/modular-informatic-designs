@@ -1,0 +1,98 @@
+<Record>
+<Term>Anti-Arrhythmia Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Cardiovascular Agent</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antiarrhythmic Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Anti-Arrhythmia Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Anti-Arrhythmia Agents</BroaderTerm>
+<BroaderTerm>Antiarrhythmic Agent</BroaderTerm>
+<ChildTerm>Moricizine</ChildTerm>
+<ChildTerm>Ibutilide</ChildTerm>
+<ChildTerm>Flecainide Acetate</ChildTerm>
+<ChildTerm>Drobuline</ChildTerm>
+<ChildTerm>Tocainide Hydrochloride</ChildTerm>
+<ChildTerm>Benderizine</ChildTerm>
+<ChildTerm>Propafenone Hydrochloride</ChildTerm>
+<ChildTerm>Lorcainide Hydrochloride</ChildTerm>
+<ChildTerm>Dronedarone</ChildTerm>
+<ChildTerm>Procainamide</ChildTerm>
+<ChildTerm>Acetyldigitoxin</ChildTerm>
+<ChildTerm>Barucainide</ChildTerm>
+<ChildTerm>Eprobemide</ChildTerm>
+<ChildTerm>Pincainide</ChildTerm>
+<ChildTerm>Benziodarone</ChildTerm>
+<ChildTerm>Digitalin</ChildTerm>
+<ChildTerm>Asocainol</ChildTerm>
+<ChildTerm>Penbutolol Sulfate</ChildTerm>
+<ChildTerm>Flecainide</ChildTerm>
+<ChildTerm>Amafolone</ChildTerm>
+<ChildTerm>Ibutilide Fumarate</ChildTerm>
+<ChildTerm>Tocainide</ChildTerm>
+<ChildTerm>Alprafenone</ChildTerm>
+<ChildTerm>Moricizine Hydrochloride</ChildTerm>
+<ChildTerm>Mexiletine</ChildTerm>
+<ChildTerm>Berlafenone</ChildTerm>
+<ChildTerm>Disopyramide Phosphate</ChildTerm>
+<ChildTerm>Mexiletine Hydrochloride</ChildTerm>
+<ChildTerm>Bretylium Tosylate</ChildTerm>
+<ChildTerm>Alinidine</ChildTerm>
+<ChildTerm>Disopyramide</ChildTerm>
+<ChildTerm>Epicainide</ChildTerm>
+<ChildTerm>Stirocainide</ChildTerm>
+<ChildTerm>Diprafenone</ChildTerm>
+<ChildTerm>Itrocainide</ChildTerm>
+<ChildTerm>Prifuroline</ChildTerm>
+<ChildTerm>Pilsicainide</ChildTerm>
+<ChildTerm>Indecainide</ChildTerm>
+<ChildTerm>Bunaftine</ChildTerm>
+<ChildTerm>Fepromide</ChildTerm>
+<ChildTerm>Procainamide Hydrochloride</ChildTerm>
+<ChildTerm>Dofetilide</ChildTerm>
+<ChildTerm>Dronedarone Hydrochloride</ChildTerm>
+<ChildTerm>Benrixate</ChildTerm>
+<ChildTerm>Zatebradine</ChildTerm>
+<ChildTerm>Pyridarone</ChildTerm>
+<ChildTerm>Ftaxilide</ChildTerm>
+<ChildTerm>Droxicainide</ChildTerm>
+<ChildTerm>Indecainide Hydrochloride</ChildTerm>
+<ChildTerm>Fluzoperine</ChildTerm>
+<ChildTerm>Pyrinoline</ChildTerm>
+<ChildTerm>Propafenone</ChildTerm>
+<ChildTerm>Tedisamil Sesquifumarate</ChildTerm>
+<ChildTerm>Ambasilide</ChildTerm>
+<ChildTerm>Bucromarone</ChildTerm>
+<ChildTerm>Amiodarone Hydrochloride</ChildTerm>
+<ChildTerm>Amiodarone</ChildTerm>
+<ChildTerm>Tedisamil</ChildTerm>
+<ChildTerm>Encainide</ChildTerm>
+<ChildTerm>Ubisindine</ChildTerm>
+<ChildTerm>Zocainone</ChildTerm>
+<Synonym>Antiarrhythmia Agents</Synonym>
+<Synonym>Anti Arrhythmia Drugs</Synonym>
+<Synonym>Myocardial Depressants</Synonym>
+<Synonym>Anti Arrhythmics</Synonym>
+<Synonym>Antifibrillatory Agents</Synonym>
+<Synonym>Anti-Arrhythmia Drugs</Synonym>
+<Synonym>Anti-Arrhythmics</Synonym>
+<Synonym>Antiarrhythmia Drugs</Synonym>
+<Synonym>Cardiac Depressants</Synonym>
+<Synonym>Anti-Arrhythmia Agents</Synonym>
+<Synonym>Anti Arrhythmia Agents</Synonym>
+<Synonym>Antiarrhythmic Drugs</Synonym>
+<Synonym>Antiarrhythmic Agent</Synonym>
+<Description>Agents used for the treatment or prevention of cardiac arrhythmias; they may effect the polarization-repolarization phase of the action potential, its excitability or refractoriness, or impulse conduction or membrane responsiveness within cardiac fibers.</Description>
+<Description>Agents used for the treatment or prevention of cardiac arrhythmias. They may affect the polarization-repolarization phase of the action potential, its excitability or refractoriness, or impulse conduction or membrane responsiveness within cardiac fibers. Anti-arrhythmia agents are often classed into four main groups according to their mechanism of action: sodium channel blockade, beta-adrenergic blockade, repolarization prolongation, or calcium channel blockade.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

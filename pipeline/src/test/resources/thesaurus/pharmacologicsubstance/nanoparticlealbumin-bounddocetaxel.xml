@@ -1,0 +1,26 @@
+<Record>
+<Term>Nanoparticle Albumin-Bound Docetaxel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Taxane Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Taxane Compound/Nanoparticle Albumin-Bound Docetaxel,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Drug Vehicle/Nanoparticle-targeted Drug/Nanoparticle Albumin-Bound Docetaxel</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Nanoparticle-targeted Drug</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Nanoparticle Albumin-Bound Docetaxel</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Nanoparticle Albumin-Bound Docetaxel,</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Drug Vehicle</BroaderTerm>
+<BroaderTerm>Taxane Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ABI-008</Synonym>
+<Synonym>Nab-Docetaxel</Synonym>
+<Synonym>Nanoparticle Albumin-Bound Docetaxel</Synonym>
+<Description>A nanoparticle albumin-bound formulation of the taxane docetaxel with antineoplastic activity. Docetaxel is a semi-synthetic, second-generation taxane derived from a compound found in the European yew tree Taxus baccata. Docetaxel binds to and stabilizes tubulin, thereby inhibiting microtubule disassembly which results in cell-cycle arrest at the G2/M phase and cell death. This agent also inhibits pro-angiogenic factors such as vascular endothelial growth factor (VEGF) and displays immunomodulatory and pro-inflammatory properties by inducing various mediators of the inflammatory response. This nanoparticle albumin-bound formulation solubilizes docetaxel without the use of the nonionic solubilizer Cremophor ELP, permitting the administration of larger doses of docetaxel while avoiding Cremophor ELP-associated toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

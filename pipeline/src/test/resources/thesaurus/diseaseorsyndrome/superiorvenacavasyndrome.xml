@@ -1,0 +1,25 @@
+<Record>
+<Term>Superior Vena Cava Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Superior Vena Cava Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Superior Vena Cava Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Superior Vena Cava Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Superior Vena Cava Syndrome</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Superior Vena Cava Syndrome,</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Superior Vena Cava Obstruction</Synonym>
+<Synonym>Superior Vena Cava Thrombosis</Synonym>
+<Synonym>Superior Vena Cava Syndrome</Synonym>
+<Synonym>superior vena cava syndrome</Synonym>
+<Description>A condition that occurs when the obstruction of the thin-walled SUPERIOR VENA CAVA interrupts blood flow from the head, upper extremities, and thorax to the RIGHT ATRIUM. Obstruction can be caused by NEOPLASMS; THROMBOSIS; ANEURYSM; or external compression. The syndrome is characterized by swelling and/or CYANOSIS of the face, neck, and upper arms.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

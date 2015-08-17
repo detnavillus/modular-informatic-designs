@@ -1,0 +1,12 @@
+<Record>
+<Term>Interleukin-2 Jurkat Derived</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Interleukin-2</ParentTerm>
+<ClassificationPath>Recombinant Interleukin-2/Interleukin-2 Jurkat Derived</ClassificationPath>
+<BroaderTerm>Recombinant Interleukin-2</BroaderTerm>
+<BroaderTerm>Interleukin-2 Jurkat Derived</BroaderTerm>
+<Synonym>IL-2 Jurkat Derived</Synonym>
+<Synonym>Interleukin-2 Jurkat Derived</Synonym>
+<Description>A glycoprotein cytokine produced by the human leukemia T-cell line Jurkat. As a paracrine factor, IL-2 drives the expansion of antigen- specific cells and stimulates B cell, NK cell and LAK cell activities. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

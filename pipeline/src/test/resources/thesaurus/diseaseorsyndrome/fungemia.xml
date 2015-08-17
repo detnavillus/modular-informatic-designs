@@ -1,0 +1,22 @@
+<Record>
+<Term>Fungemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Sepsis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sepsis/Fungemia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Fungemia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Fungemia</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Fungemia</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Fungemias</Synonym>
+<Synonym>Fungemia</Synonym>
+<Description>The presence of fungi circulating in the blood. Opportunistic fungal sepsis is seen most often in immunosuppressed patients with severe neutropenia or in postoperative patients with intravenous catheters and usually follows prolonged antibiotic therapy.</Description>
+<Source>MeSH</Source>
+</Record>

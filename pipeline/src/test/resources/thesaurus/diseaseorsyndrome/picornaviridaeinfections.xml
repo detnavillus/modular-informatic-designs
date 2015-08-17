@@ -1,0 +1,19 @@
+<Record>
+<Term>Picornaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Common Cold</ChildTerm>
+<ChildTerm>Enterovirus Infections</ChildTerm>
+<ChildTerm>Cardiovirus Infections</ChildTerm>
+<ChildTerm>Foot-and-Mouth Disease</ChildTerm>
+<Synonym>Picornaviridae Infections</Synonym>
+<Synonym>Picornaviridae Infection</Synonym>
+<Synonym>Picornavirus Infection</Synonym>
+<Synonym>Picornavirus Infections</Synonym>
+<Description>Virus diseases caused by the PICORNAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

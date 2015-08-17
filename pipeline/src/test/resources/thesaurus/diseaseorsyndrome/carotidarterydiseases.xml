@@ -1,0 +1,35 @@
+<Record>
+<Term>Carotid Artery Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Carotid Artery Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Carotid Artery Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Carotid Artery Diseases</BroaderTerm>
+<ChildTerm>Carotid Stenosis</ChildTerm>
+<ChildTerm>Carotid Artery Injuries</ChildTerm>
+<ChildTerm>Carotid-Cavernous Sinus Fistula</ChildTerm>
+<ChildTerm>Carotid Artery Thrombosis</ChildTerm>
+<ChildTerm>Moyamoya Disease</ChildTerm>
+<ChildTerm>Carotid Artery, Internal, Dissection</ChildTerm>
+<Synonym>Carotid Arterial Diseases</Synonym>
+<Synonym>Common Carotid Artery Diseases</Synonym>
+<Synonym>Carotid Artery Disease</Synonym>
+<Synonym>External Carotid Artery Diseases</Synonym>
+<Synonym>Carotid Atherosclerosis</Synonym>
+<Synonym>Carotid Atherosclerotic Disease</Synonym>
+<Synonym>Carotid Atheroscleroses</Synonym>
+<Synonym>Carotid Artery Disorder</Synonym>
+<Synonym>Internal Carotid Artery Diseases</Synonym>
+<Synonym>Carotid Arterial Disease</Synonym>
+<Synonym>Carotid Atherosclerotic Diseases</Synonym>
+<Synonym>Carotid Artery Disorders</Synonym>
+<Synonym>Carotid Artery Diseases</Synonym>
+<Description>Pathological conditions involving the CAROTID ARTERIES, including the common, internal, and external carotid arteries. ATHEROSCLEROSIS and TRAUMA are relatively frequent causes of carotid artery pathology.</Description>
+<Source>MeSH</Source>
+</Record>

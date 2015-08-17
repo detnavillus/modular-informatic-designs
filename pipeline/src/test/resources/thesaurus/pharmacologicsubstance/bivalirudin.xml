@@ -1,0 +1,21 @@
+<Record>
+<Term>Bivalirudin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticoagulant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent/Bivalirudin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Bivalirudin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BIVALIRUDIN</Synonym>
+<Synonym>L-Leucine, D-phenylalanyl-L-prolyl-L-arginyl-L-prolylglycylglycylglycylglycyl-L-asparaginylglycyl-L-alpha-aspartyl-L-phenylalanyl-L-alpha-glutamyl-L-alpha-glutamyl-L-isoleucyl-L-prolyl-L-alpha-glutamyl-L-alpha-glutamyl-L-tyrosyl-</Synonym>
+<Synonym>Angiomax</Synonym>
+<Synonym>Bivalirudin</Synonym>
+<Synonym>Hirulog</Synonym>
+<Description>A 20 amino acid long synthetic peptide with thrombin-specific anticoagulant properties. Bivalirudin reversibly binds thrombin, free as well as clot bound, at the catalytic site and the anion-binding exosite, thereby preventing the formation and activation of fibrin, factor XIIIa, and other coagulation factors. This drug is primarily used during coronary angioplasty procedures, in combination with aspirin, in patients with unstable angina.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Premature Ovarian Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ovarian Diseases</ParentTerm>
+<ParentTerm>Ovarian Non-Neoplastic Disorder</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Ovarian Diseases/Ovarian Failure, Premature</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Ovarian Disorder/Ovarian Non-Neoplastic Disorder/Premature Ovarian Failure</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Ovarian Diseases/Ovarian Failure, Premature</ClassificationPath>
+<BroaderTerm>Ovarian Failure, Premature</BroaderTerm>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Premature Ovarian Failure</BroaderTerm>
+<BroaderTerm>Ovarian Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Ovarian Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Ovarian Disorder</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Premature Ovarian Failure</Synonym>
+<Synonym>Premature Ovarian Failures</Synonym>
+<Synonym>Gonadotropin Resistant Ovary Syndrome</Synonym>
+<Synonym>Gonadotropin-Resistant Ovary Syndrome</Synonym>
+<Synonym>Ovarian Failure</Synonym>
+<Synonym>Resistant Ovary Syndromes</Synonym>
+<Synonym>Ovarian Hypofunction</Synonym>
+<Synonym>Gonadotropin-Resistant Ovary Syndromes</Synonym>
+<Synonym>POF</Synonym>
+<Synonym>Ovarian Insufficiency</Synonym>
+<Synonym>premature ovarian failure</Synonym>
+<Synonym>Resistant Ovary Syndrome</Synonym>
+<Description>Cessation of ovarian function after MENARCHE but before the age of 40, without or with OVARIAN FOLLICLE depletion. It is characterized by the presence of OLIGOMENORRHEA or AMENORRHEA, elevated GONADOTROPINS, and low ESTRADIOL levels. It is a state of female HYPERGONADOTROPIC HYPOGONADISM. Etiologies include genetic defects, autoimmune processes, chemotherapy, radiation, and infections.A form of ovarian failure, caused by resistance to GONADOTROPINS stimulation. It may be caused by defects in the receptors for FOLLICLE STIMULATING HORMONE or LUTEINIZING HORMONE. It may be due to factors interfering with the actions of gonadotropins, such as antibodies blocking the ligand-receptor interaction.</Description>
+<Description>A loss of ovarian function in women under 40.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

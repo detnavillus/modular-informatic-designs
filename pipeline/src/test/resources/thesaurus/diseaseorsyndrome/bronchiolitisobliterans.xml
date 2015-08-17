@@ -1,0 +1,36 @@
+<Record>
+<Term>Bronchiolitis Obliterans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bronchiolitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive/Bronchitis/Bronchiolitis/Bronchiolitis Obliterans</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Bronchiolitis/Bronchiolitis Obliterans</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchitis/Bronchiolitis/Bronchiolitis Obliterans</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Bronchiolitis Obliterans</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchitis</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bronchiolitis</BroaderTerm>
+<ChildTerm>Cryptogenic Organizing Pneumonia</ChildTerm>
+<Synonym>Constrictive Bronchiolitides</Synonym>
+<Synonym>BO</Synonym>
+<Synonym>Constrictive Bronchiolitis</Synonym>
+<Synonym>Proliferative Bronchiolitides</Synonym>
+<Synonym>Bronchiolitis Obliterans</Synonym>
+<Synonym>Proliferative Bronchiolitis</Synonym>
+<Synonym>Exudative Bronchiolitides</Synonym>
+<Synonym>Exudative Bronchiolitis</Synonym>
+<Description>Inflammation of the bronchioles with obstruction by fibrous granulation tissue or bronchial exudate. It may follow inhalation of irritating gases or foreign bodies and it complicates pneumonia.</Description>
+<Description>Inflammation of the BRONCHIOLES leading to an obstructive lung disease. Bronchioles are characterized by fibrous granulation tissue with bronchial exudates in the lumens. Clinical features include a nonproductive cough and DYSPNEA.A form that is characterized by partial or complete obstruction of bronchiolar lumens resulting from chronic bronchiolar inflammation, scarring, and smooth muscle hypertrophy.A form that is histologically characterized by intraluminal polyps of organizing connective tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Vision Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sensation Disorders</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Amblyopia</ChildTerm>
+<ChildTerm>Color Vision Defects</ChildTerm>
+<ChildTerm>Night Blindness</ChildTerm>
+<ChildTerm>Hemianopsia</ChildTerm>
+<ChildTerm>Susac Syndrome</ChildTerm>
+<ChildTerm>Vision, Low</ChildTerm>
+<ChildTerm>Scotoma</ChildTerm>
+<ChildTerm>Photophobia</ChildTerm>
+<ChildTerm>Blindness</ChildTerm>
+<ChildTerm>Diplopia</ChildTerm>
+<Synonym>Metamorphopsia</Synonym>
+<Synonym>Vision Disorder</Synonym>
+<Synonym>Macropsia</Synonym>
+<Synonym>Vision Disorders</Synonym>
+<Synonym>Day Blindness</Synonym>
+<Synonym>Hemeralopia</Synonym>
+<Synonym>Macropsias</Synonym>
+<Synonym>Micropsias</Synonym>
+<Synonym>Metamorphopsias</Synonym>
+<Synonym>Hemeralopias</Synonym>
+<Synonym>Micropsia</Synonym>
+<Description>Visual impairments limiting one or more of the basic functions of the eye: visual acuity, dark adaptation, color vision, or peripheral vision. These may result from EYE DISEASES; OPTIC NERVE DISEASES; VISUAL PATHWAY diseases; OCCIPITAL LOBE diseases; OCULAR MOTILITY DISORDERS; and other conditions. Visual disability refers to inability of the individual to perform specific visual tasks, such as reading, writing, orientation, or traveling unaided. (From Newell, Ophthalmology: Principles and Concepts, 7th ed, p132)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,59 @@
+<Record>
+<Term>Epilepsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Epilepsy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Epilepsy, Reflex</ChildTerm>
+<ChildTerm>Petit Mal Epilepsy</ChildTerm>
+<ChildTerm>Aggravated Epilepsy</ChildTerm>
+<ChildTerm>Epilepsies, Partial</ChildTerm>
+<ChildTerm>Extratemporal Epilepsy</ChildTerm>
+<ChildTerm>Atonic Epilepsy</ChildTerm>
+<ChildTerm>Status Epilepticus</ChildTerm>
+<ChildTerm>Epilepsy, Benign Neonatal</ChildTerm>
+<ChildTerm>Progressive Myoclonus Epilepsy</ChildTerm>
+<ChildTerm>Epilepsy, Generalized</ChildTerm>
+<ChildTerm>Epilepsies, Myoclonic</ChildTerm>
+<ChildTerm>Tactile Epilepsy</ChildTerm>
+<ChildTerm>Landau-Kleffner Syndrome</ChildTerm>
+<ChildTerm>Generalized Epilepsy</ChildTerm>
+<ChildTerm>Intractable Epilepsy</ChildTerm>
+<ChildTerm>Anosognostic Epilepsy</ChildTerm>
+<ChildTerm>Visual Epilepsy</ChildTerm>
+<ChildTerm>Grand Mal Epilepsy</ChildTerm>
+<ChildTerm>Congenital Epilepsy</ChildTerm>
+<ChildTerm>Epilepsy, Post-Traumatic</ChildTerm>
+<ChildTerm>Seizures, Febrile</ChildTerm>
+<ChildTerm>Seizures</ChildTerm>
+<Synonym>Cryptogenic Epilepsy</Synonym>
+<Synonym>Epileptic Seizure</Synonym>
+<Synonym>Cryptogenic Epilepsies</Synonym>
+<Synonym>Seizure Disorders</Synonym>
+<Synonym>Seizure Disorder</Synonym>
+<Synonym>Auras</Synonym>
+<Synonym>Single Seizures</Synonym>
+<Synonym>Aura</Synonym>
+<Synonym>Epileptic Seizures</Synonym>
+<Synonym>Awakening Epilepsy</Synonym>
+<Synonym>epilepsy</Synonym>
+<Synonym>Epilepsies</Synonym>
+<Synonym>Epilepsy</Synonym>
+<Synonym>Single Seizure</Synonym>
+<Description>A disorder characterized by recurrent episodes of paroxysmal brain dysfunction due to a sudden, disorderly, and excessive neuronal discharge. Epilepsy classification systems are generally based upon: (1) clinical features of the seizure episodes (e.g., motor seizure), (2) etiology (e.g., post-traumatic), (3) anatomic site of seizure origin (e.g., frontal lobe seizure), (4) tendency to spread to other structures in the brain, and (5) temporal patterns (e.g., nocturnal epilepsy). (From Adams et al., Principles of Neurology, 6th ed, p313)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

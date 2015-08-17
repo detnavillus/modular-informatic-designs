@@ -1,0 +1,18 @@
+<Record>
+<Term></Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/Freund's Adjuvant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Freund's Adjuvant</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Freund's Adjuvant</Synonym>
+<Synonym>FCA</Synonym>
+<Synonym>Complete Freund's Adjuvant</Synonym>
+<Synonym>Freund's Complete Adjuvant</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Selective Androgen Receptor Modulator MDV3100</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Androgen/Selective Androgen Receptor Modulator MDV3100</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Selective Androgen Receptor Modulator MDV3100</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Androgen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MDV3100</Synonym>
+<Synonym>Selective Androgen Receptor Modulator MDV3100</Synonym>
+<Description>An orally bioavailable, organic, non-steroidal small molecule targeting the androgen receptor (AR) with potential antineoplastic activity. Through a mechanism that is reported to be different from other approved AR antagonists, selective androgen receptor modulator MDV3100 inhibits the activity of prostate cancer cell ARs, which may result in a reduction in prostate cancer cell proliferation and, correspondingly, a reduction in the serum prostate specific antigen (PSA) level. AR over-expression in prostate cancer represents a key mechanism associated with prostate cancer hormone resistance.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Sinus Histiocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Histiocytic Disorders of Mouse</ParentTerm>
+<ParentTerm>Histiocytosis, Non-Langerhans-Cell</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Non-Neoplastic Hematopoietic Disorders of Mouse/Non-Neoplastic Non-Lymphoid Hematopoietic Disorders of Mouse/Non-Neoplastic Histiocytic Disorders of Mouse/Sinus Histiocytosis of Mouse</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Non-Langerhans-Cell/Histiocytosis, Sinus</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Histiocytosis, Sinus</BroaderTerm>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Histiocytic Disorders of Mouse</BroaderTerm>
+<BroaderTerm>Histiocytosis, Non-Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Sinus Histiocytosis of Mouse</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematopoietic Disorders of Mouse</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Non-Lymphoid Hematopoietic Disorders of Mouse</BroaderTerm>
+<Synonym>Sinus Histiocytosis with Massive Lymphadenopathy</Synonym>
+<Synonym>Destombes-Rosai-Dorfman Syndrome</Synonym>
+<Synonym>Rosai-Dorfman Disease</Synonym>
+<Synonym>Sinus Histiocytosis</Synonym>
+<Synonym>Sinus Histiocytoses</Synonym>
+<Synonym>Sinus Histiocytosis of Mouse</Synonym>
+<Synonym>Destombes Rosai Dorfman Syndrome</Synonym>
+<Synonym>Rosai Dorfman Disease</Synonym>
+<Description>Benign, non-Langerhans-cell, histiocytic proliferative disorder that primarily affects the lymph nodes. It is often referred to as sinus histiocytosis with massive lymphadenopathy.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

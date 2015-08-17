@@ -1,0 +1,28 @@
+<Record>
+<Term>Anti-Idiotype Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Anti-Idiotype Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Idiotype Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Abagovomab</ChildTerm>
+<ChildTerm>Unconjugated Lymphoma Ig Id</ChildTerm>
+<ChildTerm>KLH-Lymphoma Ig Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody 4B5 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody 11D10 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody GD2 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Interleukin-2 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody 3H1 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody 105AD7 Anti-idiotype Vaccine</ChildTerm>
+<ChildTerm>Monoclonal Antibody A1G4 Anti-Idiotype Vaccine</ChildTerm>
+<ChildTerm>Unconjugated Myeloma Ig Id</ChildTerm>
+<Synonym>Anti-Idiotype Vaccine</Synonym>
+<Synonym>anti-idiotype vaccine</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Phenyltoloxamine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histamine-1 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Histamine-1 Receptor Antagonist/Phenyltoloxamine</ClassificationPath>
+<BroaderTerm>Phenyltoloxamine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Histamine-1 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Antin</Synonym>
+<Synonym>Bristamin</Synonym>
+<Synonym>Histionex</Synonym>
+<Synonym>N,N-Dimethyl-2-(2-(phenylmethyl)phenoxy)ethanamine</Synonym>
+<Synonym>N,N-Dimethyl-2-(alpha-phenyl-o-tolyloxy)ethylamine</Synonym>
+<Synonym>PHENYLTOLOXAMINE</Synonym>
+<Synonym>Phenyltoloxamine</Synonym>
+<Description>An ethanolamine derivative with antihistaminic property. Phenyltoloxamine blocks H1 histamine receptors, thereby inhibiting phospholipase A2 and production of endothelium-derived relaxing factor, nitric oxide. Subsequent lack of activation of guanylyl cyclase through nitric oxide results in decreased cyclic GMP levels, thereby inhibiting smooth muscle constriction of various tissues, decreasing capillary permeability and decreasing other histamine-activated allergic reactions.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

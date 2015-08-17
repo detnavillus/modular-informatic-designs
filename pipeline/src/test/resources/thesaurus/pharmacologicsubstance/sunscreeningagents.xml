@@ -1,0 +1,25 @@
+<Record>
+<Term>Sunscreening Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cosmetics</ParentTerm>
+<ParentTerm>Radiation-Protective Agents</ParentTerm>
+<ParentTerm>Dermatologic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Radiation-Protective Agents/Sunscreening Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Radiation-Protective Agents/Sunscreening Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Dermatologic Agents/Sunscreening Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Cosmetics/Sunscreening Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Cosmetics</BroaderTerm>
+<BroaderTerm>Sunscreening Agents</BroaderTerm>
+<BroaderTerm>Dermatologic Agents</BroaderTerm>
+<BroaderTerm>Radiation-Protective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<Synonym>Sunscreens</Synonym>
+<Synonym>Sunscreening Agents</Synonym>
+<Description>Chemical or physical agents that protect the skin from sunburn and erythema by absorbing or blocking ultraviolet radiation.</Description>
+<Source>MeSH</Source>
+</Record>

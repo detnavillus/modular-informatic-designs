@@ -1,0 +1,38 @@
+<Record>
+<Term>Polyarteritis Nodosa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Systemic Vasculitis</ParentTerm>
+<ParentTerm>Arteritis</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Polyarteritis Nodosa</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arteritis/Polyarteritis Nodosa</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vasculitis/Polyarteritis Nodosa</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Arteritis/Polyarteritis Nodosa</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis/Polyarteritis Nodosa</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Arteritis</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Polyarteritis Nodosa</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Necrotizing Arteritis</Synonym>
+<Synonym>Essential Polyarteritis</Synonym>
+<Synonym>Necrotizing Arteritides</Synonym>
+<Synonym>Essential Polyarteritides</Synonym>
+<Synonym>Periarteritis Nodosa</Synonym>
+<Synonym>Polyarteritis Nodosa</Synonym>
+<Description>A form of necrotizing non-granulomatous inflammation occurring primarily in medium-sized ARTERIES, often with microaneurysms. It is characterized by muscle, joint, and abdominal pain resulting from arterial infarction and scarring in affected organs. Polyarteritis nodosa with lung involvement is called CHURG-STRAUSS SYNDROME.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,44 @@
+<Record>
+<Term>Parkinsonian Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Experimental Model of Disease</SemanticType>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Parkinsonian Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Parkinsonian Disorders</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parkinsonian Disorders</BroaderTerm>
+<ChildTerm>Parkinson Disease</ChildTerm>
+<ChildTerm>Lewy Body Disease</ChildTerm>
+<ChildTerm>Parkinson Disease, Secondary</ChildTerm>
+<Synonym>Parkinsonian Syndromes</Synonym>
+<Synonym>Juvenile Parkinson Disease</Synonym>
+<Synonym>Experimental Parkinson Diseases</Synonym>
+<Synonym>Parkinsonian Syndrome</Synonym>
+<Synonym>Ramsay Hunt Paralysis Syndrome</Synonym>
+<Synonym>Chromosome 6 Linked Autosomal Recessive Parkinsonism</Synonym>
+<Synonym>Parkinsonian Diseases</Synonym>
+<Synonym>Autosomal Recessive Parkinsonism</Synonym>
+<Synonym>Experimental Parkinsonisms</Synonym>
+<Synonym>Chromosome 6-Linked Autosomal Recessive Parkinsonism</Synonym>
+<Synonym>MPTP-Induced Experimental Parkinsonism</Synonym>
+<Synonym>Juvenile Parkinsonisms</Synonym>
+<Synonym>Juvenile Parkinsonism</Synonym>
+<Synonym>Experimental Parkinson Disease</Synonym>
+<Synonym>MPTP Induced Experimental Parkinsonism</Synonym>
+<Synonym>Parkinsonism</Synonym>
+<Synonym>Experimental Parkinsonism</Synonym>
+<Synonym>Familial Juvenile Parkinsonism</Synonym>
+<Synonym>Autosomal Dominant Parkinsonism</Synonym>
+<Synonym>Autosomal Recesssive Juvenile Parkinsonism</Synonym>
+<Synonym>Autosomal Dominant Juvenile Parkinson Disease</Synonym>
+<Synonym>Autosomal Recessive Juvenile Parkinson Disease</Synonym>
+<Synonym>Parkinsonian Disorders</Synonym>
+<Synonym>Autosomal Dominant Juvenile Parkinsonism</Synonym>
+<Description>A group of disorders which feature impaired motor control characterized by bradykinesia, MUSCLE RIGIDITY; TREMOR; and postural instability. Parkinsonian diseases are generally divided into primary parkinsonism (see PARKINSON DISEASE), secondary parkinsonism (see PARKINSON DISEASE, SECONDARY) and inherited forms. These conditions are associated with dysfunction of dopaminergic or closely related motor integration neuronal pathways in the BASAL GANGLIA.</Description>
+<Source>MeSH</Source>
+</Record>

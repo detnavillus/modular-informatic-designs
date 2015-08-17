@@ -1,0 +1,22 @@
+<Record>
+<Term>Dopamine Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dopamine Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Dopamine Agents/Dopamine Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Dopamine Agents/Dopamine Agonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Dopamine Agonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Dopamine Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<Synonym>Dopamine Receptor Agonist</Synonym>
+<Synonym>Dopaminergic Agonists</Synonym>
+<Synonym>Dopamine Agonists</Synonym>
+<Synonym>Dopamine Agonist</Synonym>
+<Synonym>Dopaminergic Agonist</Synonym>
+<Synonym>Dopamine Receptor Agonists</Synonym>
+<Description>Drugs that bind to and activate dopamine receptors.</Description>
+<Source>MeSH</Source>
+</Record>

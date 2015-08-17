@@ -1,0 +1,18 @@
+<Record>
+<Term>Chronic Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Patient or Disabled Group</SemanticType>
+<ParentTerm>Disease Attributes</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease Attributes/Chronic Disease</ClassificationPath>
+<BroaderTerm>Chronic Disease</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease Attributes</BroaderTerm>
+<Synonym>Chronic Disease</Synonym>
+<Synonym>Chronic Diseases</Synonym>
+<Synonym>Chronic Illness</Synonym>
+<Synonym>Chronic Illnesses</Synonym>
+<Synonym>Chronically Ill</Synonym>
+<Description>Diseases which have one or more of the following characteristics: they are permanent, leave residual disability, are caused by nonreversible pathological alteration, require special training of the patient for rehabilitation, or may be expected to require a long period of supervision, observation, or care. (Dictionary of Health Services Management, 2d ed)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,54 @@
+<Record>
+<Term>Angiotensin II Type 1 Receptor Blockers</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Antihypertensive Agent</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Angiotensin II Type 1 Receptor Blockers</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Angiotensin II Type 1 Receptor Blockers</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Irbesartan</ChildTerm>
+<ChildTerm>Losartan Potassium</ChildTerm>
+<ChildTerm>Olmesartan</ChildTerm>
+<ChildTerm>Telmisartan</ChildTerm>
+<ChildTerm>Losartan</ChildTerm>
+<ChildTerm>Eprosartan Mesylate</ChildTerm>
+<ChildTerm>Valsartan</ChildTerm>
+<ChildTerm>Forasartan</ChildTerm>
+<ChildTerm>Losartan:Hydrochlorothiazide</ChildTerm>
+<ChildTerm>Pratosartan</ChildTerm>
+<ChildTerm>Olmesartan Medoxomil</ChildTerm>
+<ChildTerm>Zolasartan</ChildTerm>
+<ChildTerm>Pomisartan</ChildTerm>
+<ChildTerm>Milfasartan</ChildTerm>
+<ChildTerm>Elisartan</ChildTerm>
+<ChildTerm>Abitesartan</ChildTerm>
+<ChildTerm>Eprosartan</ChildTerm>
+<ChildTerm>Candesartan</ChildTerm>
+<ChildTerm>Candesartan Cilexetil</ChildTerm>
+<Synonym>Sartans</Synonym>
+<Synonym>Angiotensin II Receptor Antagonists</Synonym>
+<Synonym>Angiotensin II Receptor Blocker</Synonym>
+<Synonym>ARB</Synonym>
+<Synonym>Type 1 Angiotensin Receptor Blockers</Synonym>
+<Synonym>Selective Angiotensin II Receptor Antagonists</Synonym>
+<Synonym>Angiotensin II Receptor Antagonist</Synonym>
+<Synonym>Angiotensin Receptor Blockers</Synonym>
+<Synonym>Angiotensin II Type 1 Receptor Blockers</Synonym>
+<Synonym>Type 1 Angiotensin Receptor Antagonists</Synonym>
+<Synonym>Angiotensin II Type 1 Receptor Antagonists</Synonym>
+<Description>Agents that antagonize ANGIOTENSIN II TYPE 1 RECEPTOR. Included are ANGIOTENSIN II analogs such as SARALASIN and biphenylimidazoles such as LOSARTAN. Some are used as ANTIHYPERTENSIVE AGENTS.</Description>
+<Description>A class of agents that act by selectively inhibiting angiotensin II receptor activation in the renin-angiotensin-aldosterone system. Angiotensin II receptor antagonists bind to and block the activation of angiotensin II type 1 (AT1) receptors, thereby reducing production and secretion of aldosterone, amongst other actions.  The combined effects result in reduction of blood pressure. Although this class of agents is also used in diabetic nephropathy (kidney damage due to diabetes) and congestive heart failure, it is primarily used for the treatment of hypertension in cases where the patient is intolerant of ACE inhibitor therapy.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

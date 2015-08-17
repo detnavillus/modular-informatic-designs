@@ -1,0 +1,14 @@
+<Record>
+<Term>Trichomonas Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Trichomonas Infections</ClassificationPath>
+<BroaderTerm>Trichomonas Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Trichomonas Vaginitis</ChildTerm>
+<Synonym>Trichomonas Infections</Synonym>
+<Synonym>Trichomonas Infection</Synonym>
+<Description>Infections in birds and mammals produced by various species of Trichomonas.</Description>
+<Source>MeSH</Source>
+</Record>

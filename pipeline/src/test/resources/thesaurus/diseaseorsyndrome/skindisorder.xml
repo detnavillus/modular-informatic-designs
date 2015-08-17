@@ -1,0 +1,35 @@
+<Record>
+<Term>Skin Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ParentTerm>Mouse Disorder by Site</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Skin Disorder</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Mouse Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Sebaceous Hyperplasia of the Mouse Skin</ChildTerm>
+<ChildTerm>Hair Disorder</ChildTerm>
+<ChildTerm>Non-neoplastic Disorders of the Mouse Skin</ChildTerm>
+<ChildTerm>Cutaneous Precancerous Condition</ChildTerm>
+<ChildTerm>Benign Plasma Cell Proliferations of the Mouse Skin</ChildTerm>
+<ChildTerm>Non-Neoplastic Skin Disorder</ChildTerm>
+<ChildTerm>Squamous Proliferative Disorders of the Mouse Skin</ChildTerm>
+<ChildTerm>Melanocytic Proliferative Disorders of Mouse</ChildTerm>
+<ChildTerm>Neoplasms of the Mouse Skin</ChildTerm>
+<ChildTerm>Skin Vascular Disorder</ChildTerm>
+<Synonym>SKIN AND SUBCUTANEOUS TISSUE DISORDERS</Synonym>
+<Synonym>Skin Diseases and Manifestations</Synonym>
+<Synonym>Cutaneous Disorder</Synonym>
+<Synonym>Mouse Skin Disorder</Synonym>
+<Synonym>Skin Disorder</Synonym>
+<Description>Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

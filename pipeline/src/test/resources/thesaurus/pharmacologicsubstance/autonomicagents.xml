@@ -1,0 +1,27 @@
+<Record>
+<Term>Autonomic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peripheral Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Bronchodilator Agents</ChildTerm>
+<ChildTerm>Emetics</ChildTerm>
+<ChildTerm>Antiemetics</ChildTerm>
+<ChildTerm>Sympatholytics</ChildTerm>
+<ChildTerm>Sympathomimetics</ChildTerm>
+<ChildTerm>Bronchoconstrictor Agents</ChildTerm>
+<ChildTerm>Ganglionic Blockers</ChildTerm>
+<ChildTerm>Ganglionic Stimulants</ChildTerm>
+<ChildTerm>Miotics</ChildTerm>
+<ChildTerm>Mydriatics</ChildTerm>
+<ChildTerm>Parasympatholytics</ChildTerm>
+<ChildTerm>Parasympathomimetics</ChildTerm>
+<Synonym>Autonomic Agents</Synonym>
+<Synonym>Autonomic Drugs</Synonym>
+<Description>Agents affecting the function of, or mimicking the actions of, the autonomic nervous system and thereby having an effect on such processes as respiration, circulation, digestion, body temperature regulation, certain endocrine gland secretions, etc.</Description>
+<Source>MeSH</Source>
+</Record>

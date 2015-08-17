@@ -1,0 +1,29 @@
+<Record>
+<Term>Antacids</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Combination Medication</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Antacid Preparation</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Antacids</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antacids</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Antacid Preparation</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Maalox</ChildTerm>
+<ChildTerm>Mylanta</ChildTerm>
+<ChildTerm>Aluminum Magnesium</ChildTerm>
+<ChildTerm>Magnesium Trisilicate</ChildTerm>
+<Synonym>Antacids</Synonym>
+<Synonym>Antacid Preparation</Synonym>
+<Description>Natural or synthetic compounds or mixtures, Antiacid Preparations such as sodium bicarbonate, sodium citrate, and phosphate salts act as proton acceptors, neutralizing the acidity of a biologic environment (skin, gastric content, urine, etc.) and raising the pH. These agents are used topically or systemically for management of metabolic acidosis, improved muscle contraction, and hyper-acidic conditions (preventing, counteracting, or neutralizing stomach acidity). (NCI04)</Description>
+<Description>Substances that counteract or neutralize acidity of the GASTROINTESTINAL TRACT.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

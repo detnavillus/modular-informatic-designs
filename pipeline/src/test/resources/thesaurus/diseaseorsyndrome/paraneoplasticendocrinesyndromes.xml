@@ -1,0 +1,23 @@
+<Record>
+<Term>Paraneoplastic Endocrine Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paraneoplastic Syndromes</ParentTerm>
+<ParentTerm>Endocrine Gland Neoplasms</ParentTerm>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Endocrine Gland Neoplasms/Paraneoplastic Endocrine Syndromes</ClassificationPath>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Endocrine Syndromes</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Endocrine Gland Neoplasms/Paraneoplastic Endocrine Syndromes</ClassificationPath>
+<BroaderTerm>Paraneoplastic Endocrine Syndromes</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Endocrine Gland Neoplasms</BroaderTerm>
+<ChildTerm>ACTH Syndrome, Ectopic</ChildTerm>
+<ChildTerm>Zollinger-Ellison Syndrome</ChildTerm>
+<Synonym>Paraneoplastic Endocrine Syndromes</Synonym>
+<Synonym>Ectopic Hormone Syndromes</Synonym>
+<Synonym>Ectopic Hormone Syndrome</Synonym>
+<Synonym>Paraneoplastic Endocrine Syndrome</Synonym>
+<Description>Syndromes resulting from inappropriate production of HORMONES or hormone-like materials by NEOPLASMS in non-endocrine tissues or not by the usual ENDOCRINE GLANDS. Such hormone outputs are called ectopic hormone (HORMONES, ECTOPIC) secretion.</Description>
+<Source>MeSH</Source>
+</Record>

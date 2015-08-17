@@ -1,0 +1,36 @@
+<Record>
+<Term>Calcium Pantothenate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<ParentTerm>B Vitamin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Vitamin/Water-Soluble Vitamin/B Vitamin/Calcium Pantothenate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Vitamin</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Calcium Pantothenate</BroaderTerm>
+<BroaderTerm>Water-Soluble Vitamin</BroaderTerm>
+<BroaderTerm>B Vitamin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Bis(pantothenato)calcium</Synonym>
+<Synonym>CALCIUM PANTOTHENATE</Synonym>
+<Synonym>Ca-HOPA</Synonym>
+<Synonym>Calcium D(+)-N-(alpha,gamma-dihydroxy-beta,beta-dimethylbutyryl)-beta-alaninate Calcium, bis(pantothenato)-</Synonym>
+<Synonym>Calcium D-pantothenate</Synonym>
+<Synonym>Calcium Pantothenate</Synonym>
+<Synonym>Calpan</Synonym>
+<Synonym>Calpanate</Synonym>
+<Synonym>Cris Pan</Synonym>
+<Synonym>Dextro Calcium Pantothenate</Synonym>
+<Synonym>N-(2,4-Dihydroxy-3,3-dimethylbutyryl)-beta-alanine Calcium</Synonym>
+<Synonym>Pancal</Synonym>
+<Synonym>Panthoject</Synonym>
+<Synonym>Pantholin</Synonym>
+<Synonym>Pantothenate Calcium</Synonym>
+<Synonym>Pantothenic Acid Calcium Salt</Synonym>
+<Synonym>Vitamin B5, Calcium Salt</Synonym>
+<Synonym>beta-Alanine, N-(2,4-dihydroxy-3,3-dimethyl-1-oxobutyl)-, Calcium Salt</Synonym>
+<Description>The calcium salt of the water-soluble vitamin B5, ubiquitously found in plants and animal tissues with antioxidant property. Pentothenate is a component of coenzyme A (CoA) and a part of the vitamin B2 complex. Vitamin B5 is a growth factor and is essential for various metabolic functions, including the metabolism of carbohydrates, proteins, and fatty acids. This vitamin is also involved in the synthesis of cholesterol, lipids, neurotransmitters, steroid hormones, and hemoglobin.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

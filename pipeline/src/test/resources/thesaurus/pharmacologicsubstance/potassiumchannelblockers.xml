@@ -1,0 +1,18 @@
+<Record>
+<Term>Potassium Channel Blockers</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Potassium Channel Blockers</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Potassium Channel Blockers</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Potassium Channel Blockers</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Potassium Channel Blockers</Synonym>
+<Description>A class of drugs that act by inhibition of potassium efflux through cell membranes. Blockade of potassium channels prolongs the duration of ACTION POTENTIALS. They are used as ANTI-ARRHYTHMIA AGENTS and VASODILATOR AGENTS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Motor Neuron Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Motor Neuron Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Motor Neuron Disease</ClassificationPath>
+<BroaderTerm>Motor Neuron Disease</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Amyotrophic Lateral Sclerosis</ChildTerm>
+<ChildTerm>Muscular Atrophy, Spinal</ChildTerm>
+<ChildTerm>Poliomyelitis</ChildTerm>
+<ChildTerm>Bulbar Palsy, Progressive</ChildTerm>
+<Synonym>Lateral Sclerosis</Synonym>
+<Synonym>Upper Motor Neuron Disease</Synonym>
+<Synonym>Lateral Scleroses</Synonym>
+<Synonym>Primary Lateral Sclerosis</Synonym>
+<Synonym>Motor System Disease</Synonym>
+<Synonym>Motor Neuron Disease</Synonym>
+<Synonym>Motor System Diseases</Synonym>
+<Synonym>Secondary Motor Neuron Disease</Synonym>
+<Synonym>Anterior Horn Cell Disease</Synonym>
+<Synonym>Lower Motor Neuron Disease</Synonym>
+<Synonym>Familial Motor Neuron Disease</Synonym>
+<Synonym>Primary Lateral Scleroses</Synonym>
+<Synonym>Motor Neuron Diseases</Synonym>
+<Description>Diseases characterized by a selective degeneration of the motor neurons of the spinal cord, brainstem, or motor cortex. Clinical subtypes are distinguished by the major site of degeneration. In AMYOTROPHIC LATERAL SCLEROSIS there is involvement of upper, lower, and brainstem motor neurons. In progressive muscular atrophy and related syndromes (see MUSCULAR ATROPHY, SPINAL) the motor neurons in the spinal cord are primarily affected. With progressive bulbar palsy (BULBAR PALSY, PROGRESSIVE), the initial degeneration occurs in the brainstem. In primary lateral sclerosis, the cortical neurons are affected in isolation. (Adams et al., Principles of Neurology, 6th ed, p1089)</Description>
+<Source>MeSH</Source>
+</Record>

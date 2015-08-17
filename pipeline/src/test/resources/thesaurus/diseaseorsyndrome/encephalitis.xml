@@ -1,0 +1,44 @@
+<Record>
+<Term>Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ParentTerm>Central Nervous System Viral Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Encephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<ChildTerm>Meningoencephalitis</ChildTerm>
+<ChildTerm>Viral Encephalitis</ChildTerm>
+<ChildTerm>Encephalitis, Viral</ChildTerm>
+<ChildTerm>Leukoencephalitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Encephalomyelitis</ChildTerm>
+<ChildTerm>Limbic Encephalitis</ChildTerm>
+<Synonym>Rasmussen Syndrome</Synonym>
+<Synonym>Encephalitis</Synonym>
+<Synonym>Infectious Encephalitides</Synonym>
+<Synonym>Rasmussen's Syndrome</Synonym>
+<Synonym>Brain Inflammations</Synonym>
+<Synonym>Infectious Encephalitis</Synonym>
+<Synonym>Brain Inflammation</Synonym>
+<Synonym>Rasmussen Encephalitis</Synonym>
+<Description>Inflammation of the BRAIN due to infection, autoimmune processes, toxins, and other conditions. Viral infections (see ENCEPHALITIS, VIRAL) are a relatively frequent cause of this condition.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Doxorubicin-HPMA Conjugate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Doxorubicin-HPMA Conjugate</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Doxorubicin-HPMA Conjugate</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>Doxorubicin-HPMA</Synonym>
+<Synonym>Doxorubicin-HPMA Conjugate</Synonym>
+<Synonym>Doxorubicin-HPMA Copolymer Conjugate</Synonym>
+<Synonym>HPMA-Doxorubicin</Synonym>
+<Synonym>P(GFLG)-ADR</Synonym>
+<Synonym>PK1</Synonym>
+<Description>A copolymer conjugate of the antineoplastic anthracycline doxorubicin and the water-soluble polymer N-(2-hydroxypropyl) methacrylamide (HPMA). Doxorubicin, an intercalator and a topoisomerase II inhibitor, prevents DNA replication and ultimately inhibits protein synthesis. This agent also generates oxygen free radicals, resulting in cytotoxic lipid peroxidation of cell membrane lipid. HPMA conjugation enhances the permeability and retention of this agent within the tumor vasculature. Poorly cleared by the lymphatic system, this formulation undergoes increased cleavage by tumor cell lysosomal proteinases, resulting in increased, sustained intracellular concentrations of free doxorubicin. Compared to other doxorubicin-containing formulations, this formulation may exhibit an improved toxicity profile due to the lower concentrations of free doxorubicin to which non-malignant tissues are exposed.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

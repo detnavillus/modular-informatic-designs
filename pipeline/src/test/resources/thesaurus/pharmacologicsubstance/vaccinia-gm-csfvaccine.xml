@@ -1,0 +1,19 @@
+<Record>
+<Term>Vaccinia-GM-CSF Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Vaccinia-GM-CSF Vaccine</ClassificationPath>
+<BroaderTerm>Vaccinia-GM-CSF Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-GM-CSF</Synonym>
+<Synonym>Vaccinia-GM-CSF Vaccine</Synonym>
+<Synonym>rV GM-CSF</Synonym>
+<Description>A recombinant vaccinia virus that encodes granulocyte-macrophage colony stimulating factor (GM-CSF). By activating T-cells and macrophages, vaccination with recombinant vaccinia GM-CSF may enhance the host immune system response to poorly immunogenic tumors, resulting in decreased tumor growth. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

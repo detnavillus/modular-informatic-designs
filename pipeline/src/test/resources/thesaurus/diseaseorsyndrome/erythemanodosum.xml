@@ -1,0 +1,25 @@
+<Record>
+<Term>Erythema Nodosum</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Drug Eruptions</ParentTerm>
+<ParentTerm>Erythema</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Drug Hypersensitivity/Drug Eruptions/Erythema Nodosum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Erythema/Erythema Nodosum</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Drug Eruptions/Erythema Nodosum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Drug Eruptions/Erythema Nodosum</ClassificationPath>
+<BroaderTerm>Drug Eruptions</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Erythema Nodosum</BroaderTerm>
+<BroaderTerm>Drug Hypersensitivity</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Erythema</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Erythema Nodosum</Synonym>
+<Description>An erythematous eruption commonly associated with drug reactions or infection and characterized by inflammatory nodules that are usually tender, multiple, and bilateral. These nodules are located predominantly on the shins with less common occurrence on the thighs and forearms. They undergo characteristic color changes ending in temporary bruise-like areas. This condition usually subsides in 3-6 weeks without scarring or atrophy.</Description>
+<Source>MeSH</Source>
+</Record>

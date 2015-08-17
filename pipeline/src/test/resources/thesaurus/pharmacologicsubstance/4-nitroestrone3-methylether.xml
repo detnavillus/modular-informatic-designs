@@ -1,0 +1,23 @@
+<Record>
+<Term>4-Nitroestrone 3-Methyl Ether</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Steroidal Estrogen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Estrogen Sulfotransferase Inhibitor/4-Nitroestrone 3-Methyl Ether,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/4-Nitroestrone 3-Methyl Ether</ClassificationPath>
+<BroaderTerm>4-Nitroestrone 3-Methyl Ether</BroaderTerm>
+<BroaderTerm>4-Nitroestrone 3-Methyl Ether,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Estrogen Sulfotransferase Inhibitor</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-Nitroestrone</Synonym>
+<Synonym>4-Nitroestrone 3-Methyl Ether</Synonym>
+<Synonym>4-Nitroestrone 3-methyl ether</Synonym>
+<Description>A synthetic derivative of estradiol. 4-nitroestrone 3-methyl ether inhibits estrogen sulfotransferase (EST), a progesterone-induced secretory endometrial enzyme which affects estrogen receptor levels.  This agent has been shown to be an effective growth inhibitor of some chemically induced animal mammary tumors. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

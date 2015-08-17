@@ -83,7 +83,7 @@ public class TestMappedProperty extends TestCase
     assertTrue( oneProp.equals( unoProp ) == false );
     assertEquals( oneProp.getValue(), unoProp.getValue() );
       
-    System.out.println( "Safe Return" );
+    //System.out.println( "Safe Return" );
   }
 
 }

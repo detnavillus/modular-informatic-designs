@@ -1,0 +1,20 @@
+<Record>
+<Term>Dysentery</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Dysentery</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Dysentery</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Dysentery</BroaderTerm>
+<ChildTerm>Dysentery, Bacillary</ChildTerm>
+<ChildTerm>Dysentery, Amebic</ChildTerm>
+<Synonym>Infectious Diarrheal Disease</Synonym>
+<Synonym>Infectious Diarrheal Diseases</Synonym>
+<Synonym>Dysentery</Synonym>
+<Description>Acute inflammation of the intestine associated with infectious DIARRHEA of various etiologies, generally acquired by eating contaminated food containing TOXINS, BIOLOGICAL derived from BACTERIA or other microorganisms. Dysentery is characterized initially by watery FECES then by bloody mucoid stools. It is often associated with ABDOMINAL PAIN; FEVER; and DEHYDRATION.</Description>
+<Source>MeSH</Source>
+</Record>

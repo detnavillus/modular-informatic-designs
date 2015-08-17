@@ -1,0 +1,15 @@
+<Record>
+<Term>BMS-641988</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Androgen/BMS-641988</ClassificationPath>
+<BroaderTerm>BMS-641988</BroaderTerm>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Androgen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>BMS-641988</Synonym>
+<Description>An androgen receptor (AR) antagonist with potential antineoplastic and anti-androgenic activities. BMS-641988 binds to the androgen receptor in target tissues, thereby preventing androgen-induced receptor activation, and facilitates the formation of inactive complexes that cannot be translocated to the nucleus. This may inhibit androgen-dependent gene expression, subsequently leading to an inhibition of cell growth and apoptosis in AR-expressing cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

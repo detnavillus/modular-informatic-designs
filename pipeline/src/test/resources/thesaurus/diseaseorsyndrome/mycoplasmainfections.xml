@@ -1,0 +1,19 @@
+<Record>
+<Term>Mycoplasma Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoplasmatales Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Mycoplasmatales Infections/Mycoplasma Infections</ClassificationPath>
+<BroaderTerm>Mycoplasmatales Infections</BroaderTerm>
+<BroaderTerm>Mycoplasma Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pleuropneumonia, Contagious</ChildTerm>
+<ChildTerm>Pneumonia, Mycoplasma</ChildTerm>
+<Synonym>Mycoplasma Infections</Synonym>
+<Synonym>Mycoplasma Infection</Synonym>
+<Synonym>Eperythrozoonosis</Synonym>
+<Synonym>Eperythrozoonoses</Synonym>
+<Description>Infections with species of the genus MYCOPLASMA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Hyperlipoproteinemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperlipidemias</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias/Hyperlipoproteinemias</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Hyperlipoproteinemias</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<ChildTerm>Hyperlipoproteinemia Type II</ChildTerm>
+<ChildTerm>Hyperlipoproteinemia Type III</ChildTerm>
+<ChildTerm>Hyperlipoproteinemia Type IV</ChildTerm>
+<ChildTerm>Hyperlipoproteinemia Type V</ChildTerm>
+<ChildTerm>Hyperlipoproteinemia Type I</ChildTerm>
+<Synonym>Hyperlipoproteinemias</Synonym>
+<Synonym>Hyperlipoproteinemia</Synonym>
+<Description>Conditions with abnormally elevated levels of LIPOPROTEINS in the blood. They may be inherited, acquired, primary, or secondary. Hyperlipoproteinemias are classified according to the pattern of lipoproteins on electrophoresis or ultracentrifugation.</Description>
+<Source>MeSH</Source>
+</Record>

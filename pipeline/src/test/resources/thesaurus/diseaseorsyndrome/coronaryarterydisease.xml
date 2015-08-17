@@ -1,0 +1,25 @@
+<Record>
+<Term>Coronary Artery Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arteriosclerosis</ParentTerm>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Artery Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Artery Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Arteriosclerosis/Coronary Artery Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Artery Disease</BroaderTerm>
+<BroaderTerm>Arteriosclerosis</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<Synonym>Coronary Artery Disease</Synonym>
+<Synonym>Coronary Arterioscleroses</Synonym>
+<Synonym>Coronary Arteriosclerosis</Synonym>
+<Synonym>Coronary Artery Diseases</Synonym>
+<Synonym>Coronary Atheroscleroses</Synonym>
+<Synonym>Coronary Atherosclerosis</Synonym>
+<Description>Pathological processes of CORONARY ARTERIES that may derive from a congenital abnormality, atherosclerotic, or non-atherosclerotic cause.Thickening and loss of elasticity of the CORONARY ARTERIES, leading to progressive arterial insufficiency (CORONARY DISEASE).</Description>
+<Source>MeSH</Source>
+</Record>

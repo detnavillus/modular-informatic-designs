@@ -1,0 +1,22 @@
+<Record>
+<Term>Infectious Bone Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis, Osteoarticular</ChildTerm>
+<ChildTerm>Spondylitis</ChildTerm>
+<ChildTerm>Periostitis</ChildTerm>
+<ChildTerm>Osteitis</ChildTerm>
+<ChildTerm>Osteomyelitis</ChildTerm>
+<Synonym>Infectious Bone Disease</Synonym>
+<Synonym>Infectious Bone Diseases</Synonym>
+<Description>Bone diseases caused by pathogenic microorganisms.</Description>
+<Source>MeSH</Source>
+</Record>

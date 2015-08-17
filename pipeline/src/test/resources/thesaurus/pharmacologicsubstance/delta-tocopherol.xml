@@ -1,0 +1,19 @@
+<Record>
+<Term>Delta-Tocopherol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<ParentTerm>Tocopherol</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Tocopherol/Delta-Tocopherol</ClassificationPath>
+<BroaderTerm>Delta-Tocopherol</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Tocopherol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2,8-dimethyl-2-(4,8,12-trimethyltridecyl)chroman-6-ol</Synonym>
+<Synonym>Delta-Tocopherol</Synonym>
+<Synonym>Delta-tocopherol</Synonym>
+<Synonym>[2R-[2R*(4R*,8R*)]]-3,4-Dihydro-2,8-dimethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-ol</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

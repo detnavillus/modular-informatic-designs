@@ -1,0 +1,22 @@
+<Record>
+<Term>Non-Neoplastic Disorder by Special Category</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Metabolic Disorder</ChildTerm>
+<ChildTerm>Perinatal Disorder</ChildTerm>
+<ChildTerm>Congenital or Acquired Anatomic Abnormality</ChildTerm>
+<ChildTerm>Infectious Disorder</ChildTerm>
+<ChildTerm>Rare Non-Neoplastic Disorder</ChildTerm>
+<ChildTerm>Immune System and Related Disorders</ChildTerm>
+<ChildTerm>Radiation-Related Non-Neoplastic Disorder</ChildTerm>
+<ChildTerm>Degenerative Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Disease by Special Category</Synonym>
+<Synonym>Non-Neoplastic Disorder by Special Category</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

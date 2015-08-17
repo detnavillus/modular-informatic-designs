@@ -1,0 +1,29 @@
+<Record>
+<Term>Erythema Multiforme</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Erythema</ParentTerm>
+<ParentTerm>Immune System Disorder</ParentTerm>
+<ParentTerm>Skin Diseases, Vesiculobullous</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Erythema Multiforme</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Erythema/Erythema Multiforme</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Erythema Multiforme</ClassificationPath>
+<BroaderTerm>Erythema Multiforme</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Erythema</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Erythema Multiforme Major</ChildTerm>
+<ChildTerm>Erythema Multiforme Minor</ChildTerm>
+<ChildTerm>Stevens-Johnson Syndrome</ChildTerm>
+<Synonym>Erythema Multiforme</Synonym>
+<Description>A skin and mucous membrane disease characterized by an eruption of macules, papules, nodules, vesicles, and/or bullae with characteristic "bull's-eye" lesions usually occurring on the dorsal aspect of the hands and forearms.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

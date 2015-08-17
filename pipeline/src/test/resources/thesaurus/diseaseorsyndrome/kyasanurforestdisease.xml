@@ -1,0 +1,21 @@
+<Record>
+<Term>Kyasanur Forest Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Kyasanur Forest Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases/Kyasanur Forest Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Kyasanur Forest Disease</ClassificationPath>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Kyasanur Forest Disease</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Kyasanur Forest Disease</Synonym>
+<Description>Tick-borne flavivirus infection occurring in the Kyasanur Forest in India.</Description>
+<Source>MeSH</Source>
+</Record>

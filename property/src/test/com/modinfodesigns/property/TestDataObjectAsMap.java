@@ -28,8 +28,7 @@ public class TestDataObjectAsMap extends TestCase
     childObj.setProperty( new DateProperty( "date", "06/04/2013", DateProperty.DEFAULT_FORMAT ));
 		
     dobj.setProperty( childObj );
-    System.out.println( dobj.getValue( ) );
-    // assertEquals( dobj.getValue( ), "<[<{\"[child\":{\"num\":\"42\",\"baz\":\"bat\",\"date\":\"06/04/2013\"},\"foo\":\"bar\"]}>]>" );
+    assertEquals( dobj.getValue( ), "{\"foo\":\"bar\",\"child\":{\"date\":\"06/04/2013\",\"num\":\"42\",\"baz\":\"bat\"}}" );
       
     Object chob = dobj.get( "child" );
     assertNotNull( chob );

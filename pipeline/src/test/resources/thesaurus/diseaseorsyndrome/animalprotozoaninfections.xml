@@ -1,0 +1,24 @@
+<Record>
+<Term>Animal Protozoan Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases, Animal</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Toxoplasmosis, Animal</ChildTerm>
+<ChildTerm>Cryptosporidiosis</ChildTerm>
+<ChildTerm>Babesiosis</ChildTerm>
+<ChildTerm>Theileriasis</ChildTerm>
+<ChildTerm>Trypanosomiasis, Bovine</ChildTerm>
+<ChildTerm>Dourine</ChildTerm>
+<Synonym>Animal Protozoan Infection</Synonym>
+<Synonym>Animal Protozoan Infections</Synonym>
+<Description>Infections with unicellular organisms formerly members of the subkingdom Protozoa. The infections may be experimental or veterinary.</Description>
+<Source>MeSH</Source>
+</Record>

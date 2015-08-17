@@ -1,0 +1,20 @@
+<Record>
+<Term>Vitamin B 12 Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Vitamin B 12 Deficiency</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Vitamin B 12 Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Anemia, Pernicious</ChildTerm>
+<ChildTerm>Subacute Combined Degeneration</ChildTerm>
+<Synonym>Vitamin B 12 Deficiency</Synonym>
+<Synonym>Vitamin B12 Deficiency</Synonym>
+<Synonym>Vitamin B12 Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of VITAMIN B 12 in the diet, characterized by megaloblastic anemia. Since vitamin B 12 is not present in plants, humans have obtained their supply from animal products, from multivitamin supplements in the form of pills, and as additives to food preparations. A wide variety of neuropsychiatric abnormalities is also seen in vitamin B 12 deficiency and appears to be due to an undefined defect involving myelin synthesis. (From Cecil Textbook of Medicine, 19th ed, p848)</Description>
+<Source>MeSH</Source>
+</Record>

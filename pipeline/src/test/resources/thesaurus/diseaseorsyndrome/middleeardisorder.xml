@@ -1,0 +1,17 @@
+<Record>
+<Term>Middle Ear Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ear Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Ear Disorder/Middle Ear Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Middle Ear Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Middle Ear Cholesteatoma</ChildTerm>
+<ChildTerm>Otitis Media</ChildTerm>
+<Synonym>Middle Ear Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

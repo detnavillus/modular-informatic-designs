@@ -1,0 +1,19 @@
+<Record>
+<Term>Hereditary Spherocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic, Congenital</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Spherocytosis, Hereditary</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Spherocytosis, Hereditary</ClassificationPath>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Spherocytosis, Hereditary</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Hereditary Spherocytosis</Synonym>
+<Synonym>Hereditary Spherocytoses</Synonym>
+<Description>A familial congenital hemolytic anemia characterized by numerous abnormally shaped erythrocytes which are generally spheroidal. The erythrocytes have increased osmotic fragility and are abnormally permeable to sodium ions.</Description>
+<Source>MeSH</Source>
+</Record>

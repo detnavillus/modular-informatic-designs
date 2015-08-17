@@ -1,0 +1,42 @@
+<Record>
+<Term>Serum Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Drug Eruptions</ParentTerm>
+<ParentTerm>Adverse Event Associated with Allergy and Immunology</ParentTerm>
+<ParentTerm>Immune Complex Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Allergy and Immunology/Serum Sickness Adverse Event</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Drug Hypersensitivity/Drug Eruptions/Serum Sickness</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Immune Complex Diseases/Serum Sickness</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Drug Eruptions/Serum Sickness</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug Toxicity/Drug Eruptions/Serum Sickness</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Serum Sickness Adverse Event</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Allergy and Immunology</BroaderTerm>
+<BroaderTerm>Drug Hypersensitivity</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Immune Complex Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Drug Eruptions</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Serum Sickness</BroaderTerm>
+<BroaderTerm>Drug Toxicity</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Serum Sickness</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Serum Sickness</ChildTerm>
+<Synonym>Serum Sickness</Synonym>
+<Synonym>Serum Sickness Adverse Event</Synonym>
+<Synonym>Serum Sicknesses</Synonym>
+<Synonym>Serum sickness</Synonym>
+<Description>Immune complex disease caused by the administration of foreign serum or serum proteins and characterized by fever, lymphadenopathy, arthralgia, and urticaria. When they are complexed to protein carriers, some drugs can also cause serum sickness when they act as haptens inducing antibody responses.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

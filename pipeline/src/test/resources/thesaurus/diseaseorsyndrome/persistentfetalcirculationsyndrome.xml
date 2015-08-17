@@ -1,0 +1,19 @@
+<Record>
+<Term>Persistent Fetal Circulation Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Hypertension, Pulmonary</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Persistent Fetal Circulation Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Hypertension, Pulmonary/Persistent Fetal Circulation Syndrome</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Persistent Fetal Circulation Syndrome</BroaderTerm>
+<BroaderTerm>Hypertension, Pulmonary</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<Synonym>Persistent Fetal Circulation Syndrome</Synonym>
+<Synonym>Persistent Fetal Circulation</Synonym>
+<Synonym>Persistent Pulmonary Hypertension of Newborn</Synonym>
+<Description>A syndrome of persistent PULMONARY HYPERTENSION in the newborn infant (INFANT, NEWBORN) without demonstrable HEART DISEASES. This neonatal condition can be caused by severe pulmonary vasoconstriction (reactive type), hypertrophy of pulmonary arterial muscle (hypertrophic type), or abnormally developed pulmonary arterioles (hypoplastic type). The newborn patient exhibits CYANOSIS and ACIDOSIS due to the persistence of fetal circulatory pattern of right-to-left shunting of blood through a patent ductus arteriosus (DUCTUS ARTERIOSUS, PATENT) and at times a patent foramen ovale (FORAMEN OVALE, PATENT).</Description>
+<Source>MeSH</Source>
+</Record>

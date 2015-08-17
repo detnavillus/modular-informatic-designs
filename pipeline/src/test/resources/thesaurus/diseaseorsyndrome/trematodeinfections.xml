@@ -1,0 +1,25 @@
+<Record>
+<Term>Trematode Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections</ClassificationPath>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<ChildTerm>Clonorchiasis</ChildTerm>
+<ChildTerm>Dicrocoeliasis</ChildTerm>
+<ChildTerm>Echinostomiasis</ChildTerm>
+<ChildTerm>Fascioliasis</ChildTerm>
+<ChildTerm>Schistosomiasis</ChildTerm>
+<ChildTerm>Fascioloidiasis</ChildTerm>
+<ChildTerm>Opisthorchiasis</ChildTerm>
+<ChildTerm>Paragonimiasis</ChildTerm>
+<Synonym>Trematode Infections</Synonym>
+<Synonym>Trematode Infection</Synonym>
+<Synonym>Metagonimiasis</Synonym>
+<Synonym>Metagonimiases</Synonym>
+<Synonym>Fasciolopsiasis</Synonym>
+<Synonym>Fasciolopsiases</Synonym>
+<Description>Infections caused by infestation with worms of the class Trematoda.</Description>
+<Source>MeSH</Source>
+</Record>

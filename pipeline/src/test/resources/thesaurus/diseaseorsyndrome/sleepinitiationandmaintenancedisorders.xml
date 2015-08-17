@@ -1,0 +1,35 @@
+<Record>
+<Term>Sleep Initiation and Maintenance Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sleep Disorders, Intrinsic</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Initiation and Maintenance Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Initiation and Maintenance Disorders</ClassificationPath>
+<BroaderTerm>Sleep Initiation and Maintenance Disorders</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Insomnia, Fatal Familial</ChildTerm>
+<Synonym>Psychophysiological Insomnia</Synonym>
+<Synonym>DIMS (Disorders of Initiating and Maintaining Sleep)</Synonym>
+<Synonym>Sleep Initiation Dysfunction</Synonym>
+<Synonym>Insomnia</Synonym>
+<Synonym>Early Awakening</Synonym>
+<Synonym>Transient Insomnia</Synonym>
+<Synonym>Insomnia Disorders</Synonym>
+<Synonym>Chronic Insomnia</Synonym>
+<Synonym>Disorders of Initiating and Maintaining Sleep</Synonym>
+<Synonym>Nonorganic Insomnia</Synonym>
+<Synonym>Sleeplessness</Synonym>
+<Synonym>Rebound Insomnia</Synonym>
+<Synonym>Sleep Initiation and Maintenance Disorders</Synonym>
+<Synonym>Insomnias</Synonym>
+<Synonym>Insomnia Disorder</Synonym>
+<Synonym>Secondary Insomnia</Synonym>
+<Synonym>Sleep Initiation Dysfunctions</Synonym>
+<Synonym>Primary Insomnia</Synonym>
+<Description>Disorders characterized by impairment of the ability to initiate or maintain sleep. This may occur as a primary disorder or in association with another medical or psychiatric condition.</Description>
+<Source>MeSH</Source>
+</Record>

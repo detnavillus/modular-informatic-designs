@@ -1,0 +1,16 @@
+<Record>
+<Term>A-65</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Angiogenesis Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Miscellaneous Angiogenesis Inhibitor/A-65</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>A-65</BroaderTerm>
+<BroaderTerm>Miscellaneous Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>A-65</Synonym>
+<Description>An amide analogue of Trichostatin A studied for potential antineoplastic activity.  A-65 inhibits zinc-dependent histone deacetylase, inducing terminal cell differentiation and anti-angiogenic activity. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

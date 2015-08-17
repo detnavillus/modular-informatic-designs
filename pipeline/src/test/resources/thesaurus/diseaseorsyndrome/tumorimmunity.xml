@@ -1,0 +1,14 @@
+<Record>
+<Term>Tumor Immunity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immunologic Tolerance</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Immunologic Tolerance/Tumor Immunity</ClassificationPath>
+<BroaderTerm>Tumor Immunity</BroaderTerm>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<BroaderTerm>Immunologic Tolerance</BroaderTerm>
+<Synonym>Tumor Immunity</Synonym>
+<Description>Mechanisms that prevent immune detection and elimination of tumor cells</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

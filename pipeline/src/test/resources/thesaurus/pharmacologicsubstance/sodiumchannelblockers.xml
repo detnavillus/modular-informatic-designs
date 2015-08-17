@@ -1,0 +1,19 @@
+<Record>
+<Term>Sodium Channel Blockers</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ParentTerm>Cardiovascular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Sodium Channel Blockers</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Sodium Channel Blockers</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Sodium Channel Blockers</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Potassium Sparing Diuretics</Synonym>
+<Synonym>Sodium Channel Blockers</Synonym>
+<Description>A class of drugs that act by inhibition of sodium influx through cell membranes. Blockade of sodium channels slows the rate and amplitude of initial rapid depolarization, reduces cell excitability, and reduces conduction velocity.</Description>
+<Source>MeSH</Source>
+</Record>

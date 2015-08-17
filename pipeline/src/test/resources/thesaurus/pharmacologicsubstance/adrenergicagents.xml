@@ -1,0 +1,64 @@
+<Record>
+<Term>Adrenergic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Adrenergic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Adrenergic Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Adrenergic Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Adrenergic Antagonists</ChildTerm>
+<ChildTerm>Dextroamphetamine</ChildTerm>
+<ChildTerm>Spirgetine</ChildTerm>
+<ChildTerm>Alpha-Adrenergic Agonist</ChildTerm>
+<ChildTerm>Amphetamine Sulfate</ChildTerm>
+<ChildTerm>Pivenfrine</ChildTerm>
+<ChildTerm>Etilefrine Pivalate</ChildTerm>
+<ChildTerm>Reserpine</ChildTerm>
+<ChildTerm>Epinephrine Hydrochloride</ChildTerm>
+<ChildTerm>Beta-Adrenergic Agonist</ChildTerm>
+<ChildTerm>Hydroxyamphetamine Hydrobromide</ChildTerm>
+<ChildTerm>Dabelotine</ChildTerm>
+<ChildTerm>Epinephrine Bitartrate</ChildTerm>
+<ChildTerm>Adrenergic Agonists</ChildTerm>
+<ChildTerm>Dobutamine</ChildTerm>
+<ChildTerm>Therapeutic Epinephrine</ChildTerm>
+<ChildTerm>Norepinephrine</ChildTerm>
+<ChildTerm>Levonordefrin</ChildTerm>
+<ChildTerm>Oxilofrine</ChildTerm>
+<ChildTerm>Adrenergic Uptake Inhibitors</ChildTerm>
+<ChildTerm>Etilefrine</ChildTerm>
+<ChildTerm>Amphetamine Aspartate</ChildTerm>
+<ChildTerm>Amphetamine</ChildTerm>
+<ChildTerm>Levarterenol Bitartrate</ChildTerm>
+<ChildTerm>Adrenergic Antagonist</ChildTerm>
+<ChildTerm>Hydroxyamphetamine</ChildTerm>
+<ChildTerm>Norepinephrine Bitartrate</ChildTerm>
+<ChildTerm>Dobutamine Hydrochloride</ChildTerm>
+<ChildTerm>Dextroamphetamine Saccharate</ChildTerm>
+<Synonym>Adrenergic Neuron Drugs</Synonym>
+<Synonym>Adrenergic Agents</Synonym>
+<Synonym>Adrenergic Release Inhibitors</Synonym>
+<Synonym>Sympathetic Transmitter Releasers</Synonym>
+<Synonym>Adrenergic Neuron Agents</Synonym>
+<Synonym>Adrenergic Neurohumor Depleters</Synonym>
+<Synonym>Adrenergic Agent</Synonym>
+<Synonym>Adrenergic Synthesis Inhibitors</Synonym>
+<Synonym>Adrenergics</Synonym>
+<Synonym>Adrenergic Drugs</Synonym>
+<Description>Drugs that act on adrenergic receptors or affect the life cycle of adrenergic transmitters. Included here are adrenergic agonists and antagonists and agents that affect the synthesis, storage, uptake, metabolism, or release of adrenergic transmitters.</Description>
+<Description>Refer to a class of agents that acts upon adrenergic receptors associated with activities of Sympathetic Nerve System. The adrenergic receptors (adrenoceptors) belongs to the family of seven membrane spanning domain receptors that require G protein signaling pathway. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

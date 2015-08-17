@@ -1,0 +1,16 @@
+<Record>
+<Term>Iodine I 124 Iododeoxyuridine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iodine I 124 Iododeoxyuridine</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Iodine I 124 Iododeoxyuridine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I-124 Iododeoxyuridine</Synonym>
+<Synonym>Iodine I 124 Iododeoxyuridine</Synonym>
+<Description>A radiopharmaceutical comprised of the thymidine analog, 5-iodo-2-deoxyuridine (idoxuridine), labeled with the positron emitter iodine I 124.  After incorporation into tumor cell DNA, positron emission tomography (PET) is used to image iodine I 124 localized to tumor cells for determining and monitoring tumor burden.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Acromegaly</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Endocrine</ParentTerm>
+<ParentTerm>Hyperpituitarism</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Hyperpituitarism/Acromegaly</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine/Acromegaly</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hyperpituitarism/Acromegaly</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Acromegaly</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Hyperpituitarism</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Somatotropin Hypersecretion Syndrome (Acromegaly)</Synonym>
+<Synonym>Acromegaly</Synonym>
+<Synonym>Inappropriate Growth Hormone Secretion Syndrome (Acromegaly)</Synonym>
+<Synonym>Inappropriate GH Secretion Syndrome (Acromegaly)</Synonym>
+<Synonym>Somatotropin Hypersecretion Syndromes (Acromegaly)</Synonym>
+<Description>A condition caused by prolonged exposure to excessive HUMAN GROWTH HORMONE in adults. It is characterized by bony enlargement of the FACE; lower jaw (PROGNATHISM); hands; FEET; HEAD; and THORAX. The most common etiology is a GROWTH HORMONE-SECRETING PITUITARY ADENOMA. (From Joynt, Clinical Neurology, 1992, Ch36, pp79-80)</Description>
+<Source>MeSH</Source>
+</Record>

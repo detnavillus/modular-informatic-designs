@@ -1,0 +1,34 @@
+<Record>
+<Term>Idiopathic Purpura, Thrombocytopenic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Purpura, Thrombocytopenic</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Purpura, Thrombocytopenic/Purpura, Thrombocytopenic, Idiopathic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Purpura, Thrombocytopenic, Idiopathic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Purpura, Thrombocytopenic, Idiopathic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombotic Microangiopathies/Purpura, Thrombocytopenic/Purpura, Thrombocytopenic, Idiopathic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura, Thrombocytopenic/Purpura, Thrombocytopenic, Idiopathic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Purpura, Thrombocytopenic</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Thrombotic Microangiopathies</BroaderTerm>
+<BroaderTerm>Purpura, Thrombocytopenic, Idiopathic</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Autoimmune Thrombocytopenia</Synonym>
+<Synonym>Idiopathic Thrombocytopenic Purpuras</Synonym>
+<Synonym>Werlhofs Disease</Synonym>
+<Synonym>Autoimmune Thrombocytopenic Purpuras</Synonym>
+<Synonym>Werlhof's Disease</Synonym>
+<Synonym>Idiopathic Thrombocytopenic Purpura</Synonym>
+<Synonym>Werlhof Disease</Synonym>
+<Synonym>Autoimmune Thrombocytopenic Purpura</Synonym>
+<Synonym>Autoimmune Thrombocytopenias</Synonym>
+<Description>Thrombocytopenia occurring in the absence of toxic exposure or a disease associated with decreased platelets. It is mediated by immune mechanisms, in most cases IMMUNOGLOBULIN G autoantibodies which attach to platelets and subsequently undergo destruction by macrophages. The disease is seen in acute (affecting children) and chronic (adult) forms.</Description>
+<Source>MeSH</Source>
+</Record>

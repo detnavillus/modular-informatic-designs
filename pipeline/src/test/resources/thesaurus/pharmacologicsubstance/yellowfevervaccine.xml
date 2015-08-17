@@ -1,0 +1,15 @@
+<Record>
+<Term>Yellow Fever Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Yellow Fever Vaccine</ClassificationPath>
+<BroaderTerm>Yellow Fever Vaccine</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Yellow Fever Vaccine</Synonym>
+<Description>Vaccine used to prevent YELLOW FEVER. It consists of a live attenuated 17D strain of the YELLOW FEVER VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -307,9 +307,12 @@ public class StringTransform implements IStringTransform
   private static int findEnd( String str, char startChar, char endChar, int startPos )
   {
     int i = startPos + 1;
+    boolean escaped = false;
     for ( int nestCount = 1; nestCount > 0 && i < str.length(); ++i )
     {
-      if      (str.charAt( i ) == startChar ) ++nestCount;
+      if      (escaped) escaped = false;
+      else if (str.charAt( i ) == '\\' )      escaped = true;
+      else if (str.charAt( i ) == startChar ) ++nestCount;
       else if (str.charAt( i ) == endChar )   --nestCount;
     }
 

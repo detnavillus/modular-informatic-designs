@@ -1,0 +1,15 @@
+<Record>
+<Term>WT1-Sensitized Allogeneic T-Lymphocytes</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Allogeneic Lymphocyte</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Allogeneic Lymphocyte/WT1-Sensitized Allogeneic T-Lymphocytes</ClassificationPath>
+<BroaderTerm>WT1-Sensitized Allogeneic T-Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Allogeneic Lymphocyte</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>WT1-Sensitized Allogeneic T-Lymphocytes</Synonym>
+<Description>A population of allogeneic T-cells sensitized with Wilms tumor 1 (WT1) antigen with potential immunostimulatory and antineoplastic activities. Upon administration, WT1-sensitized T cells may bind to and lyse WT1-expressing tumor cells. WT1 antigen, a zinc finger DNA-binding protein acting as a transcriptional activator or repressor depending on the cellular or chromosomal context, is overexpressed in leukemic cells and in a vast number of nonhematological solid tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

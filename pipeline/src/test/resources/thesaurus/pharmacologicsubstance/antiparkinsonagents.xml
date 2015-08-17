@@ -1,0 +1,63 @@
+<Record>
+<Term>Antiparkinson Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ParentTerm>Anti-Dyskinesia Agents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiparkinsonian Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Anti-Dyskinesia Agents/Antiparkinson Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antiparkinson Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Dyskinesia Agents</BroaderTerm>
+<BroaderTerm>Antiparkinsonian Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<ChildTerm>Ethopropazine</ChildTerm>
+<ChildTerm>Biperiden</ChildTerm>
+<ChildTerm>Biperiden Hydrochloride</ChildTerm>
+<ChildTerm>Procyclidine Hydrochloride</ChildTerm>
+<ChildTerm>Cabergoline</ChildTerm>
+<ChildTerm>Trihexyphenidyl</ChildTerm>
+<ChildTerm>Cycrimine</ChildTerm>
+<ChildTerm>Apomorphine Hydrochloride</ChildTerm>
+<ChildTerm>Cycrimine Hydrochloride</ChildTerm>
+<ChildTerm>Flunamine</ChildTerm>
+<ChildTerm>Carbidopa</ChildTerm>
+<ChildTerm>Methixene</ChildTerm>
+<ChildTerm>Trihexyphenidyl Hydrochloride</ChildTerm>
+<ChildTerm>Pergolide Mesylate</ChildTerm>
+<ChildTerm>Apomorphine</ChildTerm>
+<ChildTerm>Oxiperomide</ChildTerm>
+<ChildTerm>Rasagiline Mesylate</ChildTerm>
+<ChildTerm>Ropinirole Hydrochloride</ChildTerm>
+<ChildTerm>Botiacrine</ChildTerm>
+<ChildTerm>Pergolide</ChildTerm>
+<ChildTerm>Biperiden Lactate</ChildTerm>
+<ChildTerm>Entacapone</ChildTerm>
+<ChildTerm>Rasagiline</ChildTerm>
+<ChildTerm>L-Carbidopa Anhydrous</ChildTerm>
+<ChildTerm>Piroheptine</ChildTerm>
+<ChildTerm>Pareptide</ChildTerm>
+<ChildTerm>Pramipexole Dihydrochloride</ChildTerm>
+<ChildTerm>Istradefylline</ChildTerm>
+<ChildTerm>Memantine Hydrochloride</ChildTerm>
+<ChildTerm>Tolcapone</ChildTerm>
+<ChildTerm>Budipine</ChildTerm>
+<ChildTerm>Diprobutine</ChildTerm>
+<ChildTerm>Ropinirole</ChildTerm>
+<ChildTerm>Droxidopa</ChildTerm>
+<ChildTerm>Memantine</ChildTerm>
+<Synonym>Antiparkinson Agents</Synonym>
+<Synonym>Antiparkinsonian Agent</Synonym>
+<Synonym>Antiparkinson Drugs</Synonym>
+<Synonym>Antiparkinsonians</Synonym>
+<Synonym>Antiparkinsonian Agents</Synonym>
+<Description>Agents used in the treatment of Parkinson's disease. The most commonly used drugs act on the dopaminergic system in the striatum and basal ganglia or are centrally acting muscarinic antagonists.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

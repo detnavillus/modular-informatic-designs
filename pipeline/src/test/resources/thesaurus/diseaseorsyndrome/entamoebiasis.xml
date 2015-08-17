@@ -1,0 +1,14 @@
+<Record>
+<Term>Entamoebiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Amebiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Amebiasis/Entamoebiasis</ClassificationPath>
+<BroaderTerm>Amebiasis</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Entamoebiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Entamoebiasis</Synonym>
+<Synonym>Entamoebiases</Synonym>
+<Description>Infection with amoebae of the genus ENTAMOEBA. Infection with E. histolytica causes DYSENTERY, AMEBIC and LIVER ABSCESS, AMEBIC.</Description>
+<Source>MeSH</Source>
+</Record>

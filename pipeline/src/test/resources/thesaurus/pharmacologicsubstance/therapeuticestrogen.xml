@@ -1,0 +1,28 @@
+<Record>
+<Term>Therapeutic Estrogen</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Hormone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Estrogen</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Furostilbestrol</ChildTerm>
+<ChildTerm>Almestrone</ChildTerm>
+<ChildTerm>Steroidal Estrogen</ChildTerm>
+<ChildTerm>Environmental Estrogen</ChildTerm>
+<ChildTerm>Estrapronicate</ChildTerm>
+<ChildTerm>Estrazinol Hydrobromide</ChildTerm>
+<ChildTerm>Etamestrol</ChildTerm>
+<ChildTerm>Estrofurate</ChildTerm>
+<ChildTerm>2-Hydroxyestrone</ChildTerm>
+<ChildTerm>Therapeutic Estetrol</ChildTerm>
+<ChildTerm>Non-Steroidal Estrogen</ChildTerm>
+<ChildTerm>Sodium 17.Beta.-Dihydroequilin Sulfate</ChildTerm>
+<Synonym>Oestrogens</Synonym>
+<Synonym>Therapeutic Estrogen</Synonym>
+<Description>A class of natural or synthetic hormones that binds to a cytoplasmic receptor and initiates translocation of the hormone-receptor complex to the nucleus of target cells of tissues rich in estrogen receptors, including the endometrium, myometrium, oviduct, vagina, fallopian tube, cervix, brain, liver, placenta, ovarian cells, Leydigs cells, kidney, prostate, pancreas, heart, and skin. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

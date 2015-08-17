@@ -1,0 +1,17 @@
+<Record>
+<Term>Trichostrongylosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Trichostrongyloidiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Trichostrongyloidiasis/Trichostrongylosis</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Trichostrongylosis</BroaderTerm>
+<BroaderTerm>Trichostrongyloidiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Trichostrongylosis</Synonym>
+<Synonym>Trichostrongyloses</Synonym>
+<Description>Infestation with nematode worms of the genus TRICHOSTRONGYLUS. Man and animals become infected by swallowing larvae, usually with contaminated food or drink, although the larvae may penetrate human skin.</Description>
+<Source>MeSH</Source>
+</Record>

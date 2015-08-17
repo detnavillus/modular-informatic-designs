@@ -1,0 +1,32 @@
+<Record>
+<Term>Intracranial Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Embolism and Thrombosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Thrombosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Thrombosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thromboembolism</BroaderTerm>
+<BroaderTerm>Intracranial Thrombosis</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism and Thrombosis</BroaderTerm>
+<ChildTerm>Sinus Thrombosis, Intracranial</ChildTerm>
+<Synonym>Intracranial Thrombus</Synonym>
+<Synonym>Brain Thromboses</Synonym>
+<Synonym>Brain Thrombus</Synonym>
+<Synonym>Cerebral Thrombosis</Synonym>
+<Synonym>Cerebral Thrombus</Synonym>
+<Synonym>Intracranial Thrombosis</Synonym>
+<Synonym>Cerebral Thromboses</Synonym>
+<Synonym>Brain Thrombosis</Synonym>
+<Synonym>Intracranial Thromboses</Synonym>
+<Description>Formation or presence of a blood clot (THROMBUS) in a blood vessel within the SKULL. Intracranial thrombosis can lead to thrombotic occlusions and BRAIN INFARCTION. The majority of the thrombotic occlusions are associated with ATHEROSCLEROSIS.</Description>
+<Source>MeSH</Source>
+</Record>

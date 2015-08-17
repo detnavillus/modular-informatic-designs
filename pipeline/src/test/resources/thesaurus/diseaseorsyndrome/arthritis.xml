@@ -1,0 +1,50 @@
+<Record>
+<Term>Arthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthropathy</ParentTerm>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Arthropathy/Arthritis</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Arthropathy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Polyarthritis</ChildTerm>
+<ChildTerm>Injection Site Arthritis</ChildTerm>
+<ChildTerm>Allergic Arthritis</ChildTerm>
+<ChildTerm>Hemophilic Arthritis</ChildTerm>
+<ChildTerm>Spondylarthritis</ChildTerm>
+<ChildTerm>Psoriatic Arthritis</ChildTerm>
+<ChildTerm>Destructive Arthritis</ChildTerm>
+<ChildTerm>Arthritis, Infectious</ChildTerm>
+<ChildTerm>Chondrocalcinosis</ChildTerm>
+<ChildTerm>Traumatic Arthritis</ChildTerm>
+<ChildTerm>Infective Arthritis</ChildTerm>
+<ChildTerm>Aggravated Arthritis</ChildTerm>
+<ChildTerm>Periarthritis</ChildTerm>
+<ChildTerm>Arthritis, Psoriatic</ChildTerm>
+<ChildTerm>Atrophic Arthritis</ChildTerm>
+<ChildTerm>Osteoarthritis</ChildTerm>
+<ChildTerm>Gout</ChildTerm>
+<ChildTerm>Climacteric Arthritis</ChildTerm>
+<ChildTerm>Neck Arthritis</ChildTerm>
+<ChildTerm>Pseudogout</ChildTerm>
+<ChildTerm>Arthritis, Experimental</ChildTerm>
+<ChildTerm>Rheumatoid Arthritis</ChildTerm>
+<ChildTerm>Arthritis, Rheumatoid</ChildTerm>
+<ChildTerm>Rheumatic Fever</ChildTerm>
+<Synonym>Polyarthritides</Synonym>
+<Synonym>Polyarthritis</Synonym>
+<Synonym>Arthritis</Synonym>
+<Synonym>Arthritides</Synonym>
+<Synonym>arthritis</Synonym>
+<Description>Inflammation of a joint or a state characterized by inflammation of joints.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

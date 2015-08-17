@@ -1,0 +1,16 @@
+<Record>
+<Term>Monoclonal Antibody HuAFP31</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Monoclonal Antibody HuAFP31</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody HuAFP31</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MOAB HuAFP31</Synonym>
+<Synonym>Monoclonal Antibody HuAFP31</Synonym>
+<Description>A humanized monoclonal antibody directed against alpha fetoprotein with potential antineoplastic activity. Upon administration, monoclonal antibody HuAFP31 (mAb HuAFP31) binds to and stimulates a cytotoxic T lymphocyte (CTL) response against tumor cells that express alpha fetoprotein.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

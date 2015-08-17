@@ -1,0 +1,25 @@
+<Record>
+<Term>Urination Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urologic Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Polyuria</ChildTerm>
+<ChildTerm>Oliguria</ChildTerm>
+<ChildTerm>Anuria</ChildTerm>
+<ChildTerm>Urinary Retention</ChildTerm>
+<ChildTerm>Urinary Incontinence</ChildTerm>
+<ChildTerm>Enuresis</ChildTerm>
+<ChildTerm>Proteinuria</ChildTerm>
+<ChildTerm>Hematuria</ChildTerm>
+<ChildTerm>Glycosuria</ChildTerm>
+<Synonym>Urination Disorders</Synonym>
+<Synonym>Urination Disorder</Synonym>
+<Description>Abnormalities in the process of URINE voiding, including bladder control, frequency of URINATION, as well as the volume and composition of URINE.</Description>
+<Source>MeSH</Source>
+</Record>

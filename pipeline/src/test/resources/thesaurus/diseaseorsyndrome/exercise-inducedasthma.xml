@@ -1,0 +1,24 @@
+<Record>
+<Term>Exercise-Induced Asthma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Asthma</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Asthma/Asthma, Exercise-Induced</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Asthma/Asthma, Exercise-Induced</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Asthma/Asthma, Exercise-Induced</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Asthma</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Asthma, Exercise-Induced</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Exercise Induced Asthma</Synonym>
+<Synonym>Exercise Induced Bronchospasm</Synonym>
+<Synonym>Exercise-Induced Asthma</Synonym>
+<Synonym>Exercise-Induced Bronchospasms</Synonym>
+<Synonym>Exercise-Induced Bronchospasm</Synonym>
+<Synonym>Exercise-Induced Asthmas</Synonym>
+<Description>Asthma attacks following a period of exercise. Usually the induced attack is short-lived and regresses spontaneously. The magnitude of postexertional airway obstruction is strongly influenced by the environment in which exercise is performed (i.e. inhalation of cold air during physical exertion markedly augments the severity of the airway obstruction; conversely, warm humid air blunts or abolishes it).</Description>
+<Source>MeSH</Source>
+</Record>

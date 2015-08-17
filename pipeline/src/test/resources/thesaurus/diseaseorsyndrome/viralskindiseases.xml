@@ -1,0 +1,22 @@
+<Record>
+<Term>Viral Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Skin Diseases, Infectious</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Viral</ClassificationPath>
+<ClassificationPath>Virus Diseases/Skin Diseases, Viral</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Viral</BroaderTerm>
+<ChildTerm>Erythema Infectiosum</ChildTerm>
+<ChildTerm>Warts</ChildTerm>
+<ChildTerm>Exanthema Subitum</ChildTerm>
+<ChildTerm>Molluscum Contagiosum</ChildTerm>
+<ChildTerm>Herpes Simplex</ChildTerm>
+<Synonym>Viral Skin Disease</Synonym>
+<Synonym>Viral Skin Diseases</Synonym>
+<Description>Skin diseases caused by viruses.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Mouth Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatognathic Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Behcet Syndrome</ChildTerm>
+<ChildTerm>Burning Mouth Syndrome</ChildTerm>
+<ChildTerm>Candidiasis, Oral</ChildTerm>
+<ChildTerm>Lip Diseases</ChildTerm>
+<ChildTerm>Mouth Abnormalities</ChildTerm>
+<ChildTerm>Oral Fistula</ChildTerm>
+<ChildTerm>Dry Socket</ChildTerm>
+<ChildTerm>Facial Hemiatrophy</ChildTerm>
+<ChildTerm>Facial Neuralgia</ChildTerm>
+<ChildTerm>Facial Paralysis</ChildTerm>
+<ChildTerm>Periodontal Diseases</ChildTerm>
+<ChildTerm>Ranula</ChildTerm>
+<ChildTerm>Salivary Gland Diseases</ChildTerm>
+<ChildTerm>Mouth Neoplasms</ChildTerm>
+<ChildTerm>Stomatitis</ChildTerm>
+<ChildTerm>Tongue Diseases</ChildTerm>
+<ChildTerm>Tuberculosis, Oral</ChildTerm>
+<ChildTerm>Focal Epithelial Hyperplasia</ChildTerm>
+<ChildTerm>Lichen Planus, Oral</ChildTerm>
+<ChildTerm>Oral Ulcer</ChildTerm>
+<ChildTerm>Hemifacial Spasm</ChildTerm>
+<ChildTerm>Bell Palsy</ChildTerm>
+<ChildTerm>Mucositis</ChildTerm>
+<ChildTerm>Oral Hemorrhage</ChildTerm>
+<ChildTerm>Mouth, Edentulous</ChildTerm>
+<ChildTerm>Leukoedema, Oral</ChildTerm>
+<ChildTerm>Ludwig's Angina</ChildTerm>
+<ChildTerm>Melkersson-Rosenthal Syndrome</ChildTerm>
+<ChildTerm>Noma</ChildTerm>
+<ChildTerm>Oral Manifestations</ChildTerm>
+<ChildTerm>Oral Submucous Fibrosis</ChildTerm>
+<Synonym>Mouth Diseases</Synonym>
+<Synonym>Mouth Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

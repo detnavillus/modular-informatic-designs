@@ -1,0 +1,40 @@
+<Record>
+<Term>Calcium Chloride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ParentTerm>Chlorides</ParentTerm>
+<ParentTerm>Calcium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Calcium Compounds/Calcium Chloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Calcium Chloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Calcium Chloride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Hydrochloric Acid/Chlorides/Calcium Chloride</ClassificationPath>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chlorides</BroaderTerm>
+<BroaderTerm>Calcium Compounds</BroaderTerm>
+<BroaderTerm>Hydrochloric Acid</BroaderTerm>
+<BroaderTerm>Calcium Chloride,</BroaderTerm>
+<BroaderTerm>Calcium Chloride</BroaderTerm>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Calcium chloride</Synonym>
+<Synonym>Anhydrous Calcium Chloride</Synonym>
+<Synonym>Calcium Chloride Anhydrous</Synonym>
+<Synonym>CALCIUM CHLORIDE</Synonym>
+<Synonym>Calcium Chloride Hexahydrate</Synonym>
+<Synonym>Calcium Chloride 10%</Synonym>
+<Synonym>Calcium Chloride Dihydrate</Synonym>
+<Synonym>Calcium chloride 10% in plastic container</Synonym>
+<Synonym>Calcium Chloride</Synonym>
+<Description>A crystalline, white substance, soluble in water, Calcium Chloride is the chloride salt of calcium, a bivalent metallic element with many crucial biological roles. Calcium is a major constituent of the skeleton but plays many roles as an intracellular and plasma ion as well. In medicine, calcium chloride is also used as a 10% solution in injection, for calcium replenishment. (NCI04)</Description>
+<Description>A salt used to replenish calcium levels, as an acid-producing diuretic, and as an antidote for magnesium poisoning.</Description>
+<Source>FDA Registry</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

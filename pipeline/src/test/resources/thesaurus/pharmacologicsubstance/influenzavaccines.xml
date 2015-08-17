@@ -1,0 +1,23 @@
+<Record>
+<Term>Influenza Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Influenza Vaccines</ClassificationPath>
+<BroaderTerm>Influenza Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Influenza Vaccines</Synonym>
+<Synonym>Influenzavirus Vaccines</Synonym>
+<Synonym>Influenza Virus Vaccines</Synonym>
+<Synonym>Flu Vaccines</Synonym>
+<Synonym>Influenza Vaccine</Synonym>
+<Synonym>Trivalent Live Attenuated Influenza Vaccine</Synonym>
+<Synonym>LAIV vaccine</Synonym>
+<Synonym>FluMist</Synonym>
+<Synonym>CAIV-T vaccine</Synonym>
+<Description>Vaccines used to prevent infection by viruses in the family ORTHOMYXOVIRIDAE. It includes both killed or attenuated vaccines. The composition of the vaccines is changed each year in response to antigenic shifts and changes in prevalence of influenza virus strains. The vaccine is usually bivalent or trivalent, containing one or two INFLUENZAVIRUS A strains and one INFLUENZAVIRUS B strain.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Vitamin A Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin A Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Vitamin A Deficiency</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<Synonym>Vitamin A Deficiency</Synonym>
+<Synonym>Vitamin A Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of VITAMIN A in the diet, characterized by NIGHT BLINDNESS and other ocular manifestations such as dryness of the conjunctiva and later of the cornea (XEROPHTHALMIA). Vitamin A deficiency is a very common problem worldwide, particularly in developing countries as a consequence of famine or shortages of vitamin A-rich foods. In the United States it is found among the urban poor, the elderly, alcoholics, and patients with malabsorption. (From Cecil Textbook of Medicine, 19th ed, p1179)</Description>
+<Source>MeSH</Source>
+</Record>

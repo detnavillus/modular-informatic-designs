@@ -1,0 +1,25 @@
+<Record>
+<Term>Amcinonide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Amcinonide</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Amcinonide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CL 34699</Synonym>
+<Synonym>Visderm</Synonym>
+<Synonym>Cyclocort</Synonym>
+<Synonym>Amcinonide</Synonym>
+<Synonym>1,4-Pregnadiene-2,20-dione-16,17-cyclopentylidenedioxy-9-fluoro-11,21-dihydroxy-21-acetate</Synonym>
+<Synonym>AMCINONIDE</Synonym>
+<Synonym>Triamcinolonacetatcyclopentanonid</Synonym>
+<Description>A synthetic glucocorticoid receptor agonist that mimics the metabolic, anti-inflammatory, and immunosuppressive activity of the natural glucocorticoids. Amcinonide interacts with specific corticosteroid receptors and was internalized, which leads to binding of DNA and modification of gene expression. This results in synthesis of anti-inflammatory mediators while inhibiting synthesis of inflammatory mediators. Consequently, an overall reduction in chronic inflammation and autoimmune reactions are achieved.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

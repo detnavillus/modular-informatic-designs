@@ -1,0 +1,17 @@
+<Record>
+<Term>S-CKD602</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Camptothecin Analogue</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-I Inhibitor/Camptothecin Analogue/S-CKD602</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Camptothecin Analogue</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-I Inhibitor</BroaderTerm>
+<BroaderTerm>S-CKD602</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>S-CKD602</Synonym>
+<Description>A sterically stabilized, pegylated liposomal formulation containing CKD602, a semi-synthetic analogue of campthotecin with potential antitumor activity. CKD602 inhibits the action of topoisomerase I, an enzyme that produces reversible single-strand breaks in DNA during DNA replication. CDK602 stabilizes the topoisomerase I and DNA complex, resulting in the inhibition of religation of DNA breaks, inhibition of DNA replication, and apoptotic cell death. The polyethylene glycol coating of S-CKD602 allows for greater plasma circulation time, thus enhancing the concentration of CKD602 at the tumor site. Encapsulation of CKD602 preserves the active lactone form, resulting in an increased cytotoxic effect of CKD602.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

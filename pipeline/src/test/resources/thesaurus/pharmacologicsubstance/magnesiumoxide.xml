@@ -1,0 +1,31 @@
+<Record>
+<Term>Magnesium Oxide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ParentTerm>Oxides</ParentTerm>
+<ParentTerm>Magnesium Compounds</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Magnesium Oxide,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Magnesium Oxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Oxygen Compounds/Oxides/Magnesium Oxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Magnesium Compounds/Magnesium Oxide</ClassificationPath>
+<BroaderTerm>Magnesium Oxide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Magnesium Oxide,</BroaderTerm>
+<BroaderTerm>Oxygen Compounds</BroaderTerm>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Oxides</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Laxative</BroaderTerm>
+<BroaderTerm>Magnesium Compounds</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Magnesium Oxide</Synonym>
+<Synonym>MAGNESIUM OXIDE</Synonym>
+<Synonym>Magnesia</Synonym>
+<Description>Magnesium oxide (MgO). An inorganic compound that occurs in nature as the mineral periclase. In aqueous media combines quickly with water to form magnesium hydroxide. It is used as an antacid and mild laxative and has many nonmedicinal uses.</Description>
+<Description>An oxide of magnesium with antacid and laxative effects. Magnesium combines with water to form magnesium hydroxide that reacts chemically to neutralize or buffer existing quantities of stomach acid therefore increasing the pH of the stomach content as well as increasing the intra-esophageal pH resulting in a decrease in pepsin activity. Its laxative effect is executed in higher doses by attracting water from the intestines.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

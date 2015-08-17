@@ -1,0 +1,31 @@
+<Record>
+<Term>Hemorrhagic Septicemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacteremia</ParentTerm>
+<ParentTerm>Pasteurella Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Bacteremia/Hemorrhagic Septicemia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sepsis/Bacteremia/Hemorrhagic Septicemia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Pasteurella Infections/Hemorrhagic Septicemia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Inflammation/Systemic Inflammatory Response Syndrome/Sepsis/Bacteremia/Hemorrhagic Septicemia</ClassificationPath>
+<BroaderTerm>Bacteremia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Systemic Inflammatory Response Syndrome</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Hemorrhagic Septicemia</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Inflammation</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Pasteurella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sepsis</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<Synonym>Hemorrhagic Septicemia</Synonym>
+<Synonym>Haemorrhagic Septicemia</Synonym>
+<Synonym>Hemorrhagic Bacteremia</Synonym>
+<Synonym>Hemorrhagic Septicaemia</Synonym>
+<Synonym>Haemorrhagic Septicaemia</Synonym>
+<Synonym>Haemorrhagic Bacteremia</Synonym>
+<Description>Any of several bacterial diseases, usually caused by PASTEURELLA MULTOCIDA, marked by the presence of hemorrhagic areas in the subcutaneous tissues, serous membranes, muscles, lymph glands, and throughout the internal organs. The diseases primarily affect animals and rarely humans.</Description>
+<Source>MeSH</Source>
+</Record>

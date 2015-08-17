@@ -1,0 +1,22 @@
+<Record>
+<Term>Addison's Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Cortical Insufficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Adrenal Gland Insufficiency/Adrenal Cortical Insufficiency/Addison's Disease</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Cortical Insufficiency</BroaderTerm>
+<BroaderTerm>Adrenal Gland Insufficiency</BroaderTerm>
+<BroaderTerm>Addison's Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Secondary Adrenal Insufficiency</ChildTerm>
+<ChildTerm>Primary Adrenal Insufficiency</ChildTerm>
+<Synonym>Addison's Disease</Synonym>
+<Synonym>Chronic Adrenal Insufficiency</Synonym>
+<Synonym>Hypocortisolism</Synonym>
+<Description>A rare endocrine or hormonal disorder that occurs when the adrenal glands do not produce enough of the hormone cortisol and in some cases, the hormone aldosterone. It may be due to a disorder of the adrenal glands themselves (primary adrenal insufficiency) or to inadequate secretion of ACTH by the pituitary gland (secondary adrenal insufficiency).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

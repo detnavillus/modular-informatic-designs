@@ -1,0 +1,21 @@
+<Record>
+<Term>Vaginal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Vaginal Diseases</ClassificationPath>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Vaginal Diseases</BroaderTerm>
+<ChildTerm>Vaginitis</ChildTerm>
+<ChildTerm>Vaginal Fistula</ChildTerm>
+<ChildTerm>Vaginal Neoplasms</ChildTerm>
+<ChildTerm>Vaginal Discharge</ChildTerm>
+<ChildTerm>Vaginismus</ChildTerm>
+<ChildTerm>Hydrocolpos</ChildTerm>
+<ChildTerm>Hematocolpos</ChildTerm>
+<Synonym>Vaginal Diseases</Synonym>
+<Synonym>Vaginal Disease</Synonym>
+<Description>Pathological processes of the VAGINA.</Description>
+<Source>MeSH</Source>
+</Record>

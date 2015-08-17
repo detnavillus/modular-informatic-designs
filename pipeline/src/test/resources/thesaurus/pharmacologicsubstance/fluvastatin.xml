@@ -1,0 +1,27 @@
+<Record>
+<Term>Fluvastatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>HMG-CoA Reductase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/HMG-CoA Reductase Inhibitor/Fluvastatin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/HMG-CoA Reductase Inhibitor/Fluvastatin Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Fluvastatin Sodium</BroaderTerm>
+<BroaderTerm>HMG-CoA Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fluvastatin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(3R,5S,6E)-(+/-)-7-(3-(4-Fluorophenyl)-1-(1-methylethyl)-1H-indol-2-yl)-3,5-dihydroxy-6-heptenoic Acid</Synonym>
+<Synonym>Fluvastatin sodium</Synonym>
+<Synonym>Fluvastatin Sodium</Synonym>
+<Synonym>Lescol xl</Synonym>
+<Synonym>FLUVASTATIN</Synonym>
+<Synonym>Lescol</Synonym>
+<Synonym>Fluvastatin</Synonym>
+<Synonym>FLUVASTATIN SODIUM</Synonym>
+<Description>The sodium salt of a synthetic lipid-lowering agent with potential antineoplastic activity. Fluvastatin competitively inhibits hepatic 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. This agent lowers plasma cholesterol and lipoprotein levels, and modulates immune responses through the suppression of MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. Through the inhibition of mevalonate synthesis, statins, like fluvastatin, have been shown to inhibit the production of dolichol, geranylpyrophosphate (GPP) and farnesylpyrophosphate (FPP) and the isoprenylation of the intracellular G-proteins Ras and Rho, which may result in antiangiogenic, apoptotic, and antimetastatic effects in susceptible tumor cell populations.</Description>
+<Description>A synthetic lipid-lowering agent with antilipidemic and potential antineoplastic properties. Fluvastatin competitively inhibits hepatic 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase, which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. This agent lowers plasma cholesterol and lipoprotein levels, and modulates immune responses through the suppression of MHC II (major histocompatibility complex II) on interferon gamma-stimulated antigen-presenting cells such as human vascular endothelial cells. Due to its anti-inflammatory effects mediated by alterations of lipid metabolism, fluvastatin may possess chemopreventive and therapeutic antineoplastic properties.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

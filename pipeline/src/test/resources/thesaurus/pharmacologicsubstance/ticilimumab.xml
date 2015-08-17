@@ -1,0 +1,19 @@
+<Record>
+<Term>Ticilimumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Ticilimumab</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Ticilimumab</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CTLA4 Human Monoclonal Antibody CP-675,206</Synonym>
+<Synonym>CP-675</Synonym>
+<Synonym>CP-675,206</Synonym>
+<Synonym>CP-675206</Synonym>
+<Synonym>Ticilimumab</Synonym>
+<Description>A human IgG2a monoclonal antibody directed against the T-cell receptor protein cytotoxic T-lymphocyte-associated protein 4 (CTLA4). Ticilimumab binds to CTLA4 and blocks the binding of the antigen-presenting cell ligands B7-1 and B7-2 to CTLA4, resulting in inhibition of B7-CTLA4-mediated downregulation of T-cell activation; subsequently, B7-1 or B7-2 may interact with another T-cell surface receptor protein, CD28, resulting in a B7-CD28-mediated T-cell activation unopposed by B7-CTLA4-mediated inhibition.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

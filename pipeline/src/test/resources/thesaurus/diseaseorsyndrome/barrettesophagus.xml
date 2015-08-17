@@ -1,0 +1,39 @@
+<Record>
+<Term>Barrett Esophagus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Esophageal Diseases</ParentTerm>
+<ParentTerm>Esophageal Precancerous Condition</ParentTerm>
+<ParentTerm>Digestive System Abnormalities</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site/Gastrointestinal Precancerous Condition/Esophageal Precancerous Condition/Barrett Esophagus</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Barrett Esophagus</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Digestive System Abnormalities/Barrett Esophagus</ClassificationPath>
+<BroaderTerm>Gastrointestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Esophageal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Barrett Esophagus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Abnormalities</BroaderTerm>
+<Synonym>CLE</Synonym>
+<Synonym>Barretts Esophagus</Synonym>
+<Synonym>Barrett's Syndrome</Synonym>
+<Synonym>Barrett's Esophagus</Synonym>
+<Synonym>Columnar Epithelial-Lined Lower Esophagus</Synonym>
+<Synonym>Barrett Syndrome</Synonym>
+<Synonym>Barrett Epithelium</Synonym>
+<Synonym>Barrett Esophagus</Synonym>
+<Synonym>Columnar-Lined Esophagus</Synonym>
+<Synonym>Barrett's esophagus</Synonym>
+<Synonym>CELLO</Synonym>
+<Synonym>Barretts Syndrome</Synonym>
+<Description>A condition with damage to the lining of the lower ESOPHAGUS resulting from chronic acid reflux (ESOPHAGITIS, REFLUX). Through the process of metaplasia, the squamous cells are replaced by a columnar epithelium with cells resembling those of the INTESTINE or the salmon-pink mucosa of the STOMACH. Barrett's columnar epithelium is a marker for severe reflux and precursor to ADENOCARCINOMA of the esophagus.</Description>
+<Description>Esophageal segment lined with columnar metaplastic epithelium which is flat or villiform.  Barrett epithelium is characterized by two different types of cells: goblet cells and columnar cells.  The symptomatology of Barrett esophagus is that of gastro-esophageal reflux.  It is the precursor of most esophageal adenocarcinomas.  (WHO, 2000) -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

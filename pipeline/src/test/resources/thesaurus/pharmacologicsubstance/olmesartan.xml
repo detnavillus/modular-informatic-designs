@@ -1,0 +1,18 @@
+<Record>
+<Term>Olmesartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Olmesartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Olmesartan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>OLMESARTAN</Synonym>
+<Synonym>Olmesartan</Synonym>
+<Description>A synthetic imidazole derivative and angiotensin II receptor antagonist with antihypertensive activity. Olmesartan selectively binds to the angiotensin type 1 (AT1) receptor subtype in vascular smooth muscle and adrenal gland, thereby competing with angiotensin II for binding to the AT1 receptor. This prevents angiotensin II-induced vasoconstriction and interferes with angiotensin II-mediated aldosterone secretion, thereby decreasing aldosterone production and preventing aldosterone-stimulated sodium retention and potassium excretion.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

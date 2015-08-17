@@ -1,0 +1,17 @@
+<Record>
+<Term>Hodgkin's Antigens-GM-CSF-Expressing Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Hodgkin's Antigens-GM-CSF-Expressing Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Hodgkin's Antigens-GM-CSF-Expressing Cell Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Hodgkin's Antigens-GM-CSF-Expressing Cell Vaccine</Synonym>
+<Synonym>KGEL Vaccine</Synonym>
+<Description>An allogeneic vaccine consisting of Hodgkin lymphoma cells transfected with the granulocyte macrophage-colony-stimulating factor (GM-CSF) gene with potential antineoplastic activity. Upon vaccination, Hodgkin antigens-GM-CSF-expressing cell vaccine may stimulate a cytotoxic T-lymphocyte (CTL) immune response against Hodgkin lymphoma-associated antigens, which may result in the lysis of tumor cells expressing these antigens. In addition, transfected Hodgkin lymphoma cells secrete GM-CSF, which may potentiate the CTL response against Hodgkin lymphoma-associated antigens.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

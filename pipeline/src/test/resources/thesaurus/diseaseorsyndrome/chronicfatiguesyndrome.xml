@@ -1,0 +1,44 @@
+<Record>
+<Term>Chronic Fatigue Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Immunodeficiency Syndrome</ParentTerm>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Encephalomyelitis</ParentTerm>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Fatigue Syndrome, Chronic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Chronic Fatigue Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Fatigue Syndrome, Chronic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Fatigue Syndrome, Chronic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Encephalomyelitis/Fatigue Syndrome, Chronic</ClassificationPath>
+<BroaderTerm>Fatigue Syndrome, Chronic</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Chronic Fatigue Syndrome</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Encephalomyelitis</BroaderTerm>
+<Synonym>Chronic Fatigue-Fibromyalgia Syndromes</Synonym>
+<Synonym>Postviral Fatigue Syndromes</Synonym>
+<Synonym>Chronic Fatigue Fibromyalgia Syndrome</Synonym>
+<Synonym>Chronic Fatigue Disorder</Synonym>
+<Synonym>Royal Free Disease</Synonym>
+<Synonym>Chronic Fatigue Syndrome</Synonym>
+<Synonym>Chronic Fatigue-Fibromyalgia Syndrome</Synonym>
+<Synonym>Chronic Fatigue and Immune Dysfunction Syndrome</Synonym>
+<Synonym>Chronic Fatigue Syndromes</Synonym>
+<Synonym>Chronic Fatigue Disorders</Synonym>
+<Synonym>Postviral Fatigue Syndrome</Synonym>
+<Synonym>Myalgic Encephalomyelitis</Synonym>
+<Description>A syndrome characterized by persistent or recurrent fatigue, diffuse musculoskeletal pain, sleep disturbances, and subjective cognitive impairment of 6 months duration or longer. Symptoms are not caused by ongoing exertion; are not relieved by rest; and result in a substantial reduction of previous levels of occupational, educational, social, or personal activities. Minor alterations of immune, neuroendocrine, and autonomic function may be associated with this syndrome. There is also considerable overlap between this condition and FIBROMYALGIA. (From Semin Neurol 1998;18(2):237-42; Ann Intern Med 1994 Dec 15;121(12): 953-9)</Description>
+<Description>A syndrome of unknown etiology. Chronic fatigue syndrome (CFS) is a clinical diagnosis characterized by an unexplained persistent or relapsing chronic fatigue that is of at least six months' duration, is not the result of ongoing exertion, is not substantially alleviated by rest, and results in substantial reduction of previous levels of occupational, educational, social, or personal activities. Common concurrent symptoms of at least six months duration include impairment of memory or concentration, diffuse pain, sore throat, tender lymph nodes, headaches of a new type, pattern, or severity, and nonrestorative sleep. The etiology of CFS may be viral or immunologic. Neurasthenia and fibromyalgia may represent related disorders. Also known as myalgic encephalomyelitis.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

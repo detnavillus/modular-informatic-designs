@@ -1,0 +1,18 @@
+<Record>
+<Term>Trichomonacide Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiprotozoal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Trichomonacide Agent</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Trichomonacide Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Tinidazole</ChildTerm>
+<ChildTerm>Metronidazole Hydrochloride</ChildTerm>
+<ChildTerm>Metronidazole</ChildTerm>
+<Synonym>Trichomonacide Agent</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

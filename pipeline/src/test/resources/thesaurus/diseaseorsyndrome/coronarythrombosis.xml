@@ -1,0 +1,21 @@
+<Record>
+<Term>Coronary Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thrombosis</ParentTerm>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Coronary Thrombosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Coronary Thrombosis</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<Synonym>Coronary Thromboses</Synonym>
+<Synonym>Coronary Thrombosis</Synonym>
+<Description>Coagulation of blood in any of the CORONARY VESSELS. The presence of a blood clot (THROMBUS) often leads to MYOCARDIAL INFARCTION.</Description>
+<Source>MeSH</Source>
+</Record>

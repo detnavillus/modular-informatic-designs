@@ -1,0 +1,35 @@
+<Record>
+<Term>Vertebral Artery Dissection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Aneurysm, Dissecting</ParentTerm>
+<ParentTerm>Cerebrovascular Trauma</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Trauma, Nervous System/Cerebrovascular Trauma/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Cerebrovascular Trauma/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Aneurysm, Dissecting/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Cerebrovascular Trauma/Vertebral Artery Dissection</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Trauma, Nervous System/Cerebrovascular Trauma/Vertebral Artery Dissection</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Trauma, Nervous System</BroaderTerm>
+<BroaderTerm>Vertebral Artery Dissection</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Aneurysm, Dissecting</BroaderTerm>
+<BroaderTerm>Cerebrovascular Trauma</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<Synonym>Vertebral Artery Dissection</Synonym>
+<Synonym>Spontaneous Vertebral Artery Dissection</Synonym>
+<Synonym>Vertebral Artery Dissections</Synonym>
+<Synonym>Traumatic Vertebral Artery Dissection</Synonym>
+<Synonym>Dissecting Vertebral Artery Aneurysm</Synonym>
+<Description>Splitting of the vessel wall in the VERTEBRAL ARTERY. Interstitial hemorrhage into the media of the vessel wall can lead to occlusion of the vertebral artery, aneurysm formation, or THROMBOEMBOLISM. Vertebral artery dissection is often associated with TRAUMA and injuries to the head-neck region but can occur spontaneously.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Secondary Adrenal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Addison's Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Adrenal Gland Insufficiency/Adrenal Cortical Insufficiency/Addison's Disease/Secondary Adrenal Insufficiency</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Secondary Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Adrenal Cortical Insufficiency</BroaderTerm>
+<BroaderTerm>Adrenal Gland Insufficiency</BroaderTerm>
+<BroaderTerm>Addison's Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Central Adrenal Insufficiency</Synonym>
+<Synonym>Secondary Adrenal Insufficiency</Synonym>
+<Description>A hormonal disorder that occurs when lack of corticotropin-releasing hormone (CRH) secretion from the hypothalamus or adrenocorticotropic hormone (ACTH) secretion from the pituitary is responsible for hypofunction of the adrenal cortex.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

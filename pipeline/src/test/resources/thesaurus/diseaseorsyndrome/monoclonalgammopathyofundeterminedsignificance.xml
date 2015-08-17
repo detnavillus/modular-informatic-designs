@@ -1,0 +1,33 @@
+<Record>
+<Term>Monoclonal Gammopathy of Undetermined Significance</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Hypergammaglobulinemia</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Paraproteinemias</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Hypergammaglobulinemia/Monoclonal Gammopathy of Undetermined Significance</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Hypergammaglobulinemia/Monoclonal Gammopathy of Undetermined Significance</ClassificationPath>
+<ClassificationPath>Monoclonal Gammopathy of Undetermined Significance</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Paraproteinemias/Monoclonal Gammopathy of Undetermined Significance</ClassificationPath>
+<BroaderTerm>Hypergammaglobulinemia</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Paraproteinemias</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Monoclonal Gammopathy of Undetermined Significance</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Schnitzler Syndrome</ChildTerm>
+<Synonym>Benign Monoclonal Gammopathy</Synonym>
+<Synonym>Benign Monoclonal Gammopathies</Synonym>
+<Synonym>Monoclonal Gammapathy of Undetermined Significance</Synonym>
+<Synonym>Monoclonal Gammopathy of Undetermined Significance</Synonym>
+<Synonym>Benign Monoclonal Gammapathies</Synonym>
+<Synonym>MGUS</Synonym>
+<Synonym>Monoclonal Gammopathy of Unknown Significance</Synonym>
+<Synonym>Benign Monoclonal Gammapathy</Synonym>
+<Description>A plasma cell disorder in which an abnormal amount of a single immunoglobulin is present in the serum. Up to 25% of cases of monoclonal gammopathy of undetermined significance (MGUS) progress to a B-cell malignancy or myeloma. MGUS may occur in conjunction with various carcinomas, chronic inflammatory and infectious conditions, and other diseases.</Description>
+<Description>Conditions characterized by the presence of M protein (Monoclonal protein) in serum or urine without clinical manifestations of plasma cell dyscrasia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

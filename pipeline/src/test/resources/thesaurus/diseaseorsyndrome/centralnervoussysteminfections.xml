@@ -1,0 +1,30 @@
+<Record>
+<Term>Central Nervous System Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Central Nervous System Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Central Nervous System Bacterial Infections</ChildTerm>
+<ChildTerm>Encephalitis</ChildTerm>
+<ChildTerm>Perimeningeal Infections</ChildTerm>
+<ChildTerm>Brain Abscess</ChildTerm>
+<ChildTerm>Myelitis</ChildTerm>
+<ChildTerm>Central Nervous System Parasitic Infections</ChildTerm>
+<ChildTerm>Meningoencephalitis</ChildTerm>
+<ChildTerm>Central Nervous System Fungal Infections</ChildTerm>
+<ChildTerm>Meningitis</ChildTerm>
+<ChildTerm>Encephalomyelitis</ChildTerm>
+<ChildTerm>Epidural Abscess</ChildTerm>
+<ChildTerm>Central Nervous System Viral Diseases</ChildTerm>
+<ChildTerm>Empyema, Subdural</ChildTerm>
+<ChildTerm>Prion Diseases</ChildTerm>
+<Synonym>Central Nervous System Infection</Synonym>
+<Synonym>Central Nervous System Infections</Synonym>
+<Description>Pathogenic infections of the brain, spinal cord, and meninges. DNA VIRUS INFECTIONS; RNA VIRUS INFECTIONS; BACTERIAL INFECTIONS; MYCOPLASMA INFECTIONS; SPIROCHAETALES INFECTIONS; fungal infections; PROTOZOAN INFECTIONS; HELMINTHIASIS; and PRION DISEASES may involve the central nervous system as a primary or secondary process.</Description>
+<Source>MeSH</Source>
+</Record>

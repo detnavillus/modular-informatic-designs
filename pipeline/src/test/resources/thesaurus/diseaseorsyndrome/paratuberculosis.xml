@@ -1,0 +1,22 @@
+<Record>
+<Term>Paratuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycobacterium Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Paratuberculosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Paratuberculosis</ClassificationPath>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Paratuberculosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Johne's Disease</Synonym>
+<Synonym>Johnes Disease</Synonym>
+<Synonym>Paratuberculoses</Synonym>
+<Synonym>Paratuberculosis</Synonym>
+<Synonym>Johne Disease</Synonym>
+<Description>A chronic GASTROENTERITIS in RUMINANTS caused by MYCOBACTERIUM AVIUM SUBSPECIES PARATUBERCULOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

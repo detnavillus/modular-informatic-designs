@@ -1,0 +1,14 @@
+<Record>
+<Term>Epiglottitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Laryngitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Laryngitis/Epiglottitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Laryngitis</BroaderTerm>
+<BroaderTerm>Epiglottitis</BroaderTerm>
+<Synonym>Epiglottitis</Synonym>
+<Synonym>Epiglottitides</Synonym>
+<Description>Inflammation of the epiglottis.</Description>
+<Source>MeSH</Source>
+</Record>

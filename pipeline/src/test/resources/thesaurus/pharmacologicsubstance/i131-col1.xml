@@ -1,0 +1,15 @@
+<Record>
+<Term>I131-COL1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/I131-COL1</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>I131-COL1</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I131-COL1</Synonym>
+<Description>A radioimmunoconjugate of a murine monoclonal antibody (MoAb) COL1, labeled with iodine 131 (I-131). COL1 recognizes an epitope of carcinoembryonic antigen (CEA), which is over-expressed in many tumor cell types. I-131 MoAb COL1 delivers beta and gamma radiation emitting I-131 nuclide directly to tumor cells that express CEA, thereby allowing imaging and/or treatment of cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

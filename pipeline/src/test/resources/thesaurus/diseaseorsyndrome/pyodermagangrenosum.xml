@@ -1,0 +1,19 @@
+<Record>
+<Term>Pyoderma Gangrenosum</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Vascular</ParentTerm>
+<ParentTerm>Skin Ulcer</ParentTerm>
+<ParentTerm>Pyoderma</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer/Pyoderma Gangrenosum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pyoderma/Pyoderma Gangrenosum</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular/Pyoderma Gangrenosum</ClassificationPath>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pyoderma</BroaderTerm>
+<BroaderTerm>Pyoderma Gangrenosum</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<Synonym>Pyoderma Gangrenosum</Synonym>
+<Description>An idiopathic, rapidly evolving, and severely debilitating disease occurring most commonly in association with chronic ulcerative colitis. It is characterized by the presence of boggy, purplish ulcers with undermined borders, appearing mostly on the legs. The majority of cases are in people between 40 and 60 years old. Its etiology is unknown.</Description>
+<Source>MeSH</Source>
+</Record>

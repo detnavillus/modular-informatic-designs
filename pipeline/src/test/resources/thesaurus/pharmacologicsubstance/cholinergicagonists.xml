@@ -1,0 +1,22 @@
+<Record>
+<Term>Cholinergic Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cholinergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinergic Agonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Cholinergic Agonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<ChildTerm>Nicotinic Agonists</ChildTerm>
+<ChildTerm>Muscarinic Agonists</ChildTerm>
+<Synonym>Acetylcholine Agonists</Synonym>
+<Synonym>Cholinergic Agonists</Synonym>
+<Synonym>Acetylcholine Agonist</Synonym>
+<Synonym>Cholinergic Agonist</Synonym>
+<Description>Drugs that bind to and activate cholinergic receptors.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Xenogeneic Tyrosinase DNA Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Melanoma Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Melanoma Vaccine/Xenogeneic Tyrosinase DNA Vaccine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Xenogeneic Tyrosinase DNA Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Melanoma Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Xenogeneic Tyrosinase DNA Vaccine</BroaderTerm>
+<BroaderTerm>Xenogeneic Tyrosinase DNA Vaccine,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Xenogeneic Tyrosinase DNA Vaccine</Synonym>
+<Description>A plasmid DNA vaccine, encoding an epitope of mouse tyrosinase, with potential antineoplastic activity. Administered via intramuscular electroporation, vaccination with xenogeneic tyrosinase DNA vaccine may induce both humoral and cytotoxic lymphocyte (CTL) immune responses against melanoma cells that express tyrosinase, resulting in decreased tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

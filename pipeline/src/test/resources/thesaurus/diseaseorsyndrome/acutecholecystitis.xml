@@ -1,0 +1,27 @@
+<Record>
+<Term>Acute Cholecystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cholecystitis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Gallbladder Diseases/Cholecystitis/Cholecystitis, Acute</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Liver and Biliary Tract Disorder/Biliary Tract Disorder/Gallbladder Disorder/Cholecystitis/Acute Cholecystitis</ClassificationPath>
+<BroaderTerm>Acute Cholecystitis</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cholecystitis, Acute</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gallbladder Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cholecystitis</BroaderTerm>
+<BroaderTerm>Liver and Biliary Tract Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Gallbladder Diseases</BroaderTerm>
+<ChildTerm>Acute Acalculous Cholecystitis</ChildTerm>
+<ChildTerm>Emphysematous Cholecystitis</ChildTerm>
+<Synonym>Acute Cholecystitis</Synonym>
+<Description>Acute inflammation of the GALLBLADDER wall. It is characterized by the presence of ABDOMINAL PAIN; FEVER; and LEUKOCYTOSIS. Gallstone obstruction of the CYSTIC DUCT is present in approximately 90% of the cases.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Adie Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tonic Pupil</ParentTerm>
+<ParentTerm>Oculomotor Nerve Diseases</ParentTerm>
+<ParentTerm>Autonomic Nervous System Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Pupil Disorders/Tonic Pupil/Adie Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Oculomotor Nerve Diseases/Adie Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Ocular Motility Disorders/Oculomotor Nerve Diseases/Adie Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Adie Syndrome</ClassificationPath>
+<BroaderTerm>Adie Syndrome</BroaderTerm>
+<BroaderTerm>Ocular Motility Disorders</BroaderTerm>
+<BroaderTerm>Tonic Pupil</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Oculomotor Nerve Diseases</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pupil Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Adie Syndrome</Synonym>
+<Synonym>Holmes-Adie Syndrome</Synonym>
+<Synonym>Holmes Adie Syndrome</Synonym>
+<Synonym>Adie's Syndrome</Synonym>
+<Description>A syndrome characterized by a TONIC PUPIL that occurs in combination with decreased lower extremity reflexes. The affected pupil will respond more briskly to accommodation than to light (light-near dissociation) and is supersensitive to dilute pilocarpine eye drops, which induce pupillary constriction. Pathologic features include degeneration of the ciliary ganglion and postganglionic parasympathetic fibers that innervate the pupillary constrictor muscle. (From Adams et al., Principles of Neurology, 6th ed, p279)</Description>
+<Source>MeSH</Source>
+</Record>

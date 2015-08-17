@@ -1,0 +1,16 @@
+<Record>
+<Term>Cytopenia with Increased Blasts of Mouse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myeloid Dysplasia of Mouse</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Precancerous Conditions/Myeloid Dysplasia of Mouse/Cytopenia with Increased Blasts of Mouse</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Cytopenia with Increased Blasts of Mouse</BroaderTerm>
+<BroaderTerm>Myeloid Dysplasia of Mouse</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Precancerous Conditions</BroaderTerm>
+<Synonym>Cytopenia with Increased Blasts</Synonym>
+<Synonym>Cytopenia with Increased Blasts of Mouse</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

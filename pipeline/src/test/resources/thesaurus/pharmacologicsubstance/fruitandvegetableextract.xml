@@ -1,0 +1,14 @@
+<Record>
+<Term>Fruit and Vegetable Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Fruit and Vegetable Extract</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fruit and Vegetable Extract</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fruit and Vegetable Extract</Synonym>
+<Synonym>Juice Plus</Synonym>
+<Description>Extracts from plants, such as fruits and vegetables, that contain fiber, vitamins, minerals, and other natural substances with antioxidant, lipid-lowering, and antiproliferative properties. Used in chemoprevention therapy, these extracts may prevent the development or recurrence of cancer. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

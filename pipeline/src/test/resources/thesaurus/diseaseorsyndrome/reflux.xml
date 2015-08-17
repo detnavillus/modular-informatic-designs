@@ -1,0 +1,33 @@
+<Record>
+<Term>Reflux</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Event</SemanticType>
+<ParentTerm>Retrograde Flow Medical Device Problem</ParentTerm>
+<ParentTerm>Non-Neoplastic Esophageal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Esophageal Disorder/Reflux</ClassificationPath>
+<ClassificationPath>Properties_or_Attributes_Kind/Property or Attribute/Reportable Event/Medical Device Failure or Malfunction/Medical Device Operational Issue/Infusion or Flow Issue Associated with Medical Device/Improper Flow or Infusion Associated with Medical Device/Retrograde Flow Medical Device Problem/Reflux within Device Medical Device Problem</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Medical Device Operational Issue</BroaderTerm>
+<BroaderTerm>Reflux within Device Medical Device Problem</BroaderTerm>
+<BroaderTerm>Properties_or_Attributes_Kind</BroaderTerm>
+<BroaderTerm>Infusion or Flow Issue Associated with Medical Device</BroaderTerm>
+<BroaderTerm>Medical Device Failure or Malfunction</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Reflux</BroaderTerm>
+<BroaderTerm>Property or Attribute</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Reportable Event</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Improper Flow or Infusion Associated with Medical Device</BroaderTerm>
+<BroaderTerm>Retrograde Flow Medical Device Problem</BroaderTerm>
+<ChildTerm>Gastroesophageal Reflux Disease</ChildTerm>
+<Synonym>Reflux within device</Synonym>
+<Synonym>Esophageal Reflux</Synonym>
+<Synonym>Reflux within Device Medical Device Problem</Synonym>
+<Synonym>Reflux</Synonym>
+<Synonym>reflux</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

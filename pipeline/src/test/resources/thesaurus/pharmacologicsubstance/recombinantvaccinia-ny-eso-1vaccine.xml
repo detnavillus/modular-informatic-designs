@@ -1,0 +1,18 @@
+<Record>
+<Term>Recombinant Vaccinia-NY-ESO-1 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-NY-ESO-1 Vaccine</ClassificationPath>
+<BroaderTerm>Recombinant Vaccinia-NY-ESO-1 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Vaccinia-NY-ESO-1 Vaccine</Synonym>
+<Synonym>rV-NY-ESO-1</Synonym>
+<Description>A cancer vaccine consisting of a recombinant vaccinia viral vector encoding an immunogenic peptide derived from the cancer-testis antigen NY-ESO-1, an antigen found in normal testis and various tumors, including bladder, breast, hepatocellular, melanoma, and prostate cancers. Vaccination with recombinant vaccinia NY-ESO-1 peptide vaccine may stimulate the host immune system to mount a humoral and cytotoxic T lymphocyte (CTL) response against tumor cells expressing NY-ESO-1 antigen, resulting in tumor cell lysis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

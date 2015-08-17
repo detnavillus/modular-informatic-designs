@@ -1,0 +1,24 @@
+<Record>
+<Term>Articaine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Articaine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Articaine Hydrochloride</ClassificationPath>
+<BroaderTerm>Articaine Hydrochloride</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Articaine</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Articaine Hydrochloride</Synonym>
+<Synonym>ARTICAINE</Synonym>
+<Synonym>Septocaine</Synonym>
+<Synonym>Ultracaine</Synonym>
+<Synonym>ARTICAINE HYDROCHLORIDE</Synonym>
+<Synonym>Articaine</Synonym>
+<Synonym>Septanest</Synonym>
+<Synonym>4-Methyl-3-(2-(propylamino)propionamido)-2-thiophenecarboxylic Acid Methyl Ester HCl</Synonym>
+<Synonym>2-Thiophenecarboxylic Acid, 4-Methyl-3-((1-oxo-2-(propylamino)propyl)amino)-, Methyl Ester, Monohydrochloride</Synonym>
+<Description>The hydrochloride salt form of articaine, an amide-type local anesthetic. Articaine hydrochloride reversibly blocks nerve impulse conduction by binding to specific membrane sodium ion channels thereby interfering with the electrical excitation in the nerve, slowing the propagation of the nerve impulse and reducing the rate of rise of the action potential. This results in a loss of sensation at the injection site. Articaine hydrochloride is used for relief of pain in minor operations, usually in combination with the vasoconstrictor epinephrine.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

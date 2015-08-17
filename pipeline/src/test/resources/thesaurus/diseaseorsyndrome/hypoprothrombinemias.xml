@@ -1,0 +1,28 @@
+<Record>
+<Term>Hypoprothrombinemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Protein Disorders</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hypoprothrombinemias</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/Hypoprothrombinemias</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Hypoprothrombinemias</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Hypoprothrombinemias</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hypoprothrombinemias</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Hypoprothrombinemia</Synonym>
+<Synonym>Prothrombin Deficiencies</Synonym>
+<Synonym>Prothrombin Deficiency</Synonym>
+<Synonym>Factor II Deficiency</Synonym>
+<Synonym>Hypoprothrombinemias</Synonym>
+<Synonym>Factor II Deficiencies</Synonym>
+<Description>Absence or reduced levels of prothrombin in the blood.</Description>
+<Source>MeSH</Source>
+</Record>

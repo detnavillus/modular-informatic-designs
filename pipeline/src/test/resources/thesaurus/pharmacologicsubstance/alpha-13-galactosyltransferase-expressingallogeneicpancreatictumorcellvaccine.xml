@@ -1,0 +1,20 @@
+<Record>
+<Term>Alpha-1,3-Galactosyltransferase-Expressing Allogeneic Pancreatic Tumor Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tumor Cell Derivative Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Tumor Cell Derivative Vaccine/Alpha-1,3-Galactosyltransferase-Expressing Allogeneic Pancreatic Tumor Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Tumor Cell Derivative Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Alpha-1,3-Galactosyltransferase-Expressing Allogeneic Pancreatic Tumor Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Alpha (1,3) Galactosyltransferase Tumor Vaccine</Synonym>
+<Synonym>Alpha-1,3-Galactosyltransferase-Expressing Allogeneic Pancreatic Tumor Cell Vaccine</Synonym>
+<Synonym>Alpha-1,3-Galactosyltransferase-expressing Allogeneic Pancreatic Tumor Cell Vaccine</Synonym>
+<Synonym>Hyperacute Pancreatic Cancer Vaccine</Synonym>
+<Description>A cancer vaccine comprised of irradiated allogeneic pancreatic cancer cells transfected to express murine alpha-1,3-galactosyltransferase with potential antitumor activity. Vaccination is associated with the expression of murine alpha-1,3-galactosyl (alpha-gal) carbohydrate residues on cell membrane glycoproteins and glycolipids of the vaccine pancreatic cancer cell allograft; murine alpha-gal epitopes, not present on human cells, then induce a hyperacute rejection of the vaccine pancreatic cancer cell allograft. The hyperacute rejection involves the binding of pre-existing human anti-alpha-gal antibodies (which naturally occur against gut flora) to murine alpha-gal epitopes, resulting in the rapid activation of antibody-dependent cell-mediated cytotoxicity (ADCC) towards allograft cells. The host immune system then attacks endogenous pancreatic cancer cells, resulting in ADCC towards endogenous pancreatic cancer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

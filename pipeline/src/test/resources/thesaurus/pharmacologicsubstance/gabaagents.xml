@@ -1,0 +1,23 @@
+<Record>
+<Term>GABA Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/GABA Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/GABA Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>GABA Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>GABA Modulators</ChildTerm>
+<ChildTerm>GABA Antagonists</ChildTerm>
+<ChildTerm>GABA Agonists</ChildTerm>
+<Synonym>GABAergic Agent</Synonym>
+<Synonym>gamma Aminobutyric Acid Agents</Synonym>
+<Synonym>gamma-Aminobutyric Acid Agents</Synonym>
+<Synonym>GABAergic Agents</Synonym>
+<Synonym>GABA Agents</Synonym>
+<Description>Substances used for their pharmacological actions on GABAergic systems. GABAergic agents include agonists, antagonists, degradation or uptake inhibitors, depleters, precursors, and modulators of receptor function.</Description>
+<Source>MeSH</Source>
+</Record>

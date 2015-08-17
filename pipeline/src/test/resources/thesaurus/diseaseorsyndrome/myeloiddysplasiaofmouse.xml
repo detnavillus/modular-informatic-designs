@@ -1,0 +1,21 @@
+<Record>
+<Term>Myeloid Dysplasia of Mouse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Precancerous Conditions</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Hematologic Disorder/Myeloid Dysplasia of Mouse,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Precancerous Conditions/Myeloid Dysplasia of Mouse</ClassificationPath>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Myeloid Dysplasia of Mouse</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Myeloid Dysplasia of Mouse,</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Precancerous Conditions</BroaderTerm>
+<BroaderTerm>Mouse Hematologic Disorder</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Cytopenia with Increased Blasts of Mouse</ChildTerm>
+<ChildTerm>Mouse Myelodysplastic Syndrome</ChildTerm>
+<Synonym>Myeloid Dysplasia</Synonym>
+<Synonym>Myeloid Dysplasia of Mouse</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

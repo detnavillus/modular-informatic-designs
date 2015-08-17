@@ -1,0 +1,17 @@
+<Record>
+<Term>Paranasal Sinus Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nose Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Paranasal Sinus Diseases</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Paranasal Sinus Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Diseases</BroaderTerm>
+<ChildTerm>Paranasal Sinus Neoplasms</ChildTerm>
+<ChildTerm>Sinusitis</ChildTerm>
+<Synonym>Paranasal Sinus Disease</Synonym>
+<Synonym>Paranasal Sinus Diseases</Synonym>
+<Description>Diseases affecting or involving the PARANASAL SINUSES and generally manifesting as inflammation, abscesses, cysts, or tumors.</Description>
+<Source>MeSH</Source>
+</Record>

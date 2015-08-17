@@ -1,0 +1,22 @@
+<Record>
+<Term>Rectal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Rectal Diseases</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Rectal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Anus Diseases</ChildTerm>
+<ChildTerm>Colorectal Neoplasms</ChildTerm>
+<ChildTerm>Proctitis</ChildTerm>
+<ChildTerm>Rectal Fistula</ChildTerm>
+<ChildTerm>Rectal Prolapse</ChildTerm>
+<ChildTerm>Rectocele</ChildTerm>
+<ChildTerm>Fecal Incontinence</ChildTerm>
+<ChildTerm>Hemorrhoids</ChildTerm>
+<Synonym>Rectal Diseases</Synonym>
+<Synonym>Rectal Disease</Synonym>
+<Description>Pathological developments in the RECTUM region of the large intestine (INTESTINE, LARGE).</Description>
+<Source>MeSH</Source>
+</Record>

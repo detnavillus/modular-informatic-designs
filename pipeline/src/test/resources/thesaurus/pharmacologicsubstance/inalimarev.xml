@@ -1,0 +1,22 @@
+<Record>
+<Term>Inalimarev</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Recombinant Vaccinia-TRICOM Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-TRICOM Vaccine/Inalimarev</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Inalimarev</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Inalimarev</Synonym>
+<Synonym>PANVAC-V</Synonym>
+<Synonym>Recombinant Vaccinia-CEA-MUC1-TRICOM Vaccine</Synonym>
+<Synonym>rVaccinia-CEA(D609)/MUC1(L93)/TRICOM Vaccine</Synonym>
+<Description>A cancer vaccine comprised of a recombinant vaccinia viral vector encoding the carcinoembryonic antigen (CEA), MUC-1 (mucin-1), a transmembrane glycoprotein secreted by glandular tissues, and TRICOM, comprised of the three co-stimulatory molecule transgenes B7-1, ICAM-1 and LFA-3. Upon administration, inalimarev may enhance CEA and MUC-1 presentation to antigen presenting cells (APC) and may activate a cytotoxic T lymphocyte (CTL) response against CEA- and MUC-1-expressing tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

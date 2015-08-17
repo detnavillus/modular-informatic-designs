@@ -1,0 +1,33 @@
+<Record>
+<Term>Tic Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Tic Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Tic Disorders</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Tic Disorders</BroaderTerm>
+<ChildTerm>Tourette Syndrome</ChildTerm>
+<Synonym>Motor Tic Disorders</Synonym>
+<Synonym>Vocal Tic Disorder</Synonym>
+<Synonym>Post-Traumatic Tic Disorder</Synonym>
+<Synonym>Motor Tic Disorder</Synonym>
+<Synonym>Post Traumatic Tic Disorder</Synonym>
+<Synonym>Vocal Tic Disorders</Synonym>
+<Synonym>Tic Disorders</Synonym>
+<Synonym>Transient Tic Disorder</Synonym>
+<Synonym>Tic Disorder</Synonym>
+<Synonym>Childhood Tic Disorder</Synonym>
+<Synonym>Childhood Tic Disorders</Synonym>
+<Synonym>Transient Tic Disorders</Synonym>
+<Synonym>Chronic Motor or Vocal Tic Disorder</Synonym>
+<Synonym>Post-Traumatic Tic Disorders</Synonym>
+<Description>Disorders characterized by recurrent TICS that may interfere with speech and other activities. Tics are sudden, rapid, nonrhythmic, stereotyped motor movements or vocalizations which may be exacerbated by stress and are generally attenuated during absorbing activities. Tic disorders are distinguished from conditions which feature other types of abnormal movements that may accompany general medical conditions. (From DSM-IV, 1994)</Description>
+<Source>MeSH</Source>
+</Record>

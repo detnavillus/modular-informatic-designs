@@ -1,0 +1,16 @@
+<Record>
+<Term>Recombinant Leukoregulin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Cytokine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Leukoregulin</ClassificationPath>
+<BroaderTerm>Recombinant Leukoregulin</BroaderTerm>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Recombinant Leukoregulin</Synonym>
+<Description>A formulated therapeutic analog of the endogenous lymphokine leukoregulin with potential antineoplastic activity.  Leukoregulin displays direct and indirect cytotoxicity through tumor cell lysis and enhancing tumor cell susceptibility to natural killer cell-mediated cytotoxicity.  This agent enhances membrane permeability and decreases p-glycoprotein expression, thereby promoting cytotoxic drug uptake into tumor cells.  Leukoregulin also induces the synthesis of collagenase and hyaluronan, expression and secretion of interleukin-8, and upregulates stromelysin-1 gene expression in human fibroblasts, thereby regulating extracellular matrix degradation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

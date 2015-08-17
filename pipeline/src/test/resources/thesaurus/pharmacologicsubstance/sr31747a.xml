@@ -1,0 +1,15 @@
+<Record>
+<Term>SR31747A</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/SR31747A</ClassificationPath>
+<BroaderTerm>SR31747A</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SR31747A</Synonym>
+<Description>A synthetic peripheral sigma receptor ligand with immunomodulatory and potential antitumor activities. Although the exact mechanism by which SR31747A exerts its antitumor effects has not been fully established, SR31747A binds to and inhibits the sigma1 receptor (SR31747A-binding protein-1 or SR-BP1), human sterol isomerase (emopamil-binding protein) and the sigma2 receptor, which may result in a reduction in tumor cell proliferation and tumor cell apoptosis. In addition, this agent inhibits the production of pro-inflammatory cytokines while increasing anti-inflammatory cytokines. Upregulated in various cancers, the sigma1 and sigma2 receptors and human sterol isomerase are proteins that are involved in the regulation of cell proliferation and survival.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

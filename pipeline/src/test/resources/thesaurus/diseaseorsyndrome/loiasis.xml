@@ -1,0 +1,29 @@
+<Record>
+<Term>Loiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Filariasis</ParentTerm>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Spirurida Infections/Filariasis/Loiasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Loiasis</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Spirurida Infections</BroaderTerm>
+<BroaderTerm>Filariasis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Loiasis</BroaderTerm>
+<Synonym>Loaiases</Synonym>
+<Synonym>Loiases</Synonym>
+<Synonym>Loaiasis</Synonym>
+<Synonym>Loiasis</Synonym>
+<Description>A parasitic infection caused by the nematode Loa loa. The vector in the transmission of this infection is the horsefly (Tabanus) or the deerfly or mango fly (Chrysops). The larvae may be seen just beneath the skin or passing through the conjunctiva. Eye lesions are not uncommon. The disease is generally mild and painless.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

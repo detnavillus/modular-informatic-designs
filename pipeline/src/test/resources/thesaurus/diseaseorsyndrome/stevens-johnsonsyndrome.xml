@@ -1,0 +1,33 @@
+<Record>
+<Term>Stevens-Johnson Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Erythema Multiforme</ParentTerm>
+<ParentTerm>Stomatitis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vesiculobullous/Erythema Multiforme/Stevens-Johnson Syndrome</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Stomatitis/Stevens-Johnson Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Erythema Multiforme/Erythema Multiforme Major</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Erythema/Erythema Multiforme/Stevens-Johnson Syndrome</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Stevens-Johnson Syndrome</BroaderTerm>
+<BroaderTerm>Erythema</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Vesiculobullous</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Erythema Multiforme</BroaderTerm>
+<BroaderTerm>Erythema Multiforme Major</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Stomatitis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<Synonym>Erythema Multiforme Major</Synonym>
+<Synonym>Stevens-Johnson Syndrome</Synonym>
+<Synonym>Stevens Johnson Syndrome</Synonym>
+<Description>A variant of bullous erythema multiforme. It ranges from mild skin and mucous membrane lesions to a severe, sometimes fatal systemic disorder. Ocular symptoms include ulcerative conjunctivitis, keratitis, iritis, uveitis, and sometimes blindness. The cause of the disease is unknown.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

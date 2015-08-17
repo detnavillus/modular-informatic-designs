@@ -1,0 +1,123 @@
+<Record>
+<Term>Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ParentTerm>Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Disease/Syndrome</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Toxic Shock Syndrome</ChildTerm>
+<ChildTerm>Organic Brain Syndrome</ChildTerm>
+<ChildTerm>Vertebral Artery Syndrome</ChildTerm>
+<ChildTerm>Parinaud Syndrome</ChildTerm>
+<ChildTerm>Morquio Syndrome</ChildTerm>
+<ChildTerm>Bartter Syndrome</ChildTerm>
+<ChildTerm>Allgrove Syndrome</ChildTerm>
+<ChildTerm>Subclavian Steal Syndrome</ChildTerm>
+<ChildTerm>Cervicocranial Syndrome</ChildTerm>
+<ChildTerm>Dry Eye Syndrome</ChildTerm>
+<ChildTerm>Down Syndrome</ChildTerm>
+<ChildTerm>Nephrotic Syndrome</ChildTerm>
+<ChildTerm>Cockayne Syndrome</ChildTerm>
+<ChildTerm>Sick Sinus Syndrome</ChildTerm>
+<ChildTerm>Hurler Syndrome</ChildTerm>
+<ChildTerm>Wolfram Syndrome</ChildTerm>
+<ChildTerm>Hereditary Benign Intraepithelial Dyskeratosis</ChildTerm>
+<ChildTerm>Noonan Syndrome</ChildTerm>
+<ChildTerm>Goodpasture Syndrome</ChildTerm>
+<ChildTerm>Achenbach Syndrome</ChildTerm>
+<ChildTerm>Leriche Syndrome</ChildTerm>
+<ChildTerm>Maroteaux-Lamy Syndrome</ChildTerm>
+<ChildTerm>Menopausal Syndrome</ChildTerm>
+<ChildTerm>Dialyzer First Use Syndrome</ChildTerm>
+<ChildTerm>Pre-Excitation Syndrome</ChildTerm>
+<ChildTerm>Aicardi Syndrome</ChildTerm>
+<ChildTerm>Acute Coronary Syndrome</ChildTerm>
+<ChildTerm>Wernicke-Korsakoff Syndrome</ChildTerm>
+<ChildTerm>Cartilage Hair Hypoplasia</ChildTerm>
+<ChildTerm>DiGeorge Syndrome</ChildTerm>
+<ChildTerm>Twiddler's Syndrome</ChildTerm>
+<ChildTerm>Ehlers-Danlos Syndrome</ChildTerm>
+<ChildTerm>Cerebrooculofacioskeletal Syndrome</ChildTerm>
+<ChildTerm>Paraneoplastic Syndrome</ChildTerm>
+<ChildTerm>Bonnevie-Ullrich Syndrome</ChildTerm>
+<ChildTerm>Wolf-Hirschhorn Syndrome</ChildTerm>
+<ChildTerm>Aortic Arch Syndrome</ChildTerm>
+<ChildTerm>Fanconi Syndrome</ChildTerm>
+<ChildTerm>Hermansky-Pudlak Syndrome</ChildTerm>
+<ChildTerm>Superior Vena Cava Syndrome</ChildTerm>
+<ChildTerm>Schwachmann-Diamond Syndrome</ChildTerm>
+<ChildTerm>Sjogren Syndrome</ChildTerm>
+<ChildTerm>Adherence Syndrome</ChildTerm>
+<ChildTerm>Sheehan Syndrome</ChildTerm>
+<ChildTerm>Capgras Syndrome</ChildTerm>
+<ChildTerm>Holmes-Adie Syndrome</ChildTerm>
+<ChildTerm>Somnolence Syndrome</ChildTerm>
+<ChildTerm>Loffler Syndrome</ChildTerm>
+<ChildTerm>Uveitis Glaucoma And Hyphema Syndrome</ChildTerm>
+<ChildTerm>Tourette Syndrome</ChildTerm>
+<ChildTerm>Temporomandibular Joint Dysfunction Syndrome</ChildTerm>
+<ChildTerm>Marfan Syndrome</ChildTerm>
+<ChildTerm>Teething Syndrome</ChildTerm>
+<ChildTerm>Alper Syndrome</ChildTerm>
+<ChildTerm>Dumping Syndrome</ChildTerm>
+<ChildTerm>Carpal Tunnel Syndrome</ChildTerm>
+<ChildTerm>Progeria</ChildTerm>
+<ChildTerm>Sanfilippo Syndrome</ChildTerm>
+<ChildTerm>Reye Syndrome</ChildTerm>
+<ChildTerm>Cauda Equina Syndrome</ChildTerm>
+<ChildTerm>Omenn Syndrome</ChildTerm>
+<ChildTerm>Schwartz Syndrome</ChildTerm>
+<ChildTerm>Greig Syndrome</ChildTerm>
+<ChildTerm>Lipase Hypersecretion Syndrome</ChildTerm>
+<ChildTerm>Alagille Syndrome</ChildTerm>
+<ChildTerm>Miliaria</ChildTerm>
+<ChildTerm>Potter Syndrome</ChildTerm>
+<ChildTerm>Antiphospholipid Syndrome</ChildTerm>
+<ChildTerm>Acroparesthesia Syndrome</ChildTerm>
+<ChildTerm>Diffuse Infiltrative Lymphocytosis Syndrome</ChildTerm>
+<ChildTerm>Scheie Syndrome</ChildTerm>
+<ChildTerm>Adrenogenital Syndrome</ChildTerm>
+<ChildTerm>Frohlich Syndrome</ChildTerm>
+<ChildTerm>Aagenaes Syndrome</ChildTerm>
+<ChildTerm>Tooth and Nail Syndrome</ChildTerm>
+<ChildTerm>Abstinence Syndrome</ChildTerm>
+<ChildTerm>Cri du Chat Syndrome</ChildTerm>
+<ChildTerm>Sunset Syndrome</ChildTerm>
+<ChildTerm>Endocrine Syndrome</ChildTerm>
+<ChildTerm>Behcet Syndrome</ChildTerm>
+<ChildTerm>Lesch-Nyhan Syndrome</ChildTerm>
+<ChildTerm>Sleep Apnea</ChildTerm>
+<ChildTerm>Dubin-Johnson Syndrome</ChildTerm>
+<ChildTerm>Coffin-Siris Syndrome</ChildTerm>
+<ChildTerm>Alport Syndrome</ChildTerm>
+<ChildTerm>Sicca Syndrome</ChildTerm>
+<ChildTerm>Neoplastic Syndrome</ChildTerm>
+<ChildTerm>Laurence-Moon Syndrome</ChildTerm>
+<ChildTerm>Respiratory Distress Syndrome</ChildTerm>
+<ChildTerm>Capillary Leak Syndrome</ChildTerm>
+<ChildTerm>Radiation Sickness Syndrome</ChildTerm>
+<ChildTerm>Raynaud's Syndrome</ChildTerm>
+<ChildTerm>Achard Syndrome</ChildTerm>
+<ChildTerm>Evan Syndrome</ChildTerm>
+<ChildTerm>Basilar Artery Syndrome</ChildTerm>
+<ChildTerm>Hunter Syndrome</ChildTerm>
+<ChildTerm>Malabsorption Syndrome</ChildTerm>
+<ChildTerm>Churg-Strauss Syndrome</ChildTerm>
+<ChildTerm>CREST Syndrome</ChildTerm>
+<ChildTerm>Palmar-Plantar Erythodysthesia</ChildTerm>
+<ChildTerm>Reiter Syndrome</ChildTerm>
+<Synonym>Syndromes</Synonym>
+<Synonym>syndrome</Synonym>
+<Synonym>Syndrome</Synonym>
+<Description>A symptom complex of unknown etiology, that is characteristic of a particular abnormality.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

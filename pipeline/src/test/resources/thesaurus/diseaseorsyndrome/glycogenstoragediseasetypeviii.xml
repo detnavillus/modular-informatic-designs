@@ -1,0 +1,22 @@
+<Record>
+<Term>Glycogen Storage Disease Type VIII</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VIII</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Glycogen Storage Disease Type VIII</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VIII</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type VIII</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>Glycogen Storage Disease Type VIII</Synonym>
+<Synonym>Glycogenosis 8</Synonym>
+<Description>An x-linked recessive hepatic glycogen storage disease resulting from lack of expression of phosphorylase-b-kinase activity. Symptoms are relatively mild; hepatomegaly, increased liver glycogen, and decreased leukocyte phosphorylase are present. Liver shrinkage occurs in response to glucagon.</Description>
+<Source>MeSH</Source>
+</Record>

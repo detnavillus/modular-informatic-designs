@@ -1,0 +1,17 @@
+<Record>
+<Term>Shared Anti-Idiotype-AB-S005</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Shared Anti-Idiotype-AB-S005</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Shared Anti-Idiotype-AB-S005</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Shared Anti-Idiotype AB-S005</Synonym>
+<Synonym>Shared Anti-Idiotype-AB-S005</Synonym>
+<Description>A monoclonal antibody directed against a specific tumor-associated antigen (TAA). (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

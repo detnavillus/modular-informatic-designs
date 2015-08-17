@@ -1,0 +1,18 @@
+<Record>
+<Term>CI-1040</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Mitogen-Activated Protein Kinase Kianse Inhibitor/CI-1040</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CI-1040</BroaderTerm>
+<BroaderTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CI-1040</Synonym>
+<Synonym>PD 184352/CI-1040</Synonym>
+<Synonym>PD-184352</Synonym>
+<Description>An agent that inhibits both mitogen-activated protein kinase kinases 1 and 2 (MEK1 and MEK2), substrates of Raf and phosphorylates extracellular signal-regulated kinases 1 and 2 (ERK1 and ERK2), preventing phosphorylation and activation of the Mitogen-Activated Protein Kinase (MAPK) pathways, involved with signal transduction pathways and tumor proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

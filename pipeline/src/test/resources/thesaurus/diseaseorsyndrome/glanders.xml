@@ -1,0 +1,28 @@
+<Record>
+<Term>Glanders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Horse Diseases</ParentTerm>
+<ParentTerm>Burkholderia Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Horse Diseases/Glanders</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Burkholderia Infections/Glanders</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Glanders</ClassificationPath>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Horse Diseases</BroaderTerm>
+<BroaderTerm>Glanders</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Burkholderia Infections</BroaderTerm>
+<Synonym>Glanders</Synonym>
+<Description>A contagious disease of horses that can be transmitted to humans. It is caused by BURKHOLDERIA MALLEI and characterized by ulceration of the respiratory mucosa and an eruption of nodules on the skin.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

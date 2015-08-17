@@ -1,0 +1,18 @@
+<Record>
+<Term>Nephrogenic Adenoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Urinary System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Non-Neoplastic Urinary System Disorder/Nephrogenic Adenoma</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Nephrogenic Adenoma</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Urinary Bladder Nephrogenic Adenoma</ChildTerm>
+<ChildTerm>Urethral Nephrogenic Adenoma</ChildTerm>
+<Synonym>Nephrogenic Adenoma</Synonym>
+<Description>So-called nephrogenic adenoma is a distinct metaplastic lesion of the urothelium characterized by aggregates of cuboidal or hobnail cells.  These cells line thin papillary fronds on the surface or form tubular structures within the lamina propria.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Hemiasterlin Analog E7974</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vinca-Domain Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Vinca-Domain Binding Agent/Hemiasterlin Analog E7974</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hemiasterlin Analog E7974</BroaderTerm>
+<BroaderTerm>Vinca-Domain Binding Agent</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>E7974</Synonym>
+<Synonym>Hemiasterlin Analog E7974</Synonym>
+<Description>An analog of the sponge-derived anti-microtubule tripeptide hemiasterlin with antimitotic and potential antineoplastic activities. Hemiasterlin analog E7974 binds to the Vinca domain on tubulin, resulting in inhibition of tubulin polymerization and microtubule assembly; depolymerization of existing microtubules; inhibition of mitosis; and inhibition of cellular proliferation. This agent may have more affinity for the beta-3 tubulin isotype.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

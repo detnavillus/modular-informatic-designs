@@ -1,0 +1,24 @@
+<Record>
+<Term>Cardiovascular Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Cardiovascular Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections/Tuberculosis, Cardiovascular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections/Tuberculosis, Cardiovascular</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Cardiovascular</ClassificationPath>
+<BroaderTerm>Tuberculosis, Cardiovascular</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pericarditis, Tuberculous</ChildTerm>
+<Synonym>Cardiovascular Tuberculosis</Synonym>
+<Synonym>Cardiovascular Tuberculoses</Synonym>
+<Description>Pathological conditions of the CARDIOVASCULAR SYSTEM caused by infection of MYCOBACTERIUM TUBERCULOSIS. Tuberculosis involvement may include the HEART; the BLOOD VESSELS; or the PERICARDIUM.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Atrial Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Supraventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Atrial Tachycardia</ClassificationPath>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Atrial Tachycardia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Paroxysmal Atrial Tachycardia</ChildTerm>
+<Synonym>ATRIAL TACHYCARDIA</Synonym>
+<Synonym>Atrial Tachycardia</Synonym>
+<Synonym>Atrial tachycardia</Synonym>
+<Description>Any rapid heart rhythm originating in the atria.  Atrial fibrillation and atrial flutter are varieties of atrial tachycardia.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

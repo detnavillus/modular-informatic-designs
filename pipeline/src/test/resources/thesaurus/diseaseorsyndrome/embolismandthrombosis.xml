@@ -1,0 +1,16 @@
+<Record>
+<Term>Embolism and Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Thromboembolism</ChildTerm>
+<ChildTerm>Thrombosis</ChildTerm>
+<ChildTerm>Embolism</ChildTerm>
+<Synonym>Embolism and Thrombosis</Synonym>
+<Synonym>Thrombosis and Embolism</Synonym>
+<Description>A collective term for pathological conditions which are caused by the formation of a blood clot (THROMBUS) in a blood vessel, or by blocking of a blood vessel with an EMBOLUS, undissolved materials in the blood stream.</Description>
+<Source>MeSH</Source>
+</Record>

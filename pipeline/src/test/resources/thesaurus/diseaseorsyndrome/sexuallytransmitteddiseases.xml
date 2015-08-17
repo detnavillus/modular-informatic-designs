@@ -1,0 +1,30 @@
+<Record>
+<Term>Sexually Transmitted Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sexually Transmitted Diseases</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexually Transmitted Diseases</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexually Transmitted Diseases</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Sexually Transmitted Diseases, Bacterial</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases, Viral</ChildTerm>
+<Synonym>Sexually Transmitted Diseases</Synonym>
+<Synonym>STDs</Synonym>
+<Synonym>Venereal Disease</Synonym>
+<Synonym>Sexually Transmitted Disease</Synonym>
+<Synonym>Venereal Diseases</Synonym>
+<Description>Diseases due to or propagated by sexual contact.</Description>
+<Source>MeSH</Source>
+</Record>

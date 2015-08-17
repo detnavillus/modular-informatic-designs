@@ -1,0 +1,27 @@
+<Record>
+<Term>Acute Myocardial Infarction</Term>
+<SemanticType>Conceptual Entity</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myocardial Infarction</ParentTerm>
+<ParentTerm>Disease Pathway</ParentTerm>
+<ClassificationPath>Pathway_Kind/Biochemical Pathway/Disease Pathway/Acute Myocardial Infarction Pathway</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Myocardial Infarction/Acute Myocardial Infarction</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Acute Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Biochemical Pathway</BroaderTerm>
+<BroaderTerm>Acute Myocardial Infarction Pathway</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Disease Pathway</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pathway_Kind</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>Acute Myocardial Infarction</Synonym>
+<Synonym>Acute Myocardial Infarction Pathway</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

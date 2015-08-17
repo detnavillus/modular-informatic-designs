@@ -1,0 +1,35 @@
+<Record>
+<Term>Nasopharyngitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pharyngitis</ParentTerm>
+<ParentTerm>Nasopharyngeal Disorder</ParentTerm>
+<ParentTerm>Nasopharyngeal Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Pharyngeal Disorder/Nasopharyngeal Disorder/Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pharyngitis/Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Nasopharyngeal Diseases/Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Nasopharyngeal Diseases/Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Pharyngitis/Nasopharyngitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Pharyngitis/Nasopharyngitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Pharyngeal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Pharyngitis</BroaderTerm>
+<BroaderTerm>Nasopharyngeal Disorder</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Nasopharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Nasopharyngitis</BroaderTerm>
+<ChildTerm>Acute Nasopharyngitis</ChildTerm>
+<Synonym>Nasopharyngitides</Synonym>
+<Synonym>Nasopharyngitis</Synonym>
+<Description>Inflammation of the NASOPHARYNX, usually including its mucosa, related lymphoid structure, and glands.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>African Swine Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>DNA Virus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases/African Swine Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/African Swine Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases/African Swine Fever</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>African Swine Fever</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Wart-Hog Diseases</Synonym>
+<Synonym>Wart Hog Disease</Synonym>
+<Synonym>African Swine Fever</Synonym>
+<Synonym>Wart-Hog Disease</Synonym>
+<Description>A sometimes fatal ASFIVIRUS infection of pigs, characterized by fever, cough, diarrhea, hemorrhagic lymph nodes, and edema of the gallbladder. It is transmitted between domestic swine by direct contact, ingestion of infected meat, or fomites, or mechanically by biting flies or soft ticks (genus Ornithodoros).</Description>
+<Source>MeSH</Source>
+</Record>

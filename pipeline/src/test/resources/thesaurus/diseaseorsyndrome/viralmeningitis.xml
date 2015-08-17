@@ -1,0 +1,24 @@
+<Record>
+<Term>Viral Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Meningitis</ParentTerm>
+<ParentTerm>Central Nervous System Viral Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Viral</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Meningitis, Viral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Meningitis, Viral</ClassificationPath>
+<ClassificationPath>Virus Diseases/Meningitis, Viral</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Meningitis, Viral</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Lymphocytic Choriomeningitis</ChildTerm>
+<ChildTerm>Meningitis, Aseptic</ChildTerm>
+<Synonym>Viral Meningitides</Synonym>
+<Synonym>Viral Meningitis</Synonym>
+<Description>Viral infections of the leptomeninges and subarachnoid space. TOGAVIRIDAE INFECTIONS; FLAVIVIRIDAE INFECTIONS; RUBELLA; BUNYAVIRIDAE INFECTIONS; ORBIVIRUS infections; PICORNAVIRIDAE INFECTIONS; ORTHOMYXOVIRIDAE INFECTIONS; RHABDOVIRIDAE INFECTIONS; ARENAVIRIDAE INFECTIONS; HERPESVIRIDAE INFECTIONS; ADENOVIRIDAE INFECTIONS; JC VIRUS infections; and RETROVIRIDAE INFECTIONS may cause this form of meningitis. Clinical manifestations include fever, headache, neck pain, vomiting, PHOTOPHOBIA, and signs of meningeal irritation. (From Joynt, Clinical Neurology, 1996, Ch26, pp1-3)</Description>
+<Source>MeSH</Source>
+</Record>

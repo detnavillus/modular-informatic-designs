@@ -1,0 +1,37 @@
+<Record>
+<Term>Fluticasone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Fluticasone Propionate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Fluticasone</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Fluticasone</BroaderTerm>
+<BroaderTerm>Fluticasone Propionate</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Veramyst</Synonym>
+<Synonym>Flovent diskus 250</Synonym>
+<Synonym>(6alpha,11beta,16alpha,17alpha)-6,9-Difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic Acid, S-(Fluoromethyl) Ester</Synonym>
+<Synonym>Fluticasone Propionate</Synonym>
+<Synonym>Flovent</Synonym>
+<Synonym>Flovent hfa</Synonym>
+<Synonym>Flovent diskus 100</Synonym>
+<Synonym>FLUTICASONE</Synonym>
+<Synonym>Flonase</Synonym>
+<Synonym>FLUTICASONE PROPIONATE</Synonym>
+<Synonym>Fluticasone furoate</Synonym>
+<Synonym>Cutivate</Synonym>
+<Synonym>Flovent diskus 50</Synonym>
+<Synonym>Fluticasone</Synonym>
+<Synonym>Fluticasone propionate</Synonym>
+<Description>The propionate salt form of fluticasone, a synthetic trifluorinated glucocorticoid receptor agonist with antiallergic, antiinflammatory and antipruritic effects. Binding and activation of the glucocorticoid receptor results in the activation of lipocortin that in turn inhibits cytosolic phospholipase A2, which triggers cascade of reactions involved in synthesis of inflammatory mediators, such as prostaglandins and leukotrienes. Secondly, mitogen-activated protein kinase (MAPK) phosphatase 1 is induced, thereby leads to dephosphorylation and inactivation of Jun N-terminal kinase directly inhibiting c-Jun mediated transcription. Finally, transcriptional activity of nuclear factor (NF)-kappa-B is blocked, thereby inhibits the transcription of cyclooxygenase 2, which is essential for prostaglandin production.</Description>
+<Description>A synthetic trifluorinated glucocorticoid receptor agonist with antiallergic, antiinflammatory and antipruritic effects. Fluticasone binds and activates glucocorticoid receptor, resulting in the activation of lipocortin. Lipocortin, in turn, inhibits cytosolic phospholipase A2, which triggers a cascade of reactions involved in the synthesis of inflammatory mediators, such as prostaglandins and leukotrienes. Secondly, mitogen-activated protein kinase (MAPK) phosphatase 1 is induced, thereby leads to dephosphorylation and inactivation of Jun N-terminal kinase directly inhibiting c-Jun mediated transcription. Finally, transcriptional activity of nuclear factor (NF)-kappa-B is blocked, thereby inhibits the transcription of cyclooxygenase 2, which is essential for prostaglandin production.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

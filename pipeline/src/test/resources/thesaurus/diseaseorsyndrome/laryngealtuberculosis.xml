@@ -1,0 +1,29 @@
+<Record>
+<Term>Laryngeal Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Laryngeal Diseases</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Laryngeal Diseases/Tuberculosis, Laryngeal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Laryngeal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Laryngeal Diseases/Tuberculosis, Laryngeal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Tuberculosis, Laryngeal</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Laryngeal Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Laryngeal</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Laryngeal Tuberculosis</Synonym>
+<Synonym>Larynx Tuberculoses</Synonym>
+<Synonym>Larynx Tuberculosis</Synonym>
+<Synonym>Tuberculosis of Larynx</Synonym>
+<Synonym>Laryngeal Tuberculoses</Synonym>
+<Description>Tuberculosis involving the larynx, producing ulceration of the VOCAL CORDS and the LARYNGEAL MUCOSA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Carotid Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Arterial Occlusive Diseases</ParentTerm>
+<ParentTerm>Carotid Artery Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Carotid Artery Diseases/Carotid Stenosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Carotid Artery Diseases/Carotid Stenosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Carotid Stenosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Carotid Stenosis</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Carotid Artery Diseases</BroaderTerm>
+<Synonym>Carotid Artery Plaques</Synonym>
+<Synonym>Carotid Artery Stenoses</Synonym>
+<Synonym>Carotid Stenosis</Synonym>
+<Synonym>Carotid Artery Narrowings</Synonym>
+<Synonym>Carotid Artery Plaque</Synonym>
+<Synonym>Carotid Stenoses</Synonym>
+<Synonym>Carotid Ulcers</Synonym>
+<Synonym>Internal Carotid Artery Stenosis</Synonym>
+<Synonym>Carotid Artery Stenosis</Synonym>
+<Synonym>Carotid Artery Narrowing</Synonym>
+<Synonym>Carotid Artery Ulcerating Plaque</Synonym>
+<Synonym>External Carotid Artery Stenosis</Synonym>
+<Synonym>Carotid Ulcer</Synonym>
+<Synonym>Common Carotid Artery Stenosis</Synonym>
+<Description>Narrowing or stricture of any part of the CAROTID ARTERIES, most often due to atherosclerotic plaque formation. Ulcerations may form in atherosclerotic plaques and induce THROMBUS formation. Platelet or cholesterol emboli may arise from stenotic carotid lesions and induce a TRANSIENT ISCHEMIC ATTACK; CEREBROVASCULAR ACCIDENT; or temporary blindness (AMAUROSIS FUGAX). (From Adams et al., Principles of Neurology, 6th ed, pp822-3)</Description>
+<Source>MeSH</Source>
+</Record>

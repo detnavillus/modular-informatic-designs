@@ -1,0 +1,16 @@
+<Record>
+<Term>TLR9 Agonist IMO-2055</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/TLR9 Agonist IMO-2055</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>TLR9 Agonist IMO-2055</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>IMO-2055</Synonym>
+<Synonym>TLR9 Agonist IMO-2055</Synonym>
+<Description>A synthetic oligonucleotide containing unmethylated CpG dinucleotides with potential immunomodulator activity. Mimicking unmethylated CpG sequences in bacterial DNA, TLR9 agonist IMO-2055 binds to and activates intracellular Toll-like receptors (TLR) 9 in monocytes/macrophages, plasmacytoid dendritic cells (DCs) and B cells, initiating immune signaling pathways and activating B cells and DCs and inducing T-helper cell cytokine production. TLR9 is a member of the TLR family, which plays a fundamental role in pathogen recognition and activation of innate immunity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

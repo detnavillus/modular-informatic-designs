@@ -1,0 +1,30 @@
+<Record>
+<Term>Cryptococcal Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningitis, Fungal</ParentTerm>
+<ParentTerm>Cryptococcosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Cryptococcosis/Meningitis, Cryptococcal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Fungal Infections/Meningitis, Fungal/Meningitis, Cryptococcal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Fungal/Meningitis, Cryptococcal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Central Nervous System Fungal Infections/Meningitis, Fungal/Meningitis, Cryptococcal</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Meningitis, Fungal</BroaderTerm>
+<BroaderTerm>Central Nervous System Fungal Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Meningitis, Cryptococcal</BroaderTerm>
+<BroaderTerm>Cryptococcosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Granulomous Cerebral Cryptococcosis</Synonym>
+<Synonym>Cerebral Cryptococcoses</Synonym>
+<Synonym>Cerebral Cryptococcosis</Synonym>
+<Synonym>Cryptococcal Meningitides</Synonym>
+<Synonym>Toruloma</Synonym>
+<Synonym>Torulomas</Synonym>
+<Synonym>Cryptococcal Meningitis</Synonym>
+<Synonym>Granulomous Cerebral Cryptococcoses</Synonym>
+<Description>Meningeal inflammation produced by CRYPTOCOCCUS NEOFORMANS, an encapsulated yeast that tends to infect individuals with ACQUIRED IMMUNODEFICIENCY SYNDROME and other immunocompromised states. The organism enters the body through the respiratory tract, but symptomatic infections are usually limited to the lungs and nervous system. The organism may also produce parenchymal brain lesions (torulomas). Clinically, the course is subacute and may feature HEADACHE; NAUSEA; PHOTOPHOBIA; focal neurologic deficits; SEIZURES; cranial neuropathies; and HYDROCEPHALUS. (From Adams et al., Principles of Neurology, 6th ed, pp721-2)</Description>
+<Source>MeSH</Source>
+</Record>

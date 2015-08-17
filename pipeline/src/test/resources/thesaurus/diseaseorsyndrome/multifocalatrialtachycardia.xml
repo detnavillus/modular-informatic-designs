@@ -1,0 +1,23 @@
+<Record>
+<Term>Multifocal Atrial Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Supraventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Multifocal Atrial Tachycardia</ClassificationPath>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Multifocal Atrial Tachycardia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>MULTIFOCAL ATRIAL TACHYCARDIA</Synonym>
+<Synonym>Multifocal Atrial Tachycardia</Synonym>
+<Synonym>Multifocal atrial tachycardia</Synonym>
+<Description>An electrocardiographic finding in which the electrical axis of the p wave is variable and the rate is greater than 100 beats per minute. To meet criteria for multifocal atrial tachycardia, the p wave must exhibit three distinct morphologies on the rhythm strip.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

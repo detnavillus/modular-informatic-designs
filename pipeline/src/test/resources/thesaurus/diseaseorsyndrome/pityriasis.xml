@@ -1,0 +1,17 @@
+<Record>
+<Term>Pityriasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Papulosquamous</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Papulosquamous/Pityriasis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Papulosquamous</BroaderTerm>
+<BroaderTerm>Pityriasis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Pityriasis Rubra Pilaris</ChildTerm>
+<ChildTerm>Pityriasis Lichenoides</ChildTerm>
+<ChildTerm>Pityriasis Rosea</ChildTerm>
+<Synonym>Pityriasis</Synonym>
+<Synonym>Pityriases</Synonym>
+<Description>A name originally applied to a group of skin diseases characterized by the formation of fine, branny scales, but now used only with a modifier. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

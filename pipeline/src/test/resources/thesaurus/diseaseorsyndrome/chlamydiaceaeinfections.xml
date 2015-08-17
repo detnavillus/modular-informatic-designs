@@ -1,0 +1,16 @@
+<Record>
+<Term>Chlamydiaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Chlamydia Infections</ChildTerm>
+<ChildTerm>Chlamydophila Infections</ChildTerm>
+<Synonym>Chlamydiaceae Infections</Synonym>
+<Synonym>Chlamydiaceae Infection</Synonym>
+<Description>Infections with bacteria of the family CHLAMYDIACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

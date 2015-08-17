@@ -1,0 +1,24 @@
+<Record>
+<Term>Central Nervous System Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Tuberculosis, Central Nervous System</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Central Nervous System</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tuberculosis, Central Nervous System</BroaderTerm>
+<ChildTerm>Tuberculosis, Meningeal</ChildTerm>
+<ChildTerm>Tuberculoma, Intracranial</ChildTerm>
+<Synonym>Central Nervous System Tuberculosis</Synonym>
+<Description>Tuberculosis of the brain, spinal cord, or meninges (TUBERCULOSIS, MENINGEAL), most often caused by MYCOBACTERIUM TUBERCULOSIS and rarely by MYCOBACTERIUM BOVIS. The infection may be limited to the nervous system or coexist in other organs (e.g., TUBERCULOSIS, PULMONARY). The organism tends to seed the meninges causing a diffuse meningitis and leads to the formation of TUBERCULOMA, which may occur within the brain, spinal cord, or perimeningeal spaces. Tuberculous involvement of the vertebral column (TUBERCULOSIS, SPINAL) may result in nerve root or spinal cord compression. (From Adams et al., Principles of Neurology, 6th ed, pp717-20)</Description>
+<Source>MeSH</Source>
+</Record>

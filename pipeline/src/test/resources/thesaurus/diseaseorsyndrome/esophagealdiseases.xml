@@ -1,0 +1,24 @@
+<Record>
+<Term>Esophageal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases</ClassificationPath>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Barrett Esophagus</ChildTerm>
+<ChildTerm>Deglutition Disorders</ChildTerm>
+<ChildTerm>Esophageal and Gastric Varices</ChildTerm>
+<ChildTerm>Esophageal Atresia</ChildTerm>
+<ChildTerm>Esophageal Cyst</ChildTerm>
+<ChildTerm>Esophageal Fistula</ChildTerm>
+<ChildTerm>Esophageal Neoplasms</ChildTerm>
+<ChildTerm>Esophageal Perforation</ChildTerm>
+<ChildTerm>Esophageal Stenosis</ChildTerm>
+<ChildTerm>Esophagitis</ChildTerm>
+<ChildTerm>Diverticulosis, Esophageal</ChildTerm>
+<Synonym>Esophageal Diseases</Synonym>
+<Synonym>Esophageal Disease</Synonym>
+<Description>Pathological processes in the ESOPHAGUS.</Description>
+<Source>MeSH</Source>
+</Record>

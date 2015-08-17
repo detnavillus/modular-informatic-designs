@@ -1,0 +1,36 @@
+<Record>
+<Term>Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Encephalopathy Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Encephalopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Encephalopathy Adverse Event</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Encephalopathy</ChildTerm>
+<ChildTerm>Hypoxic Encephalopathy</ChildTerm>
+<ChildTerm>Dialysis Encephalopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Encephalopathy</ChildTerm>
+<ChildTerm>Chronic Encephalopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Encephalopathy</ChildTerm>
+<ChildTerm>Traumatic Encephalopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Encephalopathy</ChildTerm>
+<ChildTerm>Hypertensive Encephalopathy</ChildTerm>
+<Synonym>Encephalopathy Adverse Event</Synonym>
+<Synonym>Encephalopathy</Synonym>
+<Synonym>encephalopathy</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

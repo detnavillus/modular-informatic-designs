@@ -1,0 +1,25 @@
+<Record>
+<Term>Parasitic Lung Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Lung Diseases, Parasitic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Parasitic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Lung Diseases, Parasitic</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Echinococcosis, Pulmonary</ChildTerm>
+<Synonym>Pulmonary Parasitic Infection</Synonym>
+<Synonym>Lung Parasitic Infections</Synonym>
+<Synonym>Pulmonary Parasitic Infections</Synonym>
+<Synonym>Parasitic Lung Disease</Synonym>
+<Synonym>Parasitic Infections of Lung</Synonym>
+<Synonym>Parasitic Lung Diseases</Synonym>
+<Synonym>Lung Parasitic Infection</Synonym>
+<Description>Infections of the lungs with parasites, most commonly by parasitic worms (HELMINTHS).</Description>
+<Source>MeSH</Source>
+</Record>

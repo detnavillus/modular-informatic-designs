@@ -1,0 +1,18 @@
+<Record>
+<Term>Joint Instability</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Joint Instability</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Instability</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<Synonym>Joint Instability</Synonym>
+<Synonym>Joint Instabilities</Synonym>
+<Synonym>Joint Hypermobilities</Synonym>
+<Synonym>Joint Hypermobility</Synonym>
+<Synonym>Joint Laxities</Synonym>
+<Synonym>Joint Laxity</Synonym>
+<Description>Lack of stability of a joint or joint prosthesis. Factors involved are intra-articular disease and integrity of extra-articular structures such as joint capsule, ligaments, and muscles.</Description>
+<Source>MeSH</Source>
+</Record>

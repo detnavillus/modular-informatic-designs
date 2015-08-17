@@ -1,0 +1,17 @@
+<Record>
+<Term>Esophageal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Esophageal Disorder</ClassificationPath>
+<BroaderTerm>Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Esophageal Precancerous Condition</ChildTerm>
+<ChildTerm>Esophageal Polyp</ChildTerm>
+<ChildTerm>Non-Neoplastic Esophageal Disorder</ChildTerm>
+<Synonym>Esophageal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

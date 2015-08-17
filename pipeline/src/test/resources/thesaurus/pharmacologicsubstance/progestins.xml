@@ -1,0 +1,64 @@
+<Record>
+<Term>Progestins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<ParentTerm>Hormones</ParentTerm>
+<ParentTerm>Therapeutic Steroid Hormone</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Progestins</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Progestin</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Progestins</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Progestin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>19-nor-Progesterone</ChildTerm>
+<ChildTerm>Ethynodiol</ChildTerm>
+<ChildTerm>Segesterone</ChildTerm>
+<ChildTerm>Trengestone</ChildTerm>
+<ChildTerm>Drospirenone</ChildTerm>
+<ChildTerm>Levonorgestrel</ChildTerm>
+<ChildTerm>Megestrol Acetate</ChildTerm>
+<ChildTerm>Tanaproget</ChildTerm>
+<ChildTerm>Desogestrel</ChildTerm>
+<ChildTerm>Norelgestromin</ChildTerm>
+<ChildTerm>Dydrogesterone</ChildTerm>
+<ChildTerm>Dimepregnen</ChildTerm>
+<ChildTerm>Pregn-4-ene Trione</ChildTerm>
+<ChildTerm>Ethynodiol Diacetate</ChildTerm>
+<ChildTerm>Etonogestrel</ChildTerm>
+<ChildTerm>Norgestrel</ChildTerm>
+<ChildTerm>Dimethisterone</ChildTerm>
+<ChildTerm>Therapeutic Progesterone</ChildTerm>
+<ChildTerm>Medroxyprogesterone</ChildTerm>
+<ChildTerm>Medroxyprogesterone Acetate</ChildTerm>
+<ChildTerm>Chlormadinone Acetate</ChildTerm>
+<ChildTerm>Norethindrone</ChildTerm>
+<ChildTerm>Megestrol</ChildTerm>
+<ChildTerm>Norgestimate</ChildTerm>
+<ChildTerm>Melengestrol Acetate</ChildTerm>
+<ChildTerm>Melengestrol</ChildTerm>
+<ChildTerm>Hydroxyprogesterone Caproate</ChildTerm>
+<ChildTerm>Norethindrone Acetate</ChildTerm>
+<ChildTerm>Norethynodrel</ChildTerm>
+<Synonym>Progestational Agents</Synonym>
+<Synonym>Progestogens</Synonym>
+<Synonym>Synthetic Progestogen</Synonym>
+<Synonym>Progestins</Synonym>
+<Synonym>Progestational Compounds</Synonym>
+<Synonym>Gestagenic Agents</Synonym>
+<Synonym>Progestagenic Agents</Synonym>
+<Synonym>Gestagens</Synonym>
+<Synonym>Progestin</Synonym>
+<Synonym>Progestagens</Synonym>
+<Synonym>Progestational Hormones</Synonym>
+<Description>Compounds that interact with PROGESTERONE RECEPTORS in target tissues to bring about the effects similar to those of PROGESTERONE. Primary actions of progestins, including natural and synthetic steroids, are on the UTERUS and the MAMMARY GLAND in preparation for and in maintenance of PREGNANCY.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

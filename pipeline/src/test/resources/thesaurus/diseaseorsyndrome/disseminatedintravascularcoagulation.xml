@@ -1,0 +1,42 @@
+<Record>
+<Term>Disseminated Intravascular Coagulation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Coagulation Disorder</ParentTerm>
+<ParentTerm>Thrombophilia</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Disseminated Intravascular Coagulation</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Disseminated Intravascular Coagulation</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Thrombophilia/Disseminated Intravascular Coagulation</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Coagulation Disorder/Disseminated Intravascular Coagulation</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Thrombophilia</BroaderTerm>
+<BroaderTerm>Coagulation Disorder</BroaderTerm>
+<BroaderTerm>Disseminated Intravascular Coagulation</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Intravascular Disseminated Coagulation</Synonym>
+<Synonym>Intravascular coagulation (DIC), disseminated</Synonym>
+<Synonym>DIC, disseminated intravascular coagulation</Synonym>
+<Synonym>Disseminated intravascular coagulation</Synonym>
+<Synonym>Consumption Coagulopathy</Synonym>
+<Synonym>Consumption Coagulopathies</Synonym>
+<Synonym>Disseminated intravascular coagulation (DIC)</Synonym>
+<Synonym>Intravascular Disseminated Coagulations</Synonym>
+<Synonym>Disseminated Intravascular Coagulations</Synonym>
+<Synonym>Disseminated Intravascular Coagulation</Synonym>
+<Synonym>Coagulation (DIC), disseminated intravascular</Synonym>
+<Synonym>DIC</Synonym>
+<Synonym>Consumptive Coagulopathy</Synonym>
+<Description>A disorder characterized by procoagulant substances entering the general circulation causing a systemic thrombotic process. The activation of the clotting mechanism may arise from any of a number of disorders. A majority of the patients manifest skin lesions, sometimes leading to PURPURA FULMINANS.</Description>
+<Description>A pathological process in the body where the blood starts to coagulate throughout the whole body. This depletes the body of its platelets and coagulation factors, and there is an increased the risk of hemorrhage.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

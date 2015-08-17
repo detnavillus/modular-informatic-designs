@@ -1,0 +1,20 @@
+<Record>
+<Term>Deferasirox</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Chelating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chelating Agent/Deferasirox</ClassificationPath>
+<BroaderTerm>Chelating Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Deferasirox</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-(3,5-Bis-(hydroxy-phenyl)-1,2,4)triazol-1-yl)-benzoic Acid</Synonym>
+<Synonym>Exjade</Synonym>
+<Synonym>DEFERASIROX</Synonym>
+<Synonym>Deferasirox</Synonym>
+<Description>A synthetic, orally bioavailable, achiral, tridentate triazole derived from salicylic acid with iron-chelating activity. Deferasirox chelates iron at a 2:1 (ligand:iron) ratio. Because of its oral availability and long plasma half-life, this agent may be superior to desferrioxamine (desferal, DFO), which is orally inactive and has a short plasma half-life.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

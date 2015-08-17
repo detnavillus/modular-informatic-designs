@@ -1,0 +1,27 @@
+<Record>
+<Term>Missed Abortion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Pregnancy Complication</ParentTerm>
+<ParentTerm>Abortion, Spontaneous</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Pregnancy Complication/Missed Abortion</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Abortion, Spontaneous/Abortion, Missed</ClassificationPath>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Abortion, Missed</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abortion, Spontaneous</BroaderTerm>
+<BroaderTerm>Pregnancy Complication</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Missed Abortion</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Abortion, Missed</Synonym>
+<Synonym>Missed Abortions</Synonym>
+<Synonym>Missed Abortion</Synonym>
+<Description>The retention in the UTERUS of a dead FETUS two months or more after its DEATH.</Description>
+<Description>Retention in uterus of an abortus that has been dead at least 4 weeks.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

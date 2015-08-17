@@ -1,0 +1,17 @@
+<Record>
+<Term>Plantar Fasciitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Foot Diseases</ParentTerm>
+<ParentTerm>Fasciitis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Foot Diseases/Fasciitis, Plantar</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Fasciitis/Fasciitis, Plantar</ClassificationPath>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Fasciitis</BroaderTerm>
+<BroaderTerm>Fasciitis, Plantar</BroaderTerm>
+<Synonym>Plantar Fasciitis</Synonym>
+<Synonym>Chronic Plantar Fasciitis</Synonym>
+<Synonym>Heel Spur Syndrome</Synonym>
+<Description>Inflammation of the thick tissue on the bottom of the foot (plantar fascia) causing HEEL pain. The plantar fascia (also called plantar aponeurosis) are bands of fibrous tissue extending from the calcaneal tuberosity to the TOES. The etiology of plantar fasciitis remains controversial but is likely to involve a biomechanical imbalance. Though often presenting along with HEEL SPUR, they do not appear to be causally related.</Description>
+<Source>MeSH</Source>
+</Record>

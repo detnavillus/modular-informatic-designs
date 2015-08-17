@@ -1,0 +1,16 @@
+<Record>
+<Term>Proteasome Inhibitor CEP 18770</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Proteasome Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Proteasome Inhibitor/Proteasome Inhibitor CEP 18770</ClassificationPath>
+<BroaderTerm>Proteasome Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Proteasome Inhibitor CEP 18770</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CEP 18770</Synonym>
+<Synonym>Proteasome Inhibitor CEP 18770</Synonym>
+<Description>An orally bioavailable synthetic P2 threonine boronic acid inhibitor of the chymotrypsin-like activity of the proteasome, with potential antineoplastic activity. Proteasome inhibitor CEP 18770 represses the proteasomal degradation of a variety of proteins specifically IkappaBalpha, an intracellular protein that functions as a primary inhibitor of the proinflammatory transcription factor NF-kappaB. This results in the cytoplasmic sequestration of transcription factor NF-kappaB and inhibits its nuclear translocation and transcriptional up-regulation of a variety of cell growth-promoting factors; exposure to this agent may result in apoptotic cell death in susceptible tumor cell populations.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Ginger Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chemopreventive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Antiemetic Agent/Ginger Extract,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Ginger Extract</ClassificationPath>
+<BroaderTerm>Ginger Extract</BroaderTerm>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Antiemetic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ginger Extract,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ginger Extract</Synonym>
+<Description>An extract of the rhizome of the perennial plant Zingiber officinale with potential antineoplastic activity. Ginger extract contains a number of different phenolic compounds, some of which have displayed antineoplastic, anti-inflammatory, and antioxidant activities.  This agent also exhibits antiemetic properties.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

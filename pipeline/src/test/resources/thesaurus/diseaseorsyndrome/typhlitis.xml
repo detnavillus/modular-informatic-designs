@@ -1,0 +1,51 @@
+<Record>
+<Term>Typhlitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Cecal Diseases</ParentTerm>
+<ParentTerm>Inflammatory Diseases of the Mouse Intestinal Tract</ParentTerm>
+<ParentTerm>Regional Enteritis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Cecal Diseases/Typhlitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Regional Enteritis/Typhlitis</ClassificationPath>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Inflammatory Diseases of the Mouse Intestinal Tract/Acute Enteritis of the Mouse Intestinal Tract</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Typhlitis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Typhlitis</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Acute Enteritis of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Cecal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Inflammatory Diseases of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Regional Enteritis</BroaderTerm>
+<ChildTerm>Focal Acute Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Diffuse Acute Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Acute Ulcerative Enteritis of the Mouse Intestinal Tract</ChildTerm>
+<Synonym>Enteritis</Synonym>
+<Synonym>Acute Enteritis of the Mouse Intestinal Tract</Synonym>
+<Synonym>Cecitis</Synonym>
+<Synonym>Colitis</Synonym>
+<Synonym>Acute Enteritis</Synonym>
+<Synonym>Neutropenic Typhlitis</Synonym>
+<Synonym>Typhlitis</Synonym>
+<Synonym>Duodenitis</Synonym>
+<Synonym>duodenitis</Synonym>
+<Synonym>Jejunitis</Synonym>
+<Description>Necrotizing inflammation of the CECUM ("typhlon" in Greek), sometimes spreading to the APPENDIX and/or the ILEUM. Symptoms include ABDOMINAL PAIN and DIARRHEA. Its pathogenesis is multifactorial. Typhlitis is often associated with NEUTROPENIA and chemotherapy in immunocompromised individuals (IMMUNOCOMPROMISED HOST).An acute necrotizing inflammation of the CECUM occurring in neutropenic patients.</Description>
+<Description>Typhlitis; inflammation of the cecum.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

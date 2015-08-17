@@ -1,0 +1,19 @@
+<Record>
+<Term>Levocarnitine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Levocarnitine</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Levocarnitine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Carnitor</Synonym>
+<Synonym>Levocarnitine</Synonym>
+<Synonym>LEVOCARNITINE</Synonym>
+<Synonym>L-carnitine</Synonym>
+<Synonym>Carnitor sf</Synonym>
+<Description>An amino acid derivative.  Levocarnitine facilitates long-chain fatty acid entry into mitochondria, delivering substrate for oxidation and subsequent energy production. Fatty acids are utilized as an energy substrate in all tissues except the brain. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

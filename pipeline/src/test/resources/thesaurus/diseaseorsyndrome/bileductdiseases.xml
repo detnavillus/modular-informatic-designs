@@ -1,0 +1,19 @@
+<Record>
+<Term>Bile Duct Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Biliary Tract Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Bile Duct Diseases</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Bile Duct Diseases</BroaderTerm>
+<ChildTerm>Bile Duct Neoplasms</ChildTerm>
+<ChildTerm>Cholestasis</ChildTerm>
+<ChildTerm>Biliary Atresia</ChildTerm>
+<ChildTerm>Common Bile Duct Diseases</ChildTerm>
+<ChildTerm>Cholangitis</ChildTerm>
+<ChildTerm>Choledochal Cyst</ChildTerm>
+<Synonym>Bile Duct Diseases</Synonym>
+<Synonym>Bile Duct Disease</Synonym>
+<Description>Diseases in any part of the ductal system of the BILIARY TRACT from the smallest BILE CANALICULI to the largest COMMON BILE DUCT.</Description>
+<Source>MeSH</Source>
+</Record>

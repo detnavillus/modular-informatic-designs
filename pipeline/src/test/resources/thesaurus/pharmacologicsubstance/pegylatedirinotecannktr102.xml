@@ -1,0 +1,19 @@
+<Record>
+<Term>Pegylated Irinotecan NKTR 102</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Camptothecin Analogue</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-I Inhibitor/Camptothecin Analogue/Pegylated Irinotecan NKTR 102</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Camptothecin Analogue</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-I Inhibitor</BroaderTerm>
+<BroaderTerm>Pegylated Irinotecan NKTR 102</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>NKTR 102</Synonym>
+<Synonym>PEG-Irinotecan</Synonym>
+<Synonym>Pegylated Irinotecan NKTR 102</Synonym>
+<Description>A formulation of polyethylene glycol (PEG)-encapsulated irinotecan with antineoplastic activity. The prodrug irinotecan, a semisynthetic derivative of camptothecin, is converted to the biologically active metabolite 7-ethyl-10-hydroxy-camptothecin by a carboxylesterase-converting enzyme. One thousand-fold more potent than its parent compound irinotecan, 7-ethyl-10-hydroxy-camptothecin inhibits topoisomerase I activity by stabilizing the cleavable complex of topoisomerase I and DNA, resulting in DNA breaks that inhibit DNA replication and trigger apoptosis. Pegylation provides improved drug penetration into tumors and decreases drug clearance, thereby increasing the duration of therapeutic effects while lowering the toxicity profile.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

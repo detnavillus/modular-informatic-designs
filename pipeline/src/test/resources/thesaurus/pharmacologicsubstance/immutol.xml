@@ -1,0 +1,13 @@
+<Record>
+<Term>Immutol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Immutol</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Immutol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Immutol</Synonym>
+<Description>A purified Norwegian Beta-Glucan (NBG), extracted from the cell walls of baker's yeast. Used as an immunostimulant in complementary medicine, NBG binds specifically to receptors found on the surface of specialized macrophages, granulocytes and natural killer cells and may stimulate these cells to become more active in engulfing and digesting foreign antigens; NBG also induces the production of cytokines that further augment the host immune response to foreign antigens. Use of this agent may enhance overall resistance to infectious agents and promote wound healing and tissue repair. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

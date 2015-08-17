@@ -1,0 +1,15 @@
+<Record>
+<Term>sn-1,2-Didecanoylglycerol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tumor Promoter</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Chemical Modifier/Tumor Promoter/sn-1,2-Didecanoylglycerol</ClassificationPath>
+<BroaderTerm>Tumor Promoter</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>sn-1,2-Didecanoylglycerol</BroaderTerm>
+<BroaderTerm>Chemical Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DiC10</Synonym>
+<Synonym>sn-1,2-Didecanoylglycerol</Synonym>
+<Description>A synthetic lipid second messenger.  As an analog of the second messenger diacylglycerol, sn-1,2-didecanoylglycerol substitutes for diacylglycerol in the cascade of calcium and phospholipid dependent PKC activation.  Topical application of this agent results in a striking inflammatory response characterized by edema, extensive epidermal infiltration of neutrophils and macrophages, intraepidermal microabscesses. sn-1,2-Didecanoylglycerol is used as a tumor promoter in experimental animal models of skin cancer due to its stimulation of epidermal protein kinase C activity. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

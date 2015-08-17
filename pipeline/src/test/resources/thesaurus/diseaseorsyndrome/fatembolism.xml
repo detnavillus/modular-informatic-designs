@@ -1,0 +1,16 @@
+<Record>
+<Term>Fat Embolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Embolism</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Embolism/Embolism, Fat</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Embolism</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism, Fat</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Embolism, Cholesterol</ChildTerm>
+<Synonym>Fat Embolisms</Synonym>
+<Synonym>Fat Embolism</Synonym>
+<Description>Blocking of a blood vessel by fat deposits in the circulation. It is often seen after fractures of large bones or after administration of CORTICOSTEROIDS.</Description>
+<Source>MeSH</Source>
+</Record>

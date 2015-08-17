@@ -1,0 +1,16 @@
+<Record>
+<Term>AS04 Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/AS04 Adjuvant</ClassificationPath>
+<BroaderTerm>AS04 Adjuvant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AS04 Adjuvant</Synonym>
+<Description>A proprietary vaccine adjuvant composed of the inorganic compound aluminum phosphate mixed with 3-deacylated monophosphoryl lipid A, a derivate of the bacterial endotoxin. The aluminum component of this adjuvant binds to the protein conjugate, resulting in improved antigenicity, whereas the modified lipid A component enhances the immune responses by activating monocytes, macrophages and cytokines. Combined with vaccine antigens, AS04 adjuvant may help to boost the host's immune responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

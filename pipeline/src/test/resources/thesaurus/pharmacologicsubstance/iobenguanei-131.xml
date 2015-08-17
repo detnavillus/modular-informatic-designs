@@ -1,0 +1,16 @@
+<Record>
+<Term>Iobenguane I-131</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Iobenguane I-131</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Iobenguane I-131</BroaderTerm>
+<Synonym>IOBENGUANE I 131</Synonym>
+<Synonym>Iobenguane I-131</Synonym>
+<Description>An iodine (I) 131 labeled aralkylguanidine norepinephrine analogue used as a diagnostic imaging tracer. Iobenguane, structurally related to norepinephrine, functioning as a false substrate of norepinephrine, and is taken up and localized in the granules of pre-synaptic adrenergic neurons. When labeled with I-131, this agent is useful for the imaging of neuroendocrine tissues and tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

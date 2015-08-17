@@ -1,0 +1,15 @@
+<Record>
+<Term>TriGem</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/TriGem</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>TriGem</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TriGem</Synonym>
+<Description>An anti-idiotype monoclonal antibody that mimics the disialoganglioside GD2, a cancer-associated antigen present on melanoma, small cell lung cancer, sarcoma, neuroblastoma and other malignancies.  GD2 is a highly expressed glycosphingolipid by melanoma and other neuroectodermal tumors with only minimal expression on normal tissues.  TriGem induces an immune response and can be the base for immunotherapy of melanoma and other cancers. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

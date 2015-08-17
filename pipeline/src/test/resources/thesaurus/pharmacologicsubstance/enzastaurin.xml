@@ -1,0 +1,19 @@
+<Record>
+<Term>Enzastaurin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protein Kinase C Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Protein Kinase C Inhibitor/Enzastaurin Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Enzastaurin Hydrochloride</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Protein Kinase C Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>3-(1-Methyl-1H-indol-3-yl)-4-[1-[1-(2-pyridinylmethyl)-4-piperidinyl]-1H-indol-3-yl]-1H-pyrrole-2,5-dione Dihydrochloride</Synonym>
+<Synonym>ENZASTAURIN HYDROCHLORIDE</Synonym>
+<Synonym>Enzastaurin Hydrochloride</Synonym>
+<Synonym>LY317615</Synonym>
+<Description>The hydrochloride salt of enzastaurin, a synthetic macrocyclic bisindolemaleimide with potential antineoplastic activity.  Binding to the ATP-binding site, enzastaurin selectively inhibits protein kinase C beta, an enzyme involved in the induction of vascular endothelial growth factor (VEGF)-stimulated neo-angiogenesis. This agent may decrease tumor blood supply and so tumor burden.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

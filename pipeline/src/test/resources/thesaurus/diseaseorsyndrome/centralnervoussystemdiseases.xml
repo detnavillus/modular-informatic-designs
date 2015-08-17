@@ -1,0 +1,23 @@
+<Record>
+<Term>Central Nervous System Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Central Nervous System Infections</ChildTerm>
+<ChildTerm>Brain Diseases</ChildTerm>
+<ChildTerm>Spinal Cord Diseases</ChildTerm>
+<ChildTerm>Movement Disorders</ChildTerm>
+<ChildTerm>Encephalomyelitis</ChildTerm>
+<ChildTerm>Pneumocephalus</ChildTerm>
+<ChildTerm>Ocular Motility Disorders</ChildTerm>
+<ChildTerm>Meningitis</ChildTerm>
+<ChildTerm>High Pressure Neurological Syndrome</ChildTerm>
+<Synonym>Central Nervous System Diseases</Synonym>
+<Synonym>Central Nervous System Disorders</Synonym>
+<Synonym>CNS Diseases</Synonym>
+<Synonym>CNS Disease</Synonym>
+<Description>Diseases of any component of the brain (including the cerebral hemispheres, diencephalon, brain stem, and cerebellum) or the spinal cord.</Description>
+<Source>MeSH</Source>
+</Record>

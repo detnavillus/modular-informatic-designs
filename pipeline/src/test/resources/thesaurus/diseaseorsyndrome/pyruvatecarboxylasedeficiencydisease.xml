@@ -1,0 +1,35 @@
+<Record>
+<Term>Pyruvate Carboxylase Deficiency Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Pyruvate Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Mitochondrial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Pyruvate Carboxylase Deficiency Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Pyruvate Carboxylase Deficiency Disease</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pyruvate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<Synonym>Pyruvate Carboxylase Deficiency Disease</Synonym>
+<Synonym>Pyruvate Carboxylase Deficiency</Synonym>
+<Synonym>Type II Ataxia with Lactic Acidosis</Synonym>
+<Synonym>Pyruvate Carboxylase Deficiencies</Synonym>
+<Synonym>Ataxia with Lactic Acidosis 2</Synonym>
+<Description>An autosomal recessive metabolic disorder caused by absent or decreased PYRUVATE CARBOXYLASE activity, the enzyme that regulates gluconeogenesis, lipogenesis, and neurotransmitter synthesis. Clinical manifestations include lactic acidosis, seizures, respiratory distress, marked psychomotor delay, periodic HYPOGLYCEMIA, and hypotonia. The clinical course may be similar to LEIGH DISEASE. (From Am J Hum Genet 1998 Jun;62(6):1312-9)</Description>
+<Source>MeSH</Source>
+</Record>

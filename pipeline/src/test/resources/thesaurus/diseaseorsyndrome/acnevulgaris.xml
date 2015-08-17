@@ -1,0 +1,19 @@
+<Record>
+<Term>Acne Vulgaris</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acneiform Eruptions</ParentTerm>
+<ParentTerm>Sebaceous Gland Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sebaceous Gland Diseases/Acne Vulgaris</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Facial Dermatoses/Acneiform Eruptions/Acne Vulgaris</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Acneiform Eruptions/Acne Vulgaris</ClassificationPath>
+<BroaderTerm>Acneiform Eruptions</BroaderTerm>
+<BroaderTerm>Acne Vulgaris</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Sebaceous Gland Diseases</BroaderTerm>
+<BroaderTerm>Facial Dermatoses</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<Synonym>Acne Vulgaris</Synonym>
+<Synonym>Acne</Synonym>
+<Description>A chronic disorder of the pilosebaceous apparatus associated with an increase in sebum secretion. It is characterized by open comedones (blackheads), closed comedones (whiteheads), and pustular nodules. The cause is unknown, but heredity and age are predisposing factors.</Description>
+<Source>MeSH</Source>
+</Record>

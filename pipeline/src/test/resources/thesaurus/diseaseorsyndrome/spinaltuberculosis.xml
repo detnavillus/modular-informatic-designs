@@ -1,0 +1,31 @@
+<Record>
+<Term>Spinal Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Osteoarticular</ParentTerm>
+<ParentTerm>Spondylitis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious/Tuberculosis, Osteoarticular/Tuberculosis, Spinal</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Tuberculosis, Spinal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious/Tuberculosis, Osteoarticular/Tuberculosis, Spinal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Osteoarticular/Tuberculosis, Spinal</ClassificationPath>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tuberculosis, Osteoarticular</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis, Spinal</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Potts Disease</Synonym>
+<Synonym>Pott's Disease</Synonym>
+<Synonym>Spinal Tuberculosis</Synonym>
+<Synonym>Spinal Tuberculoses</Synonym>
+<Synonym>Pott Disease</Synonym>
+<Description>Osteitis or caries of the vertebrae, usually occurring as a complication of tuberculosis of the lungs.</Description>
+<Source>MeSH</Source>
+</Record>

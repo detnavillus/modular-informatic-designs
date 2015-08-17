@@ -1,0 +1,17 @@
+<Record>
+<Term>Salmonella Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Salmonella Vaccines</ClassificationPath>
+<BroaderTerm>Salmonella Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Typhoid-Paratyphoid Vaccines</ChildTerm>
+<Synonym>Salmonella Vaccines</Synonym>
+<Synonym>Salmonellosis Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with SALMONELLA. This includes vaccines used to prevent TYPHOID FEVER or PARATYPHOID FEVER; (TYPHOID-PARATYPHOID VACCINES), and vaccines used to prevent nontyphoid salmonellosis.</Description>
+<Source>MeSH</Source>
+</Record>

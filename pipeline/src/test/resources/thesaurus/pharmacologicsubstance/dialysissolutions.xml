@@ -1,0 +1,20 @@
+<Record>
+<Term>Dialysis Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Solutions</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Pharmaceutical Solutions/Dialysis Solutions</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Dosage Forms/Pharmaceutical Solutions/Dialysis Solutions</ClassificationPath>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Dosage Forms</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Pharmaceutical Solutions</BroaderTerm>
+<BroaderTerm>Dialysis Solutions</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<ChildTerm>Hemodialysis Solutions</ChildTerm>
+<Synonym>Dialysates</Synonym>
+<Synonym>Dialyzates</Synonym>
+<Synonym>Dialysis Solutions</Synonym>
+<Description>Solutions prepared for exchange across a semipermeable membrane of solutes below a molecular size determined by the cutoff threshold of the membrane material.</Description>
+<Source>MeSH</Source>
+</Record>

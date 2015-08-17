@@ -1,0 +1,20 @@
+<Record>
+<Term>Fusobacterium Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fusobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Fusobacteriaceae Infections/Fusobacterium Infections</ClassificationPath>
+<BroaderTerm>Fusobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Fusobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Gingivitis, Necrotizing Ulcerative</ChildTerm>
+<Synonym>Fusobacterium Infections</Synonym>
+<Synonym>Sphaerophorus Infections</Synonym>
+<Synonym>Sphaerophorus Infection</Synonym>
+<Synonym>Fusobacterium Infection</Synonym>
+<Synonym>Necrobacillosis</Synonym>
+<Synonym>Necrobacilloses</Synonym>
+<Description>Infections with bacteria of the genus FUSOBACTERIUM.</Description>
+<Source>MeSH</Source>
+</Record>

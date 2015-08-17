@@ -1,0 +1,20 @@
+<Record>
+<Term>Cholestasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bile Duct Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Biliary Tract Diseases/Bile Duct Diseases/Cholestasis</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cholestasis</BroaderTerm>
+<BroaderTerm>Biliary Tract Diseases</BroaderTerm>
+<BroaderTerm>Bile Duct Diseases</BroaderTerm>
+<ChildTerm>Cholestasis, Extrahepatic</ChildTerm>
+<ChildTerm>Cholestasis, Intrahepatic</ChildTerm>
+<Synonym>Cholestasis</Synonym>
+<Synonym>Cholestases</Synonym>
+<Synonym>Biliary Stasis</Synonym>
+<Synonym>Biliary Stases</Synonym>
+<Synonym>Bile Duct Obstruction</Synonym>
+<Synonym>Bile Duct Obstructions</Synonym>
+<Description>Impairment of bile flow due to obstruction in small bile ducts (INTRAHEPATIC CHOLESTASIS) or obstruction in large bile ducts (EXTRAHEPATIC CHOLESTASIS).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Infertility</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ParentTerm>Genital Diseases, Male</ParentTerm>
+<ParentTerm>Sexual Dysfunction and Infertility</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Infertility</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Sexual Dysfunction and Infertility/Infertility</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Infertility</ClassificationPath>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Infertility</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Sexual Dysfunction and Infertility</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Infertility, Male</ChildTerm>
+<ChildTerm>Infertility, Female</ChildTerm>
+<Synonym>infertility</Synonym>
+<Synonym>Infertility</Synonym>
+<Synonym>Reproductive Sterility</Synonym>
+<Synonym>Sterility</Synonym>
+<Synonym>Infertile</Synonym>
+<Synonym>Fertility Disorders</Synonym>
+<Description>Inability to reproduce after a specified period of unprotected intercourse. Reproductive sterility is permanent infertility.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Zebularine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Methyltransferase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/DNA Methyltransferase Inhibitor/Zebularine</ClassificationPath>
+<BroaderTerm>DNA Methyltransferase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Zebularine</BroaderTerm>
+<Synonym>1-beta-D-Ribofuranosyl-2(1H)-pyrimidinone</Synonym>
+<Synonym>2-Pyrimidone-1-beta-D-riboside</Synonym>
+<Synonym>Pyrimidin-2-one beta-Ribofuranoside</Synonym>
+<Synonym>Zebularine</Synonym>
+<Description>A synthetic cytidine analogue and a cytidine deaminase inhibitor with anticancer activity. Following metabolic activation by phosphorylation and incorporation into DNA, zebularine inhibits DNA methyltransferase through covalent complex formation between the enzyme and zebularine-substituted DNA, hence resulting in non-specific, genome-wide induction of demethylation including the removal of aberrant methylation of promoter regions of genes critical for normal cellular functions.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

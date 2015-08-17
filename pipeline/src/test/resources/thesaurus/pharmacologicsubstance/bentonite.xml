@@ -1,0 +1,27 @@
+<Record>
+<Term>Bentonite</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Aluminum Silicates</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Oxygen Compounds/Oxides/Aluminum Oxide/Aluminum Silicates/Bentonite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Minerals/Silicates/Aluminum Silicates/Bentonite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Aluminum Compounds/Aluminum Oxide/Aluminum Silicates/Bentonite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Silicon Compounds/Silicon Dioxide/Silicic Acid/Silicates/Aluminum Silicates/Bentonite</ClassificationPath>
+<BroaderTerm>Silicon Dioxide</BroaderTerm>
+<BroaderTerm>Aluminum Oxide</BroaderTerm>
+<BroaderTerm>Bentonite</BroaderTerm>
+<BroaderTerm>Oxides</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Aluminum Compounds</BroaderTerm>
+<BroaderTerm>Silicates</BroaderTerm>
+<BroaderTerm>Minerals</BroaderTerm>
+<BroaderTerm>Silicic Acid</BroaderTerm>
+<BroaderTerm>Silicon Compounds</BroaderTerm>
+<BroaderTerm>Aluminum Silicates</BroaderTerm>
+<BroaderTerm>Oxygen Compounds</BroaderTerm>
+<Synonym>Bentonite</Synonym>
+<Synonym>Montmorillonite</Synonym>
+<Synonym>Montmorrillonite</Synonym>
+<Description>A colloidal, hydrated aluminum silicate that swells 12 times its dry size when added to water.</Description>
+<Source>MeSH</Source>
+</Record>

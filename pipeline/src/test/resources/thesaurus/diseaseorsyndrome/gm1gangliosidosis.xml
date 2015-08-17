@@ -1,0 +1,48 @@
+<Record>
+<Term>GM1 Gangliosidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gangliosidoses</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidosis, GM1</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Gangliosidosis, GM1</BroaderTerm>
+<Synonym>Gangliosidosis G(M1)</Synonym>
+<Synonym>Infantile Gangliosidosis GM1</Synonym>
+<Synonym>Beta-Galactosidase-1 Deficiency Diseases</Synonym>
+<Synonym>Generalized Gangliosidosis</Synonym>
+<Synonym>Beta Galactosidase 1 Deficiency</Synonym>
+<Synonym>beta Galactosidase Deficiency</Synonym>
+<Synonym>Juvenile Gangliosidosis GM1</Synonym>
+<Synonym>beta-Galactosidase Deficiencies</Synonym>
+<Synonym>Beta-Galactosidase-1 Deficiency Disease</Synonym>
+<Synonym>GM1 Gangliosidosis</Synonym>
+<Synonym>Gangliosidosis GM1</Synonym>
+<Synonym>beta-Galactosidase Deficiency</Synonym>
+<Synonym>Beta Galactosidase 1 Deficiency Disease</Synonym>
+<Synonym>G(M1) Gangliosidosis</Synonym>
+<Description>An autosomal recessive neurodegenerative disorder caused by the absence or deficiency of BETA-GALACTOSIDASE. It is characterized by intralysosomal accumulation of G(M1) GANGLIOSIDE and oligosaccharides, primarily in neurons of the central nervous system. The infantile form is characterized by MUSCLE HYPOTONIA, poor psychomotor development, HIRSUTISM, hepatosplenomegaly, and facial abnormalities. The juvenile form features HYPERACUSIS; SEIZURES; and psychomotor retardation. The adult form features progressive DEMENTIA; ATAXIA; and MUSCLE SPASTICITY. (From Menkes, Textbook of Child Neurology, 5th ed, pp96-7)</Description>
+<Source>MeSH</Source>
+</Record>

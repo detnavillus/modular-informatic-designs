@@ -1,0 +1,42 @@
+<Record>
+<Term>Myocarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with the Heart in General</ParentTerm>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Myocardial Disorder</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Myocarditis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Myocarditis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Heart in General/Myocarditis Adverse Event</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Heart in General</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocarditis</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocarditis Adverse Event</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Myocarditis</ChildTerm>
+<ChildTerm>Interstitial Myocarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Myocarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Myocarditis</ChildTerm>
+<ChildTerm>Acute Myocarditis</ChildTerm>
+<Synonym>Myocarditis</Synonym>
+<Synonym>Myocarditis Adverse Event</Synonym>
+<Synonym>Carditis</Synonym>
+<Synonym>Myocarditides</Synonym>
+<Description>Inflammatory processes of the muscular walls of the heart (MYOCARDIUM) which result in injury to the cardiac muscle cells (MYOCYTES, CARDIAC). Manifestations range from subclinical to sudden death (DEATH, SUDDEN). Myocarditis in association with cardiac dysfunction is classified as inflammatory CARDIOMYOPATHY usually caused by INFECTION, autoimmune diseases, or responses to toxic substances. Myocarditis is also a common cause of DILATED CARDIOMYOPATHY and other cardiomyopathies.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

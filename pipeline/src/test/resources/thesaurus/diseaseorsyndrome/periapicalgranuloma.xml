@@ -1,0 +1,23 @@
+<Record>
+<Term>Periapical Granuloma</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periapical Periodontitis</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periapical Diseases/Periapical Periodontitis/Periapical Granuloma</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Periapical Diseases/Periapical Periodontitis/Periapical Granuloma</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontitis/Periapical Periodontitis/Periapical Granuloma</ClassificationPath>
+<BroaderTerm>Periapical Periodontitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periapical Granuloma</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Periapical Diseases</BroaderTerm>
+<BroaderTerm>Periodontitis</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Dental Granuloma</Synonym>
+<Synonym>Periapical Granuloma</Synonym>
+<Synonym>Dental Granulomas</Synonym>
+<Synonym>Periapical Granulomas</Synonym>
+<Description>Chronic nonsuppurative inflammation of periapical tissue resulting from irritation following pulp disease or endodontic treatment.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Spinal Cord Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Spinocerebellar Degenerations</ChildTerm>
+<ChildTerm>Amyotrophic Lateral Sclerosis</ChildTerm>
+<ChildTerm>Myelitis</ChildTerm>
+<ChildTerm>Poliomyelitis</ChildTerm>
+<ChildTerm>Spinal Cord Compression</ChildTerm>
+<ChildTerm>Spinal Cord Injuries</ChildTerm>
+<ChildTerm>Spinal Cord Neoplasms</ChildTerm>
+<ChildTerm>Syringomyelia</ChildTerm>
+<ChildTerm>Tabes Dorsalis</ChildTerm>
+<ChildTerm>Muscular Atrophy, Spinal</ChildTerm>
+<ChildTerm>Stiff-Person Syndrome</ChildTerm>
+<ChildTerm>Spinal Cord Vascular Diseases</ChildTerm>
+<ChildTerm>Epidural Abscess</ChildTerm>
+<ChildTerm>Subacute Combined Degeneration</ChildTerm>
+<Synonym>Spinal Cord Diseases</Synonym>
+<Synonym>Spinal Cord Disease</Synonym>
+<Synonym>Spinal Cord Disorders</Synonym>
+<Synonym>Spinal Cord Disorder</Synonym>
+<Synonym>Myelopathy</Synonym>
+<Synonym>Myelopathies</Synonym>
+<Description>Pathologic conditions which feature SPINAL CORD damage or dysfunction, including disorders involving the meninges and perimeningeal spaces surrounding the spinal cord. Traumatic injuries, vascular diseases, infections, and inflammatory/autoimmune processes may affect the spinal cord.</Description>
+<Source>MeSH</Source>
+</Record>

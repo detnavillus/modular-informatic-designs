@@ -1,0 +1,20 @@
+<Record>
+<Term>Antinematodal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anthelmintics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Anthelmintics/Antinematodal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antinematodal Agents</BroaderTerm>
+<BroaderTerm>Anthelmintics</BroaderTerm>
+<ChildTerm>Filaricides</ChildTerm>
+<Synonym>Antinematodal Agents</Synonym>
+<Synonym>Antinematodals</Synonym>
+<Synonym>Antinematodal Drugs</Synonym>
+<Synonym>Nematocides</Synonym>
+<Description>Substances used in the treatment or control of nematode infestations. They are used also in veterinary practice.</Description>
+<Source>MeSH</Source>
+</Record>

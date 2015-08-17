@@ -1,0 +1,38 @@
+<Record>
+<Term>Allergic Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity, Immediate</ParentTerm>
+<ParentTerm>Conjunctivitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis/Atopic Conjunctivitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Allergic</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Conjunctivitis, Allergic</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Atopic Conjunctivitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Allergic</BroaderTerm>
+<ChildTerm>Acute Atopic Conjunctivitis</ChildTerm>
+<Synonym>Allergic Conjunctivitis</Synonym>
+<Synonym>Atopic Conjunctivitis</Synonym>
+<Synonym>Giant Papillary Conjunctivitis</Synonym>
+<Synonym>Allergic Conjunctivitides</Synonym>
+<Synonym>Giant Papillary Conjunctivitides</Synonym>
+<Synonym>Vernal Conjunctivitides</Synonym>
+<Synonym>Vernal Keratoconjunctivitides</Synonym>
+<Synonym>Vernal Keratoconjunctivitis</Synonym>
+<Synonym>Vernal Conjunctivitis</Synonym>
+<Synonym>Atopic Conjunctivitides</Synonym>
+<Description>Conjunctivitis due to hypersensitivity to various allergens.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,39 @@
+<Record>
+<Term>Gastric Xanthoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Mouse Gastric Mesenchymal Neoplasm</ParentTerm>
+<ParentTerm>Xanthoma</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Neoplasms/Mouse Neoplasms by Location/Mouse Digestive System Neoplasms/Mouse Gastrointestinal System Neoplasms/Mouse Gastric Neoplasm/Mouse Gastric Mesenchymal Neoplasm/Mouse Gastric Xanthoma</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Xanthoma/Gastric Xanthoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Non-Neoplastic Stomach Disorder/Gastric Xanthoma</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Stomach Disorder</BroaderTerm>
+<BroaderTerm>Mouse Gastric Xanthoma</BroaderTerm>
+<BroaderTerm>Gastric Xanthoma</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Mouse Gastric Mesenchymal Neoplasm</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Xanthoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Mouse Gastric Neoplasm</BroaderTerm>
+<BroaderTerm>Gastric Xanthoma,</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mouse Gastrointestinal System Neoplasms</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mouse Neoplasms</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Mouse Digestive System Neoplasms</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Mouse Neoplasms by Location</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<Synonym>Xanthoma of the Stomach</Synonym>
+<Synonym>Mouse Gastric Xanthoma</Synonym>
+<Synonym>Gastric Xanthoma</Synonym>
+<Synonym>Gastric Xanthelasma</Synonym>
+<Synonym>Xanthoma of Stomach</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

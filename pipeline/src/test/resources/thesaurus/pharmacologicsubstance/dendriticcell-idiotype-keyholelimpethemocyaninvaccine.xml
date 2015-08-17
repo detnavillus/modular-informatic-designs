@@ -1,0 +1,17 @@
+<Record>
+<Term>Dendritic Cell-Idiotype-Keyhole Limpet Hemocyanin Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Dendritic Cell-Idiotype-Keyhole Limpet Hemocyanin Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Dendritic Cell-Idiotype-Keyhole Limpet Hemocyanin Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>DC-Id-KLH Vaccine</Synonym>
+<Synonym>Dendritic Cell-Idiotype-Keyhole Limpet Hemocyanin Vaccine</Synonym>
+<Description>A cell-based vaccine composed of allogeneic dendritic cells (DC), pulsed with patient-specific non-Hodgkin's lymphoma idiotype (Id) determinants conjugated to keyhole limpet hemocyanin (KLH), with potential antitumor activity. Upon administration, this vaccine may stimulate the host immune system to mount a specific cytotoxic T-lymphocyte (CTL) response against Id-expressing lymphoma cells, resulting in tumor cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

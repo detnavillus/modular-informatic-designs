@@ -1,0 +1,21 @@
+<Record>
+<Term>Enterobiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Oxyuriasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Oxyurida Infections/Oxyuriasis/Enterobiasis</ClassificationPath>
+<BroaderTerm>Oxyurida Infections</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Oxyuriasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Enterobiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Enterobiasis</Synonym>
+<Synonym>Enterobiases</Synonym>
+<Synonym>Oxyuris vermicularis Infections</Synonym>
+<Synonym>Enterobius vermicularis Infections</Synonym>
+<Synonym>Oxyuris vermicularis Infection</Synonym>
+<Synonym>Enterobius vermicularis Infection</Synonym>
+<Description>Infection with nematodes of the genus ENTEROBIUS; E. vermicularis, the pinworm of man, causes a crawling sensation and pruritus. This condition results in scratching the area, occasionally causing scarification.</Description>
+<Source>MeSH</Source>
+</Record>

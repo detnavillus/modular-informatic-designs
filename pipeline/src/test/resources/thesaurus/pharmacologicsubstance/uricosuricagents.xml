@@ -1,0 +1,46 @@
+<Record>
+<Term>Uricosuric Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Functional Drug Class</SemanticType>
+<ParentTerm>Renal Agents</ParentTerm>
+<ParentTerm>Gout Suppressants</ParentTerm>
+<ParentTerm>Miscellaneous Chemoprotective Agent</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antirheumatic Agents/Gout Suppressants/Uricosuric Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Renal Agents/Uricosuric Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Miscellaneous Chemoprotective Agent/Uricosuric Agent</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Uricosuric Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antirheumatic Agents</BroaderTerm>
+<BroaderTerm>Gout Suppressants</BroaderTerm>
+<BroaderTerm>Renal Agents</BroaderTerm>
+<BroaderTerm>Chemoprotective Agent</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Uricosuric Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Miscellaneous Chemoprotective Agent</BroaderTerm>
+<ChildTerm>Benzbromarone</ChildTerm>
+<ChildTerm>Sulfinpyrazone</ChildTerm>
+<ChildTerm>Allopurinol</ChildTerm>
+<ChildTerm>Febuxostat</ChildTerm>
+<ChildTerm>Irtemazole</ChildTerm>
+<ChildTerm>Oxycinchophen</ChildTerm>
+<ChildTerm>Allopurinol Sodium</ChildTerm>
+<ChildTerm>Etebenecid</ChildTerm>
+<ChildTerm>Rasburicase</ChildTerm>
+<ChildTerm>Seclazone</ChildTerm>
+<ChildTerm>Isobromindione</ChildTerm>
+<Synonym>Uricosuric Drugs</Synonym>
+<Synonym>Hyperuricaemia Agents</Synonym>
+<Synonym>Uricosuric Agent</Synonym>
+<Synonym>Uricosuric Medications</Synonym>
+<Synonym>Uricosuric Agents</Synonym>
+<Description>Gout suppressants that act directly on the renal tubule to increase the excretion of uric acid, thus reducing its concentrations in plasma.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

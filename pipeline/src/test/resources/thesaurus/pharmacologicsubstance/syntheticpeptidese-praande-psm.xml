@@ -1,0 +1,16 @@
+<Record>
+<Term>Synthetic Peptides E-PRA And E-PSM</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/Synthetic Peptides E-PRA And E-PSM</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Synthetic Peptides E-PRA And E-PSM</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Synthetic Peptides E-PRA And E-PSM</Synonym>
+<Description>A cancer vaccine consisting of E-PRA and E-PSM, two synthetic peptide analogs of PRAME (PReferential Antigen MElanoma) and PSMA (Prostate Specific Membrane Antigen), with potential immunostimulating activity. Upon direct administration into lymph nodes, synthetic peptides E-PRA and E-PSM vaccine may stimulate a cytotoxic T-lymphocyte (CTL) response against PRAME- and PSMA-expressing tumor cells. PRAME and PSMA are tumor-associated antigens upregulated and expressed on the cell surfaces of certain tumor cell types.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

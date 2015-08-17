@@ -1,0 +1,19 @@
+<Record>
+<Term>Parasitic Liver Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Liver Diseases, Parasitic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Parasitic</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Liver Abscess, Amebic</ChildTerm>
+<ChildTerm>Echinococcosis, Hepatic</ChildTerm>
+<ChildTerm>Fascioliasis</ChildTerm>
+<Synonym>Parasitic Liver Diseases</Synonym>
+<Synonym>Parasitic Liver Disease</Synonym>
+<Description>Liver diseases caused by infections with PARASITES, such as tapeworms (CESTODA) and flukes (TREMATODA).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Vitamin D Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin D Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Vitamin D Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Rickets</ChildTerm>
+<ChildTerm>Osteomalacia</ChildTerm>
+<Synonym>Vitamin D Deficiency</Synonym>
+<Synonym>Vitamin D Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of VITAMIN D in the diet, insufficient production of vitamin D in the skin, inadequate absorption of vitamin D from the diet, or abnormal conversion of vitamin D to its bioactive metabolites. It is manifested clinically as RICKETS in children and OSTEOMALACIA in adults. (From Cecil Textbook of Medicine, 19th ed, p1406)</Description>
+<Source>MeSH</Source>
+</Record>

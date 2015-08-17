@@ -1,0 +1,44 @@
+<Record>
+<Term>Congenital Hypothyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<ParentTerm>Bone Diseases, Endocrine</ParentTerm>
+<ParentTerm>Dwarfism</ParentTerm>
+<ParentTerm>Hypothyroidism</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Dwarfism/Congenital Hypothyroidism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Dwarfism/Congenital Hypothyroidism</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Congenital Thyroid Gland Disorder/Congenital Hypothyroidism,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Hypothyroidism/Congenital Hypothyroidism</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Dwarfism/Congenital Hypothyroidism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hypothyroidism/Congenital Hypothyroidism</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine/Congenital Hypothyroidism</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Congenital Hypothyroidism</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Dwarfism</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Hypothyroidism</BroaderTerm>
+<BroaderTerm>Congenital Hypothyroidism,</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Congenital Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Congenital Hypothyroidism with Ectopic Thyroid</ChildTerm>
+<ChildTerm>Congenital Iodine Deficiency Hypothyroidism</ChildTerm>
+<Synonym>Cretinism</Synonym>
+<Synonym>Congenital Hypothyroidism</Synonym>
+<Synonym>Endemic Cretinism</Synonym>
+<Description>A condition in infancy or early childhood due to an in-utero deficiency of THYROID HORMONES that can be caused by genetic or environmental factors, such as thyroid dysgenesis or HYPOTHYROIDISM in infants of mothers treated with THIOURACIL during pregnancy. Endemic cretinism is the result of iodine deficiency. Clinical symptoms include severe MENTAL RETARDATION, impaired skeletal development, short stature, and MYXEDEMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Chickenpox Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Herpesvirus Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Herpesvirus Vaccines/Chickenpox Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Herpesvirus Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Chickenpox Vaccine</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Herpes Zoster Vaccine</ChildTerm>
+<Synonym>Chickenpox Vaccine</Synonym>
+<Synonym>Varicella Vaccine</Synonym>
+<Synonym>Oka Varicella Vaccine</Synonym>
+<Synonym>Varivax</Synonym>
+<Description>A live, attenuated varicella virus vaccine used for immunization against chickenpox. It is recommended for children between the ages of 12 months and 13 years.</Description>
+<Source>MeSH</Source>
+</Record>

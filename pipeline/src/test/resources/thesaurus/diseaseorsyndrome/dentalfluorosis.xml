@@ -1,0 +1,16 @@
+<Record>
+<Term>Dental Fluorosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Fluorosis, Dental</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Fluorosis, Dental</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Dental Fluoroses</Synonym>
+<Synonym>Dental Fluorosis</Synonym>
+<Synonym>Mottled Enamel</Synonym>
+<Synonym>Mottled Enamels</Synonym>
+<Description>A chronic endemic form of hypoplasia of the dental enamel caused by drinking water with a high fluorine content during the time of tooth formation, and characterized by defective calcification that gives a white chalky appearance to the enamel, which gradually undergoes brown discoloration. (Jablonski's Dictionary of Dentistry, 1992, p286)</Description>
+<Source>MeSH</Source>
+</Record>

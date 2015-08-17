@@ -1,0 +1,27 @@
+<Record>
+<Term>Hepatitis D</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hepatitis, Viral, Human</ParentTerm>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human/Hepatitis D</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human/Hepatitis D</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hepatitis D</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Hepatitis D</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Hepatitis D, Chronic</ChildTerm>
+<Synonym>Hepatitis D</Synonym>
+<Synonym>Delta Infection</Synonym>
+<Synonym>Amazon Black Fever</Synonym>
+<Synonym>Labrea Disease</Synonym>
+<Synonym>Delta Superinfections</Synonym>
+<Synonym>Labrea Diseases</Synonym>
+<Synonym>Delta Hepatitis</Synonym>
+<Synonym>Delta Superinfection</Synonym>
+<Description>INFLAMMATION of the LIVER in humans caused by HEPATITIS DELTA VIRUS, a defective RNA virus that can only infect HEPATITIS B patients. For its viral coating, hepatitis delta virus requires the HEPATITIS B SURFACE ANTIGENS produced by these patients. Hepatitis D can occur either concomitantly with (coinfection) or subsequent to (superinfection) hepatitis B infection. Similar to hepatitis B, it is primarily transmitted by parenteral exposure, such as transfusion of contaminated blood or blood products, but can also be transmitted via sexual or intimate personal contact.</Description>
+<Source>MeSH</Source>
+</Record>

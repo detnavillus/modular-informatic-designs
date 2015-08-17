@@ -1,0 +1,16 @@
+<Record>
+<Term>Actinobacillus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pasteurellaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Actinobacillus Infections</ClassificationPath>
+<BroaderTerm>Actinobacillus Infections</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Actinobacillosis</ChildTerm>
+<Synonym>Actinobacillus Infections</Synonym>
+<Synonym>Actinobacillus Infection</Synonym>
+<Description>Infections with bacteria of the genus ACTINOBACILLUS.</Description>
+<Source>MeSH</Source>
+</Record>

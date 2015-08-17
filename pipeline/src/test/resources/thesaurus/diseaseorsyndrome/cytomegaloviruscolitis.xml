@@ -1,0 +1,25 @@
+<Record>
+<Term>Cytomegalovirus Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cytomegaloviral Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Colitis/Cytomegalovirus Colitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Cytomegaloviral Infection/Cytomegalovirus Colitis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Colitis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Colitis</BroaderTerm>
+<BroaderTerm>Cytomegaloviral Infection</BroaderTerm>
+<Synonym>CMV Colitis</Synonym>
+<Synonym>Cytomegalovirus Colitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

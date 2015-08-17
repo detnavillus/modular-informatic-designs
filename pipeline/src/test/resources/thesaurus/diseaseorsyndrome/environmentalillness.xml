@@ -1,0 +1,20 @@
+<Record>
+<Term>Environmental Illness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorders of Environmental Origin</ParentTerm>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Environmental Illness</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Environmental Illness</ClassificationPath>
+<BroaderTerm>Environmental Illness</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Multiple Chemical Sensitivity</ChildTerm>
+<ChildTerm>Sick Building Syndrome</ChildTerm>
+<Synonym>Environmental Illnesses</Synonym>
+<Synonym>Environmental Illness</Synonym>
+<Synonym>Environmental Hypersensitivities</Synonym>
+<Synonym>Environmental Hypersensitivity</Synonym>
+<Description>A polysymptomatic condition believed by clinical ecologists to result from immune dysregulation induced by common foods, allergens, and chemicals, resulting in various physical and mental disorders. The medical community has remained largely skeptical of the existence of this "disease", given the plethora of symptoms attributed to environmental illness, the lack of reproducible laboratory abnormalities, and the use of unproven therapies to treat the condition. (From Segen, Dictionary of Modern Medicine, 1992)</Description>
+<Source>MeSH</Source>
+</Record>

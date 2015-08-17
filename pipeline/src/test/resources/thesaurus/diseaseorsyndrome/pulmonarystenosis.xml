@@ -1,0 +1,21 @@
+<Record>
+<Term>Pulmonary Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Valvular Stenosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Valvular Stenosis/Pulmonary Stenosis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Stenosis</BroaderTerm>
+<BroaderTerm>Valvular Stenosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Pulmonary Stenosis</Synonym>
+<Synonym>Stenosis, pulmonary</Synonym>
+<Description>Narrowing of the opening between the pulmonary artery and the right ventricle, usually at the level of the valve leaflets.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Thyroid Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Thyroid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Thyroid Agent/Thyroid Extract</ClassificationPath>
+<BroaderTerm>Thyroid Extract</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Thyroid Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Armour Thyroid</Synonym>
+<Synonym>Thyroid Extract</Synonym>
+<Description>An animal source of thyroid used in hormonal replacement therapy. Thyroid extract or desiccated thyroid contains both levothyroxine (thyroxine or T4) and liothyronine (triiodothyronine or T3). Levothyroxine is deiodinated in the peripheral tissues to produce increased levels of its active form, liothyronine (T3). Thyroid hormones play an important role in the regulation of cellular respiration, thermogenesis, cellular growth and differentiation as well as regulating the metabolism of proteins, carbohydrates, and lipids.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

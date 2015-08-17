@@ -1,0 +1,26 @@
+<Record>
+<Term>Falciparum Malaria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malaria</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria/Malaria, Falciparum</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Malaria/Falciparum Malaria</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Falciparum Malaria</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Malaria, Falciparum</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Malaria</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Malaria, Cerebral</ChildTerm>
+<ChildTerm>Blackwater Fever</ChildTerm>
+<Synonym>Falciparum Malaria</Synonym>
+<Synonym>Plasmodium falciparum Malaria</Synonym>
+<Description>Malaria caused by PLASMODIUM FALCIPARUM. This is the severest form of malaria and is associated with the highest levels of parasites in the blood. This disease is characterized by irregularly recurring febrile paroxysms that in extreme cases occur with acute cerebral, renal, or gastrointestinal manifestations.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

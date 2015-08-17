@@ -1,0 +1,12 @@
+<Record>
+<Term>Animal Muscular Dystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Muscular Dystrophy, Animal</ClassificationPath>
+<BroaderTerm>Muscular Dystrophy, Animal</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>White Muscle Disease</ChildTerm>
+<Synonym>Animal Muscular Dystrophies</Synonym>
+<Synonym>Animal Muscular Dystrophy</Synonym>
+<Source>MeSH</Source>
+</Record>

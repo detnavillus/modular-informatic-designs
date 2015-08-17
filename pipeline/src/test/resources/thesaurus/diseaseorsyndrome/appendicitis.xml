@@ -1,0 +1,19 @@
+<Record>
+<Term>Appendicitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Cecal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Appendicitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Cecal Diseases/Appendicitis</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Cecal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Appendicitis</BroaderTerm>
+<Synonym>Ruptured Appendicitis</Synonym>
+<Synonym>Perforated Appendicitis</Synonym>
+<Synonym>Appendicitis</Synonym>
+<Description>Acute inflammation of the APPENDIX. Acute appendicitis is classified as simple, gangrenous, or perforated.</Description>
+<Source>MeSH</Source>
+</Record>

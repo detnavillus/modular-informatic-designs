@@ -1,0 +1,14 @@
+<Record>
+<Term>Nodular Goiter</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Goiter</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Goiter/Goiter, Nodular</ClassificationPath>
+<BroaderTerm>Goiter</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Goiter, Nodular</BroaderTerm>
+<Synonym>Nodular Goiters</Synonym>
+<Synonym>Nodular Goiter</Synonym>
+<Description>An enlarged THYROID GLAND containing multiple nodules (THYROID NODULE), usually resulting from recurrent thyroid HYPERPLASIA and involution over many years to produce the irregular enlargement. Multinodular goiters may be nontoxic or may induce THYROTOXICOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

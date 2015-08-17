@@ -1,0 +1,15 @@
+<Record>
+<Term>Torovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coronaviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections/Torovirus Infections</ClassificationPath>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Torovirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<Synonym>Torovirus Infections</Synonym>
+<Synonym>Torovirus Infection</Synonym>
+<Description>Infections with viruses of the genus TOROVIRUS, family CORONAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

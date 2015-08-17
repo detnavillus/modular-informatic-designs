@@ -1,0 +1,30 @@
+<Record>
+<Term>Penciclovir</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Nucleic Acid Synthesis Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Nucleic Acid Synthesis Inhibitor/Penciclovir,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Penciclovir</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Nucleic Acid Synthesis Inhibitor/Penciclovir Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Nucleic Acid Synthesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Penciclovir,</BroaderTerm>
+<BroaderTerm>Penciclovir Sodium</BroaderTerm>
+<BroaderTerm>Penciclovir</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PENCICLOVIR</Synonym>
+<Synonym>Penciclovir sodium</Synonym>
+<Synonym>9-(4-Hydroxy-3-(hydroxymethyl)butyl)guanine, Monosodium Salt</Synonym>
+<Synonym>Denavir</Synonym>
+<Synonym>PENCICLOVIR SODIUM</Synonym>
+<Synonym>1,9-Dihydro-2-amino-9-(4-hydroxy-3-(hydroxymethyl)butyl)-6H-purin-6-one Monosodium Salt</Synonym>
+<Synonym>Penciclovir Sodium</Synonym>
+<Synonym>Penciclovir</Synonym>
+<Description>The sodium salt form of penciclovir, a synthetic acyclic guanine derivative with antiviral activity, mainly used to treat infections from herpes simplex virus (HSV) types 1 and 2. In HSV infected cells, penciclovir is phosphorylated by viral thymidine kinase and subsequently converted by cellular kinases into the active metabolite, penciclovir triphosphate, which competitively inhibits viral HSV polymerase by blocking deoxyguanosine triphosphate substrate binding. As a result, herpes viral DNA synthesis and replication are selectively inhibited.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

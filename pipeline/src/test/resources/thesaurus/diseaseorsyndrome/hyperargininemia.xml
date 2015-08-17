@@ -1,0 +1,35 @@
+<Record>
+<Term>Hyperargininemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urea Cycle Disorders, Inborn</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Urea Cycle Disorders, Inborn/Hyperargininemia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Hyperargininemia</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Urea Cycle Disorders, Inborn</BroaderTerm>
+<Synonym>Hyperargininemias</Synonym>
+<Synonym>ARG1 Deficiency</Synonym>
+<Synonym>Hyperargininemia</Synonym>
+<Synonym>ARG1 Deficiencies</Synonym>
+<Synonym>Argininemia</Synonym>
+<Synonym>Arginase Deficiency Diseases</Synonym>
+<Synonym>Arginase Deficiency</Synonym>
+<Synonym>Arginase Deficiencies</Synonym>
+<Synonym>Arginase Deficiency Disease</Synonym>
+<Description>A rare autosomal recessive disorder of the urea cycle. It is caused by a deficiency of the hepatic enzyme ARGINASE. Arginine is elevated in the blood and cerebrospinal fluid, and periodic HYPERAMMONEMIA may occur. Disease onset is usually in infancy or early childhood. Clinical manifestations include seizures, microcephaly, progressive mental impairment, hypotonia, ataxia, spastic diplegia, and quadriparesis. (From Hum Genet 1993 Mar;91(1):1-5; Menkes, Textbook of Child Neurology, 5th ed, p51)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Bovine Virus Diarrhea-Mucosal Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ParentTerm>Pestivirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Bovine Virus Diarrhea-Mucosal Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Pestivirus Infections/Bovine Virus Diarrhea-Mucosal Disease</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Bovine Virus Diarrhea-Mucosal Disease</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Pestivirus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bovine Virus Diarrhea Mucosal Disease</Synonym>
+<Synonym>Bovine Virus Diarrhea-Mucosal Disease</Synonym>
+<Description>Acute disease of cattle caused by the bovine viral diarrhea viruses (DIARRHEA VIRUSES, BOVINE VIRAL). Often mouth ulcerations are the only sign but fever, diarrhea, drop in milk yield, and loss of appetite are also seen. Severity of clinical disease varies and is strain dependent. Outbreaks are characterized by low morbidity and high mortality.</Description>
+<Source>MeSH</Source>
+</Record>

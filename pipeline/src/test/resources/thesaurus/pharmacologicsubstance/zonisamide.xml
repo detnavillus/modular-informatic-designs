@@ -1,0 +1,21 @@
+<Record>
+<Term>Zonisamide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Zonisamide</ClassificationPath>
+<BroaderTerm>Zonisamide</BroaderTerm>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ZONISAMIDE</Synonym>
+<Synonym>Zonisamide</Synonym>
+<Synonym>1,2-Benzisoxazole-3-methanesulfonamide</Synonym>
+<Synonym>Excegram</Synonym>
+<Synonym>Zonegran</Synonym>
+<Description>A sulfonamide derivative with an anticonvulsant property. The exact mechanism of action remains to be elucidated. Zonisamide appears to block sodium and calcium channels, thereby stabilizing neuronal membranes and suppressing neuronal hyper-synchronization. Although zonisamide shows affinity for the gamma-aminobutyric acid (GABA)/benzodiazepine receptor ionophore complex, it does not potentiate the synaptic activity of GABA. In addition, this agent also facilitates both dopaminergic and serotonergic neurotransmission.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

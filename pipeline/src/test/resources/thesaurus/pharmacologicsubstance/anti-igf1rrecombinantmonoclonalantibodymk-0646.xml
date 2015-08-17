@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-IGF1R Recombinant Monoclonal Antibody MK-0646</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-IGF1R Recombinant Monoclonal Antibody MK-0646</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Anti-IGF1R Recombinant Monoclonal Antibody MK-0646</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-IGF1R Recombinant Monoclonal Antibody MK-0646</Synonym>
+<Synonym>MK-0646</Synonym>
+<Description>A recombinant monoclonal antibody directed against the insulin-like growth factor 1 receptor (IGF1R) with potential antineoplastic activity. Anti-IGF1R recombinant monoclonal antibody MK-0646 binds to membrane-bound IGF1R, preventing binding of the ligand IGF1 and the subsequent triggering of the PI3K/Akt signaling pathway; inhibition of this survival signaling pathway may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. The activation of IGF1R, a tyrosine kinase and a member of the insulin receptor family, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF1R signaling has been highly implicated in tumorigenesis and metastasis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

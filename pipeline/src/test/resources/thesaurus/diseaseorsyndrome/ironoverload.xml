@@ -1,0 +1,33 @@
+<Record>
+<Term>Iron Overload</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Blood and Bone Marrow</ParentTerm>
+<ParentTerm>Iron Metabolism Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Blood and Bone Marrow/Iron Overload Adverse Event</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Iron Metabolism Disorders/Iron Overload</ClassificationPath>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Iron Overload</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Iron Overload Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Blood and Bone Marrow</BroaderTerm>
+<BroaderTerm>Iron Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Iron Overload</ChildTerm>
+<ChildTerm>Hemosiderosis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Iron Overload</ChildTerm>
+<ChildTerm>Hemochromatosis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Iron Overload</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Iron Overload</ChildTerm>
+<Synonym>Iron overload</Synonym>
+<Synonym>Iron Overload</Synonym>
+<Synonym>Iron Overload Adverse Event</Synonym>
+<Description>An excessive accumulation of iron in the body due to a greater than normal absorption of iron from the gastrointestinal tract or from parenteral injection. This may arise from idiopathic hemochromatosis, excessive iron intake, chronic alcoholism, certain types of refractory anemia, or transfusional hemosiderosis. (From Churchill's Illustrated Medical Dictionary, 1989)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

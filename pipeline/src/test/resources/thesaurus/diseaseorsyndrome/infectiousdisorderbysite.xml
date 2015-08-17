@@ -1,0 +1,31 @@
+<Record>
+<Term>Infectious Disorder by Site</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Bone Infection</ChildTerm>
+<ChildTerm>Chorioamnionitis</ChildTerm>
+<ChildTerm>Head and Neck Infection</ChildTerm>
+<ChildTerm>Amnionitis</ChildTerm>
+<ChildTerm>Staphylococcus Aureus Gastroenteritis</ChildTerm>
+<ChildTerm>Viral Conjunctivitis</ChildTerm>
+<ChildTerm>Genitourinary System Infection</ChildTerm>
+<ChildTerm>Ear Infection</ChildTerm>
+<ChildTerm>Abdominal and Gastrointestinal Infection</ChildTerm>
+<ChildTerm>Bacterial Conjunctivitis</ChildTerm>
+<ChildTerm>Nervous System Infectious Disorder</ChildTerm>
+<ChildTerm>Eye Infection</ChildTerm>
+<ChildTerm>Dental and Periodontal Infection</ChildTerm>
+<ChildTerm>Infectious Lung Disorder</ChildTerm>
+<ChildTerm>Skin Infection</ChildTerm>
+<ChildTerm>Septicemia</ChildTerm>
+<Synonym>Infectious Disorder by Site</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

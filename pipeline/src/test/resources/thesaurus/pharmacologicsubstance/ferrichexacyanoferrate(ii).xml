@@ -1,0 +1,21 @@
+<Record>
+<Term>Ferric Hexacyanoferrate (II)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Chelating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chelating Agent/Ferric Hexacyanoferrate (II)</ClassificationPath>
+<BroaderTerm>Ferric Hexacyanoferrate (II)</BroaderTerm>
+<BroaderTerm>Chelating Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Antidotum Thallii-Heyl</Synonym>
+<Synonym>FERRIC HEXACYANOFERRATE(II)</Synonym>
+<Synonym>Ferric Hexacyanoferrate (II)</Synonym>
+<Synonym>Ferrocin</Synonym>
+<Synonym>Insoluble Prussian Blue</Synonym>
+<Synonym>Iron Ferrocyanide</Synonym>
+<Synonym>Radiogardase-Cs</Synonym>
+<Description>A chelating agent with strong binding affinity for thallium, cesium, and other ions. Ferric hexacyanoferrate is used for the treatment of acute and chronic thallium and cesium poisoning. This agent is not absorbed in the gastrointestinal tract and it chelates thallium or cesium ion in the intestines. The resulting complex is eliminated via the feces.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>rFOWLPOX-PSA(L155)-TRICOM Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Fowlpox-TRICOM Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-TRICOM Vaccine/rFOWLPOX-PSA(L155)-TRICOM Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>rFOWLPOX-PSA(L155)-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Fowlpox-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>PROSTVAC-F</Synonym>
+<Synonym>PROSTVAC-F/TRICOM</Synonym>
+<Synonym>rFOWLPOX-PSA(L155)-TRICOM Vaccine</Synonym>
+<Description>A cancer vaccine consisting of a recombinant fowlpox virus encoding fragment of human prostate-specific antigen (PSA), PSA:154-163 (155L), and a TRIad of COstimulatory Molecules (B7-1, ICAM-1 and LFA-3) (TRICOM).  Administration of this agent may induce a cytotoxic T cell response against PSA-expressing tumor cells.  Dendritic cells infected with TRICOM vectors greatly enhance naive T-cell activation and peptide-specific T-cell stimulation. Fowlpox virus is an attractive vector because its genome is easy to manipulate and it is replication incompetent in mammalian cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

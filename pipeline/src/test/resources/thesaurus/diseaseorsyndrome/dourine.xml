@@ -1,0 +1,24 @@
+<Record>
+<Term>Dourine</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Euglenozoa Infections</ParentTerm>
+<ParentTerm>Trypanosomiasis</ParentTerm>
+<ParentTerm>Protozoan Infections, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Trypanosomiasis/Dourine</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal/Dourine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Dourine</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Dourine</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Euglenozoa Infections/Dourine</ClassificationPath>
+<BroaderTerm>Euglenozoa Infections</BroaderTerm>
+<BroaderTerm>Trypanosomiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Dourine</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Dourines</Synonym>
+<Synonym>Dourine</Synonym>
+<Description>A disease of horses and donkeys caused by Trypanosoma equiperdum. The disease occurs in Africa, the Americas, and Asia.</Description>
+<Source>MeSH</Source>
+</Record>

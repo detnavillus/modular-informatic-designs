@@ -1,0 +1,15 @@
+<Record>
+<Term>I 131 TM-601</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/I 131 TM-601</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>I 131 TM-601</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I 131 TM-601</Synonym>
+<Description>A synthetic version of chlorotoxin, a scorpion-derived 36 amino-acid peptide that selectively binds glioma cells but not brain parenchyma. TM-601 is radiolabeled with beta-emitting radionuclide Iodine-131, thereby allowing radio-imaging of tumor volume and the extent of tumor infiltration within the brain.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

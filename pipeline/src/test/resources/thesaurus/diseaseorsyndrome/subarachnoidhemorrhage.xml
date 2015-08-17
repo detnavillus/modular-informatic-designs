@@ -1,0 +1,46 @@
+<Record>
+<Term>Subarachnoid Hemorrhage</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Intracranial Hemorrhages</ParentTerm>
+<ParentTerm>Hemorrhage</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Hemorrhage/Subarachnoid Hemorrhage</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Hemorrhages/Subarachnoid Hemorrhage</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Hemorrhage/Intracranial Hemorrhages/Subarachnoid Hemorrhage</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Hemorrhages/Subarachnoid Hemorrhage</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Subarachnoid Hemorrhage</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Intracranial Hemorrhages</BroaderTerm>
+<BroaderTerm>Hemorrhage</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<ChildTerm>Subarachnoid Hemorrhage, Traumatic</ChildTerm>
+<Synonym>SAH (Subarachnoid Hemorrhage)</Synonym>
+<Synonym>Intracranial Subarachnoid Hemorrhage</Synonym>
+<Synonym>Subarachnoid Hemorrhage</Synonym>
+<Synonym>Aneurysmal Subarachnoid Hemorrhages</Synonym>
+<Synonym>Spontaneous Subarachnoid Hemorrhage</Synonym>
+<Synonym>Intracranial Subarachnoid Hemorrhages</Synonym>
+<Synonym>Hemorrhage, Subarachnoid</Synonym>
+<Synonym>SAHs (Subarachnoid Hemorrhage)</Synonym>
+<Synonym>Aneurysmal Subarachnoid Hemorrhage</Synonym>
+<Synonym>Perinatal Subarachnoid Hemorrhage</Synonym>
+<Synonym>Subarachnoid hemorrhage</Synonym>
+<Synonym>Subarachnoid Hemorrhages</Synonym>
+<Synonym>Spontaneous Subarachnoid Hemorrhages</Synonym>
+<Synonym>Perinatal Subarachnoid Hemorrhages</Synonym>
+<Description>Intracranial hemorrhage into the subarachnoid space.</Description>
+<Description>Bleeding into the intracranial or spinal SUBARACHNOID SPACE, most resulting from INTRACRANIAL ANEURYSM rupture. It can occur after traumatic injuries (SUBARACHNOID HEMORRHAGE, TRAUMATIC). Clinical features include HEADACHE; NAUSEA; VOMITING, nuchal rigidity, variable neurological deficits and reduced mental status.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

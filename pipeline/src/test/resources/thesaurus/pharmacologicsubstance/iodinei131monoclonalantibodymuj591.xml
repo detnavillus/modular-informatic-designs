@@ -1,0 +1,15 @@
+<Record>
+<Term>Iodine I 131 Monoclonal Antibody muJ591</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Iodine I 131 Monoclonal Antibody muJ591</ClassificationPath>
+<BroaderTerm>Iodine I 131 Monoclonal Antibody muJ591</BroaderTerm>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Iodine I 131 Monoclonal Antibody muJ591</Synonym>
+<Description>A radioimmunoconjugate of a mouse monoclonal antibody (MoAb) J591 labeled with Iodine 131 (I-131). MoAb muJ591 recognizes the extracellular domain of the prostate-specific membrane antigen (PSMA) and reacts with tumor vascular endothelium. Using MoAb muJ591 as a carrier for I-131 results in the targeted imaging and/or destruction of cells overexpressed PSM.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,46 @@
+<Record>
+<Term>Cerebral Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Infarction</ParentTerm>
+<ParentTerm>Cerebrovascular Disorder</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Cerebrovascular Disorder/Cerebral Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Brain Infarction/Cerebral Infarction</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Stroke/Brain Infarction/Cerebral Infarction</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Brain Infarction</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cerebral Infarction</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Stroke</BroaderTerm>
+<ChildTerm>Infarction, Anterior Cerebral Artery</ChildTerm>
+<ChildTerm>Dementia, Multi-Infarct</ChildTerm>
+<ChildTerm>Infarction, Middle Cerebral Artery</ChildTerm>
+<ChildTerm>Infarction, Posterior Cerebral Artery</ChildTerm>
+<Synonym>Cerebral, Infarction</Synonym>
+<Synonym>Anterior Choroidal Artery Infarction</Synonym>
+<Synonym>Posterior Choroidal Artery Infarction</Synonym>
+<Synonym>Cerebral Ischemia</Synonym>
+<Synonym>Cerebral Infarction</Synonym>
+<Synonym>Infarction, cerebral</Synonym>
+<Synonym>Subcortical Infarction</Synonym>
+<Synonym>Subcortical Infarctions</Synonym>
+<Synonym>Cerebral Infarctions</Synonym>
+<Description>The formation of an area of NECROSIS in the CEREBRUM caused by an insufficiency of arterial or venous blood flow. Infarcts of the cerebrum are generally classified by hemisphere (i.e., left vs. right), lobe (e.g., frontal lobe infarction), arterial distribution (e.g., INFARCTION, ANTERIOR CEREBRAL ARTERY), and etiology (e.g., embolic infarction).</Description>
+<Description>An ischemic condition of the brain, producing a persistent focal neurological deficit in the area of distribution of the cerebral arteries.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

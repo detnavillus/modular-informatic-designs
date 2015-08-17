@@ -1,0 +1,15 @@
+<Record>
+<Term>Erastin Analogue PRLX 93936</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Erastin Analogue PRLX 93936</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Erastin Analogue PRLX 93936</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Erastin Analogue PRLX 93936</Synonym>
+<Synonym>PRLX 93936</Synonym>
+<Description>A structural analogue of erastin with potential antineoplastic activity. Erastin analogue PRLX 93936 appears to inhibit mitochondrial outer membrane protein VDACs (voltage-dependent anion channels) 2 and 3, resulting in an oxidative, non-apoptotic cell death. Erastin analogue PRLX 93936 exhibits greater lethality in cell lines harboring mutations in the GTPase protein oncogenes HRAS and KRAS or the serine-threonine protein kinase oncogene BRAF than in non-tumorigenic cell lines. VDACs 2 and 3 are up-regulated in a wide variety of tumor cell lines.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

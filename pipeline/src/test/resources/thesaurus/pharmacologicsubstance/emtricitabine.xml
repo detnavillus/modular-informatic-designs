@@ -1,0 +1,29 @@
+<Record>
+<Term>Emtricitabine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Pyrimidine Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Pyrimidine Antagonist/Emtricitabine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Anti-HIV Agent/Emtricitabine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Emtricitabine</BroaderTerm>
+<BroaderTerm>Pyrimidine Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-HIV Agent</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Emtricitabine,</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Coviracil</Synonym>
+<Synonym>FTC</Synonym>
+<Synonym>Emtricitabine</Synonym>
+<Synonym>(-)-2'-Deoxy-5-fluoro-3'-thiacytidine</Synonym>
+<Synonym>Emtriva</Synonym>
+<Synonym>EMTRICITABINE</Synonym>
+<Synonym>2(1H)-Pyrimidinone, 4-amino-5-fluoro-1-(2-(hydroxymethyl)-1,3-oxathiolan-5-yl)-,(2R-cis)-</Synonym>
+<Description>A synthetic nucleoside analogue of cytidine with activity against human immunodeficiency virus type 1 reverse transcriptase (RT). Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate. Emtricitabine 5'-triphosphate inhibits the activity of HIV-1 RT by competing with the RT natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in the termination of viral DNA chain elongation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

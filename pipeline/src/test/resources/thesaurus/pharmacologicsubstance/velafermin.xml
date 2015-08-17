@@ -1,0 +1,19 @@
+<Record>
+<Term>Velafermin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Fibroblast Growth Factor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Growth Factor/Recombinant Fibroblast Growth Factor/Velafermin</ClassificationPath>
+<BroaderTerm>Velafermin</BroaderTerm>
+<BroaderTerm>Recombinant Fibroblast Growth Factor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Recombinant Growth Factor</BroaderTerm>
+<Synonym>CG53135</Synonym>
+<Synonym>Recombinant FGF-20</Synonym>
+<Synonym>Recombinant Human Fibroblast Growth Factor-20</Synonym>
+<Synonym>Velafermin</Synonym>
+<Description>A recombinant human fibroblast growth factor-20 (rhFGF-20) protein with pro-proliferative activity.  Velafermin stimulates DNA synthesis and cell proliferation, specifically promoting epithelial and mesenchymal cell proliferation, and may prevent radiation or chemotherapy-induced oral mucositis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

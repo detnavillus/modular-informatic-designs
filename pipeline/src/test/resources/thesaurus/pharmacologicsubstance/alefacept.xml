@@ -1,0 +1,20 @@
+<Record>
+<Term>Alefacept</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Alefacept</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Alefacept</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Amevive</Synonym>
+<Synonym>Alefacept</Synonym>
+<Synonym>ALEFACEPT</Synonym>
+<Synonym>LFA3TIP</Synonym>
+<Description>A recombinant dimeric fusion protein consisting of the extracellular CD2-binding domain of the human leukocyte function-associated antigen 3 (LFA-3; CD58) linked to the Fc portion of human immunoglobulin G1 (IgG1) with potential immunosuppressive activity. Alefacept binds to the CD2 receptor expressed on the majority of T lymphocytes, blocking the binding of endogenous LFA-3, located on antigen-presenting cells (APCs), to the CD2 receptor; the activation and proliferation of T lymphocytes in response to LFA-3 binding is thus inhibited. In addition, binding of the IgG1 moiety of this agent to the Fc gamma receptor on the surface of natural killer (NK)cells may bridge NK cells and target T lymphocytes, initiating NK cell-mediated apoptosis of T lymphocytes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

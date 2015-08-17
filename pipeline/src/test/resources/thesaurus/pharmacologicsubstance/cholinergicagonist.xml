@@ -1,0 +1,28 @@
+<Record>
+<Term>Cholinergic Agonist</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cholinergic Agonist</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Cholinergic Agonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Dichlorphenamide</ChildTerm>
+<ChildTerm>Varenicline Tartrate</ChildTerm>
+<ChildTerm>Arecoline Hydrobromide</ChildTerm>
+<ChildTerm>Vedaclidine</ChildTerm>
+<ChildTerm>Guanidine Hydrochloride</ChildTerm>
+<ChildTerm>Rivanicline Galactarate</ChildTerm>
+<ChildTerm>Rivanicline</ChildTerm>
+<ChildTerm>Demecarium Bromide</ChildTerm>
+<ChildTerm>Tazomeline Citrate</ChildTerm>
+<ChildTerm>Cevimeline</ChildTerm>
+<ChildTerm>Acetylcholine Chloride</ChildTerm>
+<ChildTerm>Tilorone Hydrochloride</ChildTerm>
+<ChildTerm>Cevimeline Hydrochloride</ChildTerm>
+<ChildTerm>Nicotinic Agonist</ChildTerm>
+<Synonym>Cholinergic Agonist</Synonym>
+<Description>Any agent that is capable of activating cholinergic receptors (nicotinic and muscarinic) to induce a full or partial cholinergic responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

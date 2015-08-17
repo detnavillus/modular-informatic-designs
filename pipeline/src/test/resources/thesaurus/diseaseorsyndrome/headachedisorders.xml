@@ -1,0 +1,28 @@
+<Record>
+<Term>Headache Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Headache Disorders, Primary</ChildTerm>
+<ChildTerm>Headache Disorders, Secondary</ChildTerm>
+<Synonym>Headache Disorders</Synonym>
+<Synonym>Headache Disorder</Synonym>
+<Synonym>Cephalgia Syndromes</Synonym>
+<Synonym>Cephalgia Syndrome</Synonym>
+<Synonym>Headache Syndromes</Synonym>
+<Synonym>Headache Syndrome</Synonym>
+<Synonym>Chronic Headache</Synonym>
+<Synonym>Chronic Headaches</Synonym>
+<Synonym>Intractable Headache</Synonym>
+<Synonym>Intractable Headaches</Synonym>
+<Synonym>Chronic Daily Headache</Synonym>
+<Synonym>Chronic Daily Headaches</Synonym>
+<Synonym>Headache</Synonym>
+<Synonym>Headaches</Synonym>
+<Description>Various conditions with the symptom of HEADACHE. Headache disorders are classified into major groups, such as PRIMARY HEADACHE DISORDERS (based on characteristics of their headache symptoms) and SECONDARY HEADACHE DISORDERS (based on their etiologies). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Jervell-Lange Nielsen Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Long QT Syndrome</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Long QT Syndrome/Jervell-Lange Nielsen Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Long QT Syndrome/Jervell-Lange Nielsen Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Long QT Syndrome/Jervell-Lange Nielsen Syndrome</ClassificationPath>
+<BroaderTerm>Long QT Syndrome</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<BroaderTerm>Jervell-Lange Nielsen Syndrome</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Jervell and Lange-Nielsen Syndrome</Synonym>
+<Synonym>Jervell and Lange Nielsen Syndrome</Synonym>
+<Synonym>Surdo-Cardiac Syndrome</Synonym>
+<Synonym>Jervell Lange Nielsen Syndrome</Synonym>
+<Synonym>Surdo Cardiac Syndrome</Synonym>
+<Synonym>Cardioauditory Syndrome of Jervell and Lange-Nielsen</Synonym>
+<Synonym>Jervell-Lange Nielsen Syndrome</Synonym>
+<Synonym>Cardioauditory Syndrome of Jervell and Lange Nielsen</Synonym>
+<Synonym>Surdo-Cardiac Syndromes</Synonym>
+<Description>A form of long QT syndrome that is associated with congenital deafness. It is characterized by abnormal cardioelectrophysiology involving the VOLTAGE-GATED POTASSIUM CHANNEL. It results from mutation of KCNQ1 gene (Subtype 1 or JLN1) or the KCNE1 gene (Subtype 2 or JLN2).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Human Lactoferrin Peptide hLF1-11</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Human Lactoferrin Peptide hLF1-11</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Human Lactoferrin Peptide hLF1-11</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Human Lactoferrin Peptide hLF1-11</Synonym>
+<Synonym>hLF(1-11)</Synonym>
+<Description>A synthetic peptide corresponding to the first 11 N-terminal amino acids of human lactoferrin (hLF1-11) with potential antimicrobial activity. Human lactoferrin, a 692 amino acid glycoprotein belonging to the transferrin family of metal-binding proteins, can be found in milk and other secretory fluids as well as in polymorphonuclear cells and leukocytes. Human lactoferrin plays a role in the innate defense of mucosal surfaces and neutrophils. Although the exact mechanism through which this peptide exerts its effect has yet to be fully elucidated, hLF1-11 may seize iron, thereby limiting the availability of free iron for microorganisms in the body. hLF1-11 appears to be effective against a variety of bacteria and fungi, including the multidrug-resistant Acinetobacter baumannii, multidrug-resistant Staphylococcus aureus, and fluconazole-resistant Candida albicans strains.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

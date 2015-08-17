@@ -1,0 +1,27 @@
+<Record>
+<Term>Tuberculous Pericarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Cardiovascular</ParentTerm>
+<ParentTerm>Pericarditis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Pericarditis/Pericarditis, Tuberculous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cardiovascular Infections/Tuberculosis, Cardiovascular/Pericarditis, Tuberculous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Cardiovascular/Pericarditis, Tuberculous</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Cardiovascular Infections/Tuberculosis, Cardiovascular/Pericarditis, Tuberculous</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Pericarditis</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tuberculosis, Cardiovascular</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Cardiovascular Infections</BroaderTerm>
+<BroaderTerm>Pericarditis, Tuberculous</BroaderTerm>
+<Synonym>Tuberculous Pericarditides</Synonym>
+<Synonym>Tuberculous Pericarditis</Synonym>
+<Description>INFLAMMATION of the sac surrounding the heart (PERICARDIUM) due to MYCOBACTERIUM TUBERCULOSIS infection. Pericarditis can lead to swelling (PERICARDIAL EFFUSION), compression of the heart (CARDIAC TAMPONADE), and preventing normal beating of the heart.</Description>
+<Source>MeSH</Source>
+</Record>

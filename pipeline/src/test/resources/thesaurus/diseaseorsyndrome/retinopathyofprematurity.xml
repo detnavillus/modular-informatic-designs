@@ -1,0 +1,21 @@
+<Record>
+<Term>Retinopathy of Prematurity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Infant, Premature, Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinopathy of Prematurity</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Infant, Premature, Diseases/Retinopathy of Prematurity</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Retinopathy of Prematurity</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Infant, Premature, Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Retrolental Fibroplasias</Synonym>
+<Synonym>Prematurity Retinopathy</Synonym>
+<Synonym>Retinopathy of Prematurity</Synonym>
+<Synonym>Prematurity Retinopathies</Synonym>
+<Synonym>Retrolental Fibroplasia</Synonym>
+<Description>A bilateral retinopathy occurring in premature infants treated with excessively high concentrations of oxygen, characterized by vascular dilatation, proliferation, and tortuosity, edema, and retinal detachment, with ultimate conversion of the retina into a fibrous mass that can be seen as a dense retrolental membrane. Usually growth of the eye is arrested and may result in microophthalmia, and blindness may occur. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

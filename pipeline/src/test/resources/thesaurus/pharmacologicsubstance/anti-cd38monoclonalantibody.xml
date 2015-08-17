@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD38 Monoclonal Antibody</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-CD38 Monoclonal Antibody</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-CD38 Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD38 Monoclonal Antibody</Synonym>
+<Synonym>HuMax-CD38</Synonym>
+<Description>A fully human monoclonal antibody directed against the cell surface glycoprotein CD-38 with potential antineoplastic activity. The binding of anti-CD38 monoclonal antibody to natural killer (NK) cells mimics the normal CD38-CD31 interaction on the NK cell surface. CD38 is also present on multiple myeloma (MM) cells and plasma leukemia cells; this agent may preferentially bind these cells, triggering antitumoral antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC). CD38, a cell surface glycoprotein, is present on various immune cells and has been shown to regulate the cytotoxic response of activated NK cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

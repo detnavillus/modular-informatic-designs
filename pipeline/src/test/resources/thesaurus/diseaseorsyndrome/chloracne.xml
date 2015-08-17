@@ -1,0 +1,18 @@
+<Record>
+<Term>Chloracne</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acneiform Eruptions</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Acneiform Eruptions/Chloracne</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Facial Dermatoses/Acneiform Eruptions/Chloracne</ClassificationPath>
+<BroaderTerm>Acneiform Eruptions</BroaderTerm>
+<BroaderTerm>Chloracne</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Facial Dermatoses</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<Synonym>Chloracne</Synonym>
+<Synonym>Chlorine Acne</Synonym>
+<Synonym>Chlorine Acnes</Synonym>
+<Synonym>Chloracnes</Synonym>
+<Description>ACNE-like skin eruptions caused by exposure to CHLORINE-containing compounds. Exposure can be by inhalation, ingestion, or through the skin. Chloracne is often seen in people who have occupational contact with chlorinated pesticides, wood preservatives, and sealants.</Description>
+<Source>MeSH</Source>
+</Record>

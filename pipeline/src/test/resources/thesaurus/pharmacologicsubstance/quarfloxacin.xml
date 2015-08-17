@@ -1,0 +1,15 @@
+<Record>
+<Term>Quarfloxacin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Quarfloxacin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Quarfloxacin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CX-3543</Synonym>
+<Synonym>Quarfloxacin</Synonym>
+<Description>A fluoroquinolone derivative with antineoplastic activity. Quarfloxin disrupts the interaction between the nucleolin protein and a G-quadruplex DNA structure in the ribosomal DNA (rDNA) template, a critical interaction for rRNA biogenesis that is overexpressed in cancer cells; disruption of this G-quadruplex DNA:protein interaction in aberrant rRNA biogenesis may result in the inhibition of ribosome synthesis and tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

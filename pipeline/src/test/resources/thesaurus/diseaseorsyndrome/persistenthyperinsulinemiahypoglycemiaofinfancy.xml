@@ -1,0 +1,25 @@
+<Record>
+<Term>Persistent Hyperinsulinemia Hypoglycemia of Infancy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Hypoglycemia</ParentTerm>
+<ParentTerm>Hyperinsulinism</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Persistent Hyperinsulinemia Hypoglycemia of Infancy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hypoglycemia/Persistent Hyperinsulinemia Hypoglycemia of Infancy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hyperinsulinism/Persistent Hyperinsulinemia Hypoglycemia of Infancy</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hyperinsulinism</BroaderTerm>
+<BroaderTerm>Hypoglycemia</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Persistent Hyperinsulinemia Hypoglycemia of Infancy</BroaderTerm>
+<Synonym>Hyperinsulinemia Hypoglycemia of Infancy</Synonym>
+<Synonym>Infancy Hyperinsulinemia Hypoglycemia</Synonym>
+<Synonym>Persistent Hyperinsulinemia Hypoglycemia of Infancy</Synonym>
+<Synonym>Congenital Hyperinsulinism</Synonym>
+<Synonym>PHHI Hypoglycemia</Synonym>
+<Description>A form of nontransient HYPOGLYCEMIA, unique to infancy, due to autosomal recessive mutations of the sulfonylurea receptor gene on CHROMOSOME 11. Defects in the sulfonylurea receptors (ATP-BINDING CASSETTE TRANSPORTERS) on the PANCREATIC BETA CELLS prevent negative feedback of GLUCOSE-regulated INSULIN release thus resulting in HYPERINSULINEMIA. Clinical phenotype includes SEIZURES; COMA; and often large BIRTH WEIGHT for GESTATIONAL AGE.</Description>
+<Source>MeSH</Source>
+</Record>

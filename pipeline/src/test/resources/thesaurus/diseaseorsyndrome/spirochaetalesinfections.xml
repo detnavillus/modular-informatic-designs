@@ -1,0 +1,18 @@
+<Record>
+<Term>Spirochaetales Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Borrelia Infections</ChildTerm>
+<ChildTerm>Treponemal Infections</ChildTerm>
+<ChildTerm>Leptospirosis</ChildTerm>
+<Synonym>Spirochaetales Infections</Synonym>
+<Synonym>Spirochete Infections</Synonym>
+<Synonym>Spirochete Infection</Synonym>
+<Synonym>Spirochaetales Infection</Synonym>
+<Description>Infections with bacteria of the order SPIROCHAETALES.</Description>
+<Source>MeSH</Source>
+</Record>

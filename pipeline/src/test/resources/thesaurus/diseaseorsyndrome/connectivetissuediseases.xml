@@ -1,0 +1,51 @@
+<Record>
+<Term>Connective Tissue Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Connective and Soft Tissue Disorder</ParentTerm>
+<ParentTerm>Skin and Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Connective Tissue Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Connective Tissue Disorder</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Pseudoxanthoma Elasticum</ChildTerm>
+<ChildTerm>Penile Induration</ChildTerm>
+<ChildTerm>Panniculitis</ChildTerm>
+<ChildTerm>Osteopoikilosis</ChildTerm>
+<ChildTerm>Neoplasms, Connective Tissue</ChildTerm>
+<ChildTerm>Dermatomyositis</ChildTerm>
+<ChildTerm>Marfan Syndrome</ChildTerm>
+<ChildTerm>Interstitial Disease</ChildTerm>
+<ChildTerm>Dupuytren Contracture</ChildTerm>
+<ChildTerm>Scleroderma, Systemic</ChildTerm>
+<ChildTerm>Mucinoses</ChildTerm>
+<ChildTerm>Mixed Connective Tissue Disease</ChildTerm>
+<ChildTerm>Cartilage Diseases</ChildTerm>
+<ChildTerm>Lupus Erythematosus, Cutaneous</ChildTerm>
+<ChildTerm>Non-Neoplastic Bone Disorder</ChildTerm>
+<ChildTerm>Homocystinuria</ChildTerm>
+<ChildTerm>Scleroderma, Localized</ChildTerm>
+<ChildTerm>Weill-Marchesani Syndrome</ChildTerm>
+<ChildTerm>Lupus Erythematosus, Systemic</ChildTerm>
+<ChildTerm>Anetoderma</ChildTerm>
+<ChildTerm>Noonan Syndrome</ChildTerm>
+<ChildTerm>alpha 1-Antitrypsin Deficiency</ChildTerm>
+<ChildTerm>Collagen Diseases</ChildTerm>
+<ChildTerm>Rheumatic Diseases</ChildTerm>
+<ChildTerm>Cellulitis</ChildTerm>
+<ChildTerm>Cutis Laxa</ChildTerm>
+<Synonym>Disease, connective tissue</Synonym>
+<Synonym>Tissue disease, connective</Synonym>
+<Synonym>Connective Tissue Disease</Synonym>
+<Synonym>Connective Tissue Disorder</Synonym>
+<Synonym>Connective Tissue Disorders</Synonym>
+<Synonym>Connective Tissue Diseases</Synonym>
+<Description>A heterogeneous group of disorders, some hereditary, others acquired, characterized by abnormal structure or function of one or more of the elements of connective tissue, i.e., collagen, elastin, or the mucopolysaccharides.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

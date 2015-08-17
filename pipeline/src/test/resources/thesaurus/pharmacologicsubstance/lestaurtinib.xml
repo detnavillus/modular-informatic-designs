@@ -1,0 +1,20 @@
+<Record>
+<Term>Lestaurtinib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Lestaurtinib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Lestaurtinib</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>9,12-Epoxy-1H-diindolo(1,2,3-fg:3',2',1'-kl)pyrrolo(3,4-i)(1,6)benzodiazocin-1-one, 2,3,9,10,11,12-hexahydro-10-hydroxy-10-(hydroxymethyl)-9-methyl-, (9S,10S,12R)-</Synonym>
+<Synonym>CEP-701</Synonym>
+<Synonym>KT-5555</Synonym>
+<Synonym>Lestaurtinib</Synonym>
+<Synonym>SPM-924</Synonym>
+<Description>An orally bioavailable indolocarbazole derivative with antineoplastic properties. Lestaurtinib inhibits autophosphorylation of FMS-like tyrosine kinase 3 (FLT3), resulting in inhibition of FLT3 activity and induction of apoptosis in tumor cells that overexpress FLT3. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

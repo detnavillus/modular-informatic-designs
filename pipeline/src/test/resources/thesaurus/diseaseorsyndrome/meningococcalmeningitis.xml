@@ -1,0 +1,29 @@
+<Record>
+<Term>Meningococcal Meningitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Meningococcal Infections</ParentTerm>
+<ParentTerm>Meningitis, Bacterial</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Meningitis/Meningitis, Bacterial/Meningitis, Meningococcal</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Meningococcal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Neisseriaceae Infections/Meningococcal Infections/Meningitis, Meningococcal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Meningitis, Bacterial/Meningitis, Meningococcal</ClassificationPath>
+<BroaderTerm>Meningitis, Meningococcal</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neisseriaceae Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Meningococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Meningitis, Bacterial</BroaderTerm>
+<ChildTerm>Waterhouse-Friderichsen Syndrome</ChildTerm>
+<Synonym>Serogroup A Meningococcal Meningitis</Synonym>
+<Synonym>Serogroup B Meningococcal Meningitis</Synonym>
+<Synonym>Serogroup C Meningococcal Meningitis</Synonym>
+<Synonym>Meningococcal Meningitis</Synonym>
+<Description>A fulminant infection of the meninges and subarachnoid fluid by the bacterium NEISSERIA MENINGITIDIS, producing diffuse inflammation and peri-meningeal venous thromboses. Clinical manifestations include FEVER, nuchal rigidity, SEIZURES, severe HEADACHE, petechial rash, stupor, focal neurologic deficits, HYDROCEPHALUS, and COMA. The organism is usually transmitted via nasopharyngeal secretions and is a leading cause of meningitis in children and young adults. Organisms from Neisseria meningitidis serogroups A, B, C, Y, and W-135 have been reported to cause meningitis. (From Adams et al., Principles of Neurology, 6th ed, pp689-701; Curr Opin Pediatr 1998 Feb;10(1):13-8)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Autovaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Autovaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Autovaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Autovaccines</Synonym>
+<Synonym>Autogenous Vaccines</Synonym>
+<Description>Bacterial vaccines prepared from non-pathogenic, autologous bacteria of human origin. In Eastern Europe they are used in humans to treat chronic inflammatory disorders that are resistant to standard treatments. Worldwide they have veterinary use in all types of infectious disease.</Description>
+<Source>MeSH</Source>
+</Record>

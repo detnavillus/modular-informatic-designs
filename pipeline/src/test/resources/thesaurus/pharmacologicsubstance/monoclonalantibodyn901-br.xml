@@ -1,0 +1,19 @@
+<Record>
+<Term>Monoclonal Antibody N901-bR</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Ricin Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Immunotoxin/Ricin Immunoconjugate/Monoclonal Antibody N901-bR</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody N901-bR</BroaderTerm>
+<BroaderTerm>Immunotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ricin Immunoconjugate</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MOAB N901-bR</Synonym>
+<Synonym>Monoclonal Antibody N901-bR</Synonym>
+<Description>A synthetic immunotoxin consisting of the murine monoclonal antibody N901 conjugated with toxin-blocked ricin (BR).  Monoclonal antibody N901-BR binds to CD56, a neural cell adhesion molecule (NCAM) that is expressed by tumor cells of neuroectodermal origin (including small cell lung cancer (SCLC) and neuroblastoma), and by normal cells (including neuroendocrine cells, cardiac muscle cells, and cells in peripheral nerve tissue).  (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Sulconazole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antifungal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Sulconazole Nitrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Sulconazole</ClassificationPath>
+<BroaderTerm>Sulconazole Nitrate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antifungal Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sulconazole</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(+-)-1-(2,4-Dichloro-beta-((4-chlorobenzyl)thio)phenethyl)imidazole Nitrate</Synonym>
+<Synonym>Sulconazole Nitrate</Synonym>
+<Synonym>Sulconazole nitrate</Synonym>
+<Synonym>Sulconazole</Synonym>
+<Synonym>1H-Imidazole, 1-(2-(((4-chlorophenyl)methyl)thio)-2-(2,4-dichlorophenyl)ethyl)-, Mononitrate,(+-)-</Synonym>
+<Synonym>SULCONAZOLE NITRATE</Synonym>
+<Synonym>SULCONAZOLE</Synonym>
+<Synonym>Exelderm</Synonym>
+<Description>The nitrate salt form of sulconazole, a synthetic imidazole derivative with antifungal property. Sulconazole nitrate inhibits fungal cytochrome P-450 sterol C-14 alpha-demethylation, resulting in the accumulation of fungal 14 alpha-methyl sterols and inhibition of the synthesis of ergosterol, an important component of the fungal cell membrane. Inhibition of ergosterol synthesis leads to a disruption of cell membrane permeability, and ultimately inhibition of cell wall synthesis. In addition, sulconazole nitrate seems to interfere with the autolytic degradation of fungal DNA and RNA.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

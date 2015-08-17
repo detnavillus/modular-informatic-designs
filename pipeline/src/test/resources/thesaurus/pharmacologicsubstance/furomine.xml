@@ -1,0 +1,16 @@
+<Record>
+<Term>Furomine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Diagnostic Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Diagnostic Reagent/Furomine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Furomine</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Diagnostic Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4,4'-(Ethylenebis(iminomethylidyne))bis(dihydro-2,2,5,5-tetramethyl-3(2H)-furanone)</Synonym>
+<Synonym>FUROMINE</Synonym>
+<Synonym>Furomine</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

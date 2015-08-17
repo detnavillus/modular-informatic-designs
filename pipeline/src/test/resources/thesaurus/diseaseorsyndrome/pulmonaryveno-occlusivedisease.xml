@@ -1,0 +1,20 @@
+<Record>
+<Term>Pulmonary Veno-Occlusive Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Pulmonary Veno-Occlusive Disease</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Veno-Occlusive Disease</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Veno-Occlusive Disease</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Pulmonary Veno-Occlusive Disease</Synonym>
+<Synonym>Pulmonary Venoocclusive Diseases</Synonym>
+<Synonym>Pulmonary Veno Occlusive Disease</Synonym>
+<Synonym>Pulmonary Veno-Occlusive Diseases</Synonym>
+<Synonym>Pulmonary Venoocclusive Disease</Synonym>
+<Description>Pathological process resulting in the fibrous obstruction of the small- and medium-sized PULMONARY VEINS and PULMONARY HYPERTENSION. Veno-occlusion can arise from fibrous proliferation of the VASCULAR INTIMA and VASCULAR MEDIA; THROMBOSIS; or a combination of both.</Description>
+<Source>MeSH</Source>
+</Record>

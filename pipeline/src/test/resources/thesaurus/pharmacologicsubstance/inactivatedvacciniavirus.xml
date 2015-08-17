@@ -1,0 +1,14 @@
+<Record>
+<Term>Inactivated Vaccinia Virus</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Inactivated Vaccinia Virus</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Inactivated Vaccinia Virus</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Inactivated Vaccinia Virus</Synonym>
+<Description>A poxvirus made non-infectious by ultraviolet light or other inactivation methods in order to reduce its pathogenicity. In cancer gene therapy, inactivated vaccinia virus may be used as a vector to express a protein that kills tumor cells or elicits specific anti-tumor immunity.  In a cancer vaccine application, tumor cells taken from the host may be adsorbed with inactivated vaccinia virus and returned to the host, where the modified tumor cells may stimulate an anti-tumor immune response. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

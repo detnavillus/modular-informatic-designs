@@ -1,0 +1,44 @@
+<Record>
+<Term>Sickle Cell Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemoglobinopathies</ParentTerm>
+<ParentTerm>Anemia, Hemolytic, Congenital</ParentTerm>
+<ParentTerm>Hemoglobinopathy</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Anemia, Sickle Cell</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Hemoglobinopathy/Sickle Cell Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Anemia, Sickle Cell</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Sickle Cell Disease</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hemoglobinopathy</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Anemia, Sickle Cell</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Sickle Cell Trait</ChildTerm>
+<ChildTerm>Acute Chest Syndrome</ChildTerm>
+<ChildTerm>Hemoglobin SC Disease</ChildTerm>
+<Synonym>Sickle Cell Disorder</Synonym>
+<Synonym>Sickle Cell Anemias</Synonym>
+<Synonym>Hemoglobin S Disease</Synonym>
+<Synonym>Sickle Cell Diseases</Synonym>
+<Synonym>Sickle Cell Disease</Synonym>
+<Synonym>Sickle Cell Disorders</Synonym>
+<Synonym>Hemoglobin S Diseases</Synonym>
+<Synonym>Sickle Cell Anemia</Synonym>
+<Synonym>Sickling Disorder Due to Hemoglobin S</Synonym>
+<Description>A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

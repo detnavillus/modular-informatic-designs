@@ -1,0 +1,27 @@
+<Record>
+<Term>Gemifloxacin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Quinolone Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Quinolone Compound/Gemifloxacin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Quinolone Compound/Gemifloxacin Mesylate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Quinolone Compound</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gemifloxacin</BroaderTerm>
+<BroaderTerm>Gemifloxacin Mesylate</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>7-((4Z)-3-(Aminomethyl)-4-methoxyiminopyrrolidin-1-yl)-1-cyclopropyl-6-fluoro-4-oxo-1,4-dihydro-(1,8)naphthyridine-3-carboxylic Acid Monomethanesulfonate</Synonym>
+<Synonym>Factive</Synonym>
+<Synonym>GEMIFLOXACIN</Synonym>
+<Synonym>Gemifloxacin</Synonym>
+<Synonym>Gemifloxacin mesylate</Synonym>
+<Synonym>Gemifloxacin Mesylate</Synonym>
+<Synonym>GEMIFLOXACIN MESYLATE</Synonym>
+<Description>A fluoroquinolone antibiotic with antimicrobial property. Gemifloxacin enters bacterial cells by diffusion through integral membrane porin pathway before targeting both DNA gyrase and topoisomerase IV, two enzymes critical for DNA replication and repair. This agent binds to the DNA/DNA-gyrase complex and inhibits the A subunits of the enzyme thereby preventing the bacterial chromosome from rejoining. This interferes with DNA replication and repair processes as well as transcription, and ultimately leads to bacterial cell death. Gemifloxacin targets at both Gram-positive, -negative and atypical human pathogens.</Description>
+<Description>The mesylate salt form of gemifloxacin, a synthetic broad-spectrum fluoroquinolone with antibacterial activity. Gemifloxacin mesylate inhibits activities of DNA gyrase and topoisomerase IV, thereby inhibiting DNA replication and eventually bacterial growth. This fluoroquinolone exerts an enhanced spectrum of activity against gram-positive bacteria such as Streptococcus pneumoniae and Staphylococcus aureus, in addition to its activity against gram-negative bacteria.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Arteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Arterial Disorder</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Arteritis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arteritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Arterial Disorder/Arteritis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Arteritis</BroaderTerm>
+<BroaderTerm>Arterial Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AIDS Arteritis, Central Nervous System</ChildTerm>
+<ChildTerm>Necrotizing Arteritis</ChildTerm>
+<ChildTerm>Endarteritis</ChildTerm>
+<ChildTerm>Takayasu Arteritis</ChildTerm>
+<ChildTerm>Giant Cell Arteritis</ChildTerm>
+<ChildTerm>Polyarteritis Nodosa</ChildTerm>
+<Synonym>Arteritis</Synonym>
+<Synonym>Arteritides</Synonym>
+<Synonym>Arterial Inflammation</Synonym>
+<Description>INFLAMMATION of any ARTERIES.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

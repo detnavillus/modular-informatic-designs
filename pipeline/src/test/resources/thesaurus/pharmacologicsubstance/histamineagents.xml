@@ -1,0 +1,21 @@
+<Record>
+<Term>Histamine Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Histamine Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Histamine Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Histamine Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Histamine Agonists</ChildTerm>
+<ChildTerm>Histamine Antagonists</ChildTerm>
+<Synonym>Histamine Drugs</Synonym>
+<Synonym>Histaminergic Agents</Synonym>
+<Synonym>Histamine Agents</Synonym>
+<Synonym>Histaminergic Drugs</Synonym>
+<Description>Drugs used for their actions on histaminergic systems. Included are drugs that act at histamine receptors, affect the life cycle of histamine, or affect the state of histaminergic cells.</Description>
+<Source>MeSH</Source>
+</Record>

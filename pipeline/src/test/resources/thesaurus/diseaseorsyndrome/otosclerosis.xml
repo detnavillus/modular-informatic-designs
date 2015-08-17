@@ -1,0 +1,15 @@
+<Record>
+<Term>Otosclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otosclerosis</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Otosclerosis</BroaderTerm>
+<Synonym>Otosclerosis</Synonym>
+<Synonym>Otoscleroses</Synonym>
+<Synonym>Otospongiosis</Synonym>
+<Synonym>Otospongioses</Synonym>
+<Description>Formation of spongy bone in the labyrinth capsule which can progress toward the STAPES (stapedial fixation) or anteriorly toward the COCHLEA leading to conductive, sensorineural, or mixed HEARING LOSS. Several genes are associated with familial otosclerosis with varied clinical signs.</Description>
+<Source>MeSH</Source>
+</Record>

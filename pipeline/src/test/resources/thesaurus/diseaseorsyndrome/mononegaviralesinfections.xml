@@ -1,0 +1,17 @@
+<Record>
+<Term>Mononegavirales Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Borna Disease</ChildTerm>
+<ChildTerm>Paramyxoviridae Infections</ChildTerm>
+<ChildTerm>Rhabdoviridae Infections</ChildTerm>
+<ChildTerm>Filoviridae Infections</ChildTerm>
+<Synonym>Mononegavirales Infections</Synonym>
+<Synonym>Mononegavirales Infection</Synonym>
+<Description>Infections with viruses of the order MONONEGAVIRALES. The concept includes FILOVIRIDAE INFECTIONS; PARAMYXOVIRIDAE INFECTIONS; and RHABDOVIRIDAE INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Myopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Refractive Errors</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors/Myopia</ClassificationPath>
+<BroaderTerm>Myopia</BroaderTerm>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Myopia, Degenerative</ChildTerm>
+<Synonym>Myopia</Synonym>
+<Synonym>Myopias</Synonym>
+<Synonym>Nearsightedness</Synonym>
+<Synonym>Nearsightednesses</Synonym>
+<Description>A refractive error in which rays of light entering the EYE parallel to the optic axis are brought to a focus in front of the RETINA when accommodation (ACCOMMODATION, OCULAR) is relaxed. This results from an overly curved CORNEA or from the eyeball being too long from front to back. It is also called nearsightedness.</Description>
+<Source>MeSH</Source>
+</Record>

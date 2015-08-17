@@ -1,0 +1,18 @@
+<Record>
+<Term>Engraftment Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Transplant-Related Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immunodeficiency-Related Disorder/Transplant-Related Disorder/Engraftment Syndrome</ClassificationPath>
+<BroaderTerm>Immunodeficiency-Related Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Transplant-Related Disorder</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Engraftment Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Engraftment Syndrome</Synonym>
+<Description>A toxicity of hematopoietic stem cell transplantation that manifests as fever, rash and pulmonary deterioration which becomes evident at marrow engraftment. It occurs unexpectedly and is occasionally fatal. It can occur after an autogeneic or an allogeneic hematopoietic cell transplantation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

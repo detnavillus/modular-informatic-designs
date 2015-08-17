@@ -1,0 +1,17 @@
+<Record>
+<Term>Enzyme Activators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Activators</ClassificationPath>
+<BroaderTerm>Enzyme Activators</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>GTP Phosphohydrolase Activators</ChildTerm>
+<Synonym>Enzyme Activators</Synonym>
+<Synonym>Activators of Enzymes</Synonym>
+<Synonym>Enzymes Activators</Synonym>
+<Description>Compounds or factors that act on a specific enzyme to increase its activity.</Description>
+<Source>MeSH</Source>
+</Record>

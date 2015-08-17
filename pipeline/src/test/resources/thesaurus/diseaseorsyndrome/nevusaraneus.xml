@@ -1,0 +1,27 @@
+<Record>
+<Term>Nevus Araneus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Ectasia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Vascular Ectasia/Nevus Araneus</ClassificationPath>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Nevus Araneus</BroaderTerm>
+<BroaderTerm>Vascular Ectasia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Acquired Nevus Araneus</ChildTerm>
+<ChildTerm>Congenital Nevus Araneus</ChildTerm>
+<Synonym>Arterial Spider</Synonym>
+<Synonym>Nevus Araneus</Synonym>
+<Synonym>Spider Angioma</Synonym>
+<Synonym>Spider Nevus</Synonym>
+<Synonym>Spider Telangiectasia</Synonym>
+<Synonym>Spider Telangiectasis</Synonym>
+<Synonym>Stellate Telangiectasis</Synonym>
+<Synonym>Telangiectatic Nevus</Synonym>
+<Synonym>Vascular Spider</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

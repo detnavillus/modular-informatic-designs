@@ -1,0 +1,30 @@
+<Record>
+<Term>Alveolar Bone Loss</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Resorption</ParentTerm>
+<ParentTerm>Periodontal Atrophy</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Resorption/Alveolar Bone Loss</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontal Atrophy/Alveolar Bone Loss</ClassificationPath>
+<BroaderTerm>Alveolar Bone Loss</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Bone Resorption</BroaderTerm>
+<BroaderTerm>Periodontal Atrophy</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Periodontal Resorption</Synonym>
+<Synonym>Alveolar Bone Loss</Synonym>
+<Synonym>Periodontal Resorptions</Synonym>
+<Synonym>Alveolar Bone Atrophies</Synonym>
+<Synonym>Alveolar Resorptions</Synonym>
+<Synonym>Alveolar Bone Atrophy</Synonym>
+<Synonym>Periodontal Bone Loss</Synonym>
+<Synonym>Alveolar Resorption</Synonym>
+<Synonym>Alveolar Process Atrophies</Synonym>
+<Synonym>Periodontal Bone Losses</Synonym>
+<Synonym>Alveolar Bone Losses</Synonym>
+<Synonym>Alveolar Process Atrophy</Synonym>
+<Description>Resorption or wasting of the tooth-supporting bone (ALVEOLAR PROCESS) in the MAXILLA or MANDIBLE.</Description>
+<Source>MeSH</Source>
+</Record>

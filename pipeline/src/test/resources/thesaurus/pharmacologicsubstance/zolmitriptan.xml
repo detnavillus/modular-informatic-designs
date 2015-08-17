@@ -1,0 +1,22 @@
+<Record>
+<Term>Zolmitriptan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Zolmitriptan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Serotonin Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Zolmitriptan</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-Oxazolidinone, 4-((3-(2-(dimethylamino)ethyl)-1H-indol-5-yl)methyl)-,(S)-</Synonym>
+<Synonym>Zomig</Synonym>
+<Synonym>Zomig-zmt</Synonym>
+<Synonym>ZOLMITRIPTAN</Synonym>
+<Synonym>311C90</Synonym>
+<Synonym>Zolmitriptan</Synonym>
+<Description>A member of the triptan class agents with anti-migraine property. Zolmitriptan selectively binds to and activates serotonin (5-HT) 1B expressed in intracranial arteries and 5_HT 1D receptors located on peripheral trigeminal sensory nerve terminals in the meninges and central terminals in brain stem sensory nuclei. Receptor binding results in constriction of cranial vessels, reduction of the vessel pulsation and inhibition of nociceptive transmission, thereby providing relief of migraine headaches. Zolmitriptan may also relief migraine headaches by inhibition pro-inflammatory neuropeptide release.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

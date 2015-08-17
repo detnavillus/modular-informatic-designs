@@ -1,0 +1,19 @@
+<Record>
+<Term>Periapical Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Jaw Diseases</ParentTerm>
+<ParentTerm>Periodontal Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Periapical Diseases</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periapical Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periapical Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Radicular Cyst</ChildTerm>
+<ChildTerm>Periapical Periodontitis</ChildTerm>
+<Synonym>Periapical Disease</Synonym>
+<Synonym>Periapical Diseases</Synonym>
+<Description>Diseases of the PERIAPICAL TISSUE surrounding the root of the tooth, which is distinguished from DENTAL PULP DISEASES inside the TOOTH ROOT.</Description>
+<Source>MeSH</Source>
+</Record>

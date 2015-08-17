@@ -1,0 +1,37 @@
+<Record>
+<Term>Temporomandibular Joint Dysfunction Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Temporomandibular Joint Disorders</ParentTerm>
+<ParentTerm>Myofascial Pain Syndromes</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Temporomandibular Joint Disorders/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Temporomandibular Joint Disorders/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myofascial Pain Syndromes/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders/Temporomandibular Joint Disorders/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Temporomandibular Joint Dysfunction Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Craniomandibular Disorders</BroaderTerm>
+<BroaderTerm>Mandibular Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Temporomandibular Joint Dysfunction Syndrome</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Temporomandibular Joint Disorders</BroaderTerm>
+<BroaderTerm>Myofascial Pain Syndromes</BroaderTerm>
+<Synonym>Costen Syndrome</Synonym>
+<Synonym>TMJ Syndrome</Synonym>
+<Synonym>Costens Syndrome</Synonym>
+<Synonym>Costen's Syndrome</Synonym>
+<Synonym>Temporomandibular Joint Syndrome</Synonym>
+<Synonym>Temporomandibular Joint Dysfunction Syndrome</Synonym>
+<Description>A symptom complex consisting of pain, muscle tenderness, clicking in the joint, and limitation or alteration of mandibular movement. The symptoms are subjective and manifested primarily in the masticatory muscles rather than the temporomandibular joint itself. Etiologic factors are uncertain but include occlusal dysharmony and psychophysiologic factors.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

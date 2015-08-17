@@ -1,0 +1,20 @@
+<Record>
+<Term>Cytomegalovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Herpesviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Cytomegalovirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Infections</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<ChildTerm>Cytomegalovirus Retinitis</ChildTerm>
+<Synonym>Cytomegalovirus Infections</Synonym>
+<Synonym>Cytomegalovirus Infection</Synonym>
+<Synonym>Salivary Gland Virus Disease</Synonym>
+<Synonym>Cytomegalic Inclusion Disease</Synonym>
+<Synonym>Cytomegalic Inclusion Diseases</Synonym>
+<Synonym>Inclusion Disease</Synonym>
+<Synonym>Inclusion Diseases</Synonym>
+<Description>Infection with CYTOMEGALOVIRUS, characterized by enlarged cells bearing intranuclear inclusions. Infection may be in almost any organ, but the salivary glands are the most common site in children, as are the lungs in adults.</Description>
+<Source>MeSH</Source>
+</Record>

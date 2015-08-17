@@ -1,0 +1,43 @@
+<Record>
+<Term>Heart Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Failure</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Heart Failure</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Failure</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Heart Failure, Systolic</ChildTerm>
+<ChildTerm>Edema, Cardiac</ChildTerm>
+<ChildTerm>Heart Failure Prompting Medical Attention Event</ChildTerm>
+<ChildTerm>Heart Failure, Diastolic</ChildTerm>
+<ChildTerm>Dyspnea, Paroxysmal</ChildTerm>
+<ChildTerm>Left Ventricular Failure</ChildTerm>
+<ChildTerm>First Ever Onset of Heart Failure Event</ChildTerm>
+<ChildTerm>Most Recent Heart Failure Event</ChildTerm>
+<Synonym>Cardiac Insufficiency</Synonym>
+<Synonym>Left Sided Heart Failure</Synonym>
+<Synonym>Insufficiency, cardiac</Synonym>
+<Synonym>Cardiac Failure</Synonym>
+<Synonym>Heart Failure</Synonym>
+<Synonym>Left-Sided Heart Failure</Synonym>
+<Synonym>Failure, Heart</Synonym>
+<Synonym>Heart Decompensation</Synonym>
+<Synonym>Myocardial Failure</Synonym>
+<Synonym>Congestive Heart Failure</Synonym>
+<Synonym>Right-Sided Heart Failure</Synonym>
+<Synonym>Right Sided Heart Failure</Synonym>
+<Description>A heterogeneous condition in which the heart is unable to pump out sufficient blood to meet the metabolic need of the body. Heart failure can be caused by structural defects, functional abnormalities (VENTRICULAR DYSFUNCTION), or a sudden overload beyond its capacity. Chronic heart failure is more common than acute heart failure which results from sudden insult to cardiac function, such as MYOCARDIAL INFARCTION.Heart failure caused by dysfunction of the MYOCARDIUM, leading to defective cardiac emptying (contraction) or filling (relaxation).Heart failure involving the LEFT VENTRICLE.Heart failure involving the RIGHT VENTRICLE.Heart failure accompanied by EDEMA, such as swelling of the legs and ankles and congestion in the lungs.</Description>
+<Description>Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements or the ability to do so only at an elevated filling pressure.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

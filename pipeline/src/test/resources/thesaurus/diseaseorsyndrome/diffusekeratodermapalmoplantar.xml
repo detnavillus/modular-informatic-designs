@@ -1,0 +1,24 @@
+<Record>
+<Term>Diffuse Keratoderma, Palmoplantar</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratoderma, Palmoplantar</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Keratoderma, Palmoplantar/Keratoderma, Palmoplantar, Diffuse</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Keratoderma, Palmoplantar/Keratoderma, Palmoplantar, Diffuse</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Keratoderma, Palmoplantar/Keratoderma, Palmoplantar, Diffuse</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Keratoderma, Palmoplantar</BroaderTerm>
+<BroaderTerm>Keratoderma, Palmoplantar, Diffuse</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<ChildTerm>Keratoderma, Palmoplantar, Epidermolytic</ChildTerm>
+<Synonym>Tylosis</Synonym>
+<Synonym>Thost-Unna Syndrome</Synonym>
+<Synonym>Unna-Thost Syndrome</Synonym>
+<Synonym>Thost Unna Syndrome</Synonym>
+<Synonym>Unna Thost Syndrome</Synonym>
+<Description>An autosomal dominant disorder characterized by a widely distributed, well-demarcated hyperkeratosis of the palms and soles. There is more than one genotypically distinct form, each of which is clinically similar but histologically distinguishable. Diffuse palmoplantar keratoderma is distinct from palmoplantar keratoderma (KERATODERMA, PALMOPLANTAR), as the former exhibits autosomal dominant inheritance and hyperhidrosis is frequently present.</Description>
+<Source>MeSH</Source>
+</Record>

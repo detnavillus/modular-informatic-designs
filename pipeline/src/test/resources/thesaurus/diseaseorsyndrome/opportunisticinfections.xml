@@ -1,0 +1,21 @@
+<Record>
+<Term>Opportunistic Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Opportunistic Infections</ClassificationPath>
+<ClassificationPath>Virus Diseases/Opportunistic Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Opportunistic Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>AIDS-Related Opportunistic Infections</ChildTerm>
+<ChildTerm>Superinfection</ChildTerm>
+<Synonym>Opportunistic Infections</Synonym>
+<Synonym>Opportunistic Infection</Synonym>
+<Description>An infection caused by an organism which becomes pathogenic under certain conditions, e.g., during immunosuppression.</Description>
+<Source>MeSH</Source>
+</Record>

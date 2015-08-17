@@ -1,0 +1,24 @@
+<Record>
+<Term>Bacterial Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infections and Mycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Gram-Negative Bacterial Infections</ChildTerm>
+<ChildTerm>Spirochaetales Infections</ChildTerm>
+<ChildTerm>Gram-Positive Bacterial Infections</ChildTerm>
+<ChildTerm>Central Nervous System Bacterial Infections</ChildTerm>
+<ChildTerm>Skin Diseases, Bacterial</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases, Bacterial</ChildTerm>
+<ChildTerm>Eye Infections, Bacterial</ChildTerm>
+<ChildTerm>Endocarditis, Bacterial</ChildTerm>
+<ChildTerm>Pneumonia, Bacterial</ChildTerm>
+<ChildTerm>Bacteremia</ChildTerm>
+<ChildTerm>Vaginosis, Bacterial</ChildTerm>
+<ChildTerm>Fournier Gangrene</ChildTerm>
+<Synonym>Bacterial Infections</Synonym>
+<Synonym>Bacterial Infection</Synonym>
+<Description>Infections by bacteria, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

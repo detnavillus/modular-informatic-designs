@@ -1,0 +1,22 @@
+<Record>
+<Term>Dofetilide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiarrhythmic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antiarrhythmic Agent/Dofetilide</ClassificationPath>
+<BroaderTerm>Dofetilide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Antiarrhythmic Agent</BroaderTerm>
+<Synonym>Dofetilide</Synonym>
+<Synonym>DOFETILIDE</Synonym>
+<Synonym>beta-((p-Methanesulfonamidophenethyl)methylamino)methanesulfono-p-phenetidide</Synonym>
+<Synonym>Tikosyn</Synonym>
+<Synonym>Methanesulfonamide, N-(4-(2-(methyl(2-(4-((methylsulfonyl)amino)phenoxy)ethyl)amino)ethyl)phenyl-</Synonym>
+<Description>A sulfonamide class III antiarrhythmic agent and potassium channel blocker. Dofetilide selectively blocks cardiac ion channels of the rapid component of the delayed rectifier potassium current Ikr. This antiarrhythmic agent prolongs cardiac action potential duration and effective refractory period due to delayed repolarization without affecting conduction velocity. This results in a normal sinus rhythm. Dofetilide is used in the treatment of atrial fibrillation and flutter.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

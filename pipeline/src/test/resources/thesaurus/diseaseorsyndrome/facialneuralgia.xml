@@ -1,0 +1,28 @@
+<Record>
+<Term>Facial Neuralgia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Facial Nerve Diseases</ParentTerm>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Cranial Nerve Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Facial Neuralgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Facial Nerve Diseases/Facial Neuralgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Facial Neuralgia</ClassificationPath>
+<BroaderTerm>Facial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Facial Neuralgia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Myofacial Pain Syndromes</Synonym>
+<Synonym>Myofacial Pain Syndrome</Synonym>
+<Synonym>Craniofacial Pain Syndromes</Synonym>
+<Synonym>Facial Neuralgias</Synonym>
+<Synonym>Sphenopalatine Neuralgias</Synonym>
+<Synonym>Facial Pain Syndrome</Synonym>
+<Synonym>Facial Pain Syndromes</Synonym>
+<Synonym>Facial Neuralgia</Synonym>
+<Synonym>Craniofacial Pain Syndrome</Synonym>
+<Synonym>Sphenopalatine Neuralgia</Synonym>
+<Description>Neuralgic syndromes and other conditions which feature chronic or recurrent FACIAL PAIN as the primary manifestation of disease. Disorders of the trigeminal and facial nerves are frequently associated with these conditions.</Description>
+<Source>MeSH</Source>
+</Record>

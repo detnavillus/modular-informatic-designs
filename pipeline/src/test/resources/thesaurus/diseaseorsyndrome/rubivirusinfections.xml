@@ -1,0 +1,15 @@
+<Record>
+<Term>Rubivirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Togaviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Togaviridae Infections/Rubivirus Infections</ClassificationPath>
+<BroaderTerm>Rubivirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Togaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Rubella</ChildTerm>
+<Synonym>Rubivirus Infections</Synonym>
+<Synonym>Rubivirus Infection</Synonym>
+<Description>Virus diseases caused by the RUBIVIRUS genus, of the family TOGAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

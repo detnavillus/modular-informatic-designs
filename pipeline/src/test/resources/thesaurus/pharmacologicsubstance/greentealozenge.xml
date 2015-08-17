@@ -1,0 +1,14 @@
+<Record>
+<Term>Green Tea Lozenge</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natural Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Natural Product/Green Tea Lozenge</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Green Tea Lozenge</BroaderTerm>
+<BroaderTerm>Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Can-Tea</Synonym>
+<Synonym>Green Tea Lozenge</Synonym>
+<Description>A lozenge preparation of green tea, derived from the dried leaves of Camellia sinensis, with potential antioxidant and chemopreventive activities. Green tea lozenge contains polyphenols that are believed to be responsible for its chemopreventive effect. The polyphenol fraction contains mainly Epigallocatechin-3-gallate (EGCG) and other catechins, such as epicatechin (EC), gallocatechin gallate (GCG), epigallocatechin (EGC), and epicatechin gallate (ECG). Green tea polyphenols act as antioxidants and free radical scavengers, thereby protecting cells from reactive oxygen species and further damage.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

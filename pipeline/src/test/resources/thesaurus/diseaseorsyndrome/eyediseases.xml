@@ -1,0 +1,37 @@
+<Record>
+<Term>Eye Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Eye Diseases</ClassificationPath>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Corneal Diseases</ChildTerm>
+<ChildTerm>Asthenopia</ChildTerm>
+<ChildTerm>Refractive Errors</ChildTerm>
+<ChildTerm>Uveal Diseases</ChildTerm>
+<ChildTerm>Eyelid Diseases</ChildTerm>
+<ChildTerm>Vision Disorders</ChildTerm>
+<ChildTerm>Lens Diseases</ChildTerm>
+<ChildTerm>Ocular Motility Disorders</ChildTerm>
+<ChildTerm>Pupil Disorders</ChildTerm>
+<ChildTerm>Retinal Diseases</ChildTerm>
+<ChildTerm>Eye Neoplasms</ChildTerm>
+<ChildTerm>Eye Hemorrhage</ChildTerm>
+<ChildTerm>Eye Abnormalities</ChildTerm>
+<ChildTerm>Conjunctival Diseases</ChildTerm>
+<ChildTerm>Eye Infections</ChildTerm>
+<ChildTerm>Eye Diseases, Hereditary</ChildTerm>
+<ChildTerm>Lacrimal Apparatus Diseases</ChildTerm>
+<ChildTerm>Orbital Diseases</ChildTerm>
+<ChildTerm>Eye Injuries</ChildTerm>
+<ChildTerm>Eye Manifestations</ChildTerm>
+<ChildTerm>Optic Nerve Diseases</ChildTerm>
+<ChildTerm>Ocular Hypertension</ChildTerm>
+<ChildTerm>Scleral Diseases</ChildTerm>
+<ChildTerm>Ocular Hypotension</ChildTerm>
+<ChildTerm>Vitreoretinopathy, Proliferative</ChildTerm>
+<ChildTerm>Vitreous Detachment</ChildTerm>
+<ChildTerm>Cogan Syndrome</ChildTerm>
+<Synonym>Eye Diseases</Synonym>
+<Synonym>Eye Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

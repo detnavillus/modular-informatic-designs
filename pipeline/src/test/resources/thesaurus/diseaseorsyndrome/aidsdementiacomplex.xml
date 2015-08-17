@@ -1,0 +1,45 @@
+<Record>
+<Term>AIDS Dementia Complex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Dementia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/AIDS Dementia Complex</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/AIDS Dementia Complex</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/AIDS Dementia Complex</ClassificationPath>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/AIDS Dementia Complex</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/AIDS Dementia Complex</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>AIDS Dementia Complex</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>HIV-1-Associated Cognitive Motor Complex</Synonym>
+<Synonym>HIV 1 Associated Cognitive Motor Complex</Synonym>
+<Synonym>AIDS Encephalopathy</Synonym>
+<Synonym>AIDS Related Dementia Complex</Synonym>
+<Synonym>HIV-1 Cognitive and Motor Complex</Synonym>
+<Synonym>HIV 1 Cognitive and Motor Complex</Synonym>
+<Synonym>HIV-Associated Cognitive Motor Complex</Synonym>
+<Synonym>HIV Dementia</Synonym>
+<Synonym>AIDS Encephalopathies</Synonym>
+<Synonym>Acquired-Immune Deficiency Syndrome Dementia Complex</Synonym>
+<Synonym>AIDS Dementia Complex</Synonym>
+<Synonym>HIV Dementias</Synonym>
+<Synonym>AIDS-Related Dementia Complex</Synonym>
+<Synonym>HIV Encephalopathy</Synonym>
+<Synonym>HIV Encephalopathies</Synonym>
+<Synonym>HIV Associated Cognitive Motor Complex</Synonym>
+<Description>A neurologic condition associated with the ACQUIRED IMMUNODEFICIENCY SYNDROME and characterized by impaired concentration and memory, slowness of hand movements, ATAXIA, incontinence, apathy, and gait difficulties associated with HIV-1 viral infection of the central nervous system. Pathologic examination of the brain reveals white matter rarefaction, perivascular infiltrates of lymphocytes, foamy macrophages, and multinucleated giant cells. (From Adams et al., Principles of Neurology, 6th ed, pp760-1; N Engl J Med, 1995 Apr 6;332(14):934-40)</Description>
+<Source>MeSH</Source>
+</Record>

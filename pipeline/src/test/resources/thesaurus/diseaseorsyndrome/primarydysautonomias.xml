@@ -1,0 +1,19 @@
+<Record>
+<Term>Primary Dysautonomias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autonomic Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Primary Dysautonomias</ClassificationPath>
+<BroaderTerm>Primary Dysautonomias</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dysautonomia, Familial</ChildTerm>
+<ChildTerm>Multiple System Atrophy</ChildTerm>
+<ChildTerm>Orthostatic Intolerance</ChildTerm>
+<ChildTerm>Pure Autonomic Failure</ChildTerm>
+<Synonym>Primary Dysautonomias</Synonym>
+<Synonym>Primary Dysautonomia</Synonym>
+<Synonym>Dysautonomia</Synonym>
+<Synonym>Dysautonomias</Synonym>
+<Description>Disorders of the AUTONOMIC NERVOUS SYSTEM occurring as a primary condition. Manifestations can involve any or all body systems but commonly affect the BLOOD PRESSURE and HEART RATE.</Description>
+<Source>MeSH</Source>
+</Record>

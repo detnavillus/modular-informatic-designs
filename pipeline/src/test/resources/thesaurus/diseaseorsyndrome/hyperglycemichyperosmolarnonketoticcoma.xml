@@ -1,0 +1,17 @@
+<Record>
+<Term>Hyperglycemic Hyperosmolar Nonketotic Coma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetic Coma</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Coma/Hyperglycemic Hyperosmolar Nonketotic Coma</ClassificationPath>
+<BroaderTerm>Hyperglycemic Hyperosmolar Nonketotic Coma</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetic Coma</BroaderTerm>
+<Synonym>Hyperglycemic Hyperosmolar Nonketotic Coma</Synonym>
+<Synonym>HHNC</Synonym>
+<Synonym>Nonketotic Hyperglycemic Coma</Synonym>
+<Synonym>Hyperosmolar Hyperglycemic Nonketotic Coma</Synonym>
+<Description>A serious complication of TYPE 2 DIABETES MELLITUS. It is characterized by extreme HYPERGLYCEMIA; DEHYDRATION; serum hyperosmolarity; and depressed consciousness leading to COMA in the absence of KETOSIS and ACIDOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Gastrointestinal Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Abdominal and Gastrointestinal Infection/Gastrointestinal Infection,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Abdominal and Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<ChildTerm>Fungal Esophagitis</ChildTerm>
+<ChildTerm>Viral Hepatitis</ChildTerm>
+<ChildTerm>Viral Gastritis</ChildTerm>
+<ChildTerm>Gastroenteritis</ChildTerm>
+<ChildTerm>Campylobacter Jejuni Infection</ChildTerm>
+<ChildTerm>Viral Esophagitis</ChildTerm>
+<ChildTerm>Helicobacter Pylori Infection</ChildTerm>
+<ChildTerm>Bacterial Gastritis</ChildTerm>
+<Synonym>Gastrointestinal Infection</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

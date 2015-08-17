@@ -1,0 +1,28 @@
+<Record>
+<Term>Hyperlipoproteinemia Type III</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperlipoproteinemias</ParentTerm>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hyperlipidemias/Hyperlipoproteinemias/Hyperlipoproteinemia Type III</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hyperlipoproteinemia Type III</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hyperlipoproteinemia Type III</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Hyperlipoproteinemias</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hyperlipoproteinemia Type III</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hyperlipidemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<Synonym>Dysbetalipoproteinemia</Synonym>
+<Synonym>Hyperlipoproteinemia Type III</Synonym>
+<Synonym>Familial Hypercholesterolemia with Hyperlipemia</Synonym>
+<Synonym>Broad-beta Hyperlipoproteinemia</Synonym>
+<Synonym>Familial Dysbetalipoproteinemia</Synonym>
+<Synonym>Broad Beta Disease</Synonym>
+<Description>An autosomal recessively inherited disorder characterized by the accumulation of intermediate-density lipoprotein (IDL or broad-beta-lipoprotein). IDL has a CHOLESTEROL to TRIGLYCERIDES ratio greater than that of VERY-LOW-DENSITY LIPOPROTEINS. This disorder is due to mutation of APOLIPOPROTEINS E, a receptor-binding component of VLDL and CHYLOMICRONS, resulting in their reduced clearance and high plasma levels of both cholesterol and triglycerides.</Description>
+<Source>MeSH</Source>
+</Record>

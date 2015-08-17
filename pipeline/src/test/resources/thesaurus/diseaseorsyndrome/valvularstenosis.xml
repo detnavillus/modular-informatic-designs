@@ -1,0 +1,28 @@
+<Record>
+<Term>Valvular Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Valvular Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Valvular Stenosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Stenosis/Valvular Stenosis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Stenosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Stenosis,</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Valvular Stenosis</BroaderTerm>
+<ChildTerm>Pulmonary Stenosis</ChildTerm>
+<ChildTerm>Mitral Stenosis</ChildTerm>
+<ChildTerm>Tricuspid Stenosis</ChildTerm>
+<ChildTerm>Aortic Stenosis</ChildTerm>
+<Synonym>Valvular Stenosis</Synonym>
+<Description>Narrowing of the opening of one or more of the four valves of the heart.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

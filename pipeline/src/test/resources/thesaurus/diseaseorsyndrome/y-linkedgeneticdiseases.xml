@@ -1,0 +1,14 @@
+<Record>
+<Term>Y-Linked Genetic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, Y-Linked</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Y-Linked</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<Synonym>Y-Linked Genetic Disease</Synonym>
+<Synonym>Y-Linked Genetic Diseases</Synonym>
+<Synonym>Y Linked Genetic Diseases</Synonym>
+<Description>Genetic diseases that are linked to mutant ALLELES on the Y CHROMOSOME in humans (Y CHROMOSOME, HUMAN) or the Y chromosome in other species. Included here are animal models of human Y-linked diseases.</Description>
+<Source>MeSH</Source>
+</Record>

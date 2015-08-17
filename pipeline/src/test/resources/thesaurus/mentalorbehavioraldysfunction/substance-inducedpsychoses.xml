@@ -1,0 +1,25 @@
+<Record>
+<Term>Substance-Induced Psychoses</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychotic Disorders</ParentTerm>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ParentTerm>Poisoning</ParentTerm>
+<ClassificationPath>Mental Disorders/Schizophrenia and Disorders with Psychotic Features/Psychotic Disorders/Psychoses, Substance-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Psychoses, Substance-Induced</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Psychoses, Substance-Induced</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Psychoses, Substance-Induced</ClassificationPath>
+<BroaderTerm>Psychoses, Substance-Induced</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Psychotic Disorders</BroaderTerm>
+<BroaderTerm>Schizophrenia and Disorders with Psychotic Features</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Psychoses, Alcoholic</ChildTerm>
+<Synonym>Drug Psychoses</Synonym>
+<Synonym>Substance Induced Psychoses</Synonym>
+<Synonym>Toxic Psychoses</Synonym>
+<Synonym>Substance-Induced Psychoses</Synonym>
+<Description>Psychotic organic mental disorders resulting from the toxic effect of drugs and chemicals or other harmful substance.</Description>
+<Source>MeSH</Source>
+</Record>

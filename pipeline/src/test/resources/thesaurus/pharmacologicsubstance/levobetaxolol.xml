@@ -1,0 +1,27 @@
+<Record>
+<Term>Levobetaxolol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Beta-Adrenergic Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Adrenergic Antagonist/Beta-Adrenergic Antagonist/Levobetaxolol Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Adrenergic Agent/Adrenergic Antagonist/Beta-Adrenergic Antagonist/Levobetaxolol</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Levobetaxolol</BroaderTerm>
+<BroaderTerm>Levobetaxolol Hydrochloride</BroaderTerm>
+<BroaderTerm>Adrenergic Antagonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Beta-Adrenergic Antagonist</BroaderTerm>
+<BroaderTerm>Adrenergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>LEVOBETAXOLOL</Synonym>
+<Synonym>LEVOBETAXOLOL HYDROCHLORIDE</Synonym>
+<Synonym>Betaxon</Synonym>
+<Synonym>Levobetaxolol</Synonym>
+<Synonym>Levobetaxolol Hydrochloride</Synonym>
+<Synonym>Levobetaxolol hydrochloride</Synonym>
+<Description>The S-isomer of betaxolol, a selective beta-1 adrenergic receptor antagonist with anti-glaucoma activity and devoid of intrinsic sympathomimetic activity. When applied topically in the eye, levobetaxolol reduces aqueous humor secretion and lowers the intraocular pressure (IOP).</Description>
+<Description>The hydrochloride salt form of levobetaxolol, the S-isomer of the -selective beta-1 adrenergic receptor antagonist betaxolol with anti-glaucoma activity and devoid of intrinsic sympathomimetic activity. When applied topically in the eye, levobetaxolol reduces aqueous humor secretion and lowers the intraocular pressure (IOP).</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

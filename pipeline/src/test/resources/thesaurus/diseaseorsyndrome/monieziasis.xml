@@ -1,0 +1,21 @@
+<Record>
+<Term>Monieziasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cestode Infections</ParentTerm>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Monieziasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Monieziasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Monieziasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Monieziasis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Monieziasis</BroaderTerm>
+<Synonym>Monieziases</Synonym>
+<Synonym>Monieziasis</Synonym>
+<Description>Infection of ruminants with tapeworms of the genus Moniezia.</Description>
+<Source>MeSH</Source>
+</Record>

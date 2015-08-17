@@ -1,0 +1,36 @@
+<Record>
+<Term>Diphtheria-Tetanus-Pertussis Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Combined</ParentTerm>
+<ParentTerm>Pertussis Vaccine</ParentTerm>
+<ParentTerm>Diphtheria Toxoid</ParentTerm>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ParentTerm>Tetanus Toxoid</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Tetanus Toxoid/Diphtheria-Tetanus-Pertussis Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Diphtheria-Tetanus-Pertussis Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Diphtheria Toxoid/Diphtheria-Tetanus-Pertussis Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Pertussis Vaccine/Diphtheria-Tetanus-Pertussis Vaccine</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Combined/Diphtheria-Tetanus-Pertussis Vaccine</ClassificationPath>
+<BroaderTerm>Vaccines, Combined</BroaderTerm>
+<BroaderTerm>Pertussis Vaccine</BroaderTerm>
+<BroaderTerm>Diphtheria Toxoid</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Tetanus Toxoid</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Diphtheria-Tetanus-Pertussis Vaccine</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>DTP Vaccine</Synonym>
+<Synonym>DTwP Vaccine</Synonym>
+<Synonym>DPT Vaccine</Synonym>
+<Synonym>Diphtheria Pertussis Tetanus Vaccine</Synonym>
+<Synonym>Di-Te-Per Vaccine</Synonym>
+<Synonym>Diphtheria Tetanus Pertussis Vaccine</Synonym>
+<Synonym>Diphtheria-Pertussis-Tetanus Vaccine</Synonym>
+<Synonym>Di Te Per Vaccine</Synonym>
+<Synonym>Diphtheria-Tetanus-Pertussis Vaccine</Synonym>
+<Description>A vaccine consisting of DIPHTHERIA TOXOID; TETANUS TOXOID; and whole-cell PERTUSSIS VACCINE. The vaccine protects against diphtheria, tetanus, and whooping cough.</Description>
+<Source>MeSH</Source>
+</Record>

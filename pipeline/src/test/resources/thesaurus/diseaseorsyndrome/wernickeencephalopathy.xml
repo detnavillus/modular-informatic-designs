@@ -1,0 +1,43 @@
+<Record>
+<Term>Wernicke Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic</ParentTerm>
+<ParentTerm>Thiamine Deficiency</ParentTerm>
+<ParentTerm>Alcohol-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Wernicke Encephalopathy</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Alcohol-Related Disorders/Wernicke Encephalopathy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Wernicke Encephalopathy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Thiamine Deficiency/Wernicke Encephalopathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Wernicke Encephalopathy</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Thiamine Deficiency</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Wernicke Encephalopathy</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<Synonym>Wernicke's Syndrome</Synonym>
+<Synonym>Wernicke Syndrome</Synonym>
+<Synonym>Wernicke's Superior Hemorrhagic Polioencephalitis</Synonym>
+<Synonym>Wernicke Encephalopathies</Synonym>
+<Synonym>Cerebral Beriberi</Synonym>
+<Synonym>Gayet-Wernicke Encephalopathy</Synonym>
+<Synonym>Wernicke Disease</Synonym>
+<Synonym>Wernicke's Encephalopathy</Synonym>
+<Synonym>Wernicke's Disease</Synonym>
+<Synonym>Wernicke Encephalopathy</Synonym>
+<Synonym>Wernicke Superior Hemorrhagic Polioencephalitis</Synonym>
+<Synonym>Gayet Wernicke Encephalopathy</Synonym>
+<Description>An acute neurological disorder characterized by the triad of ophthalmoplegia, ataxia, and disturbances of mental activity or consciousness. Eye movement abnormalities include nystagmus, external rectus palsies, and reduced conjugate gaze. THIAMINE DEFICIENCY and chronic ALCOHOLISM are associated conditions. Pathologic features include periventricular petechial hemorrhages and neuropil breakdown in the diencephalon and brainstem. Chronic thiamine deficiency may lead to KORSAKOFF SYNDROME. (Adams et al., Principles of Neurology, 6th ed, pp1139-42; Davis &amp; Robertson, Textbook of Neuropathology, 2nd ed, pp452-3)</Description>
+<Source>MeSH</Source>
+</Record>

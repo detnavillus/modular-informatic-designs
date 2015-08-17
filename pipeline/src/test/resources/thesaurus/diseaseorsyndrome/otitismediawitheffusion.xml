@@ -1,0 +1,18 @@
+<Record>
+<Term>Otitis Media with Effusion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis Media</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Otitis Media/Otitis Media with Effusion</ClassificationPath>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otitis Media</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Otitis Media with Effusion</BroaderTerm>
+<Synonym>Otitis Media with Effusion</Synonym>
+<Synonym>Middle Ear Effusion</Synonym>
+<Synonym>Middle Ear Effusions</Synonym>
+<Synonym>Secretory Otitis Media</Synonym>
+<Synonym>Serous Otitis Media</Synonym>
+<Description>Inflammation of the middle ear with a clear pale yellow-colored transudate.</Description>
+<Source>MeSH</Source>
+</Record>

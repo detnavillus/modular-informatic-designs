@@ -1,0 +1,17 @@
+<Record>
+<Term>Cannabis Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Drug Dependence</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence/Drug Dependence/Cannabis Dependence</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Drug Dependence</BroaderTerm>
+<BroaderTerm>Cannabis Dependence</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cannabis Dependence, Episodic Use</ChildTerm>
+<ChildTerm>Cannabis Dependence, Continuous Use</ChildTerm>
+<Synonym>Cannabis Dependence</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

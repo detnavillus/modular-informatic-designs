@@ -1,0 +1,25 @@
+<Record>
+<Term>Cytomegalovirus Gastroenteritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Gastroenteritis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Gastrointestinal Infection/Gastroenteritis/Viral Gastroenteritis/Cytomegalovirus Gastroenteritis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Cytomegaloviral Infection/Cytomegalovirus Gastroenteritis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Viral Gastroenteritis</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Gastroenteritis</BroaderTerm>
+<BroaderTerm>Cytomegalovirus Gastroenteritis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Gastrointestinal Infection</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Cytomegaloviral Infection</BroaderTerm>
+<Synonym>CMV Gastroenteritis</Synonym>
+<Synonym>Cytomegalovirus Gastroenteritis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

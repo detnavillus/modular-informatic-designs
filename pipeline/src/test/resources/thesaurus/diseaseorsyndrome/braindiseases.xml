@@ -1,0 +1,53 @@
+<Record>
+<Term>Brain Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Central Nervous System Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Cerebellar Diseases</ChildTerm>
+<ChildTerm>Auditory Diseases, Central</ChildTerm>
+<ChildTerm>Basal Ganglia Diseases</ChildTerm>
+<ChildTerm>Hypothalamic Diseases</ChildTerm>
+<ChildTerm>Brain Abscess</ChildTerm>
+<ChildTerm>Brain Injuries</ChildTerm>
+<ChildTerm>Brain Damage, Chronic</ChildTerm>
+<ChildTerm>Brain Death</ChildTerm>
+<ChildTerm>Brain Diseases, Metabolic</ChildTerm>
+<ChildTerm>Brain Edema</ChildTerm>
+<ChildTerm>Brain Neoplasms</ChildTerm>
+<ChildTerm>Cerebrovascular Disorders</ChildTerm>
+<ChildTerm>Hypoxia, Brain</ChildTerm>
+<ChildTerm>Diffuse Cerebral Sclerosis of Schilder</ChildTerm>
+<ChildTerm>Headache Disorders</ChildTerm>
+<ChildTerm>Epilepsy</ChildTerm>
+<ChildTerm>Hydrocephalus</ChildTerm>
+<ChildTerm>Intracranial Hypertension</ChildTerm>
+<ChildTerm>Dementia</ChildTerm>
+<ChildTerm>Akinetic Mutism</ChildTerm>
+<ChildTerm>Encephalitis</ChildTerm>
+<ChildTerm>Encephalomalacia</ChildTerm>
+<ChildTerm>Amblyopia</ChildTerm>
+<ChildTerm>Subdural Effusion</ChildTerm>
+<ChildTerm>Thalamic Diseases</ChildTerm>
+<ChildTerm>Leukoencephalopathies</ChildTerm>
+<ChildTerm>Neuroaxonal Dystrophies</ChildTerm>
+<ChildTerm>Intracranial Hypotension</ChildTerm>
+<ChildTerm>Kluver-Bucy Syndrome</ChildTerm>
+<ChildTerm>Amnesia, Transient Global</ChildTerm>
+<Synonym>Brain Diseases</Synonym>
+<Synonym>Brain Disease</Synonym>
+<Synonym>Intracranial CNS Disorders</Synonym>
+<Synonym>Intracranial CNS Disorder</Synonym>
+<Synonym>Encephalon Diseases</Synonym>
+<Synonym>Encephalon Disease</Synonym>
+<Synonym>Intracranial Central Nervous System Disorders</Synonym>
+<Synonym>Brain Disorders</Synonym>
+<Synonym>Brain Disorder</Synonym>
+<Synonym>Central Nervous System Intracranial Disorders</Synonym>
+<Synonym>Brain Pathology</Synonym>
+<Description>Pathologic conditions affecting the BRAIN, which is composed of the intracranial components of the CENTRAL NERVOUS SYSTEM. This includes (but is not limited to) the CEREBRAL CORTEX; intracranial white matter; BASAL GANGLIA; THALAMUS; HYPOTHALAMUS; BRAIN STEM; and CEREBELLUM.Acute or chronic brain damage or dysfunction.</Description>
+<Source>MeSH</Source>
+</Record>

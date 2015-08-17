@@ -1,0 +1,34 @@
+<Record>
+<Term>Bacillary Dysentery</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ParentTerm>Dysentery</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Dysentery, Bacillary</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Dysentery/Dysentery, Bacillary</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Dysentery/Dysentery, Bacillary</ClassificationPath>
+<BroaderTerm>Dysentery, Bacillary</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Dysentery</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Shigella Dysentery</Synonym>
+<Synonym>Shigella sonnei Dysenteries</Synonym>
+<Synonym>Shigella boydii Dysenteries</Synonym>
+<Synonym>Shigella boydii Dysentery</Synonym>
+<Synonym>Shigella sonnei Dysentery</Synonym>
+<Synonym>Shigella dysenteriae Dysenteries</Synonym>
+<Synonym>Shigella dysenteriae Dysentery</Synonym>
+<Synonym>Shigellosis</Synonym>
+<Synonym>Shigella Dysenteries</Synonym>
+<Synonym>Shigella flexneri Dysenteries</Synonym>
+<Synonym>Shiga bacillus Dysentery</Synonym>
+<Synonym>Bacillary Dysentery</Synonym>
+<Synonym>Shigella flexneri Dysentery</Synonym>
+<Description>DYSENTERY caused by gram-negative rod-shaped enteric bacteria (ENTEROBACTERIACEAE), most often by the genus SHIGELLA. Shigella dysentery, Shigellosis, is classified into subgroups according to syndrome severity and the infectious species. Group A: SHIGELLA DYSENTERIAE (severest); Group B: SHIGELLA FLEXNERI; Group C: SHIGELLA BOYDII; and Group D: SHIGELLA SONNEI (mildest).</Description>
+<Source>MeSH</Source>
+</Record>

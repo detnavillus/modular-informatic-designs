@@ -1,0 +1,26 @@
+<Record>
+<Term>Discitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spondylitis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Bone Diseases, Infectious/Spondylitis/Discitis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Discitis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Infectious/Spondylitis/Discitis</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Discitis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Spondylodiskitis</Synonym>
+<Synonym>Diskitis</Synonym>
+<Synonym>Discitides</Synonym>
+<Synonym>Spondylodiscitides</Synonym>
+<Synonym>Discitis</Synonym>
+<Synonym>Diskitides</Synonym>
+<Synonym>Spondylodiskitides</Synonym>
+<Synonym>Spondylodiscitis</Synonym>
+<Description>Inflammation of an intervertebral disk or disk space which may lead to disk erosion. Until recently, discitis has been defined as a nonbacterial inflammation and has been attributed to aseptic processes (e.g., chemical reaction to an injected substance). However, recent studies provide evidence that infection may be the initial cause, but perhaps not the promoter, of most cases of discitis. Discitis has been diagnosed in patients following discography, myelography, lumbar puncture, paravertebral injection, and obstetrical epidural anesthesia. Discitis following chemonucleolysis (especially with chymopapain) is attributed to chemical reaction by some and to introduction of microorganisms by others.</Description>
+<Source>MeSH</Source>
+</Record>

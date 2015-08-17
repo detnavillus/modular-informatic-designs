@@ -1,0 +1,20 @@
+<Record>
+<Term>Duodenitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enteritis</ParentTerm>
+<ParentTerm>Duodenal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enteritis/Duodenitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enteritis/Duodenitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Duodenal Diseases/Duodenitis</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Duodenal Diseases</BroaderTerm>
+<BroaderTerm>Duodenitis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<Synonym>Erosive Duodenitis</Synonym>
+<Synonym>Duodenitis</Synonym>
+<Description>Inflammation of the DUODENUM section of the small intestine (INTESTINE, SMALL). Erosive duodenitis may cause bleeding in the UPPER GI TRACT and PEPTIC ULCER.</Description>
+<Source>MeSH</Source>
+</Record>

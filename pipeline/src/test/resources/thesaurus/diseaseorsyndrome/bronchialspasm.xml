@@ -1,0 +1,16 @@
+<Record>
+<Term>Bronchial Spasm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Bronchial Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Bronchial Spasm</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Bronchial Spasm</BroaderTerm>
+<Synonym>Bronchial Spasm</Synonym>
+<Synonym>Bronchial Spasms</Synonym>
+<Synonym>Bronchospasm</Synonym>
+<Synonym>Bronchospasms</Synonym>
+<Description>Spasmodic contraction of the smooth muscle of the bronchi.</Description>
+<Source>MeSH</Source>
+</Record>

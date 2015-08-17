@@ -1,0 +1,40 @@
+<Record>
+<Term>Diphtheria-Tetanus-acellular Pertussis Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Pertussis Vaccine</ParentTerm>
+<ParentTerm>Vaccines, Combined</ParentTerm>
+<ParentTerm>Diphtheria Toxoid</ParentTerm>
+<ParentTerm>Bacterial Vaccines</ParentTerm>
+<ParentTerm>Vaccines, Acellular</ParentTerm>
+<ParentTerm>Tetanus Toxoid</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Diphtheria Toxoid/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Subunit/Vaccines, Acellular/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Combined/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Bacterial Vaccines/Pertussis Vaccine/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids/Tetanus Toxoid/Diphtheria-Tetanus-acellular Pertussis Vaccines</ClassificationPath>
+<BroaderTerm>Pertussis Vaccine</BroaderTerm>
+<BroaderTerm>Vaccines, Combined</BroaderTerm>
+<BroaderTerm>Diphtheria-Tetanus-acellular Pertussis Vaccines</BroaderTerm>
+<BroaderTerm>Diphtheria Toxoid</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Bacterial Vaccines</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Vaccines, Acellular</BroaderTerm>
+<BroaderTerm>Tetanus Toxoid</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines, Subunit</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Diphtheria-Tetanus-acellular Pertussis Vaccines</Synonym>
+<Synonym>DTaP Vaccines</Synonym>
+<Synonym>ACEL IMUNE</Synonym>
+<Synonym>DTaP Vaccine</Synonym>
+<Synonym>Infanrix</Synonym>
+<Synonym>Diphtheria Tetanus acellular Pertussis Vaccines</Synonym>
+<Synonym>ACEL-IMUNE</Synonym>
+<Synonym>Tripedia</Synonym>
+<Synonym>ACELIMUNE</Synonym>
+<Description>Combined  vaccines consisting of DIPHTHERIA TOXOID; TETANUS TOXOID; and an acellular form of PERTUSSIS VACCINE. At least five different purified antigens of B. pertussis have been used in various combinations in these vaccines.</Description>
+<Source>MeSH</Source>
+</Record>

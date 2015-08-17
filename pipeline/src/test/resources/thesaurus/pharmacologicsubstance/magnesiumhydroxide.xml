@@ -1,0 +1,30 @@
+<Record>
+<Term>Magnesium Hydroxide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Laxative</ParentTerm>
+<ParentTerm>Magnesium Compounds</ParentTerm>
+<ParentTerm>Hydroxides</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Magnesium Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Hydroxides/Magnesium Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Magnesium Compounds/Magnesium Hydroxide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Magnesium Hydroxide</BroaderTerm>
+<BroaderTerm>Laxative</BroaderTerm>
+<BroaderTerm>Magnesium Compounds</BroaderTerm>
+<BroaderTerm>Hydroxides</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Magnesium Hydroxide (Mg(OH)4)</Synonym>
+<Synonym>Magnesium Hydrate</Synonym>
+<Synonym>MAGNESIUM HYDROXIDE</Synonym>
+<Synonym>Magnesium Hydroxide</Synonym>
+<Synonym>Brucite</Synonym>
+<Synonym>Milk of Magnesia</Synonym>
+<Description>A solution of magnesium hydroxide with antacid and laxative properties. Milk of magnesium exerts its antacid activity in low doses such that all hydroxide ions that enter the stomach are used to neutralize stomach acid. This agent exerts its laxative effect in higher doses so that hydroxide ions are able to move from the stomach to the intestines where they attract and retain water, thereby increasing intestinal movement (peristalsis) and inducing the urge to defecate.</Description>
+<Description>An inorganic compound that occurs in nature as the mineral brucite. It acts as an antacid with cathartic effects.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

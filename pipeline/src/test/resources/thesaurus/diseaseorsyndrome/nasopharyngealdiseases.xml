@@ -1,0 +1,20 @@
+<Record>
+<Term>Nasopharyngeal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pharyngeal Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Nasopharyngeal Diseases</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Nasopharyngeal Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Nasopharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<ChildTerm>Nasopharyngeal Neoplasms</ChildTerm>
+<ChildTerm>Nasopharyngitis</ChildTerm>
+<Synonym>Nasopharynx Diseases</Synonym>
+<Synonym>Nasopharyngeal Diseases</Synonym>
+<Synonym>Nasopharyngeal Disease</Synonym>
+<Synonym>Nasopharynx Disease</Synonym>
+<Synonym>Diseases of Nasopharynx</Synonym>
+<Description>Pathological processes involving the NASOPHARYNX.</Description>
+<Source>MeSH</Source>
+</Record>

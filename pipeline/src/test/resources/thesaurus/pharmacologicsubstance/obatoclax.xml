@@ -1,0 +1,16 @@
+<Record>
+<Term>Obatoclax</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Obatoclax Mesylate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Obatoclax Mesylate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>2-(2-[(3,5-Dimethyl-1H-pyrrol-2-yl)methylidene]-3-methoxy-2H-pyrrol-5-yl)-1H-indole</Synonym>
+<Synonym>GX15-070MS</Synonym>
+<Synonym>Obatoclax Mesylate</Synonym>
+<Description>The mesylate salt form of obatoclax, a synthetic small molecule inhibitor of the bcl-2 family of proteins with potential pro-apoptotic and antineoplastic activities. Obatoclax binds to members of the Bcl-2 family (bcl-2, bcl-xl, bcl-w, and Mcl-1), thereby preventing the binding of these anti-apoptotic proteins to their effectors Bax and Bak, pro-apoptotic proteins. This restores the activation of Bax and Bak, thereby reactivating the apoptotic pathway in Bcl-2 overexpressing cells. The Bcl-2 family proteins are overexpressed in a wide variety of cancers, including those of the lymph, breast, lung, prostate, and colon.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Retinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases</ClassificationPath>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Retinitis</ChildTerm>
+<ChildTerm>Diabetic Retinopathy</ChildTerm>
+<ChildTerm>Angioid Streaks</ChildTerm>
+<ChildTerm>Retinal Degeneration</ChildTerm>
+<ChildTerm>Retinal Detachment</ChildTerm>
+<ChildTerm>Retinal Hemorrhage</ChildTerm>
+<ChildTerm>Retinal Perforations</ChildTerm>
+<ChildTerm>Retinal Vein Occlusion</ChildTerm>
+<ChildTerm>Retinal Neoplasms</ChildTerm>
+<ChildTerm>Retinopathy of Prematurity</ChildTerm>
+<ChildTerm>Retinal Artery Occlusion</ChildTerm>
+<ChildTerm>Retinal Dysplasia</ChildTerm>
+<ChildTerm>Retinal Neovascularization</ChildTerm>
+<ChildTerm>Vitreoretinopathy, Proliferative</ChildTerm>
+<ChildTerm>Epiretinal Membrane</ChildTerm>
+<ChildTerm>Retinal Vasculitis</ChildTerm>
+<ChildTerm>Central Serous Chorioretinopathy</ChildTerm>
+<ChildTerm>Leber Congenital Amaurosis</ChildTerm>
+<Synonym>Retinal Diseases</Synonym>
+<Synonym>Retinal Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,13 @@
+<Record>
+<Term>Designer Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Designer Drugs</ClassificationPath>
+<BroaderTerm>Designer Drugs</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<Synonym>Designer Drugs</Synonym>
+<Synonym>Customized Drugs</Synonym>
+<Description>Drugs designed and synthesized, often for illegal street use, by modification of existing drug structures (e.g., amphetamines). Of special interest are MPTP (a reverse ester of meperidine), MDA (3,4-methylenedioxyamphetamine), and MDMA (3,4-methylenedioxymethamphetamine). Many drugs act on the aminergic system, the physiologically active biogenic amines.</Description>
+<Source>MeSH</Source>
+</Record>

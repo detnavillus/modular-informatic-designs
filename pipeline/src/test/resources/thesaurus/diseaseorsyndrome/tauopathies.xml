@@ -1,0 +1,16 @@
+<Record>
+<Term>Tauopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Tauopathies</ClassificationPath>
+<BroaderTerm>Tauopathies</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Alzheimer Disease</ChildTerm>
+<ChildTerm>Supranuclear Palsy, Progressive</ChildTerm>
+<ChildTerm>Diffuse Neurofibrillary Tangles with Calcification</ChildTerm>
+<Synonym>Tauopathies</Synonym>
+<Synonym>Tauopathy</Synonym>
+<Description>Neurodegenerative disorders involving deposition of abnormal tau protein isoforms (TAU PROTEINS) in neurons and glial cells in the brain. Pathological aggregations of tau proteins are associated with mutation of the tau gene on chromosome 17 in patients with ALZHEIMER DISEASE; DEMENTIA; PARKINSONIAN DISORDERS; progressive supranuclear palsy (SUPRANUCLEAR PALSY, PROGRESSIVE); and corticobasal degeneration.</Description>
+<Source>MeSH</Source>
+</Record>

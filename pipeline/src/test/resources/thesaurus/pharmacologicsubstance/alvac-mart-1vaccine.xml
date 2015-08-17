@@ -1,0 +1,17 @@
+<Record>
+<Term>ALVAC-MART-1 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>ALVAC Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/ALVAC Vaccine/ALVAC-MART-1 Vaccine</ClassificationPath>
+<BroaderTerm>ALVAC-MART-1 Vaccine</BroaderTerm>
+<BroaderTerm>ALVAC Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>ALVAC-MART-1 Vaccine</Synonym>
+<Description>A cancer vaccine containing a replication-defective recombinant canarypox virus (ALVAC), encoding an epitope of MART-1 (melanoma antigen recognized by T-cells), with potential immunostimulatory and antineoplastic activities. Upon administration, the MART-1 epitope is expressed by the ALVAC vector in ALVAC-MART-1 vaccine; a host cytotoxic T lymphocyte (CTL) response against MART-1-expressing tumor cells may follow, resulting in tumor cell lysis and decreased tumor cell proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

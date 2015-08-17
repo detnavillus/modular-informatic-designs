@@ -1,0 +1,17 @@
+<Record>
+<Term>Glutathione Disulfide NOV-002</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Glutathione Disulfide NOV-002</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Glutathione Disulfide NOV-002</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Glutathione Disulfide NOV-002</Synonym>
+<Synonym>Glutoxim</Synonym>
+<Synonym>NOV-002</Synonym>
+<Synonym>Oxidized Glutathione NOV-002</Synonym>
+<Description>A stabilized formulation of disodium glutathione disulfide (GSSG; oxidized glutathione) and cisplatin (1000:1) with potential chemoprotective and immunomodulating activities. Mimicking endogenous GSSG, glutathione disulfide NOV-002 acts as a competitive substrate for gamma-glutamyl-transpeptidase (GGT), which may result in the S-glutathionylation of proteins, predominantly actin, a redox stress on endoplasmic reticulum (ER), and ER stress-induced apoptosis; S-glutathionylation may be stimulated by reactive oxygen species (ROS) liberated by a glutathione disulfide NOV-002-induced increase in GGT activity. Glutathione disulfide NOV-002 may also induce phosphorylation of proteins such as ERK and p38, two kinases that play critical regulatory roles in cell proliferation and apoptosis. The cisplatin component of this agent does not provide an effective therapeutic concentration of cisplatin in vivo.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

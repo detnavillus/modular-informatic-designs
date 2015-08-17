@@ -1,0 +1,19 @@
+<Record>
+<Term>Doxorubicin-GNRH Agonist Conjugate AEZS-108</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Doxorubicin-GNRH Agonist Conjugate AEZS-108</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Doxorubicin-GNRH Agonist Conjugate AEZS-108</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>AEZS-108</Synonym>
+<Synonym>Doxorubicin-GNRH Agonist Conjugate AEZS-108</Synonym>
+<Description>A peptide agonist of the gonadotropin releasing hormone-1 receptor (GnRH-1R) that is conjugated to the anthracycline antibiotic doxorubicin with potential antineoplastic activity. Doxorubicin-GnRH agonist conjugate AEZS-108 binds to GnRH-1Rs, which may be highly expressed on endometrial and ovarian tumor cell membrane surfaces, and is internalized. Once inside the cell, the doxorubicin moiety of this agent intercalates into DNA and inhibits the topoisomerase II activity, which may result in the inhibition of tumor cell DNA replication and tumor cell proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

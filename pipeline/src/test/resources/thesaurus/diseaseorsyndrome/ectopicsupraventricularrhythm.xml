@@ -1,0 +1,22 @@
+<Record>
+<Term>Ectopic Supraventricular Rhythm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Supraventricular Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Ectopic Supraventricular Rhythm</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Ectopic Supraventricular Rhythm</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>ECTOPIC SUPRAVENTRICULAR RHYTHM</Synonym>
+<Synonym>Ectopic Supraventricular Rhythm</Synonym>
+<Synonym>Ectopic supraventricular rhythm</Synonym>
+<Description>An electrocardiographic finding of a rhythm originating at a site other than the sinoatrial node, which is also above the atrioventricular node.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

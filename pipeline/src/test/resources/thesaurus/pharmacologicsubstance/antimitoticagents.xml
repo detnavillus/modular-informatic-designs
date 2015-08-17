@@ -1,0 +1,21 @@
+<Record>
+<Term>Antimitotic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Mitosis Modulators</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Mitosis Modulators/Antimitotic Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Antimitotic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Antimitotic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Mitosis Modulators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Tubulin Modulators</ChildTerm>
+<Synonym>Antimitotics</Synonym>
+<Synonym>Antimitotic Agents</Synonym>
+<Synonym>Antimitotic Drugs</Synonym>
+<Description>Agents that arrest cells in MITOSIS, most notably TUBULIN MODULATORS.</Description>
+<Source>MeSH</Source>
+</Record>

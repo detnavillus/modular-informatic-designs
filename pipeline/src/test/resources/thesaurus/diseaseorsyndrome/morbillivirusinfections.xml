@@ -1,0 +1,19 @@
+<Record>
+<Term>Morbillivirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paramyxoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Morbillivirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Morbillivirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Distemper</ChildTerm>
+<ChildTerm>Rinderpest</ChildTerm>
+<ChildTerm>Measles</ChildTerm>
+<ChildTerm>Peste-des-Petits-Ruminants</ChildTerm>
+<Synonym>Morbillivirus Infections</Synonym>
+<Synonym>Morbillivirus Infection</Synonym>
+<Description>Infections with viruses of the genus MORBILLIVIRUS, family PARAMYXOVIRIDAE. Infections mainly cause acute disease in their hosts, although in some cases infection is persistent and leads to degenerative conditions.</Description>
+<Source>MeSH</Source>
+</Record>

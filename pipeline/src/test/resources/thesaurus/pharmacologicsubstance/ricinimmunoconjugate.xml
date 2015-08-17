@@ -1,0 +1,25 @@
+<Record>
+<Term>Ricin Immunoconjugate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunotoxin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Immunotoxin/Ricin Immunoconjugate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Immunotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ricin Immunoconjugate</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Monoclonal Antibody HD37-SMPT-dgA Immunotoxin</ChildTerm>
+<ChildTerm>Monoclonal Antibody Mono-dgA-RFB4</ChildTerm>
+<ChildTerm>Murine MCA Ricin Conjugate</ChildTerm>
+<ChildTerm>Di-dgA-RFB4 Immunotoxin</ChildTerm>
+<ChildTerm>Monoclonal Antibody N901-bR</ChildTerm>
+<ChildTerm>Zolimomab Aritox</ChildTerm>
+<ChildTerm>WT1-Ricin A Immunotoxin</ChildTerm>
+<ChildTerm>IgG-RFB4-SMPT-dgA Immunotoxin</ChildTerm>
+<Synonym>Immunoconjugate, Ricin</Synonym>
+<Synonym>Ricin Immunoconjugate</Synonym>
+<Description>A ricin-containing immunotoxin with immunotherapeutic property. Ricin, a plant toxin extracted from castor beans, inhibits protein synthesis via cleaving ribosomal subunit 28S rRNA. Ricin immunoconjugate consists of specific antibody conjugated with the blocked ricin (bR), which has the galactose-binding sites of the B-chain blocked while leaving the ribosome-inactivating ricin A-chain intact, thereby attaining cell-type-specific immunotoxins.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

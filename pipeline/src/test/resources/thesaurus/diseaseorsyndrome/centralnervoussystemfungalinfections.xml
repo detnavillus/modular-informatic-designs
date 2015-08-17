@@ -1,0 +1,20 @@
+<Record>
+<Term>Central Nervous System Fungal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Fungal Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Central Nervous System Fungal Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Fungal Infections</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Meningitis, Fungal</ChildTerm>
+<ChildTerm>Neuroaspergillosis</ChildTerm>
+<Synonym>Central Nervous System Fungal Infections</Synonym>
+<Synonym>Central Nervous System Mycoses</Synonym>
+<Description>MYCOSES of the brain, spinal cord, and meninges which may result in ENCEPHALITIS; MENINGITIS, FUNGAL; MYELITIS; BRAIN ABSCESS; and EPIDURAL ABSCESS. Certain types of fungi may produce disease in immunologically normal hosts, while others are classified as opportunistic pathogens, causing illness primarily in immunocompromised individuals (e.g., ACQUIRED IMMUNODEFICIENCY SYNDROME).</Description>
+<Source>MeSH</Source>
+</Record>

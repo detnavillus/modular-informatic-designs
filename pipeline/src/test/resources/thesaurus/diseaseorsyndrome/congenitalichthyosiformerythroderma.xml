@@ -1,0 +1,30 @@
+<Record>
+<Term>Congenital Ichthyosiform Erythroderma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ichthyosis</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Skin Abnormalities/Ichthyosis/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Ichthyosis/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Ichthyosis/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Abnormalities/Ichthyosis/Ichthyosiform Erythroderma, Congenital</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Ichthyosiform Erythroderma, Congenital</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Abnormalities</BroaderTerm>
+<BroaderTerm>Ichthyosis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Ichthyosis, Lamellar</ChildTerm>
+<ChildTerm>Hyperkeratosis, Epidermolytic</ChildTerm>
+<ChildTerm>Netherton Syndrome</ChildTerm>
+<Synonym>Congenital Ichthyosiform Erythroderma</Synonym>
+<Synonym>Congenital Ichthyosiform Erythrodermas</Synonym>
+<Description>Designation for several severe forms of ichthyosis, present at birth, that are characterized by hyperkeratotic scaling. Infants may be born encased in a collodion membrane which begins shedding within 24 hours. This is followed in about two weeks by persistent generalized scaling. The forms include bullous (HYPERKERATOSIS, EPIDERMOLYTIC), non-bullous (ICHTHYOSIS, LAMELLAR), wet type, and dry type.</Description>
+<Source>MeSH</Source>
+</Record>

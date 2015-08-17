@@ -1,0 +1,16 @@
+<Record>
+<Term>Tyrosinase-KLH</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Tyrosinase-KLH</ClassificationPath>
+<BroaderTerm>Tyrosinase-KLH</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Tyrosinase-KLH</Synonym>
+<Description>A peptide vaccine containing a tyrosinase epitope conjugated with keyhole lymphocyte hemocyanin (KLH) with potential antineoplastic activity. Tyrosinase, one of the melanoma differentiation antigens, is the rate-limiting enzyme for melanin synthesis. This tyrosine epitope is conjugated with KLH, which serves as an immunostimulant and a hapten carrier, to enhance immune recognition. Vaccination with tyrosinase-KLH peptide vaccine may produce anti-tyrosinase antibodies as well as elicit a cytotoxic T lymphocyte (CTL) response against cells expressing tyrosinase antigen, resulting in decreased tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

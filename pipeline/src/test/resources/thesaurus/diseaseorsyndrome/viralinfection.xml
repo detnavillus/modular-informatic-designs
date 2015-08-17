@@ -1,0 +1,44 @@
+<Record>
+<Term>Viral Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Epstein-Barr Virus Infection</ChildTerm>
+<ChildTerm>Cold Sore</ChildTerm>
+<ChildTerm>Pharyngoconjunctival Fever</ChildTerm>
+<ChildTerm>Hantavirus Infection</ChildTerm>
+<ChildTerm>Dengue Fever</ChildTerm>
+<ChildTerm>HIV Infection</ChildTerm>
+<ChildTerm>Herpes</ChildTerm>
+<ChildTerm>HTLV-1 Infection</ChildTerm>
+<ChildTerm>Smallpox</ChildTerm>
+<ChildTerm>Viral Esophagitis</ChildTerm>
+<ChildTerm>Genital Herpes</ChildTerm>
+<ChildTerm>Orbivirus Infection</ChildTerm>
+<ChildTerm>Mumps</ChildTerm>
+<ChildTerm>Cytomegaloviral Infection</ChildTerm>
+<ChildTerm>Influenza</ChildTerm>
+<ChildTerm>Congenital Rubella</ChildTerm>
+<ChildTerm>Human Papilloma Virus Infection</ChildTerm>
+<ChildTerm>Rabies</ChildTerm>
+<ChildTerm>Newcastle Disease</ChildTerm>
+<ChildTerm>Herpes Zoster</ChildTerm>
+<ChildTerm>Yellow Fever Virus Infection</ChildTerm>
+<ChildTerm>Viral Hemorrhagic Fever</ChildTerm>
+<ChildTerm>Herpetic Vulvovaginitis</ChildTerm>
+<ChildTerm>Viral Respiratory Tract Infection</ChildTerm>
+<ChildTerm>Arthropod-Born Viral Infection</ChildTerm>
+<ChildTerm>Human Herpes Virus 8 Infection</ChildTerm>
+<Synonym>Infection, Viral</Synonym>
+<Synonym>Viral Infection</Synonym>
+<Synonym>Viral infection</Synonym>
+<Description>Any disease caused by a virus.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

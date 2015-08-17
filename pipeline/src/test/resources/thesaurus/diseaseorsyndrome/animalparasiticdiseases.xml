@@ -1,0 +1,18 @@
+<Record>
+<Term>Animal Parasitic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Diseases</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Helminthiasis, Animal</ChildTerm>
+<ChildTerm>Protozoan Infections, Animal</ChildTerm>
+<ChildTerm>Babesiosis</ChildTerm>
+<Synonym>Animal Parasitic Disease</Synonym>
+<Synonym>Animal Parasitic Diseases</Synonym>
+<Description>Infections or infestations with parasitic organisms. The infestation may be experimental or veterinary.</Description>
+<Source>MeSH</Source>
+</Record>

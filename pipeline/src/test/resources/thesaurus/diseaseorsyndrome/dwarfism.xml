@@ -1,0 +1,40 @@
+<Record>
+<Term>Dwarfism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Endocrine System Finding</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Endocrine System Finding/Dwarfism</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Dwarfism</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Dwarfism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Dwarfism</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Endocrine System Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Dwarfism</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pituitary Dwarfism</ChildTerm>
+<ChildTerm>Cockayne Syndrome</ChildTerm>
+<ChildTerm>Silver-Russell Syndrome</ChildTerm>
+<ChildTerm>Laron Syndrome</ChildTerm>
+<ChildTerm>Achondroplasia</ChildTerm>
+<ChildTerm>Weill-Marchesani Syndrome</ChildTerm>
+<ChildTerm>Dwarfism, Pituitary</ChildTerm>
+<ChildTerm>Congenital Hypothyroidism</ChildTerm>
+<ChildTerm>Thanatophoric Dysplasia</ChildTerm>
+<ChildTerm>Mulibrey Nanism</ChildTerm>
+<Synonym>Dwarfism</Synonym>
+<Synonym>Nanism</Synonym>
+<Description>A genetic or pathological condition that is characterized by short stature and undersize. Abnormal skeletal growth usually results in an adult who is significantly below the average height.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

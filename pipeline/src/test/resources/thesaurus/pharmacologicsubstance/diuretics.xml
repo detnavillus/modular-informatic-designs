@@ -1,0 +1,15 @@
+<Record>
+<Term>Diuretics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Natriuretic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Natriuretic Agents/Diuretics</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Diuretics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Natriuretic Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Diuretics, Osmotic</ChildTerm>
+<Synonym>Diuretics</Synonym>
+<Description>Agents that promote the excretion of urine through their effects on kidney function.</Description>
+<Source>MeSH</Source>
+</Record>

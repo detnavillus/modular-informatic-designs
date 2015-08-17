@@ -1,0 +1,20 @@
+<Record>
+<Term>Neuroprotective Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protective Agents</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Neuroprotective Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Neuroprotective Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Neuroprotective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Neuroprotective Drugs</Synonym>
+<Synonym>Neuroprotectants</Synonym>
+<Synonym>Neuroprotective Agents</Synonym>
+<Description>Drugs intended to prevent damage to the brain or spinal cord from ischemia, stroke, convulsions, or trauma. Some must be administered before the event, but others may be effective for some time after. They act by a variety of mechanisms, but often directly or indirectly minimize the damage produced by endogenous excitatory amino acids.</Description>
+<Source>MeSH</Source>
+</Record>

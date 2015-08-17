@@ -1,0 +1,20 @@
+<Record>
+<Term>Multidrug-Resistant Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Multidrug-Resistant</ClassificationPath>
+<BroaderTerm>Tuberculosis, Multidrug-Resistant</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Extensively Drug-Resistant Tuberculosis</ChildTerm>
+<Synonym>Multidrug-Resistant Tuberculosis</Synonym>
+<Synonym>MDR Tuberculosis</Synonym>
+<Synonym>Multi-Drug Resistant Tuberculosis</Synonym>
+<Synonym>Drug-Resistant Tuberculosis</Synonym>
+<Description>Tuberculosis resistant to chemotherapy with two or more ANTITUBERCULAR AGENTS, including at least ISONIAZID and RIFAMPICIN. The problem of resistance is particularly troublesome in tuberculous OPPORTUNISTIC INFECTIONS associated with HIV INFECTIONS. It requires the use of second line drugs which are more toxic than the first line regimens. TB with isolates that have developed further resistance to at least three of the six classes of second line drugs is defined as EXTENSIVELY DRUG-RESISTANT TUBERCULOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

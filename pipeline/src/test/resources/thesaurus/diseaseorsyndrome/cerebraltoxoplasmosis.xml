@@ -1,0 +1,36 @@
+<Record>
+<Term>Cerebral Toxoplasmosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Toxoplasmosis</ParentTerm>
+<ParentTerm>Central Nervous System Protozoal Infections</ParentTerm>
+<ParentTerm>Brain Abscess</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Toxoplasmosis/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Brain Abscess/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Brain Abscess/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Abscess/Toxoplasmosis, Cerebral</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Brain Abscess/Toxoplasmosis, Cerebral</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Toxoplasmosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Protozoal Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Brain Abscess</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Toxoplasmosis, Cerebral</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Central Nervous System Toxoplasmosis</Synonym>
+<Synonym>Neurotoxoplasmosis</Synonym>
+<Synonym>Intracranial Toxoplasmosis</Synonym>
+<Synonym>Cerebral Toxoplasmosis</Synonym>
+<Description>Infections of the BRAIN caused by the protozoan TOXOPLASMA gondii that primarily arise in individuals with IMMUNOLOGIC DEFICIENCY SYNDROMES (see also AIDS-RELATED OPPORTUNISTIC INFECTIONS). The infection may involve the brain diffusely or form discrete abscesses. Clinical manifestations include SEIZURES, altered mentation, headache, focal neurologic deficits, and INTRACRANIAL HYPERTENSION. (From Joynt, Clinical Neurology, 1998, Ch27, pp41-3)</Description>
+<Source>MeSH</Source>
+</Record>

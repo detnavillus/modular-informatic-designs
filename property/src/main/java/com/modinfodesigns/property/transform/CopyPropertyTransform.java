@@ -91,7 +91,7 @@ public class CopyPropertyTransform extends BasePropertyTransform implements IPro
   @Override
   public IPropertyHolder transformPropertyHolder(IPropertyHolder input) throws PropertyTransformException
   {
-    LOG.debug( "transformPropertyHolder ..." );
+    LOG.debug( "transformPropertyHolder ... " + input );
     if (copyFrom == null || copyTo == null)
     {
       LOG.error( "from or to is NULL" + copyFrom + "," + copyTo );
@@ -99,9 +99,10 @@ public class CopyPropertyTransform extends BasePropertyTransform implements IPro
     }
 		
     IProperty fromProp = input.getProperty( copyFrom );
+
+    LOG.debug( copyFrom + " fromProp = " + fromProp );
     if ( fromProp != null )
     {
-      LOG.debug( "fromProp = " + fromProp.getValue() );
       IProperty toProp = fromProp.copy( );
 			
       if (propTransforms != null)

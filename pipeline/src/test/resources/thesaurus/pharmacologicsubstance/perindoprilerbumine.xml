@@ -1,0 +1,21 @@
+<Record>
+<Term>Perindopril Erbumine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>ACE Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/ACE Inhibitor/Perindopril Erbumine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Perindopril Erbumine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>ACE Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Perindopril erbumine</Synonym>
+<Synonym>PERINDOPRIL ERBUMINE</Synonym>
+<Synonym>1H-Indole-2-carboxylic Acid, 1-(2-((1-(ethoxycarbonyl)butyl)amino)-1-oxopropyl)octahydro-,(2S-(1(R*(R*))2alpha,3abeta,7abeta))-, compound with 2-Methyl-2-propanamine(1:1)</Synonym>
+<Synonym>Perindopril Erbumine</Synonym>
+<Synonym>Aceon</Synonym>
+<Description>The tert-butylamine salt of perindopril, the ethyl ester of a non-sulfhydryl angiotensin converting enzyme (ACE) inhibitor with antihypertensive property. Upon hydrolysis, perindopril erbumine is converted to its active form perindoprilat, which inhibits ACE, thereby blocks the conversion of angiotensin I to angiotensin II. This prevents angiotensin II-mediated vasoconstriction, decreases angiotensin II-stimulated aldosterone secretion from the adrenal cortex, and consequently promotes diuresis and natriuresis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

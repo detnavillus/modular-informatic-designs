@@ -1,0 +1,28 @@
+<Record>
+<Term>Staphylococcal Scalded Skin Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Staphylococcal Skin Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Staphylococcal Infections/Staphylococcal Skin Infections/Staphylococcal Scalded Skin Syndrome</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Staphylococcal Scalded Skin Syndrome</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Staphylococcal Scalded Skin Syndrome</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Staphylococcal Skin Infections/Staphylococcal Scalded Skin Syndrome</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Staphylococcal Skin Infections</BroaderTerm>
+<BroaderTerm>Staphylococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Staphylococcal Scalded Skin Syndrome</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Staphylococcal Scalded-Skin Syndromes</Synonym>
+<Synonym>Ritters Disease</Synonym>
+<Synonym>Ritter's Disease</Synonym>
+<Synonym>Ritter Disease</Synonym>
+<Synonym>Staphylococcal Scalded Skin Syndrome</Synonym>
+<Synonym>Staphylococcal Scalded-Skin Syndrome</Synonym>
+<Description>A disease of infants due to group 2 phage type 17 staphylococci that produce an epidermolytic exotoxin. Superficial fine vesicles and bullae form and rupture easily, resulting in loss of large sheets of epidermis.</Description>
+<Source>MeSH</Source>
+</Record>

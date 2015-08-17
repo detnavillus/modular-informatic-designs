@@ -1,0 +1,18 @@
+<Record>
+<Term>Pasteurellaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections</ClassificationPath>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Actinobacillus Infections</ChildTerm>
+<ChildTerm>Haemophilus Infections</ChildTerm>
+<ChildTerm>Pasteurellosis, Pneumonic</ChildTerm>
+<ChildTerm>Pasteurella Infections</ChildTerm>
+<Synonym>Pasteurellaceae Infections</Synonym>
+<Synonym>Pasteurellaceae Infection</Synonym>
+<Description>Infections with bacteria of the family PASTEURELLACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

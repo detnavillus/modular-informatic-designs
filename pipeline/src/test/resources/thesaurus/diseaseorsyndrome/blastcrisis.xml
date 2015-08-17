@@ -1,0 +1,48 @@
+<Record>
+<Term>Blast Crisis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Cell Transformation, Neoplastic</ParentTerm>
+<ParentTerm>Leukemia, Myelogenous, Chronic, BCR-ABL Positive</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myeloproliferative Disorders/Leukemia, Myelogenous, Chronic, BCR-ABL Positive/Blast Crisis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplastic Processes/Cell Transformation, Neoplastic/Blast Crisis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Leukemia/Leukemia, Myeloid/Leukemia, Myelogenous, Chronic, BCR-ABL Positive/Blast Crisis</ClassificationPath>
+<ClassificationPath>Blast Phase Chronic Myelogenous Leukemia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Neoplastic Processes/Cell Transformation, Neoplastic/Blast Crisis</ClassificationPath>
+<BroaderTerm>Myeloproliferative Disorders</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Blast Phase Chronic Myelogenous Leukemia</BroaderTerm>
+<BroaderTerm>Blast Crisis</BroaderTerm>
+<BroaderTerm>Neoplastic Processes</BroaderTerm>
+<BroaderTerm>Leukemia</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Cell Transformation, Neoplastic</BroaderTerm>
+<BroaderTerm>Leukemia, Myeloid</BroaderTerm>
+<BroaderTerm>Leukemia, Myelogenous, Chronic, BCR-ABL Positive</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Blast Phase Chronic Myeloid Leukemia</Synonym>
+<Synonym>Blast Phase CML</Synonym>
+<Synonym>Blastic Phase Chronic Granulocytic Leukemia</Synonym>
+<Synonym>Blast Phase Chronic Granulocytic Leukemia</Synonym>
+<Synonym>Blast Phase Chronic Myelogenous Leukemia</Synonym>
+<Synonym>Blastic Phase Chronic Myelocytic Leukemia</Synonym>
+<Synonym>Blast Crises</Synonym>
+<Synonym>Blastic Phase Chronic Myeloid Leukemia</Synonym>
+<Synonym>Blast Crisis</Synonym>
+<Synonym>Blast Phase Chronic Myelocytic Leukemia</Synonym>
+<Synonym>Blastic Phase CML</Synonym>
+<Synonym>blast phase</Synonym>
+<Synonym>Blast Phase</Synonym>
+<Synonym>blast crisis</Synonym>
+<Synonym>Blast Phases</Synonym>
+<Synonym>Blastic Phase Chronic Myelogenous Leukemia</Synonym>
+<Description>An advanced phase of chronic myelogenous leukemia.  It is characterized by:  1.  the presence of blasts in the peripheral blood or bone marrow that are at least 20% of the peripheral blood white cells or of the nucleated cells in the bone marrow respectively, or 2. an extramedullary proliferation of blasts, and/or 3. when there are large aggregates and clusters of blasts in the bone marrow biopsy specimen (adapted from WHO, 2001).</Description>
+<Description>An advanced phase of chronic myelogenous leukemia, characterized by a rapid increase in the proportion of immature white blood cells (blasts) in the blood and bone marrow to greater than 30%.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

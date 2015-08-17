@@ -1,0 +1,30 @@
+<Record>
+<Term>Ebola Hemorrhagic Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Hemorrhagic Fever</ParentTerm>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Filoviridae Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Viral Hemorrhagic Fever/Ebola Hemorrhagic Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Filoviridae Infections/Hemorrhagic Fever, Ebola</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Hemorrhagic Fever, Ebola</ClassificationPath>
+<BroaderTerm>Viral Hemorrhagic Fever</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Filoviridae Infections</BroaderTerm>
+<BroaderTerm>Ebola Hemorrhagic Fever</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fever, Ebola</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>Ebola Hemorrhagic Fever</Synonym>
+<Synonym>Ebola Virus Disease</Synonym>
+<Description>A highly fatal, acute hemorrhagic fever, clinically very similar to MARBURG VIRUS DISEASE, caused by EBOLAVIRUS, first occurring in the Sudan and adjacent northwestern (what was then) Zaire.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

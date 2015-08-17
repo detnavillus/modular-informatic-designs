@@ -1,0 +1,16 @@
+<Record>
+<Term>Anti-CD30 Monolcnoal Antibody XmAb2513</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Anti-CD30 Monolcnoal Antibody XmAb2513</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Anti-CD30 Monolcnoal Antibody XmAb2513</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD30 Monolcnoal Antibody XmAb2513</Synonym>
+<Synonym>XmAb2513</Synonym>
+<Description>A humanized monoclonal antibody directed against the cell surface receptor CD30 with potential immunotherapeutic activity. Anti-CD30 monoclonal antibody XmAb2513 specifically binds to the CD30 antigen, which may result in a cytotoxic T lymphocyte (CTL) response against CD30-expressing tumor cells. CD30, a member of the tumor necrosis factor (TNF) receptor superfamily, is expressed on activated lymphocytes transiently and is constitutively expressed in hematologic malignancies including Hodgkin's disease and some T-cell non-Hodgkin's lymphomas.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,30 @@
+<Record>
+<Term>Cattle Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases</ClassificationPath>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Bovine Virus Diarrhea-Mucosal Disease</ChildTerm>
+<ChildTerm>Brucellosis, Bovine</ChildTerm>
+<ChildTerm>Ephemeral Fever</ChildTerm>
+<ChildTerm>Bovine Respiratory Disease Complex</ChildTerm>
+<ChildTerm>Theileriasis</ChildTerm>
+<ChildTerm>Trypanosomiasis, Bovine</ChildTerm>
+<ChildTerm>Tuberculosis, Bovine</ChildTerm>
+<ChildTerm>Enzootic Bovine Leukosis</ChildTerm>
+<ChildTerm>Encephalopathy, Bovine Spongiform</ChildTerm>
+<ChildTerm>Hemorrhagic Syndrome, Bovine</ChildTerm>
+<ChildTerm>White Heifer Disease</ChildTerm>
+<ChildTerm>Freemartinism</ChildTerm>
+<ChildTerm>Infectious Bovine Rhinotracheitis</ChildTerm>
+<ChildTerm>Lumpy Skin Disease</ChildTerm>
+<ChildTerm>Malignant Catarrh</ChildTerm>
+<ChildTerm>Mastitis, Bovine</ChildTerm>
+<Synonym>Cattle Diseases</Synonym>
+<Synonym>Cattle Disease</Synonym>
+<Synonym>Bovine Diseases</Synonym>
+<Synonym>Bovine Disease</Synonym>
+<Description>Diseases of domestic cattle of the genus Bos. It includes diseases of cows, yaks, and zebus.</Description>
+<Source>MeSH</Source>
+</Record>

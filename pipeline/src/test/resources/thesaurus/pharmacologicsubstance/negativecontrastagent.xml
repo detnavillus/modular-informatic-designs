@@ -1,0 +1,16 @@
+<Record>
+<Term>Negative Contrast Agent</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Negative Contrast Agent</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Negative Contrast Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Negative Contrast Agent</Synonym>
+<Description>Contrast media that has a lower amplification and intensity than the surrounding tissue making the contrast look less opaque when seen in an x-ray.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

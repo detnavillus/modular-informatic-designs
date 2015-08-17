@@ -1,0 +1,30 @@
+<Record>
+<Term>Subdural Empyema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Empyema</ParentTerm>
+<ParentTerm>Perimeningeal Infections</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Empyema, Subdural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Central Nervous System Infections/Empyema, Subdural</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Perimeningeal Infections/Empyema, Subdural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Empyema/Empyema, Subdural</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Empyema, Subdural</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Empyema, Subdural</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Empyema</BroaderTerm>
+<BroaderTerm>Perimeningeal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Empyema, Subdural</BroaderTerm>
+<Synonym>Subdural Empyema</Synonym>
+<Synonym>Subdural Empyemas</Synonym>
+<Description>An intracranial or rarely intraspinal suppurative process invading the space between the inner surface of the DURA MATER and the outer surface of the ARACHNOID. Bacteria and other pathogenic organisms may gain entrance to the subdural space from the FRONTAL SINUS; ETHMOID SINUS; middle ear (EAR, MIDDLE); MASTOID; or as the result of CRANIOCEREBRAL TRAUMA or NEUROSURGICAL PROCEDURES. This condition may be associated with intracranial sinus thrombosis (SINUS THROMBOSIS, INTRACRANIAL). Circumscribed collections of purulent material in the subdural space are referred to as subdural abscesses. (From Adams et al., Principles of Neurology, 6th ed, p709)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Fatty Liver</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Fatty Liver</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Fatty Liver</BroaderTerm>
+<ChildTerm>Reye Syndrome</ChildTerm>
+<ChildTerm>Fatty Liver, Alcoholic</ChildTerm>
+<Synonym>Fatty Liver</Synonym>
+<Synonym>Steatohepatitis</Synonym>
+<Synonym>Liver Steatosis</Synonym>
+<Description>Lipid infiltration of the hepatic parenchymal cells resulting in a yellow-colored liver. The abnormal lipid accumulation is usually in the form of TRIGLYCERIDES, either as a single large droplet or multiple small droplets. Fatty liver is caused by an imbalance in the metabolism of FATTY ACIDS.Inflammation of the liver related to lipid accumulation in fatty liver.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Rodent Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Rodent Diseases</ClassificationPath>
+<BroaderTerm>Rodent Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Ectromelia, Infectious</ChildTerm>
+<ChildTerm>Murine Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Monkeypox</ChildTerm>
+<Synonym>Rodent Diseases</Synonym>
+<Synonym>Rodent Disease</Synonym>
+<Description>Diseases of rodents of the order RODENTIA. This term includes diseases of Sciuridae (squirrels), Geomyidae (gophers), Heteromyidae (pouched mice), Castoridae (beavers), Cricetidae (rats and mice), Muridae (Old World rats and mice), Erethizontidae (porcupines), and Caviidae (guinea pigs).</Description>
+<Source>MeSH</Source>
+</Record>

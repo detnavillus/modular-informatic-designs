@@ -1,0 +1,14 @@
+<Record>
+<Term>Hypertonic Solutions</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Solutions</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Solutions/Hypertonic Solutions</ClassificationPath>
+<BroaderTerm>Hypertonic Solutions</BroaderTerm>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Solutions</BroaderTerm>
+<ChildTerm>Saline Solution, Hypertonic</ChildTerm>
+<ChildTerm>Glucose Solution, Hypertonic</ChildTerm>
+<Synonym>Hypertonic Solutions</Synonym>
+<Description>Solutions that have a greater osmotic pressure than a reference solution such as blood, plasma, or interstitial fluid.</Description>
+<Source>MeSH</Source>
+</Record>

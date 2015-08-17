@@ -1,0 +1,17 @@
+<Record>
+<Term>Fluorodopan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Nitrosourea Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Nitrosourea Compound/Fluorodopan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Fluorodopan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Nitrosourea Compound</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fluorodopan</Synonym>
+<Description>An alkylating agent with potential antineoplastic activity.  Fluorodopan alkylates DNA at the N7 position of guanine.  Alkylating agents exert cytotoxic and, in some cases, chemotherapeutic effects by transferring alkyl groups to DNA, thereby damaging DNA and interfering with DNA replication and cell division. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

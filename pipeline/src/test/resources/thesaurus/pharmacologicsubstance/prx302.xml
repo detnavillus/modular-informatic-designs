@@ -1,0 +1,16 @@
+<Record>
+<Term>PRX302</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/PRX302</ClassificationPath>
+<BroaderTerm>PRX302</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PORxin 302</Synonym>
+<Synonym>PRX302</Synonym>
+<Synonym>PSA-PAH1</Synonym>
+<Description>A targeted prodrug consisting of a recombinant modified form of the Aeromonas protoxin, proaerolysin (PA), bearing a prostate-specific protease cleavage site, with potential antineoplastic activity. When injected directly into the prostate, PRX302 is hydrolyzed to the active toxin aerolysin by the serine protease prostate specific antigen (PSA), a protein overexpressed by prostate cancers and prostate cells in hyperplastic prostatic tissue. Aerolysin molecules then oligomerize to form ring-like heptamers that are incorporated into the lipid bilayers of cell membranes, forming large membrane channels and resulting in the leakage of cellular contents and lysis of PSA-expressing prostate cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

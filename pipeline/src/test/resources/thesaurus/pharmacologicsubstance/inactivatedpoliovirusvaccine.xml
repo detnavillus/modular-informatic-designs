@@ -1,0 +1,20 @@
+<Record>
+<Term>Inactivated Poliovirus Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Poliovirus Vaccines</ParentTerm>
+<ParentTerm>Vaccines, Inactivated</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Inactivated/Poliovirus Vaccine, Inactivated</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Poliovirus Vaccines/Poliovirus Vaccine, Inactivated</ClassificationPath>
+<BroaderTerm>Poliovirus Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Poliovirus Vaccine, Inactivated</BroaderTerm>
+<BroaderTerm>Vaccines, Inactivated</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Salk Vaccine</Synonym>
+<Synonym>Inactivated Poliovirus Vaccine</Synonym>
+<Description>A suspension of formalin-inactivated poliovirus grown in monkey kidney cell tissue culture and used to prevent POLIOMYELITIS.</Description>
+<Source>MeSH</Source>
+</Record>

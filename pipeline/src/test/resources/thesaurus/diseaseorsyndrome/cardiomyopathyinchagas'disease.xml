@@ -1,0 +1,22 @@
+<Record>
+<Term>Cardiomyopathy in Chagas' Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Cardiomyopathy in Chagas' Disease</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy in Chagas' Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cardiomyopathy in Chagas' Disease</Synonym>
+<Synonym>Cardiovascular Trypanosomiasis</Synonym>
+<Synonym>Chronic Chagas' Disease Cardiomyopathy</Synonym>
+<Description>A dilated cardiomyopathy caused by the protozoan Trypanosoma cruzi. Patients may present with heart block, congestive heart failure, or anginal symptoms.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

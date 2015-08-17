@@ -1,0 +1,16 @@
+<Record>
+<Term>Coagulants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Coagulants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Coagulants</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Hemostatics</ChildTerm>
+<ChildTerm>Heparin Antagonists</ChildTerm>
+<Synonym>Coagulants</Synonym>
+<Description>Exogenous substances used to promote blood coagulation. The endogenous BLOOD COAGULATION FACTORS are considered to be coagulants only when administered as drugs.</Description>
+<Source>MeSH</Source>
+</Record>

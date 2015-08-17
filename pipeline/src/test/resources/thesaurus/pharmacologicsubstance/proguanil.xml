@@ -1,0 +1,29 @@
+<Record>
+<Term>Proguanil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antimalarial Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Antimalarial Agent/Proguanil</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Antimalarial Agent/Proguanil Hydrochloride</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Proguanil</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Proguanil Hydrochloride</BroaderTerm>
+<BroaderTerm>Antimalarial Agent</BroaderTerm>
+<Synonym>Chloroquanil</Synonym>
+<Synonym>Chloroguanide Hydrochloride</Synonym>
+<Synonym>1-(p-Chlorophenyl)-5-isopropylbiguanide Hydrochloride</Synonym>
+<Synonym>Chloriguane</Synonym>
+<Synonym>Proguanil</Synonym>
+<Synonym>Chlorguanide</Synonym>
+<Synonym>Bigumalum</Synonym>
+<Synonym>PROGUANIL</Synonym>
+<Synonym>PROGUANIL HYDROCHLORIDE</Synonym>
+<Synonym>Imidodicarbonimidic Diamide, N-(4-chlorophenyl)-N'-(1-methylethyl)-, Monohydrochloride(9CI)</Synonym>
+<Synonym>Proguanil Hydrochloride</Synonym>
+<Description>The hydrochloride salt form of proguanil, a synthetic biguanide derivative of pyrimidine and an folate antagonist with antimalarial property. Upon hydrolysis, proguanil is converted to its active cyclic triazine metabolite, cycloguanil, by a cytochrome P450 dependent reaction. Cycloguanil selectively inhibits the bifunctional dihydrofolate reductase-thymidylate synthase (DHFR-TS) of plasmodium parasite, thereby disrupting deoxythymidylate synthesis and ultimately blocking DNA and protein synthesis in the parasite.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

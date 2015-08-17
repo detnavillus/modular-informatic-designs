@@ -1,0 +1,20 @@
+<Record>
+<Term>Hookworm Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Strongylida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Hookworm Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Hookworm Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Ancylostomiasis</ChildTerm>
+<ChildTerm>Necatoriasis</ChildTerm>
+<Synonym>Hookworm Infections</Synonym>
+<Synonym>Hookworm Infection</Synonym>
+<Synonym>Bunostomiasis</Synonym>
+<Synonym>Bunostomiases</Synonym>
+<Description>Infection of humans or animals with hookworms other than those caused by the genus Ancylostoma or Necator, for which the specific terms ANCYLOSTOMIASIS and NECATORIASIS are available.</Description>
+<Source>MeSH</Source>
+</Record>

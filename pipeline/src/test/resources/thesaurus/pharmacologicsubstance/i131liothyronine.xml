@@ -1,0 +1,21 @@
+<Record>
+<Term>I 131 Liothyronine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Liothyronine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/I 131 Liothyronine,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Thyroid Agent/Liothyronine/I 131 Liothyronine</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>I 131 Liothyronine</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Thyroid Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Liothyronine</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>I 131 Liothyronine,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I 131 Liothyronine</Synonym>
+<Synonym>Liothyronine I 131</Synonym>
+<Description>A radioconjugate of synthetic active thyroid hormone, liothyronine (T3), labeled with Iodine 131. Liothyronine involves many important metabolic functions and is essential to the proper development and differentiation of all cells. I131 liothyronine may be used in radiotherapy in thyroid cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

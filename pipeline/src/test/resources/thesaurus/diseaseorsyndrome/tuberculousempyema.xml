@@ -1,0 +1,46 @@
+<Record>
+<Term>Tuberculous Empyema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Pleural</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Empyema, Pleural</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Empyema, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Respiratory Tract Infections/Empyema, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Tuberculosis, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Empyema/Empyema, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Empyema/Tuberculous Empyema,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Mycobacterial Infection/Tuberculosis/Tuberculous Empyema</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Empyema, Pleural/Empyema, Tuberculous</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Tuberculosis, Pleural/Empyema, Tuberculous</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Tuberculous Empyema,</BroaderTerm>
+<BroaderTerm>Empyema</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Tuberculosis, Pleural</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Empyema, Tuberculous</BroaderTerm>
+<BroaderTerm>Empyema, Pleural</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Tuberculous Empyema</BroaderTerm>
+<BroaderTerm>Mycobacterial Infection</BroaderTerm>
+<Synonym>Tuberculous Empyema</Synonym>
+<Synonym>Tuberculous Empyemas</Synonym>
+<Description>Empyema due to MYCOBACTERIUM TUBERCULOSIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

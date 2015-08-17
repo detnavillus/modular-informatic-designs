@@ -1,0 +1,14 @@
+<Record>
+<Term>Foot and Mouth Disease Hand</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coxsackievirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Coxsackievirus Infections/Hand, Foot and Mouth Disease</ClassificationPath>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Hand, Foot and Mouth Disease</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coxsackievirus Infections</BroaderTerm>
+<Description>A mild, highly infectious viral disease of children, characterized by vesicular lesions in the mouth and on the hands and feet. It is caused by coxsackieviruses A.</Description>
+<Source>MeSH</Source>
+</Record>

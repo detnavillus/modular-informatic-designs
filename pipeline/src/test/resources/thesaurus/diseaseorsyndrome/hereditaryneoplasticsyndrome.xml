@@ -1,0 +1,31 @@
+<Record>
+<Term>Hereditary Neoplastic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neoplastic Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Hereditary Neoplastic Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Neoplastic Syndrome/Hereditary Neoplastic Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hereditary Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Hereditary Neoplastic Syndrome,</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Neoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cobb Syndrome</ChildTerm>
+<ChildTerm>Neurofibromatosis</ChildTerm>
+<ChildTerm>Wilms Tumor-Aniridia-Genitourinary Anomalies-Mental Retardation Syndrome</ChildTerm>
+<ChildTerm>Hypomelia Hypotrichosis Facial Hemangioma Syndrome</ChildTerm>
+<ChildTerm>Sturge-Weber Syndrome</ChildTerm>
+<ChildTerm>Multiple Self Healing Epithelioma of Ferguson-Smith</ChildTerm>
+<ChildTerm>Dysplastic Nevus Syndrome</ChildTerm>
+<ChildTerm>Hereditary Multiple Exostoses</ChildTerm>
+<ChildTerm>Flat Adenoma Syndrome</ChildTerm>
+<ChildTerm>Fanconi Anemia</ChildTerm>
+<ChildTerm>X-Linked Agammaglobulinemia</ChildTerm>
+<ChildTerm>Familial Atypical Mole Melanoma Syndrome</ChildTerm>
+<Synonym>Familiar Neoplastic Syndrome</Synonym>
+<Synonym>Hereditary Neoplastic Syndrome</Synonym>
+<Description>The inherited predisposition toward getting a cancer</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

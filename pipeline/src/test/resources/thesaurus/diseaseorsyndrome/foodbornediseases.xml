@@ -1,0 +1,29 @@
+<Record>
+<Term>Foodborne Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Poisoning</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Foodborne Diseases</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Foodborne Diseases</BroaderTerm>
+<ChildTerm>Botulism</ChildTerm>
+<ChildTerm>Salmonella Food Poisoning</ChildTerm>
+<ChildTerm>Staphylococcal Food Poisoning</ChildTerm>
+<ChildTerm>Ciguatera Poisoning</ChildTerm>
+<ChildTerm>Shellfish Poisoning</ChildTerm>
+<ChildTerm>Favism</ChildTerm>
+<ChildTerm>Mushroom Poisoning</ChildTerm>
+<Synonym>Foodborne Diseases</Synonym>
+<Synonym>Foodborne Disease</Synonym>
+<Synonym>Foodborne Illnesses</Synonym>
+<Synonym>Food-borne Diseases</Synonym>
+<Synonym>Food borne Diseases</Synonym>
+<Synonym>Food-borne Disease</Synonym>
+<Synonym>Food-borne Illnesses</Synonym>
+<Synonym>Food borne Illnesses</Synonym>
+<Synonym>Food Poisoning</Synonym>
+<Synonym>Food Poisonings</Synonym>
+<Description>Acute illnesses, usually affecting the GASTROINTESTINAL TRACT, brought on by consuming contaminated food or beverages. Most of these diseases are infectious, caused by a variety of bacteria, viruses, or parasites that can be foodborne. Sometimes the diseases are caused by harmful toxins from the microbes or other chemicals present in the food. Especially in the latter case, the condition is often called food poisoning.</Description>
+<Source>MeSH</Source>
+</Record>

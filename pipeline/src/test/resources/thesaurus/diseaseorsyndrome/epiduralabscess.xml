@@ -1,0 +1,38 @@
+<Record>
+<Term>Epidural Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Perimeningeal Infections</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Perimeningeal Infections/Epidural Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Epidural Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Epidural Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Epidural Abscess</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Epidural Abscess</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Epidural Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Perimeningeal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Epidural Abscess</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>Cranial Epidural Abscess</Synonym>
+<Synonym>Cranial Extradural Abscess</Synonym>
+<Synonym>Intracranial Extradural Abscess</Synonym>
+<Synonym>Spinal Extradural Abscess</Synonym>
+<Synonym>Intracranial Epidural Abscess</Synonym>
+<Synonym>Spinal Epidural Abscess</Synonym>
+<Synonym>Extradural Abscess</Synonym>
+<Synonym>Epidural Abscess</Synonym>
+<Synonym>Intracranial Extradural Abscesses</Synonym>
+<Description>Circumscribed collections of suppurative material occurring in the spinal or intracranial EPIDURAL SPACE. The majority of epidural abscesses occur in the spinal canal and are associated with OSTEOMYELITIS of a vertebral body; ANALGESIA, EPIDURAL; and other conditions. Clinical manifestations include local and radicular pain, weakness, sensory loss, URINARY INCONTINENCE, and FECAL INCONTINENCE. Cranial epidural abscesses are usually associated with OSTEOMYELITIS of a cranial bone, SINUSITIS, or OTITIS MEDIA. (From Adams et al., Principles of Neurology, 6th ed, p710 and pp1240-1; J Neurol Neurosurg Psychiatry 1998 Aug;65(2):209-12)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Osteitis Fibrosa Cystica</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Endocrine</ParentTerm>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine/Osteitis Fibrosa Cystica</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Osteitis Fibrosa Cystica</ClassificationPath>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Osteitis Fibrosa Cystica</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Recklinghausen's Disease of Bone</Synonym>
+<Synonym>Von Recklinghausen's Disease of Bone</Synonym>
+<Synonym>Osteitis Fibrosa Cystica</Synonym>
+<Synonym>Recklinghausen Disease of Bone</Synonym>
+<Synonym>Von Recklinghausen Disease of Bone</Synonym>
+<Description>A fibrous degeneration, cyst formation, and the presence of fibrous nodules in bone, usually due to HYPERPARATHYROIDISM.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

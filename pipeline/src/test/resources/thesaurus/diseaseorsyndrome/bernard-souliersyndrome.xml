@@ -1,0 +1,27 @@
+<Record>
+<Term>Bernard-Soulier Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Bernard-Soulier Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Bernard-Soulier Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Bernard-Soulier Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Bernard-Soulier Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Bernard-Soulier Syndrome</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Deficiency of Platelet Glycoprotein 1b</Synonym>
+<Synonym>Giant Platelet Syndrome</Synonym>
+<Synonym>Bernard-Soulier Syndrome</Synonym>
+<Synonym>Bernard Soulier Syndrome</Synonym>
+<Synonym>Von Willebrand Factor Receptor Deficiency</Synonym>
+<Description>A familial coagulation disorder characterized by a prolonged bleeding time, unusually large platelets, and impaired prothrombin consumption.</Description>
+<Source>MeSH</Source>
+</Record>

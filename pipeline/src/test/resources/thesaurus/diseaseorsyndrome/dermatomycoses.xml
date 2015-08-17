@@ -1,0 +1,33 @@
+<Record>
+<Term>Dermatomycoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases, Infectious</ParentTerm>
+<ParentTerm>Mycoses</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Paracoccidioidomycosis</ChildTerm>
+<ChildTerm>Candidiasis, Chronic Mucocutaneous</ChildTerm>
+<ChildTerm>Mycetoma</ChildTerm>
+<ChildTerm>Sporotrichosis</ChildTerm>
+<ChildTerm>Chromoblastomycosis</ChildTerm>
+<ChildTerm>Tinea Versicolor</ChildTerm>
+<ChildTerm>Blastomycosis</ChildTerm>
+<ChildTerm>Candidiasis, Cutaneous</ChildTerm>
+<ChildTerm>Tinea</ChildTerm>
+<Synonym>Fungal Skin Diseases</Synonym>
+<Synonym>Dermatomycoses</Synonym>
+<Synonym>Dermatophytoses</Synonym>
+<Synonym>Dermatomycosis</Synonym>
+<Synonym>Fungal Skin Disease</Synonym>
+<Synonym>Dermatophytosis</Synonym>
+<Description>Superficial infections of the skin or its appendages by any of various fungi.</Description>
+<Source>MeSH</Source>
+</Record>

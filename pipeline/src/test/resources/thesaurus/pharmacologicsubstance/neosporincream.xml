@@ -1,0 +1,16 @@
+<Record>
+<Term>Neosporin Cream</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anti-infective Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Anti-infective Preparation/Neosporin Cream</ClassificationPath>
+<BroaderTerm>Neosporin Cream</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-infective Preparation</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Neosporin Cream</Synonym>
+<Description>A commercial combination preparation containing the aminoglycoside antibiotic neomycin sulfate and the polypeptide antibiotic polymyxin B sulfate, by Pfizer, in a cream with topical antibacterial activity. Polymyxin B sulfate, a polypeptide produced by Bacillus polymyxa, binds to negatively charged phospholipids in the cell membrane, thereby altering the permeability of the bacterial cytoplasmic membrane. Neomycin sulfate, an aminoglycoside antibiotic, irreversibly binds to the bacterial 30S ribosomal subunit, thereby preventing mRNA from binding to the 30S subunit, causes misreading and inhibits protein synthesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

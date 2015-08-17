@@ -1,0 +1,17 @@
+<Record>
+<Term>Thymidine Kinase-(-) Vaccinia-GM-CSF JX-594 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Thymidine Kinase-(-) Vaccinia-GM-CSF JX-594 Vaccine</ClassificationPath>
+<BroaderTerm>Thymidine Kinase-(-) Vaccinia-GM-CSF JX-594 Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Thymidine Kinase-(-) Vaccinia-GM-CSF JX-594 Vaccine</Synonym>
+<Description>A thymidine kinase-deleted vaccinia virus expressing human GM-CSF (hGM-CSF) with oncolytic activity. Upon intratumoral or intravenous administration, thymidine kinase-deleted vaccinia-hGM-CSF JX-594 may selectively infect and lyse tumor cells. While vaccinia displays a natural tumor cell tropism, deletion of the thymidine kinase gene increases the tumor selectivity of vaccinia by limiting viral replication to transformed cells. hGM-CSF expression by this agent may help recruit antigen processing cells (APCs), such as denritic cells and macrophages, to virally infected tumor cells, initiating a systemic antitumoral immune response.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

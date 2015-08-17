@@ -1,0 +1,26 @@
+<Record>
+<Term>Refractory Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Anemia</ParentTerm>
+<ParentTerm>Myelodysplastic Syndromes</ParentTerm>
+<ClassificationPath>Refractory Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Refractory</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Myelodysplastic Syndromes/Anemia, Refractory</ClassificationPath>
+<BroaderTerm>Refractory Anemia</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Refractory</BroaderTerm>
+<BroaderTerm>Myelodysplastic Syndromes</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Anemia, Refractory, with Excess of Blasts</ChildTerm>
+<Synonym>Refractory Anemia</Synonym>
+<Synonym>Refractory Anemias</Synonym>
+<Synonym>Aregenerative Anemia</Synonym>
+<Description>A severe sometimes chronic anemia, usually macrocytic in type, that does not respond to ordinary antianemic therapy.</Description>
+<Description>A myelodysplastic syndrome characterized mainly by dysplasia of the erythroid series.  Refractory anemia is uncommon.  It is primarily a disease of older adults.  The median survival exceeds 5 years.  (WHO, 2001)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

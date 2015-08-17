@@ -1,0 +1,29 @@
+<Record>
+<Term>Tetany</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neuromuscular Manifestations</ParentTerm>
+<ParentTerm>Hypocalcemia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neuromuscular Manifestations/Tetany</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neuromuscular Manifestations/Tetany</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Hypocalcemia/Tetany</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Neuromuscular Manifestations</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hypocalcemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Tetany</BroaderTerm>
+<Synonym>Spasmophilias</Synonym>
+<Synonym>Neonatal Tetany</Synonym>
+<Synonym>Tetanilla</Synonym>
+<Synonym>Tetanillas</Synonym>
+<Synonym>Neonatal Tetanies</Synonym>
+<Synonym>Spasmophilia</Synonym>
+<Synonym>Tetany</Synonym>
+<Synonym>Tetanies</Synonym>
+<Description>A disorder characterized by muscle twitches, cramps, and carpopedal spasm, and when severe, laryngospasm and seizures. This condition is associated with unstable depolarization of axonal membranes, primarily in the peripheral nervous system. Tetany usually results from HYPOCALCEMIA or reduced serum levels of MAGNESIUM that may be associated with HYPERVENTILATION; HYPOPARATHYROIDISM; RICKETS; UREMIA; or other conditions. (From Adams et al., Principles of Neurology, 6th ed, p1490)</Description>
+<Source>MeSH</Source>
+</Record>

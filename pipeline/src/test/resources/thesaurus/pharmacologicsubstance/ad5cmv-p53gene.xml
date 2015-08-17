@@ -1,0 +1,26 @@
+<Record>
+<Term>Ad5CMV-p53 Gene</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Ad5CMV-p53 Gene</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Ad5CMV-p53 Gene</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad-p53</Synonym>
+<Synonym>Ad5CMV p53 Gene</Synonym>
+<Synonym>Ad5CMV-p53 Gene</Synonym>
+<Synonym>Adeno-p53</Synonym>
+<Synonym>Adenovirus p53</Synonym>
+<Synonym>Advexin</Synonym>
+<Synonym>INGN-201</Synonym>
+<Synonym>RPR/INGN-201</Synonym>
+<Synonym>p53 Gene, Ad5CMV</Synonym>
+<Description>A replication-defective adenoviral-CMV vector that encodes a wild-type p53 gene. Ad5CMV-p53 induces tumor cells that have been transfected with the vector to produce wild-type p53, a tumor suppressor gene that is deleted or mutated in a significant number of cancers. In transfected tumor cells, the wild-type p-53 gene product exerts an antitumor effect by blocking cell cycle progression at the G1/S regulation point, activating DNA repair proteins in the presence of DNA damage, and initiating apoptosis when DNA damage is irreparable.  (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

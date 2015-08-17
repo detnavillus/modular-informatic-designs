@@ -1,0 +1,22 @@
+<Record>
+<Term>Neuromuscular Junction Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neuromuscular Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Neuromuscular Junction Diseases</ClassificationPath>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Junction Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Botulism</ChildTerm>
+<ChildTerm>Lambert-Eaton Myasthenic Syndrome</ChildTerm>
+<ChildTerm>Myasthenic Syndromes, Congenital</ChildTerm>
+<ChildTerm>Myasthenia Gravis</ChildTerm>
+<Synonym>Neuromuscular Junction Diseases</Synonym>
+<Synonym>Neuromuscular Junction Disease</Synonym>
+<Synonym>Neuromuscular Transmission Disorders</Synonym>
+<Synonym>Neuromuscular Transmission Disorder</Synonym>
+<Synonym>Neuromuscular Junction Disorders</Synonym>
+<Synonym>Neuromuscular Junction Disorder</Synonym>
+<Synonym>Neuromuscular Junction Toxic Disorders</Synonym>
+<Description>Conditions characterized by impaired transmission of impulses at the NEUROMUSCULAR JUNCTION. This may result from disorders that affect receptor function, pre- or postsynaptic membrane function, or ACETYLCHOLINESTERASE activity. The majority of diseases in this category are associated with autoimmune, toxic, or inherited conditions.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Carbinoxamine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Histamine-1 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Histamine-1 Receptor Antagonist/Carbinoxamine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Histamine-1 Receptor Antagonist/Carbinoxamine Maleate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Carbinoxamine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Carbinoxamine Maleate</BroaderTerm>
+<BroaderTerm>Histamine-1 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CARBINOXAMINE</Synonym>
+<Synonym>Carbinoxamine maleate</Synonym>
+<Synonym>2-(p-Chloro-alpha-(2-(dimethylamino)ethoxy)benzyl)pyridine Bimaleate</Synonym>
+<Synonym>Carbinoxamine</Synonym>
+<Synonym>CARBINOXAMINE MALEATE</Synonym>
+<Synonym>Carbinoxamine Maleate</Synonym>
+<Synonym>Clistin</Synonym>
+<Synonym>Ethanamine, 2-((4-chlorophenyl)-2-pyridinylmethoxy)-N,N-dimethyl-,(2Z)-2-butenedioate(1:1)</Synonym>
+<Synonym>Palgic</Synonym>
+<Description>An ethanolamine class of H1 antihistamines with mild antimuscarinic and sedative properties. Carbinoxamine diminishes the typical histaminergic effects on H1-receptors in bronchial smooth muscle, capillaries, and gastrointestinal smooth muscle, including vasodilation, bronchoconstriction, increased vascular permeability, pain, itching, and spasmodic contractions of gastrointestinal smooth muscle. Carbinoxamine maleate is used to provide symptomatic relieve of allergic symptoms.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Alcoholic Liver Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Liver Diseases, Alcoholic</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases, Alcoholic</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<ChildTerm>Liver Cirrhosis, Alcoholic</ChildTerm>
+<ChildTerm>Hepatitis, Alcoholic</ChildTerm>
+<ChildTerm>Fatty Liver, Alcoholic</ChildTerm>
+<Synonym>Alcoholic Liver Diseases</Synonym>
+<Synonym>Alcoholic Liver Disease</Synonym>
+<Description>Liver diseases associated with ALCOHOLISM. It usually refers to the coexistence of two or more subentities, i.e., ALCOHOLIC FATTY LIVER; ALCOHOLIC HEPATITIS; and ALCOHOLIC CIRRHOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

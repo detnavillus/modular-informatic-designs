@@ -1,0 +1,14 @@
+<Record>
+<Term></Term>
+<SemanticType>Conceptual Entity</SemanticType>
+<ParentTerm>Neurodegenerative Disorders Pathway</ParentTerm>
+<ClassificationPath>Pathway_Kind/Biochemical Pathway/Disease Pathway/Neurodegenerative Disorders Pathway/Parkinson's Disease Pathway</ClassificationPath>
+<BroaderTerm>Neurodegenerative Disorders Pathway</BroaderTerm>
+<BroaderTerm>Disease Pathway</BroaderTerm>
+<BroaderTerm>Parkinson's Disease Pathway</BroaderTerm>
+<BroaderTerm>Biochemical Pathway</BroaderTerm>
+<BroaderTerm>Pathway_Kind</BroaderTerm>
+<Synonym>Parkinson's Disease Pathway</Synonym>
+<Synonym>Parkinson's Disease</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

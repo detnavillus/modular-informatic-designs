@@ -1,0 +1,32 @@
+<Record>
+<Term>Hemolytic-Uremic Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Hemolytic</ParentTerm>
+<ParentTerm>Uremia</ParentTerm>
+<ParentTerm>Thrombotic Microangiopathies</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Hemolytic-Uremic Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombotic Microangiopathies/Hemolytic-Uremic Syndrome</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Uremia/Hemolytic-Uremic Syndrome</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Uremia/Hemolytic-Uremic Syndrome</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Thrombotic Microangiopathies</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Hemolytic-Uremic Syndrome</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Uremia</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Gasser's Syndrome</Synonym>
+<Synonym>Hemolytic-Uremic Syndrome</Synonym>
+<Synonym>Gassers Syndrome</Synonym>
+<Synonym>Gasser Syndrome</Synonym>
+<Synonym>Hemolytic Uremic Syndrome</Synonym>
+<Description>A syndrome that is associated with microvascular diseases of the KIDNEY, such as RENAL CORTICAL NECROSIS. It is characterized by hemolytic anemia (ANEMIA, HEMOLYTIC); THROMBOCYTOPENIA; and ACUTE RENAL FAILURE.</Description>
+<Source>MeSH</Source>
+</Record>

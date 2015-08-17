@@ -1,0 +1,15 @@
+<Record>
+<Term>Scarlet Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Streptococcal Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Streptococcal Infections/Scarlet Fever</ClassificationPath>
+<BroaderTerm>Scarlet Fever</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Streptococcal Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Scarlet Fever</Synonym>
+<Synonym>Scarlet Fevers</Synonym>
+<Description>Infection with group A streptococci that is characterized by tonsillitis and pharyngitis. An erythematous rash is commonly present.</Description>
+<Source>MeSH</Source>
+</Record>

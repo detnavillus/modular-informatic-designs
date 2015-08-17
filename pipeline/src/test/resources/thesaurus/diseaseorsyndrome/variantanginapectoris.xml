@@ -1,0 +1,38 @@
+<Record>
+<Term>Variant Angina Pectoris</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Angina</ParentTerm>
+<ParentTerm>Angina, Unstable</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Angina Pectoris/Angina, Unstable/Angina Pectoris, Variant</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Pain/Angina/Variant Angina</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Pain/Chest Pain/Angina Pectoris/Angina, Unstable/Angina Pectoris, Variant</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Angina Pectoris/Angina, Unstable/Angina Pectoris, Variant</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Angina, Unstable</BroaderTerm>
+<BroaderTerm>Angina</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Angina Pectoris, Variant</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Pain</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Chest Pain</BroaderTerm>
+<BroaderTerm>Variant Angina</BroaderTerm>
+<BroaderTerm>Angina Pectoris</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<Synonym>Variant Angina</Synonym>
+<Synonym>Prinzmetal Angina</Synonym>
+<Synonym>Variant Angina Pectoris</Synonym>
+<Synonym>Prinzmetals Angina</Synonym>
+<Synonym>Prinzmetal's Angina</Synonym>
+<Description>A clinical syndrome characterized by the development of CHEST PAIN at rest with concomitant transient ST segment elevation in the ELECTROCARDIOGRAM, but with preserved exercise capacity.</Description>
+<Description>A variant form of angina pectoris caused by coronary artery vasospasm, usually occurring spontaneously and frequently associated with ST segment elevation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

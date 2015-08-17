@@ -1,0 +1,28 @@
+<Record>
+<Term>CNS Demyelinating Autoimmune Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases of the Nervous System</ParentTerm>
+<ParentTerm>Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS</ClassificationPath>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Diffuse Cerebral Sclerosis of Schilder</ChildTerm>
+<ChildTerm>Leukoencephalitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Encephalomyelitis, Acute Disseminated</ChildTerm>
+<ChildTerm>Encephalomyelitis, Autoimmune, Experimental</ChildTerm>
+<ChildTerm>Neuromyelitis Optica</ChildTerm>
+<ChildTerm>Multiple Sclerosis</ChildTerm>
+<ChildTerm>Myelitis, Transverse</ChildTerm>
+<Synonym>Spinal Cord Demyelinating Autoimmune Diseases</Synonym>
+<Synonym>CNS Demyelinating Autoimmune Diseases</Synonym>
+<Synonym>Brain Autoimmune Demyelinating Diseases</Synonym>
+<Synonym>CNS Autoimmune Demyelinating Disorders</Synonym>
+<Description>Conditions characterized by loss or dysfunction of myelin (see MYELIN SHEATH) in the brain, spinal cord, or optic nerves secondary to autoimmune mediated processes. This may take the form of a humoral or cellular immune response directed toward myelin or OLIGODENDROGLIA associated autoantigens.</Description>
+<Source>MeSH</Source>
+</Record>

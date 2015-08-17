@@ -1,0 +1,17 @@
+<Record>
+<Term>MET Tyrosine Kinase Inhibitor PF-02341066</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/MET Tyrosine Kinase Inhibitor PF-02341066</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>MET Tyrosine Kinase Inhibitor PF-02341066</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>MET Tyrosine Kinase Inhibitor PF-02341066</Synonym>
+<Synonym>PF-02341066</Synonym>
+<Description>An orally bioavailable agent belonging to the class of c-met/hepatocyte growth factor receptor (HGFR) tyrosine kinase inhibitors with potential antineoplastic activity. MET tyrosine kinase inhibitor PF-02341066 inhibits the membrane receptor MET and activation of the MET signaling pathway, which may block tumor cell growth, migration and invasion, and tumor angiogenesis in susceptible tumor cell populations.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

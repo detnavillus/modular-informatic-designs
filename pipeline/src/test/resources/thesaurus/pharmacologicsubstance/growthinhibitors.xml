@@ -1,0 +1,17 @@
+<Record>
+<Term>Growth Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Growth Substances</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Growth Substances/Growth Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Growth Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Growth Substances</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Angiogenesis Inhibitors</ChildTerm>
+<Synonym>Growth Inhibitors</Synonym>
+<Synonym>Cell Growth Inhibitors</Synonym>
+<Description>Endogenous or exogenous substances which inhibit the normal growth of human and animal cells or micro-organisms, as distinguished from those affecting plant growth (= PLANT GROWTH REGULATORS).</Description>
+<Source>MeSH</Source>
+</Record>

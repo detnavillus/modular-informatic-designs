@@ -1,0 +1,21 @@
+<Record>
+<Term>GABA Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>GABA Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/GABA Agents/GABA Antagonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/GABA Agents/GABA Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>GABA Antagonists</BroaderTerm>
+<BroaderTerm>GABA Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>gamma-Aminobutyric Acid Antagonists</Synonym>
+<Synonym>GABA Antagonist</Synonym>
+<Synonym>gamma Aminobutyric Acid Antagonists</Synonym>
+<Synonym>GABA Receptor Antagonists</Synonym>
+<Synonym>GABA Antagonists</Synonym>
+<Description>Drugs that bind to but do not activate GAMMA-AMINOBUTYRIC ACID receptors, thereby blocking the actions of endogenous GAMMA-AMINOBUTYRIC ACID or GAMMA-AMINOBUTYRIC ACID agonists.</Description>
+<Source>MeSH</Source>
+</Record>

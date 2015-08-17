@@ -1,0 +1,32 @@
+<Record>
+<Term>Glycogen Storage Disease Type I</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type I</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type I</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type I</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>von Gierke's Disease</Synonym>
+<Synonym>von Gierkes Disease</Synonym>
+<Synonym>Glycogenosis 1</Synonym>
+<Synonym>Gierke's Disease</Synonym>
+<Synonym>Glucose-6-Phosphatase Deficiencies</Synonym>
+<Synonym>Glycogen Storage Disease Type I</Synonym>
+<Synonym>Glucose-6-Phosphatase Deficiency</Synonym>
+<Synonym>Glucose 6 Phosphatase Deficiency</Synonym>
+<Synonym>Gierkes Disease</Synonym>
+<Synonym>Glycogen storage disease 1 (GSD I)</Synonym>
+<Synonym>Glucosephosphatase Deficiencies</Synonym>
+<Synonym>Hepatorenal Glycogen Storage Disease</Synonym>
+<Synonym>von Gierke Disease</Synonym>
+<Synonym>Glucosephosphatase Deficiency</Synonym>
+<Synonym>Gierke Disease</Synonym>
+<Description>An autosomal recessive disease in which gene expression of glucose-6-phosphatase is absent, resulting in hypoglycemia due to lack of glucose production. Accumulation of glycogen in liver and kidney leads to organomegaly, particularly massive hepatomegaly. Increased concentrations of lactic acid and hyperlipidemia appear in the plasma. Clinical gout often appears in early childhood.</Description>
+<Source>MeSH</Source>
+</Record>

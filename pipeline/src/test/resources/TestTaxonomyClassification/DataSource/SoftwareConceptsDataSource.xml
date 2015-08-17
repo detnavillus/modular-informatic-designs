@@ -1,0 +1,2 @@
+<DataSource name="SoftwareConceptsDataSource" class="com.modinfodesigns.pipeline.source.RaritanTreeSource"
+            XMLFilePath="C:/Projects/Prometheus/Taxonomies/SoftwareConcepts.xml" />

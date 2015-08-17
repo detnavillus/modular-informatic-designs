@@ -1,0 +1,20 @@
+<Record>
+<Term>Recombinant Vaccinia-MUC1-B7 Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>MUC1 Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Peptide Vaccine/MUC1 Peptide Vaccine/Recombinant Vaccinia-MUC1-B7 Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>MUC1 Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-MUC1-B7 Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>MUC1-B7-Vaccinia Vaccine</Synonym>
+<Synonym>Recombinant Vaccinia-MUC1-B7 Vaccine</Synonym>
+<Synonym>Recombinant Vaccinia-MUC1-B7.1</Synonym>
+<Synonym>rV-MUC1-B7.1</Synonym>
+<Description>An admixture of recombinant vaccinia virus encoding MUC-1 and recombinant vaccinia virus encoding the murine T-cell co-stimulatory molecule B7.1.  MUC-1 is a glycosylated mucin that is overexpressed in breast, lung, pancreatic, prostate, stomach, colon, and ovarian carcinomas.  Vaccination with MUC-1 in combination with B7.1 may enhance the cytotoxic T cell (CTL) immune response to tumors expressing MUC-1, compared to vaccination with MUC-1 alone. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

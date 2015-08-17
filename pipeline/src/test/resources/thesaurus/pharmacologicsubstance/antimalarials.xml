@@ -1,0 +1,70 @@
+<Record>
+<Term>Antimalarials</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Antiprotozoal Agents</ParentTerm>
+<ParentTerm>Antiprotozoal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Antimalarial Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Antiprotozoal Agents/Antimalarials</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agent</BroaderTerm>
+<BroaderTerm>Antimalarial Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antimalarials</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Quinine Sulfate</ChildTerm>
+<ChildTerm>Quinine Glycerophosphate</ChildTerm>
+<ChildTerm>Pyrimethamine</ChildTerm>
+<ChildTerm>Sulfadoxine</ChildTerm>
+<ChildTerm>Quinine</ChildTerm>
+<ChildTerm>Mefloquine</ChildTerm>
+<ChildTerm>Halofantrine Hydrochloride</ChildTerm>
+<ChildTerm>Hydroxychloroquine</ChildTerm>
+<ChildTerm>Parvaquone</ChildTerm>
+<ChildTerm>Tiliquinol</ChildTerm>
+<ChildTerm>Amodiaquine Hydrochloride</ChildTerm>
+<ChildTerm>Artemether</ChildTerm>
+<ChildTerm>Pamaquine Naphthoate</ChildTerm>
+<ChildTerm>Primaquine</ChildTerm>
+<ChildTerm>Chloroquine Hydrochloride</ChildTerm>
+<ChildTerm>Amopyroquine</ChildTerm>
+<ChildTerm>Quinocide</ChildTerm>
+<ChildTerm>Primaquine Phosphate</ChildTerm>
+<ChildTerm>Quinidine Sulfate</ChildTerm>
+<ChildTerm>Tafenoquine</ChildTerm>
+<ChildTerm>Halofantrine</ChildTerm>
+<ChildTerm>Artemotil</ChildTerm>
+<ChildTerm>Pamaquine</ChildTerm>
+<ChildTerm>Chloroquine</ChildTerm>
+<ChildTerm>Pyrimethamine-Sulfadoxine</ChildTerm>
+<ChildTerm>Mefloquine Hydrochloride</ChildTerm>
+<ChildTerm>Floxacrine</ChildTerm>
+<ChildTerm>12-Allyldeoxoartemisinin</ChildTerm>
+<ChildTerm>Artemisinin Dimer</ChildTerm>
+<ChildTerm>Amodiaquine</ChildTerm>
+<ChildTerm>Chloroquine Phosphate</ChildTerm>
+<ChildTerm>Proguanil</ChildTerm>
+<ChildTerm>Quinidine Gluconate</ChildTerm>
+<ChildTerm>Hydroxychloroquine Sulfate</ChildTerm>
+<ChildTerm>Quinidine</ChildTerm>
+<ChildTerm>Artesunate</ChildTerm>
+<ChildTerm>Proguanil Hydrochloride</ChildTerm>
+<Synonym>Anti-Malarials</Synonym>
+<Synonym>Antimalarial Drugs</Synonym>
+<Synonym>Anti Malarials</Synonym>
+<Synonym>Antimalarials</Synonym>
+<Synonym>Antimalarial Agents</Synonym>
+<Synonym>Antimalarial Agent</Synonym>
+<Description>Agents used to treat malaria, and are usually classified based on action against plasmodia at different stages in their life cycle in the human.</Description>
+<Description>Agents used in the treatment of malaria. They are usually classified on the basis of their action against plasmodia at different stages in their life cycle in the human. (From AMA, Drug Evaluations Annual, 1992, p1585)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

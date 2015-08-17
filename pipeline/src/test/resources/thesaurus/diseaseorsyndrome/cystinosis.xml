@@ -1,0 +1,32 @@
+<Record>
+<Term>Cystinosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Renal Disorder</ParentTerm>
+<ParentTerm>Lysosomal Storage Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cystinosis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Cystinosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Cystinosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Cystinosis</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Cystinosis,</BroaderTerm>
+<BroaderTerm>Cystinosis</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<Synonym>Cystinosis</Synonym>
+<Synonym>Cystinoses</Synonym>
+<Description>A metabolic disease characterized by the defective transport of CYSTINE across the lysosomal membrane due to mutation of a membrane protein cystinosin. This results in cystine accumulation and crystallization in the cells causing widespread tissue damage. In the KIDNEY, nephropathic cystinosis is a common cause of RENAL FANCONI SYNDROME.</Description>
+<Description>An autosomal recessive hereditary disorder characterized by defective transportation of cystine across the lysosomal membranes and systemic deposition of cystine crystals in the body.  It is associated with slight increase of the plasma cystine, cystinuria, aminoaciduria, glycosuria, polyuria, hypophosphatemia, rickets, and renal tubular dysfunction. --2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

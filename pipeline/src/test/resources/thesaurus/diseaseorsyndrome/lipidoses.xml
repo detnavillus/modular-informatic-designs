@@ -1,0 +1,26 @@
+<Record>
+<Term>Lipidoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipid Metabolism Disorders</ParentTerm>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<ChildTerm>Sjogren-Larsson Syndrome</ChildTerm>
+<ChildTerm>Neuronal Ceroid-Lipofuscinoses</ChildTerm>
+<ChildTerm>Sphingolipidoses</ChildTerm>
+<ChildTerm>Cholesterol Ester Storage Disease</ChildTerm>
+<Synonym>Lipidosis</Synonym>
+<Synonym>Lipoidosis</Synonym>
+<Synonym>Lipidoses</Synonym>
+<Description>Conditions characterized by abnormal lipid deposition due to disturbance in lipid metabolism, such as hereditary diseases involving lysosomal enzymes required for lipid breakdown. They are classified either by the enzyme defect or by the type of lipid involved.</Description>
+<Source>MeSH</Source>
+</Record>

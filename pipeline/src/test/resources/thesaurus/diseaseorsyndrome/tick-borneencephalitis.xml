@@ -1,0 +1,45 @@
+<Record>
+<Term>Tick-Borne Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Arbovirus</ParentTerm>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Encephalitis, Arbovirus/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Encephalitis, Tick-Borne</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Tick-Borne Diseases/Encephalitis, Tick-Borne</ClassificationPath>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Tick-Borne</BroaderTerm>
+<BroaderTerm>Encephalitis, Arbovirus</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<Synonym>Louping Ill Encephalitis</Synonym>
+<Synonym>Tick Borne Encephalitis</Synonym>
+<Synonym>Tick-Borne Encephalitides</Synonym>
+<Synonym>European Tick Borne Encephalitis</Synonym>
+<Synonym>Tick-Borne Encephalitis</Synonym>
+<Synonym>Central European Encephalitis</Synonym>
+<Synonym>Russian Spring-Summer Encephalitis</Synonym>
+<Synonym>Powassan Encephalitis</Synonym>
+<Synonym>European Tick-Borne Encephalitides</Synonym>
+<Synonym>Powassan Encephalitides</Synonym>
+<Synonym>Louping Ill Encephalitides</Synonym>
+<Synonym>Russian Spring Summer Encephalitis</Synonym>
+<Synonym>European Tick-Borne Encephalitis</Synonym>
+<Synonym>Far Eastern Russian Encephalitis</Synonym>
+<Description>Encephalitis caused by neurotropic viruses that are transmitted via the bite of TICKS. In Europe, the diseases are caused by ENCEPHALITIS VIRUSES, TICK-BORNE, which give rise to Russian spring-summer encephalitis, central European encephalitis, louping ill encephalitis, and related disorders. Powassan encephalitis occurs in North America and Russia and is caused by the Powassan virus. ASEPTIC MENINGITIS and rarely encephalitis may complicate COLORADO TICK FEVER which is endemic to mountainous regions of the western United States. (From Joynt, Clinical Neurology, 1996, Ch26, pp14-5)</Description>
+<Source>MeSH</Source>
+</Record>

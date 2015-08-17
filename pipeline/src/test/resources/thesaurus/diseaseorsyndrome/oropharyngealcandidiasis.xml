@@ -1,0 +1,19 @@
+<Record>
+<Term>Oropharyngeal Candidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Candidiasis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Candidiasis/Oropharyngeal Candidiasis</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Oropharyngeal Candidiasis</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Candidiasis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AIDS-Related Oropharyngeal Candidiasis</ChildTerm>
+<Synonym>Oropharyngeal Candidiasis</Synonym>
+<Description>Infection of the oropharynx with, or disease caused by, Candida, especially C. albicans. This disease usually results from debilitation (as in immunosuppression and especially AIDS), physiologic change, prolonged administration of antibiotics, and iatrogenic and barrier breakage. SYN candidosis, moniliasis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

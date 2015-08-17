@@ -1,0 +1,24 @@
+<Record>
+<Term>Angle-Closure Glaucoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glaucoma</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Hypertension/Glaucoma/Glaucoma, Angle-Closure</ClassificationPath>
+<BroaderTerm>Glaucoma, Angle-Closure</BroaderTerm>
+<BroaderTerm>Glaucoma</BroaderTerm>
+<BroaderTerm>Ocular Hypertension</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Angle-Closure Glaucoma</Synonym>
+<Synonym>Angle-Closure Glaucomas</Synonym>
+<Synonym>Uncompensated Glaucoma</Synonym>
+<Synonym>Uncompensated Glaucomas</Synonym>
+<Synonym>Closed-Angle Glaucoma</Synonym>
+<Synonym>Closed-Angle Glaucomas</Synonym>
+<Synonym>Uncompensative Glaucoma</Synonym>
+<Synonym>Uncompensative Glaucomas</Synonym>
+<Synonym>Angle Closure Glaucoma</Synonym>
+<Synonym>Angle Closure Glaucomas</Synonym>
+<Synonym>Narrow-Angle Glaucoma</Synonym>
+<Synonym>Narrow-Angle Glaucomas</Synonym>
+<Description>A form of glaucoma in which the intraocular pressure increases because the angle of the anterior chamber is blocked and the aqueous humor cannot drain from the anterior chamber.</Description>
+<Source>MeSH</Source>
+</Record>

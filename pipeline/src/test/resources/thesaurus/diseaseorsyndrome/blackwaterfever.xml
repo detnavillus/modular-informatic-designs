@@ -1,0 +1,30 @@
+<Record>
+<Term>Blackwater Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malaria, Falciparum</ParentTerm>
+<ParentTerm>Malaria</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Malaria/Blackwater Fever</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria/Malaria, Falciparum/Blackwater Fever</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Malaria, Falciparum</BroaderTerm>
+<BroaderTerm>Blackwater Fever</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Malaria</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Blackwater Fever</Synonym>
+<Synonym>Blackwater Fevers</Synonym>
+<Synonym>Hemolytic Malarias</Synonym>
+<Synonym>Hemolytic Malaria</Synonym>
+<Synonym>Malarial Hemoglobinuria</Synonym>
+<Synonym>Black Water Fevers</Synonym>
+<Synonym>Black Water Fever</Synonym>
+<Description>A complication of MALARIA, FALCIPARUM characterized by the passage of dark red to black urine.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

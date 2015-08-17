@@ -1,0 +1,43 @@
+<Record>
+<Term>Transverse Myelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Demyelinating Autoimmune Diseases, CNS</ParentTerm>
+<ParentTerm>Paraneoplastic Syndromes, Nervous System</ParentTerm>
+<ParentTerm>Myelitis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Myelitis/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Paraneoplastic Syndromes, Nervous System/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Paraneoplastic Syndromes, Nervous System/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Myelitis, Transverse</ClassificationPath>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Syndromes, Nervous System/Myelitis, Transverse</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Myelitis</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes, Nervous System</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Myelitis, Transverse</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Neuromyelitis Optica</ChildTerm>
+<Synonym>Paraneoplastic Myelitis</Synonym>
+<Synonym>Transverse Myelitis</Synonym>
+<Synonym>Postinfectious Myelitis</Synonym>
+<Synonym>Transverse Myelopathy Syndromes</Synonym>
+<Synonym>Subacute Transverse Myelitis</Synonym>
+<Synonym>Postvaccinal Myelitis</Synonym>
+<Synonym>Acute Transverse Myelitis</Synonym>
+<Synonym>Necrotizing Myelitis</Synonym>
+<Synonym>Demyelinative Myelitis</Synonym>
+<Synonym>Transverse Myelopathy Syndrome</Synonym>
+<Description>Inflammation of a transverse portion of the spinal cord characterized by acute or subacute segmental demyelination or necrosis. The condition may occur sporadically, follow an infection or vaccination, or present as a paraneoplastic syndrome (see also ENCEPHALOMYELITIS, ACUTE DISSEMINATED). Clinical manifestations include motor weakness, sensory loss, and incontinence. (Adams et al., Principles of Neurology, 6th ed, pp1242-6)</Description>
+<Source>MeSH</Source>
+</Record>

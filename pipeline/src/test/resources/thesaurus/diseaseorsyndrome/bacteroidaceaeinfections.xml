@@ -1,0 +1,15 @@
+<Record>
+<Term>Bacteroidaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bacteroidaceae Infections</ClassificationPath>
+<BroaderTerm>Bacteroidaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Bacteroides Infections</ChildTerm>
+<Synonym>Bacteroidaceae Infections</Synonym>
+<Synonym>Bacteroidaceae Infection</Synonym>
+<Description>Infections with bacteria of the family BACTEROIDACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

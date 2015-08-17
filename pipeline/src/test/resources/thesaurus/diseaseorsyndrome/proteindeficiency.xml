@@ -1,0 +1,16 @@
+<Record>
+<Term>Protein Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Deficiency Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Protein Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Protein Deficiency</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Protein-Energy Malnutrition</ChildTerm>
+<Synonym>Protein Deficiency</Synonym>
+<Synonym>Protein Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of proteins in the diet, characterized by adaptive enzyme changes in the liver, increase in amino acid synthetases, and diminution of urea formation, thus conserving nitrogen and reducing its loss in the urine. Growth, immune response, repair, and production of enzymes and hormones are all impaired in severe protein deficiency. Protein deficiency may also arise in the face of adequate protein intake if the protein is of poor quality (i.e., the content of one or more amino acids is inadequate and thus becomes the limiting factor in protein utilization). (From Merck Manual, 16th ed; Harrison's Principles of Internal Medicine, 12th ed, p406)</Description>
+<Source>MeSH</Source>
+</Record>

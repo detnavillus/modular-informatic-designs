@@ -1,0 +1,22 @@
+<Record>
+<Term>Viral Eye Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Eye Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Cytomegalovirus Retinitis</ChildTerm>
+<ChildTerm>Herpes Zoster Ophthalmicus</ChildTerm>
+<ChildTerm>Keratitis, Herpetic</ChildTerm>
+<ChildTerm>Conjunctivitis, Viral</ChildTerm>
+<Synonym>Viral Eye Infections</Synonym>
+<Synonym>Viral Ocular Infection</Synonym>
+<Synonym>Viral Eye Infection</Synonym>
+<Synonym>Viral Ocular Infections</Synonym>
+<Description>Infections of the eye caused by minute intracellular agents. These infections may lead to severe inflammation in various parts of the eye - conjunctiva, iris, eyelids, etc. Several viruses have been identified as the causative agents. Among these are Herpesvirus, Adenovirus, Poxvirus, and Myxovirus.</Description>
+<Source>MeSH</Source>
+</Record>

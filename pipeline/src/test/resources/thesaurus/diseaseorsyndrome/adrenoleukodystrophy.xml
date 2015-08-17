@@ -1,0 +1,65 @@
+<Record>
+<Term>Adrenoleukodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Insufficiency</ParentTerm>
+<ParentTerm>Peroxisomal Disorders</ParentTerm>
+<ParentTerm>Mental Retardation, X-Linked</ParentTerm>
+<ParentTerm>Leukodystrophy</ParentTerm>
+<ParentTerm>Hereditary Central Nervous System Demyelinating Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Mental Retardation/Mental Retardation, X-Linked/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Hereditary Central Nervous System Demyelinating Diseases/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Leukodystrophy/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Insufficiency/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Mental Retardation, X-Linked/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Mental Retardation, X-Linked/Adrenoleukodystrophy</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Peroxisomal Disorders/Adrenoleukodystrophy</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Peroxisomal Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Leukodystrophy</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Mental Retardation, X-Linked</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Adrenoleukodystrophy</BroaderTerm>
+<BroaderTerm>Hereditary Central Nervous System Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Mental Retardation</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<Synonym>Schilder-Addison Complex</Synonym>
+<Synonym>X Linked Adrenoleukodystrophy</Synonym>
+<Synonym>X-Linked Adrenoleukodystrophy</Synonym>
+<Synonym>Adrenoleukodystrophies</Synonym>
+<Synonym>Adrenomyeloneuropathies</Synonym>
+<Synonym>ALDs (Adrenoleukodystrophy)</Synonym>
+<Synonym>Schilder Addison Complex</Synonym>
+<Synonym>Adrenoleukodystrophy</Synonym>
+<Synonym>ALD (Adrenoleukodystrophy)</Synonym>
+<Synonym>X-Linked Adrenoleukodystrophies</Synonym>
+<Synonym>Adrenomyeloneuropathy</Synonym>
+<Description>An X-linked recessive disorder characterized by the accumulation of saturated very long chain fatty acids in the LYSOSOMES of ADRENAL CORTEX and the white matter of CENTRAL NERVOUS SYSTEM. This disease occurs almost exclusively in the males. Clinical features include the childhood onset of ATAXIA; NEUROBEHAVIORAL MANIFESTATIONS; HYPERPIGMENTATION; ADRENAL INSUFFICIENCY; SEIZURES; MUSCLE SPASTICITY; and DEMENTIA. The slowly progressive adult form is called adrenomyeloneuropathy. The defective gene ABCD1 is located at Xq28, and encodes the adrenoleukodystrophy protein (ATP-BINDING CASSETTE TRANSPORTERS).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

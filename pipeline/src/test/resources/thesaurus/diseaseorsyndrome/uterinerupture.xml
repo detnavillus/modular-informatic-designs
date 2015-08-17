@@ -1,0 +1,25 @@
+<Record>
+<Term>Uterine Rupture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Obstetric Labor Complications</ParentTerm>
+<ParentTerm>Rupture</ParentTerm>
+<ParentTerm>Uterine Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Rupture/Uterine Rupture</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications/Uterine Rupture</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases/Uterine Rupture</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Uterine Rupture</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Rupture</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Uterine Perforation</ChildTerm>
+<Synonym>Uterine Rupture</Synonym>
+<Synonym>Uterine Ruptures</Synonym>
+<Description>A complete separation or tear in the wall of the UTERUS with or without expulsion of the FETUS. It may be due to injuries, multiple pregnancies, large fetus, previous scarring, or obstruction.</Description>
+<Source>MeSH</Source>
+</Record>

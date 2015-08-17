@@ -1,0 +1,17 @@
+<Record>
+<Term>Ionophores</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Specialty Uses of Chemicals</ParentTerm>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Ionophores</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Ionophores</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Ionophores</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Ionophores</Synonym>
+<Description>Chemical agents that increase the permeability of biological or artificial lipid membranes to specific ions. Most ionophores are relatively small organic molecules that act as mobile carriers within membranes or coalesce to form ion permeable channels across membranes. Many are antibiotics, and many act as uncoupling agents by short-circuiting the proton gradient across mitochondrial membranes.</Description>
+<Source>MeSH</Source>
+</Record>

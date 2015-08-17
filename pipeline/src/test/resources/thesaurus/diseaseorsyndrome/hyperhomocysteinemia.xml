@@ -1,0 +1,30 @@
+<Record>
+<Term>Hyperhomocysteinemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ParentTerm>Amino Acid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Hyperhomocysteinemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Hyperhomocysteinemia</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amino Acid Metabolism, Inborn Errors/Hyperhomocysteinemia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Hyperhomocysteinemia</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Amino Acid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Hyperhomocysteinemia</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Homocystinuria</ChildTerm>
+<Synonym>Hyperhomocysteinemia</Synonym>
+<Synonym>Hyperhomocysteinemias</Synonym>
+<Description>Condition in which the plasma levels of homocysteine and related metabolites are elevated (>13.9 ?mol/l). Hyperhomocysteinemia can be familial or acquired. Development of the acquired hyperhomocysteinemia is mostly associated with vitamins B and/or folate deficiency (e.g., PERNICIOUS ANEMIA, vitamin malabsorption). Familial hyperhomocysteinemia often results in a more severe elevation of total homocysteine and excretion into the urine, resulting in HOMOCYSTINURIA. Hyperhomocysteinemia is a risk factor for cardiovascular and neurodegenerative diseases, osteoporotic fractures and complications during pregnancy.</Description>
+<Description>Condition in which the plasma levels of homocysteine and related metabolites are elevated (>13.9 ?mol/l). Hyperhomocysteinemia can be familial or acquired. Development of the acquired hyperhomocysteinemia is mostly associated with vitamins B and/or folate deficiency (e.g., PERNICIOUS ANEMIA, vitamin malabsorption). Familial hyperhomocysteinemia often results in a more severe elevation of total homocysteine and excretion into the urine, resulting in HOMOCYSTINURIA. Hyperhomocysteinemia is a risk factor for cardiovascular and neurodegenerative diseases, osteoporotic fractures and complications during pregnancy.</Description>
+<Source>MeSH</Source>
+</Record>

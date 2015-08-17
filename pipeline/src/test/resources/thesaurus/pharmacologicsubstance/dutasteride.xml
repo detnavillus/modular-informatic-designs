@@ -1,0 +1,22 @@
+<Record>
+<Term>Dutasteride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Anti-Androgen/Dutasteride</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Dutasteride</BroaderTerm>
+<BroaderTerm>Anti-Androgen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>alpha,alpha,alpha,alpha',alpha',alpha'-Hexafluoro-3-oxo-4-aza-5alpha-androst-1-ene-17beta-carboxy-2',5'-xylidide</Synonym>
+<Synonym>Avodart</Synonym>
+<Synonym>Avolve,(5alpha,17beta)-N-(2,5-Bis(trifluoromethyl)phenyl)-3-oxo-4-azaandrost-1-ene-17-carboxamide</Synonym>
+<Synonym>Dutasteride</Synonym>
+<Synonym>GG 745</Synonym>
+<Synonym>DUTASTERIDE</Synonym>
+<Description>A synthetic 4-azasteroid compound. Dutasteride competitively and specifically binds to isoenzymes 1 and 2 of 5 alpha-reductase, forming stable enzyme complexes and inhibiting the conversion of testosterone to 5 alpha-dihydrotestosterone (DHT); the reduction in DHT activity may mitigate or prevent enlargement of the prostate gland. The type 2 5 alpha-reductase isoenzyme is primarily active in the reproductive tissues, while the type 1 isoenzyme is also active in skin and the liver.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

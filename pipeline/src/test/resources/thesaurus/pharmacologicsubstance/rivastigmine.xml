@@ -1,0 +1,27 @@
+<Record>
+<Term>Rivastigmine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Acetylcholinesterase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Acetylcholinesterase Inhibitor/Rivastigmine</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Acetylcholinesterase Inhibitor/Rivastigmine Tartrate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Acetylcholinesterase Inhibitor</BroaderTerm>
+<BroaderTerm>Rivastigmine Tartrate</BroaderTerm>
+<BroaderTerm>Rivastigmine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Exelon Patch</Synonym>
+<Synonym>RIVASTIGMINE</Synonym>
+<Synonym>Carbamic Acid, Ethylmethyl-, 3-((1S)-1-(dimethylamino)ethyl)phenyl Ester,(2R,3R)-2,3-dihydroxybutanedioate(1:1)</Synonym>
+<Synonym>Rivastigmine Tartrate</Synonym>
+<Synonym>Exelon</Synonym>
+<Synonym>Rivastigmine tartrate</Synonym>
+<Synonym>RIVASTIGMINE TARTRATE</Synonym>
+<Synonym>Rivastigmine</Synonym>
+<Synonym>SDZ-ENA 713</Synonym>
+<Description>The tartrate salt form of rivastigmine, a phenylcarbamate derivative exhibiting cognitive stimulating property. Although the mechanism of action has not been fully elucidated, rivastigmine tartrate may bind reversibly to cholinesterase, thereby decreasing the breakdown of acetylcholine and enhancing cholinergic function.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

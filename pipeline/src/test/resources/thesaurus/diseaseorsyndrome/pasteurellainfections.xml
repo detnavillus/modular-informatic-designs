@@ -1,0 +1,18 @@
+<Record>
+<Term>Pasteurella Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pasteurellaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Pasteurella Infections</ClassificationPath>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Pasteurella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Hemorrhagic Septicemia</ChildTerm>
+<Synonym>Pasteurella Infections</Synonym>
+<Synonym>Pasteurellosis</Synonym>
+<Synonym>Pasteurelloses</Synonym>
+<Synonym>Pasteurella Infection</Synonym>
+<Description>Infections with bacteria of the genus PASTEURELLA.</Description>
+<Source>MeSH</Source>
+</Record>

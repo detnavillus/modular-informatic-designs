@@ -1,0 +1,31 @@
+<Record>
+<Term>Rizatriptan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Serotonin Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Rizatriptan</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Rizatriptan Benzoate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Serotonin Agonist/Rizatriptan Sulfate</ClassificationPath>
+<BroaderTerm>Rizatriptan Sulfate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Serotonin Agonist</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Rizatriptan</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Rizatriptan Benzoate</BroaderTerm>
+<Synonym>RIZATRIPTAN</Synonym>
+<Synonym>Rizatriptan Sulfate</Synonym>
+<Synonym>1H-Indole-3-ethanamine, N,N-dimethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-, Monobenzoate</Synonym>
+<Synonym>RIZATRIPTAN BENZOATE</Synonym>
+<Synonym>Rizatriptan</Synonym>
+<Synonym>L 705,126</Synonym>
+<Synonym>Maxalt-mlt</Synonym>
+<Synonym>Rizatriptan benzoate</Synonym>
+<Synonym>Rizatriptan Benzoate</Synonym>
+<Synonym>Maxalt</Synonym>
+<Synonym>RIZATRIPTAN SULFATE</Synonym>
+<Description>The benzoate salt form of rizatriptan, a member of the triptan class agents with anti-migraine property. Rizatriptan benzoate selectively binds to and activates serotonin (5-HT) 1B receptors expressed in intracranial arteries, and to 5-HT 1D receptors located on peripheral trigeminal sensory nerve terminals in the meninges and central terminals in brain stem sensory nuclei. Receptor binding results in constriction of cranial vessels and inhibition of nociceptive transmission, thereby providing relief of migraine headaches. Rizatriptan benzoate may also relief migraine headaches by inhibition of pro-inflammatory neuropeptide release.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

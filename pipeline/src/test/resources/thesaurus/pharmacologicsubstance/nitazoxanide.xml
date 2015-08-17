@@ -1,0 +1,22 @@
+<Record>
+<Term>Nitazoxanide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antiprotozoal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antiprotozoal Agent/Nitazoxanide</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nitazoxanide</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Antiprotozoal Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Salicylamide, N-(5-nitro-2-thiazolyl)-, Acetate(Ester)</Synonym>
+<Synonym>Alinia</Synonym>
+<Synonym>Nitazoxanide</Synonym>
+<Synonym>Benzamide, 2-(acetyloxy)-N-(5-nitro-2-thiazolyl)-</Synonym>
+<Synonym>NITAZOXANIDE</Synonym>
+<Description>A synthetic benzamide with antiprotozoal activity. Nitazoxanide exerts its antiprotozoal activity by interfering with the pyruvate ferredoxin/flavodoxin oxidoreductase dependent electron transfer reaction, which is essential to anaerobic energy metabolism. PFOR enzyme reduces nitazoxanide, thereby impairing the energy metabolism. However, interference with the PFOR enzyme-dependent electron transfer reaction may not be the only pathway by which nitazoxanide exhibits antiprotozoal activity. Nitazoxanide is active against Giardia lamblia and Cryptosporidium parvum.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

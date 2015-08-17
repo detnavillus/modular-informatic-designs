@@ -1,0 +1,20 @@
+<Record>
+<Term>Fluorouracil-E Therapeutic Implant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Thymidylate Synthase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Thymidylate Synthase Inhibitor/Fluorouracil-E Therapeutic Implant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Thymidylate Synthase Inhibitor</BroaderTerm>
+<BroaderTerm>Fluorouracil-E Therapeutic Implant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>5-FU-e TI</Synonym>
+<Synonym>5-FU/epi gel</Synonym>
+<Synonym>5-Fluorouracil/epi</Synonym>
+<Synonym>Fluorouracil-E Therapeutic Implant</Synonym>
+<Synonym>Fluorouracil-epinephrine therapeutic implant</Synonym>
+<Synonym>Fluorouracil/epi</Synonym>
+<Description>An injectable collagen matrix gel containing the antimetabolite fluorouracil and the sympathicomimetic agent epinephrine with potential antineoplastic activity. After intratumoral injection, fluorouracil is converted into the active metabolite 5-fluoroxyuridine monophosphate that competes with uracil during RNA synthesis while another active metabolite, 5-5-fluoro-2'-deoxyuridine-5'-O-monophosphate, inhibits thymidylate synthase and, so, DNA synthesis. Epinephrine, a potent vasoconstrictor, is added to the gel to enhance penetration of fluorouracil into tumor tissue and reduce dispersion to surrounding tissues, thus enhancing the local concentration of fluorouracil. Compared to systemic administration, the intratumoral injection of fluorouracil combined with epinephrine may increase fluorouracil's chemotherapeutic efficacy while minimizing systemic toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

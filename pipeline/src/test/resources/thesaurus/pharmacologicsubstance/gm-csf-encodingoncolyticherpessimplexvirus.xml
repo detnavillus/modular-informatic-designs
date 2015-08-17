@@ -1,0 +1,20 @@
+<Record>
+<Term>GM-CSF-Encoding Oncolytic Herpes Simplex Virus</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Oncolytic Virus</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/GM-CSF-Encoding Oncolytic Herpes Simplex Virus,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Oncolytic Virus/GM-CSF-Encoding Oncolytic Herpes Simplex Virus</ClassificationPath>
+<BroaderTerm>GM-CSF-Encoding Oncolytic Herpes Simplex Virus,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Oncolytic Virus</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>GM-CSF-Encoding Oncolytic Herpes Simplex Virus</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>GM-CSF-Encoding Oncolytic Herpes Simplex Virus</Synonym>
+<Synonym>OncoVEX GM-CSF</Synonym>
+<Description>An oncolytic, recombinant herpes simplex type-1 virus (HSV) encoding human cytokine granulocyte-macrophage colony stimulating factor (GM-CSF) with potential immunostimulating and antineoplastic activities. Upon administration, GM-CSF-encoding oncolytic HSV selectively infects and replicates in tumor cells, thereby inducing tumor cell lysis. In addition, expressed GM-CSF may stimulate a cytotoxic T cell response against tumor cells, resulting in immune-mediated tumor cell death in addition to HSV-mediated oncolytic tumor cell death.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

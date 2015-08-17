@@ -1,0 +1,41 @@
+<Record>
+<Term>Durapatite</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biomedical or Dental Material</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Hydroxyapatites</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Minerals/Apatites/Hydroxyapatites/Durapatite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Calcium Compounds/Calcium Phosphates/Apatites/Hydroxyapatites/Durapatite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Phosphorus Compounds/Phosphorus Acids/Phosphoric Acids/Phosphates/Calcium Phosphates/Apatites/Hydroxyapatites/Durapatite</ClassificationPath>
+<BroaderTerm>Phosphoric Acids</BroaderTerm>
+<BroaderTerm>Phosphorus Acids</BroaderTerm>
+<BroaderTerm>Durapatite</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Apatites</BroaderTerm>
+<BroaderTerm>Minerals</BroaderTerm>
+<BroaderTerm>Calcium Compounds</BroaderTerm>
+<BroaderTerm>Phosphates</BroaderTerm>
+<BroaderTerm>Hydroxyapatites</BroaderTerm>
+<BroaderTerm>Calcium Phosphates</BroaderTerm>
+<BroaderTerm>Phosphorus Compounds</BroaderTerm>
+<Synonym>Periograf</Synonym>
+<Synonym>Durapatite</Synonym>
+<Synonym>Ossopan</Synonym>
+<Synonym>Interpore 200</Synonym>
+<Synonym>Calcitite</Synonym>
+<Synonym>Osprovit</Synonym>
+<Synonym>Interpore500</Synonym>
+<Synonym>Ossein Hydroxyapatite Compound</Synonym>
+<Synonym>Interpore 500</Synonym>
+<Synonym>Osteogen</Synonym>
+<Synonym>Interpore200</Synonym>
+<Synonym>Hydroxyapatite</Synonym>
+<Synonym>Alveograf</Synonym>
+<Synonym>Calcium Hydroxyapatite</Synonym>
+<Synonym>Interpore-200</Synonym>
+<Synonym>Hydroxylapatite</Synonym>
+<Synonym>Interpore-500</Synonym>
+<Synonym>Ossein-Hydroxyapatite Compound</Synonym>
+<Description>The mineral component of bones and teeth; it has been used therapeutically as a prosthetic aid and in the prevention and treatment of osteoporosis.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,37 @@
+<Record>
+<Term>Pharyngitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Pharyngeal Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Pharyngeal Disorder</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases/Pharyngitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Pharyngeal Disorder/Non-Neoplastic Pharyngeal Disorder/Pharyngitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases/Pharyngitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pharyngitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Pharyngeal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pharyngitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pharyngeal Disorder</BroaderTerm>
+<ChildTerm>Tonsillitis</ChildTerm>
+<ChildTerm>Acute Pharyngitis</ChildTerm>
+<ChildTerm>Nasopharyngitis</ChildTerm>
+<ChildTerm>Retropharyngeal Abscess</ChildTerm>
+<Synonym>Sore Throats</Synonym>
+<Synonym>Pharyngitis</Synonym>
+<Synonym>Pharyngitides</Synonym>
+<Synonym>Sore Throat</Synonym>
+<Description>Inflammation of the throat (PHARYNX).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

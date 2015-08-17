@@ -290,6 +290,29 @@
   </target>
   
   <target name="test-ontology" depends="compile-ontology-test" >
+    <echo message="Running test ontology"/>
+    <junit printsummary="yes" fork="no" haltonfailure="yes">
+      <formatter usefile="false" type="plain"/>
+      <classpath>
+        <pathelement location="${dest.dir.app}"/>
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}"/>
+        <pathelement location="${dest.dir.search-core}" />
+        <pathelement location="${dest.dir.taxo}" />
+        <pathelement location="${dest.dir.taxo.test}" />
+        <pathelement location="${res.dir.taxo}" />
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+      </classpath> 
+      <assertions>
+        <enable/>
+      </assertions>
+      <batchtest>
+        <fileset dir="${dest.dir.taxo.test}">
+          <include name="**/Test*.class"/>
+          <include name="**/*Test.class"/>
+        </fileset>
+      </batchtest>
+    </junit>
   </target>
   
   <target name="compile-pipeline-test" depends="compile-pipeline" >
@@ -300,8 +323,7 @@
         <pathelement location="${dest.dir.app}" />
         <pathelement location="${dest.dir.net}" />
         <pathelement location="${dest.dir.prop}" />
-        <pathelement location="${dest.dir.search}" />
-        <pathelement location="${dest.dir.class}" />
+        <pathelement location="${dest.dir.search-core}" />
         <pathelement location="${dest.dir.taxo}" />
         <pathelement location="${dest.dir.pipe}" />
       </classpath>
@@ -309,6 +331,30 @@
   </target>
   
   <target name="test-pipeline" depends="compile-pipeline-test" >
+    <echo message="Running test pipeline"/>
+    <junit printsummary="yes" fork="no" haltonfailure="yes">
+      <formatter usefile="false" type="plain"/>
+      <classpath>
+        <pathelement location="${dest.dir.app}"/>
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.prop}"/>
+        <pathelement location="${dest.dir.search-core}" />
+        <pathelement location="${dest.dir.taxo}" />
+        <pathelement location="${dest.dir.pipe}" />
+        <pathelement location="${dest.dir.pipe.test}" />
+        <pathelement location="${res.dir.pipe}" />
+        <fileset dir="${ivy.lib.dir}" includes="test/*.jar" />
+      </classpath> 
+      <assertions>
+        <enable/>
+      </assertions>
+      <batchtest>
+        <fileset dir="${dest.dir.pipe.test}">
+          <include name="**/Test*.class"/>
+          <include name="**/*Test.class"/>
+        </fileset>
+      </batchtest>
+    </junit>
   </target>
   
   <target name="build-app-jar" depends="test-app" >
@@ -332,10 +378,10 @@
   </target>
   
   <target name="build-pipeline-jar" depends="test-pipeline" >
-    <jar jarfile="${dist.dir}/${dist.name}-ontology-${version.number}.jar" basedir="${dest.dir.taxo}"/>
+    <jar jarfile="${dist.dir}/${dist.name}-pipeline-${version.number}.jar" basedir="${dest.dir.taxo}"/>
   </target>
   
-  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar" />
+  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-ontology-jar,build-pipeline-jar" />
   <!-- ,build-search-core-jar,build-ontology-jar,build-pipeline-jar" /> -->
   
   <!-- Ivy -->

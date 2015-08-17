@@ -1,0 +1,19 @@
+<Record>
+<Term>Anthelmintics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiparasitic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Anthelmintics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anthelmintics</BroaderTerm>
+<ChildTerm>Antiplatyhelmintic Agents</ChildTerm>
+<ChildTerm>Antinematodal Agents</ChildTerm>
+<Synonym>Anthelmintics</Synonym>
+<Synonym>Vermifuges</Synonym>
+<Synonym>Antihelmintics</Synonym>
+<Description>Agents destructive to parasitic worms. They are used therapeutically in the treatment of HELMINTHIASIS in man and animal.</Description>
+<Source>MeSH</Source>
+</Record>

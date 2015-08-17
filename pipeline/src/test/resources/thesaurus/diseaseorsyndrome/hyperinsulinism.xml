@@ -1,0 +1,19 @@
+<Record>
+<Term>Hyperinsulinism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glucose Metabolism Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Hyperinsulinism</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Hyperinsulinism</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<ChildTerm>Insulin Resistance</ChildTerm>
+<ChildTerm>Persistent Hyperinsulinemia Hypoglycemia of Infancy</ChildTerm>
+<Synonym>Hyperinsulinism</Synonym>
+<Synonym>Hyperinsulinemia</Synonym>
+<Synonym>Exogenous Hyperinsulinism</Synonym>
+<Synonym>Compensatory Hyperinsulinemia</Synonym>
+<Synonym>Endogenous Hyperinsulinism</Synonym>
+<Description>A syndrome with excessively high INSULIN levels in the BLOOD. It may cause HYPOGLYCEMIA. Etiology of hyperinsulinism varies, including hypersecretion of a beta cell tumor (INSULINOMA); autoantibodies against insulin (INSULIN ANTIBODIES); defective insulin receptor (INSULIN RESISTANCE); or overuse of exogenous insulin or HYPOGLYCEMIC AGENTS.A GLUCOSE-induced HYPERINSULINEMIA, a marker of insulin-resistant state. It is a mechanism to compensate for reduced sensitivity to insulin.</Description>
+<Source>MeSH</Source>
+</Record>

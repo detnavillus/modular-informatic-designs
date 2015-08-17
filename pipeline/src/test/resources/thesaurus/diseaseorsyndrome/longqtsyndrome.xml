@@ -1,0 +1,38 @@
+<Record>
+<Term>Long QT Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Heart Disorder</ParentTerm>
+<ParentTerm>Heart Defects, Congenital</ParentTerm>
+<ParentTerm>Arrhythmias, Cardiac</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Long QT Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Cardiovascular Abnormalities/Heart Defects, Congenital/Long QT Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Long QT Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Long QT Syndrome</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Long QT Syndrome</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Abnormalities</BroaderTerm>
+<BroaderTerm>Heart Defects, Congenital</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Romano-Ward Syndrome</ChildTerm>
+<ChildTerm>Andersen Syndrome</ChildTerm>
+<ChildTerm>Jervell-Lange Nielsen Syndrome</ChildTerm>
+<Synonym>Long QT Syndrome</Synonym>
+<Synonym>Ventricular arrhythmia associated with long QT syndrome</Synonym>
+<Synonym>VENTRICULAR ARRHYTHMIA ASSOCIATED WITH LONG QT SYNDROME</Synonym>
+<Description>A condition that is characterized by episodes of fainting (SYNCOPE) and varying degree of ventricular arrhythmia as indicated by the prolonged QT interval. The inherited forms are caused by mutation of genes encoding cardiac ion channel proteins. The two major forms are ROMANO-WARD SYNDROME and JERVELL-LANGE NIELSEN SYNDROME.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Malaria Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Protozoan Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Protozoan Vaccines/Malaria Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Protozoan Vaccines</BroaderTerm>
+<BroaderTerm>Malaria Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Malaria Vaccines</Synonym>
+<Synonym>Malarial Vaccines</Synonym>
+<Description>Vaccines made from antigens arising from any of the four strains of Plasmodium which cause malaria in humans, or from P. berghei which causes malaria in rodents.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>X-Linked Severe Combined Immunodeficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Severe Combined Immunodeficiency</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Combined Immunodeficiency/Severe Combined Immunodeficiency/X-Linked Severe Combined Immunodeficiency</ClassificationPath>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Severe Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>Congenital Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>X-Linked Severe Combined Immunodeficiency</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>X-Linked Severe Combined Immunodeficiency</Synonym>
+<Description>Rare congenital disorder inherited as an X-linked defect characterized by impairment of both humoral and cell-mediated immunity, leukopenia, and low or absent antibody levels.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

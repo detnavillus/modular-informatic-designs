@@ -1,0 +1,27 @@
+<Record>
+<Term>Diphtheria Antitoxin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antitoxins</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Diphtheria Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Antitoxins/Diphtheria Antitoxin</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Antitoxins/Diphtheria Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immune Sera/Antitoxins/Diphtheria Antitoxin</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Antitoxins/Diphtheria Antitoxin</ClassificationPath>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Diphtheria Antitoxin</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Immune Sera</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Antitoxins</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<Synonym>Diphtheria Antitoxin</Synonym>
+<Description>An antitoxin produced against the toxin of CORYNEBACTERIUM DIPHTHERIAE that is used for the treatment of DIPHTHERIA.</Description>
+<Source>MeSH</Source>
+</Record>

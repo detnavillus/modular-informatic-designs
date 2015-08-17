@@ -1,0 +1,19 @@
+<Record>
+<Term>Pancreatic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Digestive System Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<ChildTerm>Cystic Fibrosis</ChildTerm>
+<ChildTerm>Pancreatic Neoplasms</ChildTerm>
+<ChildTerm>Pancreatitis</ChildTerm>
+<ChildTerm>Nesidioblastosis</ChildTerm>
+<ChildTerm>Pancreatic Cyst</ChildTerm>
+<ChildTerm>Pancreatic Fistula</ChildTerm>
+<ChildTerm>Exocrine Pancreatic Insufficiency</ChildTerm>
+<Synonym>Pancreatic Diseases</Synonym>
+<Synonym>Pancreatic Disease</Synonym>
+<Description>Pathological processes of the PANCREAS.</Description>
+<Source>MeSH</Source>
+</Record>

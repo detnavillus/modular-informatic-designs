@@ -1,0 +1,28 @@
+<Record>
+<Term>Urinary Bladder Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urologic Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary Bladder Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Cystocele</ChildTerm>
+<ChildTerm>Urinary Bladder, Overactive</ChildTerm>
+<ChildTerm>Urinary Bladder Calculi</ChildTerm>
+<ChildTerm>Vesico-Ureteral Reflux</ChildTerm>
+<ChildTerm>Urinary Bladder, Neurogenic</ChildTerm>
+<ChildTerm>Urinary Bladder Neck Obstruction</ChildTerm>
+<ChildTerm>Bladder Exstrophy</ChildTerm>
+<ChildTerm>Cystitis</ChildTerm>
+<ChildTerm>Urinary Bladder Fistula</ChildTerm>
+<ChildTerm>Urinary Bladder Neoplasms</ChildTerm>
+<Synonym>Bladder Diseases</Synonym>
+<Synonym>Urinary Bladder Diseases</Synonym>
+<Synonym>Urinary Bladder Disease</Synonym>
+<Synonym>Bladder Disease</Synonym>
+<Description>Pathological processes of the URINARY BLADDER.</Description>
+<Source>MeSH</Source>
+</Record>

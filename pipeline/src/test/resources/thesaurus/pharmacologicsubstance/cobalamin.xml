@@ -1,0 +1,26 @@
+<Record>
+<Term>Cobalamin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<ParentTerm>B Vitamin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Vitamin/Water-Soluble Vitamin/B Vitamin/Cobalamin</ClassificationPath>
+<BroaderTerm>Cobalamin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Vitamin</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Water-Soluble Vitamin</BroaderTerm>
+<BroaderTerm>B Vitamin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Cyanocobalamin</ChildTerm>
+<Synonym>B12 Vitamin</Synonym>
+<Synonym>COBALAMIN</Synonym>
+<Synonym>Cobalamin</Synonym>
+<Synonym>Cobalamin (1+)</Synonym>
+<Synonym>VIT B12</Synonym>
+<Synonym>Vitamin B-12</Synonym>
+<Synonym>Vitamin B12</Synonym>
+<Synonym>Vitamin-B12</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

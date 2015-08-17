@@ -1,0 +1,25 @@
+<Record>
+<Term>Parasitic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Parasitic Diseases</ClassificationPath>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Helminthiasis</ChildTerm>
+<ChildTerm>Parasitic Diseases, Animal</ChildTerm>
+<ChildTerm>Protozoan Infections</ChildTerm>
+<ChildTerm>Intestinal Diseases, Parasitic</ChildTerm>
+<ChildTerm>Liver Diseases, Parasitic</ChildTerm>
+<ChildTerm>Lung Diseases, Parasitic</ChildTerm>
+<ChildTerm>Skin Diseases, Parasitic</ChildTerm>
+<ChildTerm>Mesomycetozoea Infections</ChildTerm>
+<ChildTerm>Eye Infections, Parasitic</ChildTerm>
+<ChildTerm>Zoonoses</ChildTerm>
+<ChildTerm>Opportunistic Infections</ChildTerm>
+<ChildTerm>Pregnancy Complications, Parasitic</ChildTerm>
+<ChildTerm>Central Nervous System Parasitic Infections</ChildTerm>
+<ChildTerm>Parasitemia</ChildTerm>
+<Synonym>Parasitic Diseases</Synonym>
+<Synonym>Parasitic Disease</Synonym>
+<Description>Infections or infestations with parasitic organisms. They are often contracted through contact with an intermediate vector, but may occur as the result of direct exposure.</Description>
+<Source>MeSH</Source>
+</Record>

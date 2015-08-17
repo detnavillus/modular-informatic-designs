@@ -1,0 +1,31 @@
+<Record>
+<Term>Breast Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Disorder by Site</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Breast Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Breast Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Breast Cyst</ChildTerm>
+<ChildTerm>Breast Neoplasms</ChildTerm>
+<ChildTerm>Mastitis</ChildTerm>
+<ChildTerm>Non-Neoplastic Breast Disorder</ChildTerm>
+<ChildTerm>Fibrocystic Breast Disease</ChildTerm>
+<ChildTerm>Gynecomastia</ChildTerm>
+<ChildTerm>Lactation Disorders</ChildTerm>
+<Synonym>Endocrine Breast Disease</Synonym>
+<Synonym>Endocrine Breast Diseases</Synonym>
+<Synonym>Breast Disease</Synonym>
+<Synonym>Breast Diseases</Synonym>
+<Synonym>Breast Disorder</Synonym>
+<Description>Pathological processes of the BREAST.Breast diseases which are hormone-dependent or responsive to endocrine signals.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

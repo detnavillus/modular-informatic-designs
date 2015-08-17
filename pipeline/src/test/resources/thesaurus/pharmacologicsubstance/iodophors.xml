@@ -1,0 +1,14 @@
+<Record>
+<Term>Iodophors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Iodine Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Iodine Compounds/Iodophors</ClassificationPath>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Iodophors</BroaderTerm>
+<BroaderTerm>Iodine Compounds</BroaderTerm>
+<ChildTerm>Povidone-Iodine</ChildTerm>
+<Synonym>Iodophors</Synonym>
+<Synonym>Tamed Iodine</Synonym>
+<Description>Complexes of iodine and non-ionic SURFACE-ACTIVE AGENTS acting as carrier and solubilizing agent for the iodine in water. Iodophors usually enhance bactericidal activity of iodine, reduce vapor pressure and odor, minimize staining, and allow wide dilution with water. (From Merck Index, 11th ed)</Description>
+<Source>MeSH</Source>
+</Record>

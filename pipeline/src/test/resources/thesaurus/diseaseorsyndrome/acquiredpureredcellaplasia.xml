@@ -1,0 +1,17 @@
+<Record>
+<Term>Acquired Pure Red Cell Aplasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pure Red Cell Aplasia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Pure Red Cell Aplasia/Acquired Pure Red Cell Aplasia</ClassificationPath>
+<BroaderTerm>Pure Red Cell Aplasia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Acquired Pure Red Cell Aplasia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Acquired Pure Red Cell Aplasia</Synonym>
+<Description>A disease characterized by normocytic, normochromic anemia, low hematocrit, reticulocytopenia and selective erythroid hypoplasia. It can occur as a chronic or acute form; the former is predominantly seen in adults and the latter in children. Pathogenesis involves immune dysfunction with antibodies directed against erythroid precursor cells or erythropoietin, or due to T-cell mediated suppression of erythropoiesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

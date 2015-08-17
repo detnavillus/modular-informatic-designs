@@ -1,0 +1,14 @@
+<Record>
+<Term>Spinal Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spinal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spinal Stenosis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Stenosis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Spinal Stenosis</Synonym>
+<Synonym>Spinal Stenoses</Synonym>
+<Description>Narrowing of the spinal canal.</Description>
+<Source>MeSH</Source>
+</Record>

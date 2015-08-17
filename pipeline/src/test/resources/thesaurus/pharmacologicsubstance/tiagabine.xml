@@ -1,0 +1,27 @@
+<Record>
+<Term>Tiagabine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Tiagabine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Tiagabine</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Tiagabine</BroaderTerm>
+<BroaderTerm>Tiagabine Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>NNC-05-0328</Synonym>
+<Synonym>TIAGABINE</Synonym>
+<Synonym>Tiagabine hydrochloride</Synonym>
+<Synonym>3-Piperidinecarboxylic Acid, 1-(4,4-bis(3-methyl-2-thienyl)-3-buten-yl)-, Hydrochloride,(R)-</Synonym>
+<Synonym>Gabitril</Synonym>
+<Synonym>TIAGABINE HYDROCHLORIDE</Synonym>
+<Synonym>Tiagabine</Synonym>
+<Synonym>Tiagabine Hydrochloride</Synonym>
+<Synonym>(-)-(R)-1-(4,4-Bis(3-methyl-2-thienyl)-3-butenyl)nipecotic Acid, Hydrochloride</Synonym>
+<Description>The hydrochloride salt form of tiagabine, a nipecotic acid derivative with anticonvulsant property. Tiagabine hydrochloride inhibits the gamma-aminobutyric acid (GABA) transporter type 1 (GAT1), which is predominantly localized in presynaptic terminals of neurons thereby preventing the reuptake of GABA by the presynaptic endings. Consequently, this increases the level of available GABA within the synaptic cleft, thereby resulting in prolongation of its inhibitory actions. Tiagabine is effective against maximum electroshock seizures and both limbic and generalized tonic-clonic seizures.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

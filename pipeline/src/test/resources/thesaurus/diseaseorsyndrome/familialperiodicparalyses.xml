@@ -1,0 +1,29 @@
+<Record>
+<Term>Familial Periodic Paralyses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Paralyses, Familial Periodic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Paralyses, Familial Periodic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Paralyses, Familial Periodic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Paralyses, Familial Periodic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Paralyses, Familial Periodic</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Hypokalemic Periodic Paralysis</ChildTerm>
+<ChildTerm>Paralysis, Hyperkalemic Periodic</ChildTerm>
+<Synonym>Familial Periodic Paralyses</Synonym>
+<Synonym>Normokalemic Periodic Paralyses</Synonym>
+<Synonym>Normokalemic Periodic Paralysis</Synonym>
+<Synonym>Familial Periodic Paralysis</Synonym>
+<Description>A heterogenous group of inherited disorders characterized by recurring attacks of rapidly progressive flaccid paralysis or myotonia. These conditions have in common a mutation of the gene encoding the alpha subunit of the sodium channel in skeletal muscle. They are frequently associated with fluctuations in serum potassium levels. Periodic paralysis may also occur as a non-familial process secondary to THYROTOXICOSIS and other conditions. (From Adams et al., Principles of Neurology, 6th ed, p1481)</Description>
+<Source>MeSH</Source>
+</Record>

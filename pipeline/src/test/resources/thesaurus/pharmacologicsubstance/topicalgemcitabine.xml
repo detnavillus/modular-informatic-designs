@@ -1,0 +1,15 @@
+<Record>
+<Term>Topical Gemcitabine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Ribonucleotide Reductase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Ribonucleotide Reductase Inhibitor/Topical Gemcitabine Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ribonucleotide Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Topical Gemcitabine Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Topical Gemcitabine Hydrochloride</Synonym>
+<Description>A topical preparation of gemcitabine hydrochloride with antineoplastic activity. Gemcitabine, an analogue of the antimetabolite nucleoside deoxycytidine, is converted intracellularly to the active metabolites difluorodeoxycytidine di- and triphosphate (dFdCDP, dFdCTP). dFdCDP inhibits ribonucleotide reductase, thereby decreasing the deoxynucleotide pool available for DNA synthesis; dFdCTP is incorporated into DNA, resulting in termination of DNA strand elongation and apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

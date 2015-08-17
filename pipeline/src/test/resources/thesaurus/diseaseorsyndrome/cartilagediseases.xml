@@ -1,0 +1,24 @@
+<Record>
+<Term>Cartilage Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Cartilage Diseases</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Cartilage Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Cartilage Diseases</BroaderTerm>
+<ChildTerm>Chondromalacia Patellae</ChildTerm>
+<ChildTerm>Tietze's Syndrome</ChildTerm>
+<ChildTerm>Tracheobronchomalacia</ChildTerm>
+<ChildTerm>Polychondritis, Relapsing</ChildTerm>
+<ChildTerm>Osteochondritis</ChildTerm>
+<ChildTerm>Laryngomalacia</ChildTerm>
+<Synonym>Chondromalacia</Synonym>
+<Synonym>Chondromalacias</Synonym>
+<Synonym>Cartilage Disease</Synonym>
+<Synonym>Cartilage Diseases</Synonym>
+<Description>Pathological processes involving the chondral tissue (CARTILAGE).Softening and degeneration of the CARTILAGE.</Description>
+<Source>MeSH</Source>
+</Record>

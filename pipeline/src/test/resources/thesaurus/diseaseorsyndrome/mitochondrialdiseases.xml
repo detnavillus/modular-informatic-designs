@@ -1,0 +1,30 @@
+<Record>
+<Term>Mitochondrial Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<ChildTerm>Pyruvate Carboxylase Deficiency Disease</ChildTerm>
+<ChildTerm>Pyruvate Dehydrogenase Complex Deficiency Disease</ChildTerm>
+<ChildTerm>Mitochondrial Myopathies</ChildTerm>
+<ChildTerm>Carbamoyl-Phosphate Synthase I Deficiency Disease</ChildTerm>
+<ChildTerm>Optic Atrophy, Autosomal Dominant</ChildTerm>
+<ChildTerm>Optic Atrophy, Hereditary, Leber</ChildTerm>
+<ChildTerm>Cytochrome-c Oxidase Deficiency</ChildTerm>
+<ChildTerm>Multiple Acyl Coenzyme A Dehydrogenase Deficiency</ChildTerm>
+<ChildTerm>Friedreich Ataxia</ChildTerm>
+<ChildTerm>Leigh Disease</ChildTerm>
+<Synonym>Mitochondrial Diseases</Synonym>
+<Synonym>Mitochondrial Disease</Synonym>
+<Synonym>Mitochondrial Disorders</Synonym>
+<Synonym>Mitochondrial Disorder</Synonym>
+<Synonym>Oxidative Phosphorylation Deficiencies</Synonym>
+<Synonym>Oxidative Phosphorylation Deficiency</Synonym>
+<Synonym>Respiratory Chain Deficiency</Synonym>
+<Synonym>Mitochondrial Respiratory Chain Deficiencies</Synonym>
+<Synonym>Mitochondrial Electron Transport Chain Deficiencies</Synonym>
+<Description>Diseases caused by abnormal function of the MITOCHONDRIA. They may be caused by mutations, acquired or inherited, in mitochondrial DNA or in nuclear genes that code for mitochondrial components. They may also be the result of acquired mitochondria dysfunction due to adverse effects of drugs, infections, or other environmental causes.</Description>
+<Source>MeSH</Source>
+</Record>

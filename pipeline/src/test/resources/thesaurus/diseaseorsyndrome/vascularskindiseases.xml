@@ -1,0 +1,24 @@
+<Record>
+<Term>Vascular Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Vascular</ClassificationPath>
+<BroaderTerm>Skin Diseases, Vascular</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Behcet Syndrome</ChildTerm>
+<ChildTerm>Urticaria</ChildTerm>
+<ChildTerm>Polyarteritis Nodosa</ChildTerm>
+<ChildTerm>Takayasu Arteritis</ChildTerm>
+<ChildTerm>Giant Cell Arteritis</ChildTerm>
+<ChildTerm>Angiomatosis, Bacillary</ChildTerm>
+<ChildTerm>Pyoderma Gangrenosum</ChildTerm>
+<ChildTerm>Sneddon Syndrome</ChildTerm>
+<ChildTerm>Livedo Reticularis</ChildTerm>
+<ChildTerm>Malignant Atrophic Papulosis</ChildTerm>
+<ChildTerm>Mucocutaneous Lymph Node Syndrome</ChildTerm>
+<Synonym>Vascular Skin Disease</Synonym>
+<Synonym>Vascular Skin Diseases</Synonym>
+<Description>Skin diseases affecting or involving the cutaneous blood vessels and generally manifested as inflammation, swelling, erythema, or necrosis in the affected area.</Description>
+<Source>MeSH</Source>
+</Record>

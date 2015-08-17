@@ -1,0 +1,16 @@
+<Record>
+<Term>Inactivated Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Inactivated</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines, Inactivated</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Poliovirus Vaccine, Inactivated</ChildTerm>
+<Synonym>Inactivated Vaccines</Synonym>
+<Synonym>Killed Vaccines</Synonym>
+<Description>Vaccines in which the infectious microbial nucleic acid components have been destroyed by chemical or physical treatment (e.g., formalin, beta-propiolactone, gamma radiation) without affecting the antigenicity or immunogenicity of the viral coat or bacterial outer membrane proteins.</Description>
+<Source>MeSH</Source>
+</Record>

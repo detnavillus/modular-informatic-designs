@@ -1,0 +1,32 @@
+<Record>
+<Term>Dyssomnias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Sleep Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Sleep Disorders, Circadian Rhythm</ChildTerm>
+<ChildTerm>Sleep Disorders, Intrinsic</ChildTerm>
+<ChildTerm>Sleep Deprivation</ChildTerm>
+<Synonym>Inadequate Sleep Hygiene</Synonym>
+<Synonym>Dyssomnia</Synonym>
+<Synonym>Nocturnal Eating-Drinking Syndrome</Synonym>
+<Synonym>Nocturnal Eating Drinking Syndrome</Synonym>
+<Synonym>Adjustment Sleep Disorders</Synonym>
+<Synonym>Extrinsic Sleep Disorders</Synonym>
+<Synonym>Environmental Sleep Disorders</Synonym>
+<Synonym>Limit-Setting Sleep Disorders</Synonym>
+<Synonym>Extrinsic Sleep Disorder</Synonym>
+<Synonym>Nocturnal Eating-Drinking Syndromes</Synonym>
+<Synonym>Dyssomnias</Synonym>
+<Synonym>Environmental Sleep Disorder</Synonym>
+<Synonym>Limit-Setting Sleep Disorder</Synonym>
+<Synonym>Limit Setting Sleep Disorder</Synonym>
+<Synonym>Adjustment Sleep Disorder</Synonym>
+<Description>A broad category of sleep disorders characterized by either hypersomnolence or insomnia. The three major subcategories include intrinsic (i.e., arising from within the body) (SLEEP DISORDERS, INTRINSIC), extrinsic (secondary to environmental conditions or various pathologic conditions), and disturbances of circadian rhythm. (From Thorpy, Sleep Disorders Medicine, 1994, p187)</Description>
+<Source>MeSH</Source>
+</Record>

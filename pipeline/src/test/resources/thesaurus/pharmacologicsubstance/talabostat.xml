@@ -1,0 +1,19 @@
+<Record>
+<Term>Talabostat</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protease Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor/Talabostat Mesylate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Talabostat Mesylate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>PT-100</Synonym>
+<Synonym>TALABOSTAT MESYLATE</Synonym>
+<Synonym>Talabostat Mesylate</Synonym>
+<Synonym>Val-boro-Pro</Synonym>
+<Synonym>[(2R)-1-[(2S)-2-amino-3-methylbutanoyl]pyrrolidin-2-yl]boronic acid</Synonym>
+<Description>The mesylate salt of an orally active small molecule with antineoplastic and hematopoiesis- stimulating activities. By cleaving N-terminal Xaa-Pro or Xaa-Ala residues, talabostat inhibits dipeptidyl peptidases, such as fibroblast activation protein (FAP), resulting in the stimulation of cytokine and chemokine production and specific T-cell immunity and T-cell dependent activity. This agent may also stimulate the production of colony stimulating factors, such as granulocyte colony stimulating factor (G-CSF), resulting in the stimulation of hematopoiesis. Dipeptidyl peptidases are involved in the activation of polypeptide hormones and chemokines.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

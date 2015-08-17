@@ -1,0 +1,26 @@
+<Record>
+<Term>Antiphospholipid Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Antiphospholipid Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Antiphospholipid Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Antiphospholipid Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Antiphospholipid Antibody Syndromes</Synonym>
+<Synonym>Anti-Phospholipid Syndrome</Synonym>
+<Synonym>Anti Phospholipid Antibody Syndrome</Synonym>
+<Synonym>Anti-Phospholipid Antibody Syndrome</Synonym>
+<Synonym>Antiphospholipid Antibody Syndrome</Synonym>
+<Synonym>Anti Phospholipid Syndrome</Synonym>
+<Synonym>Antiphospholipid Syndrome</Synonym>
+<Description>A syndrome associated with a variety of diseases, notably systemic lupus erythematosus and other connective tissue diseases, thrombopenia, and arterial or venous thromboses, marked by the presence of antibodies directed against phospholipids.</Description>
+<Description>The presence of antibodies directed against phospholipids (ANTIBODIES, ANTIPHOSPHOLIPID). The condition is associated with a variety of diseases, notably systemic lupus erythematosus and other connective tissue diseases, thrombopenia, and arterial or venous thromboses. In pregnancy it can cause abortion. Of the phospholipids, the cardiolipins show markedly elevated levels of anticardiolipin antibodies (ANTIBODIES, ANTICARDIOLIPIN). Present also are high levels of lupus anticoagulant (LUPUS COAGULATION INHIBITOR).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Immunologic Deficiency Syndromes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Immune System Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<ChildTerm>Ataxia Telangiectasia</ChildTerm>
+<ChildTerm>HIV Infections</ChildTerm>
+<ChildTerm>Phagocyte Bactericidal Dysfunction</ChildTerm>
+<ChildTerm>Agammaglobulinemia</ChildTerm>
+<ChildTerm>DiGeorge Syndrome</ChildTerm>
+<ChildTerm>Dysgammaglobulinemia</ChildTerm>
+<ChildTerm>Lymphopenia</ChildTerm>
+<ChildTerm>Wiskott-Aldrich Syndrome</ChildTerm>
+<ChildTerm>Deltaretrovirus Infections</ChildTerm>
+<ChildTerm>Severe Combined Immunodeficiency</ChildTerm>
+<ChildTerm>Common Variable Immunodeficiency</ChildTerm>
+<ChildTerm>Leukocyte-Adhesion Deficiency Syndrome</ChildTerm>
+<Synonym>Immunologic Deficiency Syndromes</Synonym>
+<Synonym>Immunological Deficiency Syndromes</Synonym>
+<Synonym>Immunological Deficiency Syndrome</Synonym>
+<Synonym>Immunologic Deficiency Syndrome</Synonym>
+<Synonym>Antibody Deficiency Syndrome</Synonym>
+<Synonym>Antibody Deficiency Syndromes</Synonym>
+<Description>Syndromes in which there is a deficiency or defect in the mechanisms of immunity, either cellular or humoral.</Description>
+<Source>MeSH</Source>
+</Record>

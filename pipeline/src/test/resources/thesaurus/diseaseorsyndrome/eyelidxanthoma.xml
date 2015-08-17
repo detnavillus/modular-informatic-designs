@@ -1,0 +1,29 @@
+<Record>
+<Term>Eyelid Xanthoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Xanthoma</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Xanthoma/Eyelid Xanthoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Eyelid Xanthoma,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Eyelid Disorder/Eyelid Xanthoma</ClassificationPath>
+<BroaderTerm>Eyelid Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Eyelid Xanthoma,</BroaderTerm>
+<BroaderTerm>Eyelid Xanthoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Xanthoma</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Benign Eyelid Xanthelasma</Synonym>
+<Synonym>Benign Xanthelasma of Eyelid</Synonym>
+<Synonym>Benign Xanthelasma of the Eyelid</Synonym>
+<Synonym>Eyelid Xanthoma</Synonym>
+<Synonym>Xanthelasma Palpebrum</Synonym>
+<Synonym>Xanthoma of Eyelid</Synonym>
+<Synonym>Xanthoma of the Eyelid</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

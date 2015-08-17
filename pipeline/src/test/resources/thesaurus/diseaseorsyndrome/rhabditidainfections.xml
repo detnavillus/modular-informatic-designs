@@ -1,0 +1,16 @@
+<Record>
+<Term>Rhabditida Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Secernentea Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Rhabditida Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Rhabditida Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Strongyloidiasis</ChildTerm>
+<Synonym>Rhabditida Infections</Synonym>
+<Synonym>Rhabditida Infection</Synonym>
+<Description>Infections with nematodes of the order RHABDITIDA.</Description>
+<Source>MeSH</Source>
+</Record>

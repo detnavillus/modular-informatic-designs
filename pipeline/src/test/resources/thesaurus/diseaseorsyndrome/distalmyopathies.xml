@@ -1,0 +1,29 @@
+<Record>
+<Term>Distal Myopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Dystrophies</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies/Distal Myopathies</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies/Distal Myopathies</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Muscular Dystrophies/Distal Myopathies</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Muscular Dystrophies</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Distal Myopathies</BroaderTerm>
+<BroaderTerm>Muscular Disorders, Atrophic</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Distal Muscular Dystrophy</Synonym>
+<Synonym>Finnish-Markesbery Muscular Dystrophy</Synonym>
+<Synonym>Distal Myopathies</Synonym>
+<Synonym>Udd Markesbery Muscular Dystrophy</Synonym>
+<Synonym>Finnish Markesbery Muscular Dystrophy</Synonym>
+<Synonym>Distal Muscular Dystrophies</Synonym>
+<Synonym>Tibial Muscular Dystrophy</Synonym>
+<Synonym>Distal Myopathy</Synonym>
+<Synonym>Udd-Markesbery Muscular Dystrophy</Synonym>
+<Synonym>Welander Distal Myopathy</Synonym>
+<Description>A heterogeneous group of genetic disorders characterized by progressive MUSCULAR ATROPHY and MUSCLE WEAKNESS beginning in the hands, the legs, or the feet. Most are adult-onset autosomal dominant forms. Others are autosomal recessive.</Description>
+<Source>MeSH</Source>
+</Record>

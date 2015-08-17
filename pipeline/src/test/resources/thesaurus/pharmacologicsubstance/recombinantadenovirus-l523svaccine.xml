@@ -1,0 +1,18 @@
+<Record>
+<Term>Recombinant Adenovirus-L523S Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Recombinant Adenovirus-L523S Vaccine</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Adenovirus-L523S Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad/L523S</Synonym>
+<Synonym>Recombinant Adenovirus-L523S Vaccine</Synonym>
+<Description>A replication-defective adenovirus containing a gene that encodes the human protein L523S with potential antineoplastic activity. Upon administration, recombinant adenovirus-L523S vaccine expresses L523S, which may stimulate antibody and cytotoxic T lymphocyte (CTL) responses against tumor cells expressing L523S. L523S is an RNA-binding protein that belongs to the KOC (K homology domain containing protein over-expressed in cancer) family of proteins. As an oncofetal protein, L523S is normally expressed in early embryonic tissues and certain normal adult tissues such as colon, fallopian tube, gall bladder, and ovary tissues but may be overexpressed in squamous cell cancers of the lung.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

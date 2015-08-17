@@ -1,0 +1,21 @@
+<Record>
+<Term>Sympathetic Ophthalmia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Panuveitis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Ophthalmia, Sympathetic</ClassificationPath>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis/Ophthalmia, Sympathetic</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Ophthalmia, Sympathetic</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Sympathetic Uveitis</Synonym>
+<Synonym>Sympathetic Ophthalmia</Synonym>
+<Synonym>Sympathetic Uveitides</Synonym>
+<Synonym>Sympathetic Ophthalmias</Synonym>
+<Description>Granulomatous uveitis which follows in one eye after a penetrating injury to the other eye; the secondarily affected eye is called the sympathizing eye, and the injured eye is called the exciting or activating eye.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,43 @@
+<Record>
+<Term>Quadriplegia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Non-Neoplastic Nervous System Disorder</ParentTerm>
+<ParentTerm>Paralysis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Paralysis/Quadriplegia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Paralysis/Quadriplegia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Quadriplegia</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Paralysis</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Quadriplegia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Tetraplegias</Synonym>
+<Synonym>Quadripareses</Synonym>
+<Synonym>Locked-In Syndrome</Synonym>
+<Synonym>Flaccid Quadriplegias</Synonym>
+<Synonym>Quadriplegia</Synonym>
+<Synonym>Locked-In Syndromes</Synonym>
+<Synonym>Spastic Tetraplegias</Synonym>
+<Synonym>Locked In Syndrome</Synonym>
+<Synonym>Quadriplegias</Synonym>
+<Synonym>Flaccid Quadriplegia</Synonym>
+<Synonym>Flaccid Tetraplegias</Synonym>
+<Synonym>Spastic Quadriplegia</Synonym>
+<Synonym>Quadriparesis</Synonym>
+<Synonym>Spastic Tetraplegia</Synonym>
+<Synonym>Spastic Quadriplegias</Synonym>
+<Synonym>Tetraplegia</Synonym>
+<Synonym>Flaccid Tetraplegia</Synonym>
+<Description>Severe or complete loss of motor function in all four limbs which may result from BRAIN DISEASES; SPINAL CORD DISEASES; PERIPHERAL NERVOUS SYSTEM DISEASES; NEUROMUSCULAR DISEASES; or rarely MUSCULAR DISEASES. The locked-in syndrome is characterized by quadriplegia in combination with cranial muscle paralysis. Consciousness is spared and the only retained voluntary motor activity may be limited eye movements. This condition is usually caused by a lesion in the upper BRAIN STEM which injures the descending cortico-spinal and cortico-bulbar tracts.</Description>
+<Description>Paralysis of all four limbs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

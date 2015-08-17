@@ -1,0 +1,23 @@
+<Record>
+<Term>Sodium Selenite</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Selenium Compounds</ParentTerm>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Selenium Compounds/Sodium Selenite</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Sodium Selenite</ClassificationPath>
+<BroaderTerm>Sodium Selenite</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Selenium Compounds</BroaderTerm>
+<Synonym>Sodium Selenite</Synonym>
+<Synonym>Na salt (2:1) of Sodium Selenite</Synonym>
+<Synonym>mono Na salt of Sodium Selenite</Synonym>
+<Synonym>Sodium Selenite pentahydrate</Synonym>
+<Synonym>pentahydrate of Sodium Selenite</Synonym>
+<Synonym>mono-Na salt of Sodium Selenite</Synonym>
+<Synonym>Na salt of Sodium Selenite</Synonym>
+<Synonym>Selenite</Synonym>
+<Description>Selenious acid, disodium salt. It is used therapeutically to supply the trace element selenium.</Description>
+<Source>MeSH</Source>
+</Record>

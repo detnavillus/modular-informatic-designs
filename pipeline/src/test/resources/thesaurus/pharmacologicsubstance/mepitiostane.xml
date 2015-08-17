@@ -1,0 +1,16 @@
+<Record>
+<Term>Mepitiostane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Antiestrogen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Hormone Antagonist/Antiestrogen/Mepitiostane</ClassificationPath>
+<BroaderTerm>Hormone Antagonist</BroaderTerm>
+<BroaderTerm>Antiestrogen</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mepitiostane</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Mepitiostane</Synonym>
+<Description>An anabolic ether-modified form of the steroid epitiostanol. It has anti-estrogenic effect, which inhibits the progression of estrogen-stimulated cancers by competitive inhibition of estrogen binding to estrogen receptors. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

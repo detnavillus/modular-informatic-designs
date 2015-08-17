@@ -1,0 +1,20 @@
+<Record>
+<Term>Myeloablative Agonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Immunosuppressive Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Immunologic Factors/Immunosuppressive Agents/Myeloablative Agonists</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Myeloablative Agonists</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Myeloablative Agonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Immunosuppressive Agents</BroaderTerm>
+<BroaderTerm>Immunologic Factors</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Myeloablative Agonist</Synonym>
+<Synonym>Myeloablative Agonists</Synonym>
+<Description>Agents that destroy bone marrow activity. They are used to prepare patients for BONE MARROW TRANSPLANTATION or STEM CELL TRANSPLANTATION.</Description>
+<Source>MeSH</Source>
+</Record>

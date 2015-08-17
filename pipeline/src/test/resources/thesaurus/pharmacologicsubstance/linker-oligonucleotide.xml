@@ -1,0 +1,20 @@
+<Record>
+<Term>Linker-Oligonucleotide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Nucleic Acid, Nucleoside, or Nucleotide</SemanticType>
+<ParentTerm>Oligonucleotide</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Nucleic Acids, Nucleosides, and Nucleotides/Nucleic Acids/DNA/Oligonucleotide/Linker-Oligonucleotide</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Linker-Oligonucleotide</BroaderTerm>
+<BroaderTerm>Oligonucleotide</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>DNA</BroaderTerm>
+<BroaderTerm>Nucleic Acids, Nucleosides, and Nucleotides</BroaderTerm>
+<BroaderTerm>Nucleic Acids</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Linker-Oligonucleotide</Synonym>
+<Synonym>Oligonucleotide Linker</Synonym>
+<Description>Typically used in biomedical research, Linker-Oligonucleotides are usually short nucleic acids (DNA) that bridge or link, by complementary base pairing, two nucleic acids related by sequence and that lead to extension of the nucleic acid molecule. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

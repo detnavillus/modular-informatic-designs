@@ -1,0 +1,20 @@
+<Record>
+<Term>Multibacillary Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leprosy</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy/Leprosy, Multibacillary</ClassificationPath>
+<BroaderTerm>Leprosy, Multibacillary</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Leprosy, Lepromatous</ChildTerm>
+<Synonym>Multibacillary Leprosies</Synonym>
+<Synonym>Borderline Lepromatous</Synonym>
+<Synonym>Midborderline Lepromatous</Synonym>
+<Synonym>Multibacillary Leprosy</Synonym>
+<Description>A form of LEPROSY classified by the World Health Organization for the purpose of treatment, based on clinical manifestations and skin smear results. Patients with multibacillary leprosy have six or more lesions with or without positive skin smear results for the causative agent MYCOBACTERIUM LEPRAE. Multibacillary leprosy encompasses borderline lepromatous, midborderline, and lepromatous leprosy.</Description>
+<Source>MeSH</Source>
+</Record>

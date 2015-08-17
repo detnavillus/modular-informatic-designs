@@ -1,0 +1,15 @@
+<Record>
+<Term>Bordetella Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Bordetella Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bordetella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Whooping Cough</ChildTerm>
+<Synonym>Bordetella Infections</Synonym>
+<Synonym>Bordetella Infection</Synonym>
+<Description>Infections with bacteria of the genus BORDETELLA.</Description>
+<Source>MeSH</Source>
+</Record>

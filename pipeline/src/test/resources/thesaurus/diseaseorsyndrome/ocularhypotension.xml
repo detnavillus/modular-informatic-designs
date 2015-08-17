@@ -1,0 +1,13 @@
+<Record>
+<Term>Ocular Hypotension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Ocular Hypotension</ClassificationPath>
+<BroaderTerm>Ocular Hypotension</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Ocular Hypotension</Synonym>
+<Synonym>Ocular Hypotony</Synonym>
+<Description>Abnormally low intraocular pressure often related to chronic inflammation (uveitis).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Lipomatosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Lipid Metabolism Disorders</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Lipomatosis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Lipomatosis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipomatosis</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Lipomatosis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Adiposis Dolorosa</ChildTerm>
+<ChildTerm>Lipomatosis, Multiple Symmetrical</ChildTerm>
+<Synonym>Lipomatosis</Synonym>
+<Synonym>Lipomatoses</Synonym>
+<Synonym>Madelung Disease</Synonym>
+<Synonym>Madelung's Disease</Synonym>
+<Synonym>Launois-Bensaude Syndrome</Synonym>
+<Description>A disorder characterized by the accumulation of encapsulated or unencapsulated tumor-like fatty tissue resembling LIPOMA.</Description>
+<Description>A neoplastic process characterized by poorly circumscribed overgrowth of adipose tissue.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

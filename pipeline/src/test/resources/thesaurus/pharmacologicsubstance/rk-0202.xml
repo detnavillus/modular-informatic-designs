@@ -1,0 +1,15 @@
+<Record>
+<Term>RK-0202</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioprotective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Radioprotective Agent/RK-0202</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>RK-0202</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Radioprotective Agent</BroaderTerm>
+<Synonym>RK-0202</Synonym>
+<Description>An oral polymer matrix-based rinse formulation that contains N-acetylcysteine, an antioxidant amino acid derivative with antiinflammatory properties. RK-0202 may alleviate symptoms of radiation-induced oral mucositis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

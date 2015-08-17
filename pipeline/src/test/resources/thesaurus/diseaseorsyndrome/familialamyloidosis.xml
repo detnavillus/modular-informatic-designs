@@ -1,0 +1,28 @@
+<Record>
+<Term>Familial Amyloidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Amyloidosis</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Amyloidosis, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis/Amyloidosis, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Amyloidosis, Familial</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Amyloidosis, Familial</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Amyloidosis</BroaderTerm>
+<ChildTerm>Amyloid Neuropathies, Familial</ChildTerm>
+<ChildTerm>Cerebral Amyloid Angiopathy, Familial</ChildTerm>
+<Synonym>Amyloidosis hereditary</Synonym>
+<Synonym>Hereditary Amyloidosis</Synonym>
+<Synonym>Amyloidosis - hereditaries</Synonym>
+<Synonym>Hereditary Amyloidoses</Synonym>
+<Synonym>Familial Amyloidosis</Synonym>
+<Synonym>Amyloidosis - hereditary</Synonym>
+<Synonym>Familial Amyloidoses</Synonym>
+<Description>Diseases in which there is a familial pattern of AMYLOIDOSIS.Diseases in which there is an inherited mutation leading to AMYLOIDOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

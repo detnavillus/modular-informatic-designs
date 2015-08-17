@@ -1,0 +1,28 @@
+<Record>
+<Term>Cholinesterase Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ParentTerm>Cholinergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Cholinesterase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinesterase Inhibitors</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinesterase Inhibitors</ClassificationPath>
+<BroaderTerm>Cholinesterase Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Anticholinesterase Drugs</Synonym>
+<Synonym>Anti Cholinesterases</Synonym>
+<Synonym>Cholinesterase Inhibitors</Synonym>
+<Synonym>Anti-Cholinesterases</Synonym>
+<Synonym>Reversible Cholinesterase Inhibitors</Synonym>
+<Synonym>Irreversible Cholinesterase Inhibitors</Synonym>
+<Synonym>Anticholinesterases</Synonym>
+<Synonym>Acetylcholinesterase Inhibitors</Synonym>
+<Synonym>Anticholinesterase Agents</Synonym>
+<Description>Drugs that inhibit cholinesterases. The neurotransmitter ACETYLCHOLINE is rapidly hydrolyzed, and thereby inactivated, by cholinesterases. When cholinesterases are inhibited, the action of endogenously released acetylcholine at cholinergic synapses is potentiated. Cholinesterase inhibitors are widely used clinically for their potentiation of cholinergic inputs to the gastrointestinal tract and urinary bladder, the eye, and skeletal muscles; they are also used for their effects on the heart and the central nervous system.</Description>
+<Source>MeSH</Source>
+</Record>

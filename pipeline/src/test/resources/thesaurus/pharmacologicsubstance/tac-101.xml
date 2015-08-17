@@ -1,0 +1,18 @@
+<Record>
+<Term>TAC-101</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Retinoic Acid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Retinoic Acid Agent/TAC-101</ClassificationPath>
+<BroaderTerm>TAC-101</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Retinoic Acid Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>TAC 101</Synonym>
+<Synonym>TAC-101</Synonym>
+<Description>A retinobenzoic acid with potential antineoplastic activity.  TAC-101 inhibits retinoblastoma-gene product (RB) phosphorylation and increases the presence of 2 cyclin-dependent kinase (CDK) inhibitors, resulting in cell cycle arrest.  This agent also causes a cytotoxic decline in cyclin A and thymidylate synthase expression. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

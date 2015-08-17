@@ -1,0 +1,29 @@
+<Record>
+<Term>Chronic Brain Damage</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalopathy</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Damage, Chronic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalopathy/Chronic Encephalopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Encephalopathy</BroaderTerm>
+<BroaderTerm>Brain Damage, Chronic</BroaderTerm>
+<BroaderTerm>Chronic Encephalopathy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<ChildTerm>Cerebral Palsy</ChildTerm>
+<ChildTerm>Brain Injury, Chronic</ChildTerm>
+<ChildTerm>Persistent Vegetative State</ChildTerm>
+<Synonym>Chronic Encephalopathy</Synonym>
+<Synonym>Chronic Brain Damage</Synonym>
+<Description>A condition characterized by long-standing brain dysfunction or damage, usually of three months duration or longer. Potential etiologies include BRAIN INFARCTION; certain NEURODEGENERATIVE DISORDERS; CRANIOCEREBRAL TRAUMA; ANOXIA, BRAIN; ENCEPHALITIS; certain NEUROTOXICITY SYNDROMES; metabolic disorders (see BRAIN DISEASES, METABOLIC); and other conditions.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

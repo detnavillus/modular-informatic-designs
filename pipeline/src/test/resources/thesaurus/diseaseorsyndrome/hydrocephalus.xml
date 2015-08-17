@@ -1,0 +1,59 @@
+<Record>
+<Term>Hydrocephalus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<SemanticType>Finding</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Central Nervous System Disorder</ParentTerm>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Nervous System</ParentTerm>
+<ParentTerm>Intracranial Hypertension</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Central Nervous System Disorder/Hydrocephalus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hydrocephalus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Intracranial Hypertension/Hydrocephalus</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Nervous System/Hydrocephalus Adverse Event</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Hydrocephalus</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Hydrocephalus Adverse Event</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Nervous System</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Hypertension</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Hydrocephalus</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Hydrocephalus</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Hydrocephalus</ChildTerm>
+<ChildTerm>Dandy-Walker Syndrome</ChildTerm>
+<ChildTerm>Hydrocephalus, Normal Pressure</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Hydrocephalus</ChildTerm>
+<ChildTerm>Communicating Hydrocephalus</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Hydrocephalus</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Hydrocephalus</ChildTerm>
+<Synonym>Congenital Hydrocephalus</Synonym>
+<Synonym>hydrocephalus</Synonym>
+<Synonym>Obstructive Hydrocephalus</Synonym>
+<Synonym>Hydrocephalus Adverse Event</Synonym>
+<Synonym>Post Traumatic Hydrocephalus</Synonym>
+<Synonym>Hydrocephalus Ex-Vacuo</Synonym>
+<Synonym>Hydrocephalus Ex Vacuo</Synonym>
+<Synonym>Hydrocephalus Ex-Vacuos</Synonym>
+<Synonym>Hydrocephaly</Synonym>
+<Synonym>Post-Traumatic Hydrocephalus</Synonym>
+<Synonym>Communicating Hydrocephalus</Synonym>
+<Synonym>Hydrocephalus</Synonym>
+<Description>Excessive accumulation of cerebrospinal fluid within the cranium which may be associated with dilation of cerebral ventricles, INTRACRANIAL HYPERTENSION; HEADACHE; lethargy; URINARY INCONTINENCE; and ATAXIA (and in infants macrocephaly). This condition may be caused by obstruction of cerebrospinal fluid pathways due to neurologic abnormalities, INTRACRANIAL HEMORRHAGES; CENTRAL NERVOUS SYSTEM INFECTIONS; BRAIN NEOPLASMS; CRANIOCEREBRAL TRAUMA; and other conditions. Impaired resorption of cerebrospinal fluid from the arachnoid villi results in a communicating form of hydrocephalus. Hydrocephalus ex-vacuo refers to ventricular dilation that occurs as a result of brain substance loss from CEREBRAL INFARCTION and other conditions.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

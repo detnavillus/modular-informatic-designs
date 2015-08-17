@@ -1,0 +1,21 @@
+<Record>
+<Term>Coagulation Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Coagulation Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Disseminated Intravascular Coagulation</ChildTerm>
+<ChildTerm>Thrombotic Microangiopathy</ChildTerm>
+<ChildTerm>Coagulation Factor Deficiency</ChildTerm>
+<ChildTerm>von Willebrand Disease</ChildTerm>
+<Synonym>Coagulation Disorder</Synonym>
+<Synonym>Coagulopathy</Synonym>
+<Description>A condition in which there is a deviation from or interruption of the normal coagulation properties of the blood.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

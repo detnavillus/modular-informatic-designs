@@ -1,0 +1,17 @@
+<Record>
+<Term>Acetarsone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antihelminthic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiparasitic Agent/Antihelminthic Agent/Acetarsone</ClassificationPath>
+<BroaderTerm>Antiparasitic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antihelminthic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Acetarsone</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ACETARSONE</Synonym>
+<Synonym>Acetarsone</Synonym>
+<Description>A pentavalent arsenical compound with antiprotozoal and antihelmintic properties. Although its mechanism of action is not fully known, acetarsone may bind to protein-containing sulfhydryl groups located in the parasite, thereby forming lethal As-S bonds. This may prevent their functioning and eventually kill the parasite.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

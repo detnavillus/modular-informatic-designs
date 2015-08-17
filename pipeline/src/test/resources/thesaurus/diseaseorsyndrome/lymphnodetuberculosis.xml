@@ -1,0 +1,43 @@
+<Record>
+<Term>Lymph Node Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphadenitis</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphadenitis/Tuberculosis, Lymph Node</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Lymph Node</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Mycobacterial Infection/Tuberculosis/Lymph Node Tuberculosis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Tuberculosis, Lymph Node</ClassificationPath>
+<BroaderTerm>Lymph Node Tuberculosis</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Lymph Node</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphadenitis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Mycobacterial Infection</BroaderTerm>
+<ChildTerm>Mycobacterium Avium Intracellulare Lymphadenitis</ChildTerm>
+<ChildTerm>Mycobacterium Avium Complex Lymphadenitis</ChildTerm>
+<ChildTerm>King's Evil</ChildTerm>
+<Synonym>Cervical Tuberculous Lymphadenitis</Synonym>
+<Synonym>Scrofula</Synonym>
+<Synonym>Lymph Node Tuberculosis</Synonym>
+<Synonym>Scrofulas</Synonym>
+<Synonym>Mycobacterial Cervical Lymphadenitis</Synonym>
+<Synonym>Tuberculous Lymphadenitis</Synonym>
+<Synonym>Lymph Node Tuberculoses</Synonym>
+<Description>Infection of the lymph nodes by tuberculosis. Tuberculous infection of the cervical lymph nodes is scrofula.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

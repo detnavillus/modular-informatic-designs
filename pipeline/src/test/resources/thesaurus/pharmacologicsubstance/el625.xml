@@ -1,0 +1,16 @@
+<Record>
+<Term>EL625</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antisense Oligonucleotides</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Antisense Oligonucleotides/EL625</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>EL625</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Antisense Oligonucleotides</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>EL625</Synonym>
+<Synonym>OL(1)p53</Synonym>
+<Description>A phosphorothioate oligonucleotide harboring nucleotide sequences complementary to tumor suppressor p53 mRNA. EL625 hybridizes with p53 mRNA molecules, and induces Rnase H dependent hydrolysis of p53 transcripts in the double stranded section of the hybrids, thereby resulting in loss of p53 production. Loss of p53 activity leads to sensitization of cancer cells to other therapeutics.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

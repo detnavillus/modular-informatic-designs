@@ -1,0 +1,21 @@
+<Record>
+<Term>Ethotoin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Ethotoin</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ethotoin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>3-ethyl-5-phenyl-2,4-imidazolidinedione</Synonym>
+<Synonym>Hydantoin, 3-ethyl-5-phenyl-</Synonym>
+<Synonym>ETHOTOIN</Synonym>
+<Synonym>Ethotoin</Synonym>
+<Synonym>Peganone</Synonym>
+<Description>A hydantoin anticonvulsant with anti-epileptic activity. The mechanism of action is not completely known, but is thought to be fairly similar to phenytoin. Ethotoin influences synaptic transmission by altering sodium and calcium ion influx across neuronal membranes in the repolarization, depolarization, and membrane stability phase and interferes with the calcium uptake in presynaptic terminals. This inhibits neuronal firing and results in the stabilization of neuronal membranes, thereby preventing the spread of seizure activity at the motor cortex.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

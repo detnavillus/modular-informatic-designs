@@ -1,0 +1,17 @@
+<Record>
+<Term>Egg Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Food Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity/Egg Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Egg Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Egg Hypersensitivity</Synonym>
+<Synonym>Egg Hypersensitivities</Synonym>
+<Synonym>Egg Allergy</Synonym>
+<Synonym>Egg Allergies</Synonym>
+<Description>Allergic reaction to eggs that is triggered by the immune system.</Description>
+<Source>MeSH</Source>
+</Record>

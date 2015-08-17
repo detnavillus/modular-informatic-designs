@@ -1,0 +1,17 @@
+<Record>
+<Term>Taeniasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cestode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Taeniasis</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Taeniasis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Cysticercosis</ChildTerm>
+<Synonym>Taeniasis</Synonym>
+<Synonym>Taeniases</Synonym>
+<Synonym>Taenia Infections</Synonym>
+<Synonym>Taenia Infection</Synonym>
+<Description>Infection with tapeworms of the genus Taenia.</Description>
+<Source>MeSH</Source>
+</Record>

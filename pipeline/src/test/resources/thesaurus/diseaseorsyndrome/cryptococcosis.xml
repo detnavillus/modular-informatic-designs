@@ -1,0 +1,28 @@
+<Record>
+<Term>Cryptococcosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycoses</ParentTerm>
+<ParentTerm>Fungal Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Fungal Infection/Cryptococcosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Cryptococcosis</ClassificationPath>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Cryptococcosis</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Fungal Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Meningitis, Cryptococcal</ChildTerm>
+<ChildTerm>AIDS-Related Cryptococcosis</ChildTerm>
+<Synonym>Cryptococcoses</Synonym>
+<Synonym>Torulosis</Synonym>
+<Synonym>Cryptococcosis</Synonym>
+<Synonym>Toruloses</Synonym>
+<Description>Infection with a fungus of the species CRYPTOCOCCUS NEOFORMANS.</Description>
+<Description>An acute or chronic, localized or disseminated infection by Cryptococcus neoformans.  Sites of involvement include the lungs, central nervous system and meninges, skin, and visceral organs.--2004</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,162 @@
+{
+  "FileName": "C:\\email_20150810\\test@email.net.eml", 
+  "FileID": "test@email.net", 
+  "DirName": "email_20150810", 
+  "FileSize": 66198, 
+  "Type": "Email", 
+  "MsgID": "<test@email.net>", 
+  "DateTime": "2015/08/10 13:08:33", 
+  "DateTimeUTC": 1437484141.0, 
+  "Date": "2015/08/10", 
+  "Time": "13:08:33 GMT", 
+  "Subject": "RE: Hello Ben",
+  "From": [{"Category": [], "Name": "\"Smith, Ben\"", "IntExt": "Internal", "Email": "ben.smith@jpmorgan.com"}], 
+  "from": [{"Category": [], "Name": "\"Smith, Ben\"", "IntExt": "Internal", "Email": "ben.smith@jpmorgan.com"}], 
+  "sender": [{"Category": [], "Name": "\"Smith, Ben\"", "IntExt": "Internal", "Email": "ben.smith@jpmorgan.com"}], 
+  "on-behalf-of": [], 
+  "original-sender": [], 
+  "To": [
+    {"Category": [], "Name": "\"Smith, Tom X\"", "IntExt": "Internal", "Email": "tom.x.smith@jpmorgan.com"}, 
+    {"Category": ["DoddFrank", "Private", "AntiTrust"], "Name": "\"Smith, Alice X\"", "IntExt": "Internal", "Email": "alice.x.smith@jpmorgan.com"}, 
+    {"Category": ["DoddFrank", "AntiTrust"], "Name": "\"Smith, Adam C\"", "IntExt": "Internal", "Email": "adam.c.smith@jpmorgan.com"}, 
+    {"Category": [], "Name": "Bob", "IntExt": "External", "Email": "bob@gmail.com"}
+  ], 
+  "to": [
+    {"Category": [], "Name": "\"Smith, Tom X\"", "IntExt": "Internal", "Email": "tom.x.smith@jpmorgan.com"}, 
+    {"Category": ["DoddFrank", "Private", "AntiTrust"], "Name": "\"Smith, Alice X\"", "IntExt": "Internal", "Email": "alice.x.smith@jpmorgan.com"} 
+  ], 
+  "cc": [
+    {"Category": [], "Name": "Bob", "IntExt": "External", "Email": "bob@gmail.com"}
+  ], 
+  "bcc": [
+    {"Category": ["DoddFrank", "AntiTrust"], "Name": "\"Smith, Adam C\"", "IntExt": "Internal", "Email": "adam.c.smith@jpmorgan.com"}
+  ], 
+  "recipient": [], 
+  "x-mdaemon-deliver-to": [], 
+  "x-ms-exchange-organization-bcc": [], 
+  "Sender_Internal": 1, 
+  "Sender_External": 0, 
+  "Sender_AntiTrust": 0, 
+  "Sender_DoddFrank": 0, 
+  "Sender_Private": 0, 
+  "Recipient_DoddFrank": 2, 
+  "Recipient_Internal": 3, 
+  "Recipient_External": 0, 
+  "Recipient_AntiTrust": 2, 
+  "Recipient_Private": 1, 
+  "NumSenders": 1, 
+  "NumRecipients": 4, 
+  "NumUsers": 5, 
+  "NumFlaggedUsers": 2, 
+  "NumAttachments": 0, 
+  "NumAttachmentsRemoved": 1, 
+  "Direction": "Internal", 
+  "DisclaimerCount0": 0, 
+  "DisclaimerCount1": 0, 
+  "Exclude_S6": false, 
+  "Exclude_Internal_S6": false, 
+  "Exclude": false, 
+  "Exclude_Internal": false, 
+  "ExclusionScore": 0.0014343455237580377, 
+  "Attachments": [
+    {
+      "ContentType": "text/html", 
+      "FileType": "text/html", 
+      "FileName": null, 
+      "FileSize": 38280, 
+      "ID": "test@email.net.1.text/html"
+    }
+  ], 
+  "NE": [
+    {"Category": "ORG", "Name": "Microsoft" }, 
+    {"Category": "LOC", "Name": "New York"}, 
+    {"Category": "PER", "Name": "Andrew"}, 
+    {"Category": "LOC", "Name": "New York"} 
+  ], 
+  "RemovedAttachments": ["text/html"], 
+  "Content": [
+    {
+      "Type": "Subject", 
+      "Paragraphs": [
+        {
+          "Content": "RE: Hello Ben", 
+          "html": "RE: Hello <span class=\"NE PER\" title=\"NE PER\">BEN</span>", 
+          "Type": ["text", "Subject"]
+        }
+      ]
+    }, 
+    {
+      "Type": "Body", 
+      "Paragraphs": [
+        {
+          "Content": "I am doing well.", 
+          "html": "I am doing well.", 
+          "Type": ["text", "default", "text", 0.63170637467462465]
+        }, 
+        {
+          "Content": "From: Smith, Tom W\nSent: 21 July 2015 13:56\nTo: Smith, Ben\nCc: Bob\nSubject: Hello Ben", 
+          "html": "From: <span class=\"NE PER\" title=\"NE PER\">Smith</span>, <span class=\"NE PER\" title=\"NE PER\">Tom</span> W\nSent: <span class=\"RegEx NUMBER\" title=\"RegEx NUMBER\">21</span> <span class=\"RegEx DATE\" title=\"RegEx DATE\">July 2015 13</span>:<span class=\"RegEx NUMBER\" title=\"RegEx NUMBER\">56</span>\nTo: <span class=\"NE PER\" title=\"NE PER\">Smith</span>, <span class=\"NE PER\" title=\"NE PER\">Ben</span>\nSubject: Hello <span class=\"NE PER\" title=\"NE PER\">Ben</span>", 
+          "Type": ["header", 0.99978198900920356]
+        }, 
+        {
+          "Content": "How are you?", 
+          "html": "How are you?",
+          "Type": ["text", "default", "text", 0.15315684871854013]
+        }, 
+        {
+          "Content": "This information is highly confidential.",
+          "html": "This information is highly confidential.",
+          "Type": ["disclaimer", 0.92515532063948593]
+        }
+      ]
+    }
+  ], 
+  "RegEx_Entities": {
+    "CODE": ["E148291", "L5JP2" ], 
+    "PRICE": ["\u20ac 107.5M", "\u20ac 107.5M" ], 
+    "ADDRESS": ["1 King Street, " ], 
+    "NUMBER": ["73", "96", "24th ", "23rd ", "thousand" ], 
+    "FOREIGN": ["\u00c0", "\u00c0" ], 
+    "PHONE": ["C: +1 123 456 7890" ], 
+    "TIME": ["08:46 AM", "08:26 AM" ], 
+    "DATE": ["Tuesday, July 21, 2015", "2015-07-21" ], 
+    "EMAIL": ["adam.smith@jpmorgan.com" ]
+  }, 
+  "SearchContent0": [
+    {
+      "Content": "RE: Hello Ben", 
+      "Type": "Subject"
+    }, 
+    {
+      "Content": "I am doing well.\n\nFrom: Smith, Tom W\nSent: 21 July 2015 13:56\nTo: Smith, Ben\nCc: Bob\nSubject: Hello Ben\n\nHow are you?",
+      "Type": "Body"
+    }
+  ], 
+  "SearchContent1": [
+    {
+      "Content": "RE: Hello Ben", 
+      "Type": "Subject"
+    }, 
+    {
+      "Content": "I am doing well.\n\nHow are you?",
+      "Type": "Body"
+    }
+  ], 
+  "Matched_Policy_Conditions": ["DoddFrank", "AML"], 
+  "NumHits0": 1, 
+  "Hits0": [
+    {
+      "Policy": "DoddFrank", 
+      "Phrase": "How are you?", 
+      "Lexicon": "how...you"
+    }
+  ],
+  "NumHits1": 1, 
+  "Hits1": [
+    {
+      "Policy": "DoddFrank", 
+      "Phrase": "How are you?", 
+      "Lexicon": "how...you"
+    }
+  ]
+}

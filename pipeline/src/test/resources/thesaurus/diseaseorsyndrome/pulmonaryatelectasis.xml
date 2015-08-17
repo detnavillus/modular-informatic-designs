@@ -1,0 +1,33 @@
+<Record>
+<Term>Pulmonary Atelectasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Atelectasis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Atelectasis</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<ChildTerm>Middle Lobe Syndrome</ChildTerm>
+<Synonym>Pulmonary Atelectasis</Synonym>
+<Synonym>Pulmonary Atelectases</Synonym>
+<Synonym>Lung Collapse</Synonym>
+<Synonym>Atelectasis</Synonym>
+<Synonym>Atelectases</Synonym>
+<Synonym>Congestive Pulmonary Atelectasis</Synonym>
+<Synonym>Congestive Pulmonary Atelectases</Synonym>
+<Synonym>Congestive Atelectasis</Synonym>
+<Synonym>Congestive Atelectases</Synonym>
+<Synonym>Resorption Pulmonary Atelectasis</Synonym>
+<Synonym>Resorption Pulmonary Atelectases</Synonym>
+<Synonym>Resorption Atelectasis</Synonym>
+<Synonym>Resorption Atelectases</Synonym>
+<Synonym>Contraction Pulmonary Atelectasis</Synonym>
+<Synonym>Contraction Pulmonary Atelectases</Synonym>
+<Synonym>Postoperative Pulmonary Atelectasis</Synonym>
+<Synonym>Postoperative Pulmonary Atelectases</Synonym>
+<Synonym>Compression Pulmonary Atelectasis</Synonym>
+<Synonym>Compression Pulmonary Atelectases</Synonym>
+<Synonym>Compression Atelectasis</Synonym>
+<Synonym>Compression Atelectases</Synonym>
+<Description>Absence of air in the entire or part of a lung, such as an incompletely inflated neonate lung or a collapsed adult lung. Pulmonary atelectasis can be caused by airway obstruction, lung compression, fibrotic contraction, or other factors.</Description>
+<Source>MeSH</Source>
+</Record>

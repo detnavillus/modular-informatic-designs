@@ -1,0 +1,26 @@
+<Record>
+<Term>Hereditary Autoinflammatory Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hereditary Autoinflammatory Diseases</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Hereditary Autoinflammatory Diseases</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hereditary Autoinflammatory Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<ChildTerm>Cryopyrin-associated Periodic Syndromes</ChildTerm>
+<ChildTerm>Familial Mediterranean Fever</ChildTerm>
+<ChildTerm>Mevalonate Kinase Deficiency</ChildTerm>
+<Synonym>Hereditary Recurrent Fevers</Synonym>
+<Synonym>Hereditary Autoinflammation Diseases</Synonym>
+<Synonym>Hereditary Autoinflammatory Diseases</Synonym>
+<Synonym>Hereditary Recurrent Fever</Synonym>
+<Synonym>Hereditary Periodic Fever Syndromes</Synonym>
+<Synonym>Hereditary Autoinflammatory Disease</Synonym>
+<Synonym>Hereditary Autoinflammation Disease</Synonym>
+<Description>Hereditary inflammation conditions, characterized by recurrent episodes of systemic inflammation. Common symptoms include recurrent fever, rash, arthritis, fatigue, and secondary AMYLOIDOSIS. Hereditary autoinflammatory diseases are associated with mutations in genes involved in regulation of normal inflammatory process and are not caused by AUTOANTIBODIES, or antigen specific T-LYMPHOCYTES.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Spine Osteoarthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spondylarthritis</ParentTerm>
+<ParentTerm>Osteoarthritis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Osteoarthritis/Osteoarthritis, Spine</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Osteoarthritis/Osteoarthritis, Spine</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Spondylarthritis/Osteoarthritis, Spine</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases/Spondylitis/Spondylarthritis/Osteoarthritis, Spine</ClassificationPath>
+<BroaderTerm>Spondylitis</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Spondylarthritis</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Osteoarthritis, Spine</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Osteoarthritis</BroaderTerm>
+<Synonym>Spinal Osteoarthritis</Synonym>
+<Synonym>Lumbar Osteoarthritis</Synonym>
+<Synonym>Spine Osteoarthritis</Synonym>
+<Description>A degenerative joint disease involving the SPINE. It is characterized by progressive deterioration of the spinal articular cartilage (CARTILAGE, ARTICULAR), usually with hardening of the subchondral bone and outgrowth of bone spurs (OSTEOPHYTE).</Description>
+<Source>MeSH</Source>
+</Record>

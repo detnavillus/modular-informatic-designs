@@ -1,0 +1,44 @@
+<Record>
+<Term>Poliomyelitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ParentTerm>Motor Neuron Disease</ParentTerm>
+<ParentTerm>Central Nervous System Viral Diseases</ParentTerm>
+<ParentTerm>Myelitis</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Motor Neuron Disease/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Myelitis/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Myelitis/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Myelitis/Poliomyelitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Myelitis/Poliomyelitis</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Myelitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Motor Neuron Disease</BroaderTerm>
+<BroaderTerm>Poliomyelitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<ChildTerm>Poliomyelitis, Bulbar</ChildTerm>
+<ChildTerm>Postpoliomyelitis Syndrome</ChildTerm>
+<Synonym>Polio</Synonym>
+<Synonym>Polio Encephalitis</Synonym>
+<Synonym>Preparalytic Poliomyelitis</Synonym>
+<Synonym>Poliomyelitis</Synonym>
+<Synonym>Nonpoliovirus Poliomyelitis</Synonym>
+<Synonym>Infantile Paralysis</Synonym>
+<Synonym>Polios</Synonym>
+<Synonym>Acute Poliomyelitis</Synonym>
+<Synonym>Epidemic Acute Poliomyelitis</Synonym>
+<Description>An acute infectious disease of humans, particularly children, caused by any of three serotypes of human poliovirus (POLIOVIRUS). Usually the infection is limited to the gastrointestinal tract and nasopharynx, and is often asymptomatic. The central nervous system, primarily the spinal cord, may be affected, leading to rapidly progressive paralysis, coarse FASCICULATION and hyporeflexia. Motor neurons are primarily affected. Encephalitis may also occur. The virus replicates in the nervous system, and may cause significant neuronal loss, most notably in the spinal cord. A rare related condition, nonpoliovirus poliomyelitis, may result from infections with nonpoliovirus enteroviruses. (From Adams et al., Principles of Neurology, 6th ed, pp764-5)</Description>
+<Source>MeSH</Source>
+</Record>

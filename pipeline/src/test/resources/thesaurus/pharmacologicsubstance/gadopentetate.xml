@@ -1,0 +1,23 @@
+<Record>
+<Term>Gadopentetate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Gadopentetate Dimeglumine</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Gadopentetate Dimeglumine</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Magnevist</Synonym>
+<Synonym>Gd-DTPA</Synonym>
+<Synonym>Gadopentetate</Synonym>
+<Synonym>Gadopentetate Dimeglumine</Synonym>
+<Synonym>MultiHance</Synonym>
+<Synonym>Gadopentetate dimeglumine</Synonym>
+<Description>A gadolinium complex of diethylenetriamine pentaacetic acid with ionic paramagnetic properties. Gadopentetate dimeglumine may provide contrast enhancement during magnetic resonance imaging (MRI) of intracranial lesions with abnormal vascularity or of abnormalities in the blood-brain barrier (BBB). (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

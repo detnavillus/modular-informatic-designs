@@ -1,0 +1,30 @@
+<Record>
+<Term>Major Depressive Disorder</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depression</ParentTerm>
+<ParentTerm>Depressive Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression/Unipolar Depression</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mood Disorders/Depressive Disorder/Depressive Disorder, Major</ClassificationPath>
+<BroaderTerm>Unipolar Depression</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Depressive Disorder</BroaderTerm>
+<BroaderTerm>Depressive Disorder, Major</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Involutional Depression</Synonym>
+<Synonym>Major Depressive Disorders</Synonym>
+<Synonym>Unipolar Depression</Synonym>
+<Synonym>Involutional Melancholia</Synonym>
+<Synonym>Involutional Psychoses</Synonym>
+<Synonym>Involutional Psychosis</Synonym>
+<Synonym>Major Depression</Synonym>
+<Synonym>Major Depressive Disorder</Synonym>
+<Description>Marked depression appearing in the involution period and characterized by hallucinations, delusions, paranoia, and agitation.Severe mental disorder with onset in MIDDLE AGE, marked by withdrawl, abnormal affect, disturbed intellectual processes, and there may be regression.Form of depression in those MIDDLE AGE with feelings of ANXIETY.</Description>
+<Description>A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Inborn Errors Pyruvate Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Carbohydrate Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Pyruvate Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pyruvate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Pyruvate Carboxylase Deficiency Disease</ChildTerm>
+<ChildTerm>Leigh Disease</ChildTerm>
+<ChildTerm>Pyruvate Dehydrogenase Complex Deficiency Disease</ChildTerm>
+<Synonym>Pyruvate Metabolism, Inborn Errors</Synonym>
+<Description>Hereditary disorders of pyruvate metabolism. They are difficult to diagnose and describe because pyruvate is a key intermediate in glycolysis, gluconeogenesis, and the tricarboxylic acid cycle. Some inherited metabolic disorders may alter pyruvate metabolism indirectly. Disorders in pyruvate metabolism appear to lead to deficiencies in neurotransmitter synthesis and, consequently, to nervous system disorders.</Description>
+<Source>MeSH</Source>
+</Record>

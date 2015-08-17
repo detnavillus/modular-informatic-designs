@@ -1,0 +1,16 @@
+<Record>
+<Term>Disintegrant Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Disintegrant Excipient</ClassificationPath>
+<BroaderTerm>Disintegrant Excipient</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Disintegrant</Synonym>
+<Synonym>Disintegrant Excipient</Synonym>
+<Description>Disintegrant excipient is a therapeutically inactive ingredient of a solid pharmaceutical dosage form that helps the form to dissolve within the gastrointestinal tract to ensure full release of the pharmaceutically active material. Disintegration rate of the tablet may be the rate limiting step for the absorption of the drug. Currently, disintegrants have been developed to the point that disintegration is not usually the rate limiting step. The US Pharmacopeia sets a time limit for disintegration. Microcrystalline cellulose and starch are examples of disintegrants.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

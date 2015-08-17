@@ -1,0 +1,43 @@
+<Record>
+<Term>Pituitary Dwarfism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Patient or Disabled Group</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Bone Diseases, Endocrine</ParentTerm>
+<ParentTerm>Dwarfism</ParentTerm>
+<ParentTerm>Hypopituitarism</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Dwarfism/Dwarfism, Pituitary</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Dwarfism/Dwarfism, Pituitary</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Endocrine System Finding/Dwarfism/Pituitary Dwarfism</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hypopituitarism/Dwarfism, Pituitary</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Hypopituitarism/Dwarfism, Pituitary</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine/Dwarfism, Pituitary</ClassificationPath>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Dwarfism, Pituitary</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Finding</BroaderTerm>
+<BroaderTerm>Pituitary Dwarfism</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Dwarfism</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Hypopituitarism</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Pituitary Dwarfism</Synonym>
+<Synonym>Pituitary Nanism</Synonym>
+<Synonym>Pituitary Dwarf</Synonym>
+<Synonym>Growth Hormone Deficiency Dwarfism</Synonym>
+<Synonym>Hypophysial Dwarf</Synonym>
+<Synonym>Hyposomatotrophic Dwarfism</Synonym>
+<Description>A form of dwarfism caused by complete or partial GROWTH HORMONE deficiency, resulting from either the lack of GROWTH HORMONE-RELEASING FACTOR from the HYPOTHALAMUS or from the mutations in the growth hormone gene (GH1) in the PITUITARY GLAND. It is also known as Type I pituitary dwarfism. Human hypophysial dwarf is caused by a deficiency of HUMAN GROWTH HORMONE during development.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

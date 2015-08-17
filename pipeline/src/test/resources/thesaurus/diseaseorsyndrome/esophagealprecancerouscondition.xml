@@ -1,0 +1,24 @@
+<Record>
+<Term>Esophageal Precancerous Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Precancerous Condition</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Esophageal Disorder/Esophageal Precancerous Condition,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site/Gastrointestinal Precancerous Condition/Esophageal Precancerous Condition</ClassificationPath>
+<BroaderTerm>Gastrointestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Esophageal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Esophageal Precancerous Condition,</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Intestinal Metaplasia of Esophageal Mucosa</ChildTerm>
+<ChildTerm>Barrett Esophagus</ChildTerm>
+<Synonym>Esophageal Precancerous Condition</Synonym>
+<Synonym>Esophageal Premalignant Condition</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

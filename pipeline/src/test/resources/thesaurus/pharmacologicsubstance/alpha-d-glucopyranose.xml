@@ -1,0 +1,16 @@
+<Record>
+<Term>Alpha-D-Glucopyranose</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Carbohydrate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Carbohydrate/Alpha-D-Glucopyranose Monohydrate</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Carbohydrate</BroaderTerm>
+<BroaderTerm>Alpha-D-Glucopyranose Monohydrate</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>.ALPHA.-D-GLUCOPYRANOSE, MONOHYDRATE</Synonym>
+<Synonym>Alpha-D-Glucopyranose Monohydrate</Synonym>
+<Description>The monohydrate form of the alpha isoform of D-glucopyranose, a synthetic simple monosaccharide that is used as an energy source. D- glucopyranose is oxidized in various tissues under either aerobic or anaerobic conditions through glycolysis; the oxidation reaction produces carbon dioxide, water, and ATP.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

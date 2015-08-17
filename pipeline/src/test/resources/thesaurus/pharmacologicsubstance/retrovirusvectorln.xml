@@ -1,0 +1,16 @@
+<Record>
+<Term>Retrovirus Vector LN</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Retrovirus Vector LN</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Retrovirus Vector LN</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Retroviral Vector LN</Synonym>
+<Synonym>Retrovirus Vector LN</Synonym>
+<Description>A gene transfer vector derived from the PG13/LN clone of the replication-defective retroviral vector.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

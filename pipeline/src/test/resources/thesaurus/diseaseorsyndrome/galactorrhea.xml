@@ -1,0 +1,20 @@
+<Record>
+<Term>Galactorrhea</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lactation Disorders</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases/Lactation Disorders/Galactorrhea</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Puerperal Disorders/Lactation Disorders/Galactorrhea</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Puerperal Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Galactorrhea</BroaderTerm>
+<BroaderTerm>Lactation Disorders</BroaderTerm>
+<ChildTerm>Chiari-Frommel Syndrome</ChildTerm>
+<Synonym>Galactorrheas</Synonym>
+<Synonym>Galactorrhea</Synonym>
+<Description>Excessive or inappropriate LACTATION in females or males, and not necessarily related to PREGNANCY. Galactorrhea can occur either unilaterally or bilaterally, and be profuse or sparse. Its most common cause is HYPERPROLACTINEMIA.</Description>
+<Source>MeSH</Source>
+</Record>

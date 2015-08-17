@@ -1,0 +1,17 @@
+<Record>
+<Term>SB-AS15 Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/SB-AS15 Adjuvant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>SB-AS15 Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SB AS15</Synonym>
+<Synonym>SB-AS15 Adjuvant</Synonym>
+<Description>A vaccine adjuvant containing CpG 7909, monophosphoryl lipid, and QS-21 with potential antineoplastic and immunostimulatory activities. CpG 7909 is a synthetic 24-mer oligonucleotide containing 3 CpG motifs that selectively targets Toll-like receptor 9 (TLR9), thereby activating dendritic and B cells and stimulating cytotoxic T cell and antibody responses against tumor cells bearing tumor antigens. Monophosphoryl lipid is a detoxified derivative of lipid A, a component of Salmonella minnesota lipopolysaccharide (LPS); this agent may enhance humoral and cellular responses to various antigens. QS-21 is a purified, naturally occurring saponin derived from the South American tree Quillaja saponaria Molina and exhibits various immunostimulatory activities. Combinations of monophosphoryl lipid and QS-21 may be synergistic in inducing humoral and cellular immune responses. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Incomplete Bundle Branch Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Incomplete Bundle Branch Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Incomplete Bundle Branch Block</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Incomplete Left Bundle Branch Block</ChildTerm>
+<ChildTerm>Incomplete Right Bundle Branch Block</ChildTerm>
+<Synonym>INCOMPLETE BUNDLE BRANCH BLOCK</Synonym>
+<Synonym>Incomplete Bundle Branch Block</Synonym>
+<Synonym>Incomplete bundle branch block</Synonym>
+<Description>An electrocardiographic finding of bundle branch block which does not meet the criteria for a more specific bundle branch block.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

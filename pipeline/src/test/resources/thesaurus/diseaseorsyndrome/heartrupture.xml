@@ -1,0 +1,18 @@
+<Record>
+<Term>Heart Rupture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Rupture</ClassificationPath>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Rupture</BroaderTerm>
+<ChildTerm>Heart Rupture, Post-Infarction</ChildTerm>
+<Synonym>Heart Rupture</Synonym>
+<Synonym>Heart Ruptures</Synonym>
+<Synonym>Cardiac Rupture</Synonym>
+<Synonym>Cardiac Ruptures</Synonym>
+<Synonym>Ventricular Free Wall Rupture</Synonym>
+<Synonym>Cardiac Free Wall Rupture</Synonym>
+<Description>Disease-related laceration or tearing of tissues of the heart, including the free-wall MYOCARDIUM; HEART SEPTUM; PAPILLARY MUSCLES; CHORDAE TENDINEAE; and any of the HEART VALVES. Pathological rupture usually results from myocardial infarction (HEART RUPTURE, POST-INFARCTION).</Description>
+<Source>MeSH</Source>
+</Record>

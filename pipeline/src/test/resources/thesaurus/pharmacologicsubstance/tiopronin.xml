@@ -1,0 +1,22 @@
+<Record>
+<Term>Tiopronin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Miscellaneous Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Miscellaneous Adjuvant/Tiopronin</ClassificationPath>
+<BroaderTerm>Tiopronin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Adjuvant</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Glycine, N-(2-mercapto-1-oxopropyl)-</Synonym>
+<Synonym>Tiopronin</Synonym>
+<Synonym>Thiola</Synonym>
+<Synonym>TIOPRONIN</Synonym>
+<Synonym>Thiolpropionamidoacetic Acid</Synonym>
+<Synonym>(2-Mercaptopropionyl)glycine</Synonym>
+<Description>An acylated sulfhydryl-containing derivative of glycine with reducing and complexing properties. Tiopronin breaks the disulphide bond of cystine and binds the sulfhydryl group of the resultant cysteine monomers to form a soluble tiopronin-cysteine-mixed disulfide, which is more water-soluble than cystine and is readily excreted. This leads to a reduction in urinary cystine concentration and subsequently reduces cystine stone formation.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

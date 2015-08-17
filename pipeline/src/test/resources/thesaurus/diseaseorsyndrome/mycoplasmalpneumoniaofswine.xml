@@ -1,0 +1,30 @@
+<Record>
+<Term>Mycoplasmal Pneumonia of Swine</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Swine Diseases</ParentTerm>
+<ParentTerm>Pneumonia, Bacterial</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases/Pneumonia of Swine, Mycoplasmal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Pneumonia, Bacterial/Pneumonia of Swine, Mycoplasmal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pneumonia/Pneumonia, Bacterial/Pneumonia of Swine, Mycoplasmal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Pneumonia/Pneumonia, Bacterial/Pneumonia of Swine, Mycoplasmal</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Pneumonia, Bacterial</BroaderTerm>
+<BroaderTerm>Pneumonia of Swine, Mycoplasmal</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Enzootic Pneumonia of Swine</Synonym>
+<Synonym>Swine Mycoplasmal Pneumonia</Synonym>
+<Synonym>Enzootic Pneumonia of Pigs</Synonym>
+<Synonym>Swine Mycoplasma Pneumonia</Synonym>
+<Synonym>Mycoplasmal Pneumonia of Swine</Synonym>
+<Synonym>Swine Enzootic Pneumonia</Synonym>
+<Synonym>Mycoplasma Pneumonia of Pigs</Synonym>
+<Synonym>Mycoplasma Pneumonia of Swine</Synonym>
+<Description>A chronic, clinically mild, infectious pneumonia of PIGS caused by MYCOPLASMA HYOPNEUMONIAE. Ninety percent of swine herds worldwide are infected with this economically costly disease that primarily affects animals aged two to six months old. The disease can be associated with porcine respiratory disease complex. PASTEURELLA MULTOCIDA is often found as a secondary infection.</Description>
+<Source>MeSH</Source>
+</Record>

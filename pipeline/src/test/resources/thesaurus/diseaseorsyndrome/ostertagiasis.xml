@@ -1,0 +1,17 @@
+<Record>
+<Term>Ostertagiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Trichostrongyloidiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Trichostrongyloidiasis/Ostertagiasis</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Ostertagiasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Trichostrongyloidiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Ostertagiasis</Synonym>
+<Synonym>Ostertagiases</Synonym>
+<Description>A disease of herbivorous mammals, particularly cattle and sheep, caused by stomach worms of the genus OSTERTAGIA.</Description>
+<Source>MeSH</Source>
+</Record>

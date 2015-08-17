@@ -1,0 +1,13 @@
+<Record>
+<Term>Space Motion Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Motion Sickness</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Motion Sickness/Space Motion Sickness</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Space Motion Sickness</BroaderTerm>
+<BroaderTerm>Motion Sickness</BroaderTerm>
+<Synonym>Space Motion Sickness</Synonym>
+<Synonym>Space Adaptation Syndrome</Synonym>
+<Description>Disorder characterized by nausea, vomiting, and dizziness, possibly in response to vestibular disorientation or fluid shifts associated with space flight. (From Webster's New World Dictionary)</Description>
+<Source>MeSH</Source>
+</Record>

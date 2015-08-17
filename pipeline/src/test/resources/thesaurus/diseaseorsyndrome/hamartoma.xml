@@ -1,0 +1,35 @@
+<Record>
+<Term>Hamartoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disease or Disorder</ParentTerm>
+<ParentTerm>Neoplasms</ParentTerm>
+<ClassificationPath>Neoplasms/Hamartoma</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hamartoma</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Hamartoma</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Connective Tissue Nevus</ChildTerm>
+<ChildTerm>Tuberous Sclerosis</ChildTerm>
+<ChildTerm>Hamartomatous Polyp</ChildTerm>
+<ChildTerm>Hamartoma Syndrome, Multiple</ChildTerm>
+<ChildTerm>Becker Nevus</ChildTerm>
+<ChildTerm>Skin Appendage Hamartoma</ChildTerm>
+<ChildTerm>Pallister-Hall Syndrome</ChildTerm>
+<ChildTerm>Gastric Hamartoma</ChildTerm>
+<ChildTerm>Central Nervous System Hamartoma</ChildTerm>
+<ChildTerm>Organoid Nevus</ChildTerm>
+<ChildTerm>Mesenchymal Hamartoma</ChildTerm>
+<ChildTerm>Chondroid Hamartoma</ChildTerm>
+<ChildTerm>Breast Hamartoma</ChildTerm>
+<ChildTerm>Odontoma</ChildTerm>
+<ChildTerm>Hamartoma of Mature Cardiac Myocytes</ChildTerm>
+<ChildTerm>Congenital Hamartoma</ChildTerm>
+<Synonym>hamartoma</Synonym>
+<Synonym>Hamartomas</Synonym>
+<Synonym>Hamartoma</Synonym>
+<Description>A focal malformation resembling a neoplasm, composed of an overgrowth of mature cells and tissues that normally occur in the affected area.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

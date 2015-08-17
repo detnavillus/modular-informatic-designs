@@ -1,0 +1,22 @@
+<Record>
+<Term>Panniculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Panniculitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Panniculitis</ClassificationPath>
+<BroaderTerm>Panniculitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Panniculitis, Lupus Erythematosus</ChildTerm>
+<ChildTerm>Erythema Induratum</ChildTerm>
+<ChildTerm>Panniculitis, Nodular Nonsuppurative</ChildTerm>
+<ChildTerm>Panniculitis, Peritoneal</ChildTerm>
+<Synonym>Panniculitides</Synonym>
+<Synonym>Panniculitis</Synonym>
+<Synonym>Cold Panniculitides</Synonym>
+<Synonym>Cold Panniculitis</Synonym>
+<Description>General term for inflammation of adipose tissue, usually of the skin, characterized by reddened subcutaneous nodules.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Borna Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mononegavirales Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Borna Disease</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Borna Disease</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Borna Disease</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Borna Disease</Synonym>
+<Description>An encephalomyelitis of horses, sheep and cattle caused by BORNA DISEASE VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

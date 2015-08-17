@@ -1,0 +1,16 @@
+<Record>
+<Term>Pulmonary Surfactants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Pulmonary Surfactants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Pulmonary Surfactants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<Synonym>Pulmonary Surfactants</Synonym>
+<Synonym>Pulmonary Surfactant</Synonym>
+<Description>Substances and drugs that lower the SURFACE TENSION of the mucoid layer lining the PULMONARY ALVEOLI.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Gastroparesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paralysis</ParentTerm>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Paralysis/Gastroparesis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastroparesis</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Paralysis</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastroparesis</BroaderTerm>
+<Synonym>Gastropareses</Synonym>
+<Synonym>Gastric Stases</Synonym>
+<Synonym>Gastroparesis</Synonym>
+<Synonym>Gastric Stasis</Synonym>
+<Description>Chronic delayed gastric emptying. Gastroparesis may be caused by motor dysfunction or paralysis of  STOMACH muscles or may be associated with other systemic diseases such as DIABETES MELLITUS.</Description>
+<Source>MeSH</Source>
+</Record>

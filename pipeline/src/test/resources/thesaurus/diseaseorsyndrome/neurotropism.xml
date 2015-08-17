@@ -1,0 +1,14 @@
+<Record>
+<Term>Neurotropism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pathologic Process</ParentTerm>
+<ClassificationPath>Biological_Process_Kind/Biological Process/Pathologic Process/Neurotropism</ClassificationPath>
+<BroaderTerm>Biological_Process_Kind</BroaderTerm>
+<BroaderTerm>Pathologic Process</BroaderTerm>
+<BroaderTerm>Neurotropism</BroaderTerm>
+<BroaderTerm>Biological Process</BroaderTerm>
+<Synonym>Neurotropism</Synonym>
+<Synonym>neurotropism</Synonym>
+<Description>The ability of neurons to extend cellular processes, such as axons and dendrites, toward an enriched source of nerves or other growth factors. This process establishes neural cell communication connections. Neurotropism is also utilized by virion that seek to invade and infect the host's neural tissue for propagation of disease.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

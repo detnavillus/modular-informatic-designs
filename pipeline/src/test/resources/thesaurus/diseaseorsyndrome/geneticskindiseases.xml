@@ -1,0 +1,48 @@
+<Record>
+<Term>Genetic Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<ChildTerm>Incontinentia Pigmenti</ChildTerm>
+<ChildTerm>Pseudoxanthoma Elasticum</ChildTerm>
+<ChildTerm>Ichthyosis, X-Linked</ChildTerm>
+<ChildTerm>Porokeratosis</ChildTerm>
+<ChildTerm>Rothmund-Thomson Syndrome</ChildTerm>
+<ChildTerm>Monilethrix</ChildTerm>
+<ChildTerm>Erythrokeratodermia Variabilis</ChildTerm>
+<ChildTerm>Xeroderma Pigmentosum</ChildTerm>
+<ChildTerm>Prolidase Deficiency</ChildTerm>
+<ChildTerm>Trichothiodystrophy Syndromes</ChildTerm>
+<ChildTerm>Keratoderma, Palmoplantar</ChildTerm>
+<ChildTerm>Ehlers-Danlos Syndrome</ChildTerm>
+<ChildTerm>Netherton Syndrome</ChildTerm>
+<ChildTerm>Ectodermal Dysplasia</ChildTerm>
+<ChildTerm>Porphyria, Erythropoietic</ChildTerm>
+<ChildTerm>Sjogren-Larsson Syndrome</ChildTerm>
+<ChildTerm>Ichthyosiform Erythroderma, Congenital</ChildTerm>
+<ChildTerm>Ichthyosis Vulgaris</ChildTerm>
+<ChildTerm>Hereditary Autoinflammatory Diseases</ChildTerm>
+<ChildTerm>Albinism</ChildTerm>
+<ChildTerm>Pemphigus, Benign Familial</ChildTerm>
+<ChildTerm>Darier Disease</ChildTerm>
+<ChildTerm>Porphyrias, Hepatic</ChildTerm>
+<ChildTerm>Lipoid Proteinosis of Urbach and Wiethe</ChildTerm>
+<ChildTerm>Dyskeratosis Congenita</ChildTerm>
+<ChildTerm>Leukokeratosis, Hereditary Mucosal</ChildTerm>
+<ChildTerm>Epidermolysis Bullosa</ChildTerm>
+<ChildTerm>Dermatitis, Atopic</ChildTerm>
+<ChildTerm>Muir-Torre Syndrome</ChildTerm>
+<ChildTerm>Ichthyosis Bullosa of Siemens</ChildTerm>
+<ChildTerm>Cutis Laxa</ChildTerm>
+<Synonym>Genetic Skin Disease</Synonym>
+<Synonym>Genetic Skin Diseases</Synonym>
+<Description>Diseases of the skin with a genetic component, usually the result of various inborn errors of metabolism.</Description>
+<Source>MeSH</Source>
+</Record>

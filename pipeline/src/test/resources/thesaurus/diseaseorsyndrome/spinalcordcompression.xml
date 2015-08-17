@@ -1,0 +1,30 @@
+<Record>
+<Term>Spinal Cord Compression</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cancer-Related Condition</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ParentTerm>Spinal Cord Injuries</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Spinal Cord Compression</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Spinal Cord Injuries/Spinal Cord Compression</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Spinal Cord Compression</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Spinal Cord Compression</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Spinal Cord Injuries</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>Conus Medullaris Syndromes</Synonym>
+<Synonym>Extramedullary Spinal Cord Compression</Synonym>
+<Synonym>Conus Medullaris Syndrome</Synonym>
+<Synonym>Compressive Myelopathy</Synonym>
+<Synonym>Spinal Cord Compression</Synonym>
+<Synonym>Spinal Cord Compressions</Synonym>
+<Description>Acute and chronic conditions characterized by external mechanical compression of the SPINAL CORD due to extramedullary neoplasm; EPIDURAL ABSCESS; SPINAL FRACTURES; bony deformities of the vertebral bodies; and other conditions. Clinical manifestations vary with the anatomic site of the lesion and may include localized pain, weakness, sensory loss, incontinence, and impotence.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

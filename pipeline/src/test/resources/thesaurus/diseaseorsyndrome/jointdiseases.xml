@@ -1,0 +1,35 @@
+<Record>
+<Term>Joint Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<ChildTerm>Arthritis</ChildTerm>
+<ChildTerm>Arthrogryposis</ChildTerm>
+<ChildTerm>Arthropathy, Neurogenic</ChildTerm>
+<ChildTerm>Bursitis</ChildTerm>
+<ChildTerm>Contracture</ChildTerm>
+<ChildTerm>Ankylosis</ChildTerm>
+<ChildTerm>Synovitis</ChildTerm>
+<ChildTerm>Temporomandibular Joint Disorders</ChildTerm>
+<ChildTerm>Chondromatosis, Synovial</ChildTerm>
+<ChildTerm>Joint Deformities, Acquired</ChildTerm>
+<ChildTerm>Arthralgia</ChildTerm>
+<ChildTerm>Shoulder Impingement Syndrome</ChildTerm>
+<ChildTerm>Hallux Limitus</ChildTerm>
+<ChildTerm>Hallux Rigidus</ChildTerm>
+<ChildTerm>Metatarsalgia</ChildTerm>
+<ChildTerm>Patellofemoral Pain Syndrome</ChildTerm>
+<ChildTerm>Hemarthrosis</ChildTerm>
+<ChildTerm>Hip Dislocation, Congenital</ChildTerm>
+<ChildTerm>Hydrarthrosis</ChildTerm>
+<ChildTerm>Joint Instability</ChildTerm>
+<ChildTerm>Joint Loose Bodies</ChildTerm>
+<ChildTerm>Nail-Patella Syndrome</ChildTerm>
+<ChildTerm>Osteoarthropathy, Primary Hypertrophic</ChildTerm>
+<ChildTerm>Osteoarthropathy, Secondary Hypertrophic</ChildTerm>
+<Synonym>Joint Diseases</Synonym>
+<Synonym>Joint Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

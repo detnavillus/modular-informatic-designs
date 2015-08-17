@@ -1,0 +1,14 @@
+<Record>
+<Term>Fibrous Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Fibrous Polyp</ClassificationPath>
+<BroaderTerm>Fibrous Polyp</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Anal Fibrous Polyp</ChildTerm>
+<Synonym>Fibrous Polyp</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

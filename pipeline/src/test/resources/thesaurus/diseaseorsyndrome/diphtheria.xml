@@ -1,0 +1,27 @@
+<Record>
+<Term>Diphtheria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Corynebacterium Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Diphtheria</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Corynebacterium Infections/Diphtheria</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Corynebacterium Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Diphtheria</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<ChildTerm>Anterior Nasal Diphtheria</ChildTerm>
+<Synonym>Diphtherias</Synonym>
+<Synonym>Diphtheria</Synonym>
+<Description>A localized infection of mucous membranes or skin caused by toxigenic strains of CORYNEBACTERIUM DIPHTHERIAE. It is characterized by the presence of a pseudomembrane at the site of infection. DIPHTHERIA TOXIN, produced by C. diphtheriae, can cause myocarditis, polyneuritis, and other systemic toxic effects.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

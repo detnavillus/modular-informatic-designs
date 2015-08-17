@@ -1,0 +1,26 @@
+<Record>
+<Term>Colorectal Hyperplastic Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperplastic Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp/Hyperplastic Polyp/Colorectal Hyperplastic Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Colorectal Polyp/Colorectal Hyperplastic Polyp</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Colorectal Hyperplastic Polyp,</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Hyperplastic Polyp</BroaderTerm>
+<BroaderTerm>Colorectal Hyperplastic Polyp</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Colorectal Polyp</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Colon Hyperplastic Polyp</ChildTerm>
+<ChildTerm>Rectal Hyperplastic Polyp</ChildTerm>
+<Synonym>Colorectal Hyperplastic Polyp</Synonym>
+<Synonym>Hyperplastic Large Bowel Polyp</Synonym>
+<Synonym>Hyperplastic Polyp of Large Bowel</Synonym>
+<Synonym>Hyperplastic Polyp of the Large Bowel</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

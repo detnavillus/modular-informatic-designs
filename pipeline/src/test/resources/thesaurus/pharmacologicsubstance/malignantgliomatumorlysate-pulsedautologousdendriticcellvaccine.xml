@@ -1,0 +1,18 @@
+<Record>
+<Term>Malignant Glioma Tumor Lysate-Pulsed Autologous Dendritic Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dendritic Cell Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/APC Vaccine/Dendritic Cell Vaccine/Malignant Glioma Tumor Lysate-Pulsed Autologous Dendritic Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>APC Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Malignant Glioma Tumor Lysate-Pulsed Autologous Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Malignant Glioma Tumor Lysate-Pulsed Autologous Dendritic Cell Vaccine</Synonym>
+<Description>A cell-based cancer vaccine composed of autologous dendritic cells (DCs) pulsed with lysates from malignant glioma cells with potential immunostimulatory and antineoplastic activities. Upon administration, malignant glioma tumor lysate-pulsed autologous dendritic cell vaccine exposes the immune system to undefined malignant glioma tumor-associated antigens (TAAs), which may result in anti-tumoral cytotoxic T lymphocyte (CTL) and antibody responses against glioma cells and glioma cell lysis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

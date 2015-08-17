@@ -1,0 +1,23 @@
+<Record>
+<Term>Familial Partial Lipodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipodystrophy</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Lipodystrophy/Lipodystrophy, Familial Partial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipodystrophy/Lipodystrophy, Familial Partial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Lipodystrophy/Lipodystrophy, Familial Partial</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipodystrophy, Familial Partial</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Lipodystrophy</BroaderTerm>
+<Synonym>Koberling Dunnigan Syndrome</Synonym>
+<Synonym>Koberling-Dunnigan Syndrome</Synonym>
+<Synonym>Dunnigan Syndrome</Synonym>
+<Synonym>Familial Partial Lipodystrophy</Synonym>
+<Synonym>Familial Partial Lipodystrophies</Synonym>
+<Description>Inherited conditions characterized by the partial loss of ADIPOSE TISSUE, either confined to the extremities with normal or increased fat deposits on the face, neck and trunk (type 1), or confined to the loss of SUBCUTANEOUS FAT from the limbs and trunk (type 2).This type can be caused by mutation in the gene encoding LAMIN TYPE A.This type can be caused by mutation in the gene encoding PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA.</Description>
+<Source>MeSH</Source>
+</Record>

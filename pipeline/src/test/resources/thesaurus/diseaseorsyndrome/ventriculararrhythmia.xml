@@ -1,0 +1,46 @@
+<Record>
+<Term>Ventricular Arrhythmia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Arrhythmia</ParentTerm>
+<ParentTerm>Adverse Event Associated with Cardiac Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Cardiac Arrhythmia/Ventricular Arrhythmia Adverse Event</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Cardiac Arrhythmia</BroaderTerm>
+<BroaderTerm>Ventricular Arrhythmia Adverse Event</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Ventricular Tachycardia</ChildTerm>
+<ChildTerm>Torsade de Pointes Adverse Event</ChildTerm>
+<ChildTerm>Bigeminy Adverse Event</ChildTerm>
+<ChildTerm>Ventricular Fibrillation Adverse Event</ChildTerm>
+<ChildTerm>Ventricular Flutter Adverse Event</ChildTerm>
+<ChildTerm>Brugada Syndrome</ChildTerm>
+<ChildTerm>Ventricular Couplet</ChildTerm>
+<ChildTerm>Ventricular Fibrillation</ChildTerm>
+<ChildTerm>Trigeminy Adverse Event</ChildTerm>
+<ChildTerm>Ventricular Tachycardia Adverse Event</ChildTerm>
+<ChildTerm>Accelerated Idioventricular Rhythm</ChildTerm>
+<ChildTerm>Idioventricular Rhythm Adverse Event</ChildTerm>
+<ChildTerm>Ectopic Ventricular Rhythm</ChildTerm>
+<ChildTerm>Ventricular Premature Complex</ChildTerm>
+<ChildTerm>Premature Ventricular Contraction Adverse Event</ChildTerm>
+<ChildTerm>Ventricular Arrhythmia Adverse Event NOS</ChildTerm>
+<Synonym>Ventricular Arrhythmia</Synonym>
+<Synonym>Ventricular arrhythmia</Synonym>
+<Synonym>Ventricular Arrhythmia Adverse Event</Synonym>
+<Description>Irregular heart beat resulting from a pathologic process in the cardiac ventricles.--2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Paclitaxel PPE Microspheres</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Paclitaxel Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Taxane-Pocket Binding Agent/Paclitaxel Preparation/Paclitaxel PPE Microspheres</ClassificationPath>
+<BroaderTerm>Taxane-Pocket Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Paclitaxel Preparation</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Paclitaxel PPE Microspheres</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Paclimer Microspheres</Synonym>
+<Synonym>Paclimer Microspheres (Polilactofate/Paclitaxel)</Synonym>
+<Synonym>Paclitaxel Biopolymer Formulation</Synonym>
+<Synonym>Paclitaxel PPE Microspheres</Synonym>
+<Description>A paclitaxel formulation containing paclitaxel incorporated in biodegradable polyphosphoester (PPE) polymer form with potential antineoplastic activity. Upon intraperitoneal delivery, paclitaxel PPE microspheres slowly and continuously dissolve and deliver paclitaxel to the tumor site, where it binds to tubulin and inhibits the dynamics of disassembly-assembly of microtubules. As a result, this formulation induces cell cycle arrest and leads to cell death.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

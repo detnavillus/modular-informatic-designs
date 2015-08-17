@@ -1,0 +1,50 @@
+<Record>
+<Term>Antineoplastic Antibiotics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Antineoplastic Agents</ParentTerm>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antineoplastic Antibiotic</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Antineoplastic Agents/Antibiotics, Antineoplastic</ClassificationPath>
+<BroaderTerm>Antibiotics, Antineoplastic</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antineoplastic Agents</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Antibiotic</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Ansamycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Olivomycin Antibiotic</ChildTerm>
+<ChildTerm>Duocarmycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Actinomycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Depsipeptide Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Geroquinol</ChildTerm>
+<ChildTerm>Pibrozelesin</ChildTerm>
+<ChildTerm>Enediyne Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Anthracycline Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Mitomycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Miscellaneous Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Chromomycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Pibrozelesin Hydrobromide</ChildTerm>
+<ChildTerm>Bleomycin Antibiotic</ChildTerm>
+<ChildTerm>Anthrapyrazole Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Distamycin Antineoplastic Antibiotic</ChildTerm>
+<ChildTerm>Pladienolide Derivative E7107</ChildTerm>
+<Synonym>Anticancer Antibiotics</Synonym>
+<Synonym>antitumor antibiotics</Synonym>
+<Synonym>Antineoplastic Antibiotic</Synonym>
+<Synonym>Antineoplastic Antibiotics</Synonym>
+<Synonym>Antitumor Antibiotics</Synonym>
+<Synonym>Antitumor Antibiotic</Synonym>
+<Synonym>Cytotoxic Antibiotics</Synonym>
+<Synonym>antineoplastic antibiotics</Synonym>
+<Synonym>anticancer antibiotics</Synonym>
+<Synonym>Anticancer Antibiotic</Synonym>
+<Description>Therapeutic agents isolated naturally from microorganisms or synthesized chemically that kills or inhibits the growth of tumor cells.  Antineoplastic antibiotics can interfere with the normal function of cellular nucleic acids and proteins. (NCI04)</Description>
+<Description>Chemical substances, produced by microorganisms, inhibiting or preventing the proliferation of neoplasms.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

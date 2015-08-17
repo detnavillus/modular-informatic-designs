@@ -1,0 +1,18 @@
+<Record>
+<Term>Neratinib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Neratinib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Neratinib</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>HKI-272</Synonym>
+<Synonym>NERATINIB</Synonym>
+<Synonym>Neratinib</Synonym>
+<Description>An orally available, 6,7-disubstituted-4-anilinoquinoline-3-carbonitrile, irreversible inhibitor of the HER-2 receptor tyrosine kinase with potential antineoplastic activity. HKI-272 binds to the HER-2 receptor irreversibly, thereby reducing autophosphorylation in cells, apparently by targeting a cysteine residue in the ATP-binding pocket of the receptor. Treatment of cells with this agent results in inhibition of downstream signal transduction events and cell cycle regulatory pathways; arrest at the G1-S (Gap 1/DNA synthesis)-phase transition of the cell division cycle; and ultimately decreased cellular proliferation. HKI-272 also inhibits the epidermal growth factor receptor (EGFR) kinase and the proliferation of EGFR-dependent cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Polymorphic Ventricular Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ventricular Tachycardia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia/Ventricular Tachycardia/Polymorphic Ventricular Tachycardia</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Ventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Polymorphic Ventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Polymorphic Ventricular Tachycardia</Synonym>
+<Synonym>VENTRICULAR TACHYCARDIA, POLYMORPHIC</Synonym>
+<Synonym>Ventricular Tachycardia, Polymorphic</Synonym>
+<Synonym>Ventricular tachycardia, polymorphic</Synonym>
+<Description>A ventricular tachycardia in which the ventricular activation sequence is variable. The morphology of the electrocardiographic waveform is variable and is referred to as polymorphic.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

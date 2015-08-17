@@ -1,0 +1,22 @@
+<Record>
+<Term>Inborn Errors Metal Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Cell or Molecular Dysfunction</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Hypophosphatemia, Familial</ChildTerm>
+<ChildTerm>Menkes Kinky Hair Syndrome</ChildTerm>
+<ChildTerm>Hemochromatosis</ChildTerm>
+<ChildTerm>Pseudohypoparathyroidism</ChildTerm>
+<ChildTerm>Hypophosphatasia</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<ChildTerm>Paralyses, Familial Periodic</ChildTerm>
+<Source>MeSH</Source>
+</Record>

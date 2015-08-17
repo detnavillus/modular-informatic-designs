@@ -1,0 +1,18 @@
+<Record>
+<Term>Bipolar Depression</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Depression</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Depression/Bipolar Depression,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Bipolar Disorder/Bipolar Depression</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bipolar Depression</BroaderTerm>
+<BroaderTerm>Bipolar Depression,</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Bipolar Disorder</BroaderTerm>
+<BroaderTerm>Depression</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Bipolar Depression</Synonym>
+<Description>The depressive stage of bipolar disorder.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

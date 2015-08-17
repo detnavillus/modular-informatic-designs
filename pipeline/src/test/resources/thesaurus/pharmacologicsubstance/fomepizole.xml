@@ -1,0 +1,20 @@
+<Record>
+<Term>Fomepizole</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Fomepizole</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Fomepizole</BroaderTerm>
+<Synonym>FOMEPIZOLE</Synonym>
+<Synonym>Antizol</Synonym>
+<Synonym>1H-Pyrazole, 4-methyl-</Synonym>
+<Synonym>4-Methylpyrazol</Synonym>
+<Synonym>Fomepizole</Synonym>
+<Description>A pyrazole with competitive alcohol dehydrogenase inhibitor activity. Fomepizole prevents the metabolism of ethylene glycol and methanol by alcohol dehydrogenase, thereby inhibiting the formation of their toxic metabolites, glycolate and oxalate (from ethylene glycol), and formic acid (from methanol). Fomepizole is indicated for use as an antidote in ethylene glycol and methanol poisoning. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

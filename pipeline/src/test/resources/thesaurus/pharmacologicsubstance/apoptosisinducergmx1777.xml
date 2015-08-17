@@ -1,0 +1,16 @@
+<Record>
+<Term>Apoptosis Inducer GMX1777</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Apoptosis Inducer GMX1777</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Apoptosis Inducer GMX1777</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Apoptosis Inducer GMX1777</Synonym>
+<Synonym>CHS828 Prodrug</Synonym>
+<Synonym>GMX1777</Synonym>
+<Description>A water-soluble prodrug of the cyanoguanidine compound GMX1778 with potential antineoplastic activity. In vivo, apoptosis inducer GMX1777 is rapidly converted into GMX1778 through hydrolytic cleavage of a carbonate ester bond. Although the exact mechanism of action has yet to be fully elucidated, GMX1778 appears to antagonize nuclear factor-kappa B (NF-kB) transcription, resulting in the induction of tumor cell apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

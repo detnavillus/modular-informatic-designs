@@ -1,0 +1,22 @@
+<Record>
+<Term>Periodontal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Dental Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Non-Neoplastic Dental Disorder/Periodontal Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Dental Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Periodontal Pocket</ChildTerm>
+<ChildTerm>Periodontitis</ChildTerm>
+<Synonym>Periodontal Disease</Synonym>
+<Synonym>Periodontal Disorder</Synonym>
+<Description>An inflammatory process of the gingival tissues and/or periodontal membrane of the teeth, resulting in an abnormally deep gingival sulcus, possibly producing periodontal pockets and loss of alveolar bone support.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

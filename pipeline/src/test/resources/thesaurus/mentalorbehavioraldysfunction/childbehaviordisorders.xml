@@ -1,0 +1,12 @@
+<Record>
+<Term>Child Behavior Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Child Behavior Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Child Behavior Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<Synonym>Child Behavior Disorders</Synonym>
+<Description>Disturbances considered to be pathological based on age and stage appropriateness, e.g., conduct disturbances and anaclitic depression. This concept does not include psychoneuroses, psychoses, or personality disorders with fixed patterns.</Description>
+<Source>MeSH</Source>
+</Record>

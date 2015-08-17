@@ -1,0 +1,26 @@
+<Record>
+<Term>Gingival Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gingival Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Gingival Polyp</ClassificationPath>
+<BroaderTerm>Gingival Polyp,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Gingival Polyp</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Gingival Fibroepithelial Polyp</ChildTerm>
+<Synonym>Gingival Polyp</Synonym>
+<Synonym>Gum Polyp</Synonym>
+<Synonym>Polyp of Gingiva</Synonym>
+<Synonym>Polyp of Gum</Synonym>
+<Synonym>Polyp of the Gingiva</Synonym>
+<Synonym>Polyp of the Gum</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

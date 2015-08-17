@@ -1,0 +1,17 @@
+<Record>
+<Term>Digitalin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiarrhythmic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antiarrhythmic Agent/Digitalin</ClassificationPath>
+<BroaderTerm>Digitalin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Antiarrhythmic Agent</BroaderTerm>
+<Synonym>DIGITALIN</Synonym>
+<Synonym>Digitalin</Synonym>
+<Description>A glycoside compound, extracted from the leaves and seeds of the common foxglove, with anti-arrhythmic property. Digitalin inhibits the enzymatic activity of the sodium-potassium ATPase pump in cardiac tissue, thereby increasing intracellular sodium and calcium levels and providing a positive inotropic effect. This results in increased force of myocardial muscle contraction. This agent also has a vagal effect on the parasympathetic nervous system, and as such slows the ventricular heart rate as well as helps eliminate fluid from body tissues.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

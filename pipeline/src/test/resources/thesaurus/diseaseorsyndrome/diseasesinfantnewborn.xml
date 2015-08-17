@@ -1,0 +1,41 @@
+<Record>
+<Term>Diseases Infant, Newborn</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<ChildTerm>Asphyxia Neonatorum</ChildTerm>
+<ChildTerm>Birth Injuries</ChildTerm>
+<ChildTerm>Infant, Premature, Diseases</ChildTerm>
+<ChildTerm>Cystic Fibrosis</ChildTerm>
+<ChildTerm>Hydrocephalus</ChildTerm>
+<ChildTerm>Erythroblastosis, Fetal</ChildTerm>
+<ChildTerm>Amniotic Band Syndrome</ChildTerm>
+<ChildTerm>Anemia, Neonatal</ChildTerm>
+<ChildTerm>Persistent Fetal Circulation Syndrome</ChildTerm>
+<ChildTerm>Rothmund-Thomson Syndrome</ChildTerm>
+<ChildTerm>Sclerema Neonatorum</ChildTerm>
+<ChildTerm>Syphilis, Congenital</ChildTerm>
+<ChildTerm>Thanatophoric Dysplasia</ChildTerm>
+<ChildTerm>Toxoplasmosis, Congenital</ChildTerm>
+<ChildTerm>Wolman Disease</ChildTerm>
+<ChildTerm>Ichthyosis</ChildTerm>
+<ChildTerm>Severe Combined Immunodeficiency</ChildTerm>
+<ChildTerm>Mobius Syndrome</ChildTerm>
+<ChildTerm>Nystagmus, Congenital</ChildTerm>
+<ChildTerm>Epilepsy, Benign Neonatal</ChildTerm>
+<ChildTerm>Persistent Hyperinsulinemia Hypoglycemia of Infancy</ChildTerm>
+<ChildTerm>Hyperbilirubinemia, Neonatal</ChildTerm>
+<ChildTerm>Thrombocytopenia, Neonatal Alloimmune</ChildTerm>
+<ChildTerm>Vitamin K Deficiency Bleeding</ChildTerm>
+<ChildTerm>Hernia, Umbilical</ChildTerm>
+<ChildTerm>Hydrophthalmos</ChildTerm>
+<ChildTerm>Hyperostosis, Cortical, Congenital</ChildTerm>
+<ChildTerm>Meconium Aspiration Syndrome</ChildTerm>
+<ChildTerm>Neonatal Abstinence Syndrome</ChildTerm>
+<ChildTerm>Ophthalmia Neonatorum</ChildTerm>
+<Synonym>Infant, Newborn, Diseases</Synonym>
+<Description>Diseases of newborn infants present at birth (congenital) or developing within the first month of birth. It does not include hereditary diseases not manifesting at birth or within the first 30 days of life nor does it include inborn errors of metabolism. Both HEREDITARY DISEASES and METABOLISM, INBORN ERRORS are available as general concepts.</Description>
+<Source>MeSH</Source>
+</Record>

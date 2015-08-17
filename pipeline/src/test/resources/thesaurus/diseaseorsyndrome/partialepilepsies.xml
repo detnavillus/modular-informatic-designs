@@ -1,0 +1,48 @@
+<Record>
+<Term>Partial Epilepsies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Epilepsies, Partial</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Epilepsies, Partial</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Epilepsy, Temporal Lobe</ChildTerm>
+<ChildTerm>Epilepsy, Complex Partial</ChildTerm>
+<ChildTerm>Epilepsy, Frontal Lobe</ChildTerm>
+<ChildTerm>Epilepsy, Rolandic</ChildTerm>
+<ChildTerm>Epilepsy, Partial, Sensory</ChildTerm>
+<ChildTerm>Epilepsy, Partial, Motor</ChildTerm>
+<Synonym>Partial Epilepsies</Synonym>
+<Synonym>Localization-Related Epilepsies</Synonym>
+<Synonym>Localization-Related Epilepsy</Synonym>
+<Synonym>Focal Seizure Disorder</Synonym>
+<Synonym>Focal Seizure Disorders</Synonym>
+<Synonym>Partial Seizure Disorder</Synonym>
+<Synonym>Partial Seizure Disorders</Synonym>
+<Synonym>Focal Epilepsies</Synonym>
+<Synonym>Focal Epilepsy</Synonym>
+<Synonym>Partial Epilepsy</Synonym>
+<Synonym>Gelastic Epilepsy</Synonym>
+<Synonym>Gelastic Epilepsies</Synonym>
+<Synonym>Occipital Lobe Epilepsy</Synonym>
+<Synonym>Occipital Lobe Epilepsies</Synonym>
+<Synonym>Rhinencephalic Epilepsy</Synonym>
+<Synonym>Rhinencephalic Epilepsies</Synonym>
+<Synonym>Childhood Benign Occipital Epilepsy</Synonym>
+<Synonym>Subclinical Seizure</Synonym>
+<Synonym>Subclinical Seizures</Synonym>
+<Synonym>Uncinate Seizures</Synonym>
+<Synonym>Abdominal Epilepsy</Synonym>
+<Synonym>Abdominal Epilepsies</Synonym>
+<Synonym>Digestive Epilepsy</Synonym>
+<Synonym>Digestive Epilepsies</Synonym>
+<Synonym>Amygdalo-Hippocampal Epilepsy</Synonym>
+<Synonym>Amygdalo-Hippocampal Epilepsies</Synonym>
+<Synonym>Childhood Benign Focal Epilepsy</Synonym>
+<Synonym>Simple Partial Epilepsies</Synonym>
+<Synonym>Simple Partial Seizures</Synonym>
+<Description>Conditions characterized by recurrent paroxysmal neuronal discharges which arise from a focal region of the brain. Partial seizures are divided into simple and complex, depending on whether consciousness is unaltered (simple partial seizure) or disturbed (complex partial seizure). Both types may feature a wide variety of motor, sensory, and autonomic symptoms. Partial seizures may be classified by associated clinical features or anatomic location of the seizure focus. A secondary generalized seizure refers to a partial seizure that spreads to involve the brain diffusely. (From Adams et al., Principles of Neurology, 6th ed, pp317)</Description>
+<Source>MeSH</Source>
+</Record>

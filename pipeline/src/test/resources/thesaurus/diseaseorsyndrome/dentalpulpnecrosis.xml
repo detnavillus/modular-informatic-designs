@@ -1,0 +1,28 @@
+<Record>
+<Term>Dental Pulp Necrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Necrosis</ParentTerm>
+<ParentTerm>Dental Pulp Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Necrosis/Dental Pulp Necrosis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Pulp Diseases/Dental Pulp Necrosis</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Dental Pulp Necrosis</BroaderTerm>
+<BroaderTerm>Necrosis</BroaderTerm>
+<BroaderTerm>Dental Pulp Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Pulp Gangrene</Synonym>
+<Synonym>Pulp Mummification</Synonym>
+<Synonym>Dental Pulp Necroses</Synonym>
+<Synonym>Pulp Necrosis</Synonym>
+<Synonym>Pulp Necroses</Synonym>
+<Synonym>Dental Pulp Autolyses</Synonym>
+<Synonym>Dental Pulp Necrosis</Synonym>
+<Synonym>Dental Pulp Gangrene</Synonym>
+<Synonym>Pulp Gangrenes</Synonym>
+<Synonym>Dental Pulp Autolysis</Synonym>
+<Synonym>Pulp Mummifications</Synonym>
+<Description>Death of pulp tissue with or without bacterial invasion. When the necrosis is due to ischemia with superimposed bacterial infection, it is referred to as pulp gangrene. When the necrosis is non-bacterial in origin, it is called pulp mummification.Drying and shriveling of the dental pulp due to dry gangrene. Historically this was a method used to remove devitalized pulp.</Description>
+<Source>MeSH</Source>
+</Record>

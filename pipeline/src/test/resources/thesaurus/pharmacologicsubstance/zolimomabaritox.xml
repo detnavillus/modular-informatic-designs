@@ -1,0 +1,25 @@
+<Record>
+<Term>Zolimomab Aritox</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Ricin Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Immunotoxin/Ricin Immunoconjugate/Zolimomab Aritox</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Zolimomab Aritox</BroaderTerm>
+<BroaderTerm>Immunotoxin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ricin Immunoconjugate</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-CD5 MoAb</Synonym>
+<Synonym>Anti-CD5 T-Lymphocyte Immunotoxin</Synonym>
+<Synonym>Anti-T-Cell RTA Immunotoxin</Synonym>
+<Synonym>Anti-T-Cell Ricin A Chain Immunotoxin</Synonym>
+<Synonym>CD5-Immunoconjugate</Synonym>
+<Synonym>H65-RTA</Synonym>
+<Synonym>Orthozyme-CD5 Plus</Synonym>
+<Synonym>XomaZyme-CD5 Plus</Synonym>
+<Synonym>Zolimomab Aritox</Synonym>
+<Description>An immunotoxin consisting of a murine anti-CD5 monoclonal antibody conjugated to the ricin A chain.  The anti-CD5 monoclonal antibody component binds to CD5, a T-cell associated antigen, thereby targeting the delivery of the cytotoxic ricin A chain to T-cells.  The ricin A chain component binds to T-cells and disrupts ribosomal activity and protein synthesis and induces cell cycle arrest. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

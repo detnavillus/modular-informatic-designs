@@ -1,0 +1,15 @@
+<Record>
+<Term>1,9-Nonanediol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Organic Solvents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Organic Solvents/1,9-Nonanediol</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Organic Solvents</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>1,9-Nonanediol</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1,9-Nonanediol</Synonym>
+<Description>An aliphatic alcohol (with nine carbon atoms and two hydroxyl groups at positions 1 and 9) used in chemical synthesis and biomedical research.  1,9-Nonanediol suppresses glycine currents in neurons; glycine is a major inhibitory neurotransmitter in the mature mammalian central nervous system. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

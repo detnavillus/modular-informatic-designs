@@ -1,0 +1,17 @@
+<Record>
+<Term>Echovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Echovirus Infections</ClassificationPath>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Echovirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Echovirus Infections</Synonym>
+<Synonym>Echo Virus Infections</Synonym>
+<Synonym>Echo Virus Infection</Synonym>
+<Synonym>Echovirus Infection</Synonym>
+<Description>Infectious disease processes, including meningitis, diarrhea, and respiratory disorders, caused by echoviruses.</Description>
+<Source>MeSH</Source>
+</Record>

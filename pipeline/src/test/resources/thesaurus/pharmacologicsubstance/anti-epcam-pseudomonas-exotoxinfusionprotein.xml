@@ -1,0 +1,17 @@
+<Record>
+<Term>Anti-EpCAM-Pseudomonas-exotoxin Fusion Protein</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Anti-EpCAM-Pseudomonas-exotoxin Fusion Protein</ClassificationPath>
+<BroaderTerm>Anti-EpCAM-Pseudomonas-exotoxin Fusion Protein</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-EpCAM-Pseudomonas-exotoxin Fusion Protein</Synonym>
+<Synonym>Proxinium</Synonym>
+<Synonym>VB4-845</Synonym>
+<Description>A plasmid DNA cancer vaccine encoding the intracellular domain (ICD) of the HER-2/neu proto-oncogene. Upon administration and after cellular uptake by skin or muscle cells, the pNGVL3-hICD vaccine plasmid expresses the HER-2/neu protein, which, after intracellular processing, may elicit both antigen-specific cytotoxic T-lymphocyte (CTL) and humoral immune responses against tumor cells expressing HER-2. The HER-2/neu ICD protein is highly immunogenic and, as a subdominant epitope, may be associated with decreased immune tolerance.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

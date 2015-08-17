@@ -1,0 +1,19 @@
+<Record>
+<Term>Sex Offenses</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Crime</ParentTerm>
+<ClassificationPath>Social Sciences/Criminology/Crime/Sex Offenses</ClassificationPath>
+<BroaderTerm>Crime</BroaderTerm>
+<BroaderTerm>Sex Offenses</BroaderTerm>
+<BroaderTerm>Criminology</BroaderTerm>
+<BroaderTerm>Social Sciences</BroaderTerm>
+<ChildTerm>Child Abuse, Sexual</ChildTerm>
+<ChildTerm>Rape</ChildTerm>
+<Synonym>Sex Offenses</Synonym>
+<Synonym>Sex Offense</Synonym>
+<Synonym>Sexual Abuse</Synonym>
+<Synonym>Sexual Abuses</Synonym>
+<Description>Any violation of established legal or moral codes in respect to sexual behavior.</Description>
+<Source>MeSH</Source>
+</Record>

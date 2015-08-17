@@ -1,0 +1,22 @@
+<Record>
+<Term>Potassium Aminosalicylate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antitubercular Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antitubercular Agent/Potassium Aminosalicylate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antitubercular Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Potassium Aminosalicylate</BroaderTerm>
+<Synonym>POTASSIUM AMINOSALICYLATE</Synonym>
+<Synonym>Benzoic Acid, 4-amino-2-hydroxy-, Monopotassium Salt</Synonym>
+<Synonym>Potassium aminosalicylate</Synonym>
+<Synonym>Paskalium</Synonym>
+<Synonym>Potassium 4-aminosalicylate</Synonym>
+<Synonym>Potassium Aminosalicylate</Synonym>
+<Description>The potassium salt form of aminosalicylic acid, an analog of aminobenzoic acid used to treat tuberculosis. Although the mechanism of action of potassium aminosalicylate remains to be elucidated, its effects on mycobacteria may be attributed to inhibition of folic acid or mycobactin (cell wall component) synthesis. This agent also inhibits the onset of drug resistance to streptomycin and isoniazid.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

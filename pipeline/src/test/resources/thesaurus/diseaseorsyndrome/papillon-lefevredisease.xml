@@ -1,0 +1,27 @@
+<Record>
+<Term>Papillon-Lefevre Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratoderma, Palmoplantar</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Keratoderma, Palmoplantar/Papillon-Lefevre Disease</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Keratoderma, Palmoplantar/Papillon-Lefevre Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Keratoderma, Palmoplantar/Papillon-Lefevre Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Keratoderma, Palmoplantar</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Papillon-Lefevre Disease</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<Synonym>Papillon Lefevre Syndrome</Synonym>
+<Synonym>Keratosis Palmoplantar Periodontopathy</Synonym>
+<Synonym>Keratosis Palmoplantaris with Periodontopathia</Synonym>
+<Synonym>Papillon-Lefevre Syndrome</Synonym>
+<Synonym>Keratosis Palmoplantar Periodontopathies</Synonym>
+<Synonym>Papillon Lefevre Disease</Synonym>
+<Synonym>Papillon-Lefevre Disease</Synonym>
+<Synonym>Haim-Monk Syndrome</Synonym>
+<Synonym>Haim Monk Syndrome</Synonym>
+<Description>Rare, autosomal recessive disorder occurring between the first and fifth years of life. It is characterized by palmoplantar keratoderma with periodontitis followed by the premature shedding of both deciduous and permanent teeth. Mutations in the gene for CATHEPSIN C have been associated with this disease.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Proliferative Vitreoretinopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Vitreoretinopathy, Proliferative</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vitreoretinopathy, Proliferative</ClassificationPath>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Vitreoretinopathy, Proliferative</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Proliferative Vitreoretinopathies</Synonym>
+<Synonym>Proliferative Vitreoretinopathy</Synonym>
+<Description>Vitreoretinal membrane shrinkage or contraction secondary to the proliferation of primarily retinal pigment epithelial cells and glial cells, particularly fibrous astrocytes, followed by membrane formation. The formation of fibrillar collagen and cellular proliferation appear to be the basis for the contractile properties of the epiretinal and vitreous membranes.</Description>
+<Source>MeSH</Source>
+</Record>

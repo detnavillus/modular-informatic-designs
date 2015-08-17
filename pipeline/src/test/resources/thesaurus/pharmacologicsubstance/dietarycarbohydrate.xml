@@ -1,0 +1,24 @@
+<Record>
+<Term>Dietary Carbohydrate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Carbohydrate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Carbohydrate/Dietary Carbohydrate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Dietary Carbohydrate</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Carbohydrate</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Dietary Carbohydrate,</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Dietary Carbohydrate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Disaccharide</ChildTerm>
+<ChildTerm>Total Sugar</ChildTerm>
+<ChildTerm>Monosaccharide</ChildTerm>
+<ChildTerm>Dietary Polysaccharide</ChildTerm>
+<ChildTerm>Oligosaccharide</ChildTerm>
+<Synonym>Dietary Carbohydrate</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

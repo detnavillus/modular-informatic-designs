@@ -1,0 +1,43 @@
+<Record>
+<Term>Susac Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Eye Manifestations</ParentTerm>
+<ParentTerm>Vision Disorders</ParentTerm>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ParentTerm>Retinal Artery Occlusion</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Retinal Artery Occlusion/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Vision Disorders/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Eye Manifestations/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Artery Occlusion/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Susac Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Susac Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Susac Syndrome</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Retinal Artery Occlusion</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Eye Manifestations</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<Synonym>Retinocochleocerebral Vasculopathies</Synonym>
+<Synonym>Susac Syndrome</Synonym>
+<Synonym>Retinocochleocerebral Vasculopathy</Synonym>
+<Synonym>Susacs Syndrome</Synonym>
+<Synonym>Susac's Syndrome</Synonym>
+<Description>A rare disorder consisting of microangiopathy of brain, retina, and inner ear ARTERIOLES. It is characterized by the clinical triad of encephalopathy, BRANCH RETINAL ARTERY OCCLUSION and VERTIGO/hearing loss.</Description>
+<Source>MeSH</Source>
+</Record>

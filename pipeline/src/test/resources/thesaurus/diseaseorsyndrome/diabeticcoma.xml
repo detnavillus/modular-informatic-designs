@@ -1,0 +1,15 @@
+<Record>
+<Term>Diabetic Coma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Complications</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Coma</ClassificationPath>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetic Coma</BroaderTerm>
+<ChildTerm>Hyperglycemic Hyperosmolar Nonketotic Coma</ChildTerm>
+<Synonym>Diabetic Coma</Synonym>
+<Synonym>Diabetic Comas</Synonym>
+<Description>A state of unconsciousness as a complication of diabetes mellitus. It occurs in cases of extreme HYPERGLYCEMIA or extreme HYPOGLYCEMIA as a complication of INSULIN therapy.</Description>
+<Source>MeSH</Source>
+</Record>

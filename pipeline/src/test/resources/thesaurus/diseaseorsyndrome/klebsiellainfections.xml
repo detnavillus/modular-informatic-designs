@@ -1,0 +1,16 @@
+<Record>
+<Term>Klebsiella Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Klebsiella Infections</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Klebsiella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Rhinoscleroma</ChildTerm>
+<Synonym>Klebsiella Infections</Synonym>
+<Synonym>Klebsiella Infection</Synonym>
+<Description>Infections with bacteria of the genus KLEBSIELLA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Diclofenac Sodium Gel</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cyclooxygenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/Diclofenac Sodium Gel</ClassificationPath>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Diclofenac Sodium Gel</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Cyclooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<Synonym>Diclofenac Sodium Gel</Synonym>
+<Synonym>Solaraze</Synonym>
+<Description>A gel formulation of the sodium salt of diclofenac, a nonsteroidal benzeneacetic acid derivative with analgesic, antipyretic and anti-inflammatory activities. Diclofenac binds to and chelates both isoforms of cyclooxygenase (COX-1 and-2), thereby blocking the conversion of arachidonic acid (AA) to pro-inflammatory prostaglandins. This agent may also inhibit lipoxygenases, resulting in the inhibition of pro-inflammatory leukotriene synthesis from AA.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Mercuric</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Chlorides</ParentTerm>
+<ParentTerm>Mercury Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Chlorine Compounds/Hydrochloric Acid/Chlorides/Mercuric Chloride</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Mercury Compounds/Mercuric Chloride</ClassificationPath>
+<BroaderTerm>Chlorine Compounds</BroaderTerm>
+<BroaderTerm>Mercuric Chloride</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Chlorides</BroaderTerm>
+<BroaderTerm>Hydrochloric Acid</BroaderTerm>
+<BroaderTerm>Mercury Compounds</BroaderTerm>
+<Synonym>Sublimate</Synonym>
+<Synonym>Mercury Perchloride</Synonym>
+<Synonym>Mercuric Chloride</Synonym>
+<Synonym>Mercuric Perchloride</Synonym>
+<Synonym>HgCl2</Synonym>
+<Synonym>Mercury Dichloride</Synonym>
+<Synonym>Mercury Bichloride</Synonym>
+<Synonym>Corrosive Sublimate</Synonym>
+<Description>Mercury chloride (HgCl2). A highly toxic compound that volatizes slightly at ordinary temperature and appreciably at 100 degrees C. It is corrosive to mucous membranes and used as a topical antiseptic and disinfectant.</Description>
+<Source>MeSH</Source>
+</Record>

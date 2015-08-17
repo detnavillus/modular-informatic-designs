@@ -1,0 +1,27 @@
+<Record>
+<Term>Tuberculous Pleuritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Pleural Disorder/Pleuritis/Tuberculous Pleuritis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Mycobacterial Infection/Tuberculosis/Tuberculous Pleuritis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Pleural Disorder/Non-Neoplastic Pleural Disorder/Tuberculous Pleuritis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Pleuritis</BroaderTerm>
+<BroaderTerm>Tuberculous Pleuritis</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pleural Disorder</BroaderTerm>
+<BroaderTerm>Pleural Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Mycobacterial Infection</BroaderTerm>
+<BroaderTerm>Tuberculous Pleuritis,</BroaderTerm>
+<Synonym>Tuberculosis of Pleura</Synonym>
+<Synonym>Tuberculous Pleuritis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

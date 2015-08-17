@@ -1,0 +1,29 @@
+<Record>
+<Term>Transient Global Amnesia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ParentTerm>Amnesia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Amnesia, Transient Global</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Memory Disorders/Amnesia/Amnesia, Transient Global</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders/Amnesia/Amnesia, Transient Global</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Amnesia/Amnesia, Transient Global</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Memory Disorders/Amnesia/Amnesia, Transient Global</ClassificationPath>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Amnesia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Memory Disorders</BroaderTerm>
+<BroaderTerm>Amnesia, Transient Global</BroaderTerm>
+<Synonym>Transient Global Amnesia</Synonym>
+<Synonym>TGAs (Transient Global Amnesia)</Synonym>
+<Synonym>TGA (Transient Global Amnesia)</Synonym>
+<Description>A syndrome characterized by a transient loss of the ability to form new memories. It primarily occurs in middle aged or elderly individuals, and episodes may last from minutes to hours. During the period of amnesia, immediate and recent memory abilities are impaired, but the level of consciousness and ability to perform other intellectual tasks are preserved. The condition is related to bilateral dysfunction of the medial portions of each TEMPORAL LOBE. Complete recovery normally occurs, and recurrences are unusual. (From Adams et al., Principles of Neurology, 6th ed, pp429-30)</Description>
+<Source>MeSH</Source>
+</Record>

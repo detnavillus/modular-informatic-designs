@@ -1,0 +1,27 @@
+<Record>
+<Term>Olfaction Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Sensation Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Olfaction Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Olfaction Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Olfaction Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<Synonym>Paraosmias</Synonym>
+<Synonym>Dysosmia</Synonym>
+<Synonym>Cacosmia</Synonym>
+<Synonym>Smell Disorders</Synonym>
+<Synonym>Olfaction Disorders</Synonym>
+<Synonym>Anosmia</Synonym>
+<Synonym>Dysosmias</Synonym>
+<Synonym>Paraosmia</Synonym>
+<Synonym>Smell Disorder</Synonym>
+<Synonym>Olfaction Disorder</Synonym>
+<Synonym>Cacosmias</Synonym>
+<Description>Loss of or impaired ability to smell. This may be caused by OLFACTORY NERVE DISEASES; PARANASAL SINUS DISEASES; viral RESPIRATORY TRACT INFECTIONS; CRANIOCEREBRAL TRAUMA; SMOKING; and other conditions.Absence of the sense of smell. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

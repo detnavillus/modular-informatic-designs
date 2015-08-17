@@ -1,0 +1,16 @@
+<Record>
+<Term>MEK Inhibitor RDEA119</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protein Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/MEK Inhibitor RDEA119</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>MEK Inhibitor RDEA119</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>MEK Inhibitor RDEA119</Synonym>
+<Synonym>RDEA119</Synonym>
+<Description>An orally bioavailable selective MEK inhibitor with potential antineoplastic activity. MEK inhibitor RDEA119 specifically inhibits mitogen-activated protein kinase kinase 1 (MAP2K1 or MAPK/ERK kinase 1), resulting in inhibition of growth factor-mediated cell signaling and tumor cell proliferation. MEK, a dual specificity threonine/tyrosine kinase, is a key component of the RAS/RAF/MEK/ERK signaling pathway that regulates cell growth; constitutive activation of this pathway has been implicated in many cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

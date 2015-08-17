@@ -1,0 +1,22 @@
+<Record>
+<Term>Alcoholic Fatty Liver</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases, Alcoholic</ParentTerm>
+<ParentTerm>Fatty Liver</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Alcoholic/Fatty Liver, Alcoholic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Fatty Liver/Fatty Liver, Alcoholic</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Liver Diseases, Alcoholic/Fatty Liver, Alcoholic</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases, Alcoholic</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Fatty Liver, Alcoholic</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Fatty Liver</BroaderTerm>
+<Synonym>Alcoholic Fatty Liver</Synonym>
+<Synonym>Alcoholic Steatohepatitis</Synonym>
+<Description>Lipid infiltration of the hepatic parenchymal cells that is due to ALCOHOL ABUSE. The fatty changes in the alcoholic fatty liver may be reversible, depending on the amounts of TRIGLYCERIDES accumulated.</Description>
+<Source>MeSH</Source>
+</Record>

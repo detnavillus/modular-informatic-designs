@@ -1,0 +1,39 @@
+<Record>
+<Term>Adenovirus Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Recombinant Viral Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Adenovirus-mediated Human Interleukin-12</ChildTerm>
+<ChildTerm>Ad CMV I kappaB alpha</ChildTerm>
+<ChildTerm>Recombinant Adenovirus-L523S Vaccine</ChildTerm>
+<ChildTerm>Bcl-Xs Adenovirus Vaccine</ChildTerm>
+<ChildTerm>Recombinant Adenovirus-LacZ</ChildTerm>
+<ChildTerm>Oncolytic Adenovirus Encoding GM-CSF</ChildTerm>
+<ChildTerm>Adenovirus RSV-TK</ChildTerm>
+<ChildTerm>Adenovirus 5-Tumor Necrosis Factor Alpha</ChildTerm>
+<ChildTerm>Adenovirus B7-1</ChildTerm>
+<ChildTerm>Adenovirus 5-Fibroblast Growth Factor 2</ChildTerm>
+<ChildTerm>ONYX-015</ChildTerm>
+<ChildTerm>Adenovirus Encoding Rat HER-2:neu</ChildTerm>
+<ChildTerm>MART-1 Adenovirus Vaccine</ChildTerm>
+<ChildTerm>Recombinant Adenovirus-p53</ChildTerm>
+<ChildTerm>Alpha Fetoprotein Adenoviral Vector Vaccine</ChildTerm>
+<ChildTerm>Adenovirus-Interferon-Gamma TG1042</ChildTerm>
+<ChildTerm>gp100 Adenovirus Vaccine</ChildTerm>
+<ChildTerm>Adenovirus 5-CD40 Ligand</ChildTerm>
+<ChildTerm>Ad5CMV-p53 Gene</ChildTerm>
+<ChildTerm>Adenovector Encoding MDA7</ChildTerm>
+<ChildTerm>Recombinant Adenovirus-hIFN-beta</ChildTerm>
+<ChildTerm>Recombinant Adenovirus-Cre Recombinase</ChildTerm>
+<Synonym>Adenovirus Vaccine</Synonym>
+<Description>A class of viral vaccines based on adenovirus genome which was engineered to harbor gene of therapeutic interest, and were to be used in vaccination against cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

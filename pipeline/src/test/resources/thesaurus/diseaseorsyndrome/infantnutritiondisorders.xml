@@ -1,0 +1,19 @@
+<Record>
+<Term>Infant Nutrition Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Infant Nutrition Disorders</ClassificationPath>
+<BroaderTerm>Infant Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<ChildTerm>Vitamin K Deficiency Bleeding</ChildTerm>
+<Synonym>Infant Nutrition Disorders</Synonym>
+<Synonym>Infant Nutrition Disorder</Synonym>
+<Synonym>Infant Overnutrition</Synonym>
+<Synonym>Infant Malnutrition</Synonym>
+<Synonym>Malnutrition in Infant</Synonym>
+<Synonym>Malnutrition in Infants</Synonym>
+<Synonym>Infantile Malnutrition</Synonym>
+<Description>Disorders caused by nutritional imbalance, either overnutrition or undernutrition, occurring in infants ages 1 month to 24 months.Malnutrition, occurring in infants ages 1 month to 24 months, which is due to insufficient intake of food, dietary nutrients, or a pathophysiologic condition which prevents the absorption and utilization of food. Growth and development are markedly affected.</Description>
+<Source>MeSH</Source>
+</Record>

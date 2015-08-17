@@ -1,0 +1,25 @@
+<Record>
+<Term>Umbilical Hernia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Hernia, Ventral</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Hernia, Umbilical</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Hernia/Hernia, Abdominal/Hernia, Ventral/Hernia, Umbilical</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Hernia, Abdominal</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hernia, Ventral</BroaderTerm>
+<BroaderTerm>Hernia</BroaderTerm>
+<BroaderTerm>Hernia, Umbilical</BroaderTerm>
+<Synonym>Omphaloceles</Synonym>
+<Synonym>Omphalocele</Synonym>
+<Synonym>Umbilical Hernias</Synonym>
+<Synonym>Exomphalos</Synonym>
+<Synonym>Umbilical Hernia</Synonym>
+<Description>A HERNIA due to an imperfect closure or weakness of the umbilical ring. It appears as a skin-covered protrusion at the UMBILICUS during crying, coughing, or straining. The hernia generally consists of OMENTUM or SMALL INTESTINE. The vast majority of umbilical hernias are congenital but can be acquired due to severe abdominal distention.A congenital defect with major fissure in the ABDOMINAL WALL at the UMBILICUS resulting in the extrusion of VISCERA through the UMBILICUS. Unlike GASTROSCHISIS, omphalocele is covered with PERITONEUM but without overlying SKIN.</Description>
+<Source>MeSH</Source>
+</Record>

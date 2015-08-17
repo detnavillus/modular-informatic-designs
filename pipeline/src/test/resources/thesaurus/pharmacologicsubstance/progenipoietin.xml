@@ -1,0 +1,20 @@
+<Record>
+<Term>Progenipoietin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Progenipoietin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Progenipoietin</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Filgrastim-Fetal Liver Tyrosine Kinase-3 Fusion Protein</Synonym>
+<Synonym>Flt-3 ligand/G-CSF fusion protein</Synonym>
+<Synonym>ProGP</Synonym>
+<Synonym>Progenipoetin</Synonym>
+<Synonym>Progenipoietin</Synonym>
+<Synonym>SD-9427</Synonym>
+<Description>A recombinant, chimeric, dual-receptor agonist fusion protein with immunohematopoietic activity. Progenipoietin (ProGP) consists of portions of the ligands for granulocyte colony-stimulating factor (G-CSF) and human fetal liver tyrosine kinase-3 (FLT3); variants progenipoietin-1, 2 and 3 differ in the orientation of the two receptor agonists. ProGP binds simultaneously to G-CSF and FLT3 receptors with receptor affinities approximately two- to three-fold higher than the respective native ligands. When administered in vivo, this agent may augment the number of circulating granulocytes and dendritic cells (DCs). ProGP may promote the proliferation of and prevent apoptosis in several human hematopoietic cell lineages, exhibiting the additive activities of a combination of C-GSF and FLT3.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

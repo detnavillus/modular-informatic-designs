@@ -1,0 +1,16 @@
+<Record>
+<Term>Corneal Wavefront Aberration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ParentTerm>Refractive Errors</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors/Corneal Wavefront Aberration</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Corneal Wavefront Aberration</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Corneal Wavefront Aberration</BroaderTerm>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Corneal Wavefront Aberration</Synonym>
+<Synonym>Corneal Wavefront Aberrations</Synonym>
+<Description>Asymmetries in the topography and refractive index of the corneal surface that affect visual acuity.</Description>
+<Source>MeSH</Source>
+</Record>

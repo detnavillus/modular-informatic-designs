@@ -1,0 +1,17 @@
+<Record>
+<Term>Chest Wall Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thoracic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Chest Wall Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Chest Wall Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Chest Wall Disorder</ChildTerm>
+<Synonym>Chest Wall Disease</Synonym>
+<Synonym>Chest Wall Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

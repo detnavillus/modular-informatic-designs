@@ -1,0 +1,17 @@
+<Record>
+<Term>Orchitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Testicular Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Testicular Diseases/Orchitis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Testicular Diseases/Orchitis</ClassificationPath>
+<BroaderTerm>Testicular Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Orchitis</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Orchitis</Synonym>
+<Synonym>Orchitides</Synonym>
+<Description>Inflammation of a TESTIS. It has many features of EPIDIDYMITIS, such as swollen SCROTUM; PAIN; PYURIA; and FEVER. It is usually related to infections in the URINARY TRACT, which likely spread to the EPIDIDYMIS and then the TESTIS through either the VAS DEFERENS or the lymphatics of the SPERMATIC CORD.</Description>
+<Source>MeSH</Source>
+</Record>

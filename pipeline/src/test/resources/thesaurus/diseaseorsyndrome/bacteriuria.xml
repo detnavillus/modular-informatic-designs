@@ -1,0 +1,20 @@
+<Record>
+<Term>Bacteriuria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary Tract Infections</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Tract Infections/Bacteriuria</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Urinary Tract Infections/Bacteriuria</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Tract Infections/Bacteriuria</ClassificationPath>
+<BroaderTerm>Bacteriuria</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Urinary Tract Infections</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Bacteriuria</Synonym>
+<Synonym>Bacteriurias</Synonym>
+<Description>The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.</Description>
+<Source>MeSH</Source>
+</Record>

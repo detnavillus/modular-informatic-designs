@@ -1,0 +1,32 @@
+<Record>
+<Term>Diabetes Insipidus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Endocrine Disorder</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ParentTerm>Pituitary Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Diabetes Insipidus</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Diabetes Insipidus</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Diabetes Insipidus</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Insipidus</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Diabetes Insipidus, Neurogenic</ChildTerm>
+<ChildTerm>Wolfram Syndrome</ChildTerm>
+<ChildTerm>Diabetes Insipidus, Nephrogenic</ChildTerm>
+<Synonym>Diabetes Insipidus</Synonym>
+<Description>A disease that is characterized by frequent urination, excretion of large amounts of dilute URINE, and excessive THIRST. Etiologies of diabetes insipidus include deficiency of antidiuretic hormone (also known as ADH or VASOPRESSIN) secreted by the NEUROHYPOPHYSIS, impaired KIDNEY response to ADH, and impaired hypothalamic regulation of thirst.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,41 @@
+<Record>
+<Term>von Hippel-Lindau Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Angiomatosis</ParentTerm>
+<ParentTerm>Neurocutaneous Syndromes</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Angiomatosis/von Hippel-Lindau Disease</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurocutaneous Syndromes/von Hippel-Lindau Disease</ClassificationPath>
+<ClassificationPath>Von Hippel-Lindau Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>von Hippel-Lindau Disease</BroaderTerm>
+<BroaderTerm>Angiomatosis</BroaderTerm>
+<BroaderTerm>Von Hippel-Lindau Syndrome</BroaderTerm>
+<BroaderTerm>Neurocutaneous Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>von Hippel-Lindau syndrome</Synonym>
+<Synonym>Von Hippel-Lindau Syndrome (VHL)</Synonym>
+<Synonym>Lindau Disease</Synonym>
+<Synonym>Familial Cerebello-Retinal Angiomatosis</Synonym>
+<Synonym>von Hippel-Lindau Syndrome</Synonym>
+<Synonym>Von Hippel-Lindau Disease</Synonym>
+<Synonym>Familial Cerebelloretinal Angiomatoses</Synonym>
+<Synonym>von Hippel-Lindau Disease</Synonym>
+<Synonym>Lindaus Disease</Synonym>
+<Synonym>Familial Cerebello Retinal Angiomatosis</Synonym>
+<Synonym>Cerebroretinal Angiomatosis</Synonym>
+<Synonym>Familial Cerebelloretinal Angiomatosis</Synonym>
+<Synonym>Von Hippel-Lindau Syndrome</Synonym>
+<Synonym>Hippel-Lindau Disease</Synonym>
+<Synonym>Lindau's Diseases</Synonym>
+<Synonym>Familial Cerebello-Retinal Angiomatoses</Synonym>
+<Synonym>von Hippel Lindau Disease</Synonym>
+<Synonym>von Hippel Lindau Syndrome</Synonym>
+<Synonym>Lindau's Disease</Synonym>
+<Synonym>Hippel Lindau Disease</Synonym>
+<Description>An inherited familial cancer syndrome which is characterized by development of capillary hemangioblastomas of the central nervous system and retina; clear cell renal carcinoma; pheochromocytoma; pancreatic tumors; and inner ear tumors. The syndrome is associated with germline mutations of the VHL tumor suppressor gene, located on chromosome 3p25-26. Symptoms of VHL syndrome may not be apparent until the third decade of life. CNS hemangioblastoma is the most common cause of death, followed by clear cell renal cell carcinoma. --2004</Description>
+<Description>An autosomal dominant disorder caused by mutations in a tumor suppressor gene. This syndrome is characterized by abnormal growth of small blood vessels leading to a host of neoplasms. They include HEMANGIOBLASTOMA in the RETINA; CEREBELLUM; and SPINAL CORD; PHEOCHROMOCYTOMA; pancreatic tumors; and renal cell carcinoma (see CARCINOMA, RENAL CELL). Common clinical signs include HYPERTENSION and neurological dysfunctions.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

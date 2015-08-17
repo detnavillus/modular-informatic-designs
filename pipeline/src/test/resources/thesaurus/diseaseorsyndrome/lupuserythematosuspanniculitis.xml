@@ -1,0 +1,25 @@
+<Record>
+<Term>Lupus Erythematosus Panniculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Panniculitis</ParentTerm>
+<ParentTerm>Lupus Erythematosus, Discoid</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Panniculitis/Panniculitis, Lupus Erythematosus</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Panniculitis/Panniculitis, Lupus Erythematosus</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Lupus Erythematosus, Cutaneous/Lupus Erythematosus, Discoid/Panniculitis, Lupus Erythematosus</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Lupus Erythematosus, Cutaneous/Lupus Erythematosus, Discoid/Panniculitis, Lupus Erythematosus</ClassificationPath>
+<BroaderTerm>Lupus Erythematosus, Cutaneous</BroaderTerm>
+<BroaderTerm>Panniculitis</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus, Discoid</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Panniculitis, Lupus Erythematosus</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<Synonym>Lupus Erythematosus Profundus</Synonym>
+<Synonym>Lupus Panniculitis</Synonym>
+<Synonym>Lupus Erythematosus Panniculitis</Synonym>
+<Synonym>Lupus Erythematosus Panniculitides</Synonym>
+<Synonym>Lupus Panniculitides</Synonym>
+<Synonym>Lupus Profundus</Synonym>
+<Description>A type of lupus erythematosus characterized by deep dermal or subcutaneous nodules, most often on the head, face, or upper arms. It is generally chronic and occurs most often in women between the ages of 20 and 45.</Description>
+<Source>MeSH</Source>
+</Record>

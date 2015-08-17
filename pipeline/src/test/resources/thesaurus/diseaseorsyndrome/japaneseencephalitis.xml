@@ -1,0 +1,31 @@
+<Record>
+<Term>Japanese Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Arbovirus</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalitis, Arbovirus/Encephalitis, Japanese</ClassificationPath>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Japanese</BroaderTerm>
+<BroaderTerm>Encephalitis, Arbovirus</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<Synonym>Japanese B Encephalitis</Synonym>
+<Synonym>Japanese B Viral Encephalitis</Synonym>
+<Synonym>Japanese Encephalitis</Synonym>
+<Description>A mosquito-borne encephalitis caused by the Japanese B encephalitis virus (ENCEPHALITIS VIRUS, JAPANESE) occurring throughout Eastern Asia and Australia. The majority of infections occur in children and are subclinical or have features limited to transient fever and gastrointestinal symptoms. Inflammation of the brain, spinal cord, and meninges may occur and lead to transient or permanent neurologic deficits (including a POLIOMYELITIS-like presentation); SEIZURES; COMA; and death. (From Adams et al., Principles of Neurology, 6th ed, p751; Lancet 1998 Apr 11;351(9109):1094-7)</Description>
+<Source>MeSH</Source>
+</Record>

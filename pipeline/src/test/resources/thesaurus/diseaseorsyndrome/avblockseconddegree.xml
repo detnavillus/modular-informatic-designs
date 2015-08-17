@@ -1,0 +1,28 @@
+<Record>
+<Term>AV Block Second Degree</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Atrioventricular Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Atrioventricular Block/AV Block Second Degree</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>AV Block Second Degree</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Atrioventricular Block</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AV Block Second Degree Mobitz Type I</ChildTerm>
+<ChildTerm>AV Block Second Degree Mobitz Type II</ChildTerm>
+<Synonym>2ND DEGREE AV BLOCK</Synonym>
+<Synonym>2nd degree AV block</Synonym>
+<Synonym>AV Block Second Degree</Synonym>
+<Synonym>Intermittent AV Block</Synonym>
+<Synonym>Second Degree AV Block</Synonym>
+<Synonym>Second Degree Atrioventricular Block</Synonym>
+<Description>Intermittent failure of atrial electrical impulse conduction through the atrioventricular (AV) node to the ventricles.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

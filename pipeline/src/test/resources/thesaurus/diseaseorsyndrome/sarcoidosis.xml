@@ -1,0 +1,46 @@
+<Record>
+<Term>Sarcoidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Disease</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Sarcoidosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Sarcoidosis</ClassificationPath>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Sarcoidosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cardiac Sarcoidosis</ChildTerm>
+<ChildTerm>Cutaneous Sarcoidosis</ChildTerm>
+<ChildTerm>Pulmonary Sarcoidosis</ChildTerm>
+<ChildTerm>Hypercalcemic Sarcoidosis</ChildTerm>
+<ChildTerm>Sarcoidosis, Pulmonary</ChildTerm>
+<ChildTerm>Cerebral Sarcoidosis</ChildTerm>
+<ChildTerm>Uveoparotid Fever</ChildTerm>
+<Synonym>Boeck's Disease</Synonym>
+<Synonym>Besnier-Boeck-Schaumann Syndrome</Synonym>
+<Synonym>Boeck Sarcoid</Synonym>
+<Synonym>Besnier Boeck Disease</Synonym>
+<Synonym>Besnier Boeck Schaumann Syndrome</Synonym>
+<Synonym>Schaumann's Syndromes</Synonym>
+<Synonym>Besnier-Boeck Disease</Synonym>
+<Synonym>Sarcoidoses</Synonym>
+<Synonym>Boecks Disease</Synonym>
+<Synonym>Schaumann's Syndrome</Synonym>
+<Synonym>Schaumann Syndrome</Synonym>
+<Synonym>Schaumann Disease</Synonym>
+<Synonym>Sarcoidosis</Synonym>
+<Synonym>Boeck Disease</Synonym>
+<Synonym>Boeck's Sarcoid</Synonym>
+<Synonym>Boecks Sarcoid</Synonym>
+<Description>An idiopathic systemic inflammatory granulomatous disorder comprised of epithelioid and multinucleated giant cells with little necrosis. It usually invades the lungs with fibrosis and may also involve lymph nodes, skin, liver, spleen, eyes, phalangeal bones, and parotid glands.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

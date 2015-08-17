@@ -1,0 +1,48 @@
+<Record>
+<Term>Syphilis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sexually Transmitted Disorder</ParentTerm>
+<ParentTerm>Treponemal Infections</ParentTerm>
+<ParentTerm>Sexually Transmitted Diseases, Bacterial</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Syphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Syphilis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Genital Diseases, Male/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Syphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Syphilis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Bacterial/Syphilis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Sexually Transmitted Disorder/Syphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Sexually Transmitted Diseases, Bacterial/Syphilis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Disorder</BroaderTerm>
+<BroaderTerm>Syphilis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Male</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Syphilis, Congenital</ChildTerm>
+<ChildTerm>Syphilis, Cutaneous</ChildTerm>
+<ChildTerm>Latent Syphilis</ChildTerm>
+<ChildTerm>Chancre</ChildTerm>
+<ChildTerm>Syphilis, Latent</ChildTerm>
+<ChildTerm>Syphilis, Cardiovascular</ChildTerm>
+<ChildTerm>Tabes Dorsalis</ChildTerm>
+<ChildTerm>Neurosyphilis</ChildTerm>
+<Synonym>Syphilis</Synonym>
+<Synonym>Great Pox</Synonym>
+<Description>A contagious venereal disease caused by the spirochete TREPONEMA PALLIDUM.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

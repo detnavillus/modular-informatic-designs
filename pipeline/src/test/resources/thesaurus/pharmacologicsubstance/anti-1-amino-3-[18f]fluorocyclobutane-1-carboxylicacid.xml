@@ -1,0 +1,23 @@
+<Record>
+<Term>Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Contrast Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Organic Oxoacids/Carboxylic Acids/Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Image Enhancement Agent/Contrast Agent/Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid</ClassificationPath>
+<BroaderTerm>Contrast Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Carboxylic Acids</BroaderTerm>
+<BroaderTerm>Image Enhancement Agent</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid,</BroaderTerm>
+<BroaderTerm>Organic Oxoacids</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Anti-1-Amino-3-[18F]Fluorocyclobutane-1-Carboxylic Acid</Synonym>
+<Synonym>[18F]FACBC</Synonym>
+<Description>A radiotracer containing a synthetic amino acid analogue of L-leucine radiolabeled with fluorine F 18 with potential diagnostic imaging use. Similar to most amino acids, anti-1-amino-3-[18F]fluorocyclobutane-1-carboxylic acid ([18]FACBC) appears to enter cells through the energy-independent L-type amino acid transporter (LAT) system. As an amino acid analogue, this agent is preferentially accumulated by tumor cells due to their increased metabolic needs; however, unlike naturally occuring amino acids, this non-natural amino acid-analogue radiotracer is not metabolized. Accordingly, [18]FACBC accumulates in tumor cells and can potentially be used to image tumors using positron emission tomography (PET).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

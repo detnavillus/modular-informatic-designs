@@ -1,0 +1,52 @@
+<Record>
+<Term>Vascular Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiovascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Arterial Occlusive Diseases</ChildTerm>
+<ChildTerm>Vascular Fistula</ChildTerm>
+<ChildTerm>Arteriovenous Malformations</ChildTerm>
+<ChildTerm>Arteritis</ChildTerm>
+<ChildTerm>Vasculitis</ChildTerm>
+<ChildTerm>Telangiectasis</ChildTerm>
+<ChildTerm>Cerebrovascular Disorders</ChildTerm>
+<ChildTerm>Embolism and Thrombosis</ChildTerm>
+<ChildTerm>Aneurysm</ChildTerm>
+<ChildTerm>Thoracic Outlet Syndrome</ChildTerm>
+<ChildTerm>Compartment Syndromes</ChildTerm>
+<ChildTerm>Myocardial Ischemia</ChildTerm>
+<ChildTerm>Hemostatic Disorders</ChildTerm>
+<ChildTerm>Diabetic Angiopathies</ChildTerm>
+<ChildTerm>Peripheral Vascular Diseases</ChildTerm>
+<ChildTerm>Angiomatosis</ChildTerm>
+<ChildTerm>Angioedema</ChildTerm>
+<ChildTerm>Aortic Diseases</ChildTerm>
+<ChildTerm>Venous Insufficiency</ChildTerm>
+<ChildTerm>Pulmonary Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Retinal Vein Occlusion</ChildTerm>
+<ChildTerm>Scimitar Syndrome</ChildTerm>
+<ChildTerm>Hypotension</ChildTerm>
+<ChildTerm>Splenic Infarction</ChildTerm>
+<ChildTerm>Superior Vena Cava Syndrome</ChildTerm>
+<ChildTerm>Varicocele</ChildTerm>
+<ChildTerm>Varicose Veins</ChildTerm>
+<ChildTerm>Reperfusion Injury</ChildTerm>
+<ChildTerm>Angiodysplasia</ChildTerm>
+<ChildTerm>Colitis, Ischemic</ChildTerm>
+<ChildTerm>Optic Neuropathy, Ischemic</ChildTerm>
+<ChildTerm>Vascular Neoplasms</ChildTerm>
+<ChildTerm>Capillary Leak Syndrome</ChildTerm>
+<ChildTerm>Spinal Cord Vascular Diseases</ChildTerm>
+<ChildTerm>Hypertension</ChildTerm>
+<ChildTerm>Hand-Arm Vibration Syndrome</ChildTerm>
+<ChildTerm>Vasoplegia</ChildTerm>
+<ChildTerm>Hemorrhoids</ChildTerm>
+<ChildTerm>Hepatic Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Hyperemia</ChildTerm>
+<Synonym>Vascular Diseases</Synonym>
+<Synonym>Vascular Disease</Synonym>
+<Description>Pathological processes involving any of the BLOOD VESSELS in the cardiac or peripheral circulation. They include diseases of ARTERIES; VEINS; and rest of the vasculature system in the body.</Description>
+<Source>MeSH</Source>
+</Record>

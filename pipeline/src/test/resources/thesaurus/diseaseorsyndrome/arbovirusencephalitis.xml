@@ -1,0 +1,43 @@
+<Record>
+<Term>Arbovirus Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Viral</ParentTerm>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Encephalitis, Arbovirus</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalitis, Arbovirus</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalitis, Arbovirus</ClassificationPath>
+<BroaderTerm>Encephalitis, Arbovirus</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Encephalitis, St. Louis</ChildTerm>
+<ChildTerm>West Nile Fever</ChildTerm>
+<ChildTerm>Encephalitis, California</ChildTerm>
+<ChildTerm>Encephalitis, Tick-Borne</ChildTerm>
+<ChildTerm>Encephalitis, Japanese</ChildTerm>
+<Synonym>Epidemic Encephalitides</Synonym>
+<Synonym>Arthropod-Borne Encephalitides</Synonym>
+<Synonym>Mosquito-Borne Encephalitides</Synonym>
+<Synonym>Arbovirus Encephalitides</Synonym>
+<Synonym>Epidemic Encephalitis</Synonym>
+<Synonym>Mosquito-Borne Encephalitis</Synonym>
+<Synonym>Arthropod-Borne Viral Encephalitis</Synonym>
+<Synonym>Arthropod-Borne Encephalitis</Synonym>
+<Synonym>Arthropod Borne Viral Encephalitis</Synonym>
+<Synonym>Arthropod Borne Encephalitis</Synonym>
+<Synonym>Arbovirus Encephalitis</Synonym>
+<Synonym>Arthropod-Borne Viral Encephalitides</Synonym>
+<Synonym>Mosquito Borne Encephalitis</Synonym>
+<Description>Infections of the brain caused by arthropod-borne viruses (i.e., arboviruses) primarily from the families TOGAVIRIDAE; FLAVIVIRIDAE; BUNYAVIRIDAE; REOVIRIDAE; and RHABDOVIRIDAE. Life cycles of these viruses are characterized by ZOONOSES, with birds and lower mammals serving as intermediate hosts. The virus is transmitted to humans by the bite of mosquitoes (CULICIDAE) or TICKS. Clinical manifestations include fever, headache, alterations of mentation, focal neurologic deficits, and COMA. (From Clin Microbiol Rev 1994 Jan;7(1):89-116; Walton, Brain's Diseases of the Nervous System, 10th ed, p321)</Description>
+<Source>MeSH</Source>
+</Record>

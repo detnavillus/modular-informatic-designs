@@ -1,0 +1,21 @@
+<Record>
+<Term>Coronary Aneurysm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Aneurysm</ParentTerm>
+<ParentTerm>Coronary Disease</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aneurysm/Coronary Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Coronary Disease/Coronary Aneurysm</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Coronary Disease/Coronary Aneurysm</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aneurysm</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Coronary Aneurysm</BroaderTerm>
+<BroaderTerm>Coronary Disease</BroaderTerm>
+<Synonym>Coronary Aneurysms</Synonym>
+<Synonym>Coronary Aneurysm</Synonym>
+<Description>Abnormal balloon- or sac-like dilatation in the wall of CORONARY VESSELS. Most coronary aneurysms are due to CORONARY ATHEROSCLEROSIS, and the rest are due to inflammatory diseases, such as KAWASAKI DISEASE.</Description>
+<Source>MeSH</Source>
+</Record>

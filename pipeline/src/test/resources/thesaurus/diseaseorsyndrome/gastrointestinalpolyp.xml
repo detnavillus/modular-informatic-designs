@@ -1,0 +1,28 @@
+<Record>
+<Term>Gastrointestinal Polyp</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyp</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Polyp/Gastrointestinal Polyp,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Gastrointestinal Polyp</ClassificationPath>
+<BroaderTerm>Gastrointestinal Polyp,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Polyp</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Polyp</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Gallbladder Polyp</ChildTerm>
+<ChildTerm>Esophageal Polyp</ChildTerm>
+<ChildTerm>Hyperplastic Polyp</ChildTerm>
+<ChildTerm>Peutz-Jeghers Polyp</ChildTerm>
+<ChildTerm>Gastric Polyp</ChildTerm>
+<ChildTerm>Rectal Polyp</ChildTerm>
+<ChildTerm>Colorectal Polyp</ChildTerm>
+<ChildTerm>Juvenile Polyp</ChildTerm>
+<ChildTerm>Anal Polyp</ChildTerm>
+<Synonym>GI Polyp</Synonym>
+<Synonym>Gastrointestinal Polyp</Synonym>
+<Synonym>Gastrointestinal Tract Polyp</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

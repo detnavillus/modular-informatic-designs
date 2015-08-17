@@ -1,0 +1,30 @@
+<Record>
+<Term>Non-Neoplastic Disorder by Site</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Non-Neoplastic Skin Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Peritoneal and Retroperitoneal Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Vision Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Thoracic Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Cardiovascular Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Nervous System Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Connective and Soft Tissue Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Respiratory Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Endocrine Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Reproductive System Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Eye Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Gastrointestinal Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Head and Neck Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Breast Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Urinary System Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Disease by Site</Synonym>
+<Synonym>Non-Neoplastic Disorder by Site</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

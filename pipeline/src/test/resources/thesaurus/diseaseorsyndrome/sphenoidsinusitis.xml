@@ -1,0 +1,21 @@
+<Record>
+<Term>Sphenoid Sinusitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sinusitis</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Sphenoid Sinusitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Sphenoid Sinusitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Sinusitis/Sphenoid Sinusitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Sphenoid Sinusitis</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Sinusitis</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<Synonym>Sphenoid Sinusitis</Synonym>
+<Synonym>Sphenoid Sinusitides</Synonym>
+<Synonym>Sphenoidal Sinusitis</Synonym>
+<Synonym>Sphenoidal Sinusitides</Synonym>
+<Description>Inflammation of the NASAL MUCOSA in the SPHENOID SINUS. Isolated sphenoid sinusitis is uncommon. It usually occurs in conjunction with other paranasal sinusitis.</Description>
+<Source>MeSH</Source>
+</Record>

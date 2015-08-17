@@ -1,0 +1,24 @@
+<Record>
+<Term>Enterobacteriaceae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections</ClassificationPath>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Dysentery, Bacillary</ChildTerm>
+<ChildTerm>Escherichia coli Infections</ChildTerm>
+<ChildTerm>Yersinia Infections</ChildTerm>
+<ChildTerm>Proteus Infections</ChildTerm>
+<ChildTerm>Klebsiella Infections</ChildTerm>
+<ChildTerm>Salmonella Infections</ChildTerm>
+<ChildTerm>Serratia Infections</ChildTerm>
+<ChildTerm>Granuloma Inguinale</ChildTerm>
+<Synonym>Enterobacteriaceae Infections</Synonym>
+<Synonym>Enterobacterial Infections</Synonym>
+<Synonym>Enterobacterial Infection</Synonym>
+<Synonym>Enterobacteriaceae Infection</Synonym>
+<Description>Infections with bacteria of the family ENTEROBACTERIACEAE.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Tooth Demineralization</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Demineralization</ClassificationPath>
+<BroaderTerm>Tooth Demineralization</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Dental Caries</ChildTerm>
+<Synonym>Tooth Demineralization</Synonym>
+<Synonym>Tooth Hypomineralization</Synonym>
+<Synonym>Tooth Hypomineralizations</Synonym>
+<Description>A tooth's loss of minerals, such as calcium in hydroxyapatite from the tooth matrix, caused by acidic exposure. An example of the occurrence of demineralization is in the formation of dental caries.</Description>
+<Source>MeSH</Source>
+</Record>

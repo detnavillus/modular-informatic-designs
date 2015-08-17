@@ -1,0 +1,21 @@
+<Record>
+<Term>Docosanol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Miscellaneous Antiviral Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antiviral Agent/Miscellaneous Antiviral Agent/Docosanol</ClassificationPath>
+<BroaderTerm>Miscellaneous Antiviral Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Docosanol</BroaderTerm>
+<BroaderTerm>Antiviral Agent</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Behenyl Alcohol</Synonym>
+<Synonym>DOCOSANOL</Synonym>
+<Synonym>Docosanol</Synonym>
+<Synonym>Abreva</Synonym>
+<Description>A saturated 22-carbon aliphatic alcohol with antiviral activity. Docosanol has a distinct mechanism of action and inhibits fusion between the plasma membrane and the herpes simplex virus envelope, thereby preventing viral entry into cells and subsequent viral activity and replication. Docosanol is used topically in the treatment of recurrent herpes simplex labialis episodes and relieves associated pain and may help heal sores faster.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

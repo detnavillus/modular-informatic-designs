@@ -1,0 +1,13 @@
+<Record>
+<Term>Conjugate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Compound</ParentTerm>
+<ClassificationPath>Conceptual Entity/Compound/Conjugate</ClassificationPath>
+<BroaderTerm>Conceptual Entity</BroaderTerm>
+<BroaderTerm>Compound</BroaderTerm>
+<BroaderTerm>Conjugate</BroaderTerm>
+<Synonym>Conjugate</Synonym>
+<Synonym>Conjugated</Synonym>
+<Description>A compound formed by the union of two entities or compounds.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

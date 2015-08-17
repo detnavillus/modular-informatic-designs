@@ -1,0 +1,36 @@
+<Record>
+<Term>Rhinoscleroma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Nose Diseases</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Klebsiella Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Rhinoscleroma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Klebsiella Infections/Rhinoscleroma</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Rhinoscleroma</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Klebsiella Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<Synonym>Rhinoscleromas</Synonym>
+<Synonym>Nasal Scleromas</Synonym>
+<Synonym>Rhinoscleroma</Synonym>
+<Synonym>Nasal Scleroma</Synonym>
+<Description>A granulomatous disease caused by KLEBSIELLA RHINOSCLEROMATIS infection. Despite its name, this disease is not limited to the nose and NASOPHARYNX but may affect any part of the RESPIRATORY TRACT, sometimes with extension to the lip and the skin.</Description>
+<Source>MeSH</Source>
+</Record>

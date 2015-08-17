@@ -1,0 +1,27 @@
+<Record>
+<Term>Incomplete Abortion</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Abortion</ParentTerm>
+<ParentTerm>Abortion, Spontaneous</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Reproductive System Finding/Pregnancy Complication/Abortion/Incomplete Abortion</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Abortion, Spontaneous/Abortion, Incomplete</ClassificationPath>
+<BroaderTerm>Reproductive System Finding</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Incomplete Abortion</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Abortion</BroaderTerm>
+<BroaderTerm>Abortion, Spontaneous</BroaderTerm>
+<BroaderTerm>Pregnancy Complication</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Abortion, Incomplete</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Incomplete Abortions</Synonym>
+<Synonym>Incomplete Abortion</Synonym>
+<Synonym>Abortion, Incomplete</Synonym>
+<Description>Premature loss of PREGNANCY in which not all the products of CONCEPTION have been expelled.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

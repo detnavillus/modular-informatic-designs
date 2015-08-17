@@ -1,0 +1,26 @@
+<Record>
+<Term>Diabetic Angiopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Diabetes Complications</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications/Diabetic Angiopathies</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Diabetic Angiopathies</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Diabetic Angiopathies</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<ChildTerm>Diabetic Foot</ChildTerm>
+<ChildTerm>Diabetic Retinopathy</ChildTerm>
+<Synonym>Diabetic Vascular Disease</Synonym>
+<Synonym>Diabetic Microangiopathies</Synonym>
+<Synonym>Diabetic Vascular Complications</Synonym>
+<Synonym>Diabetic Microangiopathy</Synonym>
+<Synonym>Diabetic Angiopathies</Synonym>
+<Synonym>Diabetic Vascular Complication</Synonym>
+<Synonym>Diabetic Vascular Diseases</Synonym>
+<Synonym>Diabetic Angiopathy</Synonym>
+<Description>VASCULAR DISEASES that are associated with DIABETES MELLITUS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Simian Acquired Immunodeficiency Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Monkey Diseases</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>Lentivirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Primate Diseases/Monkey Diseases/Simian Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Simian Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/Simian Acquired Immunodeficiency Syndrome</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Monkey Diseases</BroaderTerm>
+<BroaderTerm>Simian Acquired Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Primate Diseases</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Simian Acquired Immunodeficiency Syndrome</Synonym>
+<Synonym>Simian AIDS</Synonym>
+<Synonym>Simian Acquired Immuno Deficiency Syndrome</Synonym>
+<Synonym>Simian Acquired Immune Deficiency Syndrome</Synonym>
+<Synonym>Simian AIDSs</Synonym>
+<Synonym>SAIDS</Synonym>
+<Synonym>Simian Acquired Immuno-Deficiency Syndrome</Synonym>
+<Description>Acquired defect of cellular immunity that occurs naturally in macaques infected with SRV serotypes, experimentally in monkeys inoculated with SRV or MASON-PFIZER MONKEY VIRUS; (MPMV), or in monkeys infected with SIMIAN IMMUNODEFICIENCY VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

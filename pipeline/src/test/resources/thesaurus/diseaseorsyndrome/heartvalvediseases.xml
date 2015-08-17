@@ -1,0 +1,26 @@
+<Record>
+<Term>Heart Valve Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases</ClassificationPath>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<ChildTerm>Aortic Valve Stenosis</ChildTerm>
+<ChildTerm>Aortic Valve Insufficiency</ChildTerm>
+<ChildTerm>Heart Valve Prolapse</ChildTerm>
+<ChildTerm>Pulmonary Valve Stenosis</ChildTerm>
+<ChildTerm>Pulmonary Valve Insufficiency</ChildTerm>
+<ChildTerm>Tricuspid Valve Insufficiency</ChildTerm>
+<ChildTerm>Tricuspid Valve Stenosis</ChildTerm>
+<ChildTerm>Pulmonary Atresia</ChildTerm>
+<ChildTerm>Tricuspid Atresia</ChildTerm>
+<ChildTerm>Mitral Valve Insufficiency</ChildTerm>
+<ChildTerm>Mitral Valve Stenosis</ChildTerm>
+<Synonym>Heart Valve Diseases</Synonym>
+<Synonym>Heart Valve Disease</Synonym>
+<Synonym>Valvular Heart Diseases</Synonym>
+<Synonym>Valvular Heart Disease</Synonym>
+<Description>Pathological conditions involving any of the various HEART VALVES and the associated structures (PAPILLARY MUSCLES and CHORDAE TENDINEAE).</Description>
+<Source>MeSH</Source>
+</Record>

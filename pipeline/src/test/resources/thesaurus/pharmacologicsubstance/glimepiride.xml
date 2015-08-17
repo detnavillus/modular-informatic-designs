@@ -1,0 +1,19 @@
+<Record>
+<Term>Glimepiride</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-diabetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Glimepiride</ClassificationPath>
+<BroaderTerm>Glimepiride</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-diabetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Glimepiride</Synonym>
+<Synonym>Amaryl</Synonym>
+<Synonym>GLIMEPIRIDE</Synonym>
+<Description>A sulfonylurea with antihyperglycemic activity. Glimepiride binds to ATP-sensitive potassium channel receptors on the pancreatic cell surface, thereby reducing potassium conductance and causing depolarization of the membrane. Membrane depolarization stimulates calcium ion influx through voltage-gated calcium channels. This increase in intracellular calcium ion concentration induces the secretion of insulin, and thereby results in a reduction of the blood glucose level. In addition, this agent increases the sensitivity of peripheral tissues to insulin.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

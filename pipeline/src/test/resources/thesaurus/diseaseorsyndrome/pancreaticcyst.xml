@@ -1,0 +1,34 @@
+<Record>
+<Term>Pancreatic Cyst</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Cysts</ParentTerm>
+<ParentTerm>Gastrointestinal System Finding</ParentTerm>
+<ParentTerm>Pancreatic Diseases</ParentTerm>
+<ClassificationPath>Neoplasms/Cysts/Pancreatic Cyst</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Pancreatic Diseases/Pancreatic Cyst</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Cyst/Pancreatic Cyst,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Gastrointestinal System Finding/Pancreatic Cyst</ClassificationPath>
+<BroaderTerm>Pancreatic Cyst</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Gastrointestinal System Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Cyst</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Pancreatic Cyst,</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Pancreatic Diseases</BroaderTerm>
+<ChildTerm>Pancreatic Pseudocyst</ChildTerm>
+<Synonym>Pancreatic Cyst</Synonym>
+<Synonym>Cyst of the Pancreas</Synonym>
+<Synonym>Cyst of Pancreas</Synonym>
+<Synonym>Pancreatic Cysts</Synonym>
+<Synonym>Pancreas Cyst</Synonym>
+<Description>A true cyst of the PANCREAS, distinguished from the much more common PANCREATIC PSEUDOCYST by possessing a lining of mucous EPITHELIUM. Pancreatic cysts are categorized as congenital, retention, neoplastic, parasitic, enterogenous, or dermoid. Congenital cysts occur more frequently as solitary cysts but may be multiple. Retention cysts are gross enlargements of PANCREATIC DUCTS secondary to ductal obstruction. (From Bockus Gastroenterology, 4th ed, p4145)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,15 @@
+<Record>
+<Term>Respirovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paramyxoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Respirovirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Respirovirus Infections</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Pasteurellosis, Pneumonic</ChildTerm>
+<Synonym>Respirovirus Infections</Synonym>
+<Description>Infections with viruses of the genus RESPIROVIRUS, family PARAMYXOVIRIDAE. Host cell infection occurs by adsorption, via HEMAGGLUTININ, to the cell surface.</Description>
+<Source>MeSH</Source>
+</Record>

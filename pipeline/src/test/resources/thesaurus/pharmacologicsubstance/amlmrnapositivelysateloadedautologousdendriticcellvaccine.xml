@@ -1,0 +1,19 @@
+<Record>
+<Term>AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dendritic Cell Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/APC Vaccine/Dendritic Cell Vaccine/AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>APC Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Dendritic Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine</Synonym>
+<Synonym>Acute Myelogenous Leukemia mRNA Plus Lysate Loaded Autologous Dendritic Cell Vaccine</Synonym>
+<Description>A cancer vaccine consisting of autologous dendritic cells loaded with separate preparations of acute myelogenous leukemia (AML) cell lysate and AML-specific messenger RNA (mRNA) with potential immunostimulatory and antineoplastic activities. Upon administration, AML mRNA plus lysate loaded autologous dendritic cell vaccine may elicit a potent cytotoxic T-cell (CTL) response against AML cells, resulting in tumor cell death. Autologous dendritic cells doubly-loaded with AML cell lysate and AML-specific mRNA may elicit superior primary, recall, and effector lytic immune responses compared to autologous dendritic cells loaded with tumor lysate or tumor mRNA alone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

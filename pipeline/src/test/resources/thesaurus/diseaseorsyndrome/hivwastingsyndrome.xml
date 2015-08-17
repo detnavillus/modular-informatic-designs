@@ -1,0 +1,31 @@
+<Record>
+<Term>HIV Wasting Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>HIV Infections</ParentTerm>
+<ParentTerm>Wasting Syndrome</ParentTerm>
+<ClassificationPath>Virus Diseases/Sexually Transmitted Diseases/Sexually Transmitted Diseases, Viral/HIV Infections/HIV Wasting Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Wasting Syndrome/HIV Wasting Syndrome</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/HIV Infections/HIV Wasting Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Wasting Syndrome/HIV Wasting Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/HIV Infections/HIV Wasting Syndrome</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>HIV Infections</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Sexually Transmitted Diseases, Viral</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Wasting Syndrome</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>HIV Wasting Syndrome</BroaderTerm>
+<Synonym>AIDS Wasting Syndrome</Synonym>
+<Synonym>HIV Wasting Disease</Synonym>
+<Synonym>Slim Disease</Synonym>
+<Synonym>HIV Wasting Syndrome</Synonym>
+<Description>Involuntary weight loss of greater than 10 percent associated with intermittent or constant fever and chronic diarrhea or fatigue for more than 30 days in the absence of a defined cause other than HIV infection. A constant feature is major muscle wasting with scattered myofiber degeneration. A variety of etiologies, which vary among patients, contributes to this syndrome. (From Harrison's Principles of Internal Medicine, 13th ed, p1611).</Description>
+<Source>MeSH</Source>
+</Record>

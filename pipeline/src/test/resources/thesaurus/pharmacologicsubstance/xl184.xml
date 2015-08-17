@@ -1,0 +1,16 @@
+<Record>
+<Term>XL184</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/XL184</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>XL184</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>XL184</Synonym>
+<Description>An orally bioavailable, small molecule receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. XL184 strongly binds to and inhibits several tyrosine receptor kinases. Specifically, XL184 appears to have a strong affinity for the hepatocyte growth factor receptor (Met) and vascular endothelial growth factor receptor 2 (VEGFR2), which may result in inhibition of tumor growth and angiogenesis, and tumor regression. This agent has also been shown to inhibit mast/stem cell growth factor (KIT), FMS-like tyrosine kinase 3 (Flt3) and tyrosine-protein kinase receptor (Tie-2).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

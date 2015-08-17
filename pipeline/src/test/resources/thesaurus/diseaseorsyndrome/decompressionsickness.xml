@@ -1,0 +1,16 @@
+<Record>
+<Term>Decompression Sickness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Barotrauma</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Barotrauma/Decompression Sickness</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Decompression Sickness</BroaderTerm>
+<BroaderTerm>Barotrauma</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<Synonym>Decompression Sickness</Synonym>
+<Synonym>Caisson Disease</Synonym>
+<Synonym>Caisson Diseases</Synonym>
+<Synonym>Bends</Synonym>
+<Description>A condition occurring as a result of exposure to a rapid fall in ambient pressure. Gases, nitrogen in particular, come out of solution and form bubbles in body fluid and blood. These gas bubbles accumulate in joint spaces and the peripheral circulation impairing tissue oxygenation causing disorientation, severe pain, and potentially death.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Langerhans-Cell Histiocytosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Histiocytosis</ParentTerm>
+<ParentTerm>Lung Diseases, Interstitial</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Histiocytosis/Histiocytosis, Langerhans-Cell</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Histiocytosis, Langerhans-Cell</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Histiocytosis</BroaderTerm>
+<BroaderTerm>Histiocytosis, Langerhans-Cell</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<ChildTerm>Eosinophilic Granuloma</ChildTerm>
+<Synonym>Schueller Christian Disease</Synonym>
+<Synonym>Hand Schueller Christian Syndrome</Synonym>
+<Synonym>Langerhans-Cell Granulomatosis</Synonym>
+<Synonym>Hand-Schueller-Christian Syndrome</Synonym>
+<Synonym>Langerhans Cell Histiocytosis</Synonym>
+<Synonym>Histiocytosis X</Synonym>
+<Synonym>Histiocytosis-X</Synonym>
+<Synonym>Pulmonary Langerhans Cell Granulomatosis</Synonym>
+<Synonym>Langerhans Cell Granulomatosis</Synonym>
+<Synonym>Pulmonary Histiocytosis X</Synonym>
+<Synonym>Generalized Histiocytoses</Synonym>
+<Synonym>Schueller-Christian Disease</Synonym>
+<Synonym>Letterer Siwe Disease</Synonym>
+<Synonym>Generalized Histiocytosis</Synonym>
+<Synonym>Letterer-Siwe Disease</Synonym>
+<Synonym>Langerhans-Cell Histiocytosis</Synonym>
+<Description>A group of disorders resulting from the abnormal proliferation of and tissue infiltration by LANGERHANS CELLS which can be detected by their characteristic Birbeck granules (X bodies), or by monoclonal antibody staining for their surface CD1 ANTIGENS. Langerhans-cell granulomatosis can involve a single organ, or can be a systemic disorder.</Description>
+<Source>MeSH</Source>
+</Record>

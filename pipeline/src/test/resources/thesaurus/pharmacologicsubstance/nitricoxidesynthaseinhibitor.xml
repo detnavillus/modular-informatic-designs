@@ -1,0 +1,19 @@
+<Record>
+<Term>Nitric Oxide Synthase Inhibitor</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Nitric Oxide Synthase Inhibitor</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nitric Oxide Synthase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Amino-Arginine</ChildTerm>
+<ChildTerm>Thiouracil</ChildTerm>
+<ChildTerm>Proadifen Hydrochloride</ChildTerm>
+<Synonym>NOS Inhibitor</Synonym>
+<Synonym>Nitric Oxide Synthase Inhibitor</Synonym>
+<Synonym>Nitric Oxide Synthetase Inhibitor</Synonym>
+<Description>A class of agents that inhibit nitric oxide synthases (NOS), enzymes which catalyze the production of nitric oxide (NO). The three known NOS isoforms (neuronal, endothelial and inducible) are all dimeric, bi-domain enzymes that contain iron protoporphyrin IX, flavin adenine dinucleotide, mononucleotide, and tetrahydrobiopterin as bound prosthetic groups. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Alclometasone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Alclometasone Dipropionate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Alclometasone</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Alclometasone</BroaderTerm>
+<BroaderTerm>Alclometasone Dipropionate</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ALCLOMETASONE DIPROPIONATE</Synonym>
+<Synonym>Delonal</Synonym>
+<Synonym>Vaderm</Synonym>
+<Synonym>(7alpha,11beta,16alpha)-7-Chloro-11-hydroxy-16-methyl-17,21-bis(1-oxopropoxy)pregna-1,4-diene-3,20-dione</Synonym>
+<Synonym>Alclometasone Dipropionate</Synonym>
+<Synonym>BRN 2317658</Synonym>
+<Synonym>Alclometasone</Synonym>
+<Synonym>ALCLOMETASONE</Synonym>
+<Synonym>Alclometasone dipropionate</Synonym>
+<Synonym>Aclovate</Synonym>
+<Synonym>7a-Chloro-11b,17,21-trihydroxy-16a-methylpregna-1,4-diene-3,20-dione-17,21-dipropionate</Synonym>
+<Description>The dipropionate salt form of alclometasone, a synthetic corticosteroid with low to medium potency. Alclometasone dipropionate is a glucocorticoid receptor agonist that mimics the metabolic, anti-inflammatory, immunosuppressive, antipruritic, and vasoconstrictive effects of natural glucocorticoids. This drug interacts with specific intracellular receptors and binds to DNA to modify gene expression. This results in an induction of synthesis of certain proteins while inhibiting the synthesis of others. Alclometasone dipropionate is used for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

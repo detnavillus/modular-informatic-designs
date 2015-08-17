@@ -1,0 +1,38 @@
+<Record>
+<Term>Hepatic Porphyrias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Porphyrias</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Porphyrias/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Porphyrias/Porphyrias, Hepatic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porphyrias, Hepatic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias, Hepatic</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<ChildTerm>Porphyria, Acute Intermittent</ChildTerm>
+<ChildTerm>Porphyria, Variegate</ChildTerm>
+<ChildTerm>Protoporphyria, Erythropoietic</ChildTerm>
+<ChildTerm>Porphyria, Hepatoerythropoietic</ChildTerm>
+<ChildTerm>Coproporphyria, Hereditary</ChildTerm>
+<ChildTerm>Porphyria Cutanea Tarda</ChildTerm>
+<Synonym>Hepatic Porphyria</Synonym>
+<Synonym>Hepatic Porphyrias</Synonym>
+<Description>A group of metabolic diseases due to deficiency of one of a number of LIVER enzymes in the biosynthetic pathway of HEME. They are characterized by the accumulation and increased excretion of PORPHYRINS or its precursors. Clinical features include neurological symptoms (PORPHYRIA, ACUTE INTERMITTENT), cutaneous lesions due to photosensitivity (PORPHYRIA CUTANEA TARDA), or both (HEREDITARY COPROPORPHYRIA). Hepatic porphyrias can be hereditary or acquired as a result of toxicity to the hepatic tissues.</Description>
+<Source>MeSH</Source>
+</Record>

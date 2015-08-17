@@ -1,0 +1,17 @@
+<Record>
+<Term>Bone Marrow Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hematopoietic and Lymphoid System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Bone Marrow Disorder</ClassificationPath>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Bone Marrow Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Myelofibrosis</ChildTerm>
+<ChildTerm>Bone Marrow Suppression</ChildTerm>
+<Synonym>Bone Marrow Disease</Synonym>
+<Synonym>Bone Marrow Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

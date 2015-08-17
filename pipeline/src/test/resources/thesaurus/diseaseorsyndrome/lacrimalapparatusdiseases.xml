@@ -1,0 +1,16 @@
+<Record>
+<Term>Lacrimal Apparatus Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Lacrimal Apparatus Diseases</ClassificationPath>
+<BroaderTerm>Lacrimal Apparatus Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Dacryocystitis</ChildTerm>
+<ChildTerm>Dry Eye Syndromes</ChildTerm>
+<ChildTerm>Lacrimal Duct Obstruction</ChildTerm>
+<Synonym>Lacrimal Apparatus Diseases</Synonym>
+<Synonym>Lacrimal Apparatus Disease</Synonym>
+<Synonym>Epiphora</Synonym>
+<Description>Diseases of the lacrimal apparatus.</Description>
+<Source>MeSH</Source>
+</Record>

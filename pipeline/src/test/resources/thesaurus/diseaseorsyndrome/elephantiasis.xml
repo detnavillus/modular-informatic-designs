@@ -1,0 +1,25 @@
+<Record>
+<Term>Elephantiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Swelling</ParentTerm>
+<ParentTerm>Lymphedema</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Swelling/Elephantiasis</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphedema/Elephantiasis</ClassificationPath>
+<BroaderTerm>Elephantiasis</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Swelling</BroaderTerm>
+<BroaderTerm>Lymphedema</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Elephantiasis, Filarial</ChildTerm>
+<Synonym>Elephantiasis</Synonym>
+<Synonym>Elephantiases</Synonym>
+<Description>Hypertrophy and thickening of the tissues from any cause. Elephantiasis caused by filarial infection is ELEPHANTIASIS, FILARIAL. (From Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

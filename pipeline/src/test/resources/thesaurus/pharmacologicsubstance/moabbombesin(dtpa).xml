@@ -1,0 +1,16 @@
+<Record>
+<Term>MoAb Bombesin (DTPA)</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/MoAb Bombesin (DTPA)</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>MoAb Bombesin (DTPA)</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MoAb Bombesin (DTPA)</Synonym>
+<Synonym>Monoclonal Antibody Bombesin-DTPA</Synonym>
+<Description>A monoclonal antibody directed against the neurohormone bombesin that is conjugated to diethylenetriaminepenta-acetic acid (DPTA), a bifunctional chelating agent that allows the antibody to be labeled with a metal species such as radioactive indium.  Levels of bombesin, also known as gastrin releasing peptide (GRP), are elevated in lung and thyroid cancers, where the substance acts as an autocrine growth factor. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

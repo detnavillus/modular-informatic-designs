@@ -1,0 +1,20 @@
+<Record>
+<Term>Enterocolitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Enterocolitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Enterocolitis</ClassificationPath>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Enterocolitis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Enterocolitis, Pseudomembranous</ChildTerm>
+<ChildTerm>Enterocolitis, Neutropenic</ChildTerm>
+<ChildTerm>Enterocolitis, Necrotizing</ChildTerm>
+<Synonym>Enterocolitides</Synonym>
+<Synonym>Enterocolitis</Synonym>
+<Description>Inflammation of the MUCOSA of both the SMALL INTESTINE and the LARGE INTESTINE. Etiology includes ISCHEMIA, infections, allergic, and immune responses.</Description>
+<Source>MeSH</Source>
+</Record>

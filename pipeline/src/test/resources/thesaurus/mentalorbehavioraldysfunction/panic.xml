@@ -1,0 +1,15 @@
+<Record>
+<Term>Panic</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Fear</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Emotions/Fear/Panic</ClassificationPath>
+<BroaderTerm>Panic</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Fear</BroaderTerm>
+<BroaderTerm>Emotions</BroaderTerm>
+<Synonym>Panic</Synonym>
+<Synonym>Panics</Synonym>
+<Description>A state of extreme acute, intense anxiety and unreasoning fear accompanied by disorganization of personality function.</Description>
+<Source>MeSH</Source>
+</Record>

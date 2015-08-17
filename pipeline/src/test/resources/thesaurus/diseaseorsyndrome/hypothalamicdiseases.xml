@@ -1,0 +1,37 @@
+<Record>
+<Term>Hypothalamic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Pituitary Diseases</ChildTerm>
+<ChildTerm>Hypothalamic Neoplasms</ChildTerm>
+<ChildTerm>Bardet-Biedl Syndrome</ChildTerm>
+<ChildTerm>Laurence-Moon Syndrome</ChildTerm>
+<Synonym>Hypothalamic Diseases</Synonym>
+<Synonym>Hypothalamic Disease</Synonym>
+<Synonym>Hypothalamic Dysfunction Syndromes</Synonym>
+<Synonym>Hypothalamic Dysfunction Syndrome</Synonym>
+<Synonym>Hypothalamic Dysinhibition Syndrome</Synonym>
+<Synonym>Hypothalamic Dysinhibition Syndromes</Synonym>
+<Synonym>Pituitary Diencephalic Syndrome</Synonym>
+<Synonym>Pituitary Diencephalic Syndromes</Synonym>
+<Synonym>Hypothalamic Pseudopuberty</Synonym>
+<Synonym>Hypothalamic Pseudopuberties</Synonym>
+<Synonym>Hypothalamic-Adenohypophyseal Disorders</Synonym>
+<Synonym>Hypothalamic Adenohypophyseal Disorders</Synonym>
+<Synonym>Hypothalamic-Adenohypophyseal Disorder</Synonym>
+<Synonym>Hypothalamic-Neurohypophyseal Disorders</Synonym>
+<Synonym>Hypothalamic Neurohypophyseal Disorders</Synonym>
+<Synonym>Hypothalamic-Neurohypophyseal Disorder</Synonym>
+<Synonym>Froehlich's Syndrome</Synonym>
+<Synonym>Froehlich Syndrome</Synonym>
+<Synonym>Froehlichs Syndrome</Synonym>
+<Synonym>Hypothalamic Overactivity Syndrome</Synonym>
+<Synonym>Hypothalamic Overactivity Syndromes</Synonym>
+<Description>Neoplastic, inflammatory, infectious, and other diseases of the hypothalamus. Clinical manifestations include appetite disorders; AUTONOMIC NERVOUS SYSTEM DISEASES; SLEEP DISORDERS; behavioral symptoms related to dysfunction of the LIMBIC SYSTEM; and neuroendocrine disorders.</Description>
+<Source>MeSH</Source>
+</Record>

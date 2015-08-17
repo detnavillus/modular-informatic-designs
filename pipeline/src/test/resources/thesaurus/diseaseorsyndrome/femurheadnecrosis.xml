@@ -1,0 +1,22 @@
+<Record>
+<Term>Femur Head Necrosis</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteonecrosis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Osteonecrosis/Femur Head Necrosis</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Necrosis/Osteonecrosis/Femur Head Necrosis</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Femur Head Necrosis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Necrosis</BroaderTerm>
+<BroaderTerm>Osteonecrosis</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Legg-Perthes Disease</ChildTerm>
+<Synonym>Aseptic Necrosis of Femur Head</Synonym>
+<Synonym>Femur Head Necrosis</Synonym>
+<Synonym>Femur Head Necroses</Synonym>
+<Synonym>Avascular Necrosis of Femur Head</Synonym>
+<Description>Aseptic or avascular necrosis of the femoral head. The major types are idiopathic (primary), as a complication of fractures or dislocations, and LEGG-PERTHES DISEASE.</Description>
+<Source>MeSH</Source>
+</Record>

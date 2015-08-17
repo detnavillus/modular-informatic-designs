@@ -1,0 +1,22 @@
+<Record>
+<Term>Eculizumab</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Monoclonal Antibody</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Monoclonal Antibody/Eculizumab</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Eculizumab</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>h5G1.1</Synonym>
+<Synonym>Eculizumab</Synonym>
+<Synonym>Monoclonal antibody 5G1.1</Synonym>
+<Synonym>Alexion</Synonym>
+<Synonym>Soliris</Synonym>
+<Synonym>ECULIZUMAB</Synonym>
+<Description>A human monoclonal antibody directed against terminal complement protein C5. Eculizumab binds to terminal complement protein C5, thereby blocking C5 cleavage into pro-inflammatory components and blocking the complement-mediated destruction of paroxysmal nocturnal hemoglobinuria (PNH) red blood cells. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

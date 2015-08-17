@@ -1,0 +1,17 @@
+<Record>
+<Term>Pellagra</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vitamin B Deficiency</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin B Deficiency/Pellagra</ClassificationPath>
+<BroaderTerm>Vitamin B Deficiency</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Pellagra</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<Synonym>Pellagra</Synonym>
+<Synonym>Pellagras</Synonym>
+<Description>A disease due to deficiency of NIACIN, a B-complex vitamin, or its precursor TRYPTOPHAN. It is characterized by scaly DERMATITIS which is often associated with DIARRHEA and DEMENTIA (the three D's).</Description>
+<Source>MeSH</Source>
+</Record>

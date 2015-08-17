@@ -1,0 +1,11 @@
+<Record>
+<Term>Prescription Drugs</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Prescription Drugs</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Prescription Drugs</BroaderTerm>
+<Synonym>Prescription Drugs</Synonym>
+<Description>Drugs that cannot be sold legally without a prescription.</Description>
+<Source>MeSH</Source>
+</Record>

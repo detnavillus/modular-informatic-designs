@@ -1,0 +1,20 @@
+<Record>
+<Term>Acrivastine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histamine-1 Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Histamine-1 Receptor Antagonist/Acrivastine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Histamine-1 Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Acrivastine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(E)-6-((E)-3-(1-Pyrrolidinyl)-1-p-tolylpropenyl)-2-pyridineacrylic Acid</Synonym>
+<Synonym>2-Propenoic Acid, 3-(6-(1-(4-Methylphenyl)-3-(1-pyrrolidinyl)-1-propenyl)-2-pyridinyl)-,(E,E)-</Synonym>
+<Synonym>ACRIVASTINE</Synonym>
+<Synonym>Acrivastine</Synonym>
+<Synonym>BW 825C</Synonym>
+<Synonym>Semprex</Synonym>
+<Description>A synthetic alkylamine with non-sedative antihistaminergic activity. Acrivastine competitively blocks the histamine H1 receptor and limits the typical allergic and anaphylactic responses, including bronchoconstriction, vasodilation, increased capillary permeability, and spasmodic contraction of gastrointestinal smooth muscle, caused by actions of histamine on bronchial, and gastrointestinal smooth muscles, and on capillaries. This drug also prevents histamine-induced pain and itching of the skin and mucous membranes. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

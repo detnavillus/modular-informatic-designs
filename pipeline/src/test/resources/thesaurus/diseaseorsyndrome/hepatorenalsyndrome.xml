@@ -1,0 +1,20 @@
+<Record>
+<Term>Hepatorenal Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatorenal Syndrome</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hepatorenal Syndrome</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Hepatorenal Syndrome</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Hepatorenal Syndrome</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Hepatorenal Syndrome</Synonym>
+<Description>Functional KIDNEY FAILURE in patients with liver disease, usually LIVER CIRRHOSIS or portal hypertension (HYPERTENSION, PORTAL), and in the absence of intrinsic renal disease or kidney abnormality. It is characterized by intense renal vasculature constriction, reduced renal blood flow, OLIGURIA, and sodium retention.</Description>
+<Source>MeSH</Source>
+</Record>

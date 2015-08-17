@@ -1,0 +1,37 @@
+<Record>
+<Term>Dendritic Keratitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratitis</ParentTerm>
+<ParentTerm>Keratitis, Herpetic</ParentTerm>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Keratitis/Keratitis, Herpetic/Keratitis, Dendritic</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Herpes Simplex/Keratitis, Herpetic/Keratitis, Dendritic</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral/Keratitis, Herpetic/Keratitis, Dendritic</ClassificationPath>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral/Keratitis, Herpetic/Keratitis, Dendritic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Corneal Disorder/Keratitis/Dendritic Keratitis</ClassificationPath>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Corneal Disorder</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Herpes Simplex</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Keratitis, Dendritic</BroaderTerm>
+<BroaderTerm>Keratitis</BroaderTerm>
+<BroaderTerm>Dendritic Keratitis</BroaderTerm>
+<BroaderTerm>Keratitis, Herpetic</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<Synonym>Furrow Keratitides</Synonym>
+<Synonym>Dendritic Keratitis</Synonym>
+<Synonym>Furrow Keratitis</Synonym>
+<Synonym>Dendritic Keratitides</Synonym>
+<Description>A form of herpetic keratitis characterized by the formation of small vesicles which break down and coalesce to form recurring dendritic ulcers, characteristically irregular, linear, branching, and ending in knoblike extremities. (Dictionary of Visual Science, 3d ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

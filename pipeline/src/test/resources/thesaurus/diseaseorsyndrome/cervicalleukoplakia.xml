@@ -1,0 +1,25 @@
+<Record>
+<Term>Cervical Leukoplakia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genital Leukoplakia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Leukoplakia/Genital Leukoplakia/Cervical Leukoplakia</ClassificationPath>
+<BroaderTerm>Leukoplakia</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Cervical Leukoplakia</BroaderTerm>
+<BroaderTerm>Genital Leukoplakia</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Cervical Leukoplakia</Synonym>
+<Synonym>Cervix Leukoplakia</Synonym>
+<Synonym>Cervix Uteri Leukoplakia</Synonym>
+<Synonym>Leukoplakia of Cervix</Synonym>
+<Synonym>Leukoplakia of Cervix Uteri</Synonym>
+<Synonym>Leukoplakia of Uterine Cervix</Synonym>
+<Synonym>Leukoplakia of the Cervix</Synonym>
+<Synonym>Leukoplakia of the Cervix Uteri</Synonym>
+<Synonym>Leukoplakia of the Uterine Cervix</Synonym>
+<Synonym>Uterine Cervix Leukoplakia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

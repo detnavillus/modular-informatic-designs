@@ -1,0 +1,57 @@
+<Record>
+<Term>Folic Acid Antagonists</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ParentTerm>Antimetabolite</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimetabolite/Folate Antagonist</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Folic Acid Antagonists</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Folic Acid Antagonists</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Folate Antagonist</BroaderTerm>
+<BroaderTerm>Antimetabolite</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Pteropterin</ChildTerm>
+<ChildTerm>Lometrexol</ChildTerm>
+<ChildTerm>Dideaza-5,6,7,8-Tetrahydrofolic Acid</ChildTerm>
+<ChildTerm>Pyrimethamine</ChildTerm>
+<ChildTerm>Pemetrexed Disodium</ChildTerm>
+<ChildTerm>Talotrexin</ChildTerm>
+<ChildTerm>Triazinate</ChildTerm>
+<ChildTerm>Epiroprim</ChildTerm>
+<ChildTerm>Plevitrexed</ChildTerm>
+<ChildTerm>Dichloromethotrexate</ChildTerm>
+<ChildTerm>Methotrexate Sodium</ChildTerm>
+<ChildTerm>Methotrexate</ChildTerm>
+<ChildTerm>Pemetrexed</ChildTerm>
+<ChildTerm>Denopterin</ChildTerm>
+<ChildTerm>Pralatrexate</ChildTerm>
+<ChildTerm>Aminopterin</ChildTerm>
+<ChildTerm>Emfolin Sodium</ChildTerm>
+<ChildTerm>Piritrexim</ChildTerm>
+<ChildTerm>Trimetrexate</ChildTerm>
+<ChildTerm>Metoprine</ChildTerm>
+<ChildTerm>M-Azidopyrimethamine</ChildTerm>
+<ChildTerm>Aminopterin Sodium</ChildTerm>
+<ChildTerm>Nolatrexed Dihydrochloride</ChildTerm>
+<Synonym>Folate Inhibitors</Synonym>
+<Synonym>Antifolates</Synonym>
+<Synonym>antifolate</Synonym>
+<Synonym>Folic Acid Antagonist</Synonym>
+<Synonym>Folate Analog</Synonym>
+<Synonym>Folic Acid Antagonists</Synonym>
+<Synonym>Folic Acid Inhibitors</Synonym>
+<Synonym>folate antagonist</Synonym>
+<Synonym>Folate Antagonist</Synonym>
+<Synonym>Folic Acid Analog</Synonym>
+<Description>Compounds with chemical structures similar to folic acid, a key component in cell proliferation, which interfere with folic acid metabolism.  Folate antagonists inhibit one or more folate-dependent enzymes, resulting in decreased DNA, RNA and protein synthesis. (NCI)</Description>
+<Description>Inhibitors of the enzyme, dihydrofolate reductase (TETRAHYDROFOLATE DEHYDROGENASE), which converts dihydrofolate (FH2) to tetrahydrofolate (FH4). They are frequently used in cancer chemotherapy. (From AMA, Drug Evaluations Annual, 1994, p2033)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

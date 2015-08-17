@@ -1,0 +1,22 @@
+<Record>
+<Term>Central Core Myopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myopathies, Structural, Congenital</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myopathies, Structural, Congenital/Myopathy, Central Core</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myopathies, Structural, Congenital/Myopathy, Central Core</ClassificationPath>
+<BroaderTerm>Myopathies, Structural, Congenital</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Myopathy, Central Core</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Shy Magee Syndrome</Synonym>
+<Synonym>Central Core Myopathy</Synonym>
+<Synonym>Central Core Diseases</Synonym>
+<Synonym>Central Core Disease</Synonym>
+<Synonym>Shy-Magee Syndrome</Synonym>
+<Synonym>Central Core Myopathies</Synonym>
+<Synonym>Central Core Disease of Muscle</Synonym>
+<Description>An inherited congenital myopathic condition characterized by weakness and hypotonia in infancy and delayed motor development. Muscle biopsy reveals a condensation of myofibrils and myofibrillar material in the central portion of each muscle fiber. (Adams et al., Principles of Neurology, 6th ed, p1452)</Description>
+<Source>MeSH</Source>
+</Record>

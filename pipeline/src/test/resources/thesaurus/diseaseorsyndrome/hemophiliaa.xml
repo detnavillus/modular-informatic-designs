@@ -1,0 +1,42 @@
+<Record>
+<Term>Hemophilia A</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coagulation Protein Disorders</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ParentTerm>Hemophilia</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Hemophilia A</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Coagulation Factor Deficiency/Hemophilia/Hemophilia A</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Coagulation Protein Disorders/Hemophilia A</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Hemophilia A</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemophilia A</ClassificationPath>
+<BroaderTerm>Coagulation Protein Disorders</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hemophilia A</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Coagulation Factor Deficiency</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hemophilia</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Haemophilia</Synonym>
+<Synonym>Classic Hemophilia</Synonym>
+<Synonym>Hemophilia A</Synonym>
+<Synonym>Factor VIII Deficiencies</Synonym>
+<Synonym>Classic Hemophilias</Synonym>
+<Synonym>Factor VIII Deficiency</Synonym>
+<Synonym>Congenital Hemophilia A</Synonym>
+<Synonym>Hemophilia</Synonym>
+<Synonym>Hemophilia As</Synonym>
+<Synonym>Congenital Hemophilia As</Synonym>
+<Description>The classic hemophilia resulting from a deficiency of factor VIII. It is an inherited disorder of blood coagulation characterized by a permanent tendency to hemorrhage.</Description>
+<Description>An inherited deficiency of coagulation factor VIII characterized by the tendency to spontaneous or exaggerated post-traumatic hemorrhage. Inherited as an x-linked recessive disease, hemophilia A is the most common hemophilia, occurring in approximately 1 in 10,000 male births.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

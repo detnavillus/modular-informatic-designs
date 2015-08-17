@@ -1,0 +1,83 @@
+<Record>
+<Term>Aphasia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Speech Disorders</ParentTerm>
+<ParentTerm>Symptom</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Aphasia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Nervous System Finding/Aphasia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders/Aphasia</ClassificationPath>
+<BroaderTerm>Aphasia,</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Nervous System Finding</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Aphasia</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Aphasia, Primary Progressive</ChildTerm>
+<ChildTerm>Anomia</ChildTerm>
+<ChildTerm>Aphasia, Wernicke</ChildTerm>
+<ChildTerm>Aphasia, Conduction</ChildTerm>
+<ChildTerm>Aphasia, Broca</ChildTerm>
+<ChildTerm>Broca's Aphasia</ChildTerm>
+<Synonym>Functional Aphasia</Synonym>
+<Synonym>Lichtheim Sign</Synonym>
+<Synonym>Auditory Discriminatory Aphasias</Synonym>
+<Synonym>Ageusic Aphasias</Synonym>
+<Synonym>Logasthenias</Synonym>
+<Synonym>Lichtheim's Sign</Synonym>
+<Synonym>Commisural Aphasias</Synonym>
+<Synonym>Post-Ictal Aphasia</Synonym>
+<Synonym>Semantic Aphasias</Synonym>
+<Synonym>Global Aphasias</Synonym>
+<Synonym>Aphasia</Synonym>
+<Synonym>Post-Traumatic Aphasias</Synonym>
+<Synonym>Dejerine Lichtheim Phenomenon</Synonym>
+<Synonym>Anepia</Synonym>
+<Synonym>Syntactical Aphasias</Synonym>
+<Synonym>Intellectual Aphasias</Synonym>
+<Synonym>Post-Ictal Aphasias</Synonym>
+<Synonym>Logasthenia</Synonym>
+<Synonym>Commisural Aphasia</Synonym>
+<Synonym>Auditory Discriminatory Aphasia</Synonym>
+<Synonym>Dejerine-Lichtheim Phenomenon</Synonym>
+<Synonym>Logagnosia</Synonym>
+<Synonym>Semantic Aphasia</Synonym>
+<Synonym>Logamnesia</Synonym>
+<Synonym>Global Dysphasias</Synonym>
+<Synonym>Post-Traumatic Aphasia</Synonym>
+<Synonym>Logagnosias</Synonym>
+<Synonym>Progressive Aphasias</Synonym>
+<Synonym>Dysphasia</Synonym>
+<Synonym>Syntactical Aphasia</Synonym>
+<Synonym>Functional Aphasias</Synonym>
+<Synonym>Anepias</Synonym>
+<Synonym>Logamnesias</Synonym>
+<Synonym>Acquired Aphasia</Synonym>
+<Synonym>Global Dysphasia</Synonym>
+<Synonym>Alogias</Synonym>
+<Synonym>Graphomotor Aphasias</Synonym>
+<Synonym>Progressive Aphasia</Synonym>
+<Synonym>Alogia</Synonym>
+<Synonym>Intellectual Aphasia</Synonym>
+<Synonym>Ageusic Aphasia</Synonym>
+<Synonym>Global Aphasia</Synonym>
+<Synonym>Mixed Aphasia</Synonym>
+<Synonym>Graphomotor Aphasia</Synonym>
+<Synonym>Mixed Aphasias</Synonym>
+<Synonym>Lichtheims Sign</Synonym>
+<Description>A cognitive disorder marked by an impaired ability to comprehend or express language in its written or spoken form. This condition is caused by diseases which affect the language areas of the dominant hemisphere. Clinical features are used to classify the various subtypes of this condition. General categories include receptive, expressive, and mixed forms of aphasia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

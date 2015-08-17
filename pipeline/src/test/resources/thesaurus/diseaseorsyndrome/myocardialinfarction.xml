@@ -1,0 +1,56 @@
+<Record>
+<Term>Myocardial Infarction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myocardial Ischemia</ParentTerm>
+<ParentTerm>Myocardial Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Myocardial Ischemia/Myocardial Infarction</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Myocardial Ischemia/Myocardial Infarction</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Myocardial Infarction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Myocardial Ischemia</BroaderTerm>
+<ChildTerm>Old Myocardial Infarction</ChildTerm>
+<ChildTerm>Inferior Myocardial Infarction</ChildTerm>
+<ChildTerm>Lateral Myocardial Infarction</ChildTerm>
+<ChildTerm>Anterolateral Myocardial Infarction</ChildTerm>
+<ChildTerm>Acute Myocardial Infarction</ChildTerm>
+<ChildTerm>Inferolateral Myocardial Infarction</ChildTerm>
+<ChildTerm>Septal Myocardial Infarction</ChildTerm>
+<ChildTerm>Posterior Myocardial Infarction</ChildTerm>
+<ChildTerm>Silent Myocardial Infarction</ChildTerm>
+<ChildTerm>Anteroseptal Myocardial Infarction</ChildTerm>
+<ChildTerm>Apical Myocardial Infarction</ChildTerm>
+<ChildTerm>Posteroinferior Myocardial Infarction</ChildTerm>
+<ChildTerm>No-Reflow Phenomenon</ChildTerm>
+<ChildTerm>Inferior Wall Myocardial Infarction</ChildTerm>
+<ChildTerm>Shock, Cardiogenic</ChildTerm>
+<ChildTerm>Anterior Wall Myocardial Infarction</ChildTerm>
+<ChildTerm>Posterolateral Myocardial Infarction</ChildTerm>
+<ChildTerm>Subendocardial Myocardial Infarction</ChildTerm>
+<ChildTerm>Myocardial Stunning</ChildTerm>
+<Synonym>Myocardial infarction, (MI)</Synonym>
+<Synonym>Myocardial Infarction</Synonym>
+<Synonym>Myocardial Infarcts</Synonym>
+<Synonym>MI</Synonym>
+<Synonym>Myocardial Infarct</Synonym>
+<Synonym>Myocardial Infarctions</Synonym>
+<Synonym>Infarction (MI), myocardial</Synonym>
+<Synonym>MI, myocardial infarction</Synonym>
+<Synonym>Heart Attack</Synonym>
+<Description>NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION).</Description>
+<Description>Gross necrosis of the myocardium, as a result of interruption of the blood supply to the area, as in coronary thrombosis.</Description>
+<Source>RTI</Source>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

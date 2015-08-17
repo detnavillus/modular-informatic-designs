@@ -1,0 +1,21 @@
+<Record>
+<Term>Hematologic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Uses</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<ChildTerm>Blood Substitutes</ChildTerm>
+<ChildTerm>Coagulants</ChildTerm>
+<ChildTerm>Anticoagulants</ChildTerm>
+<ChildTerm>Antisickling Agents</ChildTerm>
+<ChildTerm>Platelet Aggregation Inhibitors</ChildTerm>
+<ChildTerm>Fibrinolytic Agents</ChildTerm>
+<ChildTerm>Hematinics</ChildTerm>
+<Synonym>Hematologic Agents</Synonym>
+<Synonym>Hematological Agents</Synonym>
+<Description>Drugs that act on blood and blood-forming organs and those that affect the hemostatic system.</Description>
+<Source>MeSH</Source>
+</Record>

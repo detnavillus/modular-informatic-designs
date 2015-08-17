@@ -1,0 +1,32 @@
+<Record>
+<Term>Darier Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratosis</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Darier Disease</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Darier Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Darier Disease</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Darier Disease</BroaderTerm>
+<Synonym>Acrokeratosis Verruciformis</Synonym>
+<Synonym>Darier-White Diseases</Synonym>
+<Synonym>Acantholytic Dyskeratotic Epidermal Nevi</Synonym>
+<Synonym>Keratosis Follicularis</Synonym>
+<Synonym>Dariers Disease</Synonym>
+<Synonym>Acrokeratosis Verruciformis of Hopf</Synonym>
+<Synonym>Darier-White Disease</Synonym>
+<Synonym>Hopf Disease</Synonym>
+<Synonym>Darier Disease</Synonym>
+<Synonym>Hopf Diseases</Synonym>
+<Synonym>Acantholytic Dyskeratotic Epidermal Nevus</Synonym>
+<Synonym>Hopf Acrokeratosis Verruciformis</Synonym>
+<Synonym>Darier White Disease</Synonym>
+<Synonym>Darier's Disease</Synonym>
+<Description>An autosomal dominantly inherited skin disorder characterized by warty malodorous papules that coalesce into plaques. It is caused by mutations in the ATP2A2 gene encoding SERCA2 protein, one of the SARCOPLASMIC RETICULUM CALCIUM-TRANSPORTING ATPASES. The condition is similar, clinically and histologically, to BENIGN FAMILIAL PEMPHIGUS, another autosomal dominant skin disorder. Both diseases have defective calcium pumps (CALCIUM-TRANSPORTING ATPASES) and unstable desmosomal adhesion junctions (DESMOSOMES) between KERATINOCYTES.An alleleic variant of Darier's disease.</Description>
+<Source>MeSH</Source>
+</Record>

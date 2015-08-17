@@ -1,0 +1,16 @@
+<Record>
+<Term>Binder Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Binder Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Binder Excipient</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Binder</Synonym>
+<Synonym>Binder Excipient</Synonym>
+<Description>An inactive ingredient of the solid pharmaceutical dosage form added to cement the active and inert components of tablets together to maintain cohesive and discrete portions. These are especially important in the production of time-release products. Binders provide the matrix from which the drug is gradually secreted.Binding agents which have adhesive properties are important excipients, especially for lozenges and tablets. The choice of the particular binder or thickening agent is dependent upon the desired properties of adhesive strength and thickness. Thus, one would be a better agent for a lozenge when slow dissolution in the mouth is desirable whereas another would provide more rapid disintegration for other purposes. The commonly used binder excipients in U.S.-manufactured drug products are microcrystalline cellulose and starch.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

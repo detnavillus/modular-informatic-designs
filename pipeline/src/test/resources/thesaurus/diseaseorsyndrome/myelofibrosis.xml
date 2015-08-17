@@ -1,0 +1,18 @@
+<Record>
+<Term>Myelofibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Marrow Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Hematopoietic and Lymphoid System Disorder/Bone Marrow Disorder/Myelofibrosis</ClassificationPath>
+<BroaderTerm>Hematopoietic and Lymphoid System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Myelofibrosis</BroaderTerm>
+<BroaderTerm>Bone Marrow Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Secondary Myelofibrosis</ChildTerm>
+<Synonym>Myelofibrosis</Synonym>
+<Synonym>myelofibrosis</Synonym>
+<Description>A partial or complete replacement of the bone marrow stroma by fibrous tissue.  It can be a primary bone marrow lesion as part of the chronic myeloproliferative disorders (chronic idiopathic myelofibrosis), a manifestation of acute myeloid leukemia (acute panmyelosis with myelofibrosis), or a secondary phenomenon due to bone marrow involvement by a metastatic tumor (e.g., metastatic breast carcinoma). --2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

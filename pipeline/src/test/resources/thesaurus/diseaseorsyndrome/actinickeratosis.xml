@@ -1,0 +1,31 @@
+<Record>
+<Term>Actinic Keratosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Precancerous Conditions</ParentTerm>
+<ParentTerm>Keratosis</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Keratosis, Actinic</ClassificationPath>
+<ClassificationPath>Actinic (Solar) Keratosis</ClassificationPath>
+<ClassificationPath>Neoplasms/Precancerous Conditions/Keratosis, Actinic</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Actinic (Solar) Keratosis</BroaderTerm>
+<BroaderTerm>Keratosis, Actinic</BroaderTerm>
+<BroaderTerm>Precancerous Conditions</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<Synonym>Senile Hyperkeratosis</Synonym>
+<Synonym>Actinic (Solar) Keratosis</Synonym>
+<Synonym>actinic keratosis</Synonym>
+<Synonym>Senile Keratosis</Synonym>
+<Synonym>Solar Keratosis</Synonym>
+<Synonym>Actinic Keratoses</Synonym>
+<Synonym>Actinic Keratosis</Synonym>
+<Synonym>solar keratosis</Synonym>
+<Synonym>senile keratosis</Synonym>
+<Description>A precancerous lesion of the skin composed of atypical keratinocytes.  It is characterized by the presence of thick, scaly patches of skin.  Several histologic variants have been described, including atrophic, acantholytic, and hyperkeratotic variants.</Description>
+<Description>White or pink lesions on the arms, hands, face, or scalp that arise from sun-induced DNA DAMAGE to KERATINOCYTES in exposed areas. They are considered precursor lesions to superficial SQUAMOUS CELL CARCINOMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

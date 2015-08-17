@@ -1,0 +1,17 @@
+<Record>
+<Term>Strontium Chloride Sr 89</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Strontium Chloride Sr 89</ClassificationPath>
+<BroaderTerm>Strontium Chloride Sr 89</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Metastron</Synonym>
+<Synonym>STRONTIUM CHLORIDE, SR-89</Synonym>
+<Synonym>Strontium Chloride Sr 89</Synonym>
+<Description>The chloride salt of a radioactive isotope of strontium. Strontium chloride Sr 89 is taken up and incorporated preferentially in metastatic lesions in bone where it emits cytotoxic beta radiation, resulting in an inhibition and/or reduction of tumor growth and so tumor-related bone pain. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

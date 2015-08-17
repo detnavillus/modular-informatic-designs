@@ -1,0 +1,21 @@
+<Record>
+<Term>Levomenthol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Terpene Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Lipid/Terpene Compound/Levomenthol,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Levomenthol</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Lipid</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Levomenthol</BroaderTerm>
+<BroaderTerm>Levomenthol,</BroaderTerm>
+<BroaderTerm>Terpene Compound</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>LEVOMENTHOL</Synonym>
+<Synonym>Levomenthol</Synonym>
+<Description>A levo isomer of menthol, an organic compound made synthetically or obtained from peppermint or mint oils with flavoring and local anesthetic properties. When added to pharmaceuticals and foods, menthol functions as a fortifier for peppermint flavors. It also has a counterirritant effect on skin and mucous membranes, thereby producing a local analgesic or anesthetic effect.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

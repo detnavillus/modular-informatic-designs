@@ -1,0 +1,21 @@
+<Record>
+<Term>Vandetanib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Vandetanib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Vandetanib</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AZD6474</Synonym>
+<Synonym>VANDETANIB</Synonym>
+<Synonym>Vandetanib</Synonym>
+<Synonym>ZD-6474</Synonym>
+<Synonym>ZD6474</Synonym>
+<Synonym>Zactima</Synonym>
+<Description>An orally bioavailable 4-anilinoquinazoline. Vandetanib selectively inhibits the tyrosine kinase activity of vascular endothelial growth factor receptor 2 (VEGF2), thereby blocking VEGF-stimulated endothelial cell proliferation and migration and reducing tumor vessel permeability. This agent also blocks the tyrosine kinase activity of epidermal growth factor receptor (EGFR), a receptor tyrosine kinase that mediates tumor cell proliferation and migration and angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

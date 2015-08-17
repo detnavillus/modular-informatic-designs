@@ -1,0 +1,17 @@
+<Record>
+<Term>Bursitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Bursitis</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Bursitis</BroaderTerm>
+<ChildTerm>Periarthritis</ChildTerm>
+<Synonym>Bursitis</Synonym>
+<Synonym>Bursitides</Synonym>
+<Synonym>Adhesive Capsulitis</Synonym>
+<Synonym>Adhesive Capsulitides</Synonym>
+<Synonym>Frozen Shoulder</Synonym>
+<Description>Inflammation or irritation of a bursa, the fibrous sac that acts as a cushion between moving structures of bones, muscles, tendons or skin.</Description>
+<Source>MeSH</Source>
+</Record>

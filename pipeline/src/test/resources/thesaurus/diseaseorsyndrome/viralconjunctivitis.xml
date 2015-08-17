@@ -1,0 +1,37 @@
+<Record>
+<Term>Viral Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder by Site</ParentTerm>
+<ParentTerm>Conjunctivitis</ParentTerm>
+<ParentTerm>Eye Infections, Viral</ParentTerm>
+<ClassificationPath>Virus Diseases/Eye Infections, Viral/Conjunctivitis, Viral</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis/Viral Conjunctivitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Viral Conjunctivitis</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Viral</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Viral/Conjunctivitis, Viral</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Viral Conjunctivitis,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Eye Infections, Viral</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Viral Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Viral</BroaderTerm>
+<ChildTerm>Conjunctivitis, Acute Hemorrhagic</ChildTerm>
+<Synonym>Viral Conjunctivitides</Synonym>
+<Synonym>Viral Conjunctivitis</Synonym>
+<Description>Inflammation, often mild, of the conjunctiva caused by a variety of viral agents. Conjunctival involvement may be part of a systemic infection.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

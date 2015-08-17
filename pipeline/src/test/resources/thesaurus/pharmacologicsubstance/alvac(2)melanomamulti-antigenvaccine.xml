@@ -1,0 +1,17 @@
+<Record>
+<Term>ALVAC(2) Melanoma Multi-antigen Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>ALVAC Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/ALVAC Vaccine/ALVAC(2) Melanoma Multi-antigen Vaccine</ClassificationPath>
+<BroaderTerm>ALVAC(2) Melanoma Multi-antigen Vaccine</BroaderTerm>
+<BroaderTerm>ALVAC Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>ALVAC(2) Melanoma Multi-antigen Vaccine</Synonym>
+<Description>A therapeutic cancer vaccine, based on a replication-defective recombinant canarypox virus (ALVAC) encoding multiple melanoma antigens, with potential immunostimulatory and antineoplastic activities. Vaccination with ALVAC(2) melanoma multi-antigen therapeutic vaccine may stimulate the host immune system to mount an immune response against antigen-expressing melanoma cells, resulting in inhibition of tumor growth and/or metastasis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

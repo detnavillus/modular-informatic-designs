@@ -1,0 +1,35 @@
+<Record>
+<Term>Lymphedema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Vascular Disorder</ParentTerm>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Lymphedema</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphedema</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Lymphedema</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Elephantiasis</ChildTerm>
+<ChildTerm>Secondary Lymphedema</ChildTerm>
+<ChildTerm>Primary Lymphedema</ChildTerm>
+<Synonym>Milroys Disease</Synonym>
+<Synonym>lymphedema</Synonym>
+<Synonym>Nonne Milroy Meige Disease</Synonym>
+<Synonym>Nonne Milroy Disease</Synonym>
+<Synonym>Milroy Disease</Synonym>
+<Synonym>Nonne-Milroy Disease</Synonym>
+<Synonym>Nonne-Milroy-Meige Disease</Synonym>
+<Synonym>Milroy's Disease</Synonym>
+<Synonym>Lymphedemas</Synonym>
+<Synonym>Lymphedema</Synonym>
+<Description>Excess fluid collection in tissues, causing swelling.  It is the result of obstruction of lymphatic vessels or lymph nodes. -- 2004</Description>
+<Description>Edema due to obstruction of lymph vessels or disorders of the lymph nodes.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

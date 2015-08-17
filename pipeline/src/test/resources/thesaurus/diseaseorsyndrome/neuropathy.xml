@@ -1,0 +1,34 @@
+<Record>
+<Term>Neuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Neuropathy</ClassificationPath>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neuropathy</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Horner's Syndrome</ChildTerm>
+<ChildTerm>Diabetic Neuropathy</ChildTerm>
+<ChildTerm>Peripheral Sensory Neuropathy</ChildTerm>
+<ChildTerm>Axonal Neuropathy</ChildTerm>
+<ChildTerm>Mononeuritis Multiplex</ChildTerm>
+<ChildTerm>Polyneuropathy</ChildTerm>
+<ChildTerm>Femoral Neuropathy</ChildTerm>
+<ChildTerm>Peroneal Neuropathy</ChildTerm>
+<ChildTerm>Autonomic Neuropathy</ChildTerm>
+<ChildTerm>Peripheral Motor Neuropathy</ChildTerm>
+<ChildTerm>Entrapment Neuropathy</ChildTerm>
+<ChildTerm>Congenital Neuropathy</ChildTerm>
+<ChildTerm>Uremic Neuropathy</ChildTerm>
+<ChildTerm>Idiopathic Neuropathy</ChildTerm>
+<ChildTerm>Inherited Neuropathy</ChildTerm>
+<ChildTerm>Ischemic Neuropathy</ChildTerm>
+<Synonym>Neuropathy</Synonym>
+<Synonym>neuropathy</Synonym>
+<Synonym>peripheral neuropathy</Synonym>
+<Description>A disorder affecting the cranial nerves or the peripheral nervous system.  It is manifested with pain, tingling, numbness, and muscle weakness.  It may be the result of physical injury, toxic substances, viral diseases, diabetes, renal failure, cancer, and drugs. -- 2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

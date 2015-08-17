@@ -1,0 +1,21 @@
+<Record>
+<Term>Sevoflurane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Sevoflurane</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Sevoflurane</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SEVOFLURANE</Synonym>
+<Synonym>Sevoflurane</Synonym>
+<Synonym>Sojourn</Synonym>
+<Synonym>1,1,1,3,3,3-Hexafluoro-2-(fluoromethoxy)propane</Synonym>
+<Synonym>Ultane</Synonym>
+<Synonym>Ether, Fluoromethyl 2,2,2-trifluoro-1-(trifluoromethyl)ethyl-</Synonym>
+<Description>A fluorinated isopropyl ether with general anesthetic property. Although the mechanism of action has not been fully elucidated, sevoflurane may act by interfering with the release and re-uptake of neurotransmitters at post-synaptic terminals, and/or alter ionic conductance following receptor activation by a neurotransmitter. Sevoflurane may also interact directly with lipid matrix of neuronal membranes, thereby affecting gating properties of ion channels. In addition, this agent may activate gamma-aminobutyric acid (GABA) receptors hyperpolarizing cell membranes. This results in a general anesthetic effect, a decrease in myocardial contractility and mean arterial pressure as well as an increased respiratory rate.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

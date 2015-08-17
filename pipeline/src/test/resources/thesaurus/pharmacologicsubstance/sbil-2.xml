@@ -1,0 +1,15 @@
+<Record>
+<Term>SBIL-2</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/SBIL-2</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>SBIL-2</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SBIL-2</Synonym>
+<Description>An retroviral vector encoding human IL-2 with potential antineoplastic property. SBIL-2 (Surgery Branch IL-2) can be used to transfect tumor infiltrating lymphocytes, which can then be re-introduced back to cancer patients, thereby stimulate T cell activation and immunopotentiation responses.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

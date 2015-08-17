@@ -1,0 +1,20 @@
+<Record>
+<Term>Pneumocystis Carinii Pneumonia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumonia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pneumonia/Pneumocystis Carinii Pneumonia</ClassificationPath>
+<BroaderTerm>Pneumocystis Carinii Pneumonia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pneumonia</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>AIDS-Related Pneumocystis Carinii Pneumonia</ChildTerm>
+<Synonym>Pneumocystis Carinii Pneumonia</Synonym>
+<Description>Pneumocystis carinii pneumonia (PCP). pneumonia resulting from infection with Pneumocystis carinii, frequently seen in the immunologically compromised, such as persons with AIDS, or steroid-treated individuals, the elderly, or premature or debilitated babies during their first three months.  Patients may be only slightly febrile (or even afebrile), but are likely to be extremely weak, dyspneic, and cyanotic. This is a major cause of morbidity among patients with AIDS.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

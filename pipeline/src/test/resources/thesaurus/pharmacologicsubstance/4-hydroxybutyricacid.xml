@@ -1,0 +1,20 @@
+<Record>
+<Term>4-Hydroxybutyric Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neurotransmitter</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Physiology-Regulatory Factor/Neurotransmitter/4-Hydroxybutyric Acid,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/4-Hydroxybutyric Acid</ClassificationPath>
+<BroaderTerm>Physiology-Regulatory Factor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>4-Hydroxybutyric Acid,</BroaderTerm>
+<BroaderTerm>4-Hydroxybutyric Acid</BroaderTerm>
+<BroaderTerm>Neurotransmitter</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-HYDROXY BUTYRIC ACID</Synonym>
+<Synonym>4-Hydroxybutyric Acid</Synonym>
+<Synonym>Gamma-Hydroxybutyric Acid</Synonym>
+<Description>A naturally occurring short-chain fatty acid, and immediate precursor of gamma amino butyric acid (GABA) with neuromodulatory and anesthetic properties. Gamma-Hydroxybutyric Acid (GHB) is found in all human tissues, with the highest concentration in the brain. This agent stimulates the GHB receptor, and to a lesser extent GABA-B receptors. Although, the precise function and metabolic pathways of GHB are not fully understood, this agent easily crosses the blood-brain barrier, and affects the activities and levels of dopamine, acetylcholine, dynorphin and serotonin. The primary effect of GHB is central nervous system depression, thereby, its main usage is to induce anesthesia.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

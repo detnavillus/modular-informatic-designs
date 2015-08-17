@@ -1,0 +1,19 @@
+<Record>
+<Term>Dental Pulp Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Pulp Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Pulp Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Dental Pulp Calcification</ChildTerm>
+<ChildTerm>Dental Pulp Exposure</ChildTerm>
+<ChildTerm>Dental Pulp Necrosis</ChildTerm>
+<ChildTerm>Dentin, Secondary</ChildTerm>
+<ChildTerm>Pulpitis</ChildTerm>
+<ChildTerm>Tooth, Nonvital</ChildTerm>
+<Synonym>Dental Pulp Diseases</Synonym>
+<Synonym>Dental Pulp Disease</Synonym>
+<Description>Endodontic diseases of the DENTAL PULP inside the tooth, which is distinguished from PERIAPICAL DISEASES of the tissue surrounding the root.</Description>
+<Source>MeSH</Source>
+</Record>

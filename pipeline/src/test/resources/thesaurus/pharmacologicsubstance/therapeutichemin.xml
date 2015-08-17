@@ -1,0 +1,17 @@
+<Record>
+<Term>Therapeutic Hemin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Hemin</ClassificationPath>
+<BroaderTerm>Therapeutic Hemin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Hematin for Injection</Synonym>
+<Synonym>Hemin for Injection</Synonym>
+<Synonym>Panhematin</Synonym>
+<Synonym>Therapeutic Hemin</Synonym>
+<Description>A sterile, lyophilized powder of hemin, the Fe3+ oxidation product of heme (Fe2+), derived from processed red blood cells. Therapeutic hemin appears to inhibit delta-aminolevulinic acid (ALA) synthetase, a rate-limiting enzyme in the porphyrin/heme biosynthetic pathway, resulting in inhibition of the hepatic and/or marrow synthesis of porphyrin precursors. The mechanism by which therapeutic hematin produces symptomatic improvement in patients with acute episodes of the hepatic porphyrias has not been determined.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

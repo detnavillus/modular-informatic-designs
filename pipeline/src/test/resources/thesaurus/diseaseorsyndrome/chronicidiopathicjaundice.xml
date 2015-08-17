@@ -1,0 +1,25 @@
+<Record>
+<Term>Chronic Idiopathic Jaundice</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperbilirubinemia, Hereditary</ParentTerm>
+<ParentTerm>Jaundice, Neonatal</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Hyperbilirubinemia, Hereditary/Jaundice, Chronic Idiopathic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Hyperbilirubinemia, Hereditary/Jaundice, Chronic Idiopathic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Hyperbilirubinemia, Neonatal/Jaundice, Neonatal/Jaundice, Chronic Idiopathic</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Hyperbilirubinemia, Neonatal</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Jaundice, Chronic Idiopathic</BroaderTerm>
+<BroaderTerm>Jaundice, Neonatal</BroaderTerm>
+<BroaderTerm>Hyperbilirubinemia, Hereditary</BroaderTerm>
+<Synonym>Chronic Idiopathic Jaundices</Synonym>
+<Synonym>Chronic Idiopathic Jaundice</Synonym>
+<Synonym>Dubin-Johnson Syndrome</Synonym>
+<Synonym>Dubin Johnson Syndrome</Synonym>
+<Description>A benign, autosomally recessive inherited hyperbilirubinemia characterized by the presence of a dark pigment in the centrilobular region of the liver cells. There is a functional defect in biliary excretion of bilirubin, cholephilic dyes, and porphyrins. Affected persons may be asymptomatic or have vague constitutional or gastrointestinal symptoms. The liver may be slightly enlarged, and oral and intravenous cholangiography fails to visualize the biliary tract.</Description>
+<Source>MeSH</Source>
+</Record>

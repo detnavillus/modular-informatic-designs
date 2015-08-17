@@ -1,0 +1,22 @@
+<Record>
+<Term>Inborn Errors Steroid Metabolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolism, Inborn Errors</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Steroid Metabolism, Inborn Errors</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Steroid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<ChildTerm>Ichthyosis, X-Linked</ChildTerm>
+<ChildTerm>Antley-Bixler Syndrome Phenotype</ChildTerm>
+<ChildTerm>Adrenal Hyperplasia, Congenital</ChildTerm>
+<ChildTerm>Smith-Lemli-Opitz Syndrome</ChildTerm>
+<ChildTerm>Mineralocorticoid Excess Syndrome, Apparent</ChildTerm>
+<Synonym>Congenital Errors of Steroid Metabolism</Synonym>
+<Synonym>Inborn Errors of Steroid Metabolism</Synonym>
+<Description>Errors in metabolic processing of STEROIDS resulting from inborn genetic mutations that are inherited or acquired in utero.</Description>
+<Source>MeSH</Source>
+</Record>

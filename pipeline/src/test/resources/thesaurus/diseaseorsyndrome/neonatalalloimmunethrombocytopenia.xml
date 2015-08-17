@@ -1,0 +1,21 @@
+<Record>
+<Term>Neonatal Alloimmune Thrombocytopenia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Thrombocytopenia</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Thrombocytopenia, Neonatal Alloimmune</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombocytopenia/Thrombocytopenia, Neonatal Alloimmune</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia, Neonatal Alloimmune</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Thrombocytopenia</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Neonatal Alloimmune Thrombocytopenia</Synonym>
+<Synonym>Neonatal Thrombocytopenia</Synonym>
+<Synonym>Neonatal Alloimmune Thrombocytopenias</Synonym>
+<Synonym>Neonatal Thrombocytopenias</Synonym>
+<Description>A condition in newborns caused by immunity of the mother to PLATELET ALLOANTIGENS on the fetal platelets. The PLATELETS, coated with maternal ANTIBODIES, are destroyed and removed by the fetal MONONUCLEAR PHAGOCYTE SYSTEM. Affected infants may have INTRACRANIAL HEMORRHAGES.</Description>
+<Source>MeSH</Source>
+</Record>

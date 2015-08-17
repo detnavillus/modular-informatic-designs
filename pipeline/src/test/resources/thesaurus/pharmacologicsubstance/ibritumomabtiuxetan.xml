@@ -1,0 +1,20 @@
+<Record>
+<Term>Ibritumomab Tiuxetan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Immunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Ibritumomab Tiuxetan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ibritumomab Tiuxetan</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>IBRITUMOMAB TIUXETAN</Synonym>
+<Synonym>Ibritumomab tiuxetan</Synonym>
+<Synonym>Ibritumomab Tiuxetan</Synonym>
+<Synonym>Zevalin</Synonym>
+<Description>An immunoconjugate of the monoclonal antibody ibritumomab conjugated with the linker-chelator tiuxetan, a high affinity, conformationally restricted chelation site for radioisotopes. When bound to indium In 111 or yttrium Y 90, ibritumomab tiuxetan, targeting the CD20 antigen on B cell surfaces, specifically delivers a potentially cytotoxic dose of radiation to B lymphocytes. Ibritumomab is a murine IgG1 kappa monoclonal antibody directed against the CD20 antigen, which is found on the surface of normal and malignant B lymphocytes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

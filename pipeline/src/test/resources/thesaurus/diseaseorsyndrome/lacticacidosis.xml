@@ -1,0 +1,14 @@
+<Record>
+<Term>Lactic Acidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acidosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Acid-Base Imbalance/Acidosis/Acidosis, Lactic</ClassificationPath>
+<BroaderTerm>Acidosis</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Acid-Base Imbalance</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Acidosis, Lactic</BroaderTerm>
+<Synonym>Lactic Acidosis</Synonym>
+<Description>Acidosis caused by accumulation of lactic acid more rapidly than it can be metabolized. It may occur spontaneously or in association with diseases such as diabetes mellitus, leukemia, or liver failure.</Description>
+<Source>MeSH</Source>
+</Record>

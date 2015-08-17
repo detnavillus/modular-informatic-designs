@@ -1,0 +1,18 @@
+<Record>
+<Term>Horse Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Horse Diseases</ClassificationPath>
+<BroaderTerm>Horse Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>African Horse Sickness</ChildTerm>
+<ChildTerm>Equine Infectious Anemia</ChildTerm>
+<ChildTerm>Strongyle Infections, Equine</ChildTerm>
+<ChildTerm>Glanders</ChildTerm>
+<Synonym>Horse Diseases</Synonym>
+<Synonym>Horse Disease</Synonym>
+<Synonym>Equine Diseases</Synonym>
+<Synonym>Equine Disease</Synonym>
+<Description>Diseases of domestic and wild horses of the species Equus caballus.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Pericarditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with the Heart in General</ParentTerm>
+<ParentTerm>Heart Disorder</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Heart Disorder/Pericarditis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Heart in General/Pericarditis Adverse Event</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Pericarditis</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pericarditis Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Heart in General</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Pericarditis</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Pericarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Pericarditis</ChildTerm>
+<ChildTerm>Pericarditis, Constrictive</ChildTerm>
+<ChildTerm>Acute Rheumatic Pericarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Pericarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Pericarditis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Pericarditis</ChildTerm>
+<ChildTerm>Pericarditis, Tuberculous</ChildTerm>
+<ChildTerm>Malignant Pericarditis</ChildTerm>
+<Synonym>Pericarditis Adverse Event</Synonym>
+<Synonym>Pericarditides</Synonym>
+<Synonym>Pericarditis</Synonym>
+<Description>Inflammation of the PERICARDIUM from various origins, such as infection, neoplasm, autoimmune process, injuries, or drugs-induced. Pericarditis usually leads to PERICARDIAL EFFUSION, or CONSTRICTIVE PERICARDITIS.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

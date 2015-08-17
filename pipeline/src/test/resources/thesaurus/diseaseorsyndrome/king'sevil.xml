@@ -1,0 +1,18 @@
+<Record>
+<Term>King's Evil</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Lymph Node</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Lymph Node/King's Evil</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>King's Evil</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Lymph Node</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>King's Evil</Synonym>
+<Synonym>Kings Evil</Synonym>
+<Description>The historic designation for scrofula (TUBERCULOSIS, LYMPH NODE). The disease is so called from the belief that it could be healed by the touch of a king. This term is used only for historical articles using the name "king's evil", and is to be differentiated from scrofula as lymph node tuberculosis in modern clinical medicine. (From Webster, 3d ed)</Description>
+<Source>MeSH</Source>
+</Record>

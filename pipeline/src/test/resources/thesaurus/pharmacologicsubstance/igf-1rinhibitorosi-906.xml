@@ -1,0 +1,17 @@
+<Record>
+<Term>IGF-1R Inhibitor OSI-906</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/IGF-1R Inhibitor OSI-906</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>IGF-1R Inhibitor OSI-906</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>IGF-1R Inhibitor OSI-906</Synonym>
+<Synonym>OSI-906</Synonym>
+<Description>An orally bioavailable small molecule inhibitor of the insulin-like growth factor 1 receptor (IGF-1R) with potential antineoplastic activity. IGF-1R inhibitor OSI-906 selectively inhibits IGF-1R, which may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. Overexpressed in a variety of human cancers, IGFR-1 stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

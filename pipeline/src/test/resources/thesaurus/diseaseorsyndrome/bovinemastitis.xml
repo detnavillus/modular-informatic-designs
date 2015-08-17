@@ -1,0 +1,13 @@
+<Record>
+<Term>Bovine Mastitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Mastitis, Bovine</ClassificationPath>
+<BroaderTerm>Mastitis, Bovine</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bovine Mastitides</Synonym>
+<Synonym>Bovine Mastitis</Synonym>
+<Description>INFLAMMATION of the UDDER in cows.</Description>
+<Source>MeSH</Source>
+</Record>

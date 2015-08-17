@@ -1,0 +1,17 @@
+<Record>
+<Term>Mononeuritis Multiplex</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neuropathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Neuropathy/Mononeuritis Multiplex</ClassificationPath>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Mononeuritis Multiplex</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neuropathy</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Mononeuritis Multiplex</Synonym>
+<Description>A painful asymmetric asynchronous sensory and motor peripheral neuropathy involving isolated damage to at least 2 separate nerve areas; associated with (but not limited to) systemic disorders such as diabetes, vasculitis, amyloidosis, direct tumor involvement, polyarteritis nodosa, rheumatoid arthritis, systemic lupus erythematosus, and paraneoplastic syndromes. It also may be associated with Lyme disease, Wegener's granulomatosis, Sjogren syndrome, cryoglobulinemia, hypereosinophilia, temporal arteritis, scleroderma, sarcoidosis, leprosy, acute viral hepatitis A, and acquired immunodeficiency syndrome.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

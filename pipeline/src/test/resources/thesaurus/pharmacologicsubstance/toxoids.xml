@@ -1,0 +1,20 @@
+<Record>
+<Term>Toxoids</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Toxoids</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Toxoids</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Diphtheria Toxoid</ChildTerm>
+<ChildTerm>Staphylococcal Toxoid</ChildTerm>
+<ChildTerm>Tetanus Toxoid</ChildTerm>
+<Synonym>Toxoids</Synonym>
+<Synonym>Deactivated Toxins</Synonym>
+<Synonym>Anatoxin Toxoids</Synonym>
+<Description>Preparations of pathogenic organisms or their derivatives made nontoxic and intended for active immunologic prophylaxis. They include deactivated toxins. Anatoxin toxoids are distinct from anatoxins that are TROPANES found in CYANOBACTERIA.</Description>
+<Source>MeSH</Source>
+</Record>

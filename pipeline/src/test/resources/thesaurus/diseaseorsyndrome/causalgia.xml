@@ -1,0 +1,25 @@
+<Record>
+<Term>Causalgia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Complex Regional Pain Syndromes</ParentTerm>
+<ParentTerm>Neuralgia</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Neuralgia/Causalgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Complex Regional Pain Syndromes/Causalgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Complex Regional Pain Syndromes/Causalgia</ClassificationPath>
+<BroaderTerm>Causalgia</BroaderTerm>
+<BroaderTerm>Complex Regional Pain Syndromes</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuralgia</BroaderTerm>
+<Synonym>Causalgia Syndrome</Synonym>
+<Synonym>Type II Complex Regional Pain Syndrome</Synonym>
+<Synonym>Causalgia</Synonym>
+<Synonym>Deafferentation Pain</Synonym>
+<Synonym>Complex Regional Pain Syndrome Type II</Synonym>
+<Synonym>CRPS Type II</Synonym>
+<Synonym>Causalgia Syndromes</Synonym>
+<Description>A complex regional pain syndrome characterized by burning pain and marked sensitivity to touch (HYPERESTHESIA) in the distribution of an injured peripheral nerve. Autonomic dysfunction in the form of sudomotor (i.e., sympathetic innervation to sweat glands), vasomotor, and trophic skin changes may also occur. (Adams et al., Principles of Neurology, 6th ed, p1359)</Description>
+<Source>MeSH</Source>
+</Record>

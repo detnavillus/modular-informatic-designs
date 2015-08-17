@@ -1,0 +1,28 @@
+<Record>
+<Term>Hyperglobulinemic Purpura</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemostatic Disorders</ParentTerm>
+<ParentTerm>Purpura</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Purpura/Purpura, Hyperglobulinemic</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hemostatic Disorders/Purpura, Hyperglobulinemic</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Hemostatic Disorders/Purpura, Hyperglobulinemic</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Purpura, Hyperglobulinemic</BroaderTerm>
+<BroaderTerm>Hemostatic Disorders</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Purpura</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Hypergammaglobulinemic Purpura of Waldenstrom</Synonym>
+<Synonym>Waldenstrom Hypergammaglobulinemic Purpura</Synonym>
+<Synonym>Waldenström Hyperglobulinemic Purpura</Synonym>
+<Synonym>Hyperglobulinemic Purpura of Waldenström</Synonym>
+<Synonym>Waldenstrom Hyperglobulinemic Purpura</Synonym>
+<Synonym>Benign Hyperglobulinemic Purpura of Waldenström</Synonym>
+<Synonym>Hyperglobulinemic Purpura</Synonym>
+<Synonym>Hyperglobulinemic Purpuras</Synonym>
+<Description>Purplish or brownish red discoloration of the skin associated with increase in circulating polyclonal globulins, usually GAMMA-GLOBULINS. This syndrome often occurs on the legs of women aged 20 to 40 years.</Description>
+<Source>MeSH</Source>
+</Record>

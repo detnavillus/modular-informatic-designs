@@ -1,0 +1,25 @@
+<Record>
+<Term>Loracarbef</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cephalosporin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Loracarbef</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Loracarbef Anhydrous</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Loracarbef</BroaderTerm>
+<BroaderTerm>Cephalosporin Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Loracarbef Anhydrous</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Loracarbef</Synonym>
+<Synonym>(6R, 7S)-7-[(R)-2-Amino-2-phenylacetamido]-3-chloro-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic Acid, Monohydrate</Synonym>
+<Synonym>Loracarbef Anhydrous</Synonym>
+<Synonym>LORACARBEF, ANHYDROUS</Synonym>
+<Synonym>LORACARBEF</Synonym>
+<Synonym>Lorabid</Synonym>
+<Description>A semi-synthetic, broad-spectrum, beta-lactamase resistant, second-generation cephalosporin antibiotic derived from cephasporium. The bactericidal activity of loracarbef results from the inhibition of bacterial cell wall synthesis through interference with the cross-linking of peptidoglycan units. This results in a reduction of cell wall stability and causes cell lysis. Loracarbef is more active against a variety of gram-negative organisms but less active against gram-positive pathogens compared to first-generation agents.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

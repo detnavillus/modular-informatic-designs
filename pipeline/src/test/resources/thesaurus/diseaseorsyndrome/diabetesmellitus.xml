@@ -1,0 +1,48 @@
+<Record>
+<Term>Diabetes Mellitus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glucose Metabolism Disorder</ParentTerm>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ParentTerm>Glucose Metabolism Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Pancreatic Disorder/Endocrine Pancreas Disorder/Diabetes Mellitus,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Diabetes Mellitus</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus,</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Endocrine Pancreas Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Diabetes Mellitus, Experimental</ChildTerm>
+<ChildTerm>Diabetes Complications</ChildTerm>
+<ChildTerm>Diabetic Ketoacidosis</ChildTerm>
+<ChildTerm>Prediabetic State</ChildTerm>
+<ChildTerm>Diabetes Mellitus, Type 1</ChildTerm>
+<ChildTerm>Donohue Syndrome</ChildTerm>
+<ChildTerm>Lipoatrophic Diabetes Mellitus</ChildTerm>
+<ChildTerm>Gestational Diabetes Mellitus</ChildTerm>
+<ChildTerm>Type 1 Diabetes Mellitus</ChildTerm>
+<ChildTerm>Type 2 Diabetes Mellitus</ChildTerm>
+<ChildTerm>Diabetes Mellitus, Type 2</ChildTerm>
+<ChildTerm>Diabetes, Gestational</ChildTerm>
+<Synonym>Diabetes</Synonym>
+<Synonym>diabetes</Synonym>
+<Synonym>diabetes mellitus</Synonym>
+<Synonym>Diabetes Mellitus</Synonym>
+<Description>A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE.</Description>
+<Description>Type 2 diabetes, characterized by target-tissue resistance to insulin, is epidemic in industrialized societies and is strongly associated with obesity; however, the mechanism by which increased adiposity causes insulin resistance is unclear.  Adipocytes secrete a unique signalling molecule, which was named resistin (for resistance to insulin).  Circulating resistin levels are decreased by the anti-diabetic drug rosiglitazone, and increased in diet-induced and genetic forms of obesity.  Administration of anti-resistin antibody improves blood sugar and insulin action in mice with diet-induced obesity.  Moreover, treatment of normal mice with recombinant resistin impairs glucose tolerance and insulin action.  Insulin-stimulated glucose uptake by adipocytes is enhanced by neutralization of resistin and is reduced by resistin treatment.  Resistin is thus a hormone that potentially links obesity to diabetes.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

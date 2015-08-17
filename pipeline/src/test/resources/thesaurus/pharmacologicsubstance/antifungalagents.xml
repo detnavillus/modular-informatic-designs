@@ -1,0 +1,17 @@
+<Record>
+<Term>Antifungal Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Antibiotic</SemanticType>
+<ParentTerm>Anti-Infective Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antifungal Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antifungal Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<Synonym>Antifungal Agents</Synonym>
+<Synonym>Therapeutic Fungicides</Synonym>
+<Synonym>Antifungal Antibiotics</Synonym>
+<Description>Substances that destroy fungi by suppressing their ability to grow or reproduce. They differ from FUNGICIDES, INDUSTRIAL because they defend against fungi present in human or animal tissues.Antibiotics inhibiting the growth of or killing fungi and used in the treatment of various fungal diseases.</Description>
+<Source>MeSH</Source>
+</Record>

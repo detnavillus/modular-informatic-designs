@@ -1,0 +1,20 @@
+<Record>
+<Term>Xanthoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Soft Tissue Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Xanthoma</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Xanthoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Eyelid Xanthoma</ChildTerm>
+<ChildTerm>Gastric Xanthoma</ChildTerm>
+<ChildTerm>Cutaneous Verruciform Xanthoma</ChildTerm>
+<Synonym>Xanthoma</Synonym>
+<Description>A non-neoplastic disorder characterized by a localized collection of histiocytes containing lipid.  Xanthomas usually occur in the skin and subcutaneous tissues, but occasionally they may involve the deep soft tissues.  -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

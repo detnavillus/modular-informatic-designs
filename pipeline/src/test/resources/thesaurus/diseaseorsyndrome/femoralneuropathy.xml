@@ -1,0 +1,30 @@
+<Record>
+<Term>Femoral Neuropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neuropathy</ParentTerm>
+<ParentTerm>Mononeuropathies</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Nervous System Disorder/Peripheral Nervous System Disorder/Neuropathy/Femoral Neuropathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Mononeuropathies/Femoral Neuropathy</ClassificationPath>
+<BroaderTerm>Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Femoral Neuropathy</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neuropathy</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mononeuropathies</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Femoral Mononeuropathies</Synonym>
+<Synonym>Femoral Mononeuropathy</Synonym>
+<Synonym>Femoral Nerve Diseases</Synonym>
+<Synonym>Femoral Neuropathy</Synonym>
+<Synonym>Femoral Neuropathies</Synonym>
+<Synonym>Femoral Neuritis</Synonym>
+<Synonym>Femoral Nerve Disease</Synonym>
+<Description>Disease involving the femoral nerve. The femoral nerve may be injured by ISCHEMIA (e.g., in association with DIABETIC NEUROPATHIES), nerve compression, trauma, COLLAGEN DISEASES, and other disease processes. Clinical features include MUSCLE WEAKNESS or PARALYSIS of hip flexion and knee extension, ATROPHY of the QUADRICEPS MUSCLE, reduced or absent patellar reflex, and impaired sensation over the anterior and medial thigh.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

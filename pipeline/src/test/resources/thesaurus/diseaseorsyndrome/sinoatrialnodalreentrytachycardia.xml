@@ -1,0 +1,19 @@
+<Record>
+<Term>Sinoatrial Nodal Reentry Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tachycardia, Reciprocating</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating/Tachycardia, Sinoatrial Nodal Reentry</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating/Tachycardia, Sinoatrial Nodal Reentry</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Tachycardia, Reciprocating</BroaderTerm>
+<BroaderTerm>Tachycardia, Sinoatrial Nodal Reentry</BroaderTerm>
+<Synonym>Sinoatrial Nodal Reentry Tachycardia</Synonym>
+<Synonym>Sinus Node Reentrant Tachycardia</Synonym>
+<Description>Abnormally rapid heartbeats caused by reentry circuit in or around the SINOATRIAL NODE. It is characterized by sudden onset and offset episodes of tachycardia with a HEART RATE of 100-150 beats per minute. The P wave is identical to the sinus P wave but with a longer PR interval.</Description>
+<Source>MeSH</Source>
+</Record>

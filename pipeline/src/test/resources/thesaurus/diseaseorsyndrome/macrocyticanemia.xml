@@ -1,0 +1,25 @@
+<Record>
+<Term>Macrocytic Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Macrocytic Anemia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Macrocytic</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Macrocytic Anemia</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Macrocytic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Megaloblastic Anemia</ChildTerm>
+<ChildTerm>Anemia, Megaloblastic</ChildTerm>
+<Synonym>Macrocytic Anemia</Synonym>
+<Synonym>Macrocytic Anemias</Synonym>
+<Description>Anemia characterized by larger than normal erythrocytes, increased mean corpuscular volume (MCV) and increased mean corpuscular hemoglobin (MCH).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

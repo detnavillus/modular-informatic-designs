@@ -1,0 +1,28 @@
+<Record>
+<Term>Megacolon</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Colonic Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Intestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Megacolon</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Megacolon</ClassificationPath>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Megacolon</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Megacolon, Toxic</ChildTerm>
+<ChildTerm>Aganglionic Megacolon</ChildTerm>
+<ChildTerm>Hirschsprung Disease</ChildTerm>
+<Synonym>Megacolon</Synonym>
+<Synonym>Megacolons</Synonym>
+<Description>Dilatation of the COLON, often to alarming dimensions. There are various types of megacolon including congenital megacolon in HIRSCHSPRUNG DISEASE, idiopathic megacolon in CONSTIPATION, and TOXIC MEGACOLON.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

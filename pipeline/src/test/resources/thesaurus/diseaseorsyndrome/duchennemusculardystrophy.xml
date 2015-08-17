@@ -1,0 +1,30 @@
+<Record>
+<Term>Duchenne Muscular Dystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Dystrophies</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Muscular Dystrophies/Muscular Dystrophy, Duchenne</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies/Muscular Dystrophy, Duchenne</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Muscular Dystrophy, Duchenne</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies/Muscular Dystrophy, Duchenne</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Muscular Dystrophies</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Muscular Dystrophy, Duchenne</BroaderTerm>
+<BroaderTerm>Muscular Disorders, Atrophic</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Pseudohypertrophic Muscular Dystrophies</Synonym>
+<Synonym>Pseudohypertrophic Childhood Muscular Dystrophy</Synonym>
+<Synonym>Duchenne-Type Progressive Muscular Dystrophy</Synonym>
+<Synonym>Duchenne Muscular Dystrophy</Synonym>
+<Synonym>Duchenne Type Progressive Muscular Dystrophy</Synonym>
+<Synonym>Childhood Pseudohypertrophic Muscular Dystrophy</Synonym>
+<Synonym>Pseudohypertrophic Muscular Dystrophy</Synonym>
+<Synonym>Becker Muscular Dystrophy</Synonym>
+<Description>An X-linked recessive muscle disease caused by an inability to synthesize DYSTROPHIN, which is involved with maintaining the integrity of the sarcolemma. Muscle fibers undergo a process that features degeneration and regeneration. Clinical manifestations include proximal weakness in the first few years of life, pseudohypertrophy, cardiomyopathy (see MYOCARDIAL DISEASES), and an increased incidence of impaired mentation. Becker muscular dystrophy is a closely related condition featuring a later onset of disease (usually adolescence) and a slowly progressive course. (Adams et al., Principles of Neurology, 6th ed, p1415)</Description>
+<Source>MeSH</Source>
+</Record>

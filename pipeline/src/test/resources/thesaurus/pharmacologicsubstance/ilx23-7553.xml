@@ -1,0 +1,18 @@
+<Record>
+<Term>ILX23-7553</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Differentiation Inducer</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/ILX23-7553</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>ILX23-7553</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1,25-dihydroxy-16-ene-23-yne-cholecalciferol</Synonym>
+<Synonym>ILX23-7553</Synonym>
+<Synonym>Ro23-7553</Synonym>
+<Description>A vitamin D3 analogue with potential antineoplastic activity.  ILX23-7553 binds to and activates the vitamin D receptor, a cytoplasmic polypeptide expressed in normal vitamin D responsive tissues, but also overexpressed in certain cancers including hepatocellular carcinoma and pancreatic cancer. Mediated through vitamin D receptor, this agent induces cancer cell differentiation, inhibits cancer cell growth and induces apoptosis. In addition, ILX23-7553 may also induce growth arrest and apoptosis independent of vitamin D receptor activation through mechanisms that are not fully elucidated.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Rabies Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Rabies Vaccines</ClassificationPath>
+<BroaderTerm>Rabies Vaccines</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Rabies Vaccines</Synonym>
+<Synonym>Rabies Human Diploid Cell Vaccine</Synonym>
+<Synonym>Rabies Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent and treat RABIES. The inactivated virus vaccine is used for preexposure immunization to persons at high risk of exposure, and in conjunction with rabies immunoglobulin, for postexposure prophylaxis.</Description>
+<Source>MeSH</Source>
+</Record>

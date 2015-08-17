@@ -1,0 +1,32 @@
+<Record>
+<Term>Urticaria Pigmentosa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Pigmentation Disorders</ParentTerm>
+<ParentTerm>Mastocytosis, Cutaneous</ParentTerm>
+<ClassificationPath>Urticaria Pigmentosa:Maculopapular Cutaneous Mastocytosis</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Connective and Soft Tissue/Neoplasms, Connective Tissue/Mastocytosis/Mastocytosis, Cutaneous/Urticaria Pigmentosa</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Mastocytosis/Mastocytosis, Cutaneous/Urticaria Pigmentosa</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders/Urticaria Pigmentosa</ClassificationPath>
+<BroaderTerm>Urticaria Pigmentosa:Maculopapular Cutaneous Mastocytosis</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective Tissue</BroaderTerm>
+<BroaderTerm>Neoplasms, Connective and Soft Tissue</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mastocytosis, Cutaneous</BroaderTerm>
+<BroaderTerm>Mastocytosis</BroaderTerm>
+<BroaderTerm>Urticaria Pigmentosa</BroaderTerm>
+<Synonym>Urticaria Pigmentosa/Maculopapular Cutaneous Mastocytosis</Synonym>
+<Synonym>Maculopapular Cutaneous Mastocytoses</Synonym>
+<Synonym>UP/MPCM</Synonym>
+<Synonym>Maculopapular Cutaneous Mastocytosis</Synonym>
+<Synonym>Urticaria Pigmentosa</Synonym>
+<Description>The most common form of cutaneous mastocytosis (MASTOCYTOSIS, CUTANEOUS) that occurs primarily in children. It is characterized by the multiple small reddish-brown pigmented pruritic macules and papules.</Description>
+<Description>The most frequent form of cutaneous mastocytosis.  In children, the lesions tend to be papular, and are characterized by aggregates of elongated or spindle-shaped mast cells which fill the papillary dermis and extend into the reticular dermis.  In adults, the lesions tend to have fewer mast cells compared to those in children.  The lesions are located most commonly on the trunk, but they can be seen on the extremities, head and neck. (WHO, 2001) -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Treponemal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Spirochaetales Infections</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections</ClassificationPath>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Yaws</ChildTerm>
+<ChildTerm>Syphilis</ChildTerm>
+<ChildTerm>Pinta</ChildTerm>
+<Synonym>Treponemal Infection</Synonym>
+<Synonym>Treponemal Infections</Synonym>
+<Synonym>Bejels</Synonym>
+<Synonym>Bejel</Synonym>
+<Description>Infections with bacteria of the genus TREPONEMA.</Description>
+<Source>MeSH</Source>
+</Record>

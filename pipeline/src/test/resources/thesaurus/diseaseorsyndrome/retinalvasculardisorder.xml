@@ -1,0 +1,22 @@
+<Record>
+<Term>Retinal Vascular Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Retinal Disorder/Retinal Vascular Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Ocular Vascular Disorder/Retinal Vascular Disorder</ClassificationPath>
+<BroaderTerm>Ocular Vascular Disorder</BroaderTerm>
+<BroaderTerm>Retinal Vascular Disorder,</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Retinal Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Retinal Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Retinal Vascular Occlusion</ChildTerm>
+<ChildTerm>Diabetic Retinopathy</ChildTerm>
+<Synonym>Retinal Vascular Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

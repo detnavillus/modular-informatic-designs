@@ -1,0 +1,30 @@
+<Record>
+<Term>Intracranial Arterial Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Intracranial Aneurysm</ChildTerm>
+<ChildTerm>Intracranial Arteriovenous Malformations</ChildTerm>
+<ChildTerm>Cerebral Arterial Diseases</ChildTerm>
+<ChildTerm>Intracranial Arteriosclerosis</ChildTerm>
+<Synonym>Arterial Brain Disease</Synonym>
+<Synonym>Intracranial Arterial Disorders</Synonym>
+<Synonym>Intracranial Arterial Diseases</Synonym>
+<Synonym>Arterial Brain Diseases</Synonym>
+<Synonym>Arterial Brain Disorder</Synonym>
+<Synonym>Brain Arterial Diseases</Synonym>
+<Synonym>Intracranial Arterial Disease</Synonym>
+<Synonym>Arterial Brain Disorders</Synonym>
+<Synonym>Intracranial Arterial Disorder</Synonym>
+<Synonym>Brain Arterial Disease</Synonym>
+<Description>Pathological conditions involving ARTERIES in the skull, such as arteries supplying the CEREBRUM, the CEREBELLUM, the BRAIN STEM, and associated structures. They include atherosclerotic, congenital, traumatic, infectious, inflammatory, and other pathological processes.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Crohn Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Crohn Disease</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Intestinal Precancerous Condition/Inflammatory Bowel Disease/Crohn Disease/Crohn Colitis</ClassificationPath>
+<BroaderTerm>Inflammatory Bowel Disease</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Crohn Colitis</BroaderTerm>
+<BroaderTerm>Intestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Crohn Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Crohn Colitis</Synonym>
+<Synonym>Crohn's Colitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Naftifine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antifungal Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Naftifine Hydrochloride</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antifungal Agent/Naftifine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Naftifine Hydrochloride</BroaderTerm>
+<BroaderTerm>Antifungal Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Naftifine</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Naftifine hydrochloride</Synonym>
+<Synonym>(E)-N-methyl-N-(1-naphthylmethyl)-3-phenyl-2-propen-1-amine-hydrochloride</Synonym>
+<Synonym>Naftifine Hydrochloride</Synonym>
+<Synonym>NAFTIFINE HYDROCHLORIDE</Synonym>
+<Synonym>SN 105843</Synonym>
+<Synonym>NAFTIFINE</Synonym>
+<Synonym>Naftifine</Synonym>
+<Synonym>Naftin</Synonym>
+<Description>The hydrochloride salt form of naftifine, an allylamine derivate with synthetic broad-spectrum antifungal activity. Although the exact mechanism through which naftifine hydrochloride exerts its effect is unknown, it appears to selectively inhibit the enzyme squalene 2,3-epoxidase, thereby inhibiting the biosynthesis of sterol. This results in a decreased amount of sterols, especially ergosterol which is the primary fungal membrane sterol, and a corresponding accumulation of squalene in fungal cells. Naftifine hydrochloride can be fungicidal as well as fungistatic to yeasts depending on the concentration and the organisms involved.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

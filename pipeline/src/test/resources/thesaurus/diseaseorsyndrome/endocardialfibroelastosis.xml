@@ -1,0 +1,15 @@
+<Record>
+<Term>Endocardial Fibroelastosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Endocardial Fibroelastosis</ClassificationPath>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Endocardial Fibroelastosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Isolated Noncompaction of the Ventricular Myocardium</ChildTerm>
+<Synonym>Endocardial Fibroelastosis</Synonym>
+<Synonym>Endocardial Fibroelastoses</Synonym>
+<Description>A condition characterized by the thickening of ENDOCARDIUM due to proliferation of fibrous and elastic tissue, usually in the left ventricle leading to impaired cardiac function (CARDIOMYOPATHY, RESTRICTIVE). It is most commonly seen in young children and rarely in adults. It is often associated with congenital heart anomalies (HEART DEFECTS CONGENITAL;) INFECTION; or gene mutation. Defects in the tafazzin protein, encoded by TAZ gene, result in a form of autosomal dominant familial endocardial fibroelastosis.</Description>
+<Source>MeSH</Source>
+</Record>

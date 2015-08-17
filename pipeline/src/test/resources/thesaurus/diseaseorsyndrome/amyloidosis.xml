@@ -1,0 +1,21 @@
+<Record>
+<Term>Amyloidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Proteostasis Deficiencies</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis</ClassificationPath>
+<ClassificationPath>Amyloidosis</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Amyloidosis</BroaderTerm>
+<ChildTerm>Amyloidosis, Familial</ChildTerm>
+<ChildTerm>Amyloid Neuropathies</ChildTerm>
+<ChildTerm>Cerebral Amyloid Angiopathy</ChildTerm>
+<Synonym>amyloidosis</Synonym>
+<Synonym>Amyloidoses</Synonym>
+<Synonym>Amyloidosis</Synonym>
+<Description>A group of sporadic, familial and/or inherited, degenerative, and infectious disease processes, linked by the common theme of abnormal protein folding and deposition of AMYLOID. As the amyloid deposits enlarge they displace normal tissue structures, causing disruption of function. Various signs and symptoms depend on the location and size of the deposits.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

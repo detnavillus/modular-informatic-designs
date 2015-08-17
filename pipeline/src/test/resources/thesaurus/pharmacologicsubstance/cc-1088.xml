@@ -1,0 +1,20 @@
+<Record>
+<Term>CC-1088</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Phosphodiesterase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Miscellaneous Angiogenesis Inhibitor/CC-1088,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Phosphodiesterase Inhibitor/CC-1088</ClassificationPath>
+<BroaderTerm>CC-1088,</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CC-1088</BroaderTerm>
+<BroaderTerm>Phosphodiesterase Inhibitor</BroaderTerm>
+<BroaderTerm>Miscellaneous Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CC-1088</Synonym>
+<Description>An analog of thalidomide with potential antineoplastic activity that belongs to the functional class of agents called selective cytokine inhibitory drugs (SelCIDs).  SelCIDs inhibit phosphodiesterase-4 (PDE 4), an enzyme involved in tumor necrosis factor alpha (TNF alpha) production.  CC-1088 inhibits production of the cytokines vascular endothelial growth factor (VEGF) (a pro-angiogenic factor) and interleukin-6 (IL-6). (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

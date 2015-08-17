@@ -1,0 +1,23 @@
+<Record>
+<Term>Pharyngeal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatognathic Diseases</ParentTerm>
+<ParentTerm>Otorhinolaryngologic Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Pharyngeal Diseases</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Pharyngeal Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Pharyngeal Diseases</BroaderTerm>
+<ChildTerm>Pharyngeal Neoplasms</ChildTerm>
+<ChildTerm>Velopharyngeal Insufficiency</ChildTerm>
+<ChildTerm>Pharyngitis</ChildTerm>
+<ChildTerm>Deglutition Disorders</ChildTerm>
+<ChildTerm>Nasopharyngeal Diseases</ChildTerm>
+<Synonym>Diseases of Pharynx</Synonym>
+<Synonym>Pharyngeal Diseases</Synonym>
+<Synonym>Pharynx Diseases</Synonym>
+<Synonym>Pharynx Disease</Synonym>
+<Synonym>Pharyngeal Disease</Synonym>
+<Description>Pathological processes involving the PHARYNX.</Description>
+<Source>MeSH</Source>
+</Record>

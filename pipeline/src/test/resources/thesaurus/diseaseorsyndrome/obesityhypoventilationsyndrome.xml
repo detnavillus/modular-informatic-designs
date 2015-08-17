@@ -1,0 +1,31 @@
+<Record>
+<Term>Obesity Hypoventilation Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypoventilation</ParentTerm>
+<ParentTerm>Obesity</ParentTerm>
+<ParentTerm>Sleep Apnea, Obstructive</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Overnutrition/Obesity/Obesity Hypoventilation Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Respiratory Insufficiency/Hypoventilation/Obesity Hypoventilation Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Sleep Apnea Syndromes/Sleep Apnea, Obstructive/Obesity Hypoventilation Syndrome</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiration Disorders/Apnea/Sleep Apnea Syndromes/Sleep Apnea, Obstructive/Obesity Hypoventilation Syndrome</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Apnea</BroaderTerm>
+<BroaderTerm>Hypoventilation</BroaderTerm>
+<BroaderTerm>Sleep Apnea Syndromes</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Overnutrition</BroaderTerm>
+<BroaderTerm>Respiration Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<BroaderTerm>Obesity Hypoventilation Syndrome</BroaderTerm>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Obesity</BroaderTerm>
+<BroaderTerm>Sleep Apnea, Obstructive</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Respiratory Insufficiency</BroaderTerm>
+<Synonym>Obesity Hypoventilation Syndrome</Synonym>
+<Synonym>Pickwickian Syndrome</Synonym>
+<Description>HYPOVENTILATION syndrome in very obese persons with excessive ADIPOSE TISSUE around the ABDOMEN and DIAPHRAGM. It is characterized by diminished to absent ventilatory chemoresponsiveness; chronic HYPOXIA; HYPERCAPNIA; POLYCYTHEMIA; and long periods of sleep during day and night (HYPERSOMNOLENCE). It is a condition often related to OBSTRUCTIVE SLEEP APNEA but can occur separately.</Description>
+<Source>MeSH</Source>
+</Record>

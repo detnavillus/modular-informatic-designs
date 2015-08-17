@@ -1,0 +1,21 @@
+<Record>
+<Term>Recombinant Fowlpox GM-CSF Vaccine Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox GM-CSF Vaccine Adjuvant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Fowlpox GM-CSF Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Fowlpox-Sargramostim</Synonym>
+<Synonym>Recombinant Fowlpox GM-CSF Vaccine Adjuvant</Synonym>
+<Synonym>rF-GM-CSF</Synonym>
+<Synonym>rF-Sargramostim</Synonym>
+<Description>A cancer vaccine adjuvant consisting of a recombinant fowlpox virus encoding human granulocyte-macrophage colony-stimulating factor (GM-CSF). GM-CSF binds to specific cell surface receptors on various immuno-hematopoietic cell types, enhancing their proliferation and differentiation and stimulating macrophage and dendritic cell functions in antigen presentation and antitumor cell-mediated immunity. Administration of recombinant fowlpox GM-CSF vaccine adjuvant may induce an immune response against tumor cells. Fowlpox virus is an attractive vector because its genome is easy to manipulate and it is replication incompetent in mammalian cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

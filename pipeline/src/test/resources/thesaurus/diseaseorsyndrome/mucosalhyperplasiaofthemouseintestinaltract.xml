@@ -1,0 +1,18 @@
+<Record>
+<Term>Mucosal Hyperplasia of the Mouse Intestinal Tract</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperplasia of the Mouse Intestinal Tract</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Digestive System Disorder/Hyperplasia of the Mouse Intestinal Tract/Mucosal Hyperplasia of the Mouse Intestinal Tract</ClassificationPath>
+<BroaderTerm>Mucosal Hyperplasia of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Mouse Digestive System Disorder</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Hyperplasia of the Mouse Intestinal Tract</BroaderTerm>
+<ChildTerm>Diffuse Mucosal Hyperplasia of the Mouse Intestinal Tract</ChildTerm>
+<ChildTerm>Focal Mucosal Hyperplasia of the Mouse Intestinal Tract</ChildTerm>
+<Synonym>Mucosal Hyperplasia of the Intestinal Tract</Synonym>
+<Synonym>Mucosal Hyperplasia of the Mouse Intestinal Tract</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

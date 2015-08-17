@@ -1,0 +1,31 @@
+<Record>
+<Term>Glycogen Storage Disease Type VII</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Dystrophies</ParentTerm>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Muscular Disorders, Atrophic/Muscular Dystrophies/Glycogen Storage Disease Type VII</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Muscular Dystrophies/Glycogen Storage Disease Type VII</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VII</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type VII</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type VII</BroaderTerm>
+<BroaderTerm>Muscular Dystrophies</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<BroaderTerm>Muscular Disorders, Atrophic</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<Synonym>Muscle Phosphofructokinase Deficiencies</Synonym>
+<Synonym>Glycogenosis 7</Synonym>
+<Synonym>Glycogen Storage Disease Type VII</Synonym>
+<Synonym>Taruis Disease</Synonym>
+<Synonym>Tarui Disease</Synonym>
+<Synonym>Muscle Phosphofructokinase Deficiency</Synonym>
+<Synonym>Tarui's Disease</Synonym>
+<Description>An autosomal recessive glycogen storage disease in which there is deficient expression of 6-phosphofructose 1-kinase in muscle (PHOSPHOFRUCTOKINASE-1, MUSCLE TYPE) resulting in abnormal deposition of glycogen in muscle tissue. These patients have severe congenital muscular dystrophy and are exercise intolerant.</Description>
+<Source>MeSH</Source>
+</Record>

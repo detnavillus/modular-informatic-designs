@@ -1,0 +1,19 @@
+<Record>
+<Term>Deficiency Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malnutrition</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Avitaminosis</ChildTerm>
+<ChildTerm>Potassium Deficiency</ChildTerm>
+<ChildTerm>Protein Deficiency</ChildTerm>
+<ChildTerm>Swayback</ChildTerm>
+<ChildTerm>Magnesium Deficiency</ChildTerm>
+<Synonym>Deficiency Diseases</Synonym>
+<Synonym>Deficiency Disease</Synonym>
+<Description>A condition produced by dietary or metabolic deficiency. The term includes all diseases caused by an insufficient supply of essential nutrients, i.e., protein (or amino acids), vitamins, and minerals. It also includes an inadequacy of calories. (From Dorland, 27th ed; Stedman, 25th ed)</Description>
+<Source>MeSH</Source>
+</Record>

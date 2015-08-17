@@ -1,0 +1,27 @@
+<Record>
+<Term>Endemic Goiter</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Goiter</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Goiter/Goiter, Endemic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Thyroid Gland Disorder/Non-Neoplastic Thyroid Gland Disorder/Goiter/Endemic Goiter</ClassificationPath>
+<BroaderTerm>Endemic Goiter</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Goiter, Endemic</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Thyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Goiter</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<Synonym>Endemic Goiter</Synonym>
+<Synonym>Simple Goiter</Synonym>
+<Synonym>Endemic Goiters</Synonym>
+<Description>A form of IODINE deficiency disorders characterized by an enlargement of the THYROID GLAND in a significantly large fraction of a POPULATION GROUP. Endemic goiter is common in mountainous and iodine-deficient areas of the world where the DIET contains insufficient amount of iodine.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

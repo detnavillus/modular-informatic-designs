@@ -1,0 +1,17 @@
+<Record>
+<Term>Anal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Anal Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Anal Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Anal Precancerous Condition</ChildTerm>
+<ChildTerm>Non-Neoplastic Anal Disorder</ChildTerm>
+<ChildTerm>Anal Polyp</ChildTerm>
+<Synonym>Anal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

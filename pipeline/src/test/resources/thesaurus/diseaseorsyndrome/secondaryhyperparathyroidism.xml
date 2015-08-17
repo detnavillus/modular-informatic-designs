@@ -1,0 +1,15 @@
+<Record>
+<Term>Secondary Hyperparathyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperparathyroidism</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hyperparathyroidism/Hyperparathyroidism, Secondary</ClassificationPath>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism, Secondary</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism</BroaderTerm>
+<ChildTerm>Renal Osteodystrophy</ChildTerm>
+<Synonym>Secondary Hyperparathyroidism</Synonym>
+<Synonym>Secondary Hyperparathyroidisms</Synonym>
+<Description>Abnormally elevated PARATHYROID HORMONE secretion as a response to HYPOCALCEMIA. It is caused by chronic KIDNEY FAILURE or other abnormalities in the controls of bone and mineral metabolism, leading to various BONE DISEASES, such as RENAL OSTEODYSTROPHY.</Description>
+<Source>MeSH</Source>
+</Record>

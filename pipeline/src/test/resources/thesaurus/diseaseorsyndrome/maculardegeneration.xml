@@ -1,0 +1,26 @@
+<Record>
+<Term>Macular Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Degeneration</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration/Macular Degeneration</ClassificationPath>
+<BroaderTerm>Macular Degeneration</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Geographic Atrophy</ChildTerm>
+<ChildTerm>Wet Macular Degeneration</ChildTerm>
+<ChildTerm>Macular Edema</ChildTerm>
+<Synonym>Macular Degeneration</Synonym>
+<Synonym>Macular Degenerations</Synonym>
+<Synonym>Age-Related Maculopathies</Synonym>
+<Synonym>Age Related Maculopathies</Synonym>
+<Synonym>Macular Dystrophy</Synonym>
+<Synonym>Macular Dystrophies</Synonym>
+<Synonym>Age-Related Macular Degeneration</Synonym>
+<Synonym>Age Related Macular Degeneration</Synonym>
+<Synonym>Age-Related Macular Degenerations</Synonym>
+<Synonym>Age-Related Maculopathy</Synonym>
+<Synonym>Age Related Maculopathy</Synonym>
+<Description>Degenerative changes in the RETINA usually of older adults which results in a loss of vision in the center of the visual field (the MACULA LUTEA) because of damage to the retina. It occurs in dry and wet forms.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Dopamine Agonist</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Dopamine Agonist</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Dopamine Agonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Budipine</ChildTerm>
+<ChildTerm>Pergolide</ChildTerm>
+<ChildTerm>L-Carbidopa Anhydrous</ChildTerm>
+<ChildTerm>Proterguride</ChildTerm>
+<ChildTerm>Adrogolide Hydrochloride</ChildTerm>
+<ChildTerm>Fenoldopam</ChildTerm>
+<ChildTerm>Fenoldopam Mesylate</ChildTerm>
+<ChildTerm>Levodopa</ChildTerm>
+<ChildTerm>Apomorphine</ChildTerm>
+<ChildTerm>Pergolide Mesylate</ChildTerm>
+<ChildTerm>Zelandopam</ChildTerm>
+<ChildTerm>Adrogolide</ChildTerm>
+<ChildTerm>Etisulergine</ChildTerm>
+<ChildTerm>Fosopamine</ChildTerm>
+<ChildTerm>Cabergoline</ChildTerm>
+<ChildTerm>Methyldopa</ChildTerm>
+<ChildTerm>Pramipexole Dihydrochloride</ChildTerm>
+<ChildTerm>Botiacrine</ChildTerm>
+<ChildTerm>Apomorphine Hydrochloride</ChildTerm>
+<ChildTerm>Methyldopate Hydrochloride</ChildTerm>
+<ChildTerm>Carbidopa</ChildTerm>
+<Synonym>Dopamine Agonist</Synonym>
+<Synonym>Dopaminergics</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

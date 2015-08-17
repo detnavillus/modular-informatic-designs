@@ -1,0 +1,32 @@
+<Record>
+<Term>Perceptual Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Perceptual Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Perceptual Disorders</ClassificationPath>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Perceptual Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Perceptual Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Agnosia</ChildTerm>
+<ChildTerm>Illusions</ChildTerm>
+<ChildTerm>Auditory Perceptual Disorders</ChildTerm>
+<ChildTerm>Hallucinations</ChildTerm>
+<ChildTerm>Phantom Limb</ChildTerm>
+<Synonym>Perceptual Disorder</Synonym>
+<Synonym>Somatosensory Discrimination Disorder</Synonym>
+<Synonym>Hemisensory Neglects</Synonym>
+<Synonym>Sensory Neglects</Synonym>
+<Synonym>Perceptual Disorders</Synonym>
+<Synonym>Hemispatial Neglects</Synonym>
+<Synonym>Sensory Neglect</Synonym>
+<Synonym>Hemisensory Neglect</Synonym>
+<Synonym>Hemispatial Neglect</Synonym>
+<Synonym>Somatosensory Discrimination Disorders</Synonym>
+<Description>Cognitive disorders characterized by an impaired ability to perceive the nature of objects or concepts through use of the sense organs. These include spatial neglect syndromes, where an individual does not attend to visual, auditory, or sensory stimuli presented from one side of the body.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Dental Caries</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tooth Demineralization</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Demineralization/Dental Caries</ClassificationPath>
+<BroaderTerm>Tooth Demineralization</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Caries</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Dental Fissures</ChildTerm>
+<ChildTerm>Root Caries</ChildTerm>
+<Synonym>Dental Caries</Synonym>
+<Synonym>Dental Decay</Synonym>
+<Synonym>Dental White Spot</Synonym>
+<Synonym>White Spots</Synonym>
+<Synonym>White Spot</Synonym>
+<Synonym>Dental White Spots</Synonym>
+<Description>Localized destruction of the tooth surface initiated by decalcification of the enamel followed by enzymatic lysis of organic structures and leading to cavity formation. If left unchecked, the cavity may penetrate the enamel and dentin and reach the pulp. The three most prominent theories used to explain the etiology of the disease are that acids produced by bacteria lead to decalcification; that micro-organisms destroy the enamel protein; or that keratolytic micro-organisms produce chelates that lead to decalcification.</Description>
+<Source>MeSH</Source>
+</Record>

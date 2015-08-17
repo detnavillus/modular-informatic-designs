@@ -1,0 +1,18 @@
+<Record>
+<Term>Sodium Iodide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Iodides</ParentTerm>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Sodium Iodide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Iodine Compounds/Iodides/Sodium Iodide</ClassificationPath>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Iodides</BroaderTerm>
+<BroaderTerm>Sodium Iodide</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Iodine Compounds</BroaderTerm>
+<Synonym>Sodium Iodide</Synonym>
+<Description>A compound forming white, odorless deliquescent crystals and used as iodine supplement, expectorant or in its radioactive (I-131) form as an diagnostic aid, particularly for thyroid function tests.</Description>
+<Source>MeSH</Source>
+</Record>

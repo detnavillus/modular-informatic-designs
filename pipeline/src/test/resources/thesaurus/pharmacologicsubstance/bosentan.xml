@@ -1,0 +1,22 @@
+<Record>
+<Term>Bosentan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antihypertensive Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Bosentan</ClassificationPath>
+<BroaderTerm>Bosentan</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Bosentan</Synonym>
+<Synonym>Tracleer</Synonym>
+<Synonym>BOSENTAN</Synonym>
+<Synonym>4-(1,1-Dimethylethyl)-N-(6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-(2,2'-bipyrimidin)-4-yl)benzenesulfornamide</Synonym>
+<Synonym>Ro 47-0203</Synonym>
+<Description>A sulfonamide-derived, competitive and specific endothelin receptor antagonist with a slightly higher affinity for the endothelin A receptor than endothelin B receptor. Bosentan blocks the action of endothelin 1, an extremely potent endogenous vasoconstrictor and bronchoconstrictor, by binding to endothelin A and endothelin B receptors in the endothelium and vascular smooth muscle. Bosentan decreases both pulmonary and systemic vascular resistance and is particularly used in the treatment of pulmonary arterial hypertension.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

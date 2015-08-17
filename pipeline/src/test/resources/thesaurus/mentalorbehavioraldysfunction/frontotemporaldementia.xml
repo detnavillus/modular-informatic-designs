@@ -1,0 +1,32 @@
+<Record>
+<Term>Frontotemporal Dementia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Frontotemporal Lobar Degeneration</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/TDP-43 Proteinopathies/Frontotemporal Lobar Degeneration/Frontotemporal Dementia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Frontotemporal Lobar Degeneration/Frontotemporal Dementia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/TDP-43 Proteinopathies/Frontotemporal Lobar Degeneration/Frontotemporal Dementia</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Frontotemporal Lobar Degeneration/Frontotemporal Dementia</ClassificationPath>
+<BroaderTerm>TDP-43 Proteinopathies</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Frontotemporal Lobar Degeneration</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Frontotemporal Dementia</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Frontotemporal Lobe Dementias (FLDEM)</Synonym>
+<Synonym>Frontotemporal Dementias</Synonym>
+<Synonym>Ubiquitin-Positive Frontotemporal Dementias</Synonym>
+<Synonym>Frontotemporal Dementia</Synonym>
+<Synonym>Multiple System Tauopathy with Presenile Dementia</Synonym>
+<Synonym>Ubiquitin-Positive Frontotemporal Dementia</Synonym>
+<Synonym>Frontotemporal Lobe Dementia (FLDEM)</Synonym>
+<Synonym>Frontotemporal Dementia with Parkinsonism</Synonym>
+<Description>The most common clinical form of FRONTOTEMPORAL LOBAR DEGENERATION, this dementia presents with personality and behavioral changes often associated with disinhibition, apathy, and lack of insight.</Description>
+<Source>MeSH</Source>
+</Record>

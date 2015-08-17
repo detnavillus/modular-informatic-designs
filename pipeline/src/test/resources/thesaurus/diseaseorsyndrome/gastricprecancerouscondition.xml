@@ -1,0 +1,25 @@
+<Record>
+<Term>Gastric Precancerous Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomach Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Gastric Precancerous Condition,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site/Gastrointestinal Precancerous Condition/Gastric Precancerous Condition</ClassificationPath>
+<BroaderTerm>Gastrointestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Gastric Precancerous Condition</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>Gastric Precancerous Condition,</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Intestinal Metaplasia of Gastric Mucosa</ChildTerm>
+<ChildTerm>Chronic Atrophic Gastritis</ChildTerm>
+<ChildTerm>Persistent Superficial Gastritis</ChildTerm>
+<Synonym>Gastric Precancerous Condition</Synonym>
+<Synonym>Gastric Premalignant Condition</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

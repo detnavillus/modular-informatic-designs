@@ -1,0 +1,42 @@
+<Record>
+<Term>Renal Osteodystrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rickets</ParentTerm>
+<ParentTerm>Kidney Diseases</ParentTerm>
+<ParentTerm>Hyperparathyroidism, Secondary</ParentTerm>
+<ParentTerm>Bone Diseases, Metabolic</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hyperparathyroidism/Hyperparathyroidism, Secondary/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin D Deficiency/Rickets/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Calcium Metabolism Disorders/Rickets/Renal Osteodystrophy</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Metabolic/Rickets/Renal Osteodystrophy</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Calcium Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Bone Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism, Secondary</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Rickets</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Vitamin D Deficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Renal Osteodystrophy</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism</BroaderTerm>
+<Synonym>Renal Rickets</Synonym>
+<Synonym>Renal Osteodystrophy</Synonym>
+<Synonym>Renal Osteodystrophies</Synonym>
+<Description>Decalcification of bone or abnormal bone development due to chronic KIDNEY DISEASES, in which 1,25-DIHYDROXYVITAMIN D3 synthesis by the kidneys is impaired, leading to reduced negative feedback on PARATHYROID HORMONE. The resulting SECONDARY HYPERPARATHYROIDISM eventually leads to bone disorders.</Description>
+<Source>MeSH</Source>
+</Record>

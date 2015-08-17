@@ -1,0 +1,34 @@
+<Record>
+<Term>Crohn Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Inflammatory Bowel Disease</ParentTerm>
+<ParentTerm>Inflammatory Bowel Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Inflammatory Bowel Diseases/Crohn Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Intestinal Precancerous Condition/Inflammatory Bowel Disease/Crohn Disease</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Inflammatory Bowel Diseases/Crohn Disease</ClassificationPath>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Disease</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Crohn Disease</BroaderTerm>
+<ChildTerm>Crohn Disease of Small Intestine</ChildTerm>
+<ChildTerm>Crohn Colitis</ChildTerm>
+<Synonym>Crohns Disease</Synonym>
+<Synonym>Crohn's Disease</Synonym>
+<Synonym>Crohn's disease</Synonym>
+<Synonym>Crohn Disease</Synonym>
+<Synonym>Ileocolitis</Synonym>
+<Description>A gastrointestinal disorder characterized by chronic inflammation involving all layers of the intestinal wall, noncaseating granulomas affecting the intestinal wall and regional lymph nodes, and transmural fibrosis. Crohn disease most commonly involves the terminal ileum; the colon is the second most common site of involvement. --2004</Description>
+<Description>A chronic transmural inflammation that may involve any part of the DIGESTIVE TRACT from MOUTH to ANUS, mostly found in the ILEUM, the CECUM, and the COLON. In Crohn disease, the inflammation, extending through the intestinal wall from the MUCOSA to the serosa, is characteristically asymmetric and segmental. Epithelioid GRANULOMAS may be seen in some patients.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

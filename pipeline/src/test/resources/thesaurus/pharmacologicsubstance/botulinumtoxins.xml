@@ -1,0 +1,23 @@
+<Record>
+<Term>Botulinum Toxins</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Bacterial Proteins</ParentTerm>
+<ParentTerm>Bacterial Toxins</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Bacterial Proteins/Botulinum Toxins</ClassificationPath>
+<ClassificationPath>Biological Factors/Toxins, Biological/Bacterial Toxins/Botulinum Toxins</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Toxins, Biological</BroaderTerm>
+<BroaderTerm>Botulinum Toxins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Bacterial Proteins</BroaderTerm>
+<BroaderTerm>Bacterial Toxins</BroaderTerm>
+<ChildTerm>Botulinum Toxin Type A</ChildTerm>
+<Synonym>Clostridium botulinum Toxins</Synonym>
+<Synonym>Botulinum Toxin</Synonym>
+<Synonym>Botulin</Synonym>
+<Synonym>Botulinum Toxins</Synonym>
+<Description>Proteins synthesized as a single chain of ~150 kDa with 35% sequence identity to TETANUS TOXIN that is cleaved to a light and a heavy chain that are linked by a single disulfide bond. They have neuro-, entero-, and hemotoxic properties, are immunogenic, and include the most potent poisons known. The most commonly used apparently blocks release of ACETYLCHOLINE at cholinergic SYNAPSES.</Description>
+<Source>MeSH</Source>
+</Record>

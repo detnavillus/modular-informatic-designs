@@ -1,0 +1,26 @@
+<Record>
+<Term>Thrombasthenia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Coagulation Disorders, Inherited</ParentTerm>
+<ParentTerm>Blood Platelet Disorders</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Blood Coagulation Disorders, Inherited/Thrombasthenia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Platelet Disorders/Thrombasthenia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Thrombasthenia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Blood Coagulation Disorders, Inherited/Thrombasthenia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders, Inherited</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Blood Platelet Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<BroaderTerm>Thrombasthenia</BroaderTerm>
+<Synonym>Glanzmann Thrombasthenia</Synonym>
+<Synonym>Thrombasthenias</Synonym>
+<Synonym>Thrombasthenia of Glanzmann and Naegeli</Synonym>
+<Synonym>Thrombasthenia</Synonym>
+<Description>A congenital bleeding disorder with prolonged bleeding time, absence of aggregation of platelets in response to most agents, especially ADP, and impaired or absent clot retraction. Platelet membranes are deficient in or have a defect in the glycoprotein IIb-IIIa complex (PLATELET GLYCOPROTEIN GPIIB-IIIA COMPLEX).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Migraine Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Headache Disorders, Primary</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders/Headache Disorders, Primary/Migraine Disorders</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Migraine Disorders</BroaderTerm>
+<BroaderTerm>Headache Disorders, Primary</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Migraine with Aura</ChildTerm>
+<ChildTerm>Migraine without Aura</ChildTerm>
+<Synonym>Migraine Disorders</Synonym>
+<Synonym>Migraine Disorder</Synonym>
+<Synonym>Migraine</Synonym>
+<Synonym>Migraines</Synonym>
+<Synonym>Migraine Headache</Synonym>
+<Synonym>Migraine Headaches</Synonym>
+<Synonym>Acute Confusional Migraine</Synonym>
+<Synonym>Acute Confusional Migraines</Synonym>
+<Synonym>Status Migrainosus</Synonym>
+<Synonym>Hemicrania Migraine</Synonym>
+<Synonym>Hemicrania Migraines</Synonym>
+<Synonym>Migraine Variant</Synonym>
+<Synonym>Migraine Variants</Synonym>
+<Synonym>Sick Headache</Synonym>
+<Synonym>Sick Headaches</Synonym>
+<Synonym>Abdominal Migraine</Synonym>
+<Synonym>Abdominal Migraines</Synonym>
+<Synonym>Cervical Migraine Syndrome</Synonym>
+<Synonym>Cervical Migraine Syndromes</Synonym>
+<Description>A class of disabling primary headache disorders, characterized by recurrent unilateral pulsatile headaches. The two major subtypes are common migraine (without aura) and classic migraine (with aura or neurological symptoms). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)</Description>
+<Source>MeSH</Source>
+</Record>

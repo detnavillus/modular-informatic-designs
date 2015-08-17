@@ -1,0 +1,34 @@
+<Record>
+<Term>Angiolymphoid Hyperplasia with Eosinophilia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Granuloma</ParentTerm>
+<ParentTerm>Eosinophilia</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Angiolymphoid Hyperplasia with Eosinophilia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Eosinophilia/Angiolymphoid Hyperplasia with Eosinophilia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Granuloma/Angiolymphoid Hyperplasia with Eosinophilia</ClassificationPath>
+<ClassificationPath>Epithelioid Hemangioma</ClassificationPath>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Epithelioid Hemangioma</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Granuloma</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Eosinophilia</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Angiolymphoid Hyperplasia with Eosinophilia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Epithelioid Hemangioma</Synonym>
+<Synonym>Histiocytoid Hemangioma</Synonym>
+<Synonym>Kimura Disease</Synonym>
+<Synonym>Pseudopyogenic Granuloma</Synonym>
+<Synonym>Pseudopyogenic Granulomas</Synonym>
+<Synonym>Angiolymphoid Hyperplasia with Eosinophilia</Synonym>
+<Description>A hemangioma characterized by the presence of epithelioid endothelial cells.</Description>
+<Description>Solitary or multiple benign cutaneous nodules comprised of immature and mature vascular structures intermingled with endothelial cells and a varied infiltrate of eosinophils, histiocytes, lymphocytes, and mast cells.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

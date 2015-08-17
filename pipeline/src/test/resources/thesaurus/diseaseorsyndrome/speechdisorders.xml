@@ -1,0 +1,37 @@
+<Record>
+<Term>Speech Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Language Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Language Disorders/Speech Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Speech Disorders</BroaderTerm>
+<BroaderTerm>Language Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Articulation Disorders</ChildTerm>
+<ChildTerm>Aphasia</ChildTerm>
+<ChildTerm>Stuttering</ChildTerm>
+<ChildTerm>Echolalia</ChildTerm>
+<ChildTerm>Mutism</ChildTerm>
+<Synonym>Dysglossia</Synonym>
+<Synonym>Clutterings</Synonym>
+<Synonym>Speech Disorders</Synonym>
+<Synonym>Rhinolalia</Synonym>
+<Synonym>Dyslalia</Synonym>
+<Synonym>Dysglossias</Synonym>
+<Synonym>Aprosodic Speech</Synonym>
+<Synonym>Aprosodias</Synonym>
+<Synonym>Verbal Fluency Disorders</Synonym>
+<Synonym>Cluttering</Synonym>
+<Synonym>Dyslalias</Synonym>
+<Synonym>Verbal Fluency Disorder</Synonym>
+<Synonym>Aprosodia</Synonym>
+<Synonym>Rhinolalias</Synonym>
+<Description>Acquired or developmental conditions marked by an impaired ability to comprehend or generate spoken forms of language.</Description>
+<Source>MeSH</Source>
+</Record>

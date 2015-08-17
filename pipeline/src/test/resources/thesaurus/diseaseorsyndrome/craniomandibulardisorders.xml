@@ -1,0 +1,22 @@
+<Record>
+<Term>Craniomandibular Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Mandibular Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Craniomandibular Disorders</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Mandibular Diseases/Craniomandibular Disorders</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Craniomandibular Disorders</BroaderTerm>
+<BroaderTerm>Mandibular Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<ChildTerm>Temporomandibular Joint Disorders</ChildTerm>
+<Synonym>Craniomandibular Disorder</Synonym>
+<Synonym>Craniomandibular Disorders</Synonym>
+<Synonym>Craniomandibular Disease</Synonym>
+<Synonym>Craniomandibular Diseases</Synonym>
+<Description>Diseases or disorders of the muscles of the head and neck, with special reference to the masticatory muscles. The most notable examples are TEMPOROMANDIBULAR JOINT DISORDERS and TEMPOROMANDIBULAR JOINT DYSFUNCTION SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

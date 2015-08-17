@@ -1,0 +1,24 @@
+<Record>
+<Term>Restless Legs Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasomnias</ParentTerm>
+<ParentTerm>Sleep Disorders, Intrinsic</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/Restless Legs Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Restless Legs Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Restless Legs Syndrome</ClassificationPath>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/Restless Legs Syndrome</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Restless Legs Syndrome</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>Ekbom Syndrome</Synonym>
+<Synonym>Restless Legs</Synonym>
+<Synonym>Ekbom's Syndrome</Synonym>
+<Synonym>Ekboms Syndrome</Synonym>
+<Synonym>Restless Legs Syndrome</Synonym>
+<Description>A disorder characterized by aching or burning sensations in the lower and rarely the upper extremities that occur prior to sleep or may awaken the patient from sleep. Complying with an irresistible urge to move the affected limbs brings temporary relief. Sleep may become disrupted, resulting in excessive daytime hypersomnolence. This condition may be associated with UREMIA; DIABETES MELLITUS; and rheumatoid arthritis. Restless Legs Syndrome differs from NOCTURNAL MYOCLONUS SYNDROME in that in the latter condition the individual does not report adverse sensory stimuli and it is primarily a sleep-associated movement disorder. (Adams et al., Principles of Neurology, 6th ed, p387; Schweiz Rundsch Med Prax 1997 Apr 30;86(18):732-736)</Description>
+<Source>MeSH</Source>
+</Record>

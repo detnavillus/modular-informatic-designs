@@ -1,0 +1,15 @@
+<Record>
+<Term>Mouse Respiratory System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouse Disorder by Site</ParentTerm>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Respiratory System Disorder</ClassificationPath>
+<BroaderTerm>Mouse Respiratory System Disorder</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<ChildTerm>Mouse Pulmonary Disorder</ChildTerm>
+<Synonym>Mouse Respiratory System Disorder</Synonym>
+<Synonym>Respiratory System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

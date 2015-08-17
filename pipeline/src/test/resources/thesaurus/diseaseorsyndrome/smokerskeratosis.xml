@@ -1,0 +1,16 @@
+<Record>
+<Term>Smokers Keratosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Laryngeal Keratosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Leukoplakia/Laryngeal Keratosis/Smokers Keratosis</ClassificationPath>
+<BroaderTerm>Leukoplakia</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Smokers Keratosis</BroaderTerm>
+<BroaderTerm>Laryngeal Keratosis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Smokers Keratosis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

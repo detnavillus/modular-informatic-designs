@@ -1,0 +1,32 @@
+<Record>
+<Term>Periapical Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abscess</ParentTerm>
+<ParentTerm>Periapical Periodontitis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Periapical Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Periapical Diseases/Periapical Periodontitis/Periapical Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontitis/Periapical Periodontitis/Periapical Abscess</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periapical Diseases/Periapical Periodontitis/Periapical Abscess</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Periapical Periodontitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periapical Abscess</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Periapical Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Periodontitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Periapical Abscesses</Synonym>
+<Synonym>Suppurative Periapical Periodontitis</Synonym>
+<Synonym>Suppurative Periapical Periodontitides</Synonym>
+<Synonym>Apical Dentoalveolar Abscesses</Synonym>
+<Synonym>Periapical Abscess</Synonym>
+<Synonym>Apical Alveolar Abscesses</Synonym>
+<Synonym>Apical Alveolar Abscess</Synonym>
+<Synonym>Apical Dentoalveolar Abscess</Synonym>
+<Description>Acute or chronic inflammation of tissues surrounding the apical portion of a tooth, associated with the collection of pus, resulting from infection following pulp infection through a carious lesion or as a result of an injury causing pulp necrosis. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

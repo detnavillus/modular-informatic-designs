@@ -1,0 +1,16 @@
+<Record>
+<Term>Coronaviridae Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nidovirales Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections/Coronaviridae Infections</ClassificationPath>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Coronaviridae Infections</BroaderTerm>
+<ChildTerm>Coronavirus Infections</ChildTerm>
+<ChildTerm>Torovirus Infections</ChildTerm>
+<Synonym>Coronaviridae Infections</Synonym>
+<Synonym>Coronaviridae Infection</Synonym>
+<Description>Virus diseases caused by CORONAVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

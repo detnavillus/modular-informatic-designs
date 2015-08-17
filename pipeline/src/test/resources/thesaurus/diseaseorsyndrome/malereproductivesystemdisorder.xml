@@ -1,0 +1,19 @@
+<Record>
+<Term>Male Reproductive System Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Male Reproductive System Disorder</ClassificationPath>
+<BroaderTerm>Male Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Testicular Disorder</ChildTerm>
+<ChildTerm>Male Non-Neoplastic Reproductive System Disorder</ChildTerm>
+<ChildTerm>Penile Disorder</ChildTerm>
+<ChildTerm>Prostate Disorder</ChildTerm>
+<Synonym>Male Reproductive System Disease</Synonym>
+<Synonym>Male Reproductive System Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

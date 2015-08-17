@@ -1,0 +1,26 @@
+<Record>
+<Term>Rh Isoimmunization</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Blood Group Incompatibility</ParentTerm>
+<ParentTerm>Antigen-Antibody Reactions</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Group Incompatibility/Rh Isoimmunization</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Blood Group Incompatibility/Rh Isoimmunization</ClassificationPath>
+<ClassificationPath>Immune System Phenomena/Immune System Processes/Antigen-Antibody Reactions/Rh Isoimmunization</ClassificationPath>
+<BroaderTerm>Blood Group Incompatibility</BroaderTerm>
+<BroaderTerm>Antigen-Antibody Reactions</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immune System Phenomena</BroaderTerm>
+<BroaderTerm>Rh Isoimmunization</BroaderTerm>
+<BroaderTerm>Immune System Processes</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Rh Isoimmunizations</Synonym>
+<Synonym>Rh Sensitization</Synonym>
+<Synonym>Rh Isoimmunization</Synonym>
+<Synonym>Rh Sensitizations</Synonym>
+<Synonym>Rhesus Isoimmunization</Synonym>
+<Synonym>Rhesus Isoimmunizations</Synonym>
+<Description>The process by which fetal Rh+ erythrocytes enter the circulation of an Rh- mother, causing her to produce IMMUNOGLOBULIN G antibodies, which can cross the placenta and destroy the erythrocytes of Rh+ fetuses. Rh isoimmunization can also be caused by BLOOD TRANSFUSION with mismatched blood.</Description>
+<Source>MeSH</Source>
+</Record>

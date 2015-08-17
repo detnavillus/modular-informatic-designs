@@ -1,0 +1,17 @@
+<Record>
+<Term>Phosphoric Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Reagent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Biomedical Material/Reagent/Phosphoric Acid</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Phosphoric Acid</BroaderTerm>
+<BroaderTerm>Reagent</BroaderTerm>
+<BroaderTerm>Biomedical Material</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Orthophosphoric Acid</Synonym>
+<Synonym>PHOSPHORIC ACID</Synonym>
+<Synonym>Phosphoric Acid</Synonym>
+<Synonym>o-Phosphoric Acid</Synonym>
+<Description>A colorless, odorless phosphorus-containing inorganic acid. Phosphoric acid is a sequestering agent which binds many divalent cations, including Fe++, Cu++, Ca++, and Mg++. Phosphoric acid is used in dentistry and orthodontics as an etching solution, to clean and roughen the surfaces of teeth where dental appliances or fillings will be placed. In addition, phosphoric acid is a constituent in bone and teeth, and plays a role in many metabolic processes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

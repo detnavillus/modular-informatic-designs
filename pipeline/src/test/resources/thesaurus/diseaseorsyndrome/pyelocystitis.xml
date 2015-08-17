@@ -1,0 +1,24 @@
+<Record>
+<Term>Pyelocystitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pyelitis</ParentTerm>
+<ParentTerm>Cystitis</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelocystitis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis/Pyelocystitis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelocystitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Bladder Diseases/Cystitis/Pyelocystitis</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Urinary Bladder Diseases</BroaderTerm>
+<BroaderTerm>Pyelocystitis</BroaderTerm>
+<BroaderTerm>Pyelitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Cystitis</BroaderTerm>
+<Synonym>Cystopyelitis</Synonym>
+<Synonym>Pyelocystitis</Synonym>
+<Description>Inflammation of the KIDNEY PELVIS and the URINARY BLADDER.</Description>
+<Source>MeSH</Source>
+</Record>

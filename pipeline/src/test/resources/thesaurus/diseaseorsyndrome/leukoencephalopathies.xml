@@ -1,0 +1,17 @@
+<Record>
+<Term>Leukoencephalopathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Leukoencephalopathies</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Leukoencephalopathies</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dementia, Vascular</ChildTerm>
+<ChildTerm>Posterior Leukoencephalopathy Syndrome</ChildTerm>
+<ChildTerm>Leukoencephalopathy, Progressive Multifocal</ChildTerm>
+<Synonym>Leukoencephalopathies</Synonym>
+<Synonym>Leukoencephalopathy</Synonym>
+<Description>Any of various diseases affecting the white matter of the brain.</Description>
+<Source>MeSH</Source>
+</Record>

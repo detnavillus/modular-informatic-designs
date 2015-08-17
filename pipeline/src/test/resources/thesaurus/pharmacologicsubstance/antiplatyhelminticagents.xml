@@ -1,0 +1,20 @@
+<Record>
+<Term>Antiplatyhelmintic Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anthelmintics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiparasitic Agents/Anthelmintics/Antiplatyhelmintic Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Antiparasitic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Antiplatyhelmintic Agents</BroaderTerm>
+<BroaderTerm>Anthelmintics</BroaderTerm>
+<ChildTerm>Anticestodal Agents</ChildTerm>
+<ChildTerm>Schistosomicides</ChildTerm>
+<Synonym>Antiplatyhelmintic Agents</Synonym>
+<Synonym>Antiplatyhelmintic Drugs</Synonym>
+<Synonym>Antiplatyhelmintics</Synonym>
+<Description>Agents used to treat cestode, trematode, or other flatworm infestations in man or animals.</Description>
+<Source>MeSH</Source>
+</Record>

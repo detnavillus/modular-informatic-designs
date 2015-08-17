@@ -1,0 +1,19 @@
+<Record>
+<Term>Ethanolamine Oleate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Ethanolamine Oleate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Ethanolamine Oleate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ethamolin</Synonym>
+<Synonym>ETHANOLAMINE OLEATE</Synonym>
+<Synonym>Ethanolamine Oleate</Synonym>
+<Synonym>Ethanolamine oleate</Synonym>
+<Description>A synthetic preparation of oleic acid and ethanolamine, a first generation monoethanolamine with sclerotherapeutic activity. Ethanolamine oleate causes an acute, dose-related inflammatory reaction of the intimal endothelium of the vein. This leads to scarring at the inner wall of the veins and possible occlusion of the veins. The oleic acid component may also transiently activate coagulation and fibrinolytic systems through the release of tissue factor and activation of Hageman factor.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Oxybenzone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Sunscreen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Chemopreventive Agent/Sunscreen/Oxybenzone</ClassificationPath>
+<BroaderTerm>Chemopreventive Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sunscreen</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Oxybenzone</BroaderTerm>
+<Synonym>2-Hydroxy-4-methoxybenzophenone</Synonym>
+<Synonym>2-Hydroxy-4-methoxybenzophenone,[2-Hydroxy-4-methoxyphenyl]phenylmethanone</Synonym>
+<Synonym>Anuvex</Synonym>
+<Synonym>Benzophenone-3</Synonym>
+<Synonym>OXYBENZONE</Synonym>
+<Synonym>Oxybenzone</Synonym>
+<Description>A benzophenone derivative used as a sunscreen agent. Oxybenzone absorbs UVB and UVA II rays, resulting in a photochemical excitation and absorption of energy. Upon return to ground state, the absorbed energy results in emission of longer wavelength radiation and decreased skin penetration of radiation which reduces the risk of DNA damage.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

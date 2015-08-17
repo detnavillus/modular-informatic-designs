@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-Narcotic Analgesics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Analgesics</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Analgesics/Analgesics, Non-Narcotic</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Analgesics/Analgesics, Non-Narcotic</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Analgesics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Analgesics, Non-Narcotic</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Anti-Inflammatory Agents, Non-Steroidal</ChildTerm>
+<Synonym>Nonnarcotic Analgesics</Synonym>
+<Synonym>Nonopioid Analgesics</Synonym>
+<Synonym>Non-Narcotic Analgesics</Synonym>
+<Synonym>Antipyretics</Synonym>
+<Description>Drugs that have principally analgesic, antipyretic, and anti-inflammatory actions. They do not bind to opioid receptors and are not classified under the Controlled Substances Act. (From Drug Evaluations Annual, 1992, p109)</Description>
+<Source>MeSH</Source>
+</Record>

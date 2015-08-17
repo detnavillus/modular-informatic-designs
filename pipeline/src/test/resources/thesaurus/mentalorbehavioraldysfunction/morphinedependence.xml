@@ -1,0 +1,17 @@
+<Record>
+<Term>Morphine Dependence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Opioid-Related Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Opioid-Related Disorders/Morphine Dependence</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Opioid-Related Disorders/Morphine Dependence</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Opioid-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Morphine Dependence</BroaderTerm>
+<Synonym>Morphine Addiction</Synonym>
+<Synonym>Morphine Abuse</Synonym>
+<Synonym>Morphine Dependence</Synonym>
+<Description>Strong dependence, both physiological and emotional, upon morphine.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>MELAS Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Mitochondrial Encephalomyopathies</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/MELAS Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MELAS Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Myopathies</BroaderTerm>
+<BroaderTerm>Mitochondrial Encephalomyopathies</BroaderTerm>
+<BroaderTerm>MELAS Syndrome</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<Synonym>MELAS Syndrome</Synonym>
+<Description>A mitochondrial disorder characterized by focal or generalized seizures, episodes of transient or persistent neurologic dysfunction resembling strokes, and ragged-red fibers on muscle biopsy. Affected individuals tend to be normal at birth through early childhood, then experience growth failure, episodic vomiting, and recurrent cerebral insults resulting in visual loss and hemiparesis. The cortical lesions tend to occur in the parietal and occipital lobes and are not associated with vascular occlusion. VASCULAR HEADACHE is frequently associated and the disorder tends to be familial. (From Joynt, Clinical Neurology, 1992, Ch56, p117)</Description>
+<Source>MeSH</Source>
+</Record>

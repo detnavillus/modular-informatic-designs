@@ -1,0 +1,34 @@
+<Record>
+<Term>Learning Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ParentTerm>Communication Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Learning Disorders</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Communication Disorders/Learning Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Communication Disorders/Learning Disorders</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Learning Disorders</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Communication Disorders</BroaderTerm>
+<ChildTerm>Dyslexia</ChildTerm>
+<Synonym>Learning Disabilities</Synonym>
+<Synonym>Learning Disorders</Synonym>
+<Synonym>Adult Learning Disorder</Synonym>
+<Synonym>Learning Disturbances</Synonym>
+<Synonym>Developmental Disorders of Scholastic Skills</Synonym>
+<Synonym>Scholastic Skills Development Disorders</Synonym>
+<Synonym>Adult Learning Disorders</Synonym>
+<Synonym>Learning Disorder</Synonym>
+<Synonym>Learning Disability</Synonym>
+<Synonym>Developmental Academic Disorders</Synonym>
+<Synonym>Developmental Academic Disorder</Synonym>
+<Synonym>Learning Disturbance</Synonym>
+<Description>Conditions characterized by a significant discrepancy between an individual's perceived level of intellect and their ability to acquire new language and other cognitive skills. These disorders may result from organic or psychological conditions. Relatively common subtypes include DYSLEXIA, dyscalculia, and dysgraphia.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Suppurative Otitis Media</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis Media</ParentTerm>
+<ParentTerm>Suppuration</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Otitis Media, Suppurative</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Otitis Media/Otitis Media, Suppurative</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Otitis Media, Suppurative</BroaderTerm>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otitis Media</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Purulent Otitis Media</Synonym>
+<Synonym>Suppurative Otitis Media</Synonym>
+<Description>Inflammation of the middle ear with purulent discharge.</Description>
+<Source>MeSH</Source>
+</Record>

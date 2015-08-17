@@ -1,0 +1,42 @@
+<Record>
+<Term>Bacterial Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infectious Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection</ClassificationPath>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Staphylococcal Infection</ChildTerm>
+<ChildTerm>Rickettsiosis</ChildTerm>
+<ChildTerm>Rheumatic Fever</ChildTerm>
+<ChildTerm>Bacterial Endophthalmitis</ChildTerm>
+<ChildTerm>Borrelia Burgdoferi Infection</ChildTerm>
+<ChildTerm>Cellulitis</ChildTerm>
+<ChildTerm>Campylobacter Jejuni Infection</ChildTerm>
+<ChildTerm>Empyema</ChildTerm>
+<ChildTerm>Actinomycosis</ChildTerm>
+<ChildTerm>Typhoid Fever</ChildTerm>
+<ChildTerm>Hemophilus Infection</ChildTerm>
+<ChildTerm>Gonococcal Infection</ChildTerm>
+<ChildTerm>Diphtheria</ChildTerm>
+<ChildTerm>Bacterial Arthritis</ChildTerm>
+<ChildTerm>Escherichia Coli Infection</ChildTerm>
+<ChildTerm>Bacterial Conjunctivitis</ChildTerm>
+<ChildTerm>Paratyphoid Fever</ChildTerm>
+<ChildTerm>Glanders</ChildTerm>
+<ChildTerm>Bacterial Pneumonia</ChildTerm>
+<ChildTerm>Helicobacter Pylori Infection</ChildTerm>
+<ChildTerm>Zoonotic Bacterial Infection</ChildTerm>
+<ChildTerm>Q Fever</ChildTerm>
+<ChildTerm>Abscess</ChildTerm>
+<ChildTerm>Mycobacterial Infection</ChildTerm>
+<ChildTerm>Bacterial Prostatitis</ChildTerm>
+<Synonym>Bacterial Infection</Synonym>
+<Synonym>Bacterial infection</Synonym>
+<Synonym>Infection, Bacterial</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

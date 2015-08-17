@@ -1,0 +1,63 @@
+<Record>
+<Term>Vascular Dementia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dementia</ParentTerm>
+<ParentTerm>Leukoencephalopathies</ParentTerm>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ParentTerm>Intracranial Arteriosclerosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Arteriosclerosis/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Leukoencephalopathies/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Arterial Occlusive Diseases/Arteriosclerosis/Intracranial Arteriosclerosis/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Intracranial Arteriosclerosis/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Mental Disorders/Delirium, Dementia, Amnestic, Cognitive Disorders/Dementia/Dementia, Vascular</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Dementia/Vascular Dementia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Dementia/Dementia, Vascular</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</BroaderTerm>
+<BroaderTerm>Dementia</BroaderTerm>
+<BroaderTerm>Arterial Occlusive Diseases</BroaderTerm>
+<BroaderTerm>Leukoencephalopathies</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Dementia, Vascular</BroaderTerm>
+<BroaderTerm>Vascular Dementia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Intracranial Arteriosclerosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Arteriosclerosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<ChildTerm>Dementia, Multi-Infarct</ChildTerm>
+<ChildTerm>Multi-infarct Dementia</ChildTerm>
+<ChildTerm>CADASIL</ChildTerm>
+<Synonym>Subcortical Vascular Dementias</Synonym>
+<Synonym>Arteriosclerotic Dementia</Synonym>
+<Synonym>Subcortical Vascular Dementia</Synonym>
+<Synonym>Binswanger Disease</Synonym>
+<Synonym>Subcortical Arteriosclerotic Encephalopathies</Synonym>
+<Synonym>Binswanger's Encephalopathy</Synonym>
+<Synonym>Binswangers Disease</Synonym>
+<Synonym>Vascular Dementia</Synonym>
+<Synonym>Binswanger's Disease</Synonym>
+<Synonym>Subcortical Leukoencephalopathies</Synonym>
+<Synonym>Chronic Progressive Subcortical Encephalopathy</Synonym>
+<Synonym>Acute Onset Vascular Dementia</Synonym>
+<Synonym>Arteriosclerotic Dementias</Synonym>
+<Synonym>Vascular Dementias</Synonym>
+<Synonym>Binswanger Encephalopathy</Synonym>
+<Synonym>Subcortical Arteriosclerotic Encephalopathy</Synonym>
+<Synonym>Subcortical Leukoencephalopathy</Synonym>
+<Description>An imprecise term referring to dementia associated with CEREBROVASCULAR DISORDERS, including CEREBRAL INFARCTION (single or multiple), and conditions associated with chronic BRAIN ISCHEMIA. Diffuse, cortical, and subcortical subtypes have been described. (From Gerontol Geriatr 1998 Feb;31(1):36-44)A form of dementia characterized by brain lesions in the deep white-matter, also known as subcortical dementia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

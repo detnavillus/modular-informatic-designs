@@ -1,0 +1,30 @@
+<Record>
+<Term>Hetacillin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Penicillin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Penicillin Antibiotic/Hetacillin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Penicillin Antibiotic/Hetacillin Potassium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Penicillin Antibiotic</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Hetacillin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Hetacillin Potassium</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Versapen</Synonym>
+<Synonym>N,N'-Isopropylidene-A-amino-benzyl Penicillin</Synonym>
+<Synonym>6-(2,2-Dimethyl-5-oxo-4-phenyl-1-imidazolidinyl)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic Acid</Synonym>
+<Synonym>Hetacillin</Synonym>
+<Synonym>Hetacillin Potassium</Synonym>
+<Synonym>Hetacillin potassium</Synonym>
+<Synonym>Versapen-k</Synonym>
+<Synonym>HETACILLIN</Synonym>
+<Synonym>Phenazacillin</Synonym>
+<Synonym>HETACILLIN POTASSIUM</Synonym>
+<Description>The potassium salt of hetacillin, a semi-synthetic penicillin antibiotic with bactericidal activity. Hetacillin is a prodrug that is converted to ampicillin via esterases. Ampicillin binds to and inactivated penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall, thereby preventing the cross-linkage of peptidoglycans, which are critical components of the bacterial cell wall. This leads to an interruption of the bacterial cell wall and causes bacterial cell lysis.</Description>
+<Description>A semi-synthetic penicillin compound with bactericidal properties. Hetacillin is a prodrug that is converted to ampicillin via esterases. Ampicillin binds to inactivated penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall. PBPs, including transpeptidases, carboxypeptidases, and endopeptidases, participate in the terminal stages of assembling the bacterial cell wall and in reshaping the cell wall during growth and division. This results in the weakening of the bacterial cell wall and eventually causes cell lysis. (NCI05)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Non-Neoplastic Pancreatic Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pancreatic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Pancreatic Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Pancreatic Disorder/Non-Neoplastic Pancreatic Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Pancreatic Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pancreatic Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cystic Fibrosis</ChildTerm>
+<ChildTerm>Pancreatitis</ChildTerm>
+<ChildTerm>Pancreatic Mucinous Ductal Ectasia</ChildTerm>
+<Synonym>Non-Neoplastic Pancreatic Disorder</Synonym>
+<Description>Diseases and disorders of the pancreas which are non-neoplastic in nature.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

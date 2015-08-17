@@ -1,0 +1,18 @@
+<Record>
+<Term>Rhodacyanine Analog MKT-077</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Photosensitizing Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Photosensitizing Agent/Rhodacyanine Analog MKT-077</ClassificationPath>
+<BroaderTerm>Rhodacyanine Analog MKT-077</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Photosensitizing Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1-Ethyl-2-[[-ethyl-5-(3-methyl-2(3H)-benzothiazolylidene)-4-oxo-2-thiazolidinylidene]methyl]pyridinium Chloride</Synonym>
+<Synonym>1-ethyl-2-[3-ethyl-5-(3-methylbenzothiazolin-2-yliden)-4-oxothiazolidin-2-ylidenemethyl] pyridinium chloride</Synonym>
+<Synonym>FJ 776</Synonym>
+<Synonym>MKT-077</Synonym>
+<Synonym>Rhodacyanine Analog MKT-077</Synonym>
+<Description>A synthetic heterocyclic pyridinium compound. MKT-077 is a water soluble lipophilic cationic molecule and an analog of rhodacyanine dye, which partitions into tumor cell mitochondria where it is thought to act as a metabolic poison, leading to G1 arrest and apoptosis. This agent also shows selective cytotoxicity to cancer cells mediated by its binding to the hsp70 family protein mot-2 and reactivation of tumor suppressor p53 function.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

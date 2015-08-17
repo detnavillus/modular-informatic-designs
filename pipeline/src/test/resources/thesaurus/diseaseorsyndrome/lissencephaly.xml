@@ -1,0 +1,26 @@
+<Record>
+<Term>Lissencephaly</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Malformations of Cortical Development</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Nervous System Malformations/Malformations of Cortical Development/Lissencephaly</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Nervous System Malformations/Malformations of Cortical Development/Lissencephaly</ClassificationPath>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Lissencephaly</BroaderTerm>
+<BroaderTerm>Nervous System Malformations</BroaderTerm>
+<BroaderTerm>Malformations of Cortical Development</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Classical Lissencephalies and Subcortical Band Heterotopias</ChildTerm>
+<ChildTerm>Cobblestone Lissencephaly</ChildTerm>
+<Synonym>Lissencephalia</Synonym>
+<Synonym>Agyria</Synonym>
+<Synonym>Pachygyrias</Synonym>
+<Synonym>Pachygyria</Synonym>
+<Synonym>Lissencephaly</Synonym>
+<Synonym>Lissencephalies</Synonym>
+<Synonym>Lissencephalias</Synonym>
+<Synonym>Agyrias</Synonym>
+<Description>A "smooth brain" malformation of the CEREBRAL CORTEX resulting from abnormal location of developing neurons during corticogenesis. It is characterized by an absence of normal convoluted indentations on the surface of the brain (agyria), or fewer and shallower indentations (pachygryia). There is a reduced number of cortical layers, typically 4 instead of 6, resulting in a thickened cortex, and reduced cerebral white matter that is a reversal of the normal ratio of cerebral white matter to cortex.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Lutetium Lu-177-DOTA-Chimeric Monoclonal Antibody cG250</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Lutetium Lu-177-DOTA-Chimeric Monoclonal Antibody cG250</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Lutetium Lu-177-DOTA-Chimeric Monoclonal Antibody cG250</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>177Lu-DOTA-cG250</Synonym>
+<Synonym>Lutetium Lu-177-DOTA-Chimeric Monoclonal Antibody cG250</Synonym>
+<Synonym>Lutetium-177 Labeled cG250</Synonym>
+<Synonym>Yttrium-90 DOTA Conjugated Chimeric MoAb G250</Synonym>
+<Description>A radioimmunoconjugate consisting of the chimeric monoclonal antibody cG250 linked to the low energy beta-emitting radioisotope Lutetium 177, via the bifunctional macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA), with potential antineoplastic activity. The antibody moiety of lutetium Lu-177-DOTA-chimeric monoclonal antibody cG250 binds to renal cell carcinoma (RCC) cells expressing the RCC-associated antigen G250; a cytotoxic dose of beta radiation is selectively delivered to G250-expressing RCC cells upon internalization of the radioimmunoconjugate.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>Insulin Glargine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Insulin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Recombinant Insulin/Insulin Glargine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Insulin</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Insulin Glargine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>INSULIN GLARGINE</Synonym>
+<Synonym>Insulin Glargine</Synonym>
+<Synonym>Insulin Glargine Recombinant</Synonym>
+<Synonym>Lantus</Synonym>
+<Description>A recombinant human insulin analog with long-acting, blood glucose-lowering activity. Insulin glargine, like regular types of human insulin, regulates glucose metabolism by binding to insulin receptors on muscle and fat cells, thereby facilitating the cellular uptake of glucose. This lowers blood glucose levels. At the same time, insulin glargine inhibits the liver's conversion of stored glycogen into glucose, which also contributes to lower blood glucose levels. Insulin glargine also inhibits lipolysis in adipose tissue, inhibits proteolysis, and enhances protein synthesis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

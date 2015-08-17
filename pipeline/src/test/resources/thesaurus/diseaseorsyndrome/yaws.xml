@@ -1,0 +1,40 @@
+<Record>
+<Term>Yaws</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Treponemal Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Tropical Disease</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Yaws</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Yaws</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Tropical Disease/Yaws</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Skin Diseases, Bacterial/Yaws</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Yaws</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Bacterial/Yaws</ClassificationPath>
+<BroaderTerm>Yaws</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Tropical Disease</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<ChildTerm>Early Yaws</ChildTerm>
+<ChildTerm>Late Yaws</ChildTerm>
+<Synonym>Yaws</Synonym>
+<Synonym>Frambesias</Synonym>
+<Synonym>Frambesia</Synonym>
+<Description>A systemic non-venereal infection of the tropics caused by Treponema pallidum subspecies pertenue.</Description>
+<Description>An endemic, infectious, nonvenereal disease in humans that presents mainly in children younger than 15 years. The disease occurs primarily in warm, humid, tropical areas of Africa, Asia, South America, and Oceania, among poor rural populations where conditions of overcrowding and poor sanitation prevail. Infection with Treponema pertenue, a subspecies of Treponema pallidum, causes the disease.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

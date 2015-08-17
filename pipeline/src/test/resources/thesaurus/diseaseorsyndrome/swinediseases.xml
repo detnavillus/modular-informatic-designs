@@ -1,0 +1,24 @@
+<Record>
+<Term>Swine Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Swine Diseases</ClassificationPath>
+<BroaderTerm>Swine Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>African Swine Fever</ChildTerm>
+<ChildTerm>Edema Disease of Swine</ChildTerm>
+<ChildTerm>Encephalomyelitis, Enzootic Porcine</ChildTerm>
+<ChildTerm>Epidermitis, Exudative, of Swine</ChildTerm>
+<ChildTerm>Swine Erysipelas</ChildTerm>
+<ChildTerm>Swine Vesicular Disease</ChildTerm>
+<ChildTerm>Vesicular Exanthema of Swine</ChildTerm>
+<ChildTerm>Porcine Reproductive and Respiratory Syndrome</ChildTerm>
+<ChildTerm>Pneumonia of Swine, Mycoplasmal</ChildTerm>
+<ChildTerm>Porcine Postweaning Multisystemic Wasting Syndrome</ChildTerm>
+<ChildTerm>Gastroenteritis, Transmissible, of Swine</ChildTerm>
+<ChildTerm>Classical Swine Fever</ChildTerm>
+<Synonym>Swine Diseases</Synonym>
+<Synonym>Swine Disease</Synonym>
+<Description>Diseases of domestic swine and of the wild boar of the genus Sus.</Description>
+<Source>MeSH</Source>
+</Record>

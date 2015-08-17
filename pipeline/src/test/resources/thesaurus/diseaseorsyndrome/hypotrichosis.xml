@@ -1,0 +1,25 @@
+<Record>
+<Term>Hypotrichosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hair Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Hair Disorder</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Hypotrichosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Non-Neoplastic Hair Disorder/Hypotrichosis</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hair Disorder</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Hypotrichosis</BroaderTerm>
+<ChildTerm>Alopecia</ChildTerm>
+<Synonym>Hypotrichoses</Synonym>
+<Synonym>Hypotrichosis</Synonym>
+<Description>Presence of less than the normal amount of hair. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

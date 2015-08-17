@@ -1,0 +1,23 @@
+<Record>
+<Term>Xanthogranulomatous Pyelonephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pyelonephritis</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial/Pyelonephritis/Pyelonephritis, Xanthogranulomatous</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelonephritis/Pyelonephritis, Xanthogranulomatous</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Nephritis, Interstitial/Pyelonephritis/Pyelonephritis, Xanthogranulomatous</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Pyelitis/Pyelonephritis/Pyelonephritis, Xanthogranulomatous</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Nephritis, Interstitial</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Pyelonephritis, Xanthogranulomatous</BroaderTerm>
+<BroaderTerm>Pyelonephritis</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Pyelitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Xanthogranulomatous Pyelonephritides</Synonym>
+<Synonym>Xanthogranulomatous Pyelonephritis</Synonym>
+<Description>A chronic inflammatory condition of the KIDNEY resulting in diffuse renal destruction, a grossly enlarged and nonfunctioning kidney associated with NEPHROLITHIASIS and KIDNEY STONES.</Description>
+<Source>MeSH</Source>
+</Record>

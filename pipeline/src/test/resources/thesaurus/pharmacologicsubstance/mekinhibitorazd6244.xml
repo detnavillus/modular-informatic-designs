@@ -1,0 +1,18 @@
+<Record>
+<Term>MEK Inhibitor AZD6244</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Mitogen-Activated Protein Kinase Kianse Inhibitor/MEK Inhibitor AZD6244</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>MEK Inhibitor AZD6244</BroaderTerm>
+<BroaderTerm>Mitogen-Activated Protein Kinase Kianse Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>ARRY-142886</Synonym>
+<Synonym>AZD6244</Synonym>
+<Synonym>MEK Inhibitor AZD6244</Synonym>
+<Description>An orally active, small molecule with potential antineoplastic activity. AZD6244 is an ATP-independent inhibitor of mitogen-activated protein kinase kinase (MEK or MAPK/ERK kinase) 1 and 2. MEK 1 and 2 are dual specificity kinases that are essential mediators in the activation of the RAS/RAF/MEK/ERK pathway, are often upregulated in various cancer cells, and are drivers of diverse cellular responses, including proliferation. Inhibition of both MEK1 and 2 by AZD6244 prevents the activation of MEK1/2 dependent effector proteins and transcription factors, thereby leading to an inhibition of cellular proliferation in various cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Indium I 111 Chimeric Monoclonal Antibody G250</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Indium I 111 Chimeric Monoclonal Antibody G250</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Indium I 111 Chimeric Monoclonal Antibody G250</BroaderTerm>
+<Synonym>In-111 MoAbG250</Synonym>
+<Synonym>Indium I 111 Chimeric Monoclonal Antibody G250</Synonym>
+<Description>A radioimmunoconjugate comprised of the chimeric monoclonal antibody G250 conjugated with the gamma-emitting radioisotope indium In 111. Indium I 111 chimeric monoclonal antibody G250 binds to G250, allowing the localization of G250-expressing tumor cells using gamma scintigraphy. Found in the majority of renal cell carcinomas (RCCs), G250 or carbonic anhydrase isozyme IX (CA IX) is a cell surface tumor-associated antigen (TAA).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

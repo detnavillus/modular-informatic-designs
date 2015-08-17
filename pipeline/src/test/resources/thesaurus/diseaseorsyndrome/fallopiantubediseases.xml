@@ -1,0 +1,19 @@
+<Record>
+<Term>Fallopian Tube Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adnexal Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Fallopian Tube Diseases</ClassificationPath>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Fallopian Tube Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Fallopian Tube Neoplasms</ChildTerm>
+<ChildTerm>Salpingitis</ChildTerm>
+<Synonym>Fallopian Tube Diseases</Synonym>
+<Synonym>Fallopian Tube Disease</Synonym>
+<Synonym>Tubal Obstruction</Synonym>
+<Synonym>Tubal Obstructions</Synonym>
+<Description>Diseases involving the FALLOPIAN TUBES including neoplasms (FALLOPIAN TUBE NEOPLASMS); SALPINGITIS; tubo-ovarian abscess; and blockage.</Description>
+<Source>MeSH</Source>
+</Record>

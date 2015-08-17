@@ -1,0 +1,25 @@
+<Record>
+<Term>Bovine Spongiform Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ParentTerm>Prion Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Prion Diseases/Encephalopathy, Bovine Spongiform</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Prion Diseases/Encephalopathy, Bovine Spongiform</ClassificationPath>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Encephalopathy, Bovine Spongiform</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Encephalopathy, Bovine Spongiform</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Prion Diseases</BroaderTerm>
+<Synonym>Bovine Spongiform Encephalitis</Synonym>
+<Synonym>Mad Cow Disease</Synonym>
+<Synonym>Bovine Spongiform Encephalopathy</Synonym>
+<Synonym>Mad Cow Diseases</Synonym>
+<Synonym>BSEs (Bovine Spongiform Encephalopathy)</Synonym>
+<Synonym>BSE (Bovine Spongiform Encephalopathy)</Synonym>
+<Description>A transmissible spongiform encephalopathy of cattle associated with abnormal prion proteins in the brain. Affected animals develop excitability and salivation followed by ATAXIA. This disorder has been associated with consumption of SCRAPIE infected ruminant derived protein. This condition may be transmitted to humans, where it is referred to as variant or new variant CREUTZFELDT-JAKOB SYNDROME. (Vet Rec 1998 Jul 25;143(41):101-5)</Description>
+<Source>MeSH</Source>
+</Record>

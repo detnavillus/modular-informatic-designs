@@ -1,0 +1,17 @@
+<Record>
+<Term>Aortitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aortic Diseases</ParentTerm>
+<ParentTerm>Vasculitis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Aortitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Aortic Diseases/Aortitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Aortic Diseases</BroaderTerm>
+<BroaderTerm>Aortitis</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Aortitides</Synonym>
+<Synonym>Aortitis</Synonym>
+<Description>Inflammation of the wall of the AORTA.</Description>
+<Source>MeSH</Source>
+</Record>

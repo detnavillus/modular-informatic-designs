@@ -1,0 +1,18 @@
+<Record>
+<Term>CHK1 Inhibitor PF-477736</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Serine Threonine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Serine Threonine Kinase Inhibitor/CHK1 Inhibitor PF-477736</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Serine Threonine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CHK1 Inhibitor PF-477736</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CHK1 Inhibitor PF-477736</Synonym>
+<Synonym>PF-00477736</Synonym>
+<Synonym>PF-477736</Synonym>
+<Description>A proprietary compound targeting cell cycle checkpoint kinase 1 (chk1) with potential chemopotentiation activity. Chk1 inhibitor PF-477736 inhibits chk1, an ATP-dependent serine-threonine kinase that is a key component in the DNA replication-monitoring S/G2 checkpoint system. By overriding the last checkpoint defense against DNA damaging agent-induced lethal damage, chk1 inhibitor PF-477736 may potentiate the antitumor efficacy of various chemotherapeutic agents against tumor cells with intrinsic checkpoint defects.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

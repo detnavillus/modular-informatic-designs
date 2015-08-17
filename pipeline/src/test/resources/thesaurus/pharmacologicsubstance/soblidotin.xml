@@ -1,0 +1,25 @@
+<Record>
+<Term>Soblidotin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vinca-Domain Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Peptide/Dolastatin Compound/Soblidotin,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Vinca-Domain Binding Agent/Soblidotin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Dolastatin Compound</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Peptide</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Vinca-Domain Binding Agent</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Soblidotin</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Soblidotin,</BroaderTerm>
+<Synonym>Soblidotin</Synonym>
+<Synonym>TZT-1027</Synonym>
+<Description>A dolastatin-10 derivative.  Soblidotin inhibits tubulin polymerization, resulting in cell cycle arrest and induction of apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

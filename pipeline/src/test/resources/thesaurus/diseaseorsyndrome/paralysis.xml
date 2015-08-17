@@ -1,0 +1,46 @@
+<Record>
+<Term>Paralysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Neurologic Manifestations</ParentTerm>
+<ParentTerm>Motor Manifestations</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Paralysis</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Paralysis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Neurological Signs and Symptoms/Motor Manifestations/Paralysis</ClassificationPath>
+<BroaderTerm>Paralysis</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Neurological Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Motor Manifestations</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Nerve Paralysis</ChildTerm>
+<ChildTerm>Ophthalmoplegia</ChildTerm>
+<ChildTerm>Facial Paralysis</ChildTerm>
+<ChildTerm>Pseudobulbar Palsy</ChildTerm>
+<ChildTerm>Hemiplegia</ChildTerm>
+<ChildTerm>Paraplegia</ChildTerm>
+<ChildTerm>Respiratory Paralysis</ChildTerm>
+<ChildTerm>Gastroparesis</ChildTerm>
+<ChildTerm>Quadriplegia</ChildTerm>
+<ChildTerm>Vocal Cord Paralysis</ChildTerm>
+<ChildTerm>Paresis</ChildTerm>
+<Synonym>paralysis</Synonym>
+<Synonym>Paralysis</Synonym>
+<Synonym>Palsy</Synonym>
+<Synonym>Plegia</Synonym>
+<Synonym>Palsies</Synonym>
+<Synonym>Todd's Paralysis</Synonym>
+<Synonym>Todds Paralysis</Synonym>
+<Synonym>Paralyses</Synonym>
+<Synonym>Plegias</Synonym>
+<Synonym>Todd Paralysis</Synonym>
+<Description>A general term most often used to describe severe or complete loss of muscle strength due to motor system disease from the level of the cerebral cortex to the muscle fiber. This term may also occasionally refer to a loss of sensory function. (From Adams et al., Principles of Neurology, 6th ed, p45)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

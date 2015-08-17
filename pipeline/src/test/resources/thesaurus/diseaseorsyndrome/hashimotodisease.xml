@@ -1,0 +1,24 @@
+<Record>
+<Term>Hashimoto Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroiditis, Autoimmune</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroiditis/Thyroiditis, Autoimmune/Hashimoto Disease</ClassificationPath>
+<BroaderTerm>Hashimoto Disease</BroaderTerm>
+<BroaderTerm>Thyroiditis</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Thyroiditis, Autoimmune</BroaderTerm>
+<Synonym>Hashimoto Disease</Synonym>
+<Synonym>Hashimoto Thyroiditis</Synonym>
+<Synonym>Hashimoto Thyroiditides</Synonym>
+<Synonym>Hashimoto's Syndrome</Synonym>
+<Synonym>Hashimoto Syndrome</Synonym>
+<Synonym>Hashimoto's Syndromes</Synonym>
+<Synonym>Hashimotos Syndrome</Synonym>
+<Synonym>Chronic Lymphocytic Thyroiditis</Synonym>
+<Synonym>Chronic Lymphocytic Thyroiditides</Synonym>
+<Synonym>Hashimoto's Disease</Synonym>
+<Synonym>Hashimotos Disease</Synonym>
+<Description>Chronic autoimmune thyroiditis, characterized by the presence of high serum thyroid AUTOANTIBODIES; GOITER; and HYPOTHYROIDISM.</Description>
+<Source>MeSH</Source>
+</Record>

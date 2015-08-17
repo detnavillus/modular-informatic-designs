@@ -1,0 +1,21 @@
+<Record>
+<Term>SU014813</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/SU014813,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Angiogenesis Inhibitor/Angiogenesis Activator Inhibitor/SU014813</ClassificationPath>
+<BroaderTerm>SU014813</BroaderTerm>
+<BroaderTerm>Angiogenesis Activator Inhibitor</BroaderTerm>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Angiogenesis Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>SU014813,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>SU014813</Synonym>
+<Description>An orally-active, tyrosine kinase receptor inhibitor with potential antitumor activity. SU014813 binds to and inhibits the phosphorylation of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor (PDGFR) alpha and beta, c-Kit and Fms-related tyrosine kinase 3 (Flt-3). This leads to an inhibition of cellular proliferation and angiogenesis and an induction of apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

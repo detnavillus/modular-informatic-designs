@@ -1,0 +1,33 @@
+<Record>
+<Term>Inguinal Hernia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Hernia, Abdominal</ParentTerm>
+<ParentTerm>Hernia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Congenital or Acquired Anatomic Abnormality/Hernia/Inguinal Hernia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Hernia/Hernia, Abdominal/Hernia, Inguinal</ClassificationPath>
+<BroaderTerm>Hernia, Abdominal</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hernia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Inguinal Hernia</BroaderTerm>
+<BroaderTerm>Congenital or Acquired Anatomic Abnormality</BroaderTerm>
+<BroaderTerm>Hernia, Inguinal</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Indirect Inguinal Hernia</ChildTerm>
+<ChildTerm>Inguinal Hernia without mention of Obstruction or Gangrene</ChildTerm>
+<ChildTerm>Direct Inguinal Hernia</ChildTerm>
+<Synonym>Indirect Inguinal Hernia</Synonym>
+<Synonym>Inguinal Hernias</Synonym>
+<Synonym>Inguinal Hernia</Synonym>
+<Synonym>Direct Inguinal Hernias</Synonym>
+<Synonym>Direct Inguinal Hernia</Synonym>
+<Synonym>Indirect Inguinal Hernias</Synonym>
+<Description>An abdominal hernia with an external bulge in the GROIN region. It can be classified by the location of herniation. Indirect inguinal hernias occur through the internal inguinal ring. Direct inguinal hernias occur through defects in the ABDOMINAL WALL (transversalis fascia) in Hesselbach's triangle. The former type is commonly seen in children and young adults; the latter in adults.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

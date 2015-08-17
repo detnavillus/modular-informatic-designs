@@ -1,0 +1,17 @@
+<Record>
+<Term>Retroviral Vector MFGS-MOv18-gamma</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Viral Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Retroviral Vector MFGS-MOv18-gamma</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Retroviral Vector MFGS-MOv18-gamma</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>MFG-S MOv18-gamma-IN Retroviral Vector</Synonym>
+<Synonym>Retroviral Vector MFGS-MOv18-gamma</Synonym>
+<Description>A recombinant retrovirus containing the modified murine retroviral vector MFG-S encoding a chimeric construct, MOv18-gamma. MOv18 is a murine monoclonal antibody developed against epitope of human folate binding protein, which is overexpressed on more than 90% of non-mucinous epithelial ovarian neoplasms. The chimeric construct (MOv18-gamma) encodes the variable region of MOv18 antibody, and the gamma chain of human T-cell receptor. This virion might be used to transduce autologous T lymphocytes, and reintroduced back to the patient after expansion ex vivo to invoke specific immune response against ovarian cancer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

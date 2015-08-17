@@ -1,0 +1,15 @@
+<Record>
+<Term>SDZ 280-446</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Multidrug Resistance Modulator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Multidrug Resistance Modulator/SDZ 280-446</ClassificationPath>
+<BroaderTerm>SDZ 280-446</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Multidrug Resistance Modulator</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SDZ 280-446</Synonym>
+<Description>A novel semi-synthetic derivative of cyclosporin and a cyclodepsipeptide with chemo-sensitizing activity. SDZ 280-446 is one of the drug resistance-modifying agents that inhibit P-glycoprotein, the multidrug resistance efflux pump, thereby restoring the retention and activities of some drugs in drug-resistant tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

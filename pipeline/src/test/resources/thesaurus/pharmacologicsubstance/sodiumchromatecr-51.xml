@@ -1,0 +1,24 @@
+<Record>
+<Term>Sodium Chromate Cr-51</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/Sodium Chromate Cr-51</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Sodium Chromate Cr-51</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Chromitope</Synonym>
+<Synonym>SODIUM CHROMATE, CR-51</Synonym>
+<Synonym>Sodium Chromate(VI) 51Cr-labeled Compound</Synonym>
+<Synonym>Chromic-51Cr Acid, Disodium Salt</Synonym>
+<Synonym>Chromitope sodium</Synonym>
+<Synonym>Sodium Chromate Cr-51</Synonym>
+<Synonym>Natrium radio-chromicum(51Cr)</Synonym>
+<Synonym>Sodium chromate cr 51</Synonym>
+<Description>A radiopharmaceutical providing radioactive chromium-51 in the form of sodium chromate for diagnostic usage. Upon dissociation, the chromate ion binds to the membrane of red blood cells. Following translocation across the cell membrane, the ion binds to intracellular hemoglobin, thereby allowing imaging to determine red blood cell volume, survival time and evaluate blood loss.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

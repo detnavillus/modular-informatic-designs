@@ -1,0 +1,22 @@
+<Record>
+<Term>Gigantism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases, Endocrine</ParentTerm>
+<ParentTerm>Bone Diseases, Developmental</ParentTerm>
+<ParentTerm>Hyperpituitarism</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hyperpituitarism/Gigantism</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Endocrine/Gigantism</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Gigantism</ClassificationPath>
+<BroaderTerm>Gigantism</BroaderTerm>
+<BroaderTerm>Bone Diseases, Endocrine</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Hyperpituitarism</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<Synonym>Gigantism</Synonym>
+<Synonym>Pituitary Gigantism</Synonym>
+<Description>The condition of accelerated and excessive GROWTH in children or adolescents who are exposed to excess HUMAN GROWTH HORMONE before the closure of EPIPHYSES. It is usually caused by somatotroph hyperplasia or a GROWTH HORMONE-SECRETING PITUITARY ADENOMA. These patients are of abnormally tall stature, more than 3 standard deviations above normal mean height for age.</Description>
+<Source>MeSH</Source>
+</Record>

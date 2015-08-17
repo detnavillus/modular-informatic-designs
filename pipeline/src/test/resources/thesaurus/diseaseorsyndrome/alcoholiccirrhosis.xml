@@ -1,0 +1,20 @@
+<Record>
+<Term>Alcoholic Cirrhosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cirrhosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Cirrhosis/Alcoholic Cirrhosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Alcoholic Liver Disease/Alcoholic Cirrhosis</ClassificationPath>
+<BroaderTerm>Alcoholic Cirrhosis</BroaderTerm>
+<BroaderTerm>Alcoholic Cirrhosis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cirrhosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Alcoholic Liver Disease</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Alcoholic Cirrhosis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

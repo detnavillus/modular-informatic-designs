@@ -1,0 +1,25 @@
+<Record>
+<Term>Pyloric Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Stomach Disorder</ParentTerm>
+<ParentTerm>Gastric Outlet Obstruction</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastric Outlet Obstruction/Pyloric Stenosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Non-Neoplastic Stomach Disorder/Pyloric Stenosis</ClassificationPath>
+<BroaderTerm>Pyloric Stenosis</BroaderTerm>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Stomach Disorder</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Gastric Outlet Obstruction</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Pyloric Stenosis, Hypertrophic</ChildTerm>
+<Synonym>Pyloric Stenosis</Synonym>
+<Description>Narrowing of the pyloric canal with varied etiology. A common form is due to muscle hypertrophy (PYLORIC STENOSIS, HYPERTROPHIC) seen in infants.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

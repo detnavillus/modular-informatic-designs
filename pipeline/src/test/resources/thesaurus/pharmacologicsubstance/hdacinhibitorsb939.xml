@@ -1,0 +1,16 @@
+<Record>
+<Term>HDAC Inhibitor SB939</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Histone Deacetylase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Histone Deacetylase Inhibitor/HDAC Inhibitor SB939</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Histone Deacetylase Inhibitor</BroaderTerm>
+<BroaderTerm>HDAC Inhibitor SB939</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HDAC Inhibitor SB939</Synonym>
+<Synonym>SB939</Synonym>
+<Description>An orally available, small-molecule histone deacetylase (HDAC) inhibitor with potential antineoplastic activity. HDAC inhibitor SB939 inhibits HDACs, which may result in the accumulation of highly acetylated histones, followed by the induction of chromatin remodeling; the selective transcription of tumor suppressor genes; the tumor suppressor protein-mediated inhibition of tumor cell division; and, finally, the induction of tumor cell apoptosis. This agent may possess improved metabolic, pharmacokinetic and pharmacological properties compared to other HDAC inhibitors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

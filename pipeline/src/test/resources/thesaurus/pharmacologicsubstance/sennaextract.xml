@@ -1,0 +1,26 @@
+<Record>
+<Term>Senna Extract</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Plant Extracts</ParentTerm>
+<ParentTerm>Laxative</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Plant Preparations/Plant Extracts/Senna Extract</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Senna Extract</ClassificationPath>
+<BroaderTerm>Plant Extracts</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Laxative</BroaderTerm>
+<BroaderTerm>Senna Extract</BroaderTerm>
+<BroaderTerm>Plant Preparations</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Senokot</Synonym>
+<Synonym>Senna Extract</Synonym>
+<Description>Preparations of Cassia senna and C. angustifolia (see SENNA PLANT). They contain sennosides, which are anthraquinone type CATHARTICS and are used in many different preparations as laxatives.</Description>
+<Description>An extract made from the dried leaflets on the pods of Cassia angustifolia or Cassia acutifolia with cathartic activity. Dimeric glycosides in dried senna extract are converted to the active monoanthrones by bacterial action in the colon. Through direct effects on enterocytes, enteric neurons, and muscle, monoanthrones produce giant migrating colonic contractions in addition to water and electrolyte secretion. As do other stimulant laxatives, monoanthrones may induce a limited low-grade inflammation in the colon through activation of prostaglandin/cyclic AMP and nitric oxide/cyclic GMP pathways and perhaps inhibition of Na+, K+-ATPase.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

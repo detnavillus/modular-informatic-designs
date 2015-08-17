@@ -1,0 +1,17 @@
+<Record>
+<Term></Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Alveolitis, Extrinsic Allergic</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Alveolitis, Extrinsic Allergic/Silo Filler's Disease</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Silo Filler's Disease</BroaderTerm>
+<BroaderTerm>Alveolitis, Extrinsic Allergic</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Silo Filler's Disease</Synonym>
+<Synonym>Silo Filler Disease</Synonym>
+<Synonym>Silo Fillers Disease</Synonym>
+<Synonym>Silo Fillers' Disease</Synonym>
+<Description>A form of alveolitis or PNEUMONITIS caused by hypersensitivity to high level of inhaled nitrogen oxides, decomposition products of silage.</Description>
+<Source>MeSH</Source>
+</Record>

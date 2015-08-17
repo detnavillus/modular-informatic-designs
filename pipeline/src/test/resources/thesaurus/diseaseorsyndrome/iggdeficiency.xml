@@ -1,0 +1,18 @@
+<Record>
+<Term>IgG Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dysgammaglobulinemia</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Protein Disorders/Dysgammaglobulinemia/IgG Deficiency</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Dysgammaglobulinemia/IgG Deficiency</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Dysgammaglobulinemia</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Blood Protein Disorders</BroaderTerm>
+<BroaderTerm>IgG Deficiency</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>IgG Deficiency</Synonym>
+<Synonym>IgG Deficiencies</Synonym>
+<Description>A dysgammaglobulinemia characterized by a deficiency of IMMUNOGLOBULIN G.</Description>
+<Source>MeSH</Source>
+</Record>

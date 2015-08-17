@@ -1,0 +1,54 @@
+<Record>
+<Term>Pulmonary Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Tuberculosis, Pulmonary</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Pulmonary</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Mycobacterial Infection/Tuberculosis/Lung Tuberculosis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Infectious Lung Disorder/Lung Tuberculosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Tuberculosis, Pulmonary</ClassificationPath>
+<BroaderTerm>Lung Tuberculosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Tuberculosis, Pulmonary</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Lung Tuberculosis,</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Infectious Lung Disorder</BroaderTerm>
+<BroaderTerm>Mycobacterial Infection</BroaderTerm>
+<ChildTerm>Silicotuberculosis</ChildTerm>
+<ChildTerm>Tuberculous Fibrosis of Lung</ChildTerm>
+<ChildTerm>Tuberculous Bronchopneumonia</ChildTerm>
+<ChildTerm>Tuberculous Bronchiectasis</ChildTerm>
+<Synonym>Lung Tuberculosis</Synonym>
+<Synonym>Pulmonary Consumptions</Synonym>
+<Synonym>Pulmonary Phthisis</Synonym>
+<Synonym>Pulmonary TB</Synonym>
+<Synonym>Lung TB</Synonym>
+<Synonym>Pulmonary Phthises</Synonym>
+<Synonym>Pulmonary Tuberculosis</Synonym>
+<Synonym>Pulmonary Tuberculoses</Synonym>
+<Synonym>Pulmonary Consumption</Synonym>
+<Description>MYCOBACTERIUM infections of the lung.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

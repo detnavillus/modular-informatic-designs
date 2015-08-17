@@ -1,0 +1,17 @@
+<Record>
+<Term>Sialadenitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Salivary Gland Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases/Sialadenitis</ClassificationPath>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Sialadenitis</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Parotitis</ChildTerm>
+<Synonym>Sialadenitis</Synonym>
+<Synonym>Sialadenitides</Synonym>
+<Synonym>Sialitis</Synonym>
+<Synonym>Sialitides</Synonym>
+<Description>INFLAMMATION of salivary tissue (SALIVARY GLANDS), usually due to INFECTION or injuries.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,39 @@
+<Record>
+<Term>Glycogen Storage Disease Type IIb</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Mental Retardation, X-Linked</ParentTerm>
+<ParentTerm>Glycogen Storage Disease</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Glycogen Storage Disease Type IIb</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Glycogen Storage Disease Type IIb</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type IIb</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Mental Retardation/Mental Retardation, X-Linked/Glycogen Storage Disease Type IIb</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Carbohydrate Metabolism, Inborn Errors/Glycogen Storage Disease/Glycogen Storage Disease Type IIb</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Mental Retardation, X-Linked</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Carbohydrate Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease Type IIb</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Mental Retardation</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Glycogen Storage Disease</BroaderTerm>
+<Synonym>Glycogen Storage Cardiomyopathy</Synonym>
+<Synonym>Glycogen Storage Disease Type IIb</Synonym>
+<Synonym>Danon Disease</Synonym>
+<Synonym>Glycogen Storage Cardiomyopathies</Synonym>
+<Synonym>Glycogen Storage Disease IIb</Synonym>
+<Synonym>X-Linked Vacuolar Cardiomyopathy and Myopathy</Synonym>
+<Synonym>Glycogen Storage Disease Type 2B</Synonym>
+<Description>An X-linked dominant multisystem disorder resulting in cardiomyopathy, myopathy and MENTAL RETARDATION. It is caused by mutation in the gene encoding LYSOSOMAL-ASSOCIATED MEMBRANE PROTEIN 2.</Description>
+<Source>MeSH</Source>
+</Record>

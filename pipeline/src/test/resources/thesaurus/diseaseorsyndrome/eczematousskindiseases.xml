@@ -1,0 +1,22 @@
+<Record>
+<Term>Eczematous Skin Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Dermatitis, Exfoliative</ChildTerm>
+<ChildTerm>Dermatitis, Atopic</ChildTerm>
+<ChildTerm>Dermatitis, Contact</ChildTerm>
+<ChildTerm>Eczema</ChildTerm>
+<ChildTerm>Dermatitis, Seborrheic</ChildTerm>
+<ChildTerm>Intertrigo</ChildTerm>
+<ChildTerm>Neurodermatitis</ChildTerm>
+<Synonym>Eczematous Disorders</Synonym>
+<Synonym>Eczematous Disorder</Synonym>
+<Synonym>Eczematous Skin Diseases</Synonym>
+<Synonym>Eczematous Skin Disease</Synonym>
+<Description>Any of a variety of eruptive skin disorders characterized by erythema, oozing, vesiculation, and scaling. Etiology is varied.</Description>
+<Source>MeSH</Source>
+</Record>

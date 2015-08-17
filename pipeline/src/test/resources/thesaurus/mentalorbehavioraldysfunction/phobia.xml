@@ -1,0 +1,26 @@
+<Record>
+<Term>Phobia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Socialized Conduct Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Socialized Conduct Disorder/Phobia</ClassificationPath>
+<BroaderTerm>Phobia</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Socialized Conduct Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Examination Phobia</ChildTerm>
+<ChildTerm>Animal Phobia</ChildTerm>
+<ChildTerm>Social Phobia</ChildTerm>
+<ChildTerm>AIDS Phobia</ChildTerm>
+<ChildTerm>Dental Phobia</ChildTerm>
+<ChildTerm>Agoraphobia</ChildTerm>
+<ChildTerm>Cancerphobia</ChildTerm>
+<ChildTerm>School Phobia</ChildTerm>
+<ChildTerm>Specific Phobia</ChildTerm>
+<ChildTerm>Agoraphobia without a History of Panic Disorder</ChildTerm>
+<ChildTerm>Phobia of Driving</ChildTerm>
+<ChildTerm>Flying Phobia</ChildTerm>
+<Synonym>Phobia</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

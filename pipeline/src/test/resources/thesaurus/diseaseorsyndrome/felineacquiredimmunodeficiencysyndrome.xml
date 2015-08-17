@@ -1,0 +1,26 @@
+<Record>
+<Term>Feline Acquired Immunodeficiency Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>Cat Diseases</ParentTerm>
+<ParentTerm>Lentivirus Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Cat Diseases/Feline Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Feline Acquired Immunodeficiency Syndrome</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/Feline Acquired Immunodeficiency Syndrome</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Feline Acquired Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Cat Diseases</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>FAIDS</Synonym>
+<Synonym>Feline Acquired Immunodeficiency Syndrome</Synonym>
+<Synonym>Feline AIDS</Synonym>
+<Synonym>Feline Acquired Immuno Deficiency Syndrome</Synonym>
+<Synonym>Feline Acquired Immune Deficiency Syndrome</Synonym>
+<Synonym>Feline Acquired Immuno-Deficiency Syndrome</Synonym>
+<Description>Acquired defect of cellular immunity that occurs in cats infected with feline immunodeficiency virus (FIV) and in some cats infected with feline leukemia virus (FeLV).</Description>
+<Source>MeSH</Source>
+</Record>

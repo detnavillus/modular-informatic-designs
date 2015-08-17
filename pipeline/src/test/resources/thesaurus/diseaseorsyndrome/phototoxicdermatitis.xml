@@ -1,0 +1,24 @@
+<Record>
+<Term>Phototoxic Dermatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Photosensitivity Disorders</ParentTerm>
+<ParentTerm>Dermatitis, Irritant</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Irritant/Dermatitis, Phototoxic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Photosensitivity Disorders/Dermatitis, Phototoxic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Irritant/Dermatitis, Phototoxic</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Photosensitivity Disorders</BroaderTerm>
+<BroaderTerm>Dermatitis, Irritant</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Dermatitis, Phototoxic</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<Synonym>Phototoxic Dermatitides</Synonym>
+<Synonym>Phototoxic Dermatitis</Synonym>
+<Synonym>Phototoxic Contact Dermatitides</Synonym>
+<Synonym>Phototoxicity</Synonym>
+<Synonym>Phototoxic Contact Dermatitis</Synonym>
+<Description>A nonimmunologic, chemically induced type of photosensitivity producing a sometimes vesiculating dermatitis. It results in hyperpigmentation and desquamation of the light-exposed areas of the skin.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>RASVAC-C</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/RASVAC-C</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>RASVAC-C</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>RASVAC-C</Synonym>
+<Synonym>Ras(cis 12)-Vaccinia Vaccine</Synonym>
+<Description>A synthetic vaccine used for cancer immunotherapy also known as Ras(cis 12)-Vaccinia Vaccine, RASVAC-C is based on a mutant peptide epitope of the Ras oncoprotein at codon 12 that induces recognition and induction of tumor-specific, cell-mediated immune responses. Ras is an intracellular GTP-binding protein involved in signal transduction and regulation of proliferation and differentiation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,19 @@
+<Record>
+<Term>REM Sleep Behavior Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>REM Sleep Parasomnias</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/REM Sleep Parasomnias/REM Sleep Behavior Disorder</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/REM Sleep Parasomnias/REM Sleep Behavior Disorder</ClassificationPath>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>REM Sleep Parasomnias</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>REM Sleep Behavior Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<Synonym>REM Behavior Disorder</Synonym>
+<Synonym>Rapid Eye Movement Sleep Behavior Disorder</Synonym>
+<Synonym>REM Sleep Behavior Disorder</Synonym>
+<Synonym>REM Behavior Disorders</Synonym>
+<Description>A disorder characterized by episodes of vigorous and often violent motor activity during REM sleep (SLEEP, REM). The affected individual may inflict self injury or harm others, and is difficult to awaken from this condition. Episodes are usually followed by a vivid recollection of a dream that is consistent with the aggressive behavior. This condition primarily affects adult males. (From Adams et al., Principles of Neurology, 6th ed, p393)</Description>
+<Source>MeSH</Source>
+</Record>

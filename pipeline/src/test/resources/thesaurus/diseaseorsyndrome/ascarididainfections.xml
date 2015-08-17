@@ -1,0 +1,20 @@
+<Record>
+<Term>Ascaridida Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Secernentea Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<ChildTerm>Ascariasis</ChildTerm>
+<ChildTerm>Ascaridiasis</ChildTerm>
+<ChildTerm>Toxocariasis</ChildTerm>
+<ChildTerm>Anisakiasis</ChildTerm>
+<ChildTerm>Toxascariasis</ChildTerm>
+<Synonym>Ascaridida Infections</Synonym>
+<Synonym>Ascaridida Infection</Synonym>
+<Description>Infections with nematodes of the order ASCARIDIDA.</Description>
+<Source>MeSH</Source>
+</Record>

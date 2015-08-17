@@ -1,0 +1,16 @@
+<Record>
+<Term>Calcium Hydroxide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Calcium Compounds</ParentTerm>
+<ParentTerm>Hydroxides</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Calcium Compounds/Calcium Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Hydroxides/Calcium Hydroxide</ClassificationPath>
+<BroaderTerm>Calcium Hydroxide</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Calcium Compounds</BroaderTerm>
+<BroaderTerm>Hydroxides</BroaderTerm>
+<Synonym>Calcium Hydroxide</Synonym>
+<Description>A white powder prepared from lime that has many medical and industrial uses. It is in many dental formulations, especially for root canal filling.</Description>
+<Source>MeSH</Source>
+</Record>

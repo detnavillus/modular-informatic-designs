@@ -1,0 +1,71 @@
+<Record>
+<Term>Protease Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ParentTerm>Enzyme Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Protease Inhibitors</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protease Inhibitor</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Protease Inhibitor</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Protease Inhibitors</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Atazanavir Sulfate</ChildTerm>
+<ChildTerm>Ecabet</ChildTerm>
+<ChildTerm>Serine Proteinase Inhibitors</ChildTerm>
+<ChildTerm>Nelfinavir</ChildTerm>
+<ChildTerm>Saquinavir Mesylate</ChildTerm>
+<ChildTerm>Cysteine Proteinase Inhibitors</ChildTerm>
+<ChildTerm>Remikiren</ChildTerm>
+<ChildTerm>HIV Protease Inhibitors</ChildTerm>
+<ChildTerm>Talabostat Mesylate</ChildTerm>
+<ChildTerm>Saquinavir</ChildTerm>
+<ChildTerm>Darunavir</ChildTerm>
+<ChildTerm>KNI-272</ChildTerm>
+<ChildTerm>Indinavir Sulfate</ChildTerm>
+<ChildTerm>Camostat</ChildTerm>
+<ChildTerm>Ecallantide</ChildTerm>
+<ChildTerm>Bowman-Birk Inhibitor Concentrate</ChildTerm>
+<ChildTerm>Efegatran</ChildTerm>
+<ChildTerm>Lopinavir</ChildTerm>
+<ChildTerm>Nelfinavir Mesylate</ChildTerm>
+<ChildTerm>Batebulast</ChildTerm>
+<ChildTerm>Patamostat</ChildTerm>
+<ChildTerm>Fosamprenavir Calcium</ChildTerm>
+<ChildTerm>Sivelestat</ChildTerm>
+<ChildTerm>Tipranavir</ChildTerm>
+<ChildTerm>Indinavir Anhydrous</ChildTerm>
+<ChildTerm>Sitagliptin Phosphate</ChildTerm>
+<ChildTerm>Atazanavir</ChildTerm>
+<ChildTerm>Amprenavir</ChildTerm>
+<ChildTerm>Angiotensin-Converting Enzyme Inhibitors</ChildTerm>
+<ChildTerm>Dipeptidyl-Peptidase IV Inhibitors</ChildTerm>
+<ChildTerm>Ritonavir</ChildTerm>
+<ChildTerm>Palinavir</ChildTerm>
+<ChildTerm>Sepimostat</ChildTerm>
+<ChildTerm>Lopinavir:Ritonavir</ChildTerm>
+<ChildTerm>Aprotinin</ChildTerm>
+<ChildTerm>Sitagliptin</ChildTerm>
+<ChildTerm>Indinavir</ChildTerm>
+<ChildTerm>Fasidotril</ChildTerm>
+<ChildTerm>Tipranavir Disodium</ChildTerm>
+<Synonym>Peptide Hydrolase Inhibitors</Synonym>
+<Synonym>Endopeptidase Inhibitors</Synonym>
+<Synonym>Protease Antagonists</Synonym>
+<Synonym>Peptidase Inhibitors</Synonym>
+<Synonym>Antiproteases</Synonym>
+<Synonym>Protease Inhibitor</Synonym>
+<Synonym>Protease Inhibitors</Synonym>
+<Synonym>protease inhibitors</Synonym>
+<Synonym>Peptide Peptidohydrolase Inhibitors</Synonym>
+<Description>Compounds which inhibit or antagonize biosynthesis or actions of proteases (ENDOPEPTIDASES).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

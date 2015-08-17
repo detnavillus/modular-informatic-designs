@@ -1,0 +1,22 @@
+<Record>
+<Term>Reciprocating Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tachycardia</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating</ClassificationPath>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Tachycardia, Reciprocating</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Tachycardia, Atrioventricular Nodal Reentry</ChildTerm>
+<ChildTerm>Tachycardia, Sinoatrial Nodal Reentry</ChildTerm>
+<Synonym>Reciprocal Tachycardias</Synonym>
+<Synonym>Reciprocal Tachycardia</Synonym>
+<Synonym>Reciprocating Tachycardias</Synonym>
+<Synonym>Reciprocating Tachycardia</Synonym>
+<Description>Abnormally rapid heartbeats caused by reentrant conduction over the accessory pathways between the HEART ATRIA and the HEART VENTRICLES. The impulse can also travel in the reverse direction, as in some cases, atrial impulses travel to the ventricles over the accessory pathways and back to the atria over the BUNDLE OF HIS and the ATRIOVENTRICULAR NODE.</Description>
+<Source>MeSH</Source>
+</Record>

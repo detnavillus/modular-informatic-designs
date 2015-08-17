@@ -1,0 +1,18 @@
+<Record>
+<Term>Multivitamin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Multivitamin</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Multivitamin</BroaderTerm>
+<Synonym>multivitamins</Synonym>
+<Synonym>Vitamin Supplements (NOS)</Synonym>
+<Synonym>Geritol</Synonym>
+<Synonym>Multivitamin</Synonym>
+<Description>A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)</Description>
+<Source>RTI</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

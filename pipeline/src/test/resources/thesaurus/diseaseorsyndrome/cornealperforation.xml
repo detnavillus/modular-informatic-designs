@@ -1,0 +1,21 @@
+<Record>
+<Term>Corneal Perforation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Injuries, Penetrating</ParentTerm>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Wounds and Injuries/Craniocerebral Trauma/Facial Injuries/Eye Injuries/Eye Injuries, Penetrating/Corneal Perforation</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Corneal Perforation</ClassificationPath>
+<BroaderTerm>Eye Injuries, Penetrating</BroaderTerm>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Facial Injuries</BroaderTerm>
+<BroaderTerm>Craniocerebral Trauma</BroaderTerm>
+<BroaderTerm>Corneal Perforation</BroaderTerm>
+<BroaderTerm>Wounds and Injuries</BroaderTerm>
+<BroaderTerm>Eye Injuries</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Corneal Perforation</Synonym>
+<Synonym>Corneal Perforations</Synonym>
+<Description>A puncture or hole through the CORNEAL STROMA resulting from various diseases or trauma.</Description>
+<Source>MeSH</Source>
+</Record>

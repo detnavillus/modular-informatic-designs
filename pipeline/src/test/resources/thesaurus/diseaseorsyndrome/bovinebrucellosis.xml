@@ -1,0 +1,25 @@
+<Record>
+<Term>Bovine Brucellosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Abortion, Veterinary</ParentTerm>
+<ParentTerm>Brucellosis</ParentTerm>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Brucellosis, Bovine</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Brucellosis/Brucellosis, Bovine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Abortion, Veterinary/Brucellosis, Bovine</ClassificationPath>
+<BroaderTerm>Brucellosis, Bovine</BroaderTerm>
+<BroaderTerm>Abortion, Veterinary</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Brucellosis</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Bang Disease</Synonym>
+<Synonym>Bovine Brucellosis</Synonym>
+<Synonym>Bovine Brucelloses</Synonym>
+<Synonym>Bang's Disease</Synonym>
+<Synonym>Bangs Disease</Synonym>
+<Description>A disease of cattle caused by bacteria of the genus BRUCELLA leading to abortion in late pregnancy. BRUCELLA ABORTUS is the primary infective agent.</Description>
+<Source>MeSH</Source>
+</Record>

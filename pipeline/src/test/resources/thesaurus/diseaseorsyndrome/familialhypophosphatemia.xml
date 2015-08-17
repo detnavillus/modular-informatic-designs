@@ -1,0 +1,37 @@
+<Record>
+<Term>Familial Hypophosphatemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metal Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Hypophosphatemia</ParentTerm>
+<ParentTerm>Renal Tubular Transport, Inborn Errors</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Phosphorus Metabolism Disorders/Hypophosphatemia/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Renal Tubular Transport, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Tubular Transport, Inborn Errors/Hypophosphatemia, Familial</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Phosphorus Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Hypophosphatemia, Familial</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypophosphatemia</BroaderTerm>
+<BroaderTerm>Renal Tubular Transport, Inborn Errors</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Hypophosphatemic Rickets, X-Linked Dominant</ChildTerm>
+<Synonym>Familial Hypophosphatemia</Synonym>
+<Synonym>Hyperphosphaturia</Synonym>
+<Synonym>Phosphate Diabetes</Synonym>
+<Synonym>Phosphaturia</Synonym>
+<Synonym>Familial Hypophosphatemias</Synonym>
+<Description>An inherited condition of abnormally low serum levels of PHOSPHATES (below 1 mg/liter) which can occur in a number of genetic diseases with defective reabsorption of inorganic phosphorus by the PROXIMAL RENAL TUBULES. This leads to phosphaturia, HYPOPHOSPHATEMIA, and disturbances of cellular and organ functions such as those in X-LINKED HYPOPHOSPHATEMIC RICKETS; OSTEOMALACIA; and FANCONI SYNDROME.</Description>
+<Source>MeSH</Source>
+</Record>

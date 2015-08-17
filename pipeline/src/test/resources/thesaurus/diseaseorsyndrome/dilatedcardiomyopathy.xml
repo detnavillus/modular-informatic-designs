@@ -1,0 +1,21 @@
+<Record>
+<Term>Dilated Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomegaly</ParentTerm>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomegaly/Cardiomyopathy, Dilated</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Cardiomyopathy, Dilated</ClassificationPath>
+<BroaderTerm>Cardiomegaly</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Dilated</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Congestive Cardiomyopathies</Synonym>
+<Synonym>Congestive Cardiomyopathy</Synonym>
+<Synonym>Dilated Cardiomyopathies</Synonym>
+<Synonym>Familial Idiopathic Cardiomyopathies</Synonym>
+<Synonym>Dilated Cardiomyopathy</Synonym>
+<Synonym>Familial Idiopathic Cardiomyopathy</Synonym>
+<Description>A form of CARDIAC MUSCLE disease that is characterized by ventricular dilation, VENTRICULAR DYSFUNCTION, and HEART FAILURE. Risk factors include SMOKING; ALCOHOL DRINKING; HYPERTENSION; INFECTION; PREGNANCY; and mutations in the LMNA gene encoding LAMIN TYPE A, a NUCLEAR LAMINA protein.</Description>
+<Source>MeSH</Source>
+</Record>

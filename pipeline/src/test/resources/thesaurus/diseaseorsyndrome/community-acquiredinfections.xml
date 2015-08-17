@@ -1,0 +1,14 @@
+<Record>
+<Term>Community-Acquired Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Community-Acquired Infections</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Community-Acquired Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Community-Acquired Infections</Synonym>
+<Synonym>Community Acquired Infections</Synonym>
+<Synonym>Community-Acquired Infection</Synonym>
+<Description>Any infection acquired in the community, that is, contrasted with those acquired in a health care facility (CROSS INFECTION). An infection would be classified as community-acquired if the patient had not recently been in a health care facility or been in contact with someone who had been recently in a health care facility.</Description>
+<Source>MeSH</Source>
+</Record>

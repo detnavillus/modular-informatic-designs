@@ -1,0 +1,21 @@
+<Record>
+<Term>Fascioloidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ParentTerm>Trematode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Fascioloidiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Fascioloidiasis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Fascioloidiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Fascioloidiasis</ClassificationPath>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Fascioloidiasis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Fascioloidiasis</Synonym>
+<Synonym>Fascioloidiases</Synonym>
+<Description>Infection of cattle and other herbivores with the giant liver fluke Fascioloides magna. It is characterized by extensive destruction of the liver parenchyma.</Description>
+<Source>MeSH</Source>
+</Record>

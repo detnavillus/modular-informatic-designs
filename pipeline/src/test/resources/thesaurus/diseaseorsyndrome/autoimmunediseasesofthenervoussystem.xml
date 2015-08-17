@@ -1,0 +1,31 @@
+<Record>
+<Term>Autoimmune Diseases of the Nervous System</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ParentTerm>Nervous System Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System</ClassificationPath>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Demyelinating Autoimmune Diseases, CNS</ChildTerm>
+<ChildTerm>Lambert-Eaton Myasthenic Syndrome</ChildTerm>
+<ChildTerm>Polyradiculoneuropathy</ChildTerm>
+<ChildTerm>Leukoencephalitis, Acute Hemorrhagic</ChildTerm>
+<ChildTerm>Uveomeningoencephalitic Syndrome</ChildTerm>
+<ChildTerm>Stiff-Person Syndrome</ChildTerm>
+<ChildTerm>Nervous System Autoimmune Disease, Experimental</ChildTerm>
+<ChildTerm>Myasthenia Gravis</ChildTerm>
+<ChildTerm>Vasculitis, Central Nervous System</ChildTerm>
+<Synonym>Autoimmune Diseases of the Nervous System</Synonym>
+<Synonym>Nervous System Immune Disorders</Synonym>
+<Synonym>Autoimmune Nervous System Diseases</Synonym>
+<Synonym>Nervous System Immune Diseases</Synonym>
+<Synonym>Autoimmune Disorders of the Nervous System</Synonym>
+<Synonym>Neurologic Autoimmune Diseases</Synonym>
+<Synonym>Neurologic Autoimmune Disease</Synonym>
+<Synonym>Nervous System Autoimmune Diseases</Synonym>
+<Description>Disorders caused by cellular or humoral immune responses primarily directed towards nervous system autoantigens. The immune response may be directed towards specific tissue components (e.g., myelin) and may be limited to the central nervous system (e.g., MULTIPLE SCLEROSIS) or the peripheral nervous system (e.g., GUILLAIN-BARRE SYNDROME).</Description>
+<Source>MeSH</Source>
+</Record>

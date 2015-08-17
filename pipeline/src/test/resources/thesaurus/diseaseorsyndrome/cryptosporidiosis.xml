@@ -1,0 +1,28 @@
+<Record>
+<Term>Cryptosporidiosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coccidiosis</ParentTerm>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Protozoan Infections, Animal</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Cryptosporidiosis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Cryptosporidiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Protozoan Infections, Animal/Cryptosporidiosis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Cryptosporidiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Cryptosporidiosis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Protozoan Infections, Animal/Cryptosporidiosis</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Cryptosporidiosis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections, Animal</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Cryptosporidioses</Synonym>
+<Synonym>Cryptosporidiosis</Synonym>
+<Description>Intestinal infection with organisms of the genus CRYPTOSPORIDIUM. It occurs in both animals and humans. Symptoms include severe DIARRHEA.</Description>
+<Source>MeSH</Source>
+</Record>

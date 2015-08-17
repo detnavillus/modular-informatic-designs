@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Beta Thromboglobulin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Alpha Chemokine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Chemokine/Recombinant Alpha Chemokine/Recombinant Beta Thromboglobulin</ClassificationPath>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Beta Thromboglobulin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Alpha Chemokine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Recombinant Chemokine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Beta TG</Synonym>
+<Synonym>Recombinant Beta Thromboglobulin</Synonym>
+<Description>A therapeutic analogue of an endogenous, platelet-specific protein that is a member of the alpha chemokine family.  Beta thromboglobulin may be used as a marker for platelet activation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

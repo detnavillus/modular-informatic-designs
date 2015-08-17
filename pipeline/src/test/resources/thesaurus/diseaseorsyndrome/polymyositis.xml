@@ -1,0 +1,31 @@
+<Record>
+<Term>Polymyositis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myositis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Connective and Soft Tissue Disorder/Soft Tissue Disorder/Non-Neoplastic Soft Tissue Disorder/Myositis/Polymyositis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Myositis/Polymyositis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Myositis/Polymyositis</ClassificationPath>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Myositis</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Polymyositis</BroaderTerm>
+<BroaderTerm>Soft Tissue Disorder</BroaderTerm>
+<ChildTerm>Dermatomyositis</ChildTerm>
+<Synonym>Idiopathic Polymyositides</Synonym>
+<Synonym>Polymyositis</Synonym>
+<Synonym>Idiopathic Polymyositis</Synonym>
+<Synonym>Polymyositides</Synonym>
+<Synonym>Polymyositis Ossificans</Synonym>
+<Synonym>Multiple Myositis</Synonym>
+<Description>Diseases characterized by inflammation involving multiple muscles. This may occur as an acute or chronic condition associated with medication toxicity (DRUG TOXICITY); CONNECTIVE TISSUE DISEASES; infections; malignant NEOPLASMS; and other disorders. The term polymyositis is frequently used to refer to a specific clinical entity characterized by subacute or slowly progressing symmetrical weakness primarily affecting the proximal limb and trunk muscles. The illness may occur at any age, but is most frequent in the fourth to sixth decade of life. Weakness of pharyngeal and laryngeal muscles, interstitial lung disease, and inflammation of the myocardium may also occur. Muscle biopsy reveals widespread destruction of segments of  muscle fibers and an inflammatory cellular response. (Adams et al., Principles of Neurology, 6th ed, pp1404-9)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

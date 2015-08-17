@@ -1,0 +1,26 @@
+<Record>
+<Term>Psychological Stress</Term>
+<SemanticType>Qualitative Concept</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ParentTerm>Psychophysiology</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Stress, Psychological</ClassificationPath>
+<ClassificationPath>Psychological Phenomena and Processes/Psychophysiology/Stress, Psychological</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Psychological Phenomena and Processes</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Psychophysiology</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Stress, Psychological</BroaderTerm>
+<ChildTerm>Burnout, Professional</ChildTerm>
+<Synonym>Life Stress</Synonym>
+<Synonym>Anguish</Synonym>
+<Synonym>Mental Suffering</Synonym>
+<Synonym>Life Stresses</Synonym>
+<Synonym>Psychological Stress</Synonym>
+<Synonym>Psychologic Stress</Synonym>
+<Synonym>Emotional Stress</Synonym>
+<Synonym>Psychological Stresses</Synonym>
+<Description>Stress wherein emotional factors predominate.Severe psychological and/or spiritual distress.</Description>
+<Source>MeSH</Source>
+</Record>

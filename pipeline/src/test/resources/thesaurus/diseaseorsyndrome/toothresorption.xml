@@ -1,0 +1,19 @@
+<Record>
+<Term>Tooth Resorption</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dental Physiological Processes</ParentTerm>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Tooth Resorption</ClassificationPath>
+<ClassificationPath>Digestive System and Oral Physiological Phenomena/Dental Physiological Phenomena/Dental Physiological Processes/Tooth Resorption</ClassificationPath>
+<BroaderTerm>Tooth Resorption</BroaderTerm>
+<BroaderTerm>Digestive System and Oral Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Dental Physiological Phenomena</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Physiological Processes</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Root Resorption</ChildTerm>
+<Synonym>Tooth Resorption</Synonym>
+<Synonym>Tooth Resorptions</Synonym>
+<Description>Resorption of calcified dental tissue, involving demineralization due to reversal of the cation exchange and lacunar resorption by osteoclasts. There are two types: external (as a result of tooth pathology) and internal (apparently initiated by a peculiar inflammatory hyperplasia of the pulp). (From Jablonski, Dictionary of Dentistry, 1992, p676)</Description>
+<Source>MeSH</Source>
+</Record>

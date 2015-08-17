@@ -1,0 +1,23 @@
+<Record>
+<Term>Arthropathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Connective and Soft Tissue Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Arthropathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Arthropathy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Transient Arthropathy</ChildTerm>
+<ChildTerm>Arthritis</ChildTerm>
+<ChildTerm>Temporomandibular Joint Disorder</ChildTerm>
+<ChildTerm>Arthropathy in Behcet's Syndrome</ChildTerm>
+<ChildTerm>Traumatic Arthropathy</ChildTerm>
+<Synonym>Arthropathy</Synonym>
+<Synonym>Disorder, joint</Synonym>
+<Synonym>Joint Disorder</Synonym>
+<Description>Any disease of the joints.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

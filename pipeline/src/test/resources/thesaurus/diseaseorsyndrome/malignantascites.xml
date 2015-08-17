@@ -1,0 +1,20 @@
+<Record>
+<Term>Malignant Ascites</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ascites</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Peritoneal Disorder/Ascites/Malignant Ascites</ClassificationPath>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Ascites</BroaderTerm>
+<BroaderTerm>Peritoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Malignant Ascites</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Carcinomatous Ascites</ChildTerm>
+<Synonym>Malignant Ascites</Synonym>
+<Synonym>ascites, malignant</Synonym>
+<Synonym>malignant ascites</Synonym>
+<Description>Accumulation of fluid in the peritoneal cavity resulting from the growth of primary or metastatic malignant neoplasms in the peritoneum.--2004</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

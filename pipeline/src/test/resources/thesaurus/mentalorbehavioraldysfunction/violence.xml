@@ -1,0 +1,23 @@
+<Record>
+<Term>Violence</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Social Behavior</SemanticType>
+<ParentTerm>Crime</ParentTerm>
+<ParentTerm>Social Problems</ParentTerm>
+<ClassificationPath>Social Sciences/Sociology/Social Problems/Violence</ClassificationPath>
+<ClassificationPath>Social Sciences/Criminology/Crime/Violence</ClassificationPath>
+<BroaderTerm>Crime</BroaderTerm>
+<BroaderTerm>Sociology</BroaderTerm>
+<BroaderTerm>Criminology</BroaderTerm>
+<BroaderTerm>Violence</BroaderTerm>
+<BroaderTerm>Social Sciences</BroaderTerm>
+<BroaderTerm>Social Problems</BroaderTerm>
+<ChildTerm>Terrorism</ChildTerm>
+<ChildTerm>Domestic Violence</ChildTerm>
+<ChildTerm>Torture</ChildTerm>
+<Synonym>Assaultive Behavior</Synonym>
+<Synonym>Atrocities</Synonym>
+<Synonym>Violence</Synonym>
+<Description>Individual or group aggressive behavior which is socially non-acceptable, turbulent, and often destructive. It is precipitated by frustrations, hostility, prejudices, etc.</Description>
+<Source>MeSH</Source>
+</Record>

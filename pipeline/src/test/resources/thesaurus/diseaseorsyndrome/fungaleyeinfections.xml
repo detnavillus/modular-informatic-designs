@@ -1,0 +1,28 @@
+<Record>
+<Term>Fungal Eye Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections</ParentTerm>
+<ParentTerm>Mycoses</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Fungal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Eye Infections, Fungal</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Fungal</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Eye Infections, Fungal</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Uveitis, Suppurative</ChildTerm>
+<Synonym>Ocular Mycotic Infection</Synonym>
+<Synonym>Fungal Ocular Infections</Synonym>
+<Synonym>Ocular Mycosis</Synonym>
+<Synonym>Ocular Mycoses</Synonym>
+<Synonym>Oculomycoses</Synonym>
+<Synonym>Oculomycosis</Synonym>
+<Synonym>Fungal Ocular Infection</Synonym>
+<Synonym>Fungal Eye Infections</Synonym>
+<Synonym>Ocular Mycotic Infections</Synonym>
+<Synonym>Fungal Eye Infection</Synonym>
+<Description>Infection by a variety of fungi, usually through four possible mechanisms: superficial infection producing conjunctivitis, keratitis, or lacrimal obstruction; extension of infection from neighboring structures - skin, paranasal sinuses, nasopharynx; direct introduction during surgery or accidental penetrating trauma; or via the blood or lymphatic routes in patients with underlying mycoses.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Atrioventricular Nodal Reentry Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paroxysmal Supraventricular Tachycardia</ParentTerm>
+<ParentTerm>Tachycardia, Reciprocating</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Nodal Arrhythmia/Atrioventricular Nodal Reentry Tachycardia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Supraventricular Arrhythmia/Supraventricular Tachycardia/Paroxysmal Supraventricular Tachycardia/Atrioventricular Nodal Reentry Tachycardia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating/Tachycardia, Atrioventricular Nodal Reentry</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Reciprocating/Tachycardia, Atrioventricular Nodal Reentry</ClassificationPath>
+<BroaderTerm>Nodal Arrhythmia</BroaderTerm>
+<BroaderTerm>Atrioventricular Nodal Reentry Tachycardia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Supraventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Paroxysmal Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Tachycardia, Reciprocating</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Tachycardia, Atrioventricular Nodal Reentry</BroaderTerm>
+<BroaderTerm>Supraventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Atrioventricular Nodal Reentry Tachycardia,</BroaderTerm>
+<Synonym>Atrioventricular Nodal Reentry Tachycardia</Synonym>
+<Synonym>AV NODE RE-ENTRY</Synonym>
+<Synonym>AV Nodal Reentrant Tachycardia</Synonym>
+<Synonym>AV node re-entry</Synonym>
+<Synonym>Atrioventricular Nodal Reentrant Tachycardia</Synonym>
+<Description>A supraventricular tachycardia due to reentry along a circuit contained within the AV node. AVNRT is the most common form of supraventricular tachycardia and usually presents as a narrow QRS complex tachycardia at a rate between 150 and 250 beats per minute.</Description>
+<Description>Abnormally rapid heartbeats caused by reentry of atrial impulse into the dual (fast and slow) pathways of ATRIOVENTRICULAR NODE. The common type involves a blocked atrial impulse in the slow pathway which reenters the fast pathway in a retrograde direction and simultaneously conducts to the atria and the ventricles leading to rapid HEART RATE of 150-250 beats per minute.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

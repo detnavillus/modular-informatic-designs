@@ -1,0 +1,20 @@
+<Record>
+<Term>Ciliary Motility Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ParentTerm>Otorhinolaryngologic Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Ciliary Motility Disorders</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ciliary Motility Disorders</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Ciliary Motility Disorders</BroaderTerm>
+<ChildTerm>Kartagener Syndrome</ChildTerm>
+<Synonym>Immotile Cilia Syndrome</Synonym>
+<Synonym>Ciliary Motility Disorder</Synonym>
+<Synonym>Ciliary Dyskinesia</Synonym>
+<Synonym>Immotile Cilia Syndromes</Synonym>
+<Synonym>Ciliary Dyskinesias</Synonym>
+<Synonym>Ciliary Motility Disorders</Synonym>
+<Description>Conditions caused by abnormal CILIA movement in the body, usually causing KARTAGENER SYNDROME, chronic respiratory disorders, chronic SINUSITIS, and chronic OTITIS. Abnormal ciliary beating is likely due to defects in any of the 200 plus ciliary proteins, such as missing motor enzyme DYNEIN arms.</Description>
+<Source>MeSH</Source>
+</Record>

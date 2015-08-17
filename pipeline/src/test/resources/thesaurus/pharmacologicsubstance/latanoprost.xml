@@ -1,0 +1,24 @@
+<Record>
+<Term>Latanoprost</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Prostaglandin Compound</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-glaucoma Agent/Latanoprost,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Physiology-Regulatory Factor/Eicosanoid/Prostaglandin Compound/Latanoprost</ClassificationPath>
+<BroaderTerm>Eicosanoid</BroaderTerm>
+<BroaderTerm>Physiology-Regulatory Factor</BroaderTerm>
+<BroaderTerm>Anti-glaucoma Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Latanoprost</BroaderTerm>
+<BroaderTerm>Prostaglandin Compound</BroaderTerm>
+<BroaderTerm>Latanoprost,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Xalatan</Synonym>
+<Synonym>LATANOPROST</Synonym>
+<Synonym>Latanoprost</Synonym>
+<Description>A prostaglandin F2alpha analogue and a prostanoid selective FP receptor agonist with an ocular hypertensive effect. Latanoprost increases uveoscleral outflow and thereby reduces intraocular pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,22 @@
+<Record>
+<Term>Slow Virus Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<ChildTerm>Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>AIDS-Related Complex</ChildTerm>
+<ChildTerm>Aleutian Mink Disease</ChildTerm>
+<ChildTerm>Equine Infectious Anemia</ChildTerm>
+<ChildTerm>Pneumonia, Progressive Interstitial, of Sheep</ChildTerm>
+<ChildTerm>Subacute Sclerosing Panencephalitis</ChildTerm>
+<ChildTerm>Simian Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Feline Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Visna</ChildTerm>
+<ChildTerm>Leukoencephalopathy, Progressive Multifocal</ChildTerm>
+<Synonym>Slow Virus Diseases</Synonym>
+<Synonym>Slow Virus Disease</Synonym>
+<Description>Diseases of viral origin, characterized by incubation periods of months to years, insidious onset of clinical manifestations, and protracted clinical course. Though the disease process is protracted, viral multiplication may not be unusually slow. Conventional viruses produce slow virus diseases such as SUBACUTE SCLEROSING PANENCEPHALITIS, progressive multifocal leukoencephalopathy (LEUKOENCEPHALOPATHY, PROGRESSIVE MULTIFOCAL), and AIDS. Diseases produced by unconventional agents were originally considered part of this group. They are now called PRION DISEASES.</Description>
+<Source>MeSH</Source>
+</Record>

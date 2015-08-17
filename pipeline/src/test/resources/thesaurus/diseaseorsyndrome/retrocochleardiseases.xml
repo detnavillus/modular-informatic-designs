@@ -1,0 +1,16 @@
+<Record>
+<Term>Retrocochlear Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Retrocochlear Diseases</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Retrocochlear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<ChildTerm>Auditory Diseases, Central</ChildTerm>
+<ChildTerm>Vestibulocochlear Nerve Diseases</ChildTerm>
+<Synonym>Retrocochlear Diseases</Synonym>
+<Synonym>Retrocochlear Disease</Synonym>
+<Synonym>Retrocochlear Hearing Loss</Synonym>
+<Description>Pathological processes involving the VESTIBULOCOCHLEAR NERVE; BRAINSTEM; or CENTRAL NERVOUS SYSTEM. When hearing loss is due to retrocochlear pathology, it is called retrocochlear hearing loss.</Description>
+<Source>MeSH</Source>
+</Record>

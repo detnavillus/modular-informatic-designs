@@ -1,0 +1,25 @@
+<Record>
+<Term>Amyloid Neuropathies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peripheral Nervous System Diseases</ParentTerm>
+<ParentTerm>Amyloidosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Amyloid Neuropathies</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis/Amyloid Neuropathies</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Amyloid Neuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Amyloidosis</BroaderTerm>
+<ChildTerm>Amyloid Neuropathies, Familial</ChildTerm>
+<Synonym>Amyloid Polyneuropathy</Synonym>
+<Synonym>Secondary Amyloid Neuropathy</Synonym>
+<Synonym>Amyloid Neuropathy</Synonym>
+<Synonym>Amyloid Polyneuropathies</Synonym>
+<Synonym>Amyloid Neuropathies</Synonym>
+<Synonym>Secondary Amyloid Neuropathies</Synonym>
+<Description>Disorders of the peripheral nervous system associated with the deposition of AMYLOID in nerve tissue. Familial, primary (nonfamilial), and secondary forms have been described. Some familial subtypes demonstrate an autosomal dominant pattern of inheritance. Clinical manifestations include sensory loss, mild weakness, autonomic dysfunction, and CARPAL TUNNEL SYNDROME. (Adams et al., Principles of Neurology, 6th ed, p1349)</Description>
+<Source>MeSH</Source>
+</Record>

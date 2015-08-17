@@ -1,0 +1,21 @@
+<Record>
+<Term>Ectopic Atrial Tachycardia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tachycardia, Supraventricular</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Ectopic Atrial</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Supraventricular/Tachycardia, Ectopic Atrial</ClassificationPath>
+<BroaderTerm>Tachycardia, Ectopic Atrial</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Tachycardia, Supraventricular</BroaderTerm>
+<Synonym>Ectopic Atrial Tachycardias</Synonym>
+<Synonym>Atrial Ectopic Tachycardias</Synonym>
+<Synonym>Ectopic Atrial Tachycardia</Synonym>
+<Synonym>Atrial Ectopic Tachycardia</Synonym>
+<Description>Abnormally rapid heartbeats originating from one or more automatic foci (nonsinus pacemakers) in the HEART ATRIUM but away from the SINOATRIAL NODE. Unlike the reentry mechanism, automatic tachycardia speeds up and slows down gradually. The episode is characterized by a HEART RATE between 135 to less than 200 beats per minute and lasting 30 seconds or longer.</Description>
+<Source>MeSH</Source>
+</Record>

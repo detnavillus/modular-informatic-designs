@@ -1,0 +1,18 @@
+<Record>
+<Term>Dissociative Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Dissociative Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Dissociative Disorders</BroaderTerm>
+<ChildTerm>Multiple Personality Disorder</ChildTerm>
+<Synonym>Dissociative Disorders</Synonym>
+<Synonym>Dissociative Disorder</Synonym>
+<Synonym>Dissociative Reaction</Synonym>
+<Synonym>Dissociative Reactions</Synonym>
+<Synonym>Dissociative Hysteria</Synonym>
+<Synonym>Fugue</Synonym>
+<Synonym>Dissociation</Synonym>
+<Description>Sudden temporary alterations in the normally integrative functions of consciousness.</Description>
+<Source>MeSH</Source>
+</Record>

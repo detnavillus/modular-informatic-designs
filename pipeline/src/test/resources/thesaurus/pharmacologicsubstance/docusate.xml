@@ -1,0 +1,22 @@
+<Record>
+<Term>Docusate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Stool Softener</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Stool Softener/Docusate Sodium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Laxative/Stool Softener/Docusate Calcium</ClassificationPath>
+<BroaderTerm>Stool Softener</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Docusate Sodium</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Docusate Calcium</BroaderTerm>
+<BroaderTerm>Laxative</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Docusate Sodium</Synonym>
+<Synonym>Colace</Synonym>
+<Synonym>Surfak</Synonym>
+<Synonym>Docusate Calcium</Synonym>
+<Description>The calcium salt of docusate, a dioctyl salt and an emollient laxative with stool-softening activity. Docusate decreases surface tension and emulsification of fecal matter and allows water to penetrate and mix with stool. As a result, it softens the stool.</Description>
+<Description>The sodium salt of docusate, a dioctyl salt and an emollient laxative with stool-softening activity. Docusate decreases surface tension and emulsification of fecal matter and allows water to penetrate and mix with stool. As a result, it softens the stool.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

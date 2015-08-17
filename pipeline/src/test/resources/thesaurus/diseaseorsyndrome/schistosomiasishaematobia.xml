@@ -1,0 +1,27 @@
+<Record>
+<Term>Schistosomiasis haematobia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urinary Tract Infections</ParentTerm>
+<ParentTerm>Schistosomiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Schistosomiasis/Schistosomiasis haematobia</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urinary Tract Infections/Schistosomiasis haematobia</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urinary Tract Infections/Schistosomiasis haematobia</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Urinary Tract Infections/Schistosomiasis haematobia</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Urinary Tract Infections</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Schistosomiasis</BroaderTerm>
+<BroaderTerm>Schistosomiasis haematobia</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Schistosomiasis haematobia</Synonym>
+<Synonym>Schistosomiasis haematobium</Synonym>
+<Synonym>Urinary Schistosomiasis</Synonym>
+<Description>A human disease caused by the infection of parasitic worms SCHISTOSOMA HAEMATOBIUM. It is endemic in AFRICA and parts of the MIDDLE EAST. Tissue damages most often occur in the URINARY TRACT, specifically the URINARY BLADDER.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,40 @@
+<Record>
+<Term>Torsades de Pointes</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Ventricular Tachycardia</ParentTerm>
+<ParentTerm>Tachycardia, Ventricular</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Ventricular/Torsades de Pointes</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia/Ventricular Tachycardia/Torsades De Pointes</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Arrhythmias, Cardiac/Tachycardia/Tachycardia, Ventricular/Torsades de Pointes</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Ventricular Tachycardia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tachycardia</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Torsades De Pointes</BroaderTerm>
+<BroaderTerm>Arrhythmias, Cardiac</BroaderTerm>
+<BroaderTerm>Tachycardia, Ventricular</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Torsades de Pointes</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<Synonym>TORSADES DE POINTES</Synonym>
+<Synonym>Torsade de Pointes</Synonym>
+<Synonym>Torsades De Pointes</Synonym>
+<Synonym>Torsades-De-Pointes</Synonym>
+<Synonym>Torsades de pointes</Synonym>
+<Synonym>Torsades de Pointes</Synonym>
+<Description>A malignant form of polymorphic ventricular tachycardia that is characterized by HEART RATE between 200 and 250 beats per minute, and QRS complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long QT intervals exceeding 500 milliseconds or BRADYCARDIA. Torsades de pointes may be self-limited or may progress to VENTRICULAR FIBRILLATION.</Description>
+<Description>'Fringe of pointed tips'; An atypical rapid ventricular tachycardia with periodic waxing and waning of amplitude of the QRS complexes on the electrogram as well as rotation of the complexes about the isoelectric line.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,42 @@
+<Record>
+<Term>Peptic Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Acquired Abnormality</SemanticType>
+<ParentTerm>Stomach Diseases</ParentTerm>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ParentTerm>Duodenal Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Gastrointestinal Disorder</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Duodenal Diseases/Peptic Ulcer</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Peptic Ulcer</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Peptic Ulcer</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Peptic Ulcer</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Duodenal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Duodenal Ulcer</ChildTerm>
+<ChildTerm>Esophagitis, Peptic</ChildTerm>
+<ChildTerm>Active Peptic Ulcer</ChildTerm>
+<ChildTerm>Stomach Ulcer</ChildTerm>
+<ChildTerm>Gastric Ulcer</ChildTerm>
+<ChildTerm>Zollinger-Ellison Syndrome</ChildTerm>
+<ChildTerm>Peptic Ulcer Perforation</ChildTerm>
+<Synonym>Peptic Ulcers</Synonym>
+<Synonym>Peptic Ulcer Disease</Synonym>
+<Synonym>Marginal Ulcers</Synonym>
+<Synonym>Gastroduodenal Ulcer</Synonym>
+<Synonym>Peptic Ulcer</Synonym>
+<Synonym>Gastroduodenal Ulcers</Synonym>
+<Synonym>Marginal Ulcer</Synonym>
+<Description>Ulcer that occurs in the regions of the GASTROINTESTINAL TRACT which come into contact with GASTRIC JUICE containing PEPSIN and GASTRIC ACID. It occurs when there are defects in the MUCOSA barrier. The common forms of peptic ulcers are associated with HELICOBACTER PYLORI and the consumption of nonsteroidal anti-inflammatory drugs (NSAIDS).A well-known complication of GASTROENTEROSTOMY. These ulcers occur at the gastrojejunal anastomosis, mostly on the jejunal side.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

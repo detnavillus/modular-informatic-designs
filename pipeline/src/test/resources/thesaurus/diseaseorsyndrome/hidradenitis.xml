@@ -1,0 +1,21 @@
+<Record>
+<Term>Hidradenitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sweat Gland Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sweat Gland Diseases/Hidradenitis</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Hidradenitis</BroaderTerm>
+<BroaderTerm>Sweat Gland Diseases</BroaderTerm>
+<ChildTerm>Hidradenitis Suppurativa</ChildTerm>
+<Synonym>Hidradenitis</Synonym>
+<Synonym>Hidradenitides</Synonym>
+<Synonym>Hydradenitis</Synonym>
+<Synonym>Hydradenitides</Synonym>
+<Synonym>Hidrosadenitis</Synonym>
+<Synonym>Hidrosadenitides</Synonym>
+<Synonym>Neutrophilic Eccrine Hidradenitis</Synonym>
+<Synonym>Neutrophilic Eccrine Hidradenitides</Synonym>
+<Description>The inflammation of a sweat gland (usually of the apocrine type). The condition can be idiopathic or occur as a result of or in association with another underlying condition. Neutrophilic eccrine hidradenitis is a relatively rare variant that has been reported in patients undergoing chemotherapy, usually for non-Hodgkin lymphomas or leukemic conditions.</Description>
+<Source>MeSH</Source>
+</Record>

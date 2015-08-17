@@ -1,0 +1,44 @@
+<Record>
+<Term>Pulmonary Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with the Heart in General</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Hypertension</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Blood Pressure Finding/Hypertension/Pulmonary Hypertension</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Heart in General/Pulmonary Hypertension Adverse Event</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Hypertension, Pulmonary</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Hypertension Adverse Event</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Heart in General</BroaderTerm>
+<BroaderTerm>Pulmonary Hypertension</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Hypertension, Pulmonary</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Blood Pressure Finding</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Persistent Fetal Circulation Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Pulmonary Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Pulmonary Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Pulmonary Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Pulmonary Hypertension</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Pulmonary Hypertension</ChildTerm>
+<Synonym>Pulmonary Hypertension Adverse Event</Synonym>
+<Synonym>Pulmonary hypertension</Synonym>
+<Synonym>Ayerza Syndrome</Synonym>
+<Synonym>Ayerza Arrilaga Syndrome</Synonym>
+<Synonym>Pulmonary Hypertension</Synonym>
+<Synonym>Ayerza-Arrilaga Syndrome</Synonym>
+<Synonym>Ayerza's Syndrome</Synonym>
+<Synonym>Ayerzas Syndrome</Synonym>
+<Description>Increased VASCULAR RESISTANCE in the PULMONARY CIRCULATION, usually secondary to HEART DISEASES or LUNG DISEASES.A syndrome with pathological changes in the pulmonary arteries and impaired PULMONARY CIRCULATION that can be the result of PULMONARY HYPERTENSION. Ayerza syndrome is characterized by slowly developing ASTHMA; BRONCHITIS; DYSPNEA; and CYANOSIS in association with POLYCYTHEMIA.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

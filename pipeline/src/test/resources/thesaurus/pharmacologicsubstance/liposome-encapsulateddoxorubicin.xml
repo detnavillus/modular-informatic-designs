@@ -1,0 +1,19 @@
+<Record>
+<Term>Liposome-Encapsulated Doxorubicin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Liposome-Encapsulated Doxorubicin Citrate</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Liposome-Encapsulated Doxorubicin Citrate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>Liposome-Encapsulated Doxorubicin Citrate</Synonym>
+<Synonym>Myocet</Synonym>
+<Description>A formulation of the citrate salt of the antineoplastic anthracycline antibiotic doxorubicin, encapsulated within liposomes, with antitumor activity. Doxorubicin intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and RNA synthesis. This agent also interacts with cell membrane lipids causing lipid peroxidation. Liposomal delivery of doxorubicin improves drug penetration into tumors and decreases drug clearance, thereby increasing the duration of therapeutic drug effects while lowering the toxicity profile.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

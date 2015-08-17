@@ -1,0 +1,15 @@
+<Record>
+<Term>Potassium Phosphate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Potassium Phosphate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Potassium Phosphate</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Potassium Phosphate</Synonym>
+<Description>An inorganic compound used as a laxative, dietary supplement and for electrolyte-replacement purposes. Phosphate, a predominant intracellular anion, plays an important role in energy storage, osteoblastic and osteoclastic activities, regulating serum calcium concentrations and numerous cellular phosphate-transfer reactions. Potassium phosphate increases fluidity of the intestinal contents by retention of water by osmotic forces, thereby indirectly inducing intestinal smooth muscle constriction.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Central Nervous System Protozoal Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Central Nervous System Parasitic Infections</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Central Nervous System Protozoal Infections</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Parasitic Infections/Central Nervous System Protozoal Infections</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Parasitic Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Protozoal Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Malaria, Cerebral</ChildTerm>
+<ChildTerm>Toxoplasmosis, Cerebral</ChildTerm>
+<ChildTerm>Toxoplasmosis, Congenital</ChildTerm>
+<Synonym>Central Nervous System Protozoal Infections</Synonym>
+<Synonym>Cerebral Protozoal Infections</Synonym>
+<Synonym>Protozoal Meningoencephalitis</Synonym>
+<Synonym>Cerebral Protozoal Infection</Synonym>
+<Synonym>Protozoal Meningoencephalitides</Synonym>
+<Description>Infections of the brain, spinal cord, or meninges by single celled organisms of the former subkingdom known as protozoa. The central nervous system may be the primary or secondary site of protozoal infection. Examples of primary infections include cerebral amebiasis, granulomatous amebic encephalitis, primary amebic meningoencephalitis, and TRYPANOSOMIASIS, AFRICAN. Cerebral malaria, cerebral babesiosis, and chagasic meningoencephalitis are examples of secondary infections. These diseases may occur as OPPORTUNISTIC INFECTIONS or arise in immunocompetent hosts. (From Joynt, Clinical Neurology, 1998, Ch27, pp37-47)</Description>
+<Source>MeSH</Source>
+</Record>

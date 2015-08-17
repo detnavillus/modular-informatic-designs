@@ -1,0 +1,32 @@
+<Record>
+<Term>Trachoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Conjunctivitis, Bacterial</ParentTerm>
+<ParentTerm>Corneal Diseases</ParentTerm>
+<ParentTerm>Chlamydia Infections</ParentTerm>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Bacterial/Trachoma</ClassificationPath>
+<ClassificationPath>Eye Diseases/Corneal Diseases/Trachoma</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Trachoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Trachoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections/Chlamydia Infections/Trachoma</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Trachoma</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Corneal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Chlamydia Infections</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Bacterial</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Trachoma</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<Synonym>Trachomas</Synonym>
+<Synonym>Trachoma</Synonym>
+<Synonym>Egyptian Ophthalmia</Synonym>
+<Description>A chronic infection of the CONJUNCTIVA and CORNEA caused by CHLAMYDIA TRACHOMATIS.</Description>
+<Source>MeSH</Source>
+</Record>

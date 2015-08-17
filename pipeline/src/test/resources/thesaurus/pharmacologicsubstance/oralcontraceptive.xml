@@ -1,0 +1,16 @@
+<Record>
+<Term>Oral Contraceptive</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Hormone Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Miscellaneous Hormone Agent/Oral Contraceptive</ClassificationPath>
+<BroaderTerm>Oral Contraceptive</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Hormone Agent</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Ethinyl Estradiol:Levonorgestrel</ChildTerm>
+<ChildTerm>Ethinyl Estradiol:Norethindrone</ChildTerm>
+<Synonym>Oral Contraceptive</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

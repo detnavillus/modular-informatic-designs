@@ -1,0 +1,16 @@
+<Record>
+<Term>Yttrium Y 90 Monoclonal Antibody Hu3S193</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Yttrium Y 90 Monoclonal Antibody Hu3S193</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Yttrium Y 90 Monoclonal Antibody Hu3S193</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y90 MOAB Hu3S193</Synonym>
+<Synonym>Yttrium Y 90 Monoclonal Antibody Hu3S193</Synonym>
+<Description>A radioimmunotherapeutic agent consisting of a humanized murine monoclonal antibody (hu3S193) directed against the tumor-associated Lewis Y epithelial antigen chelated to the radioisotope yttrium-90.  Yttrium Y 90 monoclonal antibody Hu3S193 binds to Lewis Y epithelial antigen-expressing tumor cells, selectively delivering a cytotoxic dose of beta radiation. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

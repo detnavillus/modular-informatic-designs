@@ -1,0 +1,18 @@
+<Record>
+<Term>Baculovirus CEA Protein Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Baculovirus CEA Protein Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Baculovirus CEA Protein Vaccine</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Baculovirus CEA Protein Vaccine</Synonym>
+<Synonym>CEA Vaccine</Synonym>
+<Description>A vaccine consisting of recombinant carcinoembryonic antigen (CEA) produced by a baculovirus expression system with potential antineoplastic activity. Vaccination with baculovirus CEA protein vaccine may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against CEA positive cells, resulting in decreased tumor growth.  CEA is overexpressed in several cancer cell types, including gastrointestinal, breast, and non-small cell lung cancers. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Primary Hyperparathyroidism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperparathyroidism</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Parathyroid Diseases/Hyperparathyroidism/Hyperparathyroidism, Primary</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Neck Disorder/Parathyroid Gland Disorder/Non-Neoplastic Parathyroid Gland Disorder/Hyperparathyroidism/Primary Hyperparathyroidism</ClassificationPath>
+<BroaderTerm>Parathyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Parathyroid Gland Disorder</BroaderTerm>
+<BroaderTerm>Parathyroid Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Neck Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism, Primary</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Primary Hyperparathyroidism</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Hyperparathyroidism</BroaderTerm>
+<Synonym>Primary Hyperparathyroidism</Synonym>
+<Synonym>Primary Hyperparathyroidisms</Synonym>
+<Description>A condition of abnormally elevated output of PARATHYROID HORMONE due to parathyroid HYPERPLASIA or PARATHYROID NEOPLASMS. It is characterized by the combination of HYPERCALCEMIA, phosphaturia, elevated renal 1,25-DIHYDROXYVITAMIN D3 synthesis, and increased BONE RESORPTION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

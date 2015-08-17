@@ -1,0 +1,27 @@
+<Record>
+<Term>Tolterodine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Antimuscarinic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Antimuscarinic Agent/Tolterodine Tartrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Antimuscarinic Agent/Tolterodine</ClassificationPath>
+<BroaderTerm>Tolterodine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Tolterodine Tartrate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Antimuscarinic Agent</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Tolterodine</Synonym>
+<Synonym>Detrol</Synonym>
+<Synonym>Tolterodine tartrate</Synonym>
+<Synonym>Tolterodine Tartrate</Synonym>
+<Synonym>Detrol la</Synonym>
+<Synonym>TOLTERODINE TARTRATE</Synonym>
+<Synonym>TOLTERODINE</Synonym>
+<Description>The tartrate salt form of tolterodine, a benzhydryl compound and a muscarinic receptor antagonist possessing both antimuscarinic and antispasmodic properties. Both tolterodine and its active metabolite, 5-hydroxymethyltolterodine, competitively blocks muscarinic receptors, thereby inhibiting acetylcholine receptor binding. This antagonistic action results in an increase in residual urine, reflecting an incomplete emptying of the bladder, and a decrease in detrusor pressure, indicating an antimuscarinic action on the lower urinary tract.. The 5-hydroxymethyl metabolite appears to contribute significantly to the therapeutic effects.</Description>
+<Description>A benzhydryl compound and a muscarinic receptor antagonist possessing both antimuscarinic and antispasmodic properties. Both tolterodine and its active metabolite, 5-hydroxymethyltolterodine, competitively blocks muscarinic receptors, thereby inhibiting acetylcholine binding. This antagonistic action results in an increase in residual urine, reflecting an incomplete emptying of the bladder, and a decrease in detrusor pressure, indicating an antimuscarinic action on the lower urinary tract. The 5-hydroxymethyl metabolite appears to contribute significantly to the therapeutic effects.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

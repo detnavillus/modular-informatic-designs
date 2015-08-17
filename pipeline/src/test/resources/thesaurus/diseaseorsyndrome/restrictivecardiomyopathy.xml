@@ -1,0 +1,44 @@
+<Record>
+<Term>Restrictive Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with the Heart in General</ParentTerm>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Heart in General/Restrictive Cardiomyopathy Adverse Event</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Cardiomyopathy, Restrictive</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Restrictive Cardiomyopathy</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Heart in General</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Restrictive Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Restrictive Cardiomyopathy Adverse Event</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Restrictive</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 4 Restrictive Cardiomyopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Restrictive Cardiomyopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Restrictive Cardiomyopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Restrictive Cardiomyopathy</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Restrictive Cardiomyopathy</ChildTerm>
+<Synonym>Restrictive Cardiomyopathy Adverse Event</Synonym>
+<Synonym>Restrictive Cardiomyopathies</Synonym>
+<Synonym>Restrictive cardiomyopathy</Synonym>
+<Synonym>Restrictive Cardiomyopathy</Synonym>
+<Description>A form of CARDIAC MUSCLE disease in which the ventricular walls are excessively rigid, impeding ventricular filling. It is marked by reduced diastolic volume of either or both ventricles but normal or nearly normal systolic function. It may be idiopathic or associated with other diseases (ENDOMYOCARDIAL FIBROSIS or AMYLOIDOSIS) causing interstitial fibrosis.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

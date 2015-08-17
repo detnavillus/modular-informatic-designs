@@ -1,0 +1,36 @@
+<Record>
+<Term>Paraneoplastic Cerebellar Degeneration</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paraneoplastic Syndromes, Nervous System</ParentTerm>
+<ParentTerm>Paraneoplastic Syndrome</ParentTerm>
+<ParentTerm>Cerebellar Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Paraneoplastic Syndrome/Paraneoplastic Cerebellar Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebellar Diseases/Paraneoplastic Cerebellar Degeneration</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Cerebellar Degeneration</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Site/Nervous System Neoplasms/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Cerebellar Degeneration</ClassificationPath>
+<ClassificationPath>Neoplasms/Paraneoplastic Syndromes/Paraneoplastic Syndromes, Nervous System/Paraneoplastic Cerebellar Degeneration</ClassificationPath>
+<BroaderTerm>Nervous System Neoplasms</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebellar Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndromes, Nervous System</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms by Site</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Paraneoplastic Cerebellar Degeneration</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Paraneoplastic Syndrome</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Paraneoplastic Cerebellar Degeneration</Synonym>
+<Synonym>Anti Yo Associated Paraneoplastic Cerebellar Degeneration</Synonym>
+<Synonym>Paraneoplastic Cerebellar Syndrome</Synonym>
+<Synonym>Anti-Yo-Associated Paraneoplastic Cerebellar Degeneration</Synonym>
+<Synonym>Paraneoplastic Cerebellar Syndromes</Synonym>
+<Description>Cerebellar degeneration associated with a remote neoplasm. Clinical manifestations include progressive limb and GAIT ATAXIA; DYSARTHRIA; and NYSTAGMUS, PATHOLOGIC. The histologic type of the associated neoplasm is usually carcinoma or lymphoma. Pathologically the cerebellar cortex and subcortical nuclei demonstrate diffuse degenerative changes. Anti-Purkinje cell antibodies (anti-Yo) are found in the serum of approximately 50% of affected individuals. (Adams et al., Principles of Neurology, 6th ed, p686)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

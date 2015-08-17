@@ -1,0 +1,34 @@
+<Record>
+<Term>Benign Neonatal Epilepsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infant, Newborn, Diseases</ParentTerm>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Epilepsy, Benign Neonatal</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Infant, Newborn, Diseases/Epilepsy, Benign Neonatal</ClassificationPath>
+<BroaderTerm>Infant, Newborn, Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy, Benign Neonatal</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Benign Neonatal Nonfamilial Epilepsy</Synonym>
+<Synonym>Benign Non-Familial Neonatal Convulsions</Synonym>
+<Synonym>Familial Benign Neonatal Convulsions</Synonym>
+<Synonym>Benign Neonatal Epilepsies</Synonym>
+<Synonym>Benign Neonatal Non Familial Convulsions</Synonym>
+<Synonym>Non-Familial Benign Neonatal Convulsions</Synonym>
+<Synonym>Benign Familial Neonatal Epilepsy</Synonym>
+<Synonym>Benign Neonatal Non-Familial Convulsions</Synonym>
+<Synonym>Non Familial Benign Neonatal Epilepsy</Synonym>
+<Synonym>Non-Familial Benign Neonatal Epilepsy</Synonym>
+<Synonym>Non Familial Benign Neonatal Convulsions</Synonym>
+<Synonym>Benign Neonatal Epilepsy</Synonym>
+<Synonym>Benign Neonatal Convulsions</Synonym>
+<Synonym>Benign Non Familial Neonatal Convulsions</Synonym>
+<Synonym>Familial Benign Neonatal Epilepsy</Synonym>
+<Synonym>Benign Neonatal Convulsion</Synonym>
+<Synonym>Benign Familial Neonatal Convulsions</Synonym>
+<Description>A condition marked by recurrent seizures that occur during the first 4-6 weeks of life despite an otherwise benign neonatal course. Autosomal dominant familial and sporadic forms have been identified. Seizures generally consist of brief episodes of tonic posturing and other movements, apnea, eye deviations, and blood pressure fluctuations. These tend to remit after the 6th week of life. The risk of developing epilepsy at an older age is moderately increased in the familial form of this disorder. (Neurologia 1996 Feb;11(2):51-5)</Description>
+<Source>MeSH</Source>
+</Record>

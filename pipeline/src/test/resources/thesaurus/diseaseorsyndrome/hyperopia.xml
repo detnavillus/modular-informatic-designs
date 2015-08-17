@@ -1,0 +1,14 @@
+<Record>
+<Term>Hyperopia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Refractive Errors</ParentTerm>
+<ClassificationPath>Eye Diseases/Refractive Errors/Hyperopia</ClassificationPath>
+<BroaderTerm>Hyperopia</BroaderTerm>
+<BroaderTerm>Refractive Errors</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Hyperopia</Synonym>
+<Synonym>Farsightedness</Synonym>
+<Synonym>Hypermetropia</Synonym>
+<Description>A refractive error in which rays of light entering the eye parallel to the optic axis are brought to a focus behind the retina, as a result of the eyeball being too short from front to back. It is also called farsightedness because the near point is more distant than it is in emmetropia with an equal amplitude of accommodation. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

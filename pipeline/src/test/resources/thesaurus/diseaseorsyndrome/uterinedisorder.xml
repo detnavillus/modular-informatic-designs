@@ -1,0 +1,20 @@
+<Record>
+<Term>Uterine Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Reproductive System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cervical Disorder</ChildTerm>
+<ChildTerm>Uterine Non-Neoplastic Disorder</ChildTerm>
+<ChildTerm>Uterine Polyp</ChildTerm>
+<ChildTerm>Endometrial Disorder</ChildTerm>
+<Synonym>Uterine Disease</Synonym>
+<Synonym>Uterine Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

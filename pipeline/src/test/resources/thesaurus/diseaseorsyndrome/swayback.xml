@@ -1,0 +1,20 @@
+<Record>
+<Term>Swayback</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sheep Diseases</ParentTerm>
+<ParentTerm>Deficiency Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Sheep Diseases/Swayback</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Swayback</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Sheep Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Swayback</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Enzootic Ataxias</Synonym>
+<Synonym>Enzootic Ataxia</Synonym>
+<Synonym>Swayback</Synonym>
+<Description>Congenital locomotor ataxia of lambs, thought to be associated with copper deficiency. It is characterized clinically by progressive incoordination of the hind limbs and pathologically by disruption of neuron and myelin development in the central nervous system. It is caused by a deficiency of metabolizable copper in the ewe during the last half of her pregnancy. (Dorland, 28th ed; Stedman, 26th ed)</Description>
+<Source>MeSH</Source>
+</Record>

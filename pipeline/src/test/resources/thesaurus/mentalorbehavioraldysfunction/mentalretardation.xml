@@ -1,0 +1,37 @@
+<Record>
+<Term>Mental Retardation</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Neurobehavioral Manifestations</ParentTerm>
+<ParentTerm>Mental Disorders Diagnosed in Childhood</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Neurobehavioral Manifestations/Mental Retardation</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Neurobehavioral Manifestations/Mental Retardation</ClassificationPath>
+<ClassificationPath>Mental Disorders/Mental Disorders Diagnosed in Childhood/Mental Retardation</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Mental Retardation</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Mental Retardation</BroaderTerm>
+<BroaderTerm>Mental Disorders Diagnosed in Childhood</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Down Syndrome</ChildTerm>
+<ChildTerm>Prader-Willi Syndrome</ChildTerm>
+<ChildTerm>Williams Syndrome</ChildTerm>
+<ChildTerm>Mental Retardation, X-Linked</ChildTerm>
+<ChildTerm>WAGR Syndrome</ChildTerm>
+<ChildTerm>De Lange Syndrome</ChildTerm>
+<ChildTerm>Rubinstein-Taybi Syndrome</ChildTerm>
+<ChildTerm>Cri-du-Chat Syndrome</ChildTerm>
+<Synonym>Mental Deficiency</Synonym>
+<Synonym>Mental Retardation</Synonym>
+<Synonym>Intellectual Disabilities</Synonym>
+<Synonym>Mental Deficiencies</Synonym>
+<Synonym>Psychosocial Mental Retardations</Synonym>
+<Synonym>Idiocy</Synonym>
+<Synonym>Psychosocial Mental Retardation</Synonym>
+<Synonym>Intellectual Disability</Synonym>
+<Description>Subnormal intellectual functioning which originates during the developmental period. This has multiple potential etiologies, including genetic defects and perinatal insults. Intelligence quotient (IQ) scores are commonly used to determine whether an individual is mentally retarded. IQ scores between 70 and 79 are in the borderline mentally retarded range. Scores below 67 are in the retarded range. (Joynt, Clinical Neurology, 1992, Ch55, p28)</Description>
+<Source>MeSH</Source>
+</Record>

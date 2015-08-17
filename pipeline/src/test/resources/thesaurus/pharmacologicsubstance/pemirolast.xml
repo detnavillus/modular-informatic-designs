@@ -1,0 +1,28 @@
+<Record>
+<Term>Pemirolast</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Mast Cell Stabilizer</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Mast Cell Stabilizer/Pemirolast Potassium</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Mast Cell Stabilizer/Pemirolast</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Mast Cell Stabilizer</BroaderTerm>
+<BroaderTerm>Pemirolast</BroaderTerm>
+<BroaderTerm>Pemirolast Potassium</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Alamast</Synonym>
+<Synonym>4H-Pyrido(1,2-a)pyrimidin-4-one, 9-methyl-3-(1H-tetrazol-5-yl)-, Potassium Salt</Synonym>
+<Synonym>PEMIROLAST</Synonym>
+<Synonym>PEMIROLAST POTASSIUM</Synonym>
+<Synonym>Pemilaston</Synonym>
+<Synonym>Pemirolast potassium</Synonym>
+<Synonym>Pemirolast</Synonym>
+<Synonym>Pemirolast Potassium</Synonym>
+<Description>The potassium salt form of pemirolast, a pyrimidinone derivative with antiallergic property. Pemirolast potassium exerts its action by blocking the antigen-mediated calcium ion influx into mast cells. This prevents mast cell degranulation, resulting in mast cell stabilization and inhibition of the release of inflammatory mediators, histamine and leukotrienes, which are involved in the allergic process. Pemirolast potassium also prevents inflammatory mediator release from eosinophils.</Description>
+<Description>A pyrimidinone derivative with anti-allergic activity. Pemirolast blocks the antigen-mediated calcium ion influx into mast cells. This prevents mast cell degranulation, resulting in mast cell stabilization and inhibition of the release of inflammatory mediators, such as histamine and leukotrienes, which are involved in the allergic process. Pemirolast also prevents inflammatory mediator release from eosinophils.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

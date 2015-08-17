@@ -1,0 +1,22 @@
+<Record>
+<Term>Kidney Failure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Insufficiency</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Kidney Failure</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Failure</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Kidney Failure, Acute</ChildTerm>
+<ChildTerm>Kidney Failure, Chronic</ChildTerm>
+<Synonym>Renal Failures</Synonym>
+<Synonym>Kidney Failure</Synonym>
+<Synonym>Kidney Failures</Synonym>
+<Synonym>Renal Failure</Synonym>
+<Description>A severe irreversible decline in the ability of kidneys to remove wastes, concentrate URINE, and maintain ELECTROLYTE BALANCE; BLOOD PRESSURE; and CALCIUM metabolism. Renal failure, either acute (KIDNEY FAILURE, ACUTE) or chronic (KIDNEY FAILURE, CHRONIC), requires HEMODIALYSIS.</Description>
+<Source>MeSH</Source>
+</Record>

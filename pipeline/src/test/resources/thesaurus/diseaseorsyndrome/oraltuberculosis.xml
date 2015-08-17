@@ -1,0 +1,21 @@
+<Record>
+<Term>Oral Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Tuberculosis, Oral</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Oral</ClassificationPath>
+<BroaderTerm>Tuberculosis, Oral</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Oral Tuberculoses</Synonym>
+<Synonym>Oral Tuberculosis</Synonym>
+<Description>Tuberculosis of the mouth, tongue, and salivary glands.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Cyanocobalamin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Vitamin</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cobalamin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Food or Food Substance/Food Component/Bioactive Food Component/Vitamin/Water-Soluble Vitamin/B Vitamin/Cobalamin/Cyanocobalamin</ClassificationPath>
+<BroaderTerm>Cyanocobalamin</BroaderTerm>
+<BroaderTerm>Cobalamin</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Food Component</BroaderTerm>
+<BroaderTerm>Vitamin</BroaderTerm>
+<BroaderTerm>Bioactive Food Component</BroaderTerm>
+<BroaderTerm>Food or Food Substance</BroaderTerm>
+<BroaderTerm>Water-Soluble Vitamin</BroaderTerm>
+<BroaderTerm>B Vitamin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Nascobal</Synonym>
+<Synonym>Calomist</Synonym>
+<Synonym>Rubivite</Synonym>
+<Synonym>Cyanocobalamin</Synonym>
+<Synonym>Redisol</Synonym>
+<Synonym>Rubramin pc</Synonym>
+<Synonym>Berubigen</Synonym>
+<Synonym>Ruvite</Synonym>
+<Synonym>Cobavite</Synonym>
+<Synonym>Betalin 12</Synonym>
+<Synonym>Vi-twel</Synonym>
+<Synonym>Vibisone</Synonym>
+<Synonym>CYANOCOBALAMIN</Synonym>
+<Description>An essential nutrient and natural water-soluble vitamin of the B-complex family that must combine with an intrinsic factor for absorption by the intestine. Cyanocobalamin is necessary for hematopoiesis, neural metabolism, DNA and RNA production, and carbohydrate, fat, and protein metabolism. B12 improves iron functions in the metabolic cycle and assists folic acid in choline synthesis. B12 metabolism is interconnected with that of folic acid. Vitamin B12 deficiency causes pernicious anemia, megaloblastic anemia, and neurologic lesions. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,27 @@
+<Record>
+<Term>Whipple Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinomycosis</ParentTerm>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Whipple Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Actinomycosis/Whipple Disease</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Whipple Disease</ClassificationPath>
+<BroaderTerm>Actinomycosis</BroaderTerm>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Whipple Disease</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Intestinal Lipodystrophy</Synonym>
+<Synonym>Whipple's Disease</Synonym>
+<Synonym>Whipples Disease</Synonym>
+<Synonym>Whipple Disease</Synonym>
+<Description>A chronic systemic infection by a gram-positive bacterium, Tropheryma whippelii, mainly affecting the SMALL INTESTINE but also the JOINTS; CARDIOVASCULAR SYSTEM; and the CENTRAL NERVOUS SYSTEM. The disease is characterized by fat deposits in the INTESTINAL MUCOSA and LYMPH NODES, malabsorption, DIARRHEA with fatty stools, MALNUTRITION, and ARTHRITIS.</Description>
+<Source>MeSH</Source>
+</Record>

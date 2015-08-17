@@ -1,0 +1,16 @@
+<Record>
+<Term>Ingenol 3-Angelate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Ingenol 3-Angelate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Ingenol 3-Angelate</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I3A</Synonym>
+<Synonym>Ingenol 3-Angelate</Synonym>
+<Synonym>PEP005</Synonym>
+<Description>A selective small-molecule activator of protein kinase C (PKC) isolated from the plant Euphorbia peplus with potential antineoplastic activity. Ingenol 3-angelate (I3A) activates various protein kinase C (PKC) isoforms, thereby inducing apoptosis in some tumor cells, including myeloid leukemia cells, melanoma cells, and basal cell carcinoma cells. The PKC family consists of signaling isoenzymes that regulate many cell processes including proliferation, differentiation, and apoptosis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

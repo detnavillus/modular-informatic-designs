@@ -1,0 +1,16 @@
+<Record>
+<Term>Cathartics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gastrointestinal Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Gastrointestinal Agents/Cathartics</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Cathartics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Gastrointestinal Agents</BroaderTerm>
+<Synonym>Cathartics</Synonym>
+<Synonym>Purgatives</Synonym>
+<Synonym>Bowel Evacuants</Synonym>
+<Description>Agents that are used to evacuate the bowels to eliminate ingested NOXAE or to prepare for COLONOSCOPY.</Description>
+<Source>MeSH</Source>
+</Record>

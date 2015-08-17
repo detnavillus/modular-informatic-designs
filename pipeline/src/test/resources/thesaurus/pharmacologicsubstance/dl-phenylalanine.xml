@@ -1,0 +1,17 @@
+<Record>
+<Term>DL-Phenylalanine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Amino Acid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid/DL-Phenylalanine</ClassificationPath>
+<BroaderTerm>Amino Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>DL-Phenylalanine</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DL-Phenylalanine</Synonym>
+<Synonym>PHENYLALANINE, DL-</Synonym>
+<Description>A racemic mixture of phenylalanine, an aromatic amino acid with antidepressant, analgesic and appetite suppressant properties. The antidepressant effect of DL-phenylalanine may be accounted for by its precursor role in the synthesis of the neurotransmitters norepinephrine and dopamine. Elevated brain norepinephrine and dopamine levels are thought to be associated with antidepressant effects. This agent also plays a role in alleviating mood swings of premenstrual syndrome (PMS), increasing energy and mental alertness and heighten the ability to focus in individuals with attention deficit hyperactivity disorder (ADHD).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

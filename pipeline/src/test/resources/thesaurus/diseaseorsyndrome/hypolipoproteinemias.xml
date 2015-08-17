@@ -1,0 +1,25 @@
+<Record>
+<Term>Hypolipoproteinemias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lipid Metabolism, Inborn Errors</ParentTerm>
+<ParentTerm>Dyslipidemias</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Dyslipidemias/Hypolipoproteinemias</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Hypolipoproteinemias</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Hypolipoproteinemias</BroaderTerm>
+<BroaderTerm>Dyslipidemias</BroaderTerm>
+<ChildTerm>Hypoalphalipoproteinemias</ChildTerm>
+<ChildTerm>Hypobetalipoproteinemias</ChildTerm>
+<Synonym>Hypolipoproteinemia</Synonym>
+<Synonym>Hypolipoproteinemias</Synonym>
+<Synonym>Hypoprebetalipoproteinemia</Synonym>
+<Description>Conditions with abnormally low levels of LIPOPROTEINS in the blood. This may involve any of the lipoprotein subclasses, including ALPHA-LIPOPROTEINS (high-density lipoproteins); BETA-LIPOPROTEINS (low-density lipoproteins); and PREBETA-LIPOPROTEINS (very-low-density lipoproteins).A condition with abnormally low levels of PREBETA-LIPOPROTEINS in the blood.</Description>
+<Source>MeSH</Source>
+</Record>

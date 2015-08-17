@@ -1,0 +1,28 @@
+<Record>
+<Term>Hepatic Echinococcosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Echinococcosis</ParentTerm>
+<ParentTerm>Liver Diseases, Parasitic</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Diseases, Parasitic/Echinococcosis, Hepatic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Cestode Infections/Echinococcosis/Echinococcosis, Hepatic</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Liver Diseases, Parasitic/Echinococcosis, Hepatic</ClassificationPath>
+<BroaderTerm>Cestode Infections</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Echinococcosis, Hepatic</BroaderTerm>
+<BroaderTerm>Echinococcosis</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Hepatic Echinococcosis</Synonym>
+<Synonym>Hepatic Hydatid Cysts</Synonym>
+<Synonym>Hepatic Hydatidoses</Synonym>
+<Synonym>Hepatic Echinococcoses</Synonym>
+<Synonym>Hepatic Hydatidosis</Synonym>
+<Synonym>Hepatic Alveolar Echinococcosis</Synonym>
+<Synonym>Hepatic Alveolar Echinococcoses</Synonym>
+<Synonym>Hepatic Hydatid Cyst</Synonym>
+<Synonym>Hepatic Alveolar Echinococcis</Synonym>
+<Description>Liver disease caused by infections with parasitic tapeworms of the genus ECHINOCOCCUS, such as Echinococcus granulosus or Echinococcus multilocularis. Ingested Echinococcus ova burrow into the intestinal mucosa. The larval migration to the liver via the PORTAL VEIN leads to watery vesicles (HYDATID CYST).</Description>
+<Source>MeSH</Source>
+</Record>

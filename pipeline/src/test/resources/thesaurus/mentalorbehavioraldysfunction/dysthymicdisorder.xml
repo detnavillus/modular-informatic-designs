@@ -1,0 +1,21 @@
+<Record>
+<Term>Dysthymic Disorder</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Psychiatric Disorder</ParentTerm>
+<ParentTerm>Depressive Disorder</ParentTerm>
+<ClassificationPath>Mental Disorders/Mood Disorders/Depressive Disorder/Dysthymic Disorder</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Dysthymic Disorder</ClassificationPath>
+<BroaderTerm>Dysthymic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Depressive Disorder</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Mood Disorders</BroaderTerm>
+<Synonym>Dysthymic Disorder</Synonym>
+<Synonym>Dysthymic Disorders</Synonym>
+<Description>Chronically depressed mood that occurs for most of the day more days than not for at least 2 years. The required minimum duration in children to make this diagnosis is 1 year. During periods of depressed mood, at least 2 of the following additional symptoms are present: poor appetite or overeating, insomnia or hypersomnia, low energy or fatigue, low self esteem, poor concentration or difficulty making decisions, and feelings of hopelessness. (DSM-IV)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,58 @@
+<Record>
+<Term>Thyrotropin-Releasing Hormone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<SemanticType>Neuroreactive Substance or Biogenic Amine</SemanticType>
+<ParentTerm>Pituitary Hormone-Releasing Hormones</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Oligopeptides</ParentTerm>
+<ParentTerm>Neuropeptides</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Peptides/Oligopeptides/Thyrotropin-Releasing Hormone</ClassificationPath>
+<ClassificationPath>Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Peptide Hormones/Hypothalamic Hormones/Pituitary Hormone-Releasing Hormones/Thyrotropin-Releasing Hormone</ClassificationPath>
+<ClassificationPath>Thyrotropin Releasing Hormone</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Peptides/Peptide Hormones/Hypothalamic Hormones/Pituitary Hormone-Releasing Hormones/Thyrotropin-Releasing Hormone</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Peptides/Neuropeptides/Hypothalamic Hormones/Pituitary Hormone-Releasing Hormones/Thyrotropin-Releasing Hormone</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Nerve Tissue Proteins/Neuropeptides/Thyrotropin-Releasing Hormone</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Nerve Tissue Proteins/Neuropeptides/Hypothalamic Hormones/Pituitary Hormone-Releasing Hormones/Thyrotropin-Releasing Hormone</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Pituitary Hormone-Releasing Hormones</BroaderTerm>
+<BroaderTerm>Peptides</BroaderTerm>
+<BroaderTerm>Hypothalamic Hormones</BroaderTerm>
+<BroaderTerm>Neuropeptides</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Oligopeptides</BroaderTerm>
+<BroaderTerm>Thyrotropin-Releasing Hormone</BroaderTerm>
+<BroaderTerm>Peptide Hormones</BroaderTerm>
+<BroaderTerm>Nerve Tissue Proteins</BroaderTerm>
+<BroaderTerm>Thyrotropin Releasing Hormone</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<Synonym>Thyrotropin Releasing Factor</Synonym>
+<Synonym>Thyroliberin TRH Merck</Synonym>
+<Synonym>Thypinone</Synonym>
+<Synonym>Thyroliberin</Synonym>
+<Synonym>TRH Ferring</Synonym>
+<Synonym>Protirelin</Synonym>
+<Synonym>Abbott 38579</Synonym>
+<Synonym>Abbott-38579</Synonym>
+<Synonym>Relefact TRH</Synonym>
+<Synonym>Stimu TSH</Synonym>
+<Synonym>StimuTSH</Synonym>
+<Synonym>Abbott38579</Synonym>
+<Synonym>Antepan</Synonym>
+<Synonym>Thyrotropin-Releasing Hormone</Synonym>
+<Synonym>Thyrotropin Releasing Hormone</Synonym>
+<Synonym>Protirelin Tartrate (1:1)</Synonym>
+<Synonym>Thyrotropin-Releasing Factor</Synonym>
+<Synonym>TRH</Synonym>
+<Synonym>Stimu-TSH</Synonym>
+<Synonym>Proterelin Tartrate</Synonym>
+<Synonym>Thyrotropin Releasing Hormone Tartrate</Synonym>
+<Synonym>Thyrotropin-Releasing Hormone Tartrate</Synonym>
+<Synonym>TRH Prem</Synonym>
+<Description>A tripeptide that stimulates the release of THYROTROPIN and PROLACTIN. It is synthesized by the neurons in the PARAVENTRICULAR NUCLEUS of the HYPOTHALAMUS. After being released into the pituitary portal circulation, TRH (was called TRF) stimulates the release of TSH and PRL from the ANTERIOR PITUITARY GLAND.</Description>
+<Description>Expressed (highest) in the medial hypothalamic paraventricular nuclei and median eminence by human TRH Gene, 242-aa 27-kDa (precursor) (prepro-)Thyrotropin-Releasing Hormone is a major regulator of TSH biosynthesis and release in the anterior pituitary gland and neurotransmitter/neuromodulator in the central and peripheral nervous systems. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

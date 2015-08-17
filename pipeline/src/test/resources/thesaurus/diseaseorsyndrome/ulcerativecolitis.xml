@@ -1,0 +1,34 @@
+<Record>
+<Term>Ulcerative Colitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Inflammatory Bowel Disease</ParentTerm>
+<ParentTerm>Colitis</ParentTerm>
+<ParentTerm>Inflammatory Bowel Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Colitis/Colitis, Ulcerative</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Colonic Diseases/Colitis/Colitis, Ulcerative</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Inflammatory Bowel Diseases/Colitis, Ulcerative</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Inflammatory Bowel Diseases/Colitis, Ulcerative</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Intestinal Precancerous Condition/Inflammatory Bowel Disease/Ulcerative Colitis</ClassificationPath>
+<BroaderTerm>Colitis, Ulcerative</BroaderTerm>
+<BroaderTerm>Colonic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Colitis</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Disease</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Ulcerative Colitis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<Synonym>ulcerative colitis</Synonym>
+<Synonym>Ulcerative Colitis</Synonym>
+<Description>Inflammation of the COLON that is predominantly confined to the MUCOSA. Its major symptoms include DIARRHEA, rectal BLEEDING, the passage of MUCUS, and ABDOMINAL PAIN.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

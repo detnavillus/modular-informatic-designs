@@ -1,0 +1,16 @@
+<Record>
+<Term>2-Methoxyestradiol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>2-Methoxyestradiol</ClassificationPath>
+<BroaderTerm>2-Methoxyestradiol</BroaderTerm>
+<Synonym>(17beta)-2-Methoxyestra-1,3,5(10)-triene-3,17-diol</Synonym>
+<Synonym>2-Methoxy Estradiol</Synonym>
+<Synonym>2-Methoxyestradiol</Synonym>
+<Synonym>2-methoxyestradiol</Synonym>
+<Synonym>2ME2</Synonym>
+<Synonym>Panzem</Synonym>
+<Description>An orally bioavailable estradiol metabolite with potential antineoplastic activity.  2-Methoxyestradiol inhibits angiogenesis by reducing endothelial cell proliferation and inducing endothelial cell apoptosis.  This agent also inhibits tumor cell growth by binding to tubulin, resulting in antimitotic activity, and by inducing caspase activation, resulting in cell cycle arrest in the G2 phase, DNA fragmentation, and apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

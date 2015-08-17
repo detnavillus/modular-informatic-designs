@@ -1,0 +1,44 @@
+<Record>
+<Term>Endometrial Hyperplasia</Term>
+<SemanticType>Pathologic Function</SemanticType>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperplasia</ParentTerm>
+<ParentTerm>Uterine Diseases</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases/Endometrial Hyperplasia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Hyperplasia/Endometrial Hyperplasia,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Endometrial Disorder/Endometrial Hyperplasia</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hyperplasia</BroaderTerm>
+<BroaderTerm>Endometrial Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Endometrial Hyperplasia</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Endometrial Hyperplasia,</BroaderTerm>
+<ChildTerm>Atypical Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Cystic Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Complex Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Simple Endometrial Hyperplasia</ChildTerm>
+<ChildTerm>Endometrial Hyperplasia without Atypia</ChildTerm>
+<Synonym>Atypical Endometrial Hyperplasia</Synonym>
+<Synonym>Hyperplasia of Endometrium</Synonym>
+<Synonym>Atypical Endometrial Hyperplasias</Synonym>
+<Synonym>Endometrial Hyperplasia</Synonym>
+<Synonym>Hyperplasia of the Endometrium</Synonym>
+<Synonym>Complex Endometrial Hyperplasia</Synonym>
+<Synonym>Endometrial Hyperplasias</Synonym>
+<Synonym>Simple Endometrial Hyperplasia</Synonym>
+<Synonym>Simple Endometrial Hyperplasias</Synonym>
+<Synonym>Complex Endometrial Hyperplasias</Synonym>
+<Description>A proliferation of the endometrial cells resulting in glandular enlargement and budding.  The proliferation may or may not be associated with atypia of the endometrial cells.  When the hyperplastic changes are excessive, there is formation of complex epithelial structures (complex endometrial hyperplasia). --2003</Description>
+<Description>Benign proliferation of the ENDOMETRIUM in the UTERUS. Endometrial hyperplasia is classified by its cytology and glandular tissue. There are simple, complex (adenomatous without atypia), and atypical hyperplasia representing also the ascending risk of becoming malignant.A benign form of endometrial hyperplasia with increased number of cells with atypia. The atypical cells are large and irregular and have an increased nuclear/cytoplasmic ratio. The risk of progression to endometrial carcinoma rises with the increasing degree of cell atypia.A benign form of endometrial hyperplasia with crowded endometrial glands and little stroma between the glands. Complex hyperplasia has low risk of progression to endometrial carcinoma.A benign form of endometrial hyperplasia with increased number of endometrial glands and thickened endometrium. Simple hyperplasia has little risk of progression to endometrial carcinoma.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

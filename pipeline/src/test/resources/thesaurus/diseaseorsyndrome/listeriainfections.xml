@@ -1,0 +1,15 @@
+<Record>
+<Term>Listeria Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gram-Positive Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Listeria Infections</ClassificationPath>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Listeria Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Meningitis, Listeria</ChildTerm>
+<Synonym>Listeria Infections</Synonym>
+<Synonym>Listeria Infection</Synonym>
+<Description>Infections with bacteria of the genus LISTERIA.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Intracranial Embolism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Embolism and Thrombosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Embolism</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Embolism</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Intracranial Embolism</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Intracranial Embolism</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thromboembolism</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism and Thrombosis</BroaderTerm>
+<Synonym>Brain Emboli</Synonym>
+<Synonym>Cerebral Emboli</Synonym>
+<Synonym>Brain Embolism</Synonym>
+<Synonym>Cerebral Embolus</Synonym>
+<Synonym>Brain Embolus</Synonym>
+<Synonym>Cerebral Embolism</Synonym>
+<Synonym>Intracranial Embolism</Synonym>
+<Description>Blocking of a blood vessel in the SKULL by an EMBOLUS which can be a blood clot (THROMBUS) or other undissolved material in the blood stream. Most emboli are of cardiac origin and are associated with HEART DISEASES. Other non-cardiac sources of emboli are usually associated with VASCULAR DISEASES.</Description>
+<Source>MeSH</Source>
+</Record>

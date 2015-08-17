@@ -1,0 +1,25 @@
+<Record>
+<Term>Urethral Stricture</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Urethral Obstruction</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urethral Diseases/Urethral Obstruction/Urethral Stricture</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urethral Diseases/Urethral Obstruction/Urethral Stricture</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urethral Obstruction</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Urethral Stricture</BroaderTerm>
+<BroaderTerm>Urethral Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>Posterior Urethral Strictures</Synonym>
+<Synonym>Posterior Urethral Stricture</Synonym>
+<Synonym>Urethral Stricture</Synonym>
+<Synonym>Anterior Urethral Strictures</Synonym>
+<Synonym>Urethral Stenosis</Synonym>
+<Synonym>Urethral Strictures</Synonym>
+<Synonym>Urethral Stenoses</Synonym>
+<Synonym>Anterior Urethral Stricture</Synonym>
+<Description>Narrowing of any part of the URETHRA. It is characterized by decreased urinary stream and often other obstructive voiding symptoms.</Description>
+<Source>MeSH</Source>
+</Record>

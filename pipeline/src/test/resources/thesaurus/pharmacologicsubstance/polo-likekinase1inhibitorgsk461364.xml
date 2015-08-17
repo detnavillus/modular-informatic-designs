@@ -1,0 +1,17 @@
+<Record>
+<Term>Polo-like Kinase 1 Inhibitor GSK461364</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Serine Threonine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Serine Threonine Kinase Inhibitor/Polo-like Kinase 1 Inhibitor GSK461364</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Polo-like Kinase 1 Inhibitor GSK461364</BroaderTerm>
+<BroaderTerm>Serine Threonine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>GSK461364</Synonym>
+<Synonym>Polo-like Kinase 1 Inhibitor GSK461364</Synonym>
+<Description>A small molecule Polo-like kinase 1 (PLK1) inhibitor with potential antineoplastic activity. Polo-like kinase 1 inhibitor GSK461364 selectively inhibits Plk1, inducing selective G2/M arrest followed by apoptosis in a variety of tumor cells while causing reversible cell arrest at the G1 and G2 stage without apoptosis in normal cells. Plk1, named after the polo gene of Drosophila melanogaster, is a serine/threonine protein kinase involved in regulating mitotic spindle function in a non-ATP competitive manner.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

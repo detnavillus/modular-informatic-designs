@@ -1,0 +1,151 @@
+<Record>
+<Term>Analgesics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Pharmacologic Substance</ParentTerm>
+<ParentTerm>Sensory System Agents</ParentTerm>
+<ParentTerm>Central Nervous System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Sensory System Agents/Analgesics</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Analgesics</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Analgesics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Sensory System Agents</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Sufentanil Citrate</ChildTerm>
+<ChildTerm>Propoxyphene Napsylate</ChildTerm>
+<ChildTerm>Sulphamoprine</ChildTerm>
+<ChildTerm>Oxycodone</ChildTerm>
+<ChildTerm>Remifentanil Hydrochloride</ChildTerm>
+<ChildTerm>Alphamethadol</ChildTerm>
+<ChildTerm>Propetamide</ChildTerm>
+<ChildTerm>Methadone</ChildTerm>
+<ChildTerm>Phenoperidine</ChildTerm>
+<ChildTerm>Gaboxadol</ChildTerm>
+<ChildTerm>Levorphanol Tartrate</ChildTerm>
+<ChildTerm>Dimethylthiambutene</ChildTerm>
+<ChildTerm>Methadone Hydrochloride</ChildTerm>
+<ChildTerm>Molinazone</ChildTerm>
+<ChildTerm>Propiram Fumarate</ChildTerm>
+<ChildTerm>Dentin Desensitizing Agents</ChildTerm>
+<ChildTerm>Alimadol</ChildTerm>
+<ChildTerm>Flupirtine Maleate</ChildTerm>
+<ChildTerm>Bumadizone</ChildTerm>
+<ChildTerm>Florifenine</ChildTerm>
+<ChildTerm>Analgesics, Opioid</ChildTerm>
+<ChildTerm>Bucetin</ChildTerm>
+<ChildTerm>Quillifoline</ChildTerm>
+<ChildTerm>Opiate</ChildTerm>
+<ChildTerm>Flumexadol</ChildTerm>
+<ChildTerm>Ruzadolane</ChildTerm>
+<ChildTerm>Metrazifone</ChildTerm>
+<ChildTerm>Salacetamide</ChildTerm>
+<ChildTerm>Nalbuphine</ChildTerm>
+<ChildTerm>Verilopam Hydrochloride</ChildTerm>
+<ChildTerm>Allylprodine</ChildTerm>
+<ChildTerm>Droxypropine</ChildTerm>
+<ChildTerm>Axomadol</ChildTerm>
+<ChildTerm>Oxycodone Hydrochloride</ChildTerm>
+<ChildTerm>Dipipanone</ChildTerm>
+<ChildTerm>Dizatrifone</ChildTerm>
+<ChildTerm>Nalbuphine Hydrochloride</ChildTerm>
+<ChildTerm>Etosalamide</ChildTerm>
+<ChildTerm>Amezepine</ChildTerm>
+<ChildTerm>Bezitramide</ChildTerm>
+<ChildTerm>Ziconotide</ChildTerm>
+<ChildTerm>Glafenine</ChildTerm>
+<ChildTerm>Asimadoline</ChildTerm>
+<ChildTerm>Fentanyl Citrate</ChildTerm>
+<ChildTerm>Lorcinadol</ChildTerm>
+<ChildTerm>Apadoline</ChildTerm>
+<ChildTerm>Remifentanil</ChildTerm>
+<ChildTerm>Antrafenine</ChildTerm>
+<ChildTerm>Propoxyphene Hydrochloride</ChildTerm>
+<ChildTerm>Hydromorphone Hydrochloride</ChildTerm>
+<ChildTerm>Properidine</ChildTerm>
+<ChildTerm>Tramadol Hydrochloride</ChildTerm>
+<ChildTerm>Propyphenazone</ChildTerm>
+<ChildTerm>Eptazocine</ChildTerm>
+<ChildTerm>Narcotics</ChildTerm>
+<ChildTerm>Levoxadrol</ChildTerm>
+<ChildTerm>Ethylmethylthiambutene</ChildTerm>
+<ChildTerm>Fenamifuril</ChildTerm>
+<ChildTerm>DL-Propoxyphene</ChildTerm>
+<ChildTerm>Fenacetinol</ChildTerm>
+<ChildTerm>Simetride</ChildTerm>
+<ChildTerm>Hydromorphone</ChildTerm>
+<ChildTerm>Dioxaphetyl Butyrate</ChildTerm>
+<ChildTerm>Tramadol</ChildTerm>
+<ChildTerm>Diproqualone</ChildTerm>
+<ChildTerm>Pentazocine</ChildTerm>
+<ChildTerm>Ramifenazone</ChildTerm>
+<ChildTerm>Tapentadol Hydrochloride ER</ChildTerm>
+<ChildTerm>Oxymorphone</ChildTerm>
+<ChildTerm>Doxpicomine</ChildTerm>
+<ChildTerm>Phenadoxone</ChildTerm>
+<ChildTerm>Sampirtine</ChildTerm>
+<ChildTerm>Renanolone</ChildTerm>
+<ChildTerm>Meperidine Hydrochloride</ChildTerm>
+<ChildTerm>Hydrocodone</ChildTerm>
+<ChildTerm>Giparmen</ChildTerm>
+<ChildTerm>Dexoxadrol</ChildTerm>
+<ChildTerm>Morpheridine</ChildTerm>
+<ChildTerm>Etonitazene</ChildTerm>
+<ChildTerm>Acequinoline</ChildTerm>
+<ChildTerm>Pentazocine Hydrochloride</ChildTerm>
+<ChildTerm>Propoxyphene</ChildTerm>
+<ChildTerm>Letimide</ChildTerm>
+<ChildTerm>Perzinfotel</ChildTerm>
+<ChildTerm>Analgesics, Non-Narcotic</ChildTerm>
+<ChildTerm>Anilopam Hydrochloride</ChildTerm>
+<ChildTerm>Levomepromazine</ChildTerm>
+<ChildTerm>Etoxeridine</ChildTerm>
+<ChildTerm>Filenadol</ChildTerm>
+<ChildTerm>Alphacetylmethadol</ChildTerm>
+<ChildTerm>Nonnarcotic Analgesic</ChildTerm>
+<ChildTerm>Oxymorphone Hydrochloride</ChildTerm>
+<ChildTerm>Indopine</ChildTerm>
+<ChildTerm>Meperidine</ChildTerm>
+<ChildTerm>Meprylcaine Hydrochloride</ChildTerm>
+<ChildTerm>Levomethadyl Acetate Hydrochloride</ChildTerm>
+<ChildTerm>Proheptazine</ChildTerm>
+<ChildTerm>Flupirtine</ChildTerm>
+<ChildTerm>Fentanyl Hydrochloride</ChildTerm>
+<ChildTerm>Dimenoxadol</ChildTerm>
+<ChildTerm>Tifurac Sodium</ChildTerm>
+<ChildTerm>Ciproquazone</ChildTerm>
+<ChildTerm>Diproxadol</ChildTerm>
+<ChildTerm>Sufentanil</ChildTerm>
+<ChildTerm>Oxycodone Terephthalate</ChildTerm>
+<ChildTerm>Levorphanol</ChildTerm>
+<ChildTerm>Proxorphan Tartrate</ChildTerm>
+<ChildTerm>Bifepramide</ChildTerm>
+<ChildTerm>Adjuvant Analgesic</ChildTerm>
+<ChildTerm>Vedaclidine</ChildTerm>
+<ChildTerm>Nerbacadol</ChildTerm>
+<ChildTerm>Fentanyl</ChildTerm>
+<ChildTerm>Anilopam</ChildTerm>
+<ChildTerm>Tapentadol</ChildTerm>
+<ChildTerm>Hydrocodone Bitartrate</ChildTerm>
+<ChildTerm>Gapromidine</ChildTerm>
+<Synonym>Analgesic Agent</Synonym>
+<Synonym>Antinociceptive Agents</Synonym>
+<Synonym>Anodynes</Synonym>
+<Synonym>Analgesics</Synonym>
+<Synonym>Analgesic Agents</Synonym>
+<Synonym>analgesics</Synonym>
+<Synonym>Analgesic Drugs</Synonym>
+<Description>Compounds capable of relieving pain without the loss of CONSCIOUSNESS.Compounds that show activity in animal models of human PAIN such as tail flick and hot plate assays.</Description>
+<Description>Compounds that alleviate pain without loss of consciousness.  Analgesics act by various mechanisms including binding with opioid receptors and decreasing inflammation.  Choice of analgesic may be determined by the type of pain.  These compounds include opioid, non-opioid and adjuvant analgesic agents.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

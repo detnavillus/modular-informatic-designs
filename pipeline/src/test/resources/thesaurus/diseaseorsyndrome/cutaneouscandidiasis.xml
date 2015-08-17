@@ -1,0 +1,25 @@
+<Record>
+<Term>Cutaneous Candidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatomycoses</ParentTerm>
+<ParentTerm>Candidiasis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Dermatomycoses/Candidiasis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Skin Diseases, Infectious/Dermatomycoses/Candidiasis, Cutaneous</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Dermatomycoses/Candidiasis, Cutaneous</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Candidiasis/Candidiasis, Cutaneous</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatomycoses</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Candidiasis</BroaderTerm>
+<BroaderTerm>Candidiasis, Cutaneous</BroaderTerm>
+<Synonym>Cutaneous Moniliasis</Synonym>
+<Synonym>Cutaneous Moniliases</Synonym>
+<Synonym>Cutaneous Candidiasis</Synonym>
+<Synonym>Cutaneous Candidiases</Synonym>
+<Description>Candidiasis of the skin manifested as eczema-like lesions of the interdigital spaces, perleche, or chronic paronychia. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

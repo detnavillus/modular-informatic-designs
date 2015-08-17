@@ -1,0 +1,15 @@
+<Record>
+<Term>Proteus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Enterobacteriaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Enterobacteriaceae Infections/Proteus Infections</ClassificationPath>
+<BroaderTerm>Proteus Infections</BroaderTerm>
+<BroaderTerm>Enterobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Proteus Infections</Synonym>
+<Synonym>Proteus Infection</Synonym>
+<Description>Infections with bacteria of the genus PROTEUS.</Description>
+<Source>MeSH</Source>
+</Record>

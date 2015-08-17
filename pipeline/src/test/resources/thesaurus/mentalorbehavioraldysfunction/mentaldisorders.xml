@@ -1,0 +1,29 @@
+<Record>
+<Term>Mental Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Mental Disorders</ClassificationPath>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<ChildTerm>Eating Disorders</ChildTerm>
+<ChildTerm>Mental Disorders Diagnosed in Childhood</ChildTerm>
+<ChildTerm>Delirium, Dementia, Amnestic, Cognitive Disorders</ChildTerm>
+<ChildTerm>Mood Disorders</ChildTerm>
+<ChildTerm>Personality Disorders</ChildTerm>
+<ChildTerm>Substance-Related Disorders</ChildTerm>
+<ChildTerm>Schizophrenia and Disorders with Psychotic Features</ChildTerm>
+<ChildTerm>Sleep Disorders</ChildTerm>
+<ChildTerm>Adjustment Disorders</ChildTerm>
+<ChildTerm>Anxiety Disorders</ChildTerm>
+<ChildTerm>Somatoform Disorders</ChildTerm>
+<ChildTerm>Dissociative Disorders</ChildTerm>
+<ChildTerm>Sexual and Gender Disorders</ChildTerm>
+<ChildTerm>Factitious Disorders</ChildTerm>
+<ChildTerm>Impulse Control Disorders</ChildTerm>
+<ChildTerm>Neurotic Disorders</ChildTerm>
+<Synonym>Mental Disorders</Synonym>
+<Synonym>Mental Disorder</Synonym>
+<Synonym>Psychiatric Diagnosis</Synonym>
+<Synonym>Behavior Disorders</Synonym>
+<Description>Psychiatric illness or diseases manifested by breakdowns in the adaptational process expressed primarily as abnormalities of thought, feeling, and behavior producing either distress or impairment of function.</Description>
+<Source>MeSH</Source>
+</Record>

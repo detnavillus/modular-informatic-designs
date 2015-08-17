@@ -1,0 +1,17 @@
+<Record>
+<Term>Intravenous Substance Abuse</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Substance Abuse, Intravenous</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Substance Abuse, Intravenous</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Substance Abuse, Intravenous</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<Synonym>Intravenous Drug Abuse</Synonym>
+<Synonym>Intravenous Substance Abuse</Synonym>
+<Synonym>Parenteral Drug Abuse</Synonym>
+<Description>Abuse, overuse, or misuse of a substance by its injection into a vein.</Description>
+<Source>MeSH</Source>
+</Record>

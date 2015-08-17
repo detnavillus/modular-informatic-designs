@@ -1,0 +1,30 @@
+<Record>
+<Term>California Encephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Encephalitis, Arbovirus</ParentTerm>
+<ParentTerm>Bunyaviridae Infections</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Bunyaviridae Infections/Encephalitis, California</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Encephalitis, Arbovirus/Encephalitis, California</ClassificationPath>
+<BroaderTerm>Encephalitis, Arbovirus</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Encephalitis, California</BroaderTerm>
+<BroaderTerm>Bunyaviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>California Encephalitis</Synonym>
+<Synonym>California Viral Encephalitis</Synonym>
+<Synonym>California Viral Encephalitides</Synonym>
+<Description>A viral infection of the brain caused by serotypes of California encephalitis virus (ENCEPHALITIS VIRUS, CALIFORNIA) transmitted to humans by the mosquito AEDES triseriatus. The majority of cases are caused by the LA CROSSE VIRUS. This condition is endemic to the midwestern United States and primarily affects children between 5-10 years of age. Clinical manifestations include FEVER; VOMITING; HEADACHE; and abdominal pain followed by SEIZURES, altered mentation, and focal neurologic deficits. (From Joynt, Clinical Neurology, 1996, Ch26, p13)</Description>
+<Source>MeSH</Source>
+</Record>

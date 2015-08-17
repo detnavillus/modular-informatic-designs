@@ -1,0 +1,21 @@
+<Record>
+<Term>Blood Substitutes</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Blood Substitutes</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Blood Substitutes</BroaderTerm>
+<ChildTerm>Plasma Substitutes</ChildTerm>
+<Synonym>Blood Substitutes</Synonym>
+<Synonym>Artificial Erythrocytes</Synonym>
+<Synonym>Erythrocyte Substitutes</Synonym>
+<Synonym>Red Cell Substitutes</Synonym>
+<Synonym>Artificial Blood</Synonym>
+<Synonym>Hemoglobin Substitutes</Synonym>
+<Synonym>Artificial Hemoglobin</Synonym>
+<Description>Substances that can carry oxygen to and carbon dioxide away from the tissues when introduced into the blood stream. They are used to replace hemoglobin in severe hemorrhage and also to perfuse isolated organs. The best known are perfluorocarbon emulsions and various hemoglobin solutions.</Description>
+<Source>MeSH</Source>
+</Record>

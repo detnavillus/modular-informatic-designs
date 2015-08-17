@@ -1,0 +1,33 @@
+<Record>
+<Term>Silicotuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Pulmonary</ParentTerm>
+<ParentTerm>Silicosis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Injury/Pneumoconiosis/Silicosis/Silicotuberculosis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Pulmonary/Silicotuberculosis</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Pneumoconiosis/Silicosis/Silicotuberculosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Tuberculosis, Pulmonary/Silicotuberculosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Tuberculosis, Pulmonary/Silicotuberculosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Pneumoconiosis/Silicosis/Silicotuberculosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Lung Injury</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Tuberculosis, Pulmonary</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Silicotuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Pneumoconiosis</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<BroaderTerm>Silicosis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Silicotuberculoses</Synonym>
+<Synonym>Silicotuberculosis</Synonym>
+<Description>Pulmonary or extrapulmonary infection caused by MYCOBACTERIUM TUBERCULOSIS or nontuberculous mycobacteria in a patient with silicosis.</Description>
+<Source>MeSH</Source>
+</Record>

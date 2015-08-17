@@ -1,0 +1,21 @@
+<Record>
+<Term>Recombinant Fowlpox-Tyrosinase Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Fowlpox Virus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Fowlpox Virus Vaccine/Recombinant Fowlpox-Tyrosinase Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Fowlpox Virus Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fowlpox-Tyrosinase Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Recombinant Fowlpox-Tyrosinase Vaccine</Synonym>
+<Synonym>Tyrosinase-Fowl Pox</Synonym>
+<Synonym>rF-TYR</Synonym>
+<Synonym>rF-TYR vaccine</Synonym>
+<Description>A recombinant fowlpox virus vaccine with potential antineoplastic activity.  Binding to the melanoma antigen tyrosinase, recombinant fowlpox-tyrosinase vaccine generates cellular immune responses against melanoma cells expressing the tyrosinase antigen; this effect is enhanced by the co-administration of interleukin 2 (IL-2). Fowlpox virus is an attractive vector because its genome is easy to manipulate and it is replication incompetent in mammalian cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

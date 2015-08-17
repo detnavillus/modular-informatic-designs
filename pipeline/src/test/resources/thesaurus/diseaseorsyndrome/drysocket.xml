@@ -1,0 +1,20 @@
+<Record>
+<Term>Dry Socket</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Dry Socket</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Dry Socket</BroaderTerm>
+<Synonym>Dry Socket</Synonym>
+<Synonym>Dry Sockets</Synonym>
+<Synonym>Alveolitis Sicca Dolorosa</Synonym>
+<Synonym>Alveolar Periostitis</Synonym>
+<Synonym>Alveolar Periostitides</Synonym>
+<Synonym>Alveolar Osteitis</Synonym>
+<Synonym>Alveolar Osteitides</Synonym>
+<Synonym>Alveolalgia</Synonym>
+<Synonym>Alveolalgias</Synonym>
+<Description>A condition sometimes occurring after tooth extraction, particularly after traumatic extraction, resulting in a dry appearance of the exposed bone in the socket, due to disintegration or loss of the blood clot. It is basically a focal osteomyelitis without suppuration and is accompanied by severe pain (alveolalgia) and foul odor. (Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

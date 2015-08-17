@@ -1,0 +1,19 @@
+<Record>
+<Term>Diastema</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malocclusion</ParentTerm>
+<ParentTerm>Dentition</ParentTerm>
+<ClassificationPath>Stomatognathic System/Mouth/Dentition/Diastema</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Malocclusion/Diastema</ClassificationPath>
+<BroaderTerm>Malocclusion</BroaderTerm>
+<BroaderTerm>Mouth</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Diastema</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Dentition</BroaderTerm>
+<BroaderTerm>Stomatognathic System</BroaderTerm>
+<Synonym>Diastema</Synonym>
+<Synonym>Diastemas</Synonym>
+<Description>An abnormal opening or fissure between two adjacent teeth.</Description>
+<Source>MeSH</Source>
+</Record>

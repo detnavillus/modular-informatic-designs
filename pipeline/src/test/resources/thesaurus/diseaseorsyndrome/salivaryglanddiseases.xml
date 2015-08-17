@@ -1,0 +1,22 @@
+<Record>
+<Term>Salivary Gland Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Salivary Gland Diseases</ClassificationPath>
+<BroaderTerm>Salivary Gland Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Salivary Calculi</ChildTerm>
+<ChildTerm>Salivary Gland Fistula</ChildTerm>
+<ChildTerm>Salivary Gland Neoplasms</ChildTerm>
+<ChildTerm>Sialadenitis</ChildTerm>
+<ChildTerm>Sialometaplasia, Necrotizing</ChildTerm>
+<ChildTerm>Sialorrhea</ChildTerm>
+<ChildTerm>Xerostomia</ChildTerm>
+<ChildTerm>Submandibular Gland Diseases</ChildTerm>
+<ChildTerm>Mikulicz' Disease</ChildTerm>
+<ChildTerm>Parotid Diseases</ChildTerm>
+<Synonym>Salivary Gland Diseases</Synonym>
+<Synonym>Salivary Gland Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

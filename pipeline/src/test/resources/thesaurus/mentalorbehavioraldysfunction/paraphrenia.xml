@@ -1,0 +1,17 @@
+<Record>
+<Term>Paraphrenia</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Schizophrenia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Psychiatric Disorder/Cognitive Dysfunction/Cognitive Disturbance/Schizophrenia/Paraphrenia</ClassificationPath>
+<BroaderTerm>Schizophrenia</BroaderTerm>
+<BroaderTerm>Cognitive Dysfunction</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Psychiatric Disorder</BroaderTerm>
+<BroaderTerm>Paraphrenia</BroaderTerm>
+<BroaderTerm>Cognitive Disturbance</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Paraphrenia</Synonym>
+<Description>A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

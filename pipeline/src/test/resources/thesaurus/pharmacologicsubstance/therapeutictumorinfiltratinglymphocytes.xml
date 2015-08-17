@@ -1,0 +1,16 @@
+<Record>
+<Term>Therapeutic Tumor Infiltrating Lymphocytes</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Miscellaneous Biologic Response Modifier</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Miscellaneous Biologic Response Modifier/Therapeutic Tumor Infiltrating Lymphocytes</ClassificationPath>
+<BroaderTerm>Therapeutic Tumor Infiltrating Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Miscellaneous Biologic Response Modifier</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Therapeutic Tumor Infiltrating Lymphocytes</Synonym>
+<Synonym>Tumor Infiltrating Lymphocytes</Synonym>
+<Description>A preparation of cells, consisting of autologous tumor infiltrating lymphocytes, that are manipulated in vitro and, upon administration in vivo, re-infiltrate the tumor to initiate tumor cell lysis. In vitro, therapeutic tumor-infiltrating lymphocytes (TILs) are isolated from tumor tissue and cultured with lymphokines such as interleukin-2; the therapeutic TILs are then infused into the patient, where, after re-infiltration of the tumor, they may induce lysis of tumor cells and tumor regression.  The use of therapeutic TILs is considered a form of adoptive immunotherapy.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

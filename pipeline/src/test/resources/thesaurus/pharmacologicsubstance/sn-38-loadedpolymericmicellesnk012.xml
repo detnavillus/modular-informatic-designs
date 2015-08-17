@@ -1,0 +1,17 @@
+<Record>
+<Term>SN-38-Loaded Polymeric Micelles NK012</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Camptothecin Analogue</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-I Inhibitor/Camptothecin Analogue/SN-38-Loaded Polymeric Micelles NK012</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Camptothecin Analogue</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-I Inhibitor</BroaderTerm>
+<BroaderTerm>SN-38-Loaded Polymeric Micelles NK012</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SN-38-Loaded Polymeric Micelles NK012</Synonym>
+<Description>A formulation consisting of polymeric micelles loaded with the irinotecan metabolite SN-38 with potential antineoplastic activity. SN-38-loaded polymeric micelles NK012 is an SN-38-releasing nanodevice constructed by covalently attaching SN-38 to the block copolymer PEG-PGlu, followed by self-assembly of amphiphilic block copolymers in an aqueous milieu. SN-38 (7-ethyl-10-hydroxy-camptothecin), a biological active metabolite of the prodrug irinotecan (CPT-11), binds to and inhibits topoisomerase I by stabilizing the cleavable complex between topoisomerase I and DNA, resulting in DNA breaks, inhibition of DNA replication, and apoptosis. SN-38 has been reported to exhibit up to 1,000-fold more cytotoxic activity against various cancer cells in vitro than irinotecan. This formulation increases the water-solubility of SN-38 and allows the delivery of higher doses of SN-38 than those achievable with SN-38 alone.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

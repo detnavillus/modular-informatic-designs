@@ -1,0 +1,19 @@
+<Record>
+<Term>Therapeutic Androstenedione</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen/Therapeutic Androstenedione</ClassificationPath>
+<BroaderTerm>Therapeutic Androstenedione</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>4-Androstene-3,17-dione</Synonym>
+<Synonym>Delta-4-Androstenedione</Synonym>
+<Synonym>Therapeutic Androstenedione</Synonym>
+<Description>A potent androgenic prohormone that is a direct precursor of testosterone and used as a supplement to increase plasma testosterone levels and muscle anabolism. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

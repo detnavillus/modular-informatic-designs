@@ -1,0 +1,28 @@
+<Record>
+<Term>Recombinant Vaccinia Prostate-Specific Antigen Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia Prostate-Specific Antigen Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia Prostate-Specific Antigen Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>PROSTVAC</Synonym>
+<Synonym>PSA Vaccinia (CV1-produced), THERION</Synonym>
+<Synonym>PSA Vaccinia (chick embryo dermo cell-produced) THERION</Synonym>
+<Synonym>Prostate Specific Antigen Expressing Vaccinia Virus Vaccine</Synonym>
+<Synonym>RV-PSA (RECOMB VACCINIA/PSA-CV-1)</Synonym>
+<Synonym>Recombinant Vaccinia Prostate-Specific Antigen Vaccine</Synonym>
+<Synonym>Vaccinia PSA Vaccine</Synonym>
+<Synonym>Vaccinia-PSA Vaccine</Synonym>
+<Synonym>Vaccinia-Prostate-Specific Antigen Vaccine</Synonym>
+<Synonym>rV-PSA</Synonym>
+<Synonym>rV-PSA Vaccine</Synonym>
+<Description>A vaccine consisting of recombinant vaccinia virus encoding prostate specific antigen (PSA).  Vaccination with recombinant vaccinia prostate-specific antigen vaccine stimulates the host immune system to mount a cytotoxic T-cell response against tumor cells expressing PSA.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

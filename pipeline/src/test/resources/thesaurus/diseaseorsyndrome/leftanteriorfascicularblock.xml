@@ -1,0 +1,24 @@
+<Record>
+<Term>Left Anterior Fascicular Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Left Anterior Fascicular Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Left Anterior Fascicular Block</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>LAFB</Synonym>
+<Synonym>LEFT ANTERIOR FASCICULAR BLOCK</Synonym>
+<Synonym>Left Anterior Fascicular Block</Synonym>
+<Synonym>Left Anterior Hemiblock</Synonym>
+<Synonym>Left anterior fascicular block</Synonym>
+<Description>An impairment of transmission of the cardiac electrical impulse along the fibers of the left anterior fascicle. In left anterior fascicular block (LAFB) the posteroinferior regions of the left ventricular endocardium are activated abnormally before the anterosuperior left ventricular area. After emerging from the posteroinferior division of the left bundle branch, the impulse first propagates in an inferior, rightward, and usually anterior direction for a short period of time. This orientation is responsible for the small q waves in leads I and aVL and for the r waves in leads II, III, and aVF.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

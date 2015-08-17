@@ -1,0 +1,22 @@
+<Record>
+<Term>Pyogenic Liver Abscess</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Abscess</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Liver Abscess/Liver Abscess, Pyogenic</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Abscess/Abdominal Abscess/Liver Abscess/Liver Abscess, Pyogenic</ClassificationPath>
+<BroaderTerm>Abscess</BroaderTerm>
+<BroaderTerm>Abdominal Abscess</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Liver Abscess</BroaderTerm>
+<BroaderTerm>Liver Abscess, Pyogenic</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Pyogenic Hepatic Abscess</Synonym>
+<Synonym>Pyogenic Liver Abscesses</Synonym>
+<Synonym>Pyogenic Hepatic Abscesses</Synonym>
+<Synonym>Pyogenic Liver Abscess</Synonym>
+<Description>Single or multiple areas of PUS due to bacterial infection within the hepatic parenchyma. It can be caused by a variety of BACTERIA, local or disseminated from infections elsewhere such as in APPENDICITIS; CHOLECYSTITIS; PERITONITIS; and after LIVER TRANSPLANTATION.</Description>
+<Source>MeSH</Source>
+</Record>

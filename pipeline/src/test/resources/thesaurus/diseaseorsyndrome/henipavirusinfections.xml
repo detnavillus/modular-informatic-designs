@@ -1,0 +1,15 @@
+<Record>
+<Term>Henipavirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paramyxoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Henipavirus Infections</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Henipavirus Infections</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>Henipavirus Infections</Synonym>
+<Synonym>Henipavirus Infection</Synonym>
+<Description>Infections with viruses of the genus HENIPAVIRUS, family PARAMYXOVIRIDAE.</Description>
+<Source>MeSH</Source>
+</Record>

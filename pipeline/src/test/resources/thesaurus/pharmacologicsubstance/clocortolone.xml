@@ -1,0 +1,27 @@
+<Record>
+<Term>Clocortolone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Clocortolone</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Clocortolone Pivalate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Clocortolone Pivalate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Clocortolone</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Clocortolone Pivalate</Synonym>
+<Synonym>CLOCORTOLONE</Synonym>
+<Synonym>CLOCORTOLONE PIVALATE</Synonym>
+<Synonym>Cloderm</Synonym>
+<Synonym>9-Chloro-6alpha-fluoro-11beta,21-dihydroxy-16alpha-methylpregna-1,4-diene-3,20-dione 21-pivalate</Synonym>
+<Synonym>Clocortolone pivalate</Synonym>
+<Synonym>Clocortolone</Synonym>
+<Description>A glucocorticoid receptor agonist with metabolic, anti-inflammatory, and immunosuppressive activity. Clocortolone pivalate exerts its effect by interacting with specific intracellular receptors and subsequently binds to DNA to modify gene expression. This results in an induction of the synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators. Consequently, an overall reduction in chronic inflammation and autoimmune reactions are accomplished.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

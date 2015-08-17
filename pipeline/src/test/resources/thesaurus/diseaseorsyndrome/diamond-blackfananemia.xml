@@ -1,0 +1,39 @@
+<Record>
+<Term>Diamond-Blackfan Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pure Red Cell Aplasia</ParentTerm>
+<ParentTerm>Anemia, Hypoplastic, Congenital</ParentTerm>
+<ParentTerm>Red-Cell Aplasia, Pure</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hypoplastic, Congenital/Anemia, Diamond-Blackfan</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Bone Marrow Diseases/Anemia, Aplastic/Anemia, Hypoplastic, Congenital/Anemia, Diamond-Blackfan</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Pure Red Cell Aplasia/Congenital Pure Red Cell Aplasia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Aplastic/Anemia, Hypoplastic, Congenital/Anemia, Diamond-Blackfan</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Red-Cell Aplasia, Pure/Anemia, Diamond-Blackfan</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Anemia, Diamond-Blackfan</BroaderTerm>
+<BroaderTerm>Congenital Pure Red Cell Aplasia</BroaderTerm>
+<BroaderTerm>Red-Cell Aplasia, Pure</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pure Red Cell Aplasia</BroaderTerm>
+<BroaderTerm>Bone Marrow Diseases</BroaderTerm>
+<BroaderTerm>Anemia, Aplastic</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia, Hypoplastic, Congenital</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Diamond-Blackfan Type Anemia</Synonym>
+<Synonym>Blackfan-Diamond Syndrome</Synonym>
+<Synonym>Diamond-Blackfan Anemia</Synonym>
+<Synonym>Congenital Pure Red Cell Aplasia</Synonym>
+<Synonym>Blackfan Diamond Syndrome</Synonym>
+<Synonym>Diamond Blackfan Anemia</Synonym>
+<Description>A rare congenital hypoplastic anemia that usually presents early in infancy. The disease is characterized by a moderate to severe macrocytic anemia, occasional neutropenia or thrombocytosis, a normocellular bone marrow with erythroid hypoplasia, and an increased risk of developing leukemia. (Curr Opin Hematol 2000 Mar;7(2):85-94)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,43 @@
+<Record>
+<Term>Aluminum Hydroxide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Aluminum Compounds</ParentTerm>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ParentTerm>Hydroxides</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/Aluminum Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Hydroxides/Aluminum Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Alkalies/Hydroxides/Aluminum Hydroxide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Aluminum Compounds/Aluminum Hydroxide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Alkalies</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aluminum Compounds</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Aluminum Hydroxide</BroaderTerm>
+<BroaderTerm>Hydroxides</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Aluminum Hydroxide Gel</Synonym>
+<Synonym>Algeldrate</Synonym>
+<Synonym>Alhydrogel</Synonym>
+<Synonym>Aluminum hydroxide</Synonym>
+<Synonym>Nephrox</Synonym>
+<Synonym>Basalgel</Synonym>
+<Synonym>Dialume</Synonym>
+<Synonym>Alugel</Synonym>
+<Synonym>Hydrated Alumina</Synonym>
+<Synonym>Amphojel</Synonym>
+<Synonym>ALUMINUM HYDROXIDE</Synonym>
+<Synonym>Brasivil</Synonym>
+<Synonym>Aldrox</Synonym>
+<Synonym>Aluminum Hydroxide</Synonym>
+<Synonym>Pepsamer</Synonym>
+<Synonym>Rocgel</Synonym>
+<Description>An inorganic compound containing aluminum.  Used in various immunologic preparations to improve immunogenicity, aluminum hydroxide adjuvant consists of aluminum hydroxide gel in a saline solution.  In vaccines, this agent binds to the protein conjugate, resulting in improved antigen processing by the immune system. (NCI04)</Description>
+<Description>A compound with many biomedical applications: as a gastric antacid, an antiperspirant, in dentifrices, as an emulsifier, as an adjuvant in bacterins and vaccines, in water purification, etc.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

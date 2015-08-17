@@ -1,0 +1,21 @@
+<Record>
+<Term>Methsuximide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anticonvulsant Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticonvulsant Agent/Methsuximide</ClassificationPath>
+<BroaderTerm>Anticonvulsant Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Methsuximide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Succinimide, N,2-dimethyl-2-phenyl-</Synonym>
+<Synonym>Celontin</Synonym>
+<Synonym>Methsuximide</Synonym>
+<Synonym>1,3-Dimethyl-3-phenyl-2,5-dioxopyrrolidine</Synonym>
+<Synonym>METHSUXIMIDE</Synonym>
+<Description>A succinimide with anticonvulsant properties. Although the exact mechanism of action of methsuximide is unclear, it is thought to increase the seizure threshold and suppress the paroxysmal three-cycle-per-second spike-and-wave pattern seen with absence (petit mal) seizures. The frequency of attacks is reduced by depression of nerve transmission in the motor cortex and elevation of the threshold of the CNS to convulsive stimuli, probably due to direct modification of membrane function in excitable cells and/or alteration of chemically mediated neurotransmission.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

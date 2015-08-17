@@ -1,0 +1,16 @@
+<Record>
+<Term>Autologous EBV-Transformed B Lymphoblastoid-Tumor Fusion Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/Autologous EBV-Transformed B Lymphoblastoid-Tumor Fusion Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Autologous EBV-Transformed B Lymphoblastoid-Tumor Fusion Cell Vaccine</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Autologous EBV-Transformed B Lymphoblastoid-Tumor Fusion Cell Vaccine</Synonym>
+<Description>A cell-based vaccine composed of autologous tumor cells fused with Epstein-Barr virus-transformed B-lymphoblastoid cells. Upon administration, this vaccine may stimulate a cytotoxic T cell response against tumor cells, resulting in tumor cell lysis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Anamorelin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anticachexia Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticachexia Agent/Anamorelin</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticachexia Agent/Anamorelin Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Anticachexia Agent</BroaderTerm>
+<BroaderTerm>Anamorelin</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anamorelin Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ANAMORELIN HYDROCHLORIDE</Synonym>
+<Synonym>ANAMORELIN</Synonym>
+<Synonym>Anamorelin</Synonym>
+<Synonym>Anamorelin Hydrochloride</Synonym>
+<Synonym>RC-129</Synonym>
+<Description>A synthetic, orally bioavailable, small-molecule ghrelin mimetic with appetite-stimulating and anabolic activities. RC-1291 ghrelin mimetic binds to and stimulates the growth hormone secretagogue receptor (GHSR) centrally, thereby mimicking the appetite-stimulating and growth hormone-releasing effects of ghrelin. Stimulation of GHSR may also reduce the production of the pro-inflammatory cytokines TNF-alpha and interleukin-6, which may play a direct role in cancer-related loss of appetite.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Incomplete Freund's Adjuvant</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vaccine Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoadjuvant/Vaccine Adjuvant/Incomplete Freund's Adjuvant</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccine Adjuvant</BroaderTerm>
+<BroaderTerm>Incomplete Freund's Adjuvant</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunoadjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Freund's Incomplete Adjuvant</Synonym>
+<Synonym>ISA-51</Synonym>
+<Synonym>Incomplete Freund's Adjuvant</Synonym>
+<Synonym>Montanide ISA 51</Synonym>
+<Synonym>Montanide ISA-51</Synonym>
+<Synonym>incomplete Freund's adjuvant</Synonym>
+<Description>A water-in-oil emulsion that stimulates the T-cell immune response to antigens and may be used in various types of cancer vaccines. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

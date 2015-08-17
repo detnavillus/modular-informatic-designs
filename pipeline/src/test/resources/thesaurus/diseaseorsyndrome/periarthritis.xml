@@ -1,0 +1,17 @@
+<Record>
+<Term>Periarthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis</ParentTerm>
+<ParentTerm>Bursitis</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Bursitis/Periarthritis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Periarthritis</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Bursitis</BroaderTerm>
+<BroaderTerm>Periarthritis</BroaderTerm>
+<Synonym>Periarthritides</Synonym>
+<Synonym>Periarthritis</Synonym>
+<Description>Inflammation of the tissues around a joint. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

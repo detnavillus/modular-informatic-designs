@@ -1,0 +1,33 @@
+<Record>
+<Term>Hepatic Veno-Occlusive Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Diseases</ParentTerm>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Veno-Occlusive Disease</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatic Veno-Occlusive Disease</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hepatic Veno-Occlusive Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Hepatic Vascular Disorder/Hepatic Veno-Occlusive Disease,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Veno-Occlusive Disease/Hepatic Veno-Occlusive Disease</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Hepatic Veno-Occlusive Disease</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Hepatic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Hepatic Veno-Occlusive Disease,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Veno-Occlusive Disease</BroaderTerm>
+<Synonym>Sinusoidal Obstruction Syndrome</Synonym>
+<Synonym>Hepatic Veno-Occlusive Disease</Synonym>
+<Synonym>Hepatic Veno Occlusive Disease</Synonym>
+<Synonym>hepatic veno-occlusive disease</Synonym>
+<Synonym>Hepatic Veno-Occlusive Diseases</Synonym>
+<Description>Liver disease that is caused by injuries to the ENDOTHELIAL CELLS of the vessels and subendothelial EDEMA, but not by THROMBOSIS. Extracellular matrix, rich in FIBRONECTINS, is usually deposited around the HEPATIC VEINS leading to venous outflow occlusion and sinusoidal obstruction.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

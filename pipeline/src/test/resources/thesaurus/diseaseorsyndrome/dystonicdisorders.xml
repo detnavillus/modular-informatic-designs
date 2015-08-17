@@ -1,0 +1,53 @@
+<Record>
+<Term>Dystonic Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Dystonic Disorders</ClassificationPath>
+<BroaderTerm>Dystonic Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Dystonia Musculorum Deformans</ChildTerm>
+<ChildTerm>Torticollis</ChildTerm>
+<ChildTerm>Meige Syndrome</ChildTerm>
+<Synonym>Dystonic Disorders</Synonym>
+<Synonym>Dystonic Disorder</Synonym>
+<Synonym>Dystonia Disorders</Synonym>
+<Synonym>Dystonia Disorder</Synonym>
+<Synonym>Adult-Onset Idiopathic Focal Dystonias</Synonym>
+<Synonym>Adult Onset Idiopathic Focal Dystonias</Synonym>
+<Synonym>Adult-Onset Idiopathic Torsion Dystonias</Synonym>
+<Synonym>Adult Onset Idiopathic Torsion Dystonias</Synonym>
+<Synonym>Autosomal Dominant Familial Dystonia</Synonym>
+<Synonym>Autosomal Recessive Familial Dystonia</Synonym>
+<Synonym>Childhood Onset Dystonias</Synonym>
+<Synonym>Childhood Onset Dystonia</Synonym>
+<Synonym>Primary Dystonia</Synonym>
+<Synonym>Primary Dystonias</Synonym>
+<Synonym>Secondary Dystonias</Synonym>
+<Synonym>Secondary Dystonia</Synonym>
+<Synonym>Sporadic Dystonia</Synonym>
+<Synonym>Sporadic Dystonias</Synonym>
+<Synonym>Familial Dystonia</Synonym>
+<Synonym>Familial Dystonias</Synonym>
+<Synonym>Hereditary Dystonia</Synonym>
+<Synonym>Hereditary Dystonias</Synonym>
+<Synonym>Idiopathic Familial Dystonia</Synonym>
+<Synonym>Idiopathic Familial Dystonias</Synonym>
+<Synonym>Focal Dystonia</Synonym>
+<Synonym>Focal Dystonias</Synonym>
+<Synonym>Pseudodystonia</Synonym>
+<Synonym>Pseudodystonias</Synonym>
+<Synonym>Psychogenic Dystonia</Synonym>
+<Synonym>Psychogenic Dystonias</Synonym>
+<Synonym>Writer's Cramp</Synonym>
+<Synonym>Writer Cramp</Synonym>
+<Synonym>Writers Cramp</Synonym>
+<Synonym>Adult-Onset Dystonias</Synonym>
+<Synonym>Adult Onset Dystonias</Synonym>
+<Synonym>Adult-Onset Dystonia</Synonym>
+<Description>Acquired and inherited conditions that feature DYSTONIA as a primary manifestation of disease. These disorders are generally divided into generalized dystonias (e.g., dystonia musculorum deformans) and focal dystonias (e.g., writer's cramp). They are also classified by patterns of inheritance and by age of onset.</Description>
+<Source>MeSH</Source>
+</Record>

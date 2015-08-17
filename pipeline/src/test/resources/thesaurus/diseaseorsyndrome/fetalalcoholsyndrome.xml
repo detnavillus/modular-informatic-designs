@@ -1,0 +1,22 @@
+<Record>
+<Term>Fetal Alcohol Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fetal Diseases</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases/Fetal Alcohol Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Fetal Alcohol Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Fetal Diseases/Fetal Alcohol Syndrome</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Fetal Alcohol Syndrome</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<Synonym>Fetal Alcohol Syndrome</Synonym>
+<Synonym>Fetal Alcohol Syndromes</Synonym>
+<Description>A condition occurring in FETUS or NEWBORN due to in utero ETHANOL exposure when mother consumed alcohol during PREGNANCY. It is characterized by a cluster of irreversible BIRTH DEFECTS including abnormalities in physical, mental, and behavior development (such as FETAL GROWTH RETARDATION; MENTAL RETARDATION; ATTENTION DEFICIT AND DISRUPTIVE BEHAVIOR DISORDERS) with varied degree of severity in an individual.</Description>
+<Source>MeSH</Source>
+</Record>

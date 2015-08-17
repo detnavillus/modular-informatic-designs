@@ -1,0 +1,36 @@
+<Record>
+<Term>Hemoglobin SC Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Anemia, Sickle Cell</ParentTerm>
+<ParentTerm>Hemoglobinopathy</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Anemia/Anemia, Hemolytic/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Hemoglobin SC Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Hemoglobinopathy/Hemoglobin SC Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Hemoglobinopathies/Anemia, Sickle Cell/Hemoglobin SC Disease</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemoglobinopathies/Anemia, Sickle Cell/Hemoglobin SC Disease</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Anemia, Hemolytic, Congenital/Anemia, Sickle Cell/Hemoglobin SC Disease</ClassificationPath>
+<BroaderTerm>Hemoglobinopathies</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic, Congenital</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Hemoglobin SC Disease</BroaderTerm>
+<BroaderTerm>Hemoglobinopathy</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Anemia, Hemolytic</BroaderTerm>
+<BroaderTerm>Anemia, Sickle Cell</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Hemoglobin SC Diseases</Synonym>
+<Synonym>SC Diseases</Synonym>
+<Synonym>SC Disease</Synonym>
+<Synonym>Hemoglobin SC Disease</Synonym>
+<Synonym>Sickle Cell Hemoglobin C Disease</Synonym>
+<Description>One of the sickle cell disorders characterized by the presence of both hemoglobin S and hemoglobin C. It is similar to, but less severe than sickle cell anemia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

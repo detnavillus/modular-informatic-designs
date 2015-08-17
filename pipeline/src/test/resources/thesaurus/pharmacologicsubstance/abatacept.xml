@@ -1,0 +1,27 @@
+<Record>
+<Term>Abatacept</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Immunosuppressant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Abatacept,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunoconjugate/Abatacept</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Immunoconjugate</BroaderTerm>
+<BroaderTerm>Abatacept</BroaderTerm>
+<BroaderTerm>Abatacept,</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>RG2077</Synonym>
+<Synonym>CTL A4-Ig B7 Inhibitor</Synonym>
+<Synonym>ABATACEPT</Synonym>
+<Synonym>Orencia</Synonym>
+<Synonym>Abatacept</Synonym>
+<Synonym>cytotoxic T lymphocyte-associated antigen-4</Synonym>
+<Synonym>CTLA4-Ig</Synonym>
+<Synonym>BMS-188667</Synonym>
+<Description>A human fusion protein with immunosuppressive activity.  It consists of the binding domain of human cytotoxic T-lymphocyte-associated antigen 4 and human IgG1. CTLA4-Ig works by binding to CD80 and CD86 on antigen presenting cells, thereby blocking the engagement of CD28 on T-cells, a co-stimulatory signal required for full T-cell activation. This co-stimulatory blocker prevents T-cell activation, and proliferation, and subsequent cytokine production. This T-cell regulatory protein may be useful in treating autoimmune diseases such as rheumatoid arthritis, and may help prevent organ transplant rejection.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

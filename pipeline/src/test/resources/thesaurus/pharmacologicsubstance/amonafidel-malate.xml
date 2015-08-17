@@ -1,0 +1,22 @@
+<Record>
+<Term>Amonafide L-Malate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topoisomerase-II Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/DNA Binding Agent/DNA Intercalating Agent/Amonafide L-Malate,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Amonafide L-Malate</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Amonafide L-Malate</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Amonafide L-Malate,</BroaderTerm>
+<BroaderTerm>DNA Intercalating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>DNA Binding Agent</BroaderTerm>
+<Synonym>Amonafide L-Malate</Synonym>
+<Synonym>Xanafide</Synonym>
+<Description>The malate salt of amonafide, an imide derivative of naphthalic acid, with potential antineoplastic activity. Amonafide intercalates into DNA and inhibits topoisomerase II, resulting in DNA double-strand breaks (DSB) and inhibition of DNA replication and RNA synthesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

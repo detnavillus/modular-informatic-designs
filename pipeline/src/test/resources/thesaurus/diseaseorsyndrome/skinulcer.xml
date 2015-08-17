@@ -1,0 +1,27 @@
+<Record>
+<Term>Skin Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Skin Erosion</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Symptom/Integumentary System Signs and Symptoms/Skin Erosion/Skin Ulcer</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer</ClassificationPath>
+<BroaderTerm>Integumentary System Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin Erosion</BroaderTerm>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Symptom</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Leg Ulcer</ChildTerm>
+<ChildTerm>Pressure Ulcer</ChildTerm>
+<ChildTerm>Pyoderma Gangrenosum</ChildTerm>
+<ChildTerm>Buruli Ulcer</ChildTerm>
+<Synonym>Skin Ulcers</Synonym>
+<Synonym>Skin Ulcer</Synonym>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

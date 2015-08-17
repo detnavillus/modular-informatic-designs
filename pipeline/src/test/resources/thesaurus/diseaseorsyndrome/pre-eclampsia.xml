@@ -1,0 +1,27 @@
+<Record>
+<Term>Pre-Eclampsia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypertension, Pregnancy-Induced</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Hypertension, Pregnancy-Induced/Pre-Eclampsia</ClassificationPath>
+<BroaderTerm>Pre-Eclampsia</BroaderTerm>
+<BroaderTerm>Hypertension, Pregnancy-Induced</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<Synonym>Pre-Eclampsia</Synonym>
+<Synonym>Pre Eclampsia</Synonym>
+<Synonym>Hypertension-Edema-Proteinuria Gestosis</Synonym>
+<Synonym>Hypertension Edema Proteinuria Gestosis</Synonym>
+<Synonym>Preeclampsia</Synonym>
+<Synonym>Proteinuria-Edema-Hypertension Gestosis</Synonym>
+<Synonym>Proteinuria Edema Hypertension Gestosis</Synonym>
+<Synonym>EPH Toxemias</Synonym>
+<Synonym>EPH Toxemia</Synonym>
+<Synonym>EPH Gestosis</Synonym>
+<Synonym>Pregnancy Toxemias</Synonym>
+<Synonym>Pregnancy Toxemia</Synonym>
+<Synonym>Edema-Proteinuria-Hypertension Gestosis</Synonym>
+<Synonym>Edema Proteinuria Hypertension Gestosis</Synonym>
+<Synonym>EPH Complex</Synonym>
+<Description>A complication of PREGNANCY, characterized by a complex of symptoms including maternal HYPERTENSION and PROTEINURIA with or without pathological EDEMA. Symptoms may range between mild and severe. Pre-eclampsia usually occurs after the 20th week of gestation, but may develop before this time in the presence of trophoblastic disease.</Description>
+<Source>MeSH</Source>
+</Record>

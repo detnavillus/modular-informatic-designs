@@ -1,0 +1,19 @@
+<Record>
+<Term>Supravalvular Aortic Stenosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aortic Valve Stenosis</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Ventricular Outflow Obstruction/Aortic Valve Stenosis/Aortic Stenosis, Supravalvular</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Heart Valve Diseases/Aortic Valve Stenosis/Aortic Stenosis, Supravalvular</ClassificationPath>
+<BroaderTerm>Aortic Stenosis, Supravalvular</BroaderTerm>
+<BroaderTerm>Ventricular Outflow Obstruction</BroaderTerm>
+<BroaderTerm>Aortic Valve Stenosis</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Heart Valve Diseases</BroaderTerm>
+<ChildTerm>Williams Syndrome</ChildTerm>
+<Synonym>Aortic Supravalvular Stenoses</Synonym>
+<Synonym>Supravalvular Aortic Stenosis</Synonym>
+<Synonym>Aortic Supravalvular Stenosis</Synonym>
+<Description>A pathological constriction occurring in the region above the AORTIC VALVE. It is characterized by restricted outflow from the LEFT VENTRICLE into the AORTA.</Description>
+<Source>MeSH</Source>
+</Record>

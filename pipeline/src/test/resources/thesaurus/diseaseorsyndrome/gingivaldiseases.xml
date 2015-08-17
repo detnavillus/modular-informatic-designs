@@ -1,0 +1,24 @@
+<Record>
+<Term>Gingival Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periodontal Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Gingival Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Gingival Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Pericoronitis</ChildTerm>
+<ChildTerm>Gingival Overgrowth</ChildTerm>
+<ChildTerm>Gingival Hemorrhage</ChildTerm>
+<ChildTerm>Gingival Neoplasms</ChildTerm>
+<ChildTerm>Gingivitis</ChildTerm>
+<ChildTerm>Gingival Recession</ChildTerm>
+<ChildTerm>Granuloma, Giant Cell</ChildTerm>
+<Synonym>Gingival Diseases</Synonym>
+<Synonym>Gingival Disease</Synonym>
+<Synonym>Epulides</Synonym>
+<Synonym>Epulis</Synonym>
+<Synonym>Gingivosis</Synonym>
+<Synonym>Gingivoses</Synonym>
+<Source>MeSH</Source>
+</Record>

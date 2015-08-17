@@ -1,0 +1,17 @@
+<Record>
+<Term>Hepatitis B Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Hepatitis Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Viral Hepatitis Vaccines/Hepatitis B Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Hepatitis B Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Viral Hepatitis Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Hepatitis B Vaccines</Synonym>
+<Synonym>Hepatitis B Vaccine</Synonym>
+<Description>Vaccines or candidate vaccines containing inactivated hepatitis B or some of its component antigens and designed to prevent hepatitis B. Some vaccines may be recombinantly produced.</Description>
+<Source>MeSH</Source>
+</Record>

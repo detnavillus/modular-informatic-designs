@@ -1,0 +1,36 @@
+<Record>
+<Term>Pegylated Liposomal Doxorubicin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Doxorubicin Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation/Pegylated Liposomal Doxorubicin Hydrochloride</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Pegylated Liposomal Doxorubicin Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<Synonym>(8S-cis)-8-Acetyl-10-[(3-amino-2,3,6-trideoxy-a-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-tri-hydroxy-1-methoxy-5,12-naphthacenedione Hydrochloride</Synonym>
+<Synonym>Caelyx</Synonym>
+<Synonym>DOX-SL</Synonym>
+<Synonym>DOXIL</Synonym>
+<Synonym>Doxil</Synonym>
+<Synonym>Doxilen</Synonym>
+<Synonym>Doxorubicin HCl Liposome</Synonym>
+<Synonym>Doxorubicin Hydrochloride Liposomal</Synonym>
+<Synonym>Doxorubicin Hydrochloride Liposome Injection</Synonym>
+<Synonym>Evacet</Synonym>
+<Synonym>LipoDox</Synonym>
+<Synonym>Liposomal Adriamycin</Synonym>
+<Synonym>Liposomal Doxorubicin Hydrochloride</Synonym>
+<Synonym>Liposomal-Encapsulated Doxorubicin</Synonym>
+<Synonym>Pegylated Doxorubicin HCl Liposome</Synonym>
+<Synonym>Pegylated Liposomal Doxorubicin Hydrochloride</Synonym>
+<Synonym>S-Liposomal Doxorubicin</Synonym>
+<Synonym>Stealth Liposomal Doxorubicin</Synonym>
+<Synonym>TLC D-99</Synonym>
+<Description>A liposome-encapsulated preparation of the hydrochloride salt of the anthracycline antineoplastic antibiotic doxorubicin. Doxorubicin intercalates between DNA base pairs, thereby hinders the movement of replication machinery along DNA strands, as well as blocks the activity of topoisomerase II during replication. As a result, this agent causes DNA adducts formation, renders single- and double-stranded DNA breakages that induce DNA repair and or apoptotic processes. Doxorubicin also generates reactive oxygen species that leads to cytotoxicity secondary to lipid peroxidation of cell membrane lipids. Liposomal delivery of doxorubicin HCl improves drug penetration into tumors and decreases drug clearance, thereby increasing the duration of therapeutic drug effects. A liposomal formulation of doxorubicin also modulates toxicity, specifically the cardiac effects commonly seen with anthracycline antitumor drugs.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

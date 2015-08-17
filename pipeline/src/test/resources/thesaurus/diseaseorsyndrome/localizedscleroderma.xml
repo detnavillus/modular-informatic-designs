@@ -1,0 +1,33 @@
+<Record>
+<Term>Localized Scleroderma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Anatomical Abnormality</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>Scleroderma</ParentTerm>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Scleroderma, Localized</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Scleroderma, Localized</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Scleroderma/Localized Scleroderma</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Scleroderma, Localized</BroaderTerm>
+<BroaderTerm>Localized Scleroderma</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Scleroderma</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<Synonym>Circumscribed Scleroderma</Synonym>
+<Synonym>Dermatosclerosis</Synonym>
+<Synonym>Morphea</Synonym>
+<Synonym>Localized Scleroderma</Synonym>
+<Description>A chronic disorder, possibly autoimmune, marked by excessive production of collagen which results in hardening and thickening of body tissues. Localized scleroderma typically affects the skin, with formation of patches or lines of thick and unyielding tissue; there can be muscle and underlying tissue involvement as well as occasional joint complications. The affected areas of skin can be restrictive and disfiguring. The shape, depth and location of the affected area is used to classify one of the four types of local scleroderma. An individual can have a combination of localized scleroderma types.</Description>
+<Description>A term used to describe a variety of localized asymmetrical SKIN thickening that is similar to those of  SYSTEMIC SCLERODERMA but without the disease features in the multiple internal organs and BLOOD VESSELS. Lesions may be characterized as patches or plaques (morphea), bands (linear), or nodules.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

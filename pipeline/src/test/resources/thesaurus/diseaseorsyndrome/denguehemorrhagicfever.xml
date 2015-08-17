@@ -1,0 +1,31 @@
+<Record>
+<Term>Dengue Hemorrhagic Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dengue</ParentTerm>
+<ParentTerm>Dengue Fever</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Dengue/Dengue Hemorrhagic Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Dengue/Dengue Hemorrhagic Fever</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Viral Infection/Dengue Fever/Dengue Hemorrhagic Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Dengue/Dengue Hemorrhagic Fever</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Dengue Hemorrhagic Fever</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Dengue</BroaderTerm>
+<BroaderTerm>Dengue Fever</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>Viral Infection</BroaderTerm>
+<Synonym>Dengue Shock Syndrome</Synonym>
+<Synonym>Dengue Hemorrhagic Fever</Synonym>
+<Description>A distinct and virulent form of DENGUE characterized by thrombocytopenia and hemoconcentration (grades I and II) and distinguished by a positive tourniquet test. When accompanied by circulatory failure and shock (grades III and IV), it is called dengue shock syndrome. (From Dorland, 28th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Lidocaine Topical</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topical Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Topical Preparation/Lidocaine Topical</ClassificationPath>
+<BroaderTerm>Topical Preparation</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Lidocaine Topical</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Lidocaine Topical</Synonym>
+<Description>A synthetic aminoethylamide with local anesthetic activity applied topically to either the skin or mucous membranes. Lidocaine stabilizes the neuronal cell membrane by binding to and inhibiting voltage-gated sodium channels, thereby inhibiting the initiation and conduction of nerve impulses and producing a reversible loss of sensation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

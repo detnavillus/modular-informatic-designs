@@ -1,0 +1,23 @@
+<Record>
+<Term>Radiation-Protective Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Protective Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Protective Agents/Radiation-Protective Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Protective Agents/Radiation-Protective Agents</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Radiation-Protective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Protective Agents</BroaderTerm>
+<ChildTerm>Sunscreening Agents</ChildTerm>
+<Synonym>Radiation Protective Drugs</Synonym>
+<Synonym>Radiation Protectants</Synonym>
+<Synonym>Radiation-Protective Drugs</Synonym>
+<Synonym>Radiation-Protective Agents</Synonym>
+<Synonym>Radiation Protective Agents</Synonym>
+<Synonym>Radioprotective Agents</Synonym>
+<Synonym>Radioprotective Drugs</Synonym>
+<Description>Drugs used to protect against ionizing radiation. They are usually of interest for use in radiation therapy but have been considered for other, e.g. military, purposes.</Description>
+<Source>MeSH</Source>
+</Record>

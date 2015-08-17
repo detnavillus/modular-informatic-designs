@@ -1,0 +1,19 @@
+<Record>
+<Term>Aplastic Anemia due to Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Aplastic Anemia due to Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Anemia/Aplastic Anemia/Aplastic Anemia due to Infection/Aplastic Anemia due to Hepatitis</ClassificationPath>
+<BroaderTerm>Aplastic Anemia due to Hepatitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Anemia</BroaderTerm>
+<BroaderTerm>Aplastic Anemia</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Aplastic Anemia due to Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Aplastic Anemia due to Hepatitis</Synonym>
+<Description>Bone marrow failure defined as pancytopenia, secondary to hepatitis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

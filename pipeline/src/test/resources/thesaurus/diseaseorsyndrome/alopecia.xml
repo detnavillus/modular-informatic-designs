@@ -1,0 +1,38 @@
+<Record>
+<Term>Alopecia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Pathological Conditions, Anatomical</ParentTerm>
+<ParentTerm>Non-Neoplastic Hair Disorder</ParentTerm>
+<ParentTerm>Hypotrichosis</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Alopecia</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Non-Neoplastic Hair Disorder/Alopecia</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Hypotrichosis/Alopecia</ClassificationPath>
+<BroaderTerm>Alopecia</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hair Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Hypotrichosis</BroaderTerm>
+<ChildTerm>Alopecia Areata</ChildTerm>
+<ChildTerm>Mucinosis, Follicular</ChildTerm>
+<ChildTerm>Congenital Alopecia</ChildTerm>
+<Synonym>Alopecia</Synonym>
+<Synonym>Pseudopelade</Synonym>
+<Synonym>alopecia</Synonym>
+<Synonym>Male Pattern Baldness</Synonym>
+<Synonym>Male Pattern Alopecia</Synonym>
+<Synonym>Baldness</Synonym>
+<Synonym>Androgenetic Alopecia</Synonym>
+<Description>Absence of hair from areas where it is normally present.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

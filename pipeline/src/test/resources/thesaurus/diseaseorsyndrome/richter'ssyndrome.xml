@@ -1,0 +1,11 @@
+<Record>
+<Term>Richter's Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Richter's Syndrome</ClassificationPath>
+<BroaderTerm>Richter's Syndrome</BroaderTerm>
+<Synonym>Richter's Syndrome</Synonym>
+<Synonym>Richter's Transformation</Synonym>
+<Description>Transformation of chronic lymphocytic leukemia into aggressive non-Hodgkin's lymphoma, usually diffuse large B-cell lymphoma (immunoblastic or centroblastic variant).  Occasional cases of transformation to Hodgkin's lymphoma have also been described, particularly in patients treated with purine nucleotide analogues.  Molecular genetic studies suggest that in approximately half of the cases, the lymphoma is clonally related to the underlying chronic lymphocytic leukemia, whereas in the remaining cases the lymphoma probably represents a secondary, unrelated neoplasm.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Iris Vascular Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ocular Vascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Ocular Vascular Disorder/Iris Vascular Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Uveal Disorder/Iris Disorder/Iris Vascular Disorder</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Uveal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Iris Vascular Disorder</BroaderTerm>
+<BroaderTerm>Ocular Vascular Disorder</BroaderTerm>
+<BroaderTerm>Iris Vascular Disorder,</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Iris Disorder</BroaderTerm>
+<Synonym>Iris Vascular Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

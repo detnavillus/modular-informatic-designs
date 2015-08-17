@@ -1,0 +1,33 @@
+<Record>
+<Term>Otitis Externa</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Otitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Ear Infection/Otitis/External Ear Infection,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Non-Neoplastic External Ear Disorder/External Ear Infection</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis/Otitis Externa</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic External Ear Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>External Ear Infection,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Otitis Externa</BroaderTerm>
+<BroaderTerm>External Ear Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Infection</BroaderTerm>
+<ChildTerm>Infective Otitis Externa</ChildTerm>
+<Synonym>External Otitides</Synonym>
+<Synonym>Inflammation of the External Auditory Canal</Synonym>
+<Synonym>Inflammation of External Auditory Canal</Synonym>
+<Synonym>Otitis Externa</Synonym>
+<Synonym>External Otitis</Synonym>
+<Synonym>External Ear Infection</Synonym>
+<Description>Inflammation of the OUTER EAR including the external EAR CANAL, cartilages of the auricle (EAR CARTILAGE), and the TYMPANIC MEMBRANE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

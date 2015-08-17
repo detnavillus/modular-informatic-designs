@@ -1,0 +1,33 @@
+<Record>
+<Term>Multiple System Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Basal Ganglia Diseases</ParentTerm>
+<ParentTerm>Primary Dysautonomias</ParentTerm>
+<ParentTerm>Movement Disorders</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Multiple System Atrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Multiple System Atrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Primary Dysautonomias/Multiple System Atrophy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Multiple System Atrophy</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Primary Dysautonomias</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Multiple System Atrophy</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Shy-Drager Syndrome</ChildTerm>
+<ChildTerm>Striatonigral Degeneration</ChildTerm>
+<ChildTerm>Olivopontocerebellar Atrophies</ChildTerm>
+<Synonym>Multisystemic Atrophies</Synonym>
+<Synonym>Multisystem Atrophies</Synonym>
+<Synonym>Multisystemic Atrophy</Synonym>
+<Synonym>Multiple System Atrophy Syndrome</Synonym>
+<Synonym>Multiple System Atrophy</Synonym>
+<Synonym>Multisystem Atrophy</Synonym>
+<Synonym>Multiple System Atrophies</Synonym>
+<Description>A syndrome complex composed of three conditions which represent clinical variants of the same disease process: STRIATONIGRAL DEGENERATION; SHY-DRAGER SYNDROME; and the sporadic form of OLIVOPONTOCEREBELLAR ATROPHIES. Clinical features include autonomic, cerebellar, and basal ganglia dysfunction. Pathologic examination reveals atrophy of the basal ganglia, cerebellum, pons, and medulla, with prominent loss of autonomic neurons in the brain stem and spinal cord. (From Adams et al., Principles of Neurology, 6th ed, p1076; Baillieres Clin Neurol 1997 Apr;6(1):187-204; Med Clin North Am 1999 Mar;83(2):381-92)</Description>
+<Source>MeSH</Source>
+</Record>

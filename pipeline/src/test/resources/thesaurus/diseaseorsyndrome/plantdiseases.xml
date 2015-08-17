@@ -1,0 +1,13 @@
+<Record>
+<Term>Plant Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Plant Physiological Phenomena</ParentTerm>
+<ClassificationPath>Plant Physiological Phenomena/Plant Diseases</ClassificationPath>
+<BroaderTerm>Plant Diseases</BroaderTerm>
+<BroaderTerm>Plant Physiological Phenomena</BroaderTerm>
+<ChildTerm>Plant Tumors</ChildTerm>
+<Synonym>Plant Diseases</Synonym>
+<Synonym>Plant Disease</Synonym>
+<Description>Diseases of plants.</Description>
+<Source>MeSH</Source>
+</Record>

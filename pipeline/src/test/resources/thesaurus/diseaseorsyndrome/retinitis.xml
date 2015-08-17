@@ -1,0 +1,16 @@
+<Record>
+<Term>Retinitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Retinal Diseases</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinitis</ClassificationPath>
+<BroaderTerm>Retinitis</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Chorioretinitis</ChildTerm>
+<ChildTerm>Retinal Necrosis Syndrome, Acute</ChildTerm>
+<ChildTerm>Cytomegalovirus Retinitis</ChildTerm>
+<Synonym>Retinitis</Synonym>
+<Synonym>Neuroretinitis</Synonym>
+<Description>Inflammation of the RETINA. It is rarely limited to the retina, but is commonly associated with diseases of the choroid (CHORIORETINITIS) and of the OPTIC DISK (neuroretinitis).</Description>
+<Source>MeSH</Source>
+</Record>

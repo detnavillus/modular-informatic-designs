@@ -1,0 +1,30 @@
+<Record>
+<Term>Inclusion Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Conjunctivitis, Bacterial</ParentTerm>
+<ParentTerm>Chlamydia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Chlamydiaceae Infections/Chlamydia Infections/Conjunctivitis, Inclusion</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Conjunctivitis, Inclusion</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Conjunctivitis, Inclusion</ClassificationPath>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Bacterial/Conjunctivitis, Inclusion</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial/Conjunctivitis, Inclusion</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Inclusion</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Chlamydia Infections</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Bacterial</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Chlamydiaceae Infections</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<Synonym>Inclusion Blennorrhea</Synonym>
+<Synonym>Inclusion Blennorrheas</Synonym>
+<Synonym>Inclusion Conjunctivitides</Synonym>
+<Synonym>Inclusion Conjunctivitis</Synonym>
+<Description>An infection of the eyes characterized by the presence in conjunctival epithelial cells of inclusion bodies indistinguishable from those of trachoma. It is acquired by infants during birth and by adults from swimming pools. The etiological agent is CHLAMYDIA TRACHOMATIS whose natural habitat appears to be the genito-urinary tract. Inclusion conjunctivitis is a less severe disease than trachoma and usually clears up spontaneously.</Description>
+<Source>MeSH</Source>
+</Record>

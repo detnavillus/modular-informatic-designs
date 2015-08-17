@@ -1,0 +1,15 @@
+<Record>
+<Term>Iodine I 125-Anti-EGFR-425 Monoclonal Antibody</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Iodine I 125-Anti-EGFR-425 Monoclonal Antibody</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Iodine I 125-Anti-EGFR-425 Monoclonal Antibody</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Iodine I 125-Anti-EGFR-425 Monoclonal Antibody</Synonym>
+<Description>A radioimmunoconjugate consisting of a murine IgG2a monoclonal antibody directed against the human epidermal growth factor receptor (EGFR) labeled with iodine I 125 with potential antineoplastic activity. Iodine I 125 anti-EGFR-425 monoclonal antibody binds specifically to the epidermal growth factor receptor (EGFR). Upon binding to EGFR-expressing tumor cells, this agent is internalized, selectively delivering a potentially cytotoxic dose of gamma radiation. EGFR is a receptor tyrosine kinase that may be overexpressed on the cell surfaces of various solid tumors.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

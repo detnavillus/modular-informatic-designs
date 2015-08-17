@@ -1,0 +1,16 @@
+<Record>
+<Term>Coxsackievirus A21</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Coxsackievirus A21</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Coxsackievirus A21</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CVA21</Synonym>
+<Synonym>Coxsackievirus A21</Synonym>
+<Description>A naturally occurring enterovirus with potential antitumor activity. Upon intratumoral administration, coxsackievirus A21 targets and binds to intracellular adhesion molecule 1 (ICAM-1) and decay acceleration factor (DAF), both cell surface molecules that are both overexpressed on certain malignant cells. After entering the cells, coxsackievirus A21 replicates in these cancer cells, thereby causing cancer cell lysis. This results in a reduction of tumor cell growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

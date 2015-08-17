@@ -1,0 +1,19 @@
+<Record>
+<Term>Mycobacterium Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinomycetales Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections</ClassificationPath>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Tuberculosis</ChildTerm>
+<ChildTerm>Mycobacterium Infections, Atypical</ChildTerm>
+<ChildTerm>Leprosy</ChildTerm>
+<ChildTerm>Paratuberculosis</ChildTerm>
+<Synonym>Mycobacterium Infections</Synonym>
+<Synonym>Mycobacterium Infection</Synonym>
+<Description>Infections with bacteria of the genus MYCOBACTERIUM.</Description>
+<Source>MeSH</Source>
+</Record>

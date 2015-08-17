@@ -1,0 +1,28 @@
+<Record>
+<Term>Lens Subluxation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Congenital Abnormality</SemanticType>
+<SemanticType>Injury or Poisoning</SemanticType>
+<ParentTerm>Lens Diseases</ParentTerm>
+<ParentTerm>Lens Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Lens Disorder/Lens Subluxation</ClassificationPath>
+<ClassificationPath>Eye Diseases/Lens Diseases/Lens Subluxation</ClassificationPath>
+<BroaderTerm>Lens Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lens Disorder</BroaderTerm>
+<BroaderTerm>Lens Subluxation</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Ectopia Lentis</ChildTerm>
+<Synonym>Lens Dislocation</Synonym>
+<Synonym>Lens Subluxations</Synonym>
+<Synonym>Lens Dislocation and Subluxation</Synonym>
+<Synonym>Lens Dislocations</Synonym>
+<Synonym>Lens Subluxation</Synonym>
+<Description>Incomplete rupture of the zonule with the displaced lens remaining behind the pupil. In dislocation, or complete rupture, the lens is displaced forward into the anterior chamber or backward into the vitreous body. When congenital, this condition is known as ECTOPIA LENTIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

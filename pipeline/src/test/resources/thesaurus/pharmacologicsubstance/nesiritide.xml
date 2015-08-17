@@ -1,0 +1,22 @@
+<Record>
+<Term>Nesiritide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vasodilating Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Vasodilating Agent/Nesiritide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Vasodilating Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Nesiritide</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>1,2-Dithia-5,8,11,14,17,20,23,26,29,32,35,38,41,44,47,50-hexadecaazacyclotripentacontane, Cyclic Peptide Derivative</Synonym>
+<Synonym>Human Brain Natriuretic Factor-32</Synonym>
+<Synonym>L-Histidine, L-seryl-L-prolyl-L-lysyl-L-methionyl-L-valyl-L-glutaminylglycyl-L-serylglycyl-L-cysteinyl-L-phenylalanylglycyl-L-arginyl-L-lysyl-L-methionyl-L-alpha-aspartyl-L-arginyl-L-isoleucyl-L-seryl-L-seryl-L-seryl-L-serylglycyl-L-leucylglycyl-L-cysteinyl-L-lysyl-L-valyl-L-leucyl-L-arginyl-L-arginyl-, Cyclic (10-26)-disulfide</Synonym>
+<Synonym>NESIRITIDE</Synonym>
+<Synonym>Natrecor</Synonym>
+<Synonym>Natriuretic Peptide Type-B</Synonym>
+<Synonym>Natriuretic factor-32</Synonym>
+<Synonym>Nesiritide</Synonym>
+<Description>A recombinant version of the cardiac neurohormone, human B-type natriuretic peptide (hBNP) produced by the ventricular myocardium. Nesiritide binds to natriuretic peptide receptors on vascular smooth muscle and endothelial cells, through which it triggers guanylate cyclase dependent signal transduction resulting in increase of intracellular concentrations of cGMP. This leads to smooth muscle cell relaxation causing arterial and venous dilatation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

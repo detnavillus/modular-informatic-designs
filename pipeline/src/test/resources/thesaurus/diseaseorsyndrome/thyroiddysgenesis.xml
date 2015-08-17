@@ -1,0 +1,21 @@
+<Record>
+<Term>Thyroid Dysgenesis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroid Diseases</ParentTerm>
+<ParentTerm>Congenital Abnormalities</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Congenital Abnormalities/Thyroid Dysgenesis</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroid Dysgenesis</ClassificationPath>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Thyroid Dysgenesis</BroaderTerm>
+<BroaderTerm>Congenital Abnormalities</BroaderTerm>
+<ChildTerm>Lingual Thyroid</ChildTerm>
+<Synonym>Ectopic Thyroids</Synonym>
+<Synonym>Thyroid Agenesis</Synonym>
+<Synonym>Thyroid Dysgenesis</Synonym>
+<Synonym>Ectopic Thyroid</Synonym>
+<Synonym>Thyroid Hypoplasia</Synonym>
+<Description>Defective development of the THYROID GLAND. This concept includes thyroid agenesis (aplasia), hypoplasia, or an ectopic gland. Clinical signs usually are those of CONGENITAL HYPOTHYROIDISM.</Description>
+<Source>MeSH</Source>
+</Record>

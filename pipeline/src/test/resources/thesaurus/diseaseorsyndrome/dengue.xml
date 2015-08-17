@@ -1,0 +1,22 @@
+<Record>
+<Term>Dengue</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ParentTerm>Arbovirus Infections</ParentTerm>
+<ParentTerm>Flavivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Arbovirus Infections/Dengue</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Dengue</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Flaviviridae Infections/Flavivirus Infections/Dengue</ClassificationPath>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Arbovirus Infections</BroaderTerm>
+<BroaderTerm>Flavivirus Infections</BroaderTerm>
+<BroaderTerm>Flaviviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Dengue</BroaderTerm>
+<ChildTerm>Dengue Hemorrhagic Fever</ChildTerm>
+<Synonym>Dengue</Synonym>
+<Synonym>Dengue Fever</Synonym>
+<Description>An acute infectious, eruptive, febrile disease caused by four antigenically related but distinct serotypes of the DENGUE VIRUS. It is transmitted by the bite of infected Aedes mosquitoes, especially A. aegypti. Classical dengue (dengue fever) is self-limiting and characterized by fever, myalgia, headache, and rash. DENGUE HEMORRHAGIC FEVER is a more virulent form of dengue virus infection and a separate clinical entity. (From Dorland, 28th ed)</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Diaper Rash</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dermatitis, Irritant</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Eczematous/Dermatitis, Contact/Dermatitis, Irritant/Diaper Rash</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Dermatitis/Dermatitis, Contact/Dermatitis, Irritant/Diaper Rash</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Irritant</BroaderTerm>
+<BroaderTerm>Skin Diseases, Eczematous</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis, Contact</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Diaper Rash</BroaderTerm>
+<Synonym>Diaper Rashes</Synonym>
+<Synonym>Diaper Rash</Synonym>
+<Description>A type of irritant dermatitis localized to the area in contact with a diaper and occurring most often as a reaction to prolonged contact with urine, feces, or retained soap or detergent.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,33 @@
+<Record>
+<Term>Idiopathic Pulmonary Fibrosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pulmonary Fibrosis</ParentTerm>
+<ParentTerm>Idiopathic Interstitial Pneumonias</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Interstitial/Idiopathic Interstitial Pneumonias/Idiopathic Pulmonary Fibrosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Pulmonary Fibrosis/Idiopathic Pulmonary Fibrosis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Fibrosis/Idiopathic Pulmonary Fibrosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Pulmonary Fibrosis</BroaderTerm>
+<BroaderTerm>Idiopathic Interstitial Pneumonias</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Idiopathic Pulmonary Fibrosis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Interstitial</BroaderTerm>
+<Synonym>Idiopathic Pulmonary Fibroses</Synonym>
+<Synonym>Cryptogenic Fibrosing Alveolitis</Synonym>
+<Synonym>Usual Interstitial Pneumonia</Synonym>
+<Synonym>IPF</Synonym>
+<Synonym>Cryptogenic Fibrosing Alveolitides</Synonym>
+<Synonym>Usual Interstitial Pneumonias</Synonym>
+<Synonym>Idiopathic Pulmonary Fibrosis</Synonym>
+<Description>A common interstitial lung disease of unknown etiology, usually occurring between 50-70 years of age. Clinically, it is characterized by an insidious onset of breathlessness with exertion and a nonproductive cough, leading to progressive DYSPNEA. Pathological features show scant interstitial inflammation, patchy collagen fibrosis, prominent fibroblast proliferation foci, and microscopic honeycomb change.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

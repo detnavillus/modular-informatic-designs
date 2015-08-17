@@ -1,0 +1,17 @@
+<Record>
+<Term>Trypsin Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Serine Proteinase Inhibitors</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Inhibitors/Protease Inhibitors/Serine Proteinase Inhibitors/Trypsin Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitors</BroaderTerm>
+<BroaderTerm>Serine Proteinase Inhibitors</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Trypsin Inhibitors</BroaderTerm>
+<BroaderTerm>Protease Inhibitors</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Trypsin Inhibitors</Synonym>
+<Description>Serine proteinase inhibitors which inhibit trypsin. They may be endogenous or exogenous compounds.</Description>
+<Source>MeSH</Source>
+</Record>

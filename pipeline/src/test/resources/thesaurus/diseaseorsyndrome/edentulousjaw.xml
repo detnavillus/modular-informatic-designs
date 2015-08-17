@@ -1,0 +1,22 @@
+<Record>
+<Term>Edentulous Jaw</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth, Edentulous</ParentTerm>
+<ParentTerm>Jaw Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Jaw, Edentulous</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Jaw, Edentulous</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Mouth, Edentulous/Jaw, Edentulous</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Mouth, Edentulous/Jaw, Edentulous</ClassificationPath>
+<BroaderTerm>Mouth, Edentulous</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Jaw, Edentulous</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Jaw, Edentulous, Partially</ChildTerm>
+<Synonym>Edentulous Jaws</Synonym>
+<Synonym>Edentulous Jaw</Synonym>
+<Description>The total absence of teeth from either the mandible or the maxilla, but not both. Total absence of teeth from both is MOUTH, EDENTULOUS. Partial absence of teeth in either is JAW, EDENTULOUS, PARTIALLY.</Description>
+<Source>MeSH</Source>
+</Record>

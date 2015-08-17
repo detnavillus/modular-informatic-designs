@@ -1,0 +1,20 @@
+<Record>
+<Term>Hepatopulmonary Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Hepatopulmonary Syndrome</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatopulmonary Syndrome</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatopulmonary Syndrome</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<Synonym>Hepato-Pulmonary Syndrome</Synonym>
+<Synonym>Hepato-Pulmonary Syndromes</Synonym>
+<Synonym>Hepatopulmonary Syndrome</Synonym>
+<Synonym>Hepato Pulmonary Syndrome</Synonym>
+<Synonym>Hepatopulmonary Syndromes</Synonym>
+<Description>A syndrome characterized by the clinical triad of advanced chronic liver disease, pulmonary vascular dilatations, and reduced arterial oxygenation (HYPOXEMIA) in the absence of intrinsic cardiopulmonary disease. This syndrome is common in the patients with LIVER CIRRHOSIS or portal hypertension (HYPERTENSION, PORTAL).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Sodium Azide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Azides</ParentTerm>
+<ParentTerm>Sodium Compounds</ParentTerm>
+<ClassificationPath>Inorganic Chemicals/Sodium Compounds/Sodium Azide</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Nitrogen Compounds/Azides/Sodium Azide</ClassificationPath>
+<BroaderTerm>Azides</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Sodium Compounds</BroaderTerm>
+<BroaderTerm>Nitrogen Compounds</BroaderTerm>
+<BroaderTerm>Sodium Azide</BroaderTerm>
+<Synonym>NaN3</Synonym>
+<Synonym>Sodium Azide</Synonym>
+<Description>A cytochrome oxidase inhibitor which is a nitridizing agent and an inhibitor of terminal oxidation. (From Merck Index, 12th ed)</Description>
+<Source>MeSH</Source>
+</Record>

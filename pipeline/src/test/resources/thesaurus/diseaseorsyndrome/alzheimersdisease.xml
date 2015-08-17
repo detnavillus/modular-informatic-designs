@@ -1,0 +1,14 @@
+<Record>
+<Term></Term>
+<SemanticType>Conceptual Entity</SemanticType>
+<ParentTerm>Neurodegenerative Disorders Pathway</ParentTerm>
+<ClassificationPath>Pathway_Kind/Biochemical Pathway/Disease Pathway/Neurodegenerative Disorders Pathway/Alzheimer's Disease Pathway</ClassificationPath>
+<BroaderTerm>Neurodegenerative Disorders Pathway</BroaderTerm>
+<BroaderTerm>Disease Pathway</BroaderTerm>
+<BroaderTerm>Alzheimer's Disease Pathway</BroaderTerm>
+<BroaderTerm>Biochemical Pathway</BroaderTerm>
+<BroaderTerm>Pathway_Kind</BroaderTerm>
+<Synonym>Alzheimer's Disease Pathway</Synonym>
+<Synonym>Alzheimer's Disease</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

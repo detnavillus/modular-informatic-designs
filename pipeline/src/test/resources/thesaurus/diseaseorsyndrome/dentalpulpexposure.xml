@@ -1,0 +1,13 @@
+<Record>
+<Term>Dental Pulp Exposure</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dental Pulp Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Dental Pulp Diseases/Dental Pulp Exposure</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Dental Pulp Diseases</BroaderTerm>
+<BroaderTerm>Dental Pulp Exposure</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<Synonym>Dental Pulp Exposure</Synonym>
+<Description>The result of pathological changes in the hard tissue of a tooth caused by carious lesions, mechanical factors, or trauma, which render the pulp susceptible to bacterial invasion from the external environment.</Description>
+<Source>MeSH</Source>
+</Record>

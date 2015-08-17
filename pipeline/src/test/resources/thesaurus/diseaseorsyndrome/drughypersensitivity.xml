@@ -1,0 +1,17 @@
+<Record>
+<Term>Drug Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Drug Hypersensitivity</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Drug Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Drug Eruptions</ChildTerm>
+<ChildTerm>Asthma, Aspirin-Induced</ChildTerm>
+<Synonym>Drug Hypersensitivity</Synonym>
+<Synonym>Drug Hypersensitivities</Synonym>
+<Synonym>Drug Allergy</Synonym>
+<Synonym>Drug Allergies</Synonym>
+<Description>Immunologically mediated adverse reactions to medicinal substances used legally or illegally.</Description>
+<Source>MeSH</Source>
+</Record>

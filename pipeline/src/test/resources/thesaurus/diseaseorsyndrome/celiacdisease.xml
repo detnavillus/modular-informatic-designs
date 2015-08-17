@@ -1,0 +1,36 @@
+<Record>
+<Term>Celiac Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malabsorption Syndromes</ParentTerm>
+<ParentTerm>Malabsorption Syndrome</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Malabsorption Syndromes/Celiac Disease</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Malabsorption Syndrome/Celiac Disease</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Malabsorption Syndromes/Celiac Disease</ClassificationPath>
+<BroaderTerm>Malabsorption Syndromes</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Malabsorption Syndrome</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Celiac Disease</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Latent Celiac Disease</ChildTerm>
+<ChildTerm>Collagenous Sprue</ChildTerm>
+<Synonym>Non Tropical Sprue</Synonym>
+<Synonym>Nontropical Sprue</Synonym>
+<Synonym>Gluten-Sensitive Enteropathies</Synonym>
+<Synonym>Gluten-Induced Enteropathy</Synonym>
+<Synonym>Gluten-Sensitive Enteropathy</Synonym>
+<Synonym>Celiac Disease</Synonym>
+<Synonym>Celiac Sprue</Synonym>
+<Synonym>Gluten Enteropathy</Synonym>
+<Synonym>Gluten Enteropathies</Synonym>
+<Synonym>Gluten Sensitive Enteropathy</Synonym>
+<Description>A malabsorption syndrome that is precipitated by the ingestion of GLUTEN-containing foods, such as wheat, rye, and barley. It is characterized by INFLAMMATION of the SMALL INTESTINE, loss of MICROVILLI structure, failed INTESTINAL ABSORPTION, and MALNUTRITION.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

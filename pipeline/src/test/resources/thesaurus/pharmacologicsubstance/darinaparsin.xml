@@ -1,0 +1,17 @@
+<Record>
+<Term>Darinaparsin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Darinaparsin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Darinaparsin</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>DMAIII(SG)</Synonym>
+<Synonym>Darinaparsin</Synonym>
+<Synonym>S-Dimethylarsino-Glutathione</Synonym>
+<Synonym>ZIO-101</Synonym>
+<Description>A small-molecule organic arsenical with potential antineoplastic activity. Although the exact mechanism of action is unclear, darinaparsin, a highly toxic metabolic intermediate of inorganic arsenicals (iAs) that occurs in vivo, appears to generate volatile cytotoxic arsenic compounds when glutathione (GSH) concentrations are low. The arsenic compounds generated from darinaparsin disrupt mitochondrial bioenergetics, producing reactive oxygen species (ROS) and inducing ROS-mediated tumor cell apoptosis; in addition, this agent or its byproducts may initiate cell death by interrupting the G2/M phase of the cell cycle and may exhibit antiangiogenic effects. Compared to inorganic arsenic compounds such as arsenic trioxide (As2O3), darinaparsin appears to exhibit a wide therapeutic window.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

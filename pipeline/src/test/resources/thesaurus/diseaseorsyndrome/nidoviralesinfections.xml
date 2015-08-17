@@ -1,0 +1,14 @@
+<Record>
+<Term>Nidovirales Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>RNA Virus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Nidovirales Infections</ClassificationPath>
+<BroaderTerm>Nidovirales Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<ChildTerm>Coronaviridae Infections</ChildTerm>
+<ChildTerm>Arterivirus Infections</ChildTerm>
+<Synonym>Nidovirales Infections</Synonym>
+<Description>Infections with viruses of the order NIDOVIRALES. The concept includes ARTERIVIRUS INFECTIONS and CORONAVIRIDAE INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

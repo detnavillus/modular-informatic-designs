@@ -1,0 +1,18 @@
+<Record>
+<Term>Combat Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Stress Disorders, Traumatic</ParentTerm>
+<ClassificationPath>Mental Disorders/Anxiety Disorders/Stress Disorders, Traumatic/Combat Disorders</ClassificationPath>
+<BroaderTerm>Anxiety Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Combat Disorders</BroaderTerm>
+<BroaderTerm>Stress Disorders, Traumatic</BroaderTerm>
+<Synonym>Combat Disorders</Synonym>
+<Synonym>Combat Disorder</Synonym>
+<Synonym>Combat Neurosis</Synonym>
+<Synonym>Combat Neuroses</Synonym>
+<Synonym>War Neurosis</Synonym>
+<Synonym>War Neuroses</Synonym>
+<Description>Neurotic reactions to unusual, severe, or overwhelming military stress.</Description>
+<Source>MeSH</Source>
+</Record>

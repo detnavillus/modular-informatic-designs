@@ -1,0 +1,35 @@
+<Record>
+<Term>Malaria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ParentTerm>Protozoan Infections</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Malaria</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Malaria</ClassificationPath>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Malaria</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Malaria, Cerebral</ChildTerm>
+<ChildTerm>Falciparum Malaria</ChildTerm>
+<ChildTerm>Malaria, Avian</ChildTerm>
+<ChildTerm>Malaria, Vivax</ChildTerm>
+<ChildTerm>Blackwater Fever</ChildTerm>
+<ChildTerm>Malaria, Falciparum</ChildTerm>
+<ChildTerm>Vivax Malaria</ChildTerm>
+<ChildTerm>Quartan Malaria</ChildTerm>
+<Synonym>Plasmodium Infections</Synonym>
+<Synonym>Malaria</Synonym>
+<Synonym>Plasmodium Infection</Synonym>
+<Synonym>Paludism</Synonym>
+<Synonym>Marsh Fever</Synonym>
+<Synonym>Remittent Fever</Synonym>
+<Description>A protozoan disease caused in humans by four species of the PLASMODIUM genus: PLASMODIUM FALCIPARUM; PLASMODIUM VIVAX; PLASMODIUM OVALE; and PLASMODIUM MALARIAE; and transmitted by the bite of an infected female mosquito of the genus ANOPHELES. Malaria is endemic in parts of Asia, Africa, Central and South America, Oceania, and certain Caribbean islands. It is characterized by extreme exhaustion associated with paroxysms of high FEVER; SWEATING; shaking CHILLS; and ANEMIA. Malaria in ANIMALS is caused by other species of plasmodia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

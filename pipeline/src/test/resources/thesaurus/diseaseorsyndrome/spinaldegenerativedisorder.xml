@@ -1,0 +1,24 @@
+<Record>
+<Term>Spinal Degenerative Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Spinal Degenerative Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Degenerative Disorder/Spinal Degenerative Disorder</ClassificationPath>
+<BroaderTerm>Spinal Degenerative Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Degenerative Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Spinal Degenerative Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Spinal Degenerative Arthritis</ChildTerm>
+<ChildTerm>Intervertebral Disc Degenerative Disorder</ChildTerm>
+<ChildTerm>Vertebral Disc Degenerative Disorder</ChildTerm>
+<Synonym>Spinal Degenerative Disease</Synonym>
+<Synonym>Spinal Degenerative Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

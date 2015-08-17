@@ -1,0 +1,26 @@
+<Record>
+<Term>Respiratory Distress Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Lung Disorder/Respiratory Failure/Respiratory Distress Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Respiratory Distress Syndrome</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Lung Disorder</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome</BroaderTerm>
+<BroaderTerm>Respiratory Failure</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Distress Syndrome,</BroaderTerm>
+<ChildTerm>Adult Respiratory Distress Syndrome</ChildTerm>
+<ChildTerm>Neonatal Respiratory Distress Syndrome</ChildTerm>
+<ChildTerm>Acute Respiratory Distress Syndrome</ChildTerm>
+<Synonym>RDS</Synonym>
+<Synonym>Respiratory Distress Syndrome</Synonym>
+<Description>A group of conditions characterized by failure of normal respiration caused by lack of lung surfactant.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

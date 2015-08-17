@@ -1,0 +1,17 @@
+<Record>
+<Term>Mediastinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thoracic Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Thoracic Diseases/Mediastinal Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Mediastinal Diseases</BroaderTerm>
+<BroaderTerm>Thoracic Diseases</BroaderTerm>
+<ChildTerm>Mediastinal Cyst</ChildTerm>
+<ChildTerm>Mediastinal Emphysema</ChildTerm>
+<ChildTerm>Mediastinal Neoplasms</ChildTerm>
+<ChildTerm>Mediastinitis</ChildTerm>
+<Synonym>Mediastinal Diseases</Synonym>
+<Synonym>Mediastinal Disease</Synonym>
+<Description>Disorders of the mediastinum, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

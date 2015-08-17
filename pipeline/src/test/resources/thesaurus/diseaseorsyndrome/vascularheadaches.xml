@@ -1,0 +1,24 @@
+<Record>
+<Term>Vascular Headaches</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorders</ParentTerm>
+<ParentTerm>Headache Disorders, Secondary</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Vascular Headaches</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Headache Disorders/Headache Disorders, Secondary/Vascular Headaches</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Vascular Headaches</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Vascular Headaches</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Headache Disorders, Secondary</BroaderTerm>
+<BroaderTerm>Headache Disorders</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<Synonym>Vascular Cephalgias</Synonym>
+<Synonym>Vascular Headaches</Synonym>
+<Synonym>Vascular Cephalgia</Synonym>
+<Synonym>Vascular Headache</Synonym>
+<Description>Secondary headache disorders attributed to a variety of cranial or cervical vascular disorders, such as BRAIN ISCHEMIA; INTRACRANIAL HEMORRHAGES; and CENTRAL NERVOUS SYSTEM VASCULAR MALFORMATIONS.</Description>
+<Source>MeSH</Source>
+</Record>

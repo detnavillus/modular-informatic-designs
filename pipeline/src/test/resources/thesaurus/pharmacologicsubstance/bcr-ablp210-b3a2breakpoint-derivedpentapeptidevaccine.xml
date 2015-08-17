@@ -1,0 +1,19 @@
+<Record>
+<Term>BCR-ABL p210-b3a2 Breakpoint-derived Pentapeptide Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>BCR-ABL Peptide Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/BCR-ABL Peptide Vaccine/BCR-ABL p210-b3a2 Breakpoint-derived Pentapeptide Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>BCR-ABL p210-b3a2 Breakpoint-derived Pentapeptide Vaccine</BroaderTerm>
+<BroaderTerm>BCR-ABL Peptide Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>BCR-ABL p210-b3a2 Breakpoint-derived Pentapeptide Vaccine</Synonym>
+<Synonym>CML-VAX100</Synonym>
+<Synonym>p210-B3A2 Derived Peptide Vaccine</Synonym>
+<Description>A multipeptide vaccine consisting of five peptides derived from the bcr-abl p210-b3a2 breakpoint fusion protein with potential antineoplastic activity. Vaccination with bcr-abl p210-b3a2 breakpoint-derived multipeptide vaccine may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against tumor cells that express the bcr-abl p210-b3a2 breakpoint fusion protein. In chronic myelogenous leukemia (CML), fusion genes typically result from the fusion of either bcr exon b2 or exon b3 to abl exon a2, resulting in either a b3a2 or a b2a2 gene fusion product.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

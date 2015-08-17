@@ -1,0 +1,15 @@
+<Record>
+<Term>AVN944</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Inosine Monophosphate Dehydrogenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Inosine Monophosphate Dehydrogenase Inhibitor/AVN944</ClassificationPath>
+<BroaderTerm>Inosine Monophosphate Dehydrogenase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>AVN944</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AVN944</Synonym>
+<Description>An orally available, synthetic small molecule with potential antineoplastic activity. AVN944 inhibits inosine monosphosphate dehydrogenase (IMPDH), an enzyme involved in the de novo synthesis of guanosine triphosphate (GTP), a purine molecule required for DNA and RNA synthesis.  Inhibition of IMPDH deprives cancer cells of GTP, resulting in disruption of DNA and RNA synthesis, inhibition of cell proliferation, and the induction of apoptosis. AVN944 appears to have a selective effect on cancer cells in that deprivation of GTP in normal cells results in a temporary slowing of cell growth only. IMPDH is overexpressed in some cancer cells, particularly in hematological malignancies.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,25 @@
+<Record>
+<Term>Larva Migrans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nematode Infections</ParentTerm>
+<ParentTerm>Skin Diseases, Parasitic</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Parasitic/Larva Migrans</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Larva Migrans</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Larva Migrans</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Larva Migrans</BroaderTerm>
+<ChildTerm>Larva Migrans, Visceral</ChildTerm>
+<Synonym>Ocular Larva Migrans</Synonym>
+<Synonym>Cutaneous Larva Migrans</Synonym>
+<Synonym>Larva Migrans</Synonym>
+<Synonym>Creeping Eruptions</Synonym>
+<Synonym>Creeping Eruption</Synonym>
+<Description>Infections caused by nematode larvae which never develop into the adult stage and migrate through various body tissues. They commonly infect the skin, eyes, and viscera in man. Ancylostoma brasiliensis causes cutaneous larva migrans. Toxocara causes visceral larva migrans.</Description>
+<Source>MeSH</Source>
+</Record>

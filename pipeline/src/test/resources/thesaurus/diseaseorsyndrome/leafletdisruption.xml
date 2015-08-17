@@ -1,0 +1,23 @@
+<Record>
+<Term>Leaflet Disruption</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Valvular Heart Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Leaflet Disruption</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Leaflet Disruption</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Leaflet Disruption Due To Unknown Cause</ChildTerm>
+<ChildTerm>Leaflet Disruption Due To Host Tissue Overgrowth</ChildTerm>
+<ChildTerm>Leaflet Disruption Due To Suture Abrasion</ChildTerm>
+<ChildTerm>Leaflet Disruption Due To Calcification</ChildTerm>
+<ChildTerm>Leaflet Disruption Due To Infection</ChildTerm>
+<Synonym>Leaflet Disruption</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

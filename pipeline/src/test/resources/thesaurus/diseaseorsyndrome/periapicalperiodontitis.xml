@@ -1,0 +1,26 @@
+<Record>
+<Term>Periapical Periodontitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periapical Diseases</ParentTerm>
+<ParentTerm>Periodontitis</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontitis/Periapical Periodontitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periapical Diseases/Periapical Periodontitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Periapical Diseases/Periapical Periodontitis</ClassificationPath>
+<BroaderTerm>Periapical Periodontitis</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Periapical Diseases</BroaderTerm>
+<BroaderTerm>Periodontitis</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<ChildTerm>Periapical Abscess</ChildTerm>
+<ChildTerm>Periapical Granuloma</ChildTerm>
+<Synonym>Periapical Periodontitis</Synonym>
+<Synonym>Apical Periodontitis</Synonym>
+<Synonym>Periapical Periodontitides</Synonym>
+<Synonym>Apical Periodontitides</Synonym>
+<Synonym>Acute Nonsuppurative Periodontitis</Synonym>
+<Synonym>Acute Nonsuppurative Periodontitides</Synonym>
+<Description>Inflammation of the PERIAPICAL TISSUE. It includes general, unspecified, or acute nonsuppurative inflammation. Chronic nonsuppurative inflammation is PERIAPICAL GRANULOMA. Suppurative inflammation is PERIAPICAL ABSCESS.</Description>
+<Source>MeSH</Source>
+</Record>

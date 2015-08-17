@@ -27,7 +27,7 @@ public class TestCompositeProperty extends TestCase
     components.add( thirdPart );
         
     CompositeProperty ssnProp = new CompositeProperty( components, "-" );
-    System.out.println( ssnProp.getDefaultFormat( ) );
+    assertEquals( ssnProp.getDefaultFormat( ), "\\d\\d\\d||\\d\\d||\\d\\d\\d\\d" );
       
     /*ssnProp.setValue( "123-45-4567", null );
         

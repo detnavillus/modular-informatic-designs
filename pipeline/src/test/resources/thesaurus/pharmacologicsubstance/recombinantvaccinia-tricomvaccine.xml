@@ -1,0 +1,23 @@
+<Record>
+<Term>Recombinant Vaccinia-TRICOM Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Virus</SemanticType>
+<ParentTerm>Vaccinia Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Vaccinia Vaccine/Recombinant Vaccinia-TRICOM Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Vaccinia-TRICOM Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Vaccinia Vaccine</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Recombinant Vaccinia-PSA(L155)-TRICOM Vaccine</ChildTerm>
+<ChildTerm>Recombinant Vaccinia-CEA(6D)-TRICOM</ChildTerm>
+<ChildTerm>Inalimarev</ChildTerm>
+<Synonym>Recombinant Vaccinia-TRICOM Vaccine</Synonym>
+<Synonym>Vaccinia-TRICOM</Synonym>
+<Synonym>rV-TRICOM</Synonym>
+<Description>A vaccine consisting of recombinant vaccinia virus encoding a TRIad of COstimulatory Molecules (B7-1, ICAM-1, and LFA-3; also called TRICOM).  Vaccination with recombinant vaccinia-TRICOM vaccine stimulates the host immune system to mount a non-specific T-cell response.  With the addition of a tumor-associated antigen peptide, this vaccine may enhance a tumor-specific immune response.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

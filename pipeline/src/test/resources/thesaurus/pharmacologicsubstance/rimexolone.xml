@@ -1,0 +1,22 @@
+<Record>
+<Term>Rimexolone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Rimexolone</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Rimexolone</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Vexol</Synonym>
+<Synonym>Rimexolone</Synonym>
+<Synonym>RIMEXOLONE</Synonym>
+<Synonym>(11beta,16alpha,17beta)-11-Hydroxy-16,17-dimethyl-17-(1-oxopropyl)androsta-1,4-dien-3-one</Synonym>
+<Description>A derivative of prednisolone, a synthetic glucocorticoid with anti-inflammatory and immunosuppressive property. Upon binding to the cytosolic glucocorticoid receptor and cell entry, rimexolone activates specific glucocorticoid response elements, resulting in altered gene expression. These include induction of synthesis of anti-inflammatory protein IkappaB-alpha and inhibition of synthesis of nuclear factor kappaB (NFkappa B). As a result, pro-inflammatory cytokine production such as interleukin-1 (IL-1), IL-2 and IL-6 is down-regulated and cytotoxic T-lymphocyte activation inhibited. Therefore, an overall reduction in chronic inflammation and autoimmune reactions may be achieved.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

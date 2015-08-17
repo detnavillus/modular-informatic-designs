@@ -1,0 +1,19 @@
+<Record>
+<Term>Axitinib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Axitinib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Axitinib</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>AG-013736</Synonym>
+<Synonym>AG013736</Synonym>
+<Synonym>AXITINIB</Synonym>
+<Synonym>Axitinib</Synonym>
+<Description>An orally bioavailable tyrosine kinase inhibitor. Axitinib inhibits the proangiogenic cytokines vascular endothelial growth factor (VEGF) and platelet-derived growth factor receptor (PDGF), thereby exerting an anti-angiogenic effect.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

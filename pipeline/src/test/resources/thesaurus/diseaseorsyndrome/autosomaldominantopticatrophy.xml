@@ -1,0 +1,34 @@
+<Record>
+<Term>Autosomal Dominant Optic Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Optic Atrophies, Hereditary</ParentTerm>
+<ParentTerm>Mitochondrial Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Heredodegenerative Disorders, Nervous System/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Eye Diseases/Optic Nerve Diseases/Optic Atrophy/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Eye Diseases, Hereditary/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Diseases, Hereditary/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Cranial Nerve Diseases/Optic Nerve Diseases/Optic Atrophy/Optic Atrophies, Hereditary/Optic Atrophy, Autosomal Dominant</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Optic Atrophies, Hereditary</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Cranial Nerve Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Optic Atrophy, Autosomal Dominant</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Optic Nerve Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Optic Atrophy</BroaderTerm>
+<Synonym>Dominant Optic Atrophies</Synonym>
+<Synonym>Optic Atrophy Type 1</Synonym>
+<Synonym>Dominant Optic Atrophy</Synonym>
+<Synonym>Autosomal Dominant Optic Atrophy</Synonym>
+<Description>Dominant optic atrophy is a hereditary optic neuropathy causing decreased visual acuity, color vision deficits, a centrocecal scotoma, and optic nerve pallor (Hum. Genet. 1998; 102: 79-86). Mutations leading to this condition have been mapped to the OPA1 gene at chromosome 3q28-q29. OPA1 codes for a dynamin-related GTPase that localizes to mitochondria.</Description>
+<Source>MeSH</Source>
+</Record>

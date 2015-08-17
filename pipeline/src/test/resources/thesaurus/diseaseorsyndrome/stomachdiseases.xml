@@ -1,0 +1,29 @@
+<Record>
+<Term>Stomach Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Achlorhydria</ChildTerm>
+<ChildTerm>Duodenogastric Reflux</ChildTerm>
+<ChildTerm>Postgastrectomy Syndromes</ChildTerm>
+<ChildTerm>Peptic Ulcer</ChildTerm>
+<ChildTerm>Gastric Outlet Obstruction</ChildTerm>
+<ChildTerm>Gastric Dilatation</ChildTerm>
+<ChildTerm>Stomach Neoplasms</ChildTerm>
+<ChildTerm>Stomach Rupture</ChildTerm>
+<ChildTerm>Stomach Volvulus</ChildTerm>
+<ChildTerm>Zollinger-Ellison Syndrome</ChildTerm>
+<ChildTerm>Gastroparesis</ChildTerm>
+<ChildTerm>Gastric Antral Vascular Ectasia</ChildTerm>
+<ChildTerm>Diverticulosis, Stomach</ChildTerm>
+<ChildTerm>Gastritis</ChildTerm>
+<Synonym>Stomach Diseases</Synonym>
+<Synonym>Stomach Disease</Synonym>
+<Synonym>Gastric Diseases</Synonym>
+<Synonym>Gastric Disease</Synonym>
+<Description>Pathological processes involving the STOMACH.</Description>
+<Source>MeSH</Source>
+</Record>

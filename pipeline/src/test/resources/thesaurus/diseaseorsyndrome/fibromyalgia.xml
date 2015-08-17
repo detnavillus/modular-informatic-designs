@@ -1,0 +1,33 @@
+<Record>
+<Term>Fibromyalgia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Rheumatic Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Fibromyalgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Fibromyalgia</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Fibromyalgia</ClassificationPath>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Fibromyalgia</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Primary Fibromyalgia</Synonym>
+<Synonym>Fibrositis</Synonym>
+<Synonym>Secondary Fibromyalgia</Synonym>
+<Synonym>Fibromyalgias</Synonym>
+<Synonym>Fibromyalgia</Synonym>
+<Synonym>Fibromyalgia Fibromyositis Syndrome</Synonym>
+<Synonym>Fibromyalgia-Fibromyositis Syndrome</Synonym>
+<Synonym>Diffuse Myofascial Pain Syndrome</Synonym>
+<Synonym>Fibromyalgia-Fibromyositis Syndromes</Synonym>
+<Synonym>Fibrositides</Synonym>
+<Synonym>Secondary Fibromyalgias</Synonym>
+<Synonym>Fibromyositis-Fibromyalgia Syndromes</Synonym>
+<Synonym>Fibromyositis Fibromyalgia Syndrome</Synonym>
+<Synonym>Primary Fibromyalgias</Synonym>
+<Synonym>Fibromyositis-Fibromyalgia Syndrome</Synonym>
+<Synonym>Muscular Rheumatism</Synonym>
+<Description>A common nonarticular rheumatic syndrome characterized by myalgia and multiple points of focal muscle tenderness to palpation (trigger points). Muscle pain is typically aggravated by inactivity or exposure to cold. This condition is often associated with general symptoms, such as sleep disturbances, fatigue, stiffness, HEADACHES, and occasionally DEPRESSION. There is significant overlap between fibromyalgia and the chronic fatigue syndrome (FATIGUE SYNDROME, CHRONIC). Fibromyalgia may arise as a primary or secondary disease process. It is most frequent in females aged 20 to 50 years. (From Adams et al., Principles of Neurology, 6th ed, p1494-95)</Description>
+<Source>MeSH</Source>
+</Record>

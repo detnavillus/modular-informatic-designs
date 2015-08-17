@@ -1,0 +1,20 @@
+<Record>
+<Term>Urinary Tract Precancerous Condition</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Precancerous Condition by Site</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Precancerous Condition/Precancerous Condition by Site/Urinary Tract Precancerous Condition</ClassificationPath>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Precancerous Condition</BroaderTerm>
+<BroaderTerm>Urinary Tract Precancerous Condition</BroaderTerm>
+<BroaderTerm>Precancerous Condition by Site</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Diffuse Hyperplastic Perilobar Nephroblastomatosis</ChildTerm>
+<ChildTerm>Intestinal Metaplasia of Bladder Urachal Epithelium</ChildTerm>
+<ChildTerm>Urethral Glandular Metaplasia</ChildTerm>
+<ChildTerm>Intestinal Metaplasia of Bladder Urothelium</ChildTerm>
+<ChildTerm>Papillary Urothelial Hyperplasia</ChildTerm>
+<Synonym>Urinary Tract Precancerous Condition</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Inactivated Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Inactivated Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Inactivated Vaccine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<ChildTerm>Hepatitis A Vaccine</ChildTerm>
+<Synonym>Inactivated Vaccine</Synonym>
+<Synonym>Inactivated Virus Vaccine</Synonym>
+<Description>A preparation of killed microorganisms that is intended to prevent or treat an infectious disease by inducing active immunity to the causative microorganism. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

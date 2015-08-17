@@ -1,0 +1,15 @@
+<Record>
+<Term>Respiratory Syncytial Virus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pneumovirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Pneumovirus Infections/Respiratory Syncytial Virus Infections</ClassificationPath>
+<BroaderTerm>Pneumovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Respiratory Syncytial Virus Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>Respiratory Syncytial Virus Infections</Synonym>
+<Description>Pneumovirus infections caused by the RESPIRATORY SYNCYTIAL VIRUSES. Humans and cattle are most affected but infections in goats and sheep have been reported.</Description>
+<Source>MeSH</Source>
+</Record>

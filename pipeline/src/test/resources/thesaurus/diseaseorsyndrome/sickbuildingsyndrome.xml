@@ -1,0 +1,15 @@
+<Record>
+<Term>Sick Building Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Environmental Illness</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Environmental Illness/Sick Building Syndrome</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Environmental Illness/Sick Building Syndrome</ClassificationPath>
+<BroaderTerm>Environmental Illness</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Sick Building Syndrome</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Sick Building Syndrome</Synonym>
+<Description>A group of symptoms that are two- to three-fold more common in those who work in large, energy-efficient buildings, associated with an increased frequency of headaches, lethargy, and dry skin. Clinical manifestations include hypersensitivity pneumonitis (ALVEOLITIS, EXTRINSIC ALLERGIC); allergic rhinitis (RHINITIS, ALLERGIC, PERENNIAL); ASTHMA; infections, skin eruptions, and mucous membrane irritation syndromes. Current usage tends to be less restrictive with regard to the type of building and delineation of complaints. (From Segen, Dictionary of Modern Medicine, 1992)</Description>
+<Source>MeSH</Source>
+</Record>

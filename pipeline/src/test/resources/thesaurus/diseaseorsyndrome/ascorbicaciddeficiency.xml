@@ -1,0 +1,19 @@
+<Record>
+<Term>Ascorbic Acid Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Ascorbic Acid Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Ascorbic Acid Deficiency</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<ChildTerm>Scurvy</ChildTerm>
+<Synonym>Ascorbic Acid Deficiency</Synonym>
+<Synonym>Vitamin C Deficiency</Synonym>
+<Synonym>Vitamin C Deficiencies</Synonym>
+<Synonym>Ascorbic Acid Deficiencies</Synonym>
+<Description>A condition due to a dietary deficiency of ascorbic acid (vitamin C), characterized by malaise, lethargy, and weakness. As the disease progresses, joints, muscles, and subcutaneous tissues may become the sites of hemorrhage. Ascorbic acid deficiency frequently develops into SCURVY in young children fed unsupplemented cow's milk exclusively during their first year. It develops also commonly in chronic alcoholism. (Cecil Textbook of Medicine, 19th ed, p1177)</Description>
+<Source>MeSH</Source>
+</Record>

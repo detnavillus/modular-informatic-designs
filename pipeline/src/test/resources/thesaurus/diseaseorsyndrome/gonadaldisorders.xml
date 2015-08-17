@@ -1,0 +1,29 @@
+<Record>
+<Term>Gonadal Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Reproductive System Disorder</ParentTerm>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Gonadal Disorder</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gonadal Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Testicular Diseases</ChildTerm>
+<ChildTerm>Sex Differentiation Disorders</ChildTerm>
+<ChildTerm>Ovarian Diseases</ChildTerm>
+<ChildTerm>Puberty, Delayed</ChildTerm>
+<ChildTerm>Non-Neoplastic Gonadal Disorder</ChildTerm>
+<ChildTerm>Puberty, Precocious</ChildTerm>
+<ChildTerm>Hypogonadism</ChildTerm>
+<ChildTerm>Female Athlete Triad Syndrome</ChildTerm>
+<Synonym>Gonadal Disorder</Synonym>
+<Synonym>Gonadal Disorders</Synonym>
+<Description>Pathological processes of the OVARIES or the TESTES.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

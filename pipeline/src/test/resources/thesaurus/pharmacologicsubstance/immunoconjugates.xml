@@ -1,0 +1,25 @@
+<Record>
+<Term>Immunoconjugates</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Antibodies</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Globulins/Serum Globulins/Immunoglobulins/Antibodies/Immunoconjugates</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Immunoproteins/Immunoglobulins/Antibodies/Immunoconjugates</ClassificationPath>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Blood Proteins/Serum Globulins/Immunoglobulins/Antibodies/Immunoconjugates</ClassificationPath>
+<BroaderTerm>Immunoconjugates</BroaderTerm>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Immunoproteins</BroaderTerm>
+<BroaderTerm>Globulins</BroaderTerm>
+<BroaderTerm>Antibodies</BroaderTerm>
+<BroaderTerm>Immunoglobulins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Blood Proteins</BroaderTerm>
+<BroaderTerm>Serum Globulins</BroaderTerm>
+<ChildTerm>Immunotoxins</ChildTerm>
+<Synonym>Immunoconjugates</Synonym>
+<Synonym>Radioimmunoconjugate</Synonym>
+<Synonym>Immunoconjugate</Synonym>
+<Synonym>Radioimmunoconjugates</Synonym>
+<Description>Combinations of diagnostic or therapeutic substances linked with specific immune substances such as IMMUNOGLOBULINS; MONOCLONAL ANTIBODIES; or ANTIGENS. Often the diagnostic or therapeutic substance is a radionuclide. These conjugates are useful tools for specific targeting of DRUGS and RADIOISOTOPES in the CHEMOTHERAPY and RADIOIMMUNOTHERAPY of certain cancers.</Description>
+<Source>MeSH</Source>
+</Record>

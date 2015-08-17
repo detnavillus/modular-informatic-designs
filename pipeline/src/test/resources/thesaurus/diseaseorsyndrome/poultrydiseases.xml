@@ -1,0 +1,16 @@
+<Record>
+<Term>Poultry Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bird Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Bird Diseases/Poultry Diseases</ClassificationPath>
+<BroaderTerm>Bird Diseases</BroaderTerm>
+<BroaderTerm>Poultry Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Enteritis, Transmissible, of Turkeys</ChildTerm>
+<ChildTerm>Poult Enteritis Mortality Syndrome</ChildTerm>
+<ChildTerm>Influenza in Birds</ChildTerm>
+<Synonym>Poultry Diseases</Synonym>
+<Synonym>Poultry Disease</Synonym>
+<Description>Diseases of birds which are raised as a source of meat or eggs for human consumption and are usually found in barnyards, hatcheries, etc. The concept is differentiated from BIRD DISEASES which is for diseases of birds not considered poultry and usually found in zoos, parks, and the wild.</Description>
+<Source>MeSH</Source>
+</Record>

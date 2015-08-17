@@ -1,0 +1,27 @@
+<Record>
+<Term>Estrogens, Conjugated</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Steroidal Estrogen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Steroidal Estrogen/Estrogens, Conjugated</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Estrogens, Conjugated</BroaderTerm>
+<BroaderTerm>Steroidal Estrogen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Estrogens, conjugated</Synonym>
+<Synonym>Conestron</Synonym>
+<Synonym>Tag-39</Synonym>
+<Synonym>ESTROGENS, CONJUGATED</Synonym>
+<Synonym>Sodestrin</Synonym>
+<Synonym>Estrogens, Conjugated</Synonym>
+<Synonym>Conjugated Estrogens</Synonym>
+<Synonym>Femest</Synonym>
+<Synonym>Premarin</Synonym>
+<Description>Purified orally bioavailable female sex hormones isolated from pregnant mare urine or synthetically derived from plant materials and primarily conjugated as sulfate esters. Estrogen binds to and activates specific nuclear receptors, which, in turn, bind to estrogen response elements (EREs) in target genes, resulting in histone acetylation, alteration of chromatin conformation, and initiation of transcription. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

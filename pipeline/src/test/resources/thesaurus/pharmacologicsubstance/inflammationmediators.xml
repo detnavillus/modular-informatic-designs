@@ -1,0 +1,15 @@
+<Record>
+<Term>Inflammation Mediators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Biological Factors</ParentTerm>
+<ClassificationPath>Biological Factors/Inflammation Mediators</ClassificationPath>
+<BroaderTerm>Inflammation Mediators</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<ChildTerm>Prostaglandins, Synthetic</ChildTerm>
+<ChildTerm>Chemokines</ChildTerm>
+<ChildTerm>Autacoids</ChildTerm>
+<Synonym>Inflammation Mediators</Synonym>
+<Synonym>Mediators of Inflammation</Synonym>
+<Description>The endogenous compounds that mediate inflammation (AUTACOIDS) and related exogenous compounds including the synthetic prostaglandins (PROSTAGLANDINS, SYNTHETIC).</Description>
+<Source>MeSH</Source>
+</Record>

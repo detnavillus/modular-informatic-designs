@@ -1,0 +1,24 @@
+<Record>
+<Term>Central Nervous System Viral Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Virus Diseases</ParentTerm>
+<ParentTerm>Central Nervous System Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<ChildTerm>Meningitis, Viral</ChildTerm>
+<ChildTerm>Encephalitis</ChildTerm>
+<ChildTerm>Poliomyelitis</ChildTerm>
+<ChildTerm>Pseudorabies</ChildTerm>
+<ChildTerm>Myelitis</ChildTerm>
+<Synonym>Central Nervous System Viral Infections</Synonym>
+<Synonym>Viral CNS Infection</Synonym>
+<Synonym>Viral CNS Infections</Synonym>
+<Synonym>Central Nervous System Viral Diseases</Synonym>
+<Description>Viral infections of the brain, spinal cord, meninges, or perimeningeal spaces.</Description>
+<Source>MeSH</Source>
+</Record>

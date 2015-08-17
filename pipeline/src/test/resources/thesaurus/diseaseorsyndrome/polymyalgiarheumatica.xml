@@ -1,0 +1,23 @@
+<Record>
+<Term>Polymyalgia Rheumatica</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Muscular Diseases</ParentTerm>
+<ParentTerm>Rheumatic Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Polymyalgia Rheumatica</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Polymyalgia Rheumatica</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases/Polymyalgia Rheumatica</ClassificationPath>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Polymyalgia Rheumatica</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<Synonym>Forestier-Certonciny Syndrome</Synonym>
+<Synonym>Peri-Extra-Articular Rheumatism</Synonym>
+<Synonym>Forestier Certonciny Syndrome</Synonym>
+<Synonym>Rhizomelic Pseudopolyarthritides</Synonym>
+<Synonym>Polymyalgia Rheumatica</Synonym>
+<Synonym>Rhizomelic Pseudopolyarthritis</Synonym>
+<Description>A syndrome in the elderly characterized by proximal joint and muscle pain, high erythrocyte sedimentation rate, and a self-limiting course. Pain is usually accompanied by evidence of an inflammatory reaction. Women are affected twice as commonly as men and Caucasians more frequently than other groups. The condition is frequently associated with GIANT CELL ARTERITIS and some theories pose the possibility that the two diseases arise from a single etiology or even that they are the same entity.</Description>
+<Source>MeSH</Source>
+</Record>

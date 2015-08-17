@@ -1,0 +1,29 @@
+<Record>
+<Term>Loteprednol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Corticosteroid</ParentTerm>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Loteprednol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Loteprednol Etabonate</ClassificationPath>
+<BroaderTerm>Loteprednol Etabonate</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Loteprednol</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Loteprednol Etabonate</Synonym>
+<Synonym>Alrex</Synonym>
+<Synonym>Androsta-1,4-diene-17-carboxylic Acid, 17-((ethoxycarbonyl)oxy)-11-hydroxy-3-oxo-, chloromethyl Ester,(11beta,17alpha)-</Synonym>
+<Synonym>Loteprednol etabonate</Synonym>
+<Synonym>Lotemax</Synonym>
+<Synonym>LOTEPREDNOL ETABONATE</Synonym>
+<Synonym>Loteprednol</Synonym>
+<Synonym>LOTEPREDNOL</Synonym>
+<Description>The etabonate salt form of loteprednol, an ophthalmic analog of the corticosteroid prednisolone with anti-inflammatory activity. Loteprednol etabonate exerts its effect by interacting with specific intracellular receptors and subsequently binds to DNA to modify gene expression. This results in an induction of the synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators. Loteprednol etabonate specifically induces phospholipase A2 inhibitory proteins (collectively called lipocortins), which inhibit the release of arachidonic acid, thereby inhibiting the biosynthesis of potent mediators of inflammation, such as prostaglandins and leukotrienes.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

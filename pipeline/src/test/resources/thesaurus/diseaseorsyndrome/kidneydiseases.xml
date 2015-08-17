@@ -1,0 +1,42 @@
+<Record>
+<Term>Kidney Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Urologic Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Nephritis</ChildTerm>
+<ChildTerm>Hydronephrosis</ChildTerm>
+<ChildTerm>Perinephritis</ChildTerm>
+<ChildTerm>Diabetic Nephropathies</ChildTerm>
+<ChildTerm>Renal Insufficiency</ChildTerm>
+<ChildTerm>Renal Tubular Transport, Inborn Errors</ChildTerm>
+<ChildTerm>Kidney Papillary Necrosis</ChildTerm>
+<ChildTerm>AIDS-Associated Nephropathy</ChildTerm>
+<ChildTerm>Hyperoxaluria</ChildTerm>
+<ChildTerm>Fanconi Syndrome</ChildTerm>
+<ChildTerm>Nephrolithiasis</ChildTerm>
+<ChildTerm>Anuria</ChildTerm>
+<ChildTerm>Nephrocalcinosis</ChildTerm>
+<ChildTerm>Kidney Neoplasms</ChildTerm>
+<ChildTerm>Diabetes Insipidus</ChildTerm>
+<ChildTerm>Hypertension, Renal</ChildTerm>
+<ChildTerm>Renal Artery Obstruction</ChildTerm>
+<ChildTerm>Kidney Diseases, Cystic</ChildTerm>
+<ChildTerm>Tuberculosis, Renal</ChildTerm>
+<ChildTerm>Kidney Cortex Necrosis</ChildTerm>
+<ChildTerm>Nephrosclerosis</ChildTerm>
+<ChildTerm>Uremia</ChildTerm>
+<ChildTerm>Renal Osteodystrophy</ChildTerm>
+<ChildTerm>Zellweger Syndrome</ChildTerm>
+<ChildTerm>Hepatorenal Syndrome</ChildTerm>
+<ChildTerm>Nephrosis</ChildTerm>
+<Synonym>Kidney Diseases</Synonym>
+<Synonym>Kidney Disease</Synonym>
+<Description>Pathological processes of the KIDNEY or its component tissues.</Description>
+<Source>MeSH</Source>
+</Record>

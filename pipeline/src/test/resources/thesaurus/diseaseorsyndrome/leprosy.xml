@@ -1,0 +1,21 @@
+<Record>
+<Term>Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mycobacterium Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy</ClassificationPath>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Leprosy, Paucibacillary</ChildTerm>
+<ChildTerm>Leprosy, Multibacillary</ChildTerm>
+<Synonym>Leprosy</Synonym>
+<Synonym>Leprosies</Synonym>
+<Synonym>Hansen Disease</Synonym>
+<Synonym>Hansen's Disease</Synonym>
+<Synonym>Hansens Disease</Synonym>
+<Description>A chronic granulomatous infection caused by MYCOBACTERIUM LEPRAE. The granulomatous lesions are manifested in the skin, the mucous membranes, and the peripheral nerves. Two polar or principal types are lepromatous and tuberculoid.</Description>
+<Source>MeSH</Source>
+</Record>

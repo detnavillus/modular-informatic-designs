@@ -1,0 +1,44 @@
+<Record>
+<Term>Tumor Lysis Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Adverse Event Associated with Syndromes</ParentTerm>
+<ParentTerm>Lymphoproliferative Disorders</ParentTerm>
+<ParentTerm>Neoplastic Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Cancer-Related Condition/Tumor Lysis Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Neoplastic Syndrome/Tumor Lysis Syndrome</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Lymphoproliferative Disorders/Tumor Lysis Syndrome</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Syndromes/Tumor Lysis Syndrome Adverse Event</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunoproliferative Disorders/Lymphoproliferative Disorders/Tumor Lysis Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Tumor Lysis Syndrome</BroaderTerm>
+<BroaderTerm>Immunoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Syndromes</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Lymphoproliferative Disorders</BroaderTerm>
+<BroaderTerm>Tumor Lysis Syndrome Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Cancer-Related Condition</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Tumor Lysis Syndrome,</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Neoplastic Syndrome</BroaderTerm>
+<ChildTerm>CTCAE Grade 3 Tumor Lysis Syndrome</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Tumor Lysis Syndrome</ChildTerm>
+<Synonym>Tumor Lysis Syndromes</Synonym>
+<Synonym>Tumour Lysis Syndromes</Synonym>
+<Synonym>Tumor lysis syndrome</Synonym>
+<Synonym>Tumour Lysis Syndrome</Synonym>
+<Synonym>Tumor Lysis Syndrome</Synonym>
+<Synonym>Tumor Lysis Syndrome Adverse Event</Synonym>
+<Description>A syndrome resulting from cytotoxic therapy, occurring generally in aggressive, rapidly proliferating lymphoproliferative disorders. It is characterized by combinations of hyperuricemia, lactic acidosis, hyperkalemia, hyperphosphatemia and hypocalcemia.</Description>
+<Description>A condition of metabolic abnormalities that result from a spontaneous or therapy-related cytolysis of tumor cells. Tumor lysis syndrome typically occurs in aggressive, rapidly proliferating lymphoproliferative disorders. Burkitt lymphoma and T cell acute lymphoblastic leukemia are commonly associated with this syndrome. Metabolic abnormalities include hyperuricemia, lactic acidosis, hyperkalemia, hyperphosphatemia and hypocalcemia and may result in renal failure, multiple organ failure, and death. --2004</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

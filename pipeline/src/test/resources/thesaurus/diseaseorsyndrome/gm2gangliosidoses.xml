@@ -1,0 +1,42 @@
+<Record>
+<Term>GM2 Gangliosidoses</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gangliosidoses</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lysosomal Storage Diseases/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/Lysosomal Storage Diseases, Nervous System/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Lipid Metabolism, Inborn Errors/Lipidoses/Sphingolipidoses/Gangliosidoses/Gangliosidoses, GM2</ClassificationPath>
+<BroaderTerm>Lysosomal Storage Diseases, Nervous System</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Lysosomal Storage Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses</BroaderTerm>
+<BroaderTerm>Sphingolipidoses</BroaderTerm>
+<BroaderTerm>Lipidoses</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Lipid Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Gangliosidoses, GM2</BroaderTerm>
+<ChildTerm>Sandhoff Disease</ChildTerm>
+<ChildTerm>Tay-Sachs Disease, AB Variant</ChildTerm>
+<ChildTerm>Tay-Sachs Disease</ChildTerm>
+<Synonym>GM2 Gangliosidosis</Synonym>
+<Synonym>GM2 Gangliosidose</Synonym>
+<Synonym>G(M2) Gangliosidoses</Synonym>
+<Synonym>GM2 Gangliosidoses</Synonym>
+<Synonym>Gangliosidoses GM2</Synonym>
+<Description>A group of recessively inherited diseases characterized by the intralysosomal accumulation of G(M2) GANGLIOSIDE in the neuronal cells. Subtypes include mutations of enzymes in the BETA-N-ACETYLHEXOSAMINIDASES system or G(M2) ACTIVATOR PROTEIN leading to disruption of normal degradation of GANGLIOSIDES, a subclass of ACIDIC GLYCOSPHINGOLIPIDS.</Description>
+<Source>MeSH</Source>
+</Record>

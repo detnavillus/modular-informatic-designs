@@ -1,0 +1,15 @@
+<Record>
+<Term>Child Reactive Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Individual Behavior</SemanticType>
+<ParentTerm>Behavioral Symptoms</ParentTerm>
+<ClassificationPath>Behavior and Behavior Mechanisms/Behavior/Behavioral Symptoms/Child Reactive Disorders</ClassificationPath>
+<BroaderTerm>Behavioral Symptoms</BroaderTerm>
+<BroaderTerm>Behavior and Behavior Mechanisms</BroaderTerm>
+<BroaderTerm>Behavior</BroaderTerm>
+<BroaderTerm>Child Reactive Disorders</BroaderTerm>
+<Synonym>Child Reactive Disorders</Synonym>
+<Synonym>Child Reactive Disorder</Synonym>
+<Description>Reactions to an event or set of events which are considered to be of pathological degree, that have not developed into a neurosis, psychosis, or personality disorder with fixed patterns.</Description>
+<Source>MeSH</Source>
+</Record>

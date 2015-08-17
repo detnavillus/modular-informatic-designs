@@ -1,0 +1,13 @@
+<Record>
+<Term>Jambul</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Jambul</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Jambul</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Jambul</Synonym>
+<Description>An herb obtained from the plant Eugenia jambolana.  Jambul seeds and fruits have important carminative and astringent properties and may reduce blood sugar levels.  This agent contains glucosides, jamboline and ellagic acid which may check the conversion of starch into sugar.  Jambul may have chemoprotective and chemopreventive effects. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

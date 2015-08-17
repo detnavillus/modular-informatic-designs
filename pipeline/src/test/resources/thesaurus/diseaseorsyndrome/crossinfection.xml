@@ -1,0 +1,18 @@
+<Record>
+<Term>Cross Infection</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Cross Infection</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Cross Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pneumonia, Ventilator-Associated</ChildTerm>
+<Synonym>Cross Infection</Synonym>
+<Synonym>Cross Infections</Synonym>
+<Synonym>Hospital Infection</Synonym>
+<Synonym>Nosocomial Infection</Synonym>
+<Synonym>Nosocomial Infections</Synonym>
+<Synonym>Hospital Infections</Synonym>
+<Description>Any infection which a patient contracts in a health-care institution.</Description>
+<Source>MeSH</Source>
+</Record>

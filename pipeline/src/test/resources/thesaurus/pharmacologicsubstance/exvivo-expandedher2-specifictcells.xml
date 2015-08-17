@@ -1,0 +1,16 @@
+<Record>
+<Term>Ex Vivo-Expanded HER2-Specific T Cells</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Therapeutic Autologous Lymphocytes</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Therapeutic Autologous Lymphocytes/Ex Vivo-Expanded HER2-Specific T Cells</ClassificationPath>
+<BroaderTerm>Therapeutic Autologous Lymphocytes</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ex Vivo-Expanded HER2-Specific T Cells</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ex Vivo-Expanded HER2-Specific T Cells</Synonym>
+<Synonym>HER2 Specific T-Cells</Synonym>
+<Description>T cells specific for the human epidermal growth factor receptor 2 (HER2) with potential immunopotentiating activity. T cells directed against HER2, overexpressed on many tumor cells, are collected from HER2-expressing tumor tissue, expanded ex vivo and, then re-introduced in the patient. Re-introduction of ex vivo-expanded HER2-specific T cells may enhance the cytotoxic T cell response against tumor cells overexpressing HER2, resulting in inhibition of tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

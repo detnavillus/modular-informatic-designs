@@ -1,0 +1,45 @@
+<Record>
+<Term>Necrotizing Ulcerative Gingivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Infection</ParentTerm>
+<ParentTerm>Fusobacterium Infections</ParentTerm>
+<ParentTerm>Gingivitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder/Oral Cavity Disorder/Non-Neoplastic Oral Cavity Disorder/Gingivitis/Necrotizing Ulcerative Gingivitis</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Gingival Diseases/Gingivitis/Gingivitis, Necrotizing Ulcerative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Fusobacteriaceae Infections/Fusobacterium Infections/Gingivitis, Necrotizing Ulcerative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Gingivitis, Necrotizing Ulcerative</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Fusobacteriaceae Infections</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Fusobacterium Infections</BroaderTerm>
+<BroaderTerm>Gingival Diseases</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Necrotizing Ulcerative Gingivitis</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gingivitis, Necrotizing Ulcerative</BroaderTerm>
+<BroaderTerm>Gingivitis</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Oral Cavity Disorder</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Trench Mouth</Synonym>
+<Synonym>Vincent Angina</Synonym>
+<Synonym>Vincent's Infection</Synonym>
+<Synonym>Ulcerative Stomatitides</Synonym>
+<Synonym>Vincent Infection</Synonym>
+<Synonym>Necrotizing Ulcerative Gingivitis</Synonym>
+<Synonym>Vincent's Angina</Synonym>
+<Synonym>Ulcerative Stomatitis</Synonym>
+<Synonym>Vincents Infection</Synonym>
+<Description>An acute or chronic GINGIVITIS characterized by redness and swelling, NECROSIS extending from the interdental papillae along the gingival margins, PAIN; HEMORRHAGE, necrotic odor, and often a pseudomembrane. The condition may extend to the ORAL MUCOSA; TONGUE; PALATE; or PHARYNX. The etiology is somewhat unclear, but may involve a complex of FUSOBACTERIUM NUCLEATUM along with spirochetes BORRELIA or TREPONEMA.VINCENT INFECTION where the lesions spread to the SOFT PALATE and OROPHARYNX.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

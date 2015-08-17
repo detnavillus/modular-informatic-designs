@@ -1,0 +1,16 @@
+<Record>
+<Term>Indium In 111 Monoclonal Antibody HuPAM4</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Indium In 111 Monoclonal Antibody HuPAM4</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Indium In 111 Monoclonal Antibody HuPAM4</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>In-111-HuPAM4</Synonym>
+<Synonym>Indium In 111 Monoclonal Antibody HuPAM4</Synonym>
+<Description>The humanized monoclonal antibody huPAM4, directed against the pancreatic cancer antigen MUC-1 and labeled with the gamma-emitting radioisotope indium In 111, with radioisotopic and antibody activities. Upon administration, indium In 111 monoclonal antibody huPAM4 may bind to MUC-1-positive tumor cells, allowing radioimmunolocalization with gamma scintigraphy. Overexpressed by many tumor cell types, MUC-1 antigen, a mammary-type apomucin, is a high-molecular-weight transmembrane glycoprotein.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

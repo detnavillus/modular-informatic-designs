@@ -1,0 +1,21 @@
+<Record>
+<Term>Foot Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Foot Diseases</ParentTerm>
+<ParentTerm>Leg Ulcer</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Foot Diseases/Foot Ulcer</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Ulcer/Leg Ulcer/Foot Ulcer</ClassificationPath>
+<BroaderTerm>Skin Ulcer</BroaderTerm>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Leg Ulcer</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Foot Ulcer</BroaderTerm>
+<ChildTerm>Diabetic Foot</ChildTerm>
+<Synonym>Foot Ulcers</Synonym>
+<Synonym>Plantar Ulcers</Synonym>
+<Synonym>Plantar Ulcer</Synonym>
+<Synonym>Foot Ulcer</Synonym>
+<Description>Lesion on the surface of the skin of the foot, usually accompanied by inflammation. The lesion may become infected or necrotic and is frequently associated with diabetes or leprosy.</Description>
+<Source>MeSH</Source>
+</Record>

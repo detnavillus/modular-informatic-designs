@@ -1,0 +1,13 @@
+<Record>
+<Term>Hydrothorax</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Pleural Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Pleural Diseases/Hydrothorax</ClassificationPath>
+<BroaderTerm>Hydrothorax</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pleural Diseases</BroaderTerm>
+<Synonym>Hydrothorax</Synonym>
+<Description>A collection of watery fluid in the pleural cavity. (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+</Record>

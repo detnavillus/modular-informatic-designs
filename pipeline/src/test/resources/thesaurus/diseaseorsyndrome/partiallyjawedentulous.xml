@@ -1,0 +1,20 @@
+<Record>
+<Term>Partially Jaw, Edentulous</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Jaw, Edentulous</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Jaw, Edentulous/Jaw, Edentulous, Partially</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Jaw, Edentulous/Jaw, Edentulous, Partially</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Mouth, Edentulous/Jaw, Edentulous/Jaw, Edentulous, Partially</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Mouth, Edentulous/Jaw, Edentulous/Jaw, Edentulous, Partially</ClassificationPath>
+<BroaderTerm>Mouth, Edentulous</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Jaw, Edentulous</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<BroaderTerm>Jaw, Edentulous, Partially</BroaderTerm>
+<Synonym>Jaw, Edentulous, Partially</Synonym>
+<Description>Absence of teeth from a portion of the mandible and/or maxilla.</Description>
+<Source>MeSH</Source>
+</Record>

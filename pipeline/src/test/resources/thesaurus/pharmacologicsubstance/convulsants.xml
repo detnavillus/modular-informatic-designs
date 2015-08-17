@@ -1,0 +1,18 @@
+<Record>
+<Term>Convulsants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Central Nervous System Stimulants</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Central Nervous System Agents/Central Nervous System Stimulants/Convulsants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Central Nervous System Stimulants/Convulsants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Central Nervous System Stimulants</BroaderTerm>
+<BroaderTerm>Convulsants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<BroaderTerm>Central Nervous System Agents</BroaderTerm>
+<Synonym>Convulsants</Synonym>
+<Description>Substances that act in the brain stem or spinal cord to produce tonic or clonic convulsions, often by removing normal inhibitory tone. They were formerly used to stimulate respiration or as antidotes to barbiturate overdose. They are now most commonly used as experimental tools.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Glucose Metabolism Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders</ClassificationPath>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<ChildTerm>Diabetes Mellitus</ChildTerm>
+<ChildTerm>Hyperglycemia</ChildTerm>
+<ChildTerm>Hyperinsulinism</ChildTerm>
+<ChildTerm>Hypoglycemia</ChildTerm>
+<ChildTerm>Glycosuria</ChildTerm>
+<Synonym>Glucose Metabolism Disorders</Synonym>
+<Synonym>Glucose Metabolic Disorders</Synonym>
+<Synonym>Glucose Metabolism Disorder</Synonym>
+<Synonym>Glucose Metabolic Disorder</Synonym>
+<Description>Pathological conditions in which the BLOOD GLUCOSE cannot be maintained within the normal range, such as in HYPOGLYCEMIA and HYPERGLYCEMIA. Etiology of these disorders varies. Plasma glucose concentration is critical to survival for it is the predominant fuel for the CENTRAL NERVOUS SYSTEM.</Description>
+<Source>MeSH</Source>
+</Record>

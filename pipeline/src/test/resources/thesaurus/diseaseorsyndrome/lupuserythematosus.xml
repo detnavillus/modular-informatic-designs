@@ -1,0 +1,24 @@
+<Record>
+<Term>Lupus Erythematosus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rheumatologic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Rheumatologic Disorder/Lupus Erythematosus,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Immune System and Related Disorders/Immune System Disorder/Autoimmune Disease/Lupus Erythematosus</ClassificationPath>
+<BroaderTerm>Autoimmune Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Rheumatologic Disorder</BroaderTerm>
+<BroaderTerm>Immune System and Related Disorders</BroaderTerm>
+<BroaderTerm>Lupus Erythematosus</BroaderTerm>
+<BroaderTerm>Immune System Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Cutaneous Lupus Erythematosus</ChildTerm>
+<ChildTerm>Systemic Lupus Erythematosus</ChildTerm>
+<Synonym>Lupus</Synonym>
+<Synonym>Lupus Erythematosus</Synonym>
+<Synonym>lupus</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

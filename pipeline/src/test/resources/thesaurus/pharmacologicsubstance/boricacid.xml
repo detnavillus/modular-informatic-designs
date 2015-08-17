@@ -1,0 +1,17 @@
+<Record>
+<Term>Boric Acid</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Topical Anti-Infective Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Topical Anti-Infective Agent/Boric Acid</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Boric Acid</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Topical Anti-Infective Agent</BroaderTerm>
+<Synonym>BORIC ACID</Synonym>
+<Synonym>Boric Acid</Synonym>
+<Synonym>Orthoboric Acid</Synonym>
+<Description>A weakly acidic hydrate of boric oxide with mild antiseptic, antifungal, and antiviral properties.  The exact mechanism of action of boric acid is unknown; generally cytotoxic to all cells.  It is used in the treatment of yeast infections and cold sores.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Balantidiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Ciliophora Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Ciliophora Infections/Balantidiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Balantidiasis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Balantidiasis</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Ciliophora Infections</BroaderTerm>
+<BroaderTerm>Balantidiasis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<Synonym>Balantidiasis</Synonym>
+<Synonym>Balantidiases</Synonym>
+<Description>Infection by parasites of the genus BALANTIDIUM. The presence of Balantidium in the LARGE INTESTINE leads to DIARRHEA; DYSENTERY; and occasionally ULCER.</Description>
+<Source>MeSH</Source>
+</Record>

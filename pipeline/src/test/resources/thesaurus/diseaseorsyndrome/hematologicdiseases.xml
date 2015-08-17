@@ -1,0 +1,33 @@
+<Record>
+<Term>Hematologic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hemic and Lymphatic Diseases</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Blood Coagulation Disorders</ChildTerm>
+<ChildTerm>Blood Platelet Disorders</ChildTerm>
+<ChildTerm>Hemorrhagic Disorders</ChildTerm>
+<ChildTerm>Bone Marrow Diseases</ChildTerm>
+<ChildTerm>Blood Group Incompatibility</ChildTerm>
+<ChildTerm>Blood Protein Disorders</ChildTerm>
+<ChildTerm>Leukocyte Disorders</ChildTerm>
+<ChildTerm>Thrombophilia</ChildTerm>
+<ChildTerm>Anemia</ChildTerm>
+<ChildTerm>Hemoglobinopathies</ChildTerm>
+<ChildTerm>Polycythemia</ChildTerm>
+<ChildTerm>Pregnancy Complications, Hematologic</ChildTerm>
+<ChildTerm>Preleukemia</ChildTerm>
+<ChildTerm>Sulfhemoglobinemia</ChildTerm>
+<ChildTerm>Hematologic Neoplasms</ChildTerm>
+<ChildTerm>Methemoglobinemia</ChildTerm>
+<ChildTerm>Pancytopenia</ChildTerm>
+<Synonym>Hematologic Diseases</Synonym>
+<Synonym>Hematologic Disease</Synonym>
+<Synonym>Blood Diseases</Synonym>
+<Synonym>Blood Disease</Synonym>
+<Synonym>Hematological Diseases</Synonym>
+<Synonym>Hematological Disease</Synonym>
+<Description>Disorders of the blood and blood forming tissues.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Doxorubicin Preparation</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anthracycline Antineoplastic Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Topoisomerase Inhibitor/Topoisomerase-II Inhibitor/Anthracycline Antineoplastic Antibiotic/Doxorubicin Preparation</ClassificationPath>
+<BroaderTerm>Topoisomerase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Topoisomerase-II Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Doxorubicin Preparation</BroaderTerm>
+<BroaderTerm>Anthracycline Antineoplastic Antibiotic</BroaderTerm>
+<ChildTerm>Pegylated Liposomal Doxorubicin Hydrochloride</ChildTerm>
+<ChildTerm>Doxorubicin-GNRH Agonist Conjugate AEZS-108</ChildTerm>
+<ChildTerm>Doxorubicin-Magnetic Targeted Carrier Complex</ChildTerm>
+<ChildTerm>PVA Microporous Hydrospheres:Doxorubicin Hydrochloride</ChildTerm>
+<ChildTerm>Doxorubicin-HPMA Conjugate</ChildTerm>
+<ChildTerm>Doxorubicin</ChildTerm>
+<ChildTerm>Doxorubicin Hydrochloride</ChildTerm>
+<ChildTerm>Lyso-Thermosensitive Liposome Doxorubicin</ChildTerm>
+<ChildTerm>Liposome-Encapsulated Doxorubicin Citrate</ChildTerm>
+<ChildTerm>Doxorubicin Prodrug INNO-206</ChildTerm>
+<Synonym>Doxorubicin Preparation</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

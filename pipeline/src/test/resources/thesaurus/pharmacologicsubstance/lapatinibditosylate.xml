@@ -1,0 +1,21 @@
+<Record>
+<Term>Lapatinib Ditosylate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Lapatinib Ditosylate</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Lapatinib Ditosylate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>LAPATINIB DITOSYLATE</Synonym>
+<Synonym>Tykerb</Synonym>
+<Synonym>Lapatinib ditosylate</Synonym>
+<Synonym>Lapatinib Ditosylate</Synonym>
+<Description>The ditosylate salt of lapatinib, a synthetic, orally-active quinazoline with potential antineoplastic activity. Lapatinib reversibly blocks phosphorylation of the epidermal growth factor receptor (EGFR), ErbB2, and the Erk-1 and-2 and AKT kinases; it also inhibits cyclin D protein levels in human tumor cell lines and xenografts. EGFR and ErbB2 have been implicated in the growth of various tumor types.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

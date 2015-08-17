@@ -1,0 +1,22 @@
+<Record>
+<Term>Virosome Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Vaccines, Synthetic</ParentTerm>
+<ClassificationPath>Amino Acids, Peptides, and Proteins/Proteins/Recombinant Proteins/Vaccines, Synthetic/Vaccines, Virosome</ClassificationPath>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Vaccines, Synthetic/Vaccines, Virosome</ClassificationPath>
+<ClassificationPath>Biological Factors/Antigens/Vaccines, Synthetic/Vaccines, Virosome</ClassificationPath>
+<BroaderTerm>Amino Acids, Peptides, and Proteins</BroaderTerm>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Biological Factors</BroaderTerm>
+<BroaderTerm>Antigens</BroaderTerm>
+<BroaderTerm>Vaccines, Virosome</BroaderTerm>
+<BroaderTerm>Recombinant Proteins</BroaderTerm>
+<BroaderTerm>Proteins</BroaderTerm>
+<BroaderTerm>Vaccines, Synthetic</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Virosome Vaccines</Synonym>
+<Description>Vaccines using VIROSOMES as the antigen delivery system that stimulates the desired immune response.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>I 131 Lipiodol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioconjugate/I 131 Lipiodol</ClassificationPath>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Radioconjugate</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>I 131 Lipiodol</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>I 131 Lipiodol</Synonym>
+<Synonym>Iodine I 131 Lipiodol</Synonym>
+<Synonym>Lipiocis</Synonym>
+<Description>A cytotoxic radioconjugate consisting of lipiodol, an iodinated ethyl ester derived from poppy seed oil, labeled with iodine 131 (I-131).  I-131 Lipiodol accumulates in hepatocellular carcinoma and hepatoblastoma tumor cells, resulting in targeted cytotoxicity to tumor cells while sparing surrounding normal cells and tissues. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

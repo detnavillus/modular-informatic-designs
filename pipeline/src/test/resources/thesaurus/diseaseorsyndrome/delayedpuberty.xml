@@ -1,0 +1,22 @@
+<Record>
+<Term>Delayed Puberty</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Other Finding</ParentTerm>
+<ParentTerm>Gonadal Disorders</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Gonadal Disorders/Puberty, Delayed</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Other Finding/Delayed Puberty</ClassificationPath>
+<BroaderTerm>Other Finding</BroaderTerm>
+<BroaderTerm>Puberty, Delayed</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Delayed Puberty</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Gonadal Disorders</BroaderTerm>
+<Synonym>Delayed Puberty</Synonym>
+<Description>Unusually late sexual maturity.</Description>
+<Description>The lack of development of SEXUAL MATURATION in boys and girls at a chronological age that is 2.5 standard deviations above the mean age at onset of PUBERTY in a population. Delayed puberty can be classified by defects in the hypothalamic LHRH pulse generator, the PITUITARY GLAND, or the GONADS. These patients will undergo spontaneous but delayed puberty whereas patients with SEXUAL INFANTILISM will not.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

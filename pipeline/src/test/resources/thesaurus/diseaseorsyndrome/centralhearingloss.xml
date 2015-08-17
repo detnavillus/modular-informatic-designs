@@ -1,0 +1,43 @@
+<Record>
+<Term>Central Hearing Loss</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Hearing Loss</ParentTerm>
+<ParentTerm>Auditory Diseases, Central</ParentTerm>
+<ParentTerm>Hearing Loss, Sensorineural</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Hearing Loss, Central</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Hearing Loss, Central</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Hearing Loss, Sensorineural/Hearing Loss, Central</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Hearing Disorder/Hearing Loss/Central Hearing Loss</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Retrocochlear Diseases/Auditory Diseases, Central/Hearing Loss, Central</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Auditory Diseases, Central/Hearing Loss, Central</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Hearing Loss, Central</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Retrocochlear Diseases</BroaderTerm>
+<BroaderTerm>Central Hearing Loss</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Auditory Diseases, Central</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Hearing Disorder</BroaderTerm>
+<BroaderTerm>Hearing Loss, Sensorineural</BroaderTerm>
+<Synonym>Cortical Deafness</Synonym>
+<Synonym>Central Hearing Loss</Synonym>
+<Description>Hearing loss due to disease of the AUDITORY PATHWAYS (in the CENTRAL NERVOUS SYSTEM) which originate in the COCHLEAR NUCLEI of the PONS and then ascend bilaterally to the MIDBRAIN, the THALAMUS, and then the AUDITORY CORTEX in the TEMPORAL LOBE. Bilateral lesions of the auditory pathways are usually required to cause central hearing loss. Cortical deafness refers to loss of hearing due to bilateral auditory cortex lesions. Unilateral BRAIN STEM lesions involving the cochlear nuclei may result in unilateral hearing loss.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

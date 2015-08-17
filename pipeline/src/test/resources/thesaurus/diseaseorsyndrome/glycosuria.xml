@@ -1,0 +1,23 @@
+<Record>
+<Term>Glycosuria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Urination Disorders</ParentTerm>
+<ParentTerm>Glucose Metabolism Disorders</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Urination Disorders/Glycosuria</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Glycosuria</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Urination Disorders/Glycosuria</ClassificationPath>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Urination Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Glycosuria</BroaderTerm>
+<ChildTerm>Glycosuria, Renal</ChildTerm>
+<Synonym>Glycosuria</Synonym>
+<Description>The appearance of an abnormally large amount of GLUCOSE in the urine, such as more than 500 mg/day in adults. It can be due to HYPERGLYCEMIA or genetic defects in renal reabsorption (RENAL GLYCOSURIA).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,32 @@
+<Record>
+<Term>Virus Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Virus Diseases</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<ChildTerm>Arbovirus Infections</ChildTerm>
+<ChildTerm>RNA Virus Infections</ChildTerm>
+<ChildTerm>Tumor Virus Infections</ChildTerm>
+<ChildTerm>Sexually Transmitted Diseases</ChildTerm>
+<ChildTerm>Slow Virus Diseases</ChildTerm>
+<ChildTerm>Bronchiolitis, Viral</ChildTerm>
+<ChildTerm>DNA Virus Infections</ChildTerm>
+<ChildTerm>Skin Diseases, Viral</ChildTerm>
+<ChildTerm>Eye Infections, Viral</ChildTerm>
+<ChildTerm>Hepatitis, Viral, Human</ChildTerm>
+<ChildTerm>Central Nervous System Viral Diseases</ChildTerm>
+<ChildTerm>Encephalitis, Viral</ChildTerm>
+<ChildTerm>Pneumonia, Viral</ChildTerm>
+<ChildTerm>Hepatitis, Viral, Animal</ChildTerm>
+<ChildTerm>Viremia</ChildTerm>
+<ChildTerm>Zoonoses</ChildTerm>
+<ChildTerm>Opportunistic Infections</ChildTerm>
+<ChildTerm>Fatigue Syndrome, Chronic</ChildTerm>
+<ChildTerm>Meningitis, Viral</ChildTerm>
+<Synonym>Virus Diseases</Synonym>
+<Synonym>Virus Disease</Synonym>
+<Synonym>Viral Diseases</Synonym>
+<Synonym>Viral Disease</Synonym>
+<Description>A general term for diseases produced by viruses.</Description>
+<Source>MeSH</Source>
+</Record>

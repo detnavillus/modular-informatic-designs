@@ -1,0 +1,20 @@
+<Record>
+<Term>Desflurane</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Desflurane</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Desflurane</BroaderTerm>
+<Synonym>Ethane, 2-(difluoromethoxy)-1,1,1,2-tetrafluoro-,(+-)-</Synonym>
+<Synonym>I 653</Synonym>
+<Synonym>Suprane</Synonym>
+<Synonym>DESFLURANE</Synonym>
+<Synonym>Desflurane</Synonym>
+<Description>A fluorinated ether with general anesthetic and muscle relaxant activities. Although the exact mechanism of action has not been established, desflurane, administered by inhalation, appears to act on the lipid matrix of the neuronal membrane, resulting in disruption of neuronal transmission in the brain. This agent may also enhance the synaptic activity of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA).</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

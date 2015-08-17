@@ -1,0 +1,25 @@
+<Record>
+<Term>Aldose Reductase Inhibitor</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aldose Reductase Inhibitor,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-diabetic Agent/Aldose Reductase Inhibitor</ClassificationPath>
+<BroaderTerm>Aldose Reductase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-diabetic Agent</BroaderTerm>
+<BroaderTerm>Aldose Reductase Inhibitor,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Minalrestat</ChildTerm>
+<ChildTerm>Alrestatin Sodium</ChildTerm>
+<ChildTerm>Zenarestat</ChildTerm>
+<ChildTerm>Lidorestat</ChildTerm>
+<ChildTerm>Epalrestat</ChildTerm>
+<ChildTerm>Alrestatin</ChildTerm>
+<Synonym>Aldehyde Reductase 1 Inhibitor</Synonym>
+<Synonym>Aldose Reductase Inhibitor</Synonym>
+<Description>Any substance used to prevent eye and nerve damage in diabetes. Aldose reductase (EC 1.1.1.21) is a member of the monomeric, NADPH-dependent aldoketoreductase family and participates in glucose metabolism and osmoregulation. It is the first enzyme of the polyol pathway of sugar metabolism, is most abundantly expressed in adrenal gland, and has been implicated in diabetic complications. (from OMIM)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

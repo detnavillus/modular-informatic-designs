@@ -1,0 +1,16 @@
+<Record>
+<Term>pNGVL3-hIL12</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/pNGVL3-hIL12</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>pNGVL3-hIL12</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>pNGVL3-hIL12</Synonym>
+<Synonym>pNGVL3-hIL12 (IL-12 DNA)</Synonym>
+<Description>A plasmid vector encoding interleukin-12 (IL-12) with potential use in the gene therapy of cancer.  pNGVL3-hIL12 may induce a high level of IL-12 protein expression during transient transfection of host cells.  IL-12 is a proinflammatory cytokine with numerous immunoregulatory functions and may augment host immune responses to tumor cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

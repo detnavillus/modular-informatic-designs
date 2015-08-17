@@ -1,0 +1,49 @@
+<Record>
+<Term>Bacterial Conjunctivitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Eye Infections, Bacterial</ParentTerm>
+<ParentTerm>Infectious Disorder by Site</ParentTerm>
+<ParentTerm>Conjunctivitis</ParentTerm>
+<ClassificationPath>Eye Diseases/Conjunctival Diseases/Conjunctivitis/Conjunctivitis, Bacterial</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Conjunctival Disorder/Conjunctivitis/Bacterial Conjunctivitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Bacterial Conjunctivitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Bacterial Conjunctivitis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Eye Infections/Eye Infections, Bacterial/Conjunctivitis, Bacterial</ClassificationPath>
+<BroaderTerm>Eye Infections, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Bacterial Conjunctivitis</BroaderTerm>
+<BroaderTerm>Bacterial Conjunctivitis,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Conjunctival Disorder</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Conjunctivitis, Bacterial</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Conjunctivitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Conjunctival Diseases</BroaderTerm>
+<BroaderTerm>Eye Infections</BroaderTerm>
+<ChildTerm>Ophthalmia Neonatorum</ChildTerm>
+<ChildTerm>Conjunctivitis, Inclusion</ChildTerm>
+<ChildTerm>Pseudomembranous Conjunctivitis</ChildTerm>
+<ChildTerm>Trachoma</ChildTerm>
+<Synonym>Bacterial Conjunctivitis</Synonym>
+<Synonym>Purulent Conjunctivitis</Synonym>
+<Synonym>Bacterial Conjunctivitides</Synonym>
+<Synonym>Mucopurulent Conjunctivitis</Synonym>
+<Synonym>Mucopurulent Conjunctivitides</Synonym>
+<Synonym>Purulent Conjunctivitides</Synonym>
+<Description>Inflammation of the conjunctiva caused by a variety of bacterial agents.</Description>
+<Description>Purulent infections of the conjunctiva by several species of gram-negative, gram-positive, or acid-fast organisms. Some of the more commonly found genera causing conjunctival infections are Haemophilus, Streptococcus, Neisseria, and Chlamydia.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

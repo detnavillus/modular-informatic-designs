@@ -1,0 +1,37 @@
+<Record>
+<Term>Pituitary Apoplexy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pituitary Diseases</ParentTerm>
+<ParentTerm>Intracranial Hemorrhages</ParentTerm>
+<ParentTerm>Non-Neoplastic Pituitary Gland Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Skull Disorder/Pituitary Gland Disorder/Non-Neoplastic Pituitary Gland Disorder/Pituitary Gland Apoplexy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Hemorrhages/Pituitary Apoplexy</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Hemorrhages/Pituitary Apoplexy</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Pituitary Apoplexy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Pituitary Apoplexy</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Pituitary Gland Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Pituitary Gland Apoplexy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pituitary Apoplexy</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Hemorrhages</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Pituitary Gland Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Skull Disorder</BroaderTerm>
+<Synonym>Pituitary Apoplexy</Synonym>
+<Synonym>Pituitary Gland Apoplexy</Synonym>
+<Description>The sudden loss of blood supply to the PITUITARY GLAND, leading to tissue NECROSIS and loss of function (PANHYPOPITUITARISM). The most common cause is hemorrhage or INFARCTION of a PITUITARY ADENOMA. It can also result from acute hemorrhage into SELLA TURCICA due to HEAD TRAUMA; INTRACRANIAL HYPERTENSION; or other acute effects of central nervous system hemorrhage. Clinical signs include severe HEADACHE; HYPOTENSION; bilateral visual disturbances; UNCONSCIOUSNESS; and COMA.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

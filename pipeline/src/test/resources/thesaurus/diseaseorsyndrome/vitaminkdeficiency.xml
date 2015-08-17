@@ -1,0 +1,25 @@
+<Record>
+<Term>Vitamin K Deficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Avitaminosis</ParentTerm>
+<ParentTerm>Blood Coagulation Disorders</ParentTerm>
+<ParentTerm>Hemorrhagic Disorders</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Hemorrhagic Disorders/Vitamin K Deficiency</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Blood Coagulation Disorders/Vitamin K Deficiency</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Malnutrition/Deficiency Diseases/Avitaminosis/Vitamin K Deficiency</ClassificationPath>
+<BroaderTerm>Malnutrition</BroaderTerm>
+<BroaderTerm>Avitaminosis</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Vitamin K Deficiency</BroaderTerm>
+<BroaderTerm>Blood Coagulation Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Hemorrhagic Disorders</BroaderTerm>
+<BroaderTerm>Deficiency Diseases</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<ChildTerm>Vitamin K Deficiency Bleeding</ChildTerm>
+<Synonym>Vitamin K Deficiency</Synonym>
+<Synonym>Vitamin K Deficiencies</Synonym>
+<Description>A nutritional condition produced by a deficiency of VITAMIN K in the diet, characterized by an increased tendency to hemorrhage (HEMORRHAGIC DISORDERS). Such bleeding episodes may be particularly severe in newborn infants. (From Cecil Textbook of Medicine, 19th ed, p1182)</Description>
+<Source>MeSH</Source>
+</Record>

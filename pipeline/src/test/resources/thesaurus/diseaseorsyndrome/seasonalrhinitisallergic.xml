@@ -1,0 +1,30 @@
+<Record>
+<Term>Seasonal Rhinitis, Allergic</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Respiratory Hypersensitivity</ParentTerm>
+<ParentTerm>Rhinitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Rhinitis/Rhinitis, Allergic, Seasonal</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Rhinitis, Allergic, Seasonal</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Rhinitis/Rhinitis, Allergic, Seasonal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Rhinitis, Allergic, Seasonal</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Rhinitis, Allergic, Seasonal</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Rhinitis</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Seasonal Allergic Rhinitis</Synonym>
+<Synonym>Pollinoses</Synonym>
+<Synonym>Seasonal Allergic Rhinitides</Synonym>
+<Synonym>Hay Fever</Synonym>
+<Synonym>Pollen Allergy</Synonym>
+<Synonym>Hayfever</Synonym>
+<Synonym>Pollen Allergies</Synonym>
+<Synonym>Pollinosis</Synonym>
+<Description>Allergic rhinitis that occurs at the same time every year. It is characterized by acute CONJUNCTIVITIS with lacrimation and ITCHING, and regarded as an allergic condition triggered by specific ALLERGENS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,35 @@
+<Record>
+<Term>Pregnancy Complications</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Female Urogenital Diseases and Pregnancy Complications</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<ChildTerm>Obstetric Labor Complications</ChildTerm>
+<ChildTerm>Abortion, Spontaneous</ChildTerm>
+<ChildTerm>Puerperal Disorders</ChildTerm>
+<ChildTerm>Pregnancy Complications, Neoplastic</ChildTerm>
+<ChildTerm>Fetal Diseases</ChildTerm>
+<ChildTerm>Placenta Diseases</ChildTerm>
+<ChildTerm>Pregnancy Complications, Infectious</ChildTerm>
+<ChildTerm>Hypertension, Pregnancy-Induced</ChildTerm>
+<ChildTerm>Pregnancy Complications, Cardiovascular</ChildTerm>
+<ChildTerm>Pregnancy Complications, Hematologic</ChildTerm>
+<ChildTerm>Pregnancy in Diabetics</ChildTerm>
+<ChildTerm>Pregnancy, Ectopic</ChildTerm>
+<ChildTerm>Pregnancy, Prolonged</ChildTerm>
+<ChildTerm>Prenatal Injuries</ChildTerm>
+<ChildTerm>Oligohydramnios</ChildTerm>
+<ChildTerm>Diabetes, Gestational</ChildTerm>
+<ChildTerm>Phenylketonuria, Maternal</ChildTerm>
+<ChildTerm>Chorea Gravidarum</ChildTerm>
+<ChildTerm>Morning Sickness</ChildTerm>
+<ChildTerm>Nuchal Cord</ChildTerm>
+<ChildTerm>Fetal Death</ChildTerm>
+<ChildTerm>Pemphigoid Gestationis</ChildTerm>
+<ChildTerm>Polyhydramnios</ChildTerm>
+<Synonym>Pregnancy Complications</Synonym>
+<Synonym>Pregnancy Complication</Synonym>
+<Description>Conditions or pathological processes associated with pregnancy. They can occur during or after pregnancy, and range from minor discomforts to serious diseases that require medical interventions. They include diseases in pregnant females, and pregnancies in females with diseases.</Description>
+<Source>MeSH</Source>
+</Record>

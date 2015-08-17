@@ -1,0 +1,29 @@
+<Record>
+<Term>Infectious Canine Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Dog Diseases</ParentTerm>
+<ParentTerm>Hepatitis, Viral, Animal</ParentTerm>
+<ParentTerm>Adenoviridae Infections</ParentTerm>
+<ClassificationPath>Animal Diseases/Hepatitis, Animal/Hepatitis, Viral, Animal/Hepatitis, Infectious Canine</ClassificationPath>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Animal/Hepatitis, Infectious Canine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Dog Diseases/Hepatitis, Infectious Canine</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Animal/Hepatitis, Viral, Animal/Hepatitis, Infectious Canine</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Adenoviridae Infections/Hepatitis, Infectious Canine</ClassificationPath>
+<BroaderTerm>Hepatitis, Infectious Canine</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Dog Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Hepatitis, Animal</BroaderTerm>
+<BroaderTerm>Hepatitis, Viral, Animal</BroaderTerm>
+<BroaderTerm>Adenoviridae Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Canine Infectious Hepatitides</Synonym>
+<Synonym>Infectious Canine Hepatitides</Synonym>
+<Synonym>Infectious Canine Hepatitis</Synonym>
+<Synonym>Canine Infectious Hepatitis</Synonym>
+<Description>A contagious disease caused by canine adenovirus (ADENOVIRUSES, CANINE) infecting the LIVER, the EYE, the KIDNEY, and other organs in dogs, other canids, and bears. Symptoms include FEVER; EDEMA; VOMITING; and DIARRHEA.</Description>
+<Source>MeSH</Source>
+</Record>

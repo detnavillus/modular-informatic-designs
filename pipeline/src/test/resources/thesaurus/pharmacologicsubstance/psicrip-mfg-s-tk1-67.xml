@@ -1,0 +1,15 @@
+<Record>
+<Term>psiCRIP-MFG-S-TK1-67</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/psiCRIP-MFG-S-TK1-67</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>psiCRIP-MFG-S-TK1-67</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>psiCRIP-MFG-S-TK1-67</Synonym>
+<Description>A gene transfer agent comprised of murine packaging cell lines, psiCRIP, and an engineered retroviral vector MFG-S containing the coding region of amino acid residues from 1-67 of HSV Thymidine Kinase which allows gene transfer to occur without viral replication in transduced cells and has been used as a selection marker with ganciclovir treatment.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

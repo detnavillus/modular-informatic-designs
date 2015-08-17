@@ -849,7 +849,7 @@ public class SQLTemplatePersistenceManager implements IObjectFactory
                 
         LOG.debug( "Got propStr = " + propStr );
                 
-        DataObject adhocPropHolder = XMLDataObjectParser.createDataObject( propStr );
+        DataObject adhocPropHolder = new XMLDataObjectParser( ).createDataObject( propStr );
         if (adhocPropHolder != null)
         {
           Iterator<IProperty> propIt = adhocPropHolder.getProperties( );
@@ -1863,7 +1863,7 @@ public class SQLTemplatePersistenceManager implements IObjectFactory
       if (adhocProps != null)
       {
         String adhocXML = getCLOBString( adhocProps );
-        DataObject adhocObj = XMLDataObjectParser.createDataObject( adhocXML );
+        DataObject adhocObj = new XMLDataObjectParser( ).createDataObject( adhocXML );
         IProperty prop = (adhocObj != null) ? adhocObj.getProperty( propName ) : null;
         return (prop != null) ? prop.getValue( ) : null;
       }

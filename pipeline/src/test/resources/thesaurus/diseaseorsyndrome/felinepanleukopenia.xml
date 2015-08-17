@@ -1,0 +1,30 @@
+<Record>
+<Term>Feline Panleukopenia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parvoviridae Infections</ParentTerm>
+<ParentTerm>Cat Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Parvoviridae Infections/Feline Panleukopenia</ClassificationPath>
+<ClassificationPath>Animal Diseases/Cat Diseases/Feline Panleukopenia</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Parvoviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Feline Panleukopenia</BroaderTerm>
+<BroaderTerm>Cat Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Cat Plague</Synonym>
+<Synonym>Feline Ataxias</Synonym>
+<Synonym>Feline Panleukopenias</Synonym>
+<Synonym>Show Fevers</Synonym>
+<Synonym>Feline Infectious Enteritides</Synonym>
+<Synonym>Feline Distempers</Synonym>
+<Synonym>Feline Infectious Enteritis</Synonym>
+<Synonym>Cat Plagues</Synonym>
+<Synonym>Feline Agranulocytosis</Synonym>
+<Synonym>Feline Agranulocytoses</Synonym>
+<Synonym>Show Fever</Synonym>
+<Synonym>Feline Ataxia</Synonym>
+<Synonym>Feline Panleukopenia</Synonym>
+<Synonym>Feline Distemper</Synonym>
+<Description>A highly contagious DNA virus infection of the cat family, characterized by fever, enteritis and bone marrow changes. It is also called feline ataxia, feline agranulocytosis, feline infectious enteritis, cat fever, cat plague, and show fever. It is caused by FELINE PANLEUKOPENIA VIRUS or the closely related MINK ENTERITIS VIRUS or CANINE PARVOVIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

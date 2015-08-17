@@ -1,0 +1,21 @@
+<Record>
+<Term>Esophageal Achalasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Esophageal Motility Disorders</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Deglutition Disorders/Esophageal Motility Disorders/Esophageal Achalasia</ClassificationPath>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Deglutition Disorders</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Esophageal Achalasia</BroaderTerm>
+<BroaderTerm>Esophageal Motility Disorders</BroaderTerm>
+<Synonym>Esophageal Achalasia</Synonym>
+<Synonym>Esophageal Achalasias</Synonym>
+<Synonym>Cardiospasm</Synonym>
+<Synonym>Cardiospasms</Synonym>
+<Synonym>Achalasia</Synonym>
+<Synonym>Achalasias</Synonym>
+<Synonym>Megaesophagus</Synonym>
+<Description>A motility disorder of the ESOPHAGUS in which the LOWER ESOPHAGEAL SPHINCTER (near the CARDIA) fails to relax resulting in functional obstruction of the esophagus, and DYSPHAGIA. Achalasia is characterized by a grossly contorted and dilated esophagus (megaesophagus).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Child Nutrition Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nutrition Disorders</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Nutrition Disorders/Child Nutrition Disorders</ClassificationPath>
+<BroaderTerm>Child Nutrition Disorders</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutrition Disorders</BroaderTerm>
+<Synonym>Child Nutrition Disorders</Synonym>
+<Synonym>Child Nutrition Disorder</Synonym>
+<Synonym>Child Overnutrition</Synonym>
+<Synonym>Child Malnutrition</Synonym>
+<Synonym>Malnutrition in Children</Synonym>
+<Description>Disorders caused by nutritional imbalance, either overnutrition or undernutrition, occurring in children ages 2 to 12 years.Malnutrition occurring in children ages 2 to 12 years, which is due to insufficient intake of food, dietary nutrients, or a pathophysiologic condition which prevents the absorption and utilization of food. Growth and development are markedly affected.</Description>
+<Source>MeSH</Source>
+</Record>

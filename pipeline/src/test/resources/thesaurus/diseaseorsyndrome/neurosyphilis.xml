@@ -1,0 +1,39 @@
+<Record>
+<Term>Neurosyphilis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Central Nervous System Bacterial Infections</ParentTerm>
+<ParentTerm>Syphilis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Bacterial Infections/Neurosyphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Central Nervous System Bacterial Infections/Neurosyphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Spirochaetales Infections/Treponemal Infections/Syphilis/Neurosyphilis</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Treponemal Infections/Syphilis/Neurosyphilis</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Bacterial Infections</BroaderTerm>
+<BroaderTerm>Syphilis</BroaderTerm>
+<BroaderTerm>Treponemal Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Spirochaetales Infections</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Neurosyphilis</BroaderTerm>
+<ChildTerm>Tabes Dorsalis</ChildTerm>
+<Synonym>General Paresis of the Insane</Synonym>
+<Synonym>Gummatous Neurosyphilis</Synonym>
+<Synonym>Juvenile Paresis</Synonym>
+<Synonym>Secondary Neurosyphilis</Synonym>
+<Synonym>Juvenile Neurosyphilis</Synonym>
+<Synonym>Paretic Neurosyphilis</Synonym>
+<Synonym>Juvenile Pareses</Synonym>
+<Synonym>General Paralyses</Synonym>
+<Synonym>Asymptomatic Neurosyphilis</Synonym>
+<Synonym>Central Nervous System Syphilis</Synonym>
+<Synonym>General Paralysis</Synonym>
+<Synonym>General Paresis</Synonym>
+<Synonym>General Pareses</Synonym>
+<Synonym>Neurosyphilis</Synonym>
+<Description>Infections of the central nervous system caused by TREPONEMA PALLIDUM which present with a variety of clinical syndromes. The initial phase of infection usually causes a mild or asymptomatic meningeal reaction. The meningovascular form may present acutely as BRAIN INFARCTION. The infection may also remain subclinical for several years. Late syndromes include general paresis; TABES DORSALIS; meningeal syphilis; syphilitic OPTIC ATROPHY; and spinal syphilis. General paresis is characterized by progressive DEMENTIA; DYSARTHRIA; TREMOR; MYOCLONUS; SEIZURES; and Argyll-Robertson pupils. (Adams et al., Principles of Neurology, 6th ed, pp722-8)</Description>
+<Source>MeSH</Source>
+</Record>

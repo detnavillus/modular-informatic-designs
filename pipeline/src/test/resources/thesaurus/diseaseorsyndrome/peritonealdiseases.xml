@@ -1,0 +1,21 @@
+<Record>
+<Term>Peritoneal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Digestive System Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Peritoneal Diseases</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Peritoneal Diseases</BroaderTerm>
+<ChildTerm>Chylous Ascites</ChildTerm>
+<ChildTerm>Peritoneal Neoplasms</ChildTerm>
+<ChildTerm>Peritonitis</ChildTerm>
+<ChildTerm>Pneumoperitoneum</ChildTerm>
+<ChildTerm>Panniculitis, Peritoneal</ChildTerm>
+<ChildTerm>Peritoneal Fibrosis</ChildTerm>
+<ChildTerm>Hemoperitoneum</ChildTerm>
+<ChildTerm>Mesenteric Lymphadenitis</ChildTerm>
+<ChildTerm>Mesenteric Vascular Occlusion</ChildTerm>
+<Synonym>Peritoneal Diseases</Synonym>
+<Synonym>Peritoneal Disease</Synonym>
+<Description>Pathological processes involving the PERITONEUM.</Description>
+<Source>MeSH</Source>
+</Record>

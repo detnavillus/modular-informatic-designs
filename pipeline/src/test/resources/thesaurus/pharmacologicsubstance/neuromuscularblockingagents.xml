@@ -1,0 +1,18 @@
+<Record>
+<Term>Neuromuscular Blocking Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Neuromuscular Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Neuromuscular Agents/Neuromuscular Blocking Agents</ClassificationPath>
+<BroaderTerm>Neuromuscular Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Neuromuscular Blocking Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Neuromuscular Nondepolarizing Agents</ChildTerm>
+<ChildTerm>Neuromuscular Depolarizing Agents</ChildTerm>
+<Synonym>Neuromuscular Blocking Agents</Synonym>
+<Synonym>Neuromuscular Blockers</Synonym>
+<Description>Drugs that interrupt transmission of nerve impulses at the skeletal neuromuscular junction. They can be of two types, competitive, stabilizing blockers (NEUROMUSCULAR NONDEPOLARIZING AGENTS) or noncompetitive, depolarizing agents (NEUROMUSCULAR DEPOLARIZING AGENTS). Both prevent acetylcholine from triggering the muscle contraction and they are used as anesthesia adjuvants, as relaxants during electroshock, in convulsive states, etc.</Description>
+<Source>MeSH</Source>
+</Record>

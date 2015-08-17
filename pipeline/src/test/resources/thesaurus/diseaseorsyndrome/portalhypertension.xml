@@ -1,0 +1,28 @@
+<Record>
+<Term>Portal Hypertension</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Hypertension</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Site or System/Cardiovascular System Finding/Blood Pressure Finding/Hypertension/Portal Hypertension</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hypertension, Portal</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Finding by Site or System</BroaderTerm>
+<BroaderTerm>Cardiovascular System Finding</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hypertension, Portal</BroaderTerm>
+<BroaderTerm>Blood Pressure Finding</BroaderTerm>
+<BroaderTerm>Portal Hypertension</BroaderTerm>
+<BroaderTerm>Hypertension</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Esophageal and Gastric Varices</ChildTerm>
+<Synonym>Cruveilhier Baumgarten Syndrome</Synonym>
+<Synonym>Portal Hypertensions</Synonym>
+<Synonym>Portal Hypertension</Synonym>
+<Synonym>Cruveilhier-Baumgarten Syndrome</Synonym>
+<Description>Abnormal increase of resistance to blood flow within the hepatic PORTAL SYSTEM, frequently seen in LIVER CIRRHOSIS and conditions with obstruction of the PORTAL VEIN.Liver cirrhosis with intrahepatic portal obstruction, HYPERTENSION, and patent UMBILICAL VEINS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

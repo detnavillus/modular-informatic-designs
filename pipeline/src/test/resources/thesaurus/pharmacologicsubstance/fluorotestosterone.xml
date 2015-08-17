@@ -1,0 +1,18 @@
+<Record>
+<Term>Fluorotestosterone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Therapeutic Androgen</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen/Fluorotestosterone</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Fluorotestosterone</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Fluorotestosterone</Synonym>
+<Synonym>U-11207</Synonym>
+<Description>A synthetic nonaromatizable androgen analog of testosterone.  Fluorotestosterone (6 alpha-fluorotestosterone) binds to and activates specific nuclear receptors inhibits and is equipotent to testosterone. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

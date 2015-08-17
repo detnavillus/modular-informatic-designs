@@ -1,0 +1,18 @@
+<Record>
+<Term>Non-Steroidal Estrogens</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Estrogens</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Estrogens/Estrogens, Non-Steroidal</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Estrogens</BroaderTerm>
+<BroaderTerm>Estrogens, Non-Steroidal</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Phytoestrogens</ChildTerm>
+<Synonym>Non-Steroidal Estrogens</Synonym>
+<Synonym>Nonsteroidal Estrogens</Synonym>
+<Description>Non-steroidal compounds with estrogenic activity.</Description>
+<Source>MeSH</Source>
+</Record>

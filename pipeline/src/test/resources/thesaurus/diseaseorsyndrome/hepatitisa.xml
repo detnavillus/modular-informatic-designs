@@ -1,0 +1,39 @@
+<Record>
+<Term>Hepatitis A</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Viral Hepatitis</ParentTerm>
+<ParentTerm>Hepatitis, Viral, Human</ParentTerm>
+<ParentTerm>Enterovirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/Hepatitis, Viral, Human/Hepatitis A</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Picornaviridae Infections/Enterovirus Infections/Hepatitis A</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis/Viral Hepatitis/Hepatitis A Infection,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis/Acute Hepatitis/Hepatitis A Infection</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis/Hepatitis, Viral, Human/Hepatitis A</ClassificationPath>
+<BroaderTerm>Hepatitis, Viral, Human</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis A</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Viral Hepatitis</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis A Infection,</BroaderTerm>
+<BroaderTerm>Enterovirus Infections</BroaderTerm>
+<BroaderTerm>Hepatitis A Infection</BroaderTerm>
+<BroaderTerm>Picornaviridae Infections</BroaderTerm>
+<BroaderTerm>Acute Hepatitis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<Synonym>Hepatitis A Infection</Synonym>
+<Synonym>Infectious Hepatitis</Synonym>
+<Synonym>Hepatitis A</Synonym>
+<Synonym>Infectious Hepatitides</Synonym>
+<Description>INFLAMMATION of the LIVER in humans caused by a member of the HEPATOVIRUS genus, HUMAN HEPATITIS A VIRUS. It can be transmitted through fecal contamination of food or water.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

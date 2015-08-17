@@ -1,0 +1,17 @@
+<Record>
+<Term>Transferrin Receptor-Targeted Liposomal p53 cDNA</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Transferrin Receptor-Targeted Liposomal p53 cDNA</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Transferrin Receptor-Targeted Liposomal p53 cDNA</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SGT-53</Synonym>
+<Synonym>Synerlip p53</Synonym>
+<Synonym>Transferrin Receptor-Targeted Liposomal p53 cDNA</Synonym>
+<Description>A cationic liposomal, tumor-targeting p53 (TP53) gene delivery system with potential anti-tumor activity. Transferrin receptor-targeted liposomal p53 cDNA contains plasmid DNA encoding the tumor suppressor protein p53 packaged in membrane-like liposome capsules that are complexed with anti-transferrin receptor single-chain antibody (TfRscFv). Upon systemic administration, the anti-TfRscFv selectively binds to tumor cells expressing transferrin receptors. The p53 plasmid is delivered into the nucleus and as a result, p53 protein is produced in tumor cells that have altered p53 function. This results in the restoration of normal cell growth control mechanisms as well as normal response mechanisms to DNA damage.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

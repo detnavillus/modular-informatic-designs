@@ -1,0 +1,19 @@
+<Record>
+<Term>Lipid Metabolism Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Metabolic Diseases</ParentTerm>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Lipid Metabolism Disorders</ClassificationPath>
+<BroaderTerm>Lipid Metabolism Disorders</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<ChildTerm>Dyslipidemias</ChildTerm>
+<ChildTerm>Lipomatosis</ChildTerm>
+<ChildTerm>Lipidoses</ChildTerm>
+<ChildTerm>Xanthomatosis</ChildTerm>
+<ChildTerm>Lipodystrophy</ChildTerm>
+<ChildTerm>Lipid Metabolism, Inborn Errors</ChildTerm>
+<Synonym>Lipid Metabolism Disorders</Synonym>
+<Synonym>Lipid Metabolism Disorder</Synonym>
+<Description>Pathological conditions resulting from abnormal anabolism or catabolism of lipids in the body.</Description>
+<Source>MeSH</Source>
+</Record>

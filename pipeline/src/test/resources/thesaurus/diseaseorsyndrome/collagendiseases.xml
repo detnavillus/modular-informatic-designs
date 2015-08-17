@@ -1,0 +1,19 @@
+<Record>
+<Term>Collagen Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Connective Tissue Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Collagen Diseases</ClassificationPath>
+<BroaderTerm>Collagen Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Keloid</ChildTerm>
+<ChildTerm>Ehlers-Danlos Syndrome</ChildTerm>
+<ChildTerm>Epidermolysis Bullosa Dystrophica</ChildTerm>
+<ChildTerm>Necrobiotic Disorders</ChildTerm>
+<ChildTerm>Nephritis, Hereditary</ChildTerm>
+<ChildTerm>Osteogenesis Imperfecta</ChildTerm>
+<Synonym>Collagen Diseases</Synonym>
+<Synonym>Collagen Disease</Synonym>
+<Description>Historically, a heterogeneous group of acute and chronic diseases, including rheumatoid arthritis, systemic lupus erythematosus, progressive systemic sclerosis, dermatomyositis, etc. This classification was based on the notion that "collagen" was equivalent to "connective tissue", but with the present recognition of the different types of collagen and the aggregates derived from them as distinct entities, the term "collagen diseases" now pertains exclusively to those inherited conditions in which the primary defect is at the gene level and affects collagen biosynthesis, post-translational modification, or extracellular processing directly. (From Cecil Textbook of Medicine, 19th ed, p1494)</Description>
+<Source>MeSH</Source>
+</Record>

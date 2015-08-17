@@ -1,0 +1,37 @@
+<Record>
+<Term>Shy-Drager Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypotension</ParentTerm>
+<ParentTerm>Neurodegenerative Diseases</ParentTerm>
+<ParentTerm>Multiple System Atrophy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Shy-Drager Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Movement Disorders/Multiple System Atrophy/Shy-Drager Syndrome</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Hypotension/Shy-Drager Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autonomic Nervous System Diseases/Primary Dysautonomias/Multiple System Atrophy/Shy-Drager Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Basal Ganglia Diseases/Multiple System Atrophy/Shy-Drager Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Multiple System Atrophy/Shy-Drager Syndrome</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Basal Ganglia Diseases</BroaderTerm>
+<BroaderTerm>Movement Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Shy-Drager Syndrome</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hypotension</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Primary Dysautonomias</BroaderTerm>
+<BroaderTerm>Multiple System Atrophy</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Autonomic Nervous System Diseases</BroaderTerm>
+<Synonym>Shy-Drager Syndrome</Synonym>
+<Synonym>Dysautonomia-Orthostatic Hypotension Syndrome</Synonym>
+<Synonym>Progressive Autonomic Failures</Synonym>
+<Synonym>Dysautonomia-Orthostatic Hypotension Syndromes</Synonym>
+<Synonym>Dysautonomia Orthostatic Hypotension Syndrome</Synonym>
+<Synonym>Progressive Autonomic Failure</Synonym>
+<Synonym>Shy Drager Syndrome</Synonym>
+<Synonym>Dysautonomic Orthostatic Hypotensions</Synonym>
+<Synonym>Dysautonomic Orthostatic Hypotension</Synonym>
+<Description>A progressive neurodegenerative condition of the central and autonomic nervous systems characterized by atrophy of the preganglionic lateral horn neurons of the thoracic spinal cord. This disease is generally considered a clinical variant of MULTIPLE SYSTEM ATROPHY. Affected individuals present in the fifth or sixth decade with ORTHOSTASIS and bladder dysfunction; and later develop FECAL INCONTINENCE; anhidrosis; ATAXIA; IMPOTENCE; and alterations of tone suggestive of basal ganglia dysfunction. (From Adams et al., Principles of Neurology, 6th ed, p536)</Description>
+<Source>MeSH</Source>
+</Record>

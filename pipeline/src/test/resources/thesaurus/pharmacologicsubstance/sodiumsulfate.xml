@@ -1,0 +1,16 @@
+<Record>
+<Term>Sodium Sulfate,</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Sodium Sulfate, Anhydrous</ClassificationPath>
+<BroaderTerm>Sodium Sulfate, Anhydrous</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SODIUM SULFATE, ANHYDROUS</Synonym>
+<Synonym>Sodium Sulfate, Anhydrous</Synonym>
+<Description>The anhydrous, sodium salt form of sulfuric acid. Sodium sulfate anhydrous disassociates in water to provide sodium ions and sulfate ions. Sodium ion is the principal cation of the extracellular fluid and plays a large part in the therapy of fluid and electrolyte disturbances. Sodium sulfate anhydrous is an electrolyte replenisher and is used in isosmotic solutions so that administration does not disturb normal electrolyte balance and does not lead to absorption or excretion of water and ions.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

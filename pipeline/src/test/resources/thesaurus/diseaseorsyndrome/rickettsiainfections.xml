@@ -1,0 +1,19 @@
+<Record>
+<Term>Rickettsia Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Rickettsiaceae Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections/Rickettsia Infections</ClassificationPath>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Rickettsia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Boutonneuse Fever</ChildTerm>
+<ChildTerm>Rocky Mountain Spotted Fever</ChildTerm>
+<ChildTerm>Typhus, Endemic Flea-Borne</ChildTerm>
+<ChildTerm>Typhus, Epidemic Louse-Borne</ChildTerm>
+<Synonym>Rickettsia Infections</Synonym>
+<Synonym>Rickettsia Infection</Synonym>
+<Description>Infections by the genus RICKETTSIA.</Description>
+<Source>MeSH</Source>
+</Record>

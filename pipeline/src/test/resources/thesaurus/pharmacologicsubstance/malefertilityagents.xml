@@ -1,0 +1,18 @@
+<Record>
+<Term>Male Fertility Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Fertility Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Reproductive Control Agents/Fertility Agents/Fertility Agents, Male</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Reproductive Control Agents/Fertility Agents/Fertility Agents, Male</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Reproductive Control Agents</BroaderTerm>
+<BroaderTerm>Fertility Agents, Male</BroaderTerm>
+<BroaderTerm>Fertility Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Male Fertility Agents</Synonym>
+<Synonym>Synthetic Male Fertility Agents</Synonym>
+<Description>Compounds which increase the capacity of the male to induce conception.</Description>
+<Source>MeSH</Source>
+</Record>

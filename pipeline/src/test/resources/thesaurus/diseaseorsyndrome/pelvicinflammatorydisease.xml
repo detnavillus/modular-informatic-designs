@@ -1,0 +1,51 @@
+<Record>
+<Term>Pelvic Inflammatory Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genitourinary System Infection</ParentTerm>
+<ParentTerm>Adnexal Diseases</ParentTerm>
+<ParentTerm>Pelvic Infection</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Genitourinary System Infection/Pelvic Inflammatory Disease,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Non-Neoplastic Reproductive System Disorder/Female Non-Neoplastic Reproductive System Disorder/Pelvic Inflammatory Disease</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Adnexal Diseases/Pelvic Inflammatory Disease</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Pelvic Infection/Pelvic Inflammatory Disease</ClassificationPath>
+<BroaderTerm>Female Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Pelvic Inflammatory Disease,</BroaderTerm>
+<BroaderTerm>Adnexal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pelvic Infection</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Genitourinary System Infection</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Pelvic Inflammatory Disease</BroaderTerm>
+<ChildTerm>Oophoritis</ChildTerm>
+<ChildTerm>Parametritis</ChildTerm>
+<ChildTerm>AIDS-Related Pelvic Inflammatory Disease</ChildTerm>
+<ChildTerm>Adnexitis</ChildTerm>
+<ChildTerm>Salpingitis</ChildTerm>
+<ChildTerm>Endometritis</ChildTerm>
+<Synonym>PID, pelvic inflammatory diseasec</Synonym>
+<Synonym>Inflammatory disease (PID), pelvic</Synonym>
+<Synonym>Pelvic inflammatory disease, (PID)</Synonym>
+<Synonym>Disease (PID), pelvic inflammatory</Synonym>
+<Synonym>Adnexitis</Synonym>
+<Synonym>Inflammatory Pelvic Disease</Synonym>
+<Synonym>Pelvic Inflammatory Diseases</Synonym>
+<Synonym>Inflammatory Pelvic Diseases</Synonym>
+<Synonym>Pelvic Inflammatory Disease</Synonym>
+<Description>Pelvic inflammatory disease (PID) is an acute or chronic inflammation in the pelvic cavity.  It is most commonly caused by sexually transmitted diseases, including chlamydia and gonorrhea, that have ascended into the uterus, fallopian tubes, or ovaries as a result of intercourse or childbirth, or of surgical procedures, including insertion of IUDs or abortion.  PID may be either symptomatic or asymptomatic.  It may cause infertility and it may raise the risk of ectopic pregnancy.  PID is a disease associated with HIV infection.</Description>
+<Description>A spectrum of inflammation involving the female upper genital tract and the supporting tissues. It is usually caused by an ascending infection of organisms from the endocervix. Infection may be confined to the uterus (ENDOMETRITIS), the FALLOPIAN TUBES; (SALPINGITIS); the ovaries (OOPHORITIS), the supporting ligaments (PARAMETRITIS), or may involve several of the above uterine appendages. Such inflammation can lead to functional impairment and infertility.Inflammation of the uterine appendages (ADNEXA UTERI) including infection of the FALLOPIAN TUBES (SALPINGITIS), the ovaries (OOPHORITIS), or the supporting ligaments (PARAMETRITIS).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

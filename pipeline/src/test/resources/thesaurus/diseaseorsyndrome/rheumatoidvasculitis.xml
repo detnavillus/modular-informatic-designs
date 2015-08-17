@@ -1,0 +1,29 @@
+<Record>
+<Term>Rheumatoid Vasculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Systemic Vasculitis</ParentTerm>
+<ParentTerm>Arthritis, Rheumatoid</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Arthritis, Rheumatoid/Rheumatoid Vasculitis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Arthritis, Rheumatoid/Rheumatoid Vasculitis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Rheumatoid Vasculitis</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Rheumatic Diseases/Arthritis, Rheumatoid/Rheumatoid Vasculitis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Vasculitis/Systemic Vasculitis/Rheumatoid Vasculitis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Systemic Vasculitis</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Rheumatoid Vasculitis</BroaderTerm>
+<BroaderTerm>Arthritis, Rheumatoid</BroaderTerm>
+<BroaderTerm>Vasculitis</BroaderTerm>
+<Synonym>Rheumatoid Vasculitides</Synonym>
+<Synonym>Rheumatoid Vasculitis</Synonym>
+<Description>Necrotizing VASCULITIS of small and medium size vessels, developing as a complication in RHEUMATOID ARTHRITIS patients. It is characterized by peripheral vascular lesions, cutaneous ULCERS, peripheral GANGRENE, and MONONEURITIS MULTIPLEX.</Description>
+<Source>MeSH</Source>
+</Record>

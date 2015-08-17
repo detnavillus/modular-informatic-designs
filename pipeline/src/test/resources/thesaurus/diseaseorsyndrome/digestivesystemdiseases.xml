@@ -1,0 +1,19 @@
+<Record>
+<Term>Digestive System Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Digestive System Diseases</ClassificationPath>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Digestive System Neoplasms</ChildTerm>
+<ChildTerm>Gastrointestinal Diseases</ChildTerm>
+<ChildTerm>Digestive System Abnormalities</ChildTerm>
+<ChildTerm>Biliary Tract Diseases</ChildTerm>
+<ChildTerm>Digestive System Fistula</ChildTerm>
+<ChildTerm>Liver Diseases</ChildTerm>
+<ChildTerm>Peritoneal Diseases</ChildTerm>
+<ChildTerm>Pancreatic Diseases</ChildTerm>
+<Synonym>Digestive System Diseases</Synonym>
+<Synonym>Digestive System Disease</Synonym>
+<Description>Diseases in any part of the GASTROINTESTINAL TRACT or the accessory organs (LIVER; BILIARY TRACT; PANCREAS).</Description>
+<Source>MeSH</Source>
+</Record>

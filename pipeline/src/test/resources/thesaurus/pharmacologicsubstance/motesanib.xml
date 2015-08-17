@@ -1,0 +1,24 @@
+<Record>
+<Term>Motesanib</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Tyrosine Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Motesanib Diphosphate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Tyrosine Kinase Inhibitor/Motesanib</ClassificationPath>
+<BroaderTerm>Tyrosine Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Motesanib</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Motesanib Diphosphate</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>Motesanib</Synonym>
+<Synonym>MOTESANIB</Synonym>
+<Synonym>Motesanib Diphosphate</Synonym>
+<Synonym>AMG 706</Synonym>
+<Synonym>MOTESANIB DIPHOSPHATE</Synonym>
+<Synonym>AMG-706</Synonym>
+<Description>A diphosphate salt of motesanib, an orally bioavailable receptor tyrosine kinase inhibitor with potential antineoplastic activity. AMG 706 selectively targets and inhibits vascular endothelial growth factor (VEGFR), platelet-derived growth factor (PDGFR), Kit, and Ret receptors, thereby inhibiting angiogenesis and cellular proliferation. (NCI05)</Description>
+<Description>An orally bioavailable receptor tyrosine kinase inhibitor with potential antineoplastic activity. AMG 706 selectively targets and inhibits vascular endothelial growth factor (VEGFR), platelet-derived growth factor (PDGFR), Kit, and Ret receptors, thereby inhibiting angiogenesis and cellular proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

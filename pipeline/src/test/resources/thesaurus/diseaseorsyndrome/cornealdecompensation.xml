@@ -1,0 +1,19 @@
+<Record>
+<Term>Corneal Decompensation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Corneal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Non-Neoplastic Corneal Disorder/Corneal Decompensation</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Corneal Decompensation</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Corneal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Corneal Decompensation</Synonym>
+<Synonym>Corneal Endothelial Decompensation</Synonym>
+<Synonym>Decompensation, corneal</Synonym>
+<Description>Endothelial decompensation that is manifested by opacity of the cornea. The condition often occurs as a nonspecific response to mechanical injury from incidental corneal contact by intraocular instruments during surgery; chemical injury from the improper use of intraocular drugs, drugs containing preservatives, or from residues from inadequate rinsing of detergents or other residues from surgical instruments. The most common causes of corneal endothelial decompensation in the adult population are cataract removal/IOL-related endothelial loss and Fuchs dystrophy. When severe, corneal endothelial decompensation requires corneal transplantation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

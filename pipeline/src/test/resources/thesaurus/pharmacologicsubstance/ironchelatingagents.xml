@@ -1,0 +1,19 @@
+<Record>
+<Term>Iron Chelating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<ParentTerm>Chelating Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Chelating Agents/Iron Chelating Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Chelating Agents/Iron Chelating Agents</ClassificationPath>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Iron Chelating Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Chelating Agents</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<ChildTerm>Siderophores</ChildTerm>
+<Synonym>Iron Chelates</Synonym>
+<Synonym>Iron Chelating Agents</Synonym>
+<Description>Organic chemicals that form two or more coordination links with an iron ion. Once coordination has occurred, the complex formed is called a chelate. The iron-binding porphyrin group of hemoglobin is an example of a metal chelate found in biological systems.</Description>
+<Source>MeSH</Source>
+</Record>

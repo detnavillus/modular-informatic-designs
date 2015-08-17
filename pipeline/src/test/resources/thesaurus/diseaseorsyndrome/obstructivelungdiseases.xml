@@ -1,0 +1,18 @@
+<Record>
+<Term>Obstructive Lung Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Obstructive</ClassificationPath>
+<BroaderTerm>Lung Diseases, Obstructive</BroaderTerm>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<ChildTerm>Asthma</ChildTerm>
+<ChildTerm>Bronchitis</ChildTerm>
+<ChildTerm>Pulmonary Disease, Chronic Obstructive</ChildTerm>
+<Synonym>Obstructive Lung Disease</Synonym>
+<Synonym>Obstructive Lung Diseases</Synonym>
+<Synonym>Obstructive Pulmonary Diseases</Synonym>
+<Synonym>Obstructive Pulmonary Disease</Synonym>
+<Description>Any disorder marked by obstruction of conducting airways of the lung. AIRWAY OBSTRUCTION may be acute, chronic, intermittent, or persistent.</Description>
+<Source>MeSH</Source>
+</Record>

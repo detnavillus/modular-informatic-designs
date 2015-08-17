@@ -1,0 +1,17 @@
+<Record>
+<Term>Lassa Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arenaviridae Infections</ParentTerm>
+<ParentTerm>Hemorrhagic Fevers, Viral</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Arenaviridae Infections/Lassa Fever</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Hemorrhagic Fevers, Viral/Lassa Fever</ClassificationPath>
+<BroaderTerm>Arenaviridae Infections</BroaderTerm>
+<BroaderTerm>Hemorrhagic Fevers, Viral</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Lassa Fever</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<Synonym>Lassa Fevers</Synonym>
+<Synonym>Lassa Fever</Synonym>
+<Description>An acute febrile human disease caused by the LASSA VIRUS.</Description>
+<Source>MeSH</Source>
+</Record>

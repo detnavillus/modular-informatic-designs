@@ -1,0 +1,15 @@
+<Record>
+<Term>Dengue Vaccines</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Dengue Vaccines</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Dengue Vaccines</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<Synonym>Dengue Vaccines</Synonym>
+<Description>Vaccines or candidate vaccines used to prevent infection with DENGUE VIRUS. These include live-attenuated, subunit, DNA, and inactivated vaccines.</Description>
+<Source>MeSH</Source>
+</Record>

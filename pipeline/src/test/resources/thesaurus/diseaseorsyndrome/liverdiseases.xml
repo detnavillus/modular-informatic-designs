@@ -1,0 +1,37 @@
+<Record>
+<Term>Liver Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Pathologic Function</SemanticType>
+<ParentTerm>Digestive System Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<ChildTerm>Cholestasis, Intrahepatic</ChildTerm>
+<ChildTerm>Hepatitis</ChildTerm>
+<ChildTerm>Liver Diseases, Parasitic</ChildTerm>
+<ChildTerm>Hypertension, Portal</ChildTerm>
+<ChildTerm>Fatty Liver</ChildTerm>
+<ChildTerm>Tuberculosis, Hepatic</ChildTerm>
+<ChildTerm>Zellweger Syndrome</ChildTerm>
+<ChildTerm>Hepatic Insufficiency</ChildTerm>
+<ChildTerm>Porphyrias, Hepatic</ChildTerm>
+<ChildTerm>Liver Neoplasms</ChildTerm>
+<ChildTerm>Hepatopulmonary Syndrome</ChildTerm>
+<ChildTerm>Focal Nodular Hyperplasia</ChildTerm>
+<ChildTerm>Liver Abscess</ChildTerm>
+<ChildTerm>Drug-Induced Liver Injury</ChildTerm>
+<ChildTerm>Liver Diseases, Alcoholic</ChildTerm>
+<ChildTerm>Budd-Chiari Syndrome</ChildTerm>
+<ChildTerm>Hepatic Veno-Occlusive Disease</ChildTerm>
+<ChildTerm>Hepatolenticular Degeneration</ChildTerm>
+<ChildTerm>Hepatomegaly</ChildTerm>
+<ChildTerm>Hepatorenal Syndrome</ChildTerm>
+<ChildTerm>Liver Cirrhosis</ChildTerm>
+<ChildTerm>Peliosis Hepatis</ChildTerm>
+<Synonym>Liver Diseases</Synonym>
+<Synonym>Liver Disease</Synonym>
+<Synonym>Liver Dysfunction</Synonym>
+<Synonym>Liver Dysfunctions</Synonym>
+<Description>Pathological processes of the LIVER.</Description>
+<Source>MeSH</Source>
+</Record>

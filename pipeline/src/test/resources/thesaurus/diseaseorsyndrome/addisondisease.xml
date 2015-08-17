@@ -1,0 +1,23 @@
+<Record>
+<Term>Addison Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Adrenal Insufficiency</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Addison Disease</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases/Adrenal Insufficiency/Addison Disease</ClassificationPath>
+<BroaderTerm>Adrenal Insufficiency</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Addison Disease</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<Synonym>Addisons Disease</Synonym>
+<Synonym>Primary Hypoadrenalism</Synonym>
+<Synonym>Primary Adrenal Insufficiency</Synonym>
+<Synonym>Addison Disease</Synonym>
+<Synonym>Primary Adrenocortical Insufficiency</Synonym>
+<Synonym>Addison's Disease</Synonym>
+<Synonym>Primary Adrenocortical Insufficiencies</Synonym>
+<Description>An adrenal disease characterized by the progressive destruction of the ADRENAL CORTEX, resulting in insufficient production of ALDOSTERONE and HYDROCORTISONE. Clinical symptoms include ANOREXIA; NAUSEA; WEIGHT LOSS; MUSCLE WEAKNESS; and HYPERPIGMENTATION of the SKIN due to increase in circulating levels of ACTH precursor hormone which stimulates MELANOCYTES.</Description>
+<Source>MeSH</Source>
+</Record>

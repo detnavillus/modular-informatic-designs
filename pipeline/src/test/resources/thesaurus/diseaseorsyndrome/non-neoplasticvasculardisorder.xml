@@ -1,0 +1,41 @@
+<Record>
+<Term>Non-Neoplastic Vascular Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Vascular Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Cardiovascular Disorder/Non-Neoplastic Vascular Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder,</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Lymphedema</ChildTerm>
+<ChildTerm>Ischemic Bowel Disease</ChildTerm>
+<ChildTerm>Vascular Hemorrhagic Disorder</ChildTerm>
+<ChildTerm>Diabetic Vascular Disorder</ChildTerm>
+<ChildTerm>Vasculitis</ChildTerm>
+<ChildTerm>Thrombohemorrhagic Event</ChildTerm>
+<ChildTerm>Vein Disorder</ChildTerm>
+<ChildTerm>Hypertensive Episode</ChildTerm>
+<ChildTerm>Embolism</ChildTerm>
+<ChildTerm>Arterial Disorder</ChildTerm>
+<ChildTerm>Reactive Vascular Proliferation</ChildTerm>
+<ChildTerm>Thrombosis</ChildTerm>
+<ChildTerm>Vascular Ectasia</ChildTerm>
+<ChildTerm>Peripheral Vascular Disorder</ChildTerm>
+<ChildTerm>Renal Vascular Disorder</ChildTerm>
+<ChildTerm>Raynaud's Disease</ChildTerm>
+<ChildTerm>Thrombophlebitis</ChildTerm>
+<ChildTerm>Cerebrovascular Disorder</ChildTerm>
+<ChildTerm>Peripheral Vascular Disease</ChildTerm>
+<ChildTerm>Poor Vascular Access</ChildTerm>
+<ChildTerm>Vascular Purpura</ChildTerm>
+<Synonym>Non-Neoplastic Vascular Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

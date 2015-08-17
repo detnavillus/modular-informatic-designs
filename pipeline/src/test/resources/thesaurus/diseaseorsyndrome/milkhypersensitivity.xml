@@ -1,0 +1,17 @@
+<Record>
+<Term>Milk Hypersensitivity</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Food Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Food Hypersensitivity/Milk Hypersensitivity</ClassificationPath>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Milk Hypersensitivity</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Food Hypersensitivity</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Milk Hypersensitivity</Synonym>
+<Synonym>Milk Hypersensitivities</Synonym>
+<Synonym>Milk Allergy</Synonym>
+<Synonym>Milk Allergies</Synonym>
+<Description>Allergic reaction to milk (usually cow's milk) or milk products. MILK HYPERSENSITIVITY should be differentiated from LACTOSE INTOLERANCE, an intolerance to milk as a result of congenital deficiency of lactase.</Description>
+<Source>MeSH</Source>
+</Record>

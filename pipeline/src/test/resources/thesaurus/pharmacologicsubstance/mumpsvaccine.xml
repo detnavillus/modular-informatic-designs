@@ -1,0 +1,16 @@
+<Record>
+<Term>Mumps Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<ParentTerm>Viral Vaccines</ParentTerm>
+<ClassificationPath>Complex Mixtures/Biological Products/Vaccines/Viral Vaccines/Mumps Vaccine</ClassificationPath>
+<BroaderTerm>Biological Products</BroaderTerm>
+<BroaderTerm>Mumps Vaccine</BroaderTerm>
+<BroaderTerm>Viral Vaccines</BroaderTerm>
+<BroaderTerm>Vaccines</BroaderTerm>
+<BroaderTerm>Complex Mixtures</BroaderTerm>
+<ChildTerm>Measles-Mumps-Rubella Vaccine</ChildTerm>
+<Synonym>Mumps Vaccine</Synonym>
+<Description>A live attenuated virus vaccine of chick embryo origin, used for routine immunization of children and for immunization of adolescents and adults who have not had mumps or been immunized with live mumps vaccine. Children are usually immunized with measles-mumps-rubella combination vaccine.</Description>
+<Source>MeSH</Source>
+</Record>

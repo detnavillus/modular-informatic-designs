@@ -1,0 +1,27 @@
+<Record>
+<Term>Diabetes Complications</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Complications</ClassificationPath>
+<BroaderTerm>Diabetes Complications</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<ChildTerm>Diabetic Angiopathies</ChildTerm>
+<ChildTerm>Diabetic Coma</ChildTerm>
+<ChildTerm>Diabetic Nephropathies</ChildTerm>
+<ChildTerm>Diabetic Neuropathies</ChildTerm>
+<ChildTerm>Diabetic Ketoacidosis</ChildTerm>
+<ChildTerm>Fetal Macrosomia</ChildTerm>
+<Synonym>Diabetes Complications</Synonym>
+<Synonym>Diabetes Complication</Synonym>
+<Synonym>Diabetes-Related Complications</Synonym>
+<Synonym>Diabetes Related Complications</Synonym>
+<Synonym>Diabetes-Related Complication</Synonym>
+<Synonym>Diabetic Complications</Synonym>
+<Synonym>Diabetic Complication</Synonym>
+<Synonym>Complications of Diabetes Mellitus</Synonym>
+<Synonym>Diabetes Mellitus Complication</Synonym>
+<Synonym>Diabetes Mellitus Complications</Synonym>
+<Description>Conditions or pathological processes associated with the disease of diabetes mellitus. Due to the impaired control of BLOOD GLUCOSE level in diabetic patients, pathological processes develop in numerous tissues and organs including the EYE, the KIDNEY, the BLOOD VESSELS, and the NERVE TISSUE.</Description>
+<Source>MeSH</Source>
+</Record>

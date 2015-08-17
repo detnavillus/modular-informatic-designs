@@ -1,0 +1,21 @@
+<Record>
+<Term>Nasal Decongestants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Vasoconstrictor Agents</ParentTerm>
+<ParentTerm>Respiratory System Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Cardiovascular Agents/Vasoconstrictor Agents/Nasal Decongestants</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Respiratory System Agents/Nasal Decongestants</ClassificationPath>
+<BroaderTerm>Vasoconstrictor Agents</BroaderTerm>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Nasal Decongestants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Respiratory System Agents</BroaderTerm>
+<BroaderTerm>Cardiovascular Agents</BroaderTerm>
+<Synonym>Nasal Decongestants</Synonym>
+<Synonym>Decongestants</Synonym>
+<Synonym>Nasal Vasoconstrictors</Synonym>
+<Synonym>Nasal Vasoconstrictor Agents</Synonym>
+<Description>Drugs designed to treat inflammation of the nasal passages, generally the result of an infection (more often than not the common cold) or an allergy related condition, e.g., hay fever. The inflammation involves swelling of the mucous membrane that lines the nasal passages and results in inordinate mucus production. The primary class of nasal decongestants are vasoconstrictor agents. (From PharmAssist, The Family Guide to Health and Medicine, 1993)</Description>
+<Source>MeSH</Source>
+</Record>

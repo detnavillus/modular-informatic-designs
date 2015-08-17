@@ -1,0 +1,24 @@
+<Record>
+<Term>Female Genital Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis, Urogenital</ParentTerm>
+<ParentTerm>Genital Diseases, Female</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Tuberculosis, Female Genital</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Tuberculosis, Urogenital/Tuberculosis, Female Genital</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Urogenital/Tuberculosis, Female Genital</ClassificationPath>
+<BroaderTerm>Tuberculosis, Urogenital</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Tuberculosis, Female Genital</BroaderTerm>
+<Synonym>Female Genital Tuberculosis</Synonym>
+<Synonym>Female Genital Tuberculoses</Synonym>
+<Description>MYCOBACTERIUM infections of the female reproductive tract (GENITALIA, FEMALE).</Description>
+<Source>MeSH</Source>
+</Record>

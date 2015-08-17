@@ -1,0 +1,20 @@
+<Record>
+<Term>Pulmonary Aspergillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases, Fungal</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Fungal/Pulmonary Aspergillosis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pulmonary Aspergillosis</BroaderTerm>
+<BroaderTerm>Lung Diseases, Fungal</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<ChildTerm>Aspergillosis, Allergic Bronchopulmonary</ChildTerm>
+<ChildTerm>Invasive Pulmonary Aspergillosis</ChildTerm>
+<Synonym>Pulmonary Aspergillosis</Synonym>
+<Synonym>Pulmonary Aspergilloses</Synonym>
+<Synonym>Lung Aspergillosis</Synonym>
+<Synonym>Bronchopulmonary Aspergillosis</Synonym>
+<Synonym>Bronchopulmonary Aspergilloses</Synonym>
+<Synonym>Bronchopulmonary Aspergillose</Synonym>
+<Description>Infections of the respiratory tract with fungi of the genus ASPERGILLUS. Infections may result in allergic reaction (ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS), colonization in pulmonary cavities as fungus balls (MYCETOMA), or lead to invasion of the lung parenchyma (INVASIVE PULMONARY ASPERGILLOSIS).</Description>
+<Source>MeSH</Source>
+</Record>

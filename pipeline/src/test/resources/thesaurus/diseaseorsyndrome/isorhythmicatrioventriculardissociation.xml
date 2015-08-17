@@ -1,0 +1,21 @@
+<Record>
+<Term>Isorhythmic Atrioventricular Dissociation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Isorhythmic Atrioventricular Dissociation</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Isorhythmic Atrioventricular Dissociation</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>ISORHYTHMIC DISSOCIATION</Synonym>
+<Synonym>Isorhythmic Atrioventricular Dissociation</Synonym>
+<Synonym>Isorhythmic dissociation</Synonym>
+<Description>A type of atrioventricular dissociation characterized by atria and ventricles beating at similar rates, although independently.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

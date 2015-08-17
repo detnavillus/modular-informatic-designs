@@ -1,0 +1,17 @@
+<Record>
+<Term>Cardiovascular Pregnancy Complications</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pregnancy Complications</ParentTerm>
+<ParentTerm>Cardiovascular Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Pregnancy Complications, Cardiovascular</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Pregnancy Complications, Cardiovascular</ClassificationPath>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Pregnancy Complications, Cardiovascular</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Embolism, Amniotic Fluid</ChildTerm>
+<Synonym>Cardiovascular Pregnancy Complications</Synonym>
+<Synonym>Cardiovascular Pregnancy Complication</Synonym>
+<Description>The co-occurrence of pregnancy and a cardiovascular disease. The disease may precede or follow FERTILIZATION and it may or may not have a deleterious effect on the pregnant woman or FETUS.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,20 @@
+<Record>
+<Term>Mycobacterium Avium Complex Lymphadenitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymph Node Tuberculosis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Mycobacterial Infection/Tuberculosis/Lymph Node Tuberculosis/Mycobacterium Avium Complex Lymphadenitis</ClassificationPath>
+<BroaderTerm>Lymph Node Tuberculosis</BroaderTerm>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Mycobacterium Avium Complex Lymphadenitis</BroaderTerm>
+<BroaderTerm>Mycobacterial Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>MAC Lymphadenitis</Synonym>
+<Synonym>Mycobacterium Avium Complex Lymphadenitis</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

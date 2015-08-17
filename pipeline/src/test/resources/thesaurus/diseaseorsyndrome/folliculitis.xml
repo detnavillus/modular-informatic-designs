@@ -1,0 +1,18 @@
+<Record>
+<Term>Folliculitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Hair Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Hair Diseases/Folliculitis</ClassificationPath>
+<BroaderTerm>Folliculitis</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Hair Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Acne Keloid</ChildTerm>
+<Synonym>Folliculitis</Synonym>
+<Synonym>Folliculitides</Synonym>
+<Synonym>Sycosis</Synonym>
+<Synonym>Sycoses</Synonym>
+<Description>Inflammation of follicles, primarily hair follicles.</Description>
+<Source>MeSH</Source>
+</Record>

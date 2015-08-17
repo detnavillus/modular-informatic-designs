@@ -1,0 +1,21 @@
+<Record>
+<Term>Necrotizing Fasciitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Skin Diseases, Bacterial</ParentTerm>
+<ParentTerm>Fasciitis</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Skin Diseases, Bacterial/Fasciitis, Necrotizing</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Fasciitis/Fasciitis, Necrotizing</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Bacterial</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Fasciitis, Necrotizing</BroaderTerm>
+<BroaderTerm>Fasciitis</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Necrotizing Fasciitis</Synonym>
+<Synonym>Necrotizing Fasciitides</Synonym>
+<Synonym>Necrotizing Fascitides</Synonym>
+<Synonym>Necrotizing Fascitis</Synonym>
+<Description>A fulminating bacterial infection of the deep layers of the skin and FASCIA. It can be caused by many different organisms, with STREPTOCOCCUS PYOGENES being the most common.</Description>
+<Source>MeSH</Source>
+</Record>

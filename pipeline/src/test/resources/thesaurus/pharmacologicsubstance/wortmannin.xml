@@ -1,0 +1,21 @@
+<Record>
+<Term>Wortmannin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<ParentTerm>Phosphatidylinositide 3-Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Phosphatidylinositide 3-Kinase Inhibitor/Wortmannin</ClassificationPath>
+<BroaderTerm>Wortmannin</BroaderTerm>
+<BroaderTerm>Phosphatidylinositide 3-Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>(1 Alpha,11 alpha)-11-(acetyloxy)-1-(methoxymethyl)-2-oxaandrosta-5,8-dieno(6,5,4-bc)furan- 3,7,17-trione</Synonym>
+<Synonym>(1S,6bR,9aS,11R,11bR)-11-(Acetyloxy)-1,6b,7,8,9a,10,11,11b-octahydro-1-(methoxymethyl)-9a,11b-dimethyl-3H-furo[4,3,2-de]indeno[4,5-h]-2-benzopyran-3,6,9-trione</Synonym>
+<Synonym>2-Oxaandrosta-5,8-dieno[6,5,4-bc]furan-3,7,17-trione, 11-(acetyloxy)-1-(methoxymethyl)-, (1.alpha.,11.alpha.)-</Synonym>
+<Synonym>SL-2052</Synonym>
+<Synonym>WORTMANNIN</Synonym>
+<Synonym>Wortmannin</Synonym>
+<Description>A potent fungal metabolite isolated from Penicillium wortmannin that selectively inhibits phosphatidylinositol 3-kinase and affects the signal transduction pathway. (NCI)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

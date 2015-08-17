@@ -1,0 +1,20 @@
+<Record>
+<Term>Calcipotriene</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anti-psoriatic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-psoriatic Agent/Calcipotriene</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anti-psoriatic Agent</BroaderTerm>
+<BroaderTerm>Calcipotriene</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CALCIPOTRIENE</Synonym>
+<Synonym>Calcipotriene</Synonym>
+<Synonym>Dovonex</Synonym>
+<Synonym>Calcipotriol</Synonym>
+<Description>A synthetic vitamin D derivative usually formulated for topical dermatological use, antipsoriatic Calcipotriene (calcipotriol) competes equally with active 1,25-hydroxy-2D3 (the natural form of vitamin D) for 1,25-hydroxy-2D3 receptors in regulating cell proliferation and differentiation. It induces differentiation and suppresses proliferation of keratinocytes, reversing abnormal keratinocyte changes in psoriasis, and leads to normalization of epidermal growth. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

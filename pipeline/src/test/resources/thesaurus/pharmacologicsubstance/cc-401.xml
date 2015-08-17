@@ -1,0 +1,16 @@
+<Record>
+<Term>CC-401</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Mitogen-Activated Protein Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Protein Kinase Inhibitor/Mitogen-Activated Protein Kinase Inhibitor/CC-401</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>CC-401</BroaderTerm>
+<BroaderTerm>Mitogen-Activated Protein Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Protein Kinase Inhibitor</BroaderTerm>
+<Synonym>CC-401</Synonym>
+<Description>A second generation ATP-competitive anthrapyrazolone c-Jun N terminal kinase (JNK) inhibitor with potential antineoplastic activity. Based on the chemistry of SP600125, another anthrapyrazolone inhibitor of JNK, CC-401 competitively binds the ATP binding site of JNK, resulting in inhibition of the phosphorylation of the N-terminal activation domain of transcription factor c-Jun; decreased transcription activity of c-Jun; and a variety of cellular effects including decreased cellular proliferation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>Schistosomiasis mansoni</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Schistosomiasis</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Trematode Infections/Schistosomiasis/Schistosomiasis mansoni</ClassificationPath>
+<BroaderTerm>Schistosomiasis mansoni</BroaderTerm>
+<BroaderTerm>Schistosomiasis</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Trematode Infections</BroaderTerm>
+<Synonym>Schistosomiasis mansoni</Synonym>
+<Synonym>Intestinal Schistosomiases</Synonym>
+<Synonym>Intestinal Schistosomiasis</Synonym>
+<Description>Schistosomiasis caused by Schistosoma mansoni. It is endemic in Africa, the Middle East, South America, and the Caribbean and affects mainly the bowel, spleen, and liver.</Description>
+<Source>MeSH</Source>
+</Record>

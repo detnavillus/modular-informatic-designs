@@ -1,0 +1,35 @@
+<Record>
+<Term>Alkylating Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ParentTerm>Molecular Mechanisms of Pharmacological Action</ParentTerm>
+<ParentTerm>Noxae</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Alkylating Agents</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Alkylating Agents</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent</ClassificationPath>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Alkylating Agents</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<ChildTerm>Antineoplastic Alkylating Agent</ChildTerm>
+<ChildTerm>Antineoplastic Agents, Alkylating</ChildTerm>
+<Synonym>Alkylator</Synonym>
+<Synonym>Alkylators</Synonym>
+<Synonym>Alkylating Agents</Synonym>
+<Synonym>alkylating agents</Synonym>
+<Synonym>Alkylating Agent</Synonym>
+<Description>Agents that replace hydrogen atom(s) in biologically active molecules with alky radical(s), hindering proper function.  Alkylating agents exhibit cytotoxic effects through the alkylation of DNA, resulting in strand cross-linking, ultimately inhibiting DNA replication and cell growth.</Description>
+<Description>Highly reactive chemicals that introduce alkyl radicals into biologically active molecules and thereby prevent their proper functioning. Many are used as antineoplastic agents, but most are very toxic, with carcinogenic, mutagenic, teratogenic, and immunosuppressant actions. They have also been used as components in poison gases.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

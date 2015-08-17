@@ -1,0 +1,19 @@
+<Record>
+<Term>COX-2 Inhibitor TG01</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cyclooxygenase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Nonnarcotic Analgesic/Analgesic and Antipyretic/Nonsteroidal Antiinflammatory Drug/Cyclooxygenase Inhibitor/COX-2 Inhibitor TG01</ClassificationPath>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>COX-2 Inhibitor TG01</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Nonsteroidal Antiinflammatory Drug</BroaderTerm>
+<BroaderTerm>Cyclooxygenase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Analgesic and Antipyretic</BroaderTerm>
+<BroaderTerm>Nonnarcotic Analgesic</BroaderTerm>
+<Synonym>COX-2 Inhibitor TG01</Synonym>
+<Synonym>TP2001</Synonym>
+<Description>An orally bioavailable anti-inflammatory agent with potential antiangiogenic and antineoplastic activities. COX-2 inhibitor TG01 binds to and inhibits the enzyme cyclooxygenase-2 (COX-2), thereby inhibiting the conversion of arachidonic acid into prostaglandins. TG01-mediated inhibition of COX-2 may induce tumor cell apoptosis and inhibit tumor cell proliferation and tumor angiogenesis. COX-related metabolic pathways may represent crucial regulators of cellular proliferation and angiogenesis.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Adapalene</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Retinoic Acid Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Cell Differentiating Agent/Differentiation Inducer/Retinoic Acid Agent/Adapalene</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cell Differentiating Agent</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Differentiation Inducer</BroaderTerm>
+<BroaderTerm>Retinoic Acid Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Adapalene</BroaderTerm>
+<Synonym>CD271</Synonym>
+<Synonym>Differin</Synonym>
+<Synonym>ADAPALENE</Synonym>
+<Synonym>6-(4-Methoxy-3-tricyclo(3.3.1.13,7)dec-1-ylphenyl)-2-naphthalenecarboxylic Acid</Synonym>
+<Synonym>Adapalene</Synonym>
+<Synonym>6-(3-(1-Adamantyl)-4-methoxyphenyl)-2-naphthoic acid</Synonym>
+<Description>A topical retinoid-like compound, chemically similar to vitamin A.  Although the exact mechanism of action is unknown, adapalene binds to specific retinoic acid receptors in the nucleus, leading to specific gene expression.  This agent stimulates skin growth through modulation of cellular differentiation, inflammatory processes and keratinization of follicular epithelial cells.  Adapalene may increase dermal sensitivity to ultraviolet radiation. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

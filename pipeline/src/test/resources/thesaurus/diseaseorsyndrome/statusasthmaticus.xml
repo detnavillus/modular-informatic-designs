@@ -1,0 +1,23 @@
+<Record>
+<Term>Status Asthmaticus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Asthma</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Hypersensitivity, Immediate/Respiratory Hypersensitivity/Asthma/Status Asthmaticus</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Bronchial Diseases/Asthma/Status Asthmaticus</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Hypersensitivity/Asthma/Status Asthmaticus</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity, Immediate</BroaderTerm>
+<BroaderTerm>Bronchial Diseases</BroaderTerm>
+<BroaderTerm>Asthma</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Hypersensitivity</BroaderTerm>
+<BroaderTerm>Status Asthmaticus</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<Synonym>Asthmatic Shock</Synonym>
+<Synonym>Asthmatic Crises</Synonym>
+<Synonym>Asthmatic Shocks</Synonym>
+<Synonym>Asthmatic Crisis</Synonym>
+<Synonym>Status Asthmaticus</Synonym>
+<Description>A sudden intense and continuous aggravation of a state of asthma, marked by dyspnea to the point of exhaustion and collapse and not responding to the usual therapeutic efforts.</Description>
+<Source>MeSH</Source>
+</Record>

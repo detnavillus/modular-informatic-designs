@@ -1,0 +1,21 @@
+<Record>
+<Term>Tricuspid Regurgitation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Valvular Regurgitation</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Valvular Heart Disorder/Valvular Regurgitation/Tricuspid Regurgitation</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Valvular Heart Disorder</BroaderTerm>
+<BroaderTerm>Tricuspid Regurgitation</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Valvular Regurgitation</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Regurgitation, tricuspid</Synonym>
+<Synonym>Tricuspid Regurgitation</Synonym>
+<Description>The backflow of blood from the right ventricle into the right atrium, owning to imperfect functioning/insufficiency of the tricuspid valve.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,21 @@
+<Record>
+<Term>Secernentea Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Nematode Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections</ClassificationPath>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Ascaridida Infections</ChildTerm>
+<ChildTerm>Strongylida Infections</ChildTerm>
+<ChildTerm>Spirurida Infections</ChildTerm>
+<ChildTerm>Rhabditida Infections</ChildTerm>
+<ChildTerm>Oxyurida Infections</ChildTerm>
+<Synonym>Secernentea Infections</Synonym>
+<Synonym>Secernentea Infection</Synonym>
+<Synonym>Phasmidia Infection</Synonym>
+<Synonym>Phasmidia Infections</Synonym>
+<Description>Infections with nematodes of the subclass SECERNENTEA.</Description>
+<Source>MeSH</Source>
+</Record>

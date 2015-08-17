@@ -1,0 +1,17 @@
+<Record>
+<Term>T900607</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Colchicine-Site Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Colchicine-Site Binding Agent/T900607</ClassificationPath>
+<BroaderTerm>Colchicine-Site Binding Agent</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>T900607</BroaderTerm>
+<Synonym>T900607</Synonym>
+<Description>A pentafluorophenylsulfonamide compound with potential antineoplastic activity. T900607 inhibits tubulin polymerization by binding irreversibly to colchicine binding sites, resulting in cell cycle arrest and apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

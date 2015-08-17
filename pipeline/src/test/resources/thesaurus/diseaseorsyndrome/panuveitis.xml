@@ -1,0 +1,16 @@
+<Record>
+<Term>Panuveitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uveitis</ParentTerm>
+<ClassificationPath>Eye Diseases/Uveal Diseases/Uveitis/Panuveitis</ClassificationPath>
+<BroaderTerm>Panuveitis</BroaderTerm>
+<BroaderTerm>Uveal Diseases</BroaderTerm>
+<BroaderTerm>Uveitis</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Uveitis, Anterior</ChildTerm>
+<ChildTerm>Uveitis, Posterior</ChildTerm>
+<ChildTerm>Ophthalmia, Sympathetic</ChildTerm>
+<Synonym>Panuveitis</Synonym>
+<Description>Inflammation in which both the anterior and posterior segments of the uvea are involved and a specific focus is not apparent. It is often severe and extensive and a serious threat to vision. Causes include systemic diseases such as tuberculosis, sarcoidosis, and syphilis, as well as malignancies. The intermediate segment of the eye is not involved.</Description>
+<Source>MeSH</Source>
+</Record>

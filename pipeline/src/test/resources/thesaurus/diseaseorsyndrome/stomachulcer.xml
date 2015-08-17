@@ -1,0 +1,38 @@
+<Record>
+<Term>Stomach Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Gastrointestinal Ulcer Adverse Event</ParentTerm>
+<ParentTerm>Peptic Ulcer</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Peptic Ulcer/Stomach Ulcer</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Gastrointestinal System/Gastrointestinal Ulcer Adverse Event/Stomach Ulcer Adverse Event</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Peptic Ulcer/Stomach Ulcer</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Stomach Ulcer Adverse Event</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Stomach Ulcer</BroaderTerm>
+<BroaderTerm>Gastrointestinal Ulcer Adverse Event</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Gastrointestinal System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>CTCAE Grade 5 Stomach Ulcer</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Stomach Ulcer</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Stomach Ulcer</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Stomach Ulcer</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Stomach Ulcer</ChildTerm>
+<Synonym>Gastric Ulcers</Synonym>
+<Synonym>Stomach Ulcer</Synonym>
+<Synonym>Stomach Ulcers</Synonym>
+<Synonym>Gastric Ulcer</Synonym>
+<Synonym>Stomach ulcer</Synonym>
+<Synonym>Stomach Ulcer Adverse Event</Synonym>
+<Description>Ulceration of the GASTRIC MUCOSA due to contact with GASTRIC JUICE. It is often associated with HELICOBACTER PYLORI infection or consumption of nonsteroidal anti-inflammatory drugs (NSAIDS).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

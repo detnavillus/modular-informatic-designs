@@ -1,0 +1,31 @@
+<Record>
+<Term>Otitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ParentTerm>Ear Infection</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Otitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Ear Infection/Otitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Otitis</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Ear Infection</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Otitis Media</ChildTerm>
+<ChildTerm>Labyrinthitis</ChildTerm>
+<ChildTerm>Otitis Externa</ChildTerm>
+<ChildTerm>External Ear Infection</ChildTerm>
+<ChildTerm>Internal Ear Infection</ChildTerm>
+<Synonym>Ear Inflammation</Synonym>
+<Synonym>Ear Inflammations</Synonym>
+<Synonym>Otitis</Synonym>
+<Synonym>Otitides</Synonym>
+<Description>Inflammation of the ear, which may be marked by pain (EARACHE), fever, HEARING DISORDERS, and VERTIGO. Inflammation of the external ear is OTITIS EXTERNA; of the middle ear, OTITIS MEDIA; of the inner ear, LABYRINTHITIS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

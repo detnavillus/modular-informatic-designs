@@ -1,0 +1,20 @@
+<Record>
+<Term>Intestinal Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Obstruction</ClassificationPath>
+<BroaderTerm>Intestinal Obstruction</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Ileus</ChildTerm>
+<ChildTerm>Afferent Loop Syndrome</ChildTerm>
+<ChildTerm>Duodenal Obstruction</ChildTerm>
+<ChildTerm>Intestinal Volvulus</ChildTerm>
+<ChildTerm>Fecal Impaction</ChildTerm>
+<ChildTerm>Intussusception</ChildTerm>
+<Synonym>Intestinal Obstruction</Synonym>
+<Synonym>Intestinal Obstructions</Synonym>
+<Description>Any impairment, arrest, or reversal of the normal flow of INTESTINAL CONTENTS toward the ANAL CANAL.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,31 @@
+<Record>
+<Term>Scabies</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Infection</ParentTerm>
+<ParentTerm>Skin Diseases, Parasitic</ParentTerm>
+<ParentTerm>Mite Infestations</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Skin Infection/Scabies</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Infectious/Skin Diseases, Parasitic/Scabies</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Skin Diseases, Parasitic/Ectoparasitic Infestations/Mite Infestations/Scabies</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Ectoparasitic Infestations</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Skin Infection</BroaderTerm>
+<BroaderTerm>Scabies</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Mite Infestations</BroaderTerm>
+<BroaderTerm>Skin Diseases, Infectious</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<ChildTerm>Norwegian Scabies</ChildTerm>
+<Synonym>Scabies</Synonym>
+<Synonym>Sarcoptic Mange</Synonym>
+<Description>A contagious cutaneous inflammation caused by the bite of the mite SARCOPTES SCABIEI. It is characterized by pruritic papular eruptions and burrows and affects primarily the axillae, elbows, wrists, and genitalia, although it can spread to cover the entire body.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

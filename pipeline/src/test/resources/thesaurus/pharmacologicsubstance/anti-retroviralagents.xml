@@ -1,0 +1,19 @@
+<Record>
+<Term>Anti-Retroviral Agents</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antiviral Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Anti-Infective Agents/Antiviral Agents/Anti-Retroviral Agents</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antiviral Agents</BroaderTerm>
+<BroaderTerm>Anti-Infective Agents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Anti-Retroviral Agents</BroaderTerm>
+<ChildTerm>Anti-HIV Agents</ChildTerm>
+<ChildTerm>Reverse Transcriptase Inhibitors</ChildTerm>
+<Synonym>Anti-Retroviral Agents</Synonym>
+<Synonym>Anti Retroviral Agents</Synonym>
+<Synonym>Antiretroviral Agents</Synonym>
+<Description>Agents used to treat RETROVIRIDAE INFECTIONS.</Description>
+<Source>MeSH</Source>
+</Record>

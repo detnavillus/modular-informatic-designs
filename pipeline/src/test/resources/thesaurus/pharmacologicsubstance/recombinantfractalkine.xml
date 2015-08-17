@@ -1,0 +1,21 @@
+<Record>
+<Term>Recombinant Fractalkine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Amino Acid, Peptide, or Protein</SemanticType>
+<ParentTerm>Recombinant Delta Chemokine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Chemokine/Recombinant Delta Chemokine/Recombinant Fractalkine</ClassificationPath>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Delta Chemokine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Fractalkine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Recombinant Chemokine</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CX3CL1</Synonym>
+<Synonym>Fractalkine</Synonym>
+<Synonym>Neurotactin</Synonym>
+<Synonym>Recombinant Fractalkine</Synonym>
+<Description>A pro-inflammatory delta chemokine with potential antineoplastic activity.  Fractalkine induces the adhesion and migration of T lymphocytes, monocytes and natural killer (NK) cells.  In lymphomas, this agent may promote cell-mediated lympholysis by recruiting activated NK cells. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,16 @@
+<Record>
+<Term>American Ginseng</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/American Ginseng</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>American Ginseng</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>American Ginseng</Synonym>
+<Synonym>Ginseng</Synonym>
+<Synonym>Panax quinquifolius</Synonym>
+<Synonym>ginseng</Synonym>
+<Description>The aromatic root of the perennial herb Panax quinquefolius, native to eastern North America. American ginseng, used in Chinese traditional medicine and available as a nutritional supplement, is classified as an adaptogenic herb with multiple effects, many of which are regulatory in nature. It contains a complex mixture of saponin glycosides, also known as ginsenosides or panaxosides. Although the mechanism of action is unclear, this agent is reported to enhance the immune system and reduce fatigue.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,29 @@
+<Record>
+<Term>Nose Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Diseases</ParentTerm>
+<ParentTerm>Otorhinolaryngologic Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<ChildTerm>Choanal Atresia</ChildTerm>
+<ChildTerm>Granuloma, Lethal Midline</ChildTerm>
+<ChildTerm>Rhinoscleroma</ChildTerm>
+<ChildTerm>Epistaxis</ChildTerm>
+<ChildTerm>Nose Deformities, Acquired</ChildTerm>
+<ChildTerm>Nose Neoplasms</ChildTerm>
+<ChildTerm>Paranasal Sinus Diseases</ChildTerm>
+<ChildTerm>Nasal Polyps</ChildTerm>
+<ChildTerm>Rhinitis</ChildTerm>
+<ChildTerm>Nasal Obstruction</ChildTerm>
+<Synonym>Nasal Diseases</Synonym>
+<Synonym>Nasal Disease</Synonym>
+<Synonym>Nose Diseases</Synonym>
+<Synonym>Nasal Disorders</Synonym>
+<Synonym>Nasal Disorder</Synonym>
+<Synonym>Nose Disease</Synonym>
+<Description>Disorders of the nose, general or unspecified.</Description>
+<Source>MeSH</Source>
+</Record>

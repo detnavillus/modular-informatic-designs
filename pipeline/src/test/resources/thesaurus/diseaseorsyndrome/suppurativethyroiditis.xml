@@ -1,0 +1,25 @@
+<Record>
+<Term>Suppurative Thyroiditis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Thyroiditis</ParentTerm>
+<ParentTerm>Suppuration</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Thyroiditis/Thyroiditis, Suppurative</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Infection/Suppuration/Thyroiditis, Suppurative</ClassificationPath>
+<BroaderTerm>Infection</BroaderTerm>
+<BroaderTerm>Thyroiditis</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Suppuration</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Thyroiditis, Suppurative</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Acute Suppurative Thyroiditides</Synonym>
+<Synonym>Infectious Thyroiditis</Synonym>
+<Synonym>Acute Infectious Thyroiditis</Synonym>
+<Synonym>Infectious Thyroiditides</Synonym>
+<Synonym>Acute Infectious Thyroiditides</Synonym>
+<Synonym>Suppurative Thyroiditides</Synonym>
+<Synonym>Acute Suppurative Thyroiditis</Synonym>
+<Synonym>Suppurative Thyroiditis</Synonym>
+<Description>Acute inflammatory disease of the THYROID GLAND due to infections by BACTERIA; FUNGI; or other microorganisms. Symptoms include tender swelling, FEVER, and often with LEUKOCYTOSIS.</Description>
+<Source>MeSH</Source>
+</Record>

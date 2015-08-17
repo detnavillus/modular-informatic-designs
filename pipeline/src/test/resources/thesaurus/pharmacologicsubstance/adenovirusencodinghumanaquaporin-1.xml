@@ -1,0 +1,16 @@
+<Record>
+<Term>Adenovirus Encoding Human Aquaporin-1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Adenovirus Encoding Human Aquaporin-1</ClassificationPath>
+<BroaderTerm>Adenovirus Encoding Human Aquaporin-1</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Adenovirus Encoding Human Aquaporin-1</Synonym>
+<Synonym>AdhAQP1</Synonym>
+<Description>A replication-deficient, recombinant adenovirus encoding human aquaporin-1 with potential membrane water channel activity. Upon transfection of salivary glands, adenovirus encoding human aquaporin-1 (AdhAQP1) directs human aquaporin-1 (hAQP1) expression in the apical and basolateral plasma membranes of salivary secretory cells, which may result in increased saliva production. hAQP1, a water channel protein, is one of several highly conserved water channel proteins that mediate water permeability in cells of water-transporting tissues.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

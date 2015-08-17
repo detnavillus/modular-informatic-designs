@@ -1,0 +1,27 @@
+<Record>
+<Term>Pseudolymphoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lymphatic Diseases</ParentTerm>
+<ParentTerm>Hematopoietic and Lymphoid Neoplasm (Antiquated)</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Neoplasm/Neoplasm by Special Category/Neoplasm by Obsolete Classification/Hematopoietic and Lymphoid Neoplasm (Antiquated)/Pseudolymphoma</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Lymphatic Diseases/Pseudolymphoma</ClassificationPath>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Neoplasm</BroaderTerm>
+<BroaderTerm>Neoplasm by Special Category</BroaderTerm>
+<BroaderTerm>Pseudolymphoma</BroaderTerm>
+<BroaderTerm>Neoplasm by Obsolete Classification</BroaderTerm>
+<BroaderTerm>Hematopoietic and Lymphoid Neoplasm (Antiquated)</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Lymphocytoma</Synonym>
+<Synonym>Lymphocytomas</Synonym>
+<Synonym>Reactive Lymphoid Hyperplasia</Synonym>
+<Synonym>Pseudolymphomas</Synonym>
+<Synonym>Pseudolymphoma</Synonym>
+<Synonym>Reactive Lymphoid Hyperplasias</Synonym>
+<Description>A group of disorders having a benign course but exhibiting clinical and histological features suggestive of malignant lymphoma. Pseudolymphoma is characterized by a benign infiltration of lymphoid cells or histiocytes which microscopically resembles a malignant lymphoma. (From Dorland, 28th ed &amp; Stedman, 26th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

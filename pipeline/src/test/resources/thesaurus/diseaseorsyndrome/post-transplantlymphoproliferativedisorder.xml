@@ -1,0 +1,12 @@
+<Record>
+<Term>Post-Transplant Lymphoproliferative Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ClassificationPath>Post-Transplant Lymphoproliferative Disorder</ClassificationPath>
+<BroaderTerm>Post-Transplant Lymphoproliferative Disorder</BroaderTerm>
+<Synonym>PTLD</Synonym>
+<Synonym>Post-Transplant Lymphoproliferative Disorder</Synonym>
+<Synonym>Posttransplantation Lymphoproliferative Disorders</Synonym>
+<Description>Post-transplant lymphoproliferative disorder (PTLD) is a polyclonal (benign) or clonal (malignant) proliferation of lymphoid cells that develops as a consequence of immunosuppression in a recipient of a solid organ or bone marrow allograft.  PTLDs comprise a spectrum ranging from early, Epstein-Barr virus (EBV)-driven polyclonal lymphoid proliferations to EBV-positive or EBV- negative lymphomas of predominantly B-cell or less often T-cell type. (WHO, 2001) -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

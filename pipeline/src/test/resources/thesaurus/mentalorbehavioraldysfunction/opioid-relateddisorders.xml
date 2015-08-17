@@ -1,0 +1,22 @@
+<Record>
+<Term>Opioid-Related Disorders</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Substance-Related Disorders</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Opioid-Related Disorders</ClassificationPath>
+<ClassificationPath>Mental Disorders/Substance-Related Disorders/Opioid-Related Disorders</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Opioid-Related Disorders</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<ChildTerm>Heroin Dependence</ChildTerm>
+<ChildTerm>Morphine Dependence</ChildTerm>
+<Synonym>Opioid-Related Disorders</Synonym>
+<Synonym>Narcotic Dependence</Synonym>
+<Synonym>Narcotic Abuse</Synonym>
+<Synonym>Opiate Dependence</Synonym>
+<Synonym>Narcotic Addiction</Synonym>
+<Synonym>Opiate Addiction</Synonym>
+<Synonym>Narcotic Abuses</Synonym>
+<Description>Disorders related or resulting from abuse or mis-use of opioids.</Description>
+<Source>MeSH</Source>
+</Record>

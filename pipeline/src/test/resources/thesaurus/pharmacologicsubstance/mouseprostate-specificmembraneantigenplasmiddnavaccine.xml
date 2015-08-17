@@ -1,0 +1,17 @@
+<Record>
+<Term>Mouse Prostate-Specific Membrane Antigen Plasmid DNA Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>DNA Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/DNA Vaccine/Mouse Prostate-Specific Membrane Antigen Plasmid DNA Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Mouse Prostate-Specific Membrane Antigen Plasmid DNA Vaccine</BroaderTerm>
+<BroaderTerm>DNA Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Mouse PSMA DNA Vaccine</Synonym>
+<Synonym>Mouse Prostate-Specific Membrane Antigen Plasmid DNA Vaccine</Synonym>
+<Description>A vaccine consisting of a plasmid DNA encoding the murine prostate-specific membrane antigen (PSMA). Upon administration, expressed PSMA may stimulate a cytotoxic T cell response against tumor cells that express PSMA, resulting in tumor cell lysis. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

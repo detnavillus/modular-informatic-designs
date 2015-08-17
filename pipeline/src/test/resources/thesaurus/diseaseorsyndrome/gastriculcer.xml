@@ -1,0 +1,23 @@
+<Record>
+<Term>Gastric Ulcer</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peptic Ulcer</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Peptic Ulcer/Gastric Ulcer,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Stomach Disorder/Non-Neoplastic Stomach Disorder/Gastric Ulcer</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Stomach Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Gastric Ulcer,</BroaderTerm>
+<BroaderTerm>Gastric Ulcer</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Stomach Disorder</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Gastric Stress Ulcer</ChildTerm>
+<Synonym>Gastric Ulcer</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

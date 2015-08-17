@@ -1,0 +1,30 @@
+<Record>
+<Term>Hyperpituitarism</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Pituitary Diseases</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Pituitary Diseases/Hyperpituitarism</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Hypothalamic Diseases/Pituitary Diseases/Hyperpituitarism</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Hypothalamic Diseases</BroaderTerm>
+<BroaderTerm>Pituitary Diseases</BroaderTerm>
+<BroaderTerm>Hyperpituitarism</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Gigantism</ChildTerm>
+<ChildTerm>Hyperprolactinemia</ChildTerm>
+<ChildTerm>Pituitary ACTH Hypersecretion</ChildTerm>
+<ChildTerm>Acromegaly</ChildTerm>
+<Synonym>Inappropriate LH Secretion Syndrome</Synonym>
+<Synonym>Pituitary TSH Hypersecretion</Synonym>
+<Synonym>Inappropriate Luteinizing Hormone Secretion</Synonym>
+<Synonym>Hyperpituitarism</Synonym>
+<Synonym>Inappropriate Follicle Stimulating Hormone Secretion</Synonym>
+<Synonym>Pituitary FSH Hypersecretion</Synonym>
+<Synonym>Pituitary LH Hypersecretion</Synonym>
+<Synonym>Inappropriate TSH Secretion Syndrome</Synonym>
+<Synonym>Inappropriate Thyroid Stimulating Hormone Secretion</Synonym>
+<Synonym>Inappropriate FSH Secretion Syndrome</Synonym>
+<Description>Disease of the glandular, anterior portion of the pituitary (PITUITARY GLAND, ANTERIOR) resulting in hypersecretion of ADENOHYPOPHYSEAL HORMONES such as GROWTH HORMONE; PROLACTIN; THYROTROPIN; LUTEINIZING HORMONE; FOLLICLE STIMULATING HORMONE ; and ADRENOCORTICOTROPIC HORMONE.  Hyperpituitarism usually is caused by a functional ADENOMA.</Description>
+<Source>MeSH</Source>
+</Record>

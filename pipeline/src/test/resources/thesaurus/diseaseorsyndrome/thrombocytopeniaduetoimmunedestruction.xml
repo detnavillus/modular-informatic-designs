@@ -1,0 +1,17 @@
+<Record>
+<Term>Thrombocytopenia Due to Immune Destruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Hematologic and Lymphocytic Disorder/Thrombocytopenia Due to Immune Destruction</ClassificationPath>
+<BroaderTerm>Thrombocytopenia Due to Immune Destruction</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hematologic and Lymphocytic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Immune Thrombocytopenia</Synonym>
+<Synonym>Thrombocytopenia Due to Immune Destruction</Synonym>
+<Description>A general class of thrombocytopenia due to immune destruction of platelets.  It includes idiopathic thrombocytopenic purpura, as well as immune destruction-related thrombocytopenias due to other reasons (e.g., AIDS, transfusion, lupus erythematosus).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

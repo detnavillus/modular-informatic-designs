@@ -1,0 +1,28 @@
+<Record>
+<Term>Carcinoid Heart Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Malignant Carcinoid Syndrome</ParentTerm>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Carcinoid Heart Disease</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Germ Cell and Embryonal/Neuroectodermal Tumors/Neuroendocrine Tumors/Carcinoid Tumor/Malignant Carcinoid Syndrome/Carcinoid Heart Disease</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Nerve Tissue/Neuroectodermal Tumors/Neuroendocrine Tumors/Carcinoid Tumor/Malignant Carcinoid Syndrome/Carcinoid Heart Disease</ClassificationPath>
+<ClassificationPath>Neoplasms/Neoplasms by Histologic Type/Neoplasms, Glandular and Epithelial/Carcinoma/Adenocarcinoma/Carcinoid Tumor/Malignant Carcinoid Syndrome/Carcinoid Heart Disease</ClassificationPath>
+<BroaderTerm>Malignant Carcinoid Syndrome</BroaderTerm>
+<BroaderTerm>Carcinoid Tumor</BroaderTerm>
+<BroaderTerm>Carcinoid Heart Disease</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Adenocarcinoma</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms, Nerve Tissue</BroaderTerm>
+<BroaderTerm>Carcinoma</BroaderTerm>
+<BroaderTerm>Neoplasms by Histologic Type</BroaderTerm>
+<BroaderTerm>Neoplasms, Germ Cell and Embryonal</BroaderTerm>
+<BroaderTerm>Neuroendocrine Tumors</BroaderTerm>
+<BroaderTerm>Neuroectodermal Tumors</BroaderTerm>
+<BroaderTerm>Neoplasms, Glandular and Epithelial</BroaderTerm>
+<Synonym>Carcinoid Heart Diseases</Synonym>
+<Synonym>Carcinoid Heart Disease</Synonym>
+<Description>Cardiac manifestation of gastrointestinal CARCINOID TUMOR that metastasizes to the liver. Substances secreted by the tumor cells, including SEROTONIN, promote fibrous plaque formation in ENDOCARDIUM and its underlying layers. These deposits cause distortion of the TRICUSPID VALVE and the PULMONARY VALVE eventually leading to STENOSIS and valve regurgitation.</Description>
+<Source>MeSH</Source>
+</Record>

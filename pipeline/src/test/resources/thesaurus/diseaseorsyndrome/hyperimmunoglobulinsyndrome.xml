@@ -1,0 +1,15 @@
+<Record>
+<Term>Hyperimmunoglobulin Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Genetic Disorder/Hyperimmunoglobulin Syndrome</ClassificationPath>
+<BroaderTerm>Hyperimmunoglobulin Syndrome</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genetic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Hyperimmunoglobulin E Syndrome</ChildTerm>
+<ChildTerm>Hyperimmunoglobulin M Syndrome</ChildTerm>
+<Synonym>Hyperimmunoglobulin Syndrome</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

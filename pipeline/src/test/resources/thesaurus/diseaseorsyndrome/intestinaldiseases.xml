@@ -1,0 +1,36 @@
+<Record>
+<Term>Intestinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases</ClassificationPath>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<ChildTerm>Cecal Diseases</ChildTerm>
+<ChildTerm>Intestinal Neoplasms</ChildTerm>
+<ChildTerm>Intestinal Diseases, Parasitic</ChildTerm>
+<ChildTerm>Malabsorption Syndromes</ChildTerm>
+<ChildTerm>Colonic Diseases</ChildTerm>
+<ChildTerm>Inflammatory Bowel Diseases</ChildTerm>
+<ChildTerm>Intestinal Obstruction</ChildTerm>
+<ChildTerm>Duodenal Diseases</ChildTerm>
+<ChildTerm>Enteritis</ChildTerm>
+<ChildTerm>Dysentery</ChildTerm>
+<ChildTerm>Enterocolitis</ChildTerm>
+<ChildTerm>Rectal Diseases</ChildTerm>
+<ChildTerm>Intestinal Polyposis</ChildTerm>
+<ChildTerm>Pneumatosis Cystoides Intestinalis</ChildTerm>
+<ChildTerm>Protein-Losing Enteropathies</ChildTerm>
+<ChildTerm>Intestinal Fistula</ChildTerm>
+<ChildTerm>Zollinger-Ellison Syndrome</ChildTerm>
+<ChildTerm>HIV Enteropathy</ChildTerm>
+<ChildTerm>Ileal Diseases</ChildTerm>
+<ChildTerm>Intestinal Atresia</ChildTerm>
+<ChildTerm>Intestinal Perforation</ChildTerm>
+<ChildTerm>Jejunal Diseases</ChildTerm>
+<ChildTerm>Mesenteric Vascular Occlusion</ChildTerm>
+<Synonym>Intestinal Diseases</Synonym>
+<Synonym>Intestinal Disease</Synonym>
+<Description>Pathological processes in any segment of the INTESTINE from DUODENUM to RECTUM.</Description>
+<Source>MeSH</Source>
+</Record>

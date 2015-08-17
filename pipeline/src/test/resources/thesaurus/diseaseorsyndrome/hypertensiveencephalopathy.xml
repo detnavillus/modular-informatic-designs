@@ -1,0 +1,34 @@
+<Record>
+<Term>Hypertensive Encephalopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypertensive Crisis</ParentTerm>
+<ParentTerm>Intracranial Hypertension</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Encephalopathy/Hypertensive Encephalopathy,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Hypertensive Episode/Hypertensive Crisis/Hypertensive Encephalopathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Intracranial Hypertension/Hypertensive Encephalopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Hypertensive Crisis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Encephalopathy</BroaderTerm>
+<BroaderTerm>Hypertensive Encephalopathy,</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Intracranial Hypertension</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Hypertensive Episode</BroaderTerm>
+<BroaderTerm>Hypertensive Encephalopathy</BroaderTerm>
+<ChildTerm>Posterior Leukoencephalopathy Syndrome</ChildTerm>
+<Synonym>Hypertensive Encephalopathy</Synonym>
+<Description>Brain dysfunction or damage resulting from sustained MALIGNANT HYPERTENSION. When BLOOD PRESSURE exceeds the limits of cerebral autoregulation, cerebral blood flow is impaired (BRAIN ISCHEMIA). Clinical manifestations include HEADACHE; NAUSEA; VOMITING; SEIZURES; altered mental status (in some cases progressing to COMA); PAPILLEDEMA; and RETINAL HEMORRHAGE.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

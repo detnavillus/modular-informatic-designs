@@ -1,0 +1,18 @@
+<Record>
+<Term>Sweat Gland Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Sweat Gland Diseases</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Sweat Gland Diseases</BroaderTerm>
+<ChildTerm>Sweat Gland Neoplasms</ChildTerm>
+<ChildTerm>Hyperhidrosis</ChildTerm>
+<ChildTerm>Hidradenitis</ChildTerm>
+<ChildTerm>Miliaria</ChildTerm>
+<ChildTerm>Hypohidrosis</ChildTerm>
+<Synonym>Sweat Gland Diseases</Synonym>
+<Synonym>Sweat Gland Disease</Synonym>
+<Description>Diseases of the SWEAT GLANDS.</Description>
+<Source>MeSH</Source>
+</Record>

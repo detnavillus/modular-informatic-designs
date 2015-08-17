@@ -1,0 +1,20 @@
+<Record>
+<Term>Meniere Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endolymphatic Hydrops</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Labyrinth Diseases/Endolymphatic Hydrops/Meniere Disease</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Endolymphatic Hydrops</BroaderTerm>
+<BroaderTerm>Meniere Disease</BroaderTerm>
+<BroaderTerm>Labyrinth Diseases</BroaderTerm>
+<Synonym>Meniere Disease</Synonym>
+<Synonym>Meniere's Disease</Synonym>
+<Synonym>Menieres Disease</Synonym>
+<Synonym>Meniere's Syndrome</Synonym>
+<Synonym>Meniere Syndrome</Synonym>
+<Synonym>Menieres Syndrome</Synonym>
+<Synonym>Aural Vertigo</Synonym>
+<Description>A disease of the inner ear (LABYRINTH) that is characterized by fluctuating SENSORINEURAL HEARING LOSS; TINNITUS; episodic VERTIGO; and aural fullness. It is the most common form of endolymphatic hydrops.</Description>
+<Source>MeSH</Source>
+</Record>

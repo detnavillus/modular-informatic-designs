@@ -1,0 +1,13 @@
+<Record>
+<Term>Juven</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Juven</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Juven</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Juven</Synonym>
+<Description>An orally bioavailable nutritional supplement. Juven contains the amino acids glutamine and arginine in addition to beta-hydroxy-beta-methylbutyrate (HMB). This agent may promote muscle protein synthesis and increase muscle mass. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

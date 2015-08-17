@@ -1,0 +1,13 @@
+<Record>
+<Term>Materia Medica</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Preparations</ParentTerm>
+<ClassificationPath>Pharmaceutical Preparations/Materia Medica</ClassificationPath>
+<BroaderTerm>Pharmaceutical Preparations</BroaderTerm>
+<BroaderTerm>Materia Medica</BroaderTerm>
+<Synonym>Materia Medica</Synonym>
+<Synonym>Nosodes</Synonym>
+<Synonym>Homeopathic Remedies</Synonym>
+<Description>Materials or substances used in the composition of traditional medical remedies. The use of this term in MeSH was formerly restricted to historical articles or those concerned with traditional medicine, but it can also refer to homeopathic remedies. Nosodes are specific types of homeopathic remedies prepared from causal agents or disease products.</Description>
+<Source>MeSH</Source>
+</Record>

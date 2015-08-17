@@ -1,0 +1,19 @@
+<Record>
+<Term>Peptic Ulcer Perforation</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peptic Ulcer</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Duodenal Diseases/Peptic Ulcer/Peptic Ulcer Perforation</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Peptic Ulcer/Peptic Ulcer Perforation</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Peptic Ulcer/Peptic Ulcer Perforation</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Peptic Ulcer</BroaderTerm>
+<BroaderTerm>Duodenal Diseases</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Peptic Ulcer Perforation</BroaderTerm>
+<Synonym>Peptic Ulcer Perforation</Synonym>
+<Synonym>Peptic Ulcer Perforations</Synonym>
+<Description>Penetration of a PEPTIC ULCER through the wall of DUODENUM or STOMACH allowing the leakage of luminal contents into the PERITONEAL CAVITY.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,17 @@
+<Record>
+<Term>Adenovirus Encoding Recombinant Human Endostatin</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Gene Transfer or Gene Delivery Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Agent/Gene Transfer or Gene Delivery Agent/Adenovirus Encoding Recombinant Human Endostatin</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Adenovirus Encoding Recombinant Human Endostatin</BroaderTerm>
+<BroaderTerm>Biological Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Gene Transfer or Gene Delivery Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Ad-rhENDO</Synonym>
+<Synonym>Adenovirus Encoding Recombinant Human Endostatin</Synonym>
+<Synonym>E10A</Synonym>
+<Description>A replication-defective, recombinant oncolytic adenovirus encoding human endostatin with potential antineoplastic activity. Endostatin, a 20 kDa C-terminal proteolytic fragment of collagen XVIII, is an important angiogenesis inhibitor. Upon intratumoral administration, the adenovirus infects and replicates in tumor cells. The expressed endostatin may inhibit endothelial cell proliferation and angiogenesis which may result in a reduction of tumor growth.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

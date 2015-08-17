@@ -1,0 +1,30 @@
+<Record>
+<Term>Cerebral Amyloid Angiopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebral Arterial Diseases</ParentTerm>
+<ParentTerm>Amyloidosis</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Cerebral Amyloid Angiopathy</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/Amyloidosis/Cerebral Amyloid Angiopathy</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Arterial Diseases/Cerebral Arterial Diseases/Cerebral Amyloid Angiopathy</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Cerebral Arterial Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Amyloidosis</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Arterial Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebral Amyloid Angiopathy</BroaderTerm>
+<ChildTerm>Cerebral Amyloid Angiopathy, Familial</ChildTerm>
+<Synonym>Congophilic Angiopathy</Synonym>
+<Synonym>Congophilic Angiopathies</Synonym>
+<Synonym>Cerebral Amyloid Angiopathy</Synonym>
+<Synonym>Sporadic Cerebral Amyloid Angiopathy</Synonym>
+<Synonym>Cerebral Amyloid Angiopathies</Synonym>
+<Description>A heterogeneous group of sporadic or familial disorders characterized by AMYLOID deposits in the walls of small and medium sized blood vessels of CEREBRAL CORTEX and MENINGES. Clinical features include multiple, small lobar CEREBRAL HEMORRHAGE; cerebral ischemia (BRAIN ISCHEMIA); and CEREBRAL INFARCTION. Cerebral amyloid angiopathy is unrelated to generalized AMYLOIDOSIS. Amyloidogenic peptides in this condition are nearly always the same ones found in ALZHEIMER DISEASE. (from Kumar: Robbins and Cotran: Pathologic Basis of Disease, 7th ed., 2005)</Description>
+<Source>MeSH</Source>
+</Record>

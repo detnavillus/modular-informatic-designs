@@ -1,0 +1,21 @@
+<Record>
+<Term>Acute Renal Insufficiency</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Renal Insufficiency</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Renal Insufficiency/Renal Insufficiency, Acute</ClassificationPath>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Renal Insufficiency, Acute</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Kidney Failure, Acute</ChildTerm>
+<Synonym>Acute Renal Insufficiency</Synonym>
+<Synonym>Acute Kidney Insufficiency</Synonym>
+<Synonym>Acute Renal Insufficiencies</Synonym>
+<Synonym>Acute Kidney Insufficiencies</Synonym>
+<Description>Conditions in which the function of KIDNEYS deteriorates suddenly in a matter of days or even hours. It is characterized by the sudden drop in GLOMERULAR FILTRATION RATE; (GMR). The most severe stage is when the GFR drops below 15 ml per min (ACUTE KIDNEY FAILURE).</Description>
+<Source>MeSH</Source>
+</Record>

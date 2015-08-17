@@ -1,0 +1,19 @@
+<Record>
+<Term>Organic Brain Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Syndrome</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Organic Brain Syndrome,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Organic Brain Syndrome</ClassificationPath>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Organic Brain Syndrome,</BroaderTerm>
+<BroaderTerm>Organic Brain Syndrome</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Organic Affective Syndrome</ChildTerm>
+<ChildTerm>Organic Delusional Syndrome</ChildTerm>
+<ChildTerm>Organic Personality Syndrome</ChildTerm>
+<Synonym>Organic Brain Syndrome</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

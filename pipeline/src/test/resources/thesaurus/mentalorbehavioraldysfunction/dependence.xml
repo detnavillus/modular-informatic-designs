@@ -1,0 +1,22 @@
+<Record>
+<Term>Dependence</Term>
+<SemanticType>Qualitative Concept</SemanticType>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Behavior-Related Disorder</ParentTerm>
+<ParentTerm>Property or Attribute</ParentTerm>
+<ClassificationPath>Properties_or_Attributes_Kind/Property or Attribute/Dependency</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Behavior-Related Disorder/Dependence</ClassificationPath>
+<BroaderTerm>Dependency</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Behavior-Related Disorder</BroaderTerm>
+<BroaderTerm>Properties_or_Attributes_Kind</BroaderTerm>
+<BroaderTerm>Property or Attribute</BroaderTerm>
+<BroaderTerm>Dependence</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Drug Dependence</ChildTerm>
+<Synonym>Dependency</Synonym>
+<Synonym>Dependence</Synonym>
+<Description>Related so that change in one leads to change in the other.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

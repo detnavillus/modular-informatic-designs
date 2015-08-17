@@ -1,0 +1,16 @@
+<Record>
+<Term>Y 90 Monoclonal Antibody CC49</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/Y 90 Monoclonal Antibody CC49</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Y 90 Monoclonal Antibody CC49</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Y 90 Monoclonal Antibody CC49</Synonym>
+<Synonym>Yttrium Y 90 Monoclonal Antibody CC49</Synonym>
+<Description>A radioimmunoconjugate of the humanized monoclonal antibody (MoAb) CC49 labeled with Yttrium 90 (Y-90). MoAb CC49 recognizes the pancarcinoma tumor-associated glycoprotein (TAG)-72 with high affinity. Y-90 MoAb CC49 delivers beta particles emitting Y-90 radionuclide directly to tumor cells that express TAG-72, thereby this agent may be used in radioimmunotherapeutic treatment of cancers.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

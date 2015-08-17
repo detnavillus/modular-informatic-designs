@@ -1,0 +1,24 @@
+<Record>
+<Term>Telmisartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Telmisartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Telmisartan</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Micardis</Synonym>
+<Synonym>Telmisartan</Synonym>
+<Synonym>TELMISARTAN</Synonym>
+<Synonym>4'-((4-Methyl-6-(1-methyl-2-benzimidazolyl)-2-propyl-1-benzimidazolyl)methyl)-2-biphenylcarboxylic Acid</Synonym>
+<Synonym>(1,1'-Biphenyl)-2-carboxylic Acid, 4'-((1,4'-dimethyl-2'-propyl(2,6'-bi-1H-benzimidazol)-1'-yl)methyl)-</Synonym>
+<Synonym>BIBR 277</Synonym>
+<Description>A benzimidazole derivative and a non-peptide angiotensin II receptor antagonist with antihypertensive property. Telmisartan selectively antagonizes angiotensin II binding to the AT1 subtype receptor, located in vascular smooth muscle and adrenal gland. The antagonism results in vasodilation and inhibits the angiotensin II-mediated aldosterone production, which in turn leading to a decrease in sodium and water as well as an increase in potassium excretion leading to a subsequent reduction in blood pressure.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

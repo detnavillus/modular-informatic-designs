@@ -1,0 +1,19 @@
+<Record>
+<Term>Recombinant Adenovirus-hIFN-beta</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Recombinant Adenovirus-hIFN-beta</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Recombinant Adenovirus-hIFN-beta</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad-hIFN-beta</Synonym>
+<Synonym>BG00001</Synonym>
+<Synonym>Recombinant Adenovirus-hIFN-beta</Synonym>
+<Description>A recombinant replication-defective adenovirus which encodes the gene for the cytokine human interferon-beta (IFN-beta). Once inserted into and replicating in host tumor cells, recombinant adenovirus-hIFN-beta expresses human IFN-beta, which may stimulate an antiproliferative natural killer (NK) cell response against tumor cells and induce caspase-mediated tumor cell apoptosis. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

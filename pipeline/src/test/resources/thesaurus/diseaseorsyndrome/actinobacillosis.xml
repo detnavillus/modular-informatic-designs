@@ -1,0 +1,19 @@
+<Record>
+<Term>Actinobacillosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Actinobacillus Infections</ParentTerm>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Actinobacillus Infections/Actinobacillosis</ClassificationPath>
+<ClassificationPath>Animal Diseases/Actinobacillosis</ClassificationPath>
+<BroaderTerm>Actinobacillus Infections</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Actinobacillosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Actinobacillosis</Synonym>
+<Synonym>Actinobacilloses</Synonym>
+<Description>A disease characterized by suppurative and granulomatous lesions in the respiratory tract, upper alimentary tract, skin, kidneys, joints, and other tissues. Actinobacillus lignieresii infects cattle and sheep while A. equuli infects horses and pigs.</Description>
+<Source>MeSH</Source>
+</Record>

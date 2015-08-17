@@ -1,0 +1,42 @@
+<Record>
+<Term>Keratoacanthoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ParentTerm>NCIThesaurus</ParentTerm>
+<ParentTerm>Mouse Adenosquamous Carcinoma</ParentTerm>
+<ClassificationPath>Keratoacanthoma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratoacanthoma</ClassificationPath>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Neoplasms/Mouse Neoplasms by Histopathology/Mouse Neoplasms by Cell Type/Mouse Epithelial Cell Neoplasms/Mouse Squamous Cell Neoplasm/Mouse Adenosquamous Carcinoma/Adenosquamous Metaplastic Carcinoma of the Mouse Mammary Gland,/NCIThesaurus/EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Disorder by Site/Mouse Mammary Gland Disorder/Neoplasms of the Mouse Mammary Gland/Malignant Neoplasms of the Mouse Mammary Gland/Carcinoma of the Mouse Mammary Gland: Histologic Patterns/Metaplastic Carcinoma of the Mouse Mammary Gland/Adenosquamous Metaplastic Carcinoma of the Mouse Mammary Gland</ClassificationPath>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Mouse Mammary Gland Disorder</BroaderTerm>
+<BroaderTerm>Mouse Epithelial Cell Neoplasms</BroaderTerm>
+<BroaderTerm>Adenosquamous Metaplastic Carcinoma of the Mouse Mammary Gland,</BroaderTerm>
+<BroaderTerm>Neoplasms of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Mouse Neoplasms by Histopathology</BroaderTerm>
+<BroaderTerm>Carcinoma of the Mouse Mammary Gland: Histologic Patterns</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Mouse Adenosquamous Carcinoma</BroaderTerm>
+<BroaderTerm>Mouse Disorder by Site</BroaderTerm>
+<BroaderTerm>Metaplastic Carcinoma of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Mouse Neoplasms by Cell Type</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Keratoacanthoma</BroaderTerm>
+<BroaderTerm>Mouse Neoplasms</BroaderTerm>
+<BroaderTerm>Mouse Squamous Cell Neoplasm</BroaderTerm>
+<BroaderTerm>Adenosquamous Metaplastic Carcinoma of the Mouse Mammary Gland</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Malignant Neoplasms of the Mouse Mammary Gland</BroaderTerm>
+<Synonym>Metaplastic Carcinoma, Adenosquamous (aka Keratoacanthoma)</Synonym>
+<Synonym>keratoacanthoma</Synonym>
+<Synonym>Keratoacanthomas</Synonym>
+<Synonym>Adenosquamous Metaplastic Carcinoma of the Mammary Gland</Synonym>
+<Synonym>Keratoacanthoma</Synonym>
+<Synonym>Adenosquamous Metaplastic Carcinoma of the Mouse Mammary Gland</Synonym>
+<Description>A dome-shaped, rapidly growing skin lesion composed of well differentiated squamous cells.  It represents a proliferation of the infundibular epithelium of the hair follicle and its morphologic distinction from a well differentiated carcinoma may be difficult or impossible.  Keratoacanthomas affect males more frequently than females and the majority tend to regress spontaneously.  It has been suggested that keratoacanthoma represents a distinct subtype of squamous cell carcinoma of the skin.</Description>
+<Description>A benign, non-neoplastic, usually self-limiting epithelial lesion closely resembling squamous cell carcinoma clinically and histopathologically. It occurs in solitary, multiple, and eruptive forms. The solitary and multiple forms occur on sunlight exposed areas and are identical histologically; they affect primarily white males. The eruptive form usually involves both sexes and appears as a generalized papular eruption.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

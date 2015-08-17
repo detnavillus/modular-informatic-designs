@@ -1,0 +1,16 @@
+<Record>
+<Term>Nyquil</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Cough and Cold Preparation</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Combination Medication/Cough and Cold Preparation/Nyquil</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Cough and Cold Preparation</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Combination Medication</BroaderTerm>
+<BroaderTerm>Nyquil</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Nyquil</Synonym>
+<Description>A commercial combination preparation, by Vicks, containing acetaminophen, dextromethorphan hydrobromide and doxylamine succinate used to relieve symptoms of cold and flu. Acetaminophen exerts analgesic and antipyretic actions by inhibiting prostaglandin synthesis. Dextromethorphan exerts antitussive activity by raising the threshold for coughing in the cough center. Doxylamine succinate, an antihistamine, blocks the effects of histamine, thereby treating symptoms such as sneezing, itchy, watery eyes, runny nose, itchy throat and causes drowsiness.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

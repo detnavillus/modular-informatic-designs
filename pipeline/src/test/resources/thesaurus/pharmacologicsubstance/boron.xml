@@ -1,0 +1,31 @@
+<Record>
+<Term>Boron</Term>
+<SemanticType>Element, Ion, or Isotope</SemanticType>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Biologically Active Substance</SemanticType>
+<ParentTerm>Elements</ParentTerm>
+<ParentTerm>Dietary Mineral</ParentTerm>
+<ParentTerm>Element</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Element/Boron</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Inorganic Chemical/Mineral/Dietary Mineral/Dietary Boron</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Elements/Boron</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Elements</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Mineral</BroaderTerm>
+<BroaderTerm>Dietary Mineral</BroaderTerm>
+<BroaderTerm>Dietary Boron</BroaderTerm>
+<BroaderTerm>Element</BroaderTerm>
+<BroaderTerm>Boron</BroaderTerm>
+<BroaderTerm>Inorganic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>B3+</ChildTerm>
+<Synonym>Dietary Boron</Synonym>
+<Synonym>B</Synonym>
+<Synonym>Boron</Synonym>
+<Description>A trace element with the atomic symbol B, atomic number 5, and atomic weight 10.81. Boron-10, an isotope of boron, is used as a neutron absorber in BORON NEUTRON CAPTURE THERAPY.</Description>
+<Description>An element with atomic symbol B, atomic number 5, and atomic weight 11.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

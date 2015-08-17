@@ -1,0 +1,23 @@
+<Record>
+<Term>Incomplete Left Bundle Branch Block</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Incomplete Bundle Branch Block</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Heart Block/Incomplete Bundle Branch Block/Incomplete Left Bundle Branch Block</ClassificationPath>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Incomplete Bundle Branch Block</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Incomplete Left Bundle Branch Block</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Heart Block</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>INCOMPLETE LEFT BUNDLE BRANCH BLOCK</Synonym>
+<Synonym>Incomplete Left Bundle Branch Block</Synonym>
+<Synonym>Incomplete left bundle branch block</Synonym>
+<Description>An partial impairment of transmission of the cardiac electrical impulse along the fibers of the left bundle branch.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

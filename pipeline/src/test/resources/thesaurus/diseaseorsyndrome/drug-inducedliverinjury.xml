@@ -1,0 +1,26 @@
+<Record>
+<Term>Drug-Induced Liver Injury</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Poisoning</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Drug-Induced Liver Injury</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Poisoning/Drug-Induced Liver Injury</ClassificationPath>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Poisoning</BroaderTerm>
+<BroaderTerm>Drug-Induced Liver Injury</BroaderTerm>
+<ChildTerm>Drug-Induced Liver Injury, Chronic</ChildTerm>
+<Synonym>Drug-Induced Liver Injuries</Synonym>
+<Synonym>Toxic Hepatitides</Synonym>
+<Synonym>Drug-Induced Liver Diseases</Synonym>
+<Synonym>Drug Induced Liver Disease</Synonym>
+<Synonym>Drug-Induced Liver Disease</Synonym>
+<Synonym>Toxic Hepatitis</Synonym>
+<Synonym>Drug-Induced Liver Injury</Synonym>
+<Synonym>Drug-Induced Hepatitis</Synonym>
+<Synonym>Drug-Induced Hepatitides</Synonym>
+<Synonym>Drug Induced Liver Injury</Synonym>
+<Description>A spectrum of clinical liver diseases ranging from mild biochemical abnormalities to ACUTE LIVER FAILURE, caused by drugs, drug metabolites, and chemicals from the environment.INFLAMMATION of the LIVER due to hepatocellular toxicity, caused by drug metabolites and chemicals from the environment.</Description>
+<Source>MeSH</Source>
+</Record>

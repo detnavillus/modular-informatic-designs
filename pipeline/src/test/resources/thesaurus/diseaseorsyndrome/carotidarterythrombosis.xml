@@ -1,0 +1,31 @@
+<Record>
+<Term>Carotid Artery Thrombosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intracranial Embolism and Thrombosis</ParentTerm>
+<ParentTerm>Carotid Artery Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Carotid Artery Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Intracranial Embolism and Thrombosis/Carotid Artery Thrombosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Carotid Artery Diseases/Carotid Artery Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Embolism and Thrombosis/Thromboembolism/Intracranial Embolism and Thrombosis/Carotid Artery Thrombosis</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Carotid Artery Diseases/Carotid Artery Thrombosis</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Thromboembolism</BroaderTerm>
+<BroaderTerm>Thrombosis</BroaderTerm>
+<BroaderTerm>Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Carotid Artery Thrombosis</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Intracranial Embolism and Thrombosis</BroaderTerm>
+<BroaderTerm>Carotid Artery Diseases</BroaderTerm>
+<Synonym>Common Carotid Artery Thrombosis</Synonym>
+<Synonym>Carotid Artery Thromboses</Synonym>
+<Synonym>External Carotid Artery Thrombosis</Synonym>
+<Synonym>Carotid Thrombosis</Synonym>
+<Synonym>Carotid Artery Thrombosis</Synonym>
+<Synonym>Internal Carotid Artery Thrombosis</Synonym>
+<Description>Blood clot formation in any part of the CAROTID ARTERIES. This may produce CAROTID STENOSIS or occlusion of the vessel, leading to TRANSIENT ISCHEMIC ATTACK; CEREBRAL INFARCTION; or AMAUROSIS FUGAX.</Description>
+<Source>MeSH</Source>
+</Record>

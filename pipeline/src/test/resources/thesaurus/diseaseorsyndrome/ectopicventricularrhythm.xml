@@ -1,0 +1,22 @@
+<Record>
+<Term>Ectopic Ventricular Rhythm</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ventricular Arrhythmia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Arrhythmia/Ventricular Arrhythmia/Ectopic Ventricular Rhythm</ClassificationPath>
+<BroaderTerm>Ventricular Arrhythmia</BroaderTerm>
+<BroaderTerm>Arrhythmia</BroaderTerm>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Ectopic Ventricular Rhythm</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>ECTOPIC VENTRICULAR RHYTHM</Synonym>
+<Synonym>Ectopic Ventricular Rhythm</Synonym>
+<Synonym>Ectopic ventricular rhythm</Synonym>
+<Description>A cardiac rhythm resulting from either an abnormal electrical focus in the ventrical. Ventricular ectopic beats (VEB) refer to a contraction of the lower heart chamber which occurs before it would be expected. Ventricular ectopic beats are also known as premature ventricular beats, premature ventricular complex (PVC), or ventricular extrasystole.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

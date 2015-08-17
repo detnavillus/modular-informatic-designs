@@ -1,0 +1,54 @@
+<Record>
+<Term>Androgens</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Hormone</SemanticType>
+<ParentTerm>Hormones</ParentTerm>
+<ParentTerm>Therapeutic Steroid Hormone</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Therapeutic Hormone/Therapeutic Steroid Hormone/Therapeutic Androgen</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Hormones, Hormone Substitutes, and Hormone Antagonists/Hormones/Androgens</ClassificationPath>
+<BroaderTerm>Hormones</BroaderTerm>
+<BroaderTerm>Androgens</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Androgen</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Therapeutic Hormone</BroaderTerm>
+<BroaderTerm>Hormones, Hormone Substitutes, and Hormone Antagonists</BroaderTerm>
+<BroaderTerm>Therapeutic Steroid Hormone</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<ChildTerm>Oxymetholone</ChildTerm>
+<ChildTerm>Therapeutic Dehydroepiandrosterone</ChildTerm>
+<ChildTerm>Oxandrolone</ChildTerm>
+<ChildTerm>Androst-5-en-17-one</ChildTerm>
+<ChildTerm>Danazol</ChildTerm>
+<ChildTerm>Fluoxymesterone</ChildTerm>
+<ChildTerm>Nandrolone</ChildTerm>
+<ChildTerm>Epiandrosterone</ChildTerm>
+<ChildTerm>Therapeutic Androstenedione</ChildTerm>
+<ChildTerm>Nandrolone Decanoate</ChildTerm>
+<ChildTerm>Stanozolol</ChildTerm>
+<ChildTerm>Therapeutic Testosterone</ChildTerm>
+<ChildTerm>Dromostanolone</ChildTerm>
+<ChildTerm>Nandrolone Phenpropionate</ChildTerm>
+<ChildTerm>Methyltestosterone</ChildTerm>
+<ChildTerm>Rosterolone</ChildTerm>
+<ChildTerm>Mibolerone</ChildTerm>
+<ChildTerm>Calusterone</ChildTerm>
+<ChildTerm>Fluorotestosterone</ChildTerm>
+<ChildTerm>Stanolone</ChildTerm>
+<ChildTerm>Androsterone</ChildTerm>
+<ChildTerm>Epitiostanol</ChildTerm>
+<ChildTerm>Dromostanolone Propionate</ChildTerm>
+<Synonym>androgens</Synonym>
+<Synonym>Androgenic Compounds</Synonym>
+<Synonym>Androgens</Synonym>
+<Synonym>Therapeutic Androgen</Synonym>
+<Synonym>Androgenic Agents</Synonym>
+<Description>A class of sex hormones associated with the development and maintenance of the secondary male sex characteristics, sperm induction, and sexual differentiation. In addition to increasing virility and libido, they also increase nitrogen and water retention and stimulate skeletal growth. (MeSH)</Description>
+<Description>Compounds that interact with ANDROGEN RECEPTORS in target tissues to bring about the effects similar to those of TESTOSTERONE. Depending on the target tissues, androgenic effects can be on SEX DIFFERENTIATION; male reproductive organs, SPERMATOGENESIS; secondary male SEX CHARACTERISTICS; LIBIDO; development of muscle mass, strength, and power.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

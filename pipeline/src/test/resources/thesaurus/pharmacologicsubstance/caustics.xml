@@ -1,0 +1,18 @@
+<Record>
+<Term>Caustics</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Hazardous or Poisonous Substance</SemanticType>
+<ParentTerm>Specialty Uses of Chemicals</ParentTerm>
+<ParentTerm>Noxae</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Caustics</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Toxic Actions/Noxae/Caustics</ClassificationPath>
+<BroaderTerm>Toxic Actions</BroaderTerm>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Caustics</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Noxae</BroaderTerm>
+<Synonym>Caustics</Synonym>
+<Synonym>Corrosives</Synonym>
+<Description>Strong alkaline chemicals that destroy soft body tissues resulting in a deep, penetrating type of burn, in contrast to corrosives, that result in a more superficial type of damage via chemical means or inflammation. Caustics are usually hydroxides of light metals. SODIUM HYDROXIDE and potassium hydroxide are the most widely used caustic agents in industry. Medically, they have been used externally to remove diseased or dead tissues and destroy warts and small tumors. The accidental ingestion of products (household and industrial) containing caustic ingredients results in thousands of injuries per year.</Description>
+<Source>MeSH</Source>
+</Record>

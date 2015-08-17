@@ -1,0 +1,19 @@
+<Record>
+<Term>Oral Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Head and Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Head and Neck Disorder/Oral Disorder</ClassificationPath>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Oral Disorder</BroaderTerm>
+<BroaderTerm>Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Oral Cavity Disorder</ChildTerm>
+<ChildTerm>Oral Cavity and Lip Precancerous Condition</ChildTerm>
+<ChildTerm>Lip Disorder</ChildTerm>
+<ChildTerm>Non-Neoplastic Oral Disorder</ChildTerm>
+<Synonym>Oral Disease</Synonym>
+<Synonym>Oral Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

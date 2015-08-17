@@ -1,0 +1,20 @@
+<Record>
+<Term>Halazepam</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Benzodiazepine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Sedative and Hypnotic/Benzodiazepine/Halazepam</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Benzodiazepine</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Halazepam</BroaderTerm>
+<BroaderTerm>Sedative and Hypnotic</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HALAZEPAM</Synonym>
+<Synonym>Paxipam</Synonym>
+<Synonym>Halazepam</Synonym>
+<Description>A synthetic benzodiazepine derivative with anxiolytic property. Halazepam potentiates the inhibitory activities of gamma-aminobutyric acid (GABA) by binding to the benzodiazepine-GABA-A-chloride ionophore receptor complex located in the limbic, thalamic, and hypothalamic regions of the central nervous system (CNS). This increases the frequency of chloride channel opening, allowing the flow of chloride ions into the neuron and ultimately leading to membrane hyperpolarization and a decrease in neuronal excitability.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

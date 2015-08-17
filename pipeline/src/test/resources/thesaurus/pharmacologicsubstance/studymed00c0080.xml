@@ -1,0 +1,14 @@
+<Record>
+<Term>StudyMed 00C0080</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Clinical Study Element</ParentTerm>
+<ClassificationPath>NCI Administrative Concept/Document/Protocol/Component of Study Protocol/Clinical Study Element/StudyMed 00C0080</ClassificationPath>
+<BroaderTerm>StudyMed 00C0080</BroaderTerm>
+<BroaderTerm>Document</BroaderTerm>
+<BroaderTerm>Protocol</BroaderTerm>
+<BroaderTerm>Component of Study Protocol</BroaderTerm>
+<BroaderTerm>NCI Administrative Concept</BroaderTerm>
+<BroaderTerm>Clinical Study Element</BroaderTerm>
+<Synonym>StudyMed 00C0080</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

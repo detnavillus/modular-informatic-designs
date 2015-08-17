@@ -1,0 +1,21 @@
+<Record>
+<Term>Agricultural Workers' Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Occupational Diseases</ParentTerm>
+<ClassificationPath>Disorders of Environmental Origin/Occupational Diseases/Agricultural Workers' Diseases</ClassificationPath>
+<BroaderTerm>Agricultural Workers' Diseases</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Occupational Diseases</BroaderTerm>
+<ChildTerm>Farmer's Lung</ChildTerm>
+<ChildTerm>Silo Filler's Disease</ChildTerm>
+<Synonym>Agricultural Workers' Diseases</Synonym>
+<Synonym>Agricultural Workers Diseases</Synonym>
+<Synonym>Agricultural Workers' Disease</Synonym>
+<Synonym>Agricultural Worker's Disease</Synonym>
+<Synonym>Agricultural Worker's Diseases</Synonym>
+<Synonym>Agricultural Workers Disease</Synonym>
+<Synonym>Agricultural Worker Disease</Synonym>
+<Synonym>Agricultural Worker Diseases</Synonym>
+<Description>Diseases in persons engaged in cultivating and tilling soil, growing plants, harvesting crops, raising livestock, or otherwise engaged in husbandry and farming. The diseases are not restricted to farmers in the sense of those who perform conventional farm chores: the heading applies also to those engaged in the individual activities named above, as in those only gathering harvest or in those only dusting crops.</Description>
+<Source>MeSH</Source>
+</Record>

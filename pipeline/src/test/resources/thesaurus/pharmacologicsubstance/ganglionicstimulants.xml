@@ -1,0 +1,15 @@
+<Record>
+<Term>Ganglionic Stimulants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Autonomic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Peripheral Nervous System Agents/Autonomic Agents/Ganglionic Stimulants</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Agents</BroaderTerm>
+<BroaderTerm>Ganglionic Stimulants</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Autonomic Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Ganglionic Stimulants</Synonym>
+<Description>Agents that mimic neural transmission by stimulation of the nicotinic receptors on postganglionic autonomic neurons. Drugs that indirectly augment ganglionic transmission by increasing the release or slowing the breakdown of acetylcholine or by non-nicotinic effects on postganglionic neurons are not included here nor are the nonspecific cholinergic agonists.</Description>
+<Source>MeSH</Source>
+</Record>

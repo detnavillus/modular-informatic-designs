@@ -1,0 +1,23 @@
+<Record>
+<Term>Acatalasia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Peroxisomal Disorders</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Peroxisomal Disorders/Acatalasia</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Peroxisomal Disorders/Acatalasia</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Peroxisomal Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Acatalasia</BroaderTerm>
+<Synonym>Hypocatalasia</Synonym>
+<Synonym>Takaharas Disease</Synonym>
+<Synonym>Takahara Disease</Synonym>
+<Synonym>Takahara's Disease</Synonym>
+<Synonym>Hypocatalasemia</Synonym>
+<Synonym>Acatalasemia</Synonym>
+<Synonym>Acatalasia</Synonym>
+<Description>A rare autosomal recessive disorder resulting from the absence of CATALASE activity. Though usually asymptomatic, a syndrome of oral ulcerations and gangrene may be present.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,23 @@
+<Record>
+<Term>Paucibacillary Leprosy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Leprosy</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Leprosy/Leprosy, Paucibacillary</ClassificationPath>
+<BroaderTerm>Leprosy, Paucibacillary</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Leprosy</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Leprosy, Borderline</ChildTerm>
+<ChildTerm>Leprosy, Tuberculoid</ChildTerm>
+<Synonym>Paucibacillary Leprosies</Synonym>
+<Synonym>Paucibacillary Leprosy</Synonym>
+<Synonym>Borderline Tuberculoid</Synonym>
+<Synonym>Borderline Tuberculoids</Synonym>
+<Synonym>Indeterminate Tuberculoid</Synonym>
+<Synonym>Indeterminate Tuberculoids</Synonym>
+<Description>A form of LEPROSY classified by the World Health Organization for the purpose of treatment, based on clinical manifestations and skin smear results. Patients with paucibacillary leprosy have fewer than six skin lesions with no causative agent MYCOBACTERIUM LEPRAE on any slit-skin smear testing. Paucibacillary leprosy encompasses indeterminate, borderline tuberculoid, and tuberculoid leprosy.</Description>
+<Source>MeSH</Source>
+</Record>

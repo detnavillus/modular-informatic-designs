@@ -1,0 +1,18 @@
+<Record>
+<Term>Tongue Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Tongue Diseases</ClassificationPath>
+<BroaderTerm>Tongue Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<ChildTerm>Tongue Neoplasms</ChildTerm>
+<ChildTerm>Tongue, Fissured</ChildTerm>
+<ChildTerm>Tongue, Hairy</ChildTerm>
+<ChildTerm>Glossalgia</ChildTerm>
+<ChildTerm>Glossitis</ChildTerm>
+<ChildTerm>Macroglossia</ChildTerm>
+<Synonym>Tongue Diseases</Synonym>
+<Synonym>Tongue Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

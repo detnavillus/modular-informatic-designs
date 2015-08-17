@@ -1,0 +1,27 @@
+<Record>
+<Term>Ileus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Obstruction</ParentTerm>
+<ParentTerm>Bowel Obstruction</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Bowel Obstruction/Ileus</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Obstruction/Ileus</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Intestinal Obstruction</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Bowel Obstruction</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Ileus</BroaderTerm>
+<ChildTerm>Intestinal Pseudo-Obstruction</ChildTerm>
+<Synonym>Ileus</Synonym>
+<Description>A condition caused by the lack of intestinal PERISTALSIS or INTESTINAL MOTILITY without any mechanical obstruction. This interference of the flow of INTESTINAL CONTENTS often leads to INTESTINAL OBSTRUCTION. Ileus may be classified into postoperative, inflammatory, metabolic, neurogenic, and drug-induced.</Description>
+<Description>An obstruction of the intestines, especially the ileum.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

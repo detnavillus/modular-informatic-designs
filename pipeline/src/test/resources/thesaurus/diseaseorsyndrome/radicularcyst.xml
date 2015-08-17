@@ -1,0 +1,32 @@
+<Record>
+<Term>Radicular Cyst</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periodontal Cyst</ParentTerm>
+<ParentTerm>Periapical Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Jaw Cysts/Odontogenic Cysts/Periodontal Cyst/Radicular Cyst</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periapical Diseases/Radicular Cyst</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases/Jaw Cysts/Odontogenic Cysts/Periodontal Cyst/Radicular Cyst</ClassificationPath>
+<ClassificationPath>Neoplasms/Cysts/Bone Cysts/Jaw Cysts/Odontogenic Cysts/Periodontal Cyst/Radicular Cyst</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases/Periapical Diseases/Radicular Cyst</ClassificationPath>
+<BroaderTerm>Bone Cysts</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Radicular Cyst</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Neoplasms</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<BroaderTerm>Odontogenic Cysts</BroaderTerm>
+<BroaderTerm>Cysts</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Cyst</BroaderTerm>
+<BroaderTerm>Jaw Cysts</BroaderTerm>
+<BroaderTerm>Periapical Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Radicular Cyst</Synonym>
+<Synonym>Apical Periodontal Cysts</Synonym>
+<Synonym>Radicular Cysts</Synonym>
+<Synonym>Periapical Cysts</Synonym>
+<Synonym>Apical Periodontal Cyst</Synonym>
+<Synonym>Periapical Cyst</Synonym>
+<Description>Slow-growing fluid-filled epithelial sac at the apex of a tooth with a nonvital pulp or defective root canal filling.</Description>
+<Source>MeSH</Source>
+</Record>

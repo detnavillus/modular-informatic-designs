@@ -1,0 +1,24 @@
+<Record>
+<Term>Cortical Blindness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Blindness</ParentTerm>
+<ClassificationPath>Eye Diseases/Vision Disorders/Blindness/Blindness, Cortical</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness/Blindness, Cortical</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Vision Disorders/Blindness/Blindness, Cortical</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Vision Disorders</BroaderTerm>
+<BroaderTerm>Blindness</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Blindness, Cortical</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Anton Syndromes</Synonym>
+<Synonym>Cortical Blindness</Synonym>
+<Synonym>Anton Syndrome</Synonym>
+<Synonym>Psychic Denial of Blindness</Synonym>
+<Description>Total loss of vision in all or part of the visual field due to bilateral OCCIPITAL LOBE (i.e., VISUAL CORTEX) damage or dysfunction. Anton syndrome is characterized by the psychic denial of true, organic cortical blindness. (Adams et al., Principles of Neurology, 6th ed, p460)</Description>
+<Source>MeSH</Source>
+</Record>

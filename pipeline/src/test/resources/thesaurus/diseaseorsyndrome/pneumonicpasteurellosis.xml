@@ -1,0 +1,30 @@
+<Record>
+<Term>Pneumonic Pasteurellosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respirovirus Infections</ParentTerm>
+<ParentTerm>Pasteurellaceae Infections</ParentTerm>
+<ParentTerm>Bovine Respiratory Disease Complex</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Bovine Respiratory Disease Complex/Pasteurellosis, Pneumonic</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Bovine Respiratory Disease Complex/Pasteurellosis, Pneumonic</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Pasteurellaceae Infections/Pasteurellosis, Pneumonic</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Respirovirus Infections/Pasteurellosis, Pneumonic</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Pasteurellosis, Pneumonic</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Respirovirus Infections</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Bovine Respiratory Disease Complex</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Pasteurellaceae Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>Shipping Fever</Synonym>
+<Synonym>Pneumonic Pasteurellosis</Synonym>
+<Description>Bovine respiratory disease found in animals that have been shipped or exposed to CATTLE recently transported. The major agent responsible for the disease is MANNHEIMIA HAEMOLYTICA and less commonly, PASTEURELLA MULTOCIDA or HAEMOPHILUS SOMNUS. All three agents are normal inhabitants of the bovine nasal pharyngeal mucosa but not the LUNG. They are considered opportunistic pathogens following STRESS, PHYSIOLOGICAL and/or a viral infection. The resulting bacterial fibrinous BRONCHOPNEUMONIA is often fatal.</Description>
+<Source>MeSH</Source>
+</Record>

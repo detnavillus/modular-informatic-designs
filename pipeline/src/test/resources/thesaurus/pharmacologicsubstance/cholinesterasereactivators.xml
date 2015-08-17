@@ -1,0 +1,22 @@
+<Record>
+<Term>Cholinesterase Reactivators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Enzyme Reactivators</ParentTerm>
+<ParentTerm>Cholinergic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Enzyme Reactivators/Cholinesterase Reactivators</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Physiological Effects of Drugs/Neurotransmitter Agents/Cholinergic Agents/Cholinesterase Reactivators</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Neurotransmitter Agents/Cholinergic Agents/Cholinesterase Reactivators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Enzyme Reactivators</BroaderTerm>
+<BroaderTerm>Cholinergic Agents</BroaderTerm>
+<BroaderTerm>Cholinesterase Reactivators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Neurotransmitter Agents</BroaderTerm>
+<BroaderTerm>Physiological Effects of Drugs</BroaderTerm>
+<Synonym>Organothiophosphate Insecticide Antagonists</Synonym>
+<Synonym>Cholinesterase Reactivators</Synonym>
+<Synonym>Organophosphate Insecticide Antagonists</Synonym>
+<Description>Drugs used to reverse the inactivation of cholinesterase caused by organophosphates or sulfonates. They are an important component of therapy in agricultural, industrial, and military poisonings by organophosphates and sulfonates.</Description>
+<Source>MeSH</Source>
+</Record>

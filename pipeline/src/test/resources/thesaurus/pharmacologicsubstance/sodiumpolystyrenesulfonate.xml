@@ -1,0 +1,24 @@
+<Record>
+<Term>Sodium Polystyrene Sulfonate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Electrolyte Replacement Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Electrolyte Replacement Agent/Sodium Polystyrene Sulfonate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Sodium Polystyrene Sulfonate</BroaderTerm>
+<BroaderTerm>Electrolyte Replacement Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>SODIUM POLYSTYRENE SULFONATE</Synonym>
+<Synonym>Sodium polystyrene sulfonate</Synonym>
+<Synonym>Sodium Polystyrene</Synonym>
+<Synonym>Sodium Polystyrene Sulfonate</Synonym>
+<Synonym>Kalexate</Synonym>
+<Synonym>Kionex</Synonym>
+<Synonym>Sps</Synonym>
+<Synonym>Kayexalate</Synonym>
+<Description>A potassium ion exchange resin composed of benzene-diethyl polymer with ethenyl-benzene, sulfonated, sodium salt. Administered as an oral suspension, sodium polystyrene sulfonate lowers serum potassium levels by exchanging its sodium ions for potassium ions. Acting primarily in the large intestine, this agent also exchanges its sodium ions for calcium and magnesium ions, resulting in a decrease in serum calcium and magnesium levels. (NCI04)</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

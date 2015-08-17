@@ -1,0 +1,30 @@
+<Record>
+<Term>Adrenal Gland Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Endocrine System Diseases</ParentTerm>
+<ParentTerm>Retroperitoneal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Peritoneal and Retroperitoneal Disorder/Retroperitoneal Disorder/Adrenal Gland Disorder</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Adrenal Gland Diseases</ClassificationPath>
+<BroaderTerm>Adrenal Gland Disorder</BroaderTerm>
+<BroaderTerm>Peritoneal and Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Retroperitoneal Disorder</BroaderTerm>
+<BroaderTerm>Adrenal Gland Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Adrenal Insufficiency</ChildTerm>
+<ChildTerm>Non-Neoplastic Adrenal Gland Disorder</ChildTerm>
+<ChildTerm>Adrenal Hyperplasia, Congenital</ChildTerm>
+<ChildTerm>Adrenocortical Hyperfunction</ChildTerm>
+<ChildTerm>Adrenal Cortex Diseases</ChildTerm>
+<ChildTerm>Adrenal Gland Neoplasms</ChildTerm>
+<Synonym>Adrenal Gland Disorder</Synonym>
+<Synonym>Adrenal Gland Disorders</Synonym>
+<Synonym>Adrenal Gland Disease</Synonym>
+<Synonym>Adrenal Gland Diseases</Synonym>
+<Description>Pathological processes of the ADRENAL GLANDS.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

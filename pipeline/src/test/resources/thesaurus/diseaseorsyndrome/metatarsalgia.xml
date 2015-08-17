@@ -1,0 +1,25 @@
+<Record>
+<Term>Metatarsalgia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Foot Diseases</ParentTerm>
+<ParentTerm>Joint Diseases</ParentTerm>
+<ParentTerm>Pain</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Pain/Metatarsalgia</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Foot Diseases/Metatarsalgia</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Metatarsalgia</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Pain/Metatarsalgia</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Pain/Metatarsalgia</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Metatarsalgia</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Pain</BroaderTerm>
+<Synonym>Metatarsalgia</Synonym>
+<Description>Pain in the region of the METATARSUS. It can include pain in the METATARSAL BONES; METATARSOPHALANGEAL JOINT; and/or intermetatarsal joints (TARSAL JOINTS).</Description>
+<Source>MeSH</Source>
+</Record>

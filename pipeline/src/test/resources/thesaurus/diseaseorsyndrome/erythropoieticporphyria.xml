@@ -1,0 +1,35 @@
+<Record>
+<Term>Erythropoietic Porphyria</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Porphyrias</ParentTerm>
+<ParentTerm>Skin Diseases, Genetic</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Porphyrias/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Skin Diseases, Genetic/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Genetic/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Porphyrias/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Porphyrias/Porphyria, Erythropoietic</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Skin Diseases, Metabolic/Porphyrias/Porphyria, Erythropoietic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Porphyrias</BroaderTerm>
+<BroaderTerm>Skin Diseases, Genetic</BroaderTerm>
+<BroaderTerm>Porphyria, Erythropoietic</BroaderTerm>
+<Synonym>Erythropoietic Porphyrias</Synonym>
+<Synonym>Congenital Erythropoietic Porphyrias</Synonym>
+<Synonym>Uros Deficiency</Synonym>
+<Synonym>Erythropoietic Porphyria</Synonym>
+<Synonym>Gunther's Disease</Synonym>
+<Synonym>Congenital Erythropoietic Porphyria</Synonym>
+<Synonym>Gunthers Disease</Synonym>
+<Synonym>Deficiency of Uroporphyrinogen III Synthase</Synonym>
+<Synonym>Gunther Disease</Synonym>
+<Description>An autosomal recessive porphyria that is due to a deficiency of UROPORPHYRINOGEN III SYNTHASE in the BONE MARROW; also known as congenital erythropoietic porphyria. This disease is characterized by SPLENOMEGALY; ANEMIA; photosensitivity; cutaneous lesions; accumulation of hydroxymethylbilane; and increased excretion of UROPORPHYRINS and COPROPORPHYRINS.</Description>
+<Source>MeSH</Source>
+</Record>

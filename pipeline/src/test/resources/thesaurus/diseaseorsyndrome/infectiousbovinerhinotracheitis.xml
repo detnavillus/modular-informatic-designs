@@ -1,0 +1,18 @@
+<Record>
+<Term>Infectious Bovine Rhinotracheitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Herpesviridae Infections</ParentTerm>
+<ParentTerm>Cattle Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cattle Diseases/Infectious Bovine Rhinotracheitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/DNA Virus Infections/Herpesviridae Infections/Infectious Bovine Rhinotracheitis</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Herpesviridae Infections</BroaderTerm>
+<BroaderTerm>DNA Virus Infections</BroaderTerm>
+<BroaderTerm>Infectious Bovine Rhinotracheitis</BroaderTerm>
+<BroaderTerm>Cattle Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Infectious Bovine Rhinotracheitides</Synonym>
+<Synonym>Infectious Bovine Rhinotracheitis</Synonym>
+<Description>A herpesvirus infection of CATTLE characterized by INFLAMMATION and NECROSIS of the mucous membranes of the upper RESPIRATORY TRACT.</Description>
+<Source>MeSH</Source>
+</Record>

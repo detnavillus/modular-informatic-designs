@@ -1,0 +1,25 @@
+<Record>
+<Term>Isosporiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Coccidiosis</ParentTerm>
+<ParentTerm>Parasitic Infection</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Protozoan Infections/Coccidiosis/Isosporiasis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Parasitic Infection/Isosporiasis</ClassificationPath>
+<BroaderTerm>Coccidiosis</BroaderTerm>
+<BroaderTerm>Parasitic Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Protozoan Infections</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Isosporiasis</BroaderTerm>
+<ChildTerm>AIDS-Related Isosporiasis</ChildTerm>
+<Synonym>Isosporiases</Synonym>
+<Synonym>Isosporiasis</Synonym>
+<Description>Infection with parasitic protozoa of the genus ISOSPORA, producing intestinal disease. It is caused by ingestion of oocysts and can produce tissue cysts.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

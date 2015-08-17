@@ -1,0 +1,31 @@
+<Record>
+<Term>Granuloma Annulare</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Necrobiotic Disorders</ParentTerm>
+<ParentTerm>Granuloma</ParentTerm>
+<ParentTerm>Non-Neoplastic Skin Disorder</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Necrobiotic Disorders/Granuloma Annulare</ClassificationPath>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathologic Processes/Granuloma/Granuloma Annulare</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Connective Tissue Diseases/Collagen Diseases/Necrobiotic Disorders/Granuloma Annulare</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Granuloma Annulare</ClassificationPath>
+<BroaderTerm>Necrobiotic Disorders</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Granuloma Annulare</BroaderTerm>
+<BroaderTerm>Pathologic Processes</BroaderTerm>
+<BroaderTerm>Collagen Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Granuloma</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<ChildTerm>Aggravated Granuloma Annulare</ChildTerm>
+<Synonym>Granuloma Annulare</Synonym>
+<Description>Benign granulomatous disease of unknown etiology characterized by a ring of localized or disseminated papules or nodules on the skin and palisading histiocytes surrounding necrobiotic tissue resulting from altered collagen structures.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

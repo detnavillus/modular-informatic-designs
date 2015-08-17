@@ -1,0 +1,20 @@
+<Record>
+<Term>Tubulin Modulators</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antimitotic Agents</ParentTerm>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Mitosis Modulators/Antimitotic Agents/Tubulin Modulators</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Antimitotic Agents</BroaderTerm>
+<BroaderTerm>Tubulin Modulators</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Mitosis Modulators</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<Synonym>Tubulin Modulators</Synonym>
+<Synonym>Microtubule Modulators</Synonym>
+<Synonym>Tubulin Promoters</Synonym>
+<Synonym>Tubulin Polymerization Promoters</Synonym>
+<Synonym>Tubulin Inhibitors</Synonym>
+<Synonym>Tubulin Polymerization Inhibitors</Synonym>
+<Description>Agents that interact with TUBULIN to inhibit or promote polymerization of MICROTUBULES.</Description>
+<Source>MeSH</Source>
+</Record>

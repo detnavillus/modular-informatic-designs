@@ -1,0 +1,47 @@
+<Record>
+<Term>Deafness</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Hearing Loss</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Deafness</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders/Hearing Loss/Deafness</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Non-Neoplastic Ear Disorder/Hearing Disorder/Hearing Loss/Deafness</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders/Hearing Loss/Deafness</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Ear Disorder</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Loss</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Deafness</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<BroaderTerm>Hearing Disorder</BroaderTerm>
+<ChildTerm>Low Frequency Deafness</ChildTerm>
+<ChildTerm>Complete Deafness</ChildTerm>
+<ChildTerm>Conductive Deafness</ChildTerm>
+<ChildTerm>Sensorineural Deafness</ChildTerm>
+<ChildTerm>High Frequency Deafness</ChildTerm>
+<ChildTerm>Bilateral Deafness</ChildTerm>
+<ChildTerm>Mixed Conductive and Sensorineural Deafness</ChildTerm>
+<ChildTerm>Deaf-Blind Disorders</ChildTerm>
+<Synonym>Deaf-Mutism</Synonym>
+<Synonym>Prelingual Deafness</Synonym>
+<Synonym>Bilateral Deafness</Synonym>
+<Synonym>Deaf Mutism</Synonym>
+<Synonym>Deafness</Synonym>
+<Synonym>Complete Hearing Loss</Synonym>
+<Synonym>Extreme Hearing Loss</Synonym>
+<Synonym>Acquired Deafness</Synonym>
+<Description>A general term for the complete loss of the ability to hear from both ears.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

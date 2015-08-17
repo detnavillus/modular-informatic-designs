@@ -1,0 +1,25 @@
+<Record>
+<Term>Endocrine System Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Endocrine System Diseases</ClassificationPath>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<ChildTerm>Adrenal Gland Diseases</ChildTerm>
+<ChildTerm>Pituitary Diseases</ChildTerm>
+<ChildTerm>Bone Diseases, Endocrine</ChildTerm>
+<ChildTerm>Gonadal Disorders</ChildTerm>
+<ChildTerm>Endocrine Gland Neoplasms</ChildTerm>
+<ChildTerm>Dwarfism</ChildTerm>
+<ChildTerm>Thyroid Diseases</ChildTerm>
+<ChildTerm>Diabetes Mellitus</ChildTerm>
+<ChildTerm>Parathyroid Diseases</ChildTerm>
+<ChildTerm>Tuberculosis, Endocrine</ChildTerm>
+<ChildTerm>Polyendocrinopathies, Autoimmune</ChildTerm>
+<Synonym>Endocrine System Diseases</Synonym>
+<Synonym>Endocrine System Disease</Synonym>
+<Synonym>Endocrine Diseases</Synonym>
+<Synonym>Endocrine Disease</Synonym>
+<Synonym>Diseases of Endocrine System</Synonym>
+<Description>Pathological processes of the ENDOCRINE GLANDS, and diseases resulting from abnormal level of available HORMONES.</Description>
+<Source>MeSH</Source>
+</Record>

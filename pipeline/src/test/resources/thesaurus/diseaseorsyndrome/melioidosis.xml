@@ -1,0 +1,15 @@
+<Record>
+<Term>Melioidosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Burkholderia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Burkholderia Infections/Melioidosis</ClassificationPath>
+<BroaderTerm>Melioidosis</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Burkholderia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Melioidosis</Synonym>
+<Synonym>Melioidoses</Synonym>
+<Description>A disease of humans and animals that resembles GLANDERS. It is caused by BURKHOLDERIA PSEUDOMALLEI and may range from a dormant infection to a condition that causes multiple abscesses, pneumonia, and bacteremia.</Description>
+<Source>MeSH</Source>
+</Record>

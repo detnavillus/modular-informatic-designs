@@ -1,0 +1,18 @@
+<Record>
+<Term>5,10-Methylenetetrahydrofolate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Folic Acid Derivative</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Protective Agent/Chemoprotective Agent/Nephroprotective Agent/Folic Acid Derivative/5,10-Methylenetetrahydrofolate</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Protective Agent</BroaderTerm>
+<BroaderTerm>Nephroprotective Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>5,10-Methylenetetrahydrofolate</BroaderTerm>
+<BroaderTerm>Chemoprotective Agent</BroaderTerm>
+<BroaderTerm>Folic Acid Derivative</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>5,10-Methylenetetrahydrofolate</Synonym>
+<Synonym>CoFactor</Synonym>
+<Description>A folate-based biomodulator with potential antineoplastic activity. 5,10-methylenetetrahydrofolate (MTHF) stabilizes the covalent binding of the fluorouracil metabolite 5-5-fluoro-2'-deoxyuridine-5'-O-monophosphate (FdUMP) to its target enzyme, thymidylate synthase, which results in inhibition of thymidylate synthase, depletion of thymidine triphosphate (TTP), a necessary constituent of DNA, and tumor cell death. Unlike leucovorin, MTHF, as the active form of folate, does not require metabolic activation and may increase the chemotherapeutic effects of fluorouracil with lower toxicity.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

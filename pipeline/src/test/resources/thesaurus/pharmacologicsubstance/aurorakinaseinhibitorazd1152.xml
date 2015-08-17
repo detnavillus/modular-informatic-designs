@@ -1,0 +1,16 @@
+<Record>
+<Term>Aurora Kinase Inhibitor AZD1152</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Aurora Kinase Inhibitor</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Enzyme Inhibitor/Aurora Kinase Inhibitor/Aurora Kinase Inhibitor AZD1152</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Enzyme Inhibitor</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Aurora Kinase Inhibitor AZD1152</BroaderTerm>
+<BroaderTerm>Aurora Kinase Inhibitor</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>AZD1152</Synonym>
+<Synonym>Aurora Kinase Inhibitor AZD1152</Synonym>
+<Description>An orally active inhibitor of the serine/threonine protein kinase Aurora B with potential antineoplastic activity. Aurora kinase inhibitor AZD1152 specifically binds to and inhibits Aurora kinase B, a protein that plays an important role during mitosis and is overexpressed in a wide variety of cancer cells. Inhibition of Aurora kinase B interferes with spindle checkpoint functions and chromosome alignment, and hence disrupts chromosome segregation and cytokinesis. This results in an inhibition of cell division and cell proliferation, and in induction of apoptosis in aurora kinase B-overexpressing tumor cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,37 @@
+<Record>
+<Term>Estramustine Phosphate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Steroid</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Tubulin Binding Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Antimitotic Agent/Tubulin Binding Agent/Estramustine Phosphate Sodium,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Alkylating Agent/Antineoplastic Alkylating Agent/Mustard Agent/Nitrogen Mustard Compound/Estramustine Phosphate Sodium</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antimitotic Agent</BroaderTerm>
+<BroaderTerm>Estramustine Phosphate Sodium,</BroaderTerm>
+<BroaderTerm>Antineoplastic Alkylating Agent</BroaderTerm>
+<BroaderTerm>Mustard Agent</BroaderTerm>
+<BroaderTerm>Nitrogen Mustard Compound</BroaderTerm>
+<BroaderTerm>Alkylating Agent</BroaderTerm>
+<BroaderTerm>Estramustine Phosphate Sodium</BroaderTerm>
+<BroaderTerm>Tubulin Binding Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Estramustine 17-(Dihydrogenphosphate) Disodium Salt</Synonym>
+<Synonym>Estramustine sodium phosphate</Synonym>
+<Synonym>Leo-299</Synonym>
+<Synonym>Estramustine Phosphate</Synonym>
+<Synonym>Estramustine Sodium Phosphate</Synonym>
+<Synonym>Estramustine phosphate</Synonym>
+<Synonym>Ro-21-8837/001</Synonym>
+<Synonym>Emcyt</Synonym>
+<Synonym>Estramustine Phosphate Sodium</Synonym>
+<Synonym>Leo 299</Synonym>
+<Synonym>ESTRAMUSTINE PHOSPHATE SODIUM</Synonym>
+<Synonym>Estracyt</Synonym>
+<Synonym>Estramustine phosphate sodium</Synonym>
+<Description>The orally available disodium salt, monohydrate, of estramustine phosphate, a synthetic molecule that combines estradiol and nornitrogen mustard through a carbamate link. Estramustine and its major metabolite estramustine bind to microtubule-associated proteins (MAPs) and tubulin, thereby inhibiting microtubule dynamics and leading to anaphase arrest in a dose-dependent fashion. This agent also exhibits anti-androgenic effects.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

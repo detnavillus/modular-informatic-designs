@@ -1,0 +1,49 @@
+<Record>
+<Term>Esophagitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Gastroenteritis</ParentTerm>
+<ParentTerm>Esophageal Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with the Gastrointestinal System</ParentTerm>
+<ParentTerm>Non-Neoplastic Esophageal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with the Gastrointestinal System/Esophagitis Adverse Event</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Esophageal Diseases/Esophagitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Esophagitis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Esophageal Disorder/Esophagitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Esophageal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Esophageal Diseases</BroaderTerm>
+<BroaderTerm>Esophagitis Adverse Event</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with the Gastrointestinal System</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<BroaderTerm>Esophagitis</BroaderTerm>
+<ChildTerm>Fungal Esophagitis</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Esophagitis</ChildTerm>
+<ChildTerm>CTCAE Grade 4 Esophagitis</ChildTerm>
+<ChildTerm>Esophagitis, Peptic</ChildTerm>
+<ChildTerm>Viral Esophagitis</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Esophagitis</ChildTerm>
+<ChildTerm>Eosinophilic Esophagitis</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Esophagitis</ChildTerm>
+<ChildTerm>Chemical Esophagitis</ChildTerm>
+<ChildTerm>CTCAE Grade 5 Esophagitis</ChildTerm>
+<ChildTerm>Bacterial Esophagitis</ChildTerm>
+<Synonym>Esophagitis Adverse Event</Synonym>
+<Synonym>esophagitis</Synonym>
+<Synonym>Esophagitis</Synonym>
+<Synonym>Esophagitides</Synonym>
+<Description>INFLAMMATION, acute or chronic, of the ESOPHAGUS caused by BACTERIA, chemicals, or TRAUMA.</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

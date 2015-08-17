@@ -1,0 +1,19 @@
+<Record>
+<Term>Rocky Mountain Spotted Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tick-Borne Diseases</ParentTerm>
+<ParentTerm>Rickettsia Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Tick-Borne Diseases/Rocky Mountain Spotted Fever</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Rickettsiaceae Infections/Rickettsia Infections/Rocky Mountain Spotted Fever</ClassificationPath>
+<BroaderTerm>Rickettsiaceae Infections</BroaderTerm>
+<BroaderTerm>Rocky Mountain Spotted Fever</BroaderTerm>
+<BroaderTerm>Tick-Borne Diseases</BroaderTerm>
+<BroaderTerm>Rickettsia Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Rocky Mountain Spotted Fever</Synonym>
+<Synonym>Sao Paulo Typhus</Synonym>
+<Description>An acute febrile illness caused by RICKETTSIA RICKETTSII. It is transmitted to humans by bites of infected ticks and occurs only in North and South America. Characteristics include a sudden onset with headache and chills and fever lasting about two to three weeks. A cutaneous rash commonly appears on the extremities and trunk about the fourth day of illness.</Description>
+<Source>MeSH</Source>
+</Record>

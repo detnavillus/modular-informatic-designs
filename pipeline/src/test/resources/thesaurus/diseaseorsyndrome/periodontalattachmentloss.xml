@@ -1,0 +1,14 @@
+<Record>
+<Term>Periodontal Attachment Loss</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Periodontal Atrophy</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Periodontal Diseases/Periodontal Atrophy/Periodontal Attachment Loss</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Periodontal Attachment Loss</BroaderTerm>
+<BroaderTerm>Periodontal Atrophy</BroaderTerm>
+<BroaderTerm>Periodontal Diseases</BroaderTerm>
+<Synonym>Periodontal Attachment Loss</Synonym>
+<Description>Loss or destruction of periodontal tissue caused by periodontitis or other destructive periodontal diseases or by injury during instrumentation. Attachment refers to the periodontal ligament which attaches to the alveolar bone. It has been hypothesized that treatment of the underlying periodontal disease and the seeding of periodontal ligament cells enable the creating of new attachment.</Description>
+<Source>MeSH</Source>
+</Record>

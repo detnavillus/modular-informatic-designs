@@ -1,0 +1,48 @@
+<Record>
+<Term>Amyotrophic Lateral Sclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>TDP-43 Proteinopathies</ParentTerm>
+<ParentTerm>Motor Neuron Disease</ParentTerm>
+<ParentTerm>Neurodegenerative Disorder</ParentTerm>
+<ParentTerm>Spinal Cord Diseases</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/Motor Neuron Disease/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Spinal Cord Diseases/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Proteostasis Deficiencies/TDP-43 Proteinopathies/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Neurodegenerative Disorder/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurodegenerative Diseases/TDP-43 Proteinopathies/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Motor Neuron Disease/Amyotrophic Lateral Sclerosis</ClassificationPath>
+<BroaderTerm>TDP-43 Proteinopathies</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Amyotrophic Lateral Sclerosis</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Motor Neuron Disease</BroaderTerm>
+<BroaderTerm>Neurodegenerative Diseases</BroaderTerm>
+<BroaderTerm>Proteostasis Deficiencies</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Neurodegenerative Disorder</BroaderTerm>
+<BroaderTerm>Spinal Cord Diseases</BroaderTerm>
+<Synonym>Amyotrophic Lateral Sclerosis</Synonym>
+<Synonym>Dementia With Amyotrophic Lateral Sclerosis</Synonym>
+<Synonym>ALS</Synonym>
+<Synonym>ALS (Amyotrophic Lateral Sclerosis)</Synonym>
+<Synonym>Guam Form of Amyotrophic Lateral Sclerosis</Synonym>
+<Synonym>Lou Gehrig Disease</Synonym>
+<Synonym>Gehrigs Disease</Synonym>
+<Synonym>Gehrig's Disease</Synonym>
+<Synonym>Lou-Gehrigs Disease</Synonym>
+<Synonym>Amyotrophic Lateral Sclerosis With Dementia</Synonym>
+<Synonym>Lou Gehrig's Disease</Synonym>
+<Synonym>Gehrig Disease</Synonym>
+<Description>A degenerative disorder affecting upper MOTOR NEURONS in the brain and lower motor neurons in the brain stem and SPINAL CORD. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, FASCICULATION, hyperreflexia, DYSARTHRIA, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous ASTROCYTES and atrophy of anterior SPINAL NERVE ROOTS and corticospinal tracts. (From Adams et al., Principles of Neurology, 6th ed, pp1089-94)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

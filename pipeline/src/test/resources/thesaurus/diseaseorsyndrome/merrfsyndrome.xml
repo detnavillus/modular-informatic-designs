@@ -1,0 +1,46 @@
+<Record>
+<Term>MERRF Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Myoclonic Epilepsies, Progressive</ParentTerm>
+<ParentTerm>Brain Diseases, Metabolic, Inborn</ParentTerm>
+<ParentTerm>Mitochondrial Encephalomyopathies</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Brain Diseases, Metabolic/Brain Diseases, Metabolic, Inborn/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Mitochondrial Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Epilepsies, Myoclonic/Myoclonic Epilepsies, Progressive/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Mitochondrial Myopathies/Mitochondrial Encephalomyopathies/MERRF Syndrome</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Brain Diseases, Metabolic, Inborn/MERRF Syndrome</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Myoclonic Epilepsies, Progressive</BroaderTerm>
+<BroaderTerm>MERRF Syndrome</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Mitochondrial Myopathies</BroaderTerm>
+<BroaderTerm>Mitochondrial Encephalomyopathies</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Epilepsies, Myoclonic</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic, Inborn</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Brain Diseases, Metabolic</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Mitochondrial Diseases</BroaderTerm>
+<Synonym>MERRF Syndrome</Synonym>
+<Synonym>Myoclonus with Epilepsy with Ragged Red Fibers</Synonym>
+<Synonym>Myoclonic Epilepsy and Ragged Red Fibers</Synonym>
+<Synonym>Fukuhara Disease</Synonym>
+<Synonym>Myoencephalopathy Ragged Red Fiber Disease</Synonym>
+<Synonym>Fukuhara Syndrome</Synonym>
+<Synonym>Myoclonic Epilepsy with Ragged Red Fibers</Synonym>
+<Synonym>Myoencephalopathy Ragged-Red Fiber Disease</Synonym>
+<Synonym>MERRF Syndromes</Synonym>
+<Description>A mitochondrial encephalomyopathy characterized clinically by a mixed seizure disorder, myoclonus, progressive ataxia, spasticity, and a mild myopathy. Dysarthria, optic atrophy, growth retardation, deafness, and dementia may also occur. This condition tends to present in childhood and to be transmitted via maternal lineage. Muscle biopsies reveal ragged-red fibers and respiratory chain enzymatic defects. (From Adams et al., Principles of Neurology, 6th ed, p986)</Description>
+<Source>MeSH</Source>
+</Record>

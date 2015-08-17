@@ -1,0 +1,29 @@
+<Record>
+<Term>Varenicline</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Nicotinic Agonist</ParentTerm>
+<ParentTerm>Cholinergic Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cholinergic Agonist/Varenicline Tartrate</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cholinergic Agonist/Nicotinic Agonist/Varenicline</ClassificationPath>
+<BroaderTerm>Varenicline</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Varenicline Tartrate</BroaderTerm>
+<BroaderTerm>Nicotinic Agonist</BroaderTerm>
+<BroaderTerm>Cholinergic Agonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Varenicline</Synonym>
+<Synonym>CP-526555</Synonym>
+<Synonym>Chantix</Synonym>
+<Synonym>Varenicline tartrate</Synonym>
+<Synonym>7,8,9,10-tetrahydro-6,10-methano-6H-pyrazino(2,3-h)(3)benzazepine (2R,3R)-2,3-dihydroxybutqanedioate</Synonym>
+<Synonym>Varenicline Tartrate</Synonym>
+<Synonym>Champix</Synonym>
+<Synonym>VARENICLINE TARTRATE</Synonym>
+<Synonym>VARENICLINE</Synonym>
+<Description>A partial agonist of the nicotinic acetylcholine receptor (nAChR) subtype alpha4beta2. Nicotine stimulation of central alpha4beta2 nAChRs located at presynaptic terminals in the nucleus accumbens causes the release of the neurotransmitter dopamine, which may be associated with the experience of pleasure; nicotine addiction constitutes a physiologic dependence related to this dopaminergic reward system. As an AChR partial agonist, varenicline attenuates the craving and withdrawal symptoms that occur with abstinence from nicotine but is not habit-forming itself.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

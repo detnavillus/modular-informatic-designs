@@ -1,0 +1,28 @@
+<Record>
+<Term>Halobetasol</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Halobetasol</ClassificationPath>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Halobetasol Propionate</ClassificationPath>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Halobetasol Propionate</BroaderTerm>
+<BroaderTerm>Halobetasol</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>HALOBETASOL</Synonym>
+<Synonym>Ultravate</Synonym>
+<Synonym>21-Chloro-6alpha,9-difluoro-11beta,17-dihydroxy-16beta-methylpregna-1,4-diene-3,20-dione 17-propionate</Synonym>
+<Synonym>Halobetasol propionate</Synonym>
+<Synonym>HALOBETASOL PROPIONATE</Synonym>
+<Synonym>Halobetasol Propionate</Synonym>
+<Synonym>Halobetasol</Synonym>
+<Description>A synthetic corticosteroid with anti-inflammatory, antipruritic, and vasoconstrictor activities. Halobetasol, a topical steroid, diffuses across cell membranes to interact with cytoplasmic corticosteroid receptors located in both the dermal and intradermal cells, thereby activating gene expression of anti-inflammatory proteins mediated via the corticosteroid receptor response element. Specifically, this agent induces phospholipase A2 inhibitory proteins, which inhibit the release of arachidonic acid, thereby inhibiting the biosynthesis of potent mediators of inflammation, such as prostaglandins and leukotrienes. As a result, halobetasol reduces edema, erythema, and pruritus through its cutaneous effects on vascular dilation and permeability.</Description>
+<Description>The propionate salt form of halobetasol, a synthetic corticosteroid with anti-inflammatory, antipruritic, and vasoconstrictor activities. Halobetasol, a topical steroid, diffuses across cell membranes to interact with cytoplasmic corticosteroid receptors located in both the dermal and intradermal cells, thereby activating gene expression of anti-inflammatory proteins mediated via corticosteroid receptor response element. Specifically, this agent induces phospholipase A2 inhibitory proteins, which inhibit the release of arachidonic acid, thereby inhibiting the biosynthesis of potent mediators of inflammation, such as prostaglandins and leukotrienes. As a result, halobetasol reduces edema, erythema, and pruritus through its cutaneous effects on vascular dilation and permeability.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Hypertrophic Gastritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Gastritis</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Gastroenteritis/Gastritis/Gastritis, Hypertrophic</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Stomach Diseases/Gastritis/Gastritis, Hypertrophic</ClassificationPath>
+<BroaderTerm>Stomach Diseases</BroaderTerm>
+<BroaderTerm>Gastroenteritis</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Gastritis</BroaderTerm>
+<BroaderTerm>Gastritis, Hypertrophic</BroaderTerm>
+<Synonym>Menetrier Disease</Synonym>
+<Synonym>Giant Hypertrophic Gastritis</Synonym>
+<Synonym>Hypertrophic Gastritis</Synonym>
+<Description>GASTRITIS with HYPERTROPHY of the GASTRIC MUCOSA. It is characterized by giant gastric folds, diminished acid secretion, excessive MUCUS secretion, and HYPOPROTEINEMIA. Symptoms include VOMITING; DIARRHEA; and WEIGHT LOSS.</Description>
+<Source>MeSH</Source>
+</Record>

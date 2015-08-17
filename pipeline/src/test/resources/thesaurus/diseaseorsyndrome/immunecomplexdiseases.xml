@@ -1,0 +1,19 @@
+<Record>
+<Term>Immune Complex Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hypersensitivity</ParentTerm>
+<ClassificationPath>Immune System Diseases/Hypersensitivity/Immune Complex Diseases</ClassificationPath>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Immune Complex Diseases</BroaderTerm>
+<BroaderTerm>Hypersensitivity</BroaderTerm>
+<ChildTerm>Arthus Reaction</ChildTerm>
+<ChildTerm>Purpura, Schoenlein-Henoch</ChildTerm>
+<ChildTerm>Serum Sickness</ChildTerm>
+<ChildTerm>Vasculitis, Leukocytoclastic, Cutaneous</ChildTerm>
+<Synonym>Immune Complex Diseases</Synonym>
+<Synonym>Immune Complex Disease</Synonym>
+<Synonym>Type III Hypersensitivity</Synonym>
+<Synonym>Type III Hypersensitivities</Synonym>
+<Description>Group of diseases mediated by the deposition of large soluble complexes of antigen and antibody with resultant damage to tissue. Besides SERUM SICKNESS and the ARTHUS REACTION, evidence supports a pathogenic role for immune complexes in many other IMMUNE SYSTEM DISEASES including GLOMERULONEPHRITIS, systemic lupus erythematosus (LUPUS ERYTHEMATOSUS, SYSTEMIC) and POLYARTERITIS NODOSA.</Description>
+<Source>MeSH</Source>
+</Record>

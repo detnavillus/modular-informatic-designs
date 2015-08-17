@@ -1,0 +1,20 @@
+<Record>
+<Term>Ipratropium Cation</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Bronchodilator</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anti-asthmatic Agent/Bronchodilator/Ipratropium Cation,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Ipratropium Cation</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Anti-asthmatic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Bronchodilator</BroaderTerm>
+<BroaderTerm>Ipratropium Cation</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Ipratropium Cation,</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>IPRATROPIUM CATION</Synonym>
+<Synonym>Ipratropium Cation</Synonym>
+<Description>A synthetic derivative of the alkaloid atropine with anticholinergic properties. Ipratropium antagonizes the actions of acetylcholine at parasympathetic postganglionic effector cell junctions. When inhaled, ipratropium binds competitively to cholinergic receptors in the bronchial smooth muscle thereby blocking the bronchoconstrictor actions of the acetylcholine (Ach) mediated vagal impulses. Inhibition of the vagal tone leads to dilation of the large central airways resulting in bronchodilation.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

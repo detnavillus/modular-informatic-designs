@@ -1,0 +1,26 @@
+<Record>
+<Term>Cholesteatoma</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Keratosis</ParentTerm>
+<ParentTerm>Non-Neoplastic Head and Neck Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Head and Neck Disorder/Cholesteatoma</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Keratosis/Cholesteatoma</ClassificationPath>
+<BroaderTerm>Cholesteatoma</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Keratosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Head and Neck Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Maxillary Sinus Cholesteatoma</ChildTerm>
+<ChildTerm>Middle Ear Cholesteatoma</ChildTerm>
+<ChildTerm>Cholesteatoma, Middle Ear</ChildTerm>
+<Synonym>Cholesteatoma</Synonym>
+<Synonym>Cholesteatomas</Synonym>
+<Description>A non-neoplastic mass of keratin-producing squamous EPITHELIUM, frequently occurring in the MENINGES; bones of the skull, and most commonly in the MIDDLE EAR and MASTOID region. Cholesteatoma can be congenital or acquired.  Cholesteatoma is not a tumor nor is it associated with high CHOLESTEROL.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

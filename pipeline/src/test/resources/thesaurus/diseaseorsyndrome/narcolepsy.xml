@@ -1,0 +1,28 @@
+<Record>
+<Term>Narcolepsy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Disorders of Excessive Somnolence</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence/Narcolepsy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Dyssomnias/Sleep Disorders, Intrinsic/Disorders of Excessive Somnolence/Narcolepsy</ClassificationPath>
+<BroaderTerm>Dyssomnias</BroaderTerm>
+<BroaderTerm>Disorders of Excessive Somnolence</BroaderTerm>
+<BroaderTerm>Narcolepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders, Intrinsic</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Cataplexy</ChildTerm>
+<Synonym>Narcoleptic Syndrome</Synonym>
+<Synonym>Narcolepsy-Cataplexy Syndrome</Synonym>
+<Synonym>Gelineau's Syndrome</Synonym>
+<Synonym>Narcoleptic Syndromes</Synonym>
+<Synonym>Gelineau's Syndromes</Synonym>
+<Synonym>Narcolepsy-Cataplexy Syndromes</Synonym>
+<Synonym>Narcolepsy</Synonym>
+<Synonym>Gelineau Syndrome</Synonym>
+<Synonym>Narcolepsy Cataplexy Syndrome</Synonym>
+<Synonym>Gelineaus Syndrome</Synonym>
+<Synonym>Paroxysmal Sleep</Synonym>
+<Description>A condition characterized by recurrent episodes of daytime somnolence and lapses in consciousness (microsomnias) that may be associated with automatic behaviors and AMNESIA. CATAPLEXY; SLEEP PARALYSIS, and hypnagogic HALLUCINATIONS frequently accompany narcolepsy. The pathophysiology of this disorder includes sleep-onset rapid eye movement (REM) sleep, which normally follows stage III or IV sleep. (From Neurology 1998 Feb;50(2 Suppl 1):S2-S7)</Description>
+<Source>MeSH</Source>
+</Record>

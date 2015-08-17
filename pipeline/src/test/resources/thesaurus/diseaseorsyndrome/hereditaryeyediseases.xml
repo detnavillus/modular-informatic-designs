@@ -1,0 +1,28 @@
+<Record>
+<Term>Hereditary Eye Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Genetic Diseases, Inborn</ParentTerm>
+<ParentTerm>Eye Diseases</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Eye Diseases, Hereditary</ClassificationPath>
+<ClassificationPath>Eye Diseases/Eye Diseases, Hereditary</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Eye Diseases, Hereditary</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<ChildTerm>Leber Congenital Amaurosis</ChildTerm>
+<ChildTerm>Choroideremia</ChildTerm>
+<ChildTerm>Duane Retraction Syndrome</ChildTerm>
+<ChildTerm>Optic Atrophies, Hereditary</ChildTerm>
+<ChildTerm>Retinitis Pigmentosa</ChildTerm>
+<ChildTerm>Albinism</ChildTerm>
+<ChildTerm>Corneal Dystrophies, Hereditary</ChildTerm>
+<ChildTerm>Graves Ophthalmopathy</ChildTerm>
+<ChildTerm>Weill-Marchesani Syndrome</ChildTerm>
+<ChildTerm>Retinal Dysplasia</ChildTerm>
+<ChildTerm>Gyrate Atrophy</ChildTerm>
+<ChildTerm>Aniridia</ChildTerm>
+<Synonym>Hereditary Eye Diseases</Synonym>
+<Synonym>Hereditary Eye Disease</Synonym>
+<Description>Transmission of gene defects or chromosomal aberrations/abnormalities which are expressed in extreme variation in the structure or function of the eye. These may be evident at birth, but may be manifested later with progression of the disorder.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,26 @@
+<Record>
+<Term>Status Epilepticus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Epilepsy</ParentTerm>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Epilepsy/Status Epilepticus</ClassificationPath>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Status Epilepticus</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<BroaderTerm>Epilepsy</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Epilepsia Partialis Continua</ChildTerm>
+<Synonym>Status Epilepticus</Synonym>
+<Synonym>Generalized Status Epilepticus</Synonym>
+<Synonym>Grand Mal Status Epilepticus</Synonym>
+<Synonym>Generalized Convulsive Status Epilepticus</Synonym>
+<Synonym>Non-Convulsive Status Epilepticus</Synonym>
+<Synonym>Non Convulsive Status Epilepticus</Synonym>
+<Synonym>Subclinical Status Epilepticus</Synonym>
+<Synonym>Electrographic Status Epilepticus</Synonym>
+<Synonym>Simple Partial Status Epilepticus</Synonym>
+<Synonym>Complex Partial Status Epilepticus</Synonym>
+<Synonym>Petit Mal Status</Synonym>
+<Synonym>Absence Status</Synonym>
+<Description>A prolonged seizure or seizures repeated frequently enough to prevent recovery between episodes occurring over a period of 20-30 minutes. The most common subtype is generalized tonic-clonic status epilepticus, a potentially fatal condition associated with neuronal injury and respiratory and metabolic dysfunction. Nonconvulsive forms include petit mal status and complex partial status, which may manifest as behavioral disturbances. Simple partial status epilepticus consists of persistent motor, sensory, or autonomic seizures that do not impair cognition (see also EPILEPSIA PARTIALIS CONTINUA). Subclinical status epilepticus generally refers to seizures occurring in an unresponsive or comatose individual in the absence of overt signs of seizure activity. (From N Engl J Med 1998 Apr 2;338(14):970-6; Neurologia 1997 Dec;12 Suppl 6:25-30)</Description>
+<Source>MeSH</Source>
+</Record>

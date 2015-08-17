@@ -1,0 +1,24 @@
+<Record>
+<Term>Chondrodysplasia Punctata</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Osteochondrodysplasias</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Bone Diseases, Developmental/Osteochondrodysplasias/Chondrodysplasia Punctata</ClassificationPath>
+<BroaderTerm>Chondrodysplasia Punctata</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases, Developmental</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<BroaderTerm>Osteochondrodysplasias</BroaderTerm>
+<ChildTerm>Chondrodysplasia Punctata, Rhizomelic</ChildTerm>
+<Synonym>Chondrodysplasia Punctata</Synonym>
+<Synonym>Stippled Epiphyses</Synonym>
+<Synonym>Chondrodystrophia Calcificans Congenita</Synonym>
+<Synonym>Dysplasia Epiphysialis Punctata</Synonym>
+<Synonym>Hunermann-Conradi Syndrome</Synonym>
+<Synonym>Hunermann Conradi Syndrome</Synonym>
+<Synonym>Conradi-Hunermann Syndrome</Synonym>
+<Synonym>Conradi Hunermann Syndrome</Synonym>
+<Synonym>Happle Syndrome</Synonym>
+<Synonym>Conradi Hunermann Happle Syndrome</Synonym>
+<Description>A heterogeneous group of bone dysplasias, the common character of which is stippling of the epiphyses in infancy. The group includes a severe autosomal recessive form (CHONDRODYSPLASIA PUNCTATA, RHIZOMELIC), an autosomal dominant form (Conradi-Hunermann syndrome), and a milder X-linked form. Metabolic defects associated with impaired peroxisomes are present only in the rhizomelic form.</Description>
+<Source>MeSH</Source>
+</Record>

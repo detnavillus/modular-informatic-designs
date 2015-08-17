@@ -1,0 +1,40 @@
+<Record>
+<Term>Focal Segmental Glomerulosclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glomerulonephritis</ParentTerm>
+<ParentTerm>Nephropathy</ParentTerm>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulosclerosis, Focal Segmental</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Urinary System Disorder/Renal Disorder/Non-Neoplastic Renal Disorder/Nephropathy/Focal Segmental Glomerulosclerosis</ClassificationPath>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulosclerosis, Focal Segmental</ClassificationPath>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Glomerulosclerosis, Focal Segmental</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Renal Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Nephropathy</BroaderTerm>
+<BroaderTerm>Focal Segmental Glomerulosclerosis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Urinary System Disorder</BroaderTerm>
+<BroaderTerm>Renal Disorder</BroaderTerm>
+<ChildTerm>Primary Focal Segmental Glomerulosclerosis</ChildTerm>
+<ChildTerm>HIV-Associated Nephropathy</ChildTerm>
+<ChildTerm>Chronic Allograft Nephropathy</ChildTerm>
+<ChildTerm>Secondary Focal Segmental Glomerulosclerosis</ChildTerm>
+<Synonym>Segmental Hyalinosis</Synonym>
+<Synonym>FSGS</Synonym>
+<Synonym>Focal Sclerosing Glomerulonephritis</Synonym>
+<Synonym>Focal Segmental Glomerulosclerosis</Synonym>
+<Synonym>Focal Glomerulosclerosis</Synonym>
+<Synonym>Segmental Glomerular Hyalinosis</Synonym>
+<Synonym>Focal Sclerosing Glomerulonephritides</Synonym>
+<Description>A clinicopathological syndrome or diagnostic term for a type of glomerular injury that has multiple causes, primary or secondary. Clinical features include PROTEINURIA, reduced GLOMERULAR FILTRATION RATE, and EDEMA. Kidney biopsy initially indicates focal segmental glomerular consolidation (hyalinosis) or scarring which can progress to globally sclerotic glomeruli leading to eventual KIDNEY FAILURE.Segmental glomerular degeneration with a glassy appearance (hyalinosis) caused by the accumulation of plasma proteins in the glomeruli.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

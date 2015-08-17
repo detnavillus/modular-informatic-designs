@@ -1,0 +1,23 @@
+<Record>
+<Term>Non-Neoplastic Tracheal Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tracheal Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Tracheal Disorder/Non-Neoplastic Tracheal Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Respiratory Disorder/Non-Neoplastic Respiratory Disorder/Non-Neoplastic Tracheal Disorder</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Tracheal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Tracheal Disorder,</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Respiratory Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Tracheal Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Tracheal Calcification</ChildTerm>
+<ChildTerm>Tracheal Agenesis</ChildTerm>
+<ChildTerm>Tracheal Atresia</ChildTerm>
+<Synonym>Non-Neoplastic Tracheal Disease</Synonym>
+<Synonym>Non-Neoplastic Tracheal Disorder</Synonym>
+<Source>NCI Thesaurus</Source>
+</Record>

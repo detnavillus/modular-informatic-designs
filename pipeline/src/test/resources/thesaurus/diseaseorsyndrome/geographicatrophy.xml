@@ -1,0 +1,17 @@
+<Record>
+<Term>Geographic Atrophy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Macular Degeneration</ParentTerm>
+<ClassificationPath>Eye Diseases/Retinal Diseases/Retinal Degeneration/Macular Degeneration/Geographic Atrophy</ClassificationPath>
+<BroaderTerm>Macular Degeneration</BroaderTerm>
+<BroaderTerm>Geographic Atrophy</BroaderTerm>
+<BroaderTerm>Retinal Diseases</BroaderTerm>
+<BroaderTerm>Retinal Degeneration</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<Synonym>Geographic Atrophy</Synonym>
+<Synonym>Geographic Atrophies</Synonym>
+<Synonym>Dry Macular Degeneration</Synonym>
+<Synonym>Dry Macular Degenerations</Synonym>
+<Description>A form of MACULAR DEGENERATION also known as dry macular degeneration marked by occurrence of a well-defined progressive lesion or atrophy in the central part of the RETINA called the MACULA LUTEA. It is distinguishable from WET MACULAR DEGENERATION in that the latter involves neovascular exudates.</Description>
+<Source>MeSH</Source>
+</Record>

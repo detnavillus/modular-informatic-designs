@@ -1,0 +1,21 @@
+<Record>
+<Term>Ethmoid Sinusitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Sinusitis</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Sinusitis/Ethmoid Sinusitis</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Ethmoid Sinusitis</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Nose Diseases/Paranasal Sinus Diseases/Sinusitis/Ethmoid Sinusitis</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Nose Diseases</BroaderTerm>
+<BroaderTerm>Paranasal Sinus Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Sinusitis</BroaderTerm>
+<BroaderTerm>Ethmoid Sinusitis</BroaderTerm>
+<Synonym>Ethmoidal Sinusitis</Synonym>
+<Synonym>Ethmoid Sinusitides</Synonym>
+<Synonym>Ethmoid Sinusitis</Synonym>
+<Synonym>Ethmoidal Sinusitides</Synonym>
+<Description>Inflammation of the NASAL MUCOSA in the ETHMOID SINUS. It may present itself as an acute (infectious) or chronic (allergic) condition.</Description>
+<Source>MeSH</Source>
+</Record>

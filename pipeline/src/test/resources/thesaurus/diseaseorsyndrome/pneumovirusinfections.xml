@@ -1,0 +1,16 @@
+<Record>
+<Term>Pneumovirus Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paramyxoviridae Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Pneumovirus Infections</ClassificationPath>
+<BroaderTerm>Pneumovirus Infections</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<ChildTerm>Respiratory Syncytial Virus Infections</ChildTerm>
+<Synonym>Pneumovirus Infections</Synonym>
+<Synonym>Pneumovirus Infection</Synonym>
+<Description>Infections with viruses of the genus PNEUMOVIRUS, family PARAMYXOVIRIDAE. This includes RESPIRATORY SYNCYTIAL VIRUS INFECTIONS, an important cause of respiratory disease in humans.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,18 @@
+<Record>
+<Term>Daniplestim</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Recombinant Interleukin</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Recombinant Cytokine/Recombinant Interleukin/Daniplestim</ClassificationPath>
+<BroaderTerm>Recombinant Interleukin</BroaderTerm>
+<BroaderTerm>Recombinant Cytokine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Daniplestim</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Daniplestim</Synonym>
+<Synonym>SC-55494</Synonym>
+<Synonym>Synthokine</Synonym>
+<Description>A synthetic cytokine and interleukin-3 (IL-3) receptor agonist with enhanced hematopoietic potency. Daniplestim exhibits 10- to 20-fold greater biological activity than recombinant human IL-3 in human hematopoietic cell proliferation and marrow colony-forming-unit assays. In contrast, this agent shows no significant increase in pro-inflammatory activity relative to native IL-3. The enhanced hematopoietic activity of daniplestim correlates with a 60-fold increase in IL-3 alpha-subunit binding affinity and 20-fold greater affinity for binding to alpha/beta receptor complexes on intact cells relative to recombinant IL-3.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Q Fever</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bacterial Infection</ParentTerm>
+<ParentTerm>Gram-Negative Bacterial Infections</ParentTerm>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Negative Bacterial Infections/Q Fever</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Bacterial Infection/Q Fever</ClassificationPath>
+<BroaderTerm>Bacterial Infection</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Q Fever</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Gram-Negative Bacterial Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Coxiella burnetii Fever</Synonym>
+<Synonym>Q Fever</Synonym>
+<Synonym>Query Fevers</Synonym>
+<Synonym>Query Fever</Synonym>
+<Synonym>Q Fevers</Synonym>
+<Synonym>Coxiella burnetii Fevers</Synonym>
+<Description>An acute infectious disease caused by COXIELLA BURNETII. It is characterized by a sudden onset of FEVER; HEADACHE; malaise; and weakness. In humans, it is commonly contracted by inhalation of infected dusts derived from infected domestic animals (ANIMALS, DOMESTIC).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

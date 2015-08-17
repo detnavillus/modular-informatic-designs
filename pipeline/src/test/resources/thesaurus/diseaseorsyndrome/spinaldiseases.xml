@@ -1,0 +1,24 @@
+<Record>
+<Term>Spinal Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Bone Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Bone Diseases/Spinal Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Spinal Diseases</BroaderTerm>
+<BroaderTerm>Bone Diseases</BroaderTerm>
+<ChildTerm>Spinal Osteophytosis</ChildTerm>
+<ChildTerm>Platybasia</ChildTerm>
+<ChildTerm>Spinal Curvatures</ChildTerm>
+<ChildTerm>Spinal Osteochondrosis</ChildTerm>
+<ChildTerm>Spinal Neoplasms</ChildTerm>
+<ChildTerm>Spinal Stenosis</ChildTerm>
+<ChildTerm>Spondylitis</ChildTerm>
+<ChildTerm>Spondylosis</ChildTerm>
+<ChildTerm>Ossification of Posterior Longitudinal Ligament</ChildTerm>
+<ChildTerm>Posterior Cervical Sympathetic Syndrome</ChildTerm>
+<ChildTerm>Intervertebral Disk Degeneration</ChildTerm>
+<ChildTerm>Intervertebral Disk Displacement</ChildTerm>
+<Synonym>Spinal Diseases</Synonym>
+<Synonym>Spinal Disease</Synonym>
+<Source>MeSH</Source>
+</Record>

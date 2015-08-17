@@ -1,0 +1,23 @@
+<Record>
+<Term>Terrorism</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<SemanticType>Social Behavior</SemanticType>
+<ParentTerm>Violence</ParentTerm>
+<ClassificationPath>Social Sciences/Sociology/Social Problems/Violence/Terrorism</ClassificationPath>
+<ClassificationPath>Social Sciences/Criminology/Crime/Violence/Terrorism</ClassificationPath>
+<BroaderTerm>Crime</BroaderTerm>
+<BroaderTerm>Sociology</BroaderTerm>
+<BroaderTerm>Criminology</BroaderTerm>
+<BroaderTerm>Terrorism</BroaderTerm>
+<BroaderTerm>Violence</BroaderTerm>
+<BroaderTerm>Social Sciences</BroaderTerm>
+<BroaderTerm>Social Problems</BroaderTerm>
+<ChildTerm>Chemical Terrorism</ChildTerm>
+<ChildTerm>September 11 Terrorist Attacks</ChildTerm>
+<ChildTerm>Mass Casualty Incidents</ChildTerm>
+<ChildTerm>Bioterrorism</ChildTerm>
+<Synonym>Terrorism</Synonym>
+<Synonym>Radioactive Terrorism</Synonym>
+<Description>The use or threatened use of force or violence against persons or property in violation of criminal laws for purposes of intimidation, coercion, or ransom, in support of political or social objectives.Use of radioactive agents in TERRORISM.</Description>
+<Source>MeSH</Source>
+</Record>

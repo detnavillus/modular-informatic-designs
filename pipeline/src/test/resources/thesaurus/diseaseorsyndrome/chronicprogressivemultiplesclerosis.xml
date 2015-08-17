@@ -1,0 +1,23 @@
+<Record>
+<Term>Chronic Progressive Multiple Sclerosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Multiple Sclerosis</ParentTerm>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Chronic Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Demyelinating Diseases/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Chronic Progressive</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Autoimmune Diseases of the Nervous System/Demyelinating Autoimmune Diseases, CNS/Multiple Sclerosis/Multiple Sclerosis, Chronic Progressive</ClassificationPath>
+<BroaderTerm>Demyelinating Autoimmune Diseases, CNS</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases of the Nervous System</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis, Chronic Progressive</BroaderTerm>
+<BroaderTerm>Demyelinating Diseases</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Multiple Sclerosis</BroaderTerm>
+<Synonym>Progressive Relapsing Multiple Sclerosis</Synonym>
+<Synonym>Primary Progressive Multiple Sclerosis</Synonym>
+<Synonym>Remittent Progressive Multiple Sclerosis</Synonym>
+<Synonym>Secondary Progressive Multiple Sclerosis</Synonym>
+<Synonym>Chronic Progressive Multiple Sclerosis</Synonym>
+<Description>A form of multiple sclerosis characterized by a progressive deterioration in neurologic function which is in contrast to the more typical relapsing remitting form. If the clinical course is free of distinct remissions, it is referred to as primary progressive multiple sclerosis. When the progressive decline is punctuated by acute exacerbations, it is referred to as progressive relapsing multiple sclerosis. The term secondary progressive multiple sclerosis is used when relapsing remitting multiple sclerosis evolves into the chronic progressive form. (From Ann Neurol 1994;36 Suppl:S73-S79; Adams et al., Principles of Neurology, 6th ed, pp903-914)</Description>
+<Source>MeSH</Source>
+</Record>

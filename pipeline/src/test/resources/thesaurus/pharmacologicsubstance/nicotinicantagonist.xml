@@ -1,0 +1,27 @@
+<Record>
+<Term>Nicotinic Antagonist</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Anticholinergic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticholinergic Agent/Nicotinic Antagonist</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticholinergic Agent</BroaderTerm>
+<BroaderTerm>Nicotinic Antagonist</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Pempidine</ChildTerm>
+<ChildTerm>Trimethaphan Camsylate</ChildTerm>
+<ChildTerm>Dropempine</ChildTerm>
+<ChildTerm>Gallamine Triethiodide</ChildTerm>
+<ChildTerm>Dimecolonium Iodide</ChildTerm>
+<ChildTerm>Pentolinium Tartrate</ChildTerm>
+<ChildTerm>Fubrogonium Iodide</ChildTerm>
+<ChildTerm>Mecamylamine</ChildTerm>
+<ChildTerm>Fosopamine</ChildTerm>
+<ChildTerm>Azamethonium</ChildTerm>
+<ChildTerm>Hexamethonium Iodide</ChildTerm>
+<Synonym>Nicotinic Antagonist</Synonym>
+<Synonym>Nicotinic Cholinergic Antagonist</Synonym>
+<Description>Natural or synthetic compounds inhibiting acetylcholine neurotransmitter action at nicotinic receptors, which are ionotropic receptors that form ligand-gated ion channels in cells' plasma membranes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

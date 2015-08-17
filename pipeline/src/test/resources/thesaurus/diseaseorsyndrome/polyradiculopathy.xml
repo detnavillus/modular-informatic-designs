@@ -1,0 +1,32 @@
+<Record>
+<Term>Polyradiculopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Polyradiculoneuropathy</ParentTerm>
+<ParentTerm>Non-Neoplastic Central Nervous System Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Nervous System Disorder/Non-Neoplastic Central Nervous System Disorder/Polyradiculopathy</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Peripheral Nervous System Diseases/Polyneuropathies/Polyradiculoneuropathy/Polyradiculopathy</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Nervous System Disorder</BroaderTerm>
+<BroaderTerm>Polyradiculoneuropathy</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Polyradiculopathy</BroaderTerm>
+<BroaderTerm>Polyneuropathies</BroaderTerm>
+<BroaderTerm>Peripheral Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Central Nervous System Disorder</BroaderTerm>
+<Synonym>Cauda Equina Syndrome</Synonym>
+<Synonym>Polyradiculitides</Synonym>
+<Synonym>Polyradiculopathies</Synonym>
+<Synonym>Polyradiculopathy</Synonym>
+<Synonym>Polyradiculitis</Synonym>
+<Synonym>Abdominal Polyradiculopathies</Synonym>
+<Synonym>Abdominal Polyradiculopathy</Synonym>
+<Synonym>Cauda Equina Syndromes</Synonym>
+<Description>Disease or injury involving multiple SPINAL NERVE ROOTS. Polyradiculitis refers to inflammation of multiple spinal nerve roots.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

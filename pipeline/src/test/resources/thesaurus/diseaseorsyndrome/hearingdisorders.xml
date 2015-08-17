@@ -1,0 +1,30 @@
+<Record>
+<Term>Hearing Disorders</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Neoplastic Process</SemanticType>
+<SemanticType>Sign or Symptom</SemanticType>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ParentTerm>Sensation Disorders</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Signs and Symptoms/Neurologic Manifestations/Sensation Disorders/Hearing Disorders</ClassificationPath>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Hearing Disorders</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Sensation Disorders/Hearing Disorders</ClassificationPath>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Hearing Disorders</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Sensation Disorders</BroaderTerm>
+<ChildTerm>Tinnitus</ChildTerm>
+<ChildTerm>Hearing Loss</ChildTerm>
+<ChildTerm>Hyperacusis</ChildTerm>
+<Synonym>Paracusis</Synonym>
+<Synonym>Paracousis</Synonym>
+<Synonym>Hearing Disorders</Synonym>
+<Synonym>Dysacusis</Synonym>
+<Synonym>Distorted Hearing</Synonym>
+<Synonym>Hearing Disorder</Synonym>
+<Description>Conditions that impair the transmission of auditory impulses and information from the level of the ear to the temporal cortices, including the sensorineural pathways.</Description>
+<Source>MeSH</Source>
+</Record>

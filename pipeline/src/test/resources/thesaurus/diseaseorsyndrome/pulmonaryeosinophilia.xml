@@ -1,0 +1,27 @@
+<Record>
+<Term>Pulmonary Eosinophilia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Hypereosinophilic Syndrome</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Pulmonary Eosinophilia</ClassificationPath>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Eosinophilia/Hypereosinophilic Syndrome/Pulmonary Eosinophilia</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Eosinophilia</BroaderTerm>
+<BroaderTerm>Hypereosinophilic Syndrome</BroaderTerm>
+<BroaderTerm>Pulmonary Eosinophilia</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Simple Pulmonary Eosinophilias</Synonym>
+<Synonym>Loeffler Syndrome</Synonym>
+<Synonym>Simple Pulmonary Eosinophilia</Synonym>
+<Synonym>Eosinophilic Pneumonias</Synonym>
+<Synonym>Pulmonary Eosinophilias</Synonym>
+<Synonym>Eosinophilic Pneumonia</Synonym>
+<Synonym>Pulmonary Eosinophilia</Synonym>
+<Synonym>Tropical Eosinophilic Pneumonias</Synonym>
+<Synonym>Tropical Eosinophilic Pneumonia</Synonym>
+<Description>A condition characterized by infiltration of the lung with EOSINOPHILS due to inflammation or other disease processes. Major eosinophilic lung diseases are the eosinophilic pneumonias caused by infections, allergens, or toxic agents.Pulmonary eosinophilia or pneumonia caused by parasitic infections in tropical areas .</Description>
+<Source>MeSH</Source>
+</Record>

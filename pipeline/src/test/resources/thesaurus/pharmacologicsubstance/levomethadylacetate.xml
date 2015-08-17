@@ -1,0 +1,31 @@
+<Record>
+<Term>Levomethadyl Acetate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Opioid Receptor Agonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Opioid Receptor Agonist/Levomethadyl Acetate Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Alkaloid/Opioid/Levomethadyl Acetate Hydrochloride,/NCIThesaurus/Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Analgesic Agent/Levomethadyl Acetate Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Alkaloid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Opioid</BroaderTerm>
+<BroaderTerm>Opioid Receptor Agonist</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Analgesic Agent</BroaderTerm>
+<BroaderTerm>Levomethadyl Acetate Hydrochloride,</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Levomethadyl Acetate Hydrochloride</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Orlaam</Synonym>
+<Synonym>Levomethadyl acetate</Synonym>
+<Synonym>l-Acetylmethadol Hydrochloride</Synonym>
+<Synonym>Benzeneethanol, beta-(2-(dimethylamino)propyl)-alpha-ethyl-beta-phenyl-, Acetate(Ester)</Synonym>
+<Synonym>Levomethadyl acetate hydrochloride</Synonym>
+<Synonym>Levomethadyl Acetate Hydrochloride</Synonym>
+<Synonym>3-Heptanol, 6-(dimethylamino)-4,4-diphenyl-, Acetate (Ester), (3S,6S)-(-)-</Synonym>
+<Synonym>LEVOMETHADYL ACETATE HYDROCHLORIDE</Synonym>
+<Description>The hydrochloride salt form of levomethadyl acetate, a synthetic mu-receptor agonist with analgesic activity. Levomethadyl acetate hydrochloride mimics the actions of endogenous peptides at CNS opioid receptors, including analgesia, euphoria, sedation, respiratory depression, miosis, bradycardia and physical dependence. Levomethadyl acetate hydrochloride has less severe withdrawal symptoms compared to the morphine-like agents. In addition, with chronic use, levomethadyl acetate hydrochloride produces cross-tolerance to the effects of other mu-receptor agonists, thereby decreasing the physical dependence.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

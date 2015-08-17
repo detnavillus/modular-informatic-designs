@@ -1,0 +1,26 @@
+<Record>
+<Term>Acanthosis Nigricans</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Melanosis</ParentTerm>
+<ParentTerm>Dermatitis</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Skin Disorder/Non-Neoplastic Skin Disorder/Dermatosis/Dermatitis/Acanthosis Nigricans</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Pigmentation Disorders/Hyperpigmentation/Melanosis/Acanthosis Nigricans</ClassificationPath>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Skin Disorder</BroaderTerm>
+<BroaderTerm>Hyperpigmentation</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Dermatosis</BroaderTerm>
+<BroaderTerm>Melanosis</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Acanthosis Nigricans</BroaderTerm>
+<BroaderTerm>Pigmentation Disorders</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Dermatitis</BroaderTerm>
+<BroaderTerm>Skin Disorder</BroaderTerm>
+<Synonym>Acanthosis Nigricans</Synonym>
+<Description>A circumscribed melanosis consisting of a brown-pigmented, velvety verrucosity or fine papillomatosis appearing in the axillae and other body folds. It occurs in association with endocrine disorders, underlying malignancy, administration of certain drugs, or as in inherited disorder.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

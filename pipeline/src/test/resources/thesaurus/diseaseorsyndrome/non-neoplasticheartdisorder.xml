@@ -1,0 +1,44 @@
+<Record>
+<Term>Non-Neoplastic Heart Disorder</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Non-Neoplastic Thoracic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Heart Disorder/Non-Neoplastic Heart Disorder,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Cardiovascular Disorder/Non-Neoplastic Heart Disorder</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder,</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Cardiovascular Disorder</BroaderTerm>
+<ChildTerm>Pre-Excitation Syndrome</ChildTerm>
+<ChildTerm>Cardiac Arrest</ChildTerm>
+<ChildTerm>Cardiomegaly</ChildTerm>
+<ChildTerm>Chronic Pulmonary Heart Disease</ChildTerm>
+<ChildTerm>Ostium Primum Defect</ChildTerm>
+<ChildTerm>Ischemic Heart Disease</ChildTerm>
+<ChildTerm>Coronary Disease</ChildTerm>
+<ChildTerm>Endomyocardial Fibrosis</ChildTerm>
+<ChildTerm>Endocarditis</ChildTerm>
+<ChildTerm>Short QT Syndrome</ChildTerm>
+<ChildTerm>Heart Failure</ChildTerm>
+<ChildTerm>Arrhythmia</ChildTerm>
+<ChildTerm>Sinus Node Dysfunction</ChildTerm>
+<ChildTerm>Rheumatic Heart Disease</ChildTerm>
+<ChildTerm>Cardiac Sarcoidosis</ChildTerm>
+<ChildTerm>Left Ventricular Systolic Dysfunction</ChildTerm>
+<ChildTerm>Long QT Syndrome</ChildTerm>
+<ChildTerm>Valvular Heart Disorder</ChildTerm>
+<ChildTerm>Atrial Septum Lipomatous Hypertrophy</ChildTerm>
+<ChildTerm>Congestive Heart Failure</ChildTerm>
+<ChildTerm>Myocardial Disorder</ChildTerm>
+<Synonym>Non-Neoplastic Heart Disorder</Synonym>
+<Description>Any deviation from the normal structure or function of the cardiac system, other than those caused by neoplastic processes.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

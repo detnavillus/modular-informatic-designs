@@ -1,0 +1,18 @@
+<Record>
+<Term>Milfasartan</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Angiotensin II Receptor Antagonist</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Cardiovascular Agent/Antihypertensive Agent/Angiotensin II Receptor Antagonist/Milfasartan</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Milfasartan</BroaderTerm>
+<BroaderTerm>Cardiovascular Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Angiotensin II Receptor Antagonist</BroaderTerm>
+<BroaderTerm>Antihypertensive Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>MILFASARTAN</Synonym>
+<Synonym>Milfasartan</Synonym>
+<Description>A nonpeptide angiotensin II receptor antagonist with antihypertensive activity. Milfasartan selectively competes with angiotensin II for the binding of the angiotensin II (AT1) receptor subtype 1 in vascular smooth muscle, thereby blocking angiotensin II-mediated vasoconstriction resulting in vascular dilatation. In addition, the antagonistic effect on AT1 in the adrenal gland, prevents angiotensin II-induced stimulation of aldosterone synthesis and secretion by the adrenal cortex. This blocks the effects of aldosterone leading to an increase in sodium excretion and water and eventually a reduction in plasma volume and blood pressure.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

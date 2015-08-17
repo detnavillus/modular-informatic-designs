@@ -1,0 +1,34 @@
+<Record>
+<Term>Hepatitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Liver Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Hepatic Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Hepatic Disorder/Hepatitis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Liver Diseases/Hepatitis</ClassificationPath>
+<BroaderTerm>Liver Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Hepatitis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Hepatic Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Viral Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis, Viral, Human</ChildTerm>
+<ChildTerm>Acute Hepatitis</ChildTerm>
+<ChildTerm>Granulomatous Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis, Alcoholic</ChildTerm>
+<ChildTerm>Autoimmune Hepatitis</ChildTerm>
+<ChildTerm>Hepatitis, Chronic</ChildTerm>
+<ChildTerm>Hepatitis, Animal</ChildTerm>
+<ChildTerm>Alcoholic Hepatitis</ChildTerm>
+<Synonym>hepatitis</Synonym>
+<Synonym>Hepatitis</Synonym>
+<Synonym>Hepatitides</Synonym>
+<Description>Inflammation of the liver; usually from a viral infection, but sometimes from toxic agents.</Description>
+<Description>INFLAMMATION of the LIVER.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

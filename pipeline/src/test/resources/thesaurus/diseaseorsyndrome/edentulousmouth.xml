@@ -1,0 +1,18 @@
+<Record>
+<Term>Edentulous Mouth</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Mouth Diseases</ParentTerm>
+<ParentTerm>Tooth Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Mouth Diseases/Mouth, Edentulous</ClassificationPath>
+<ClassificationPath>Stomatognathic Diseases/Tooth Diseases/Mouth, Edentulous</ClassificationPath>
+<BroaderTerm>Mouth, Edentulous</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Mouth Diseases</BroaderTerm>
+<BroaderTerm>Tooth Diseases</BroaderTerm>
+<ChildTerm>Jaw, Edentulous</ChildTerm>
+<Synonym>Edentulous Mouths</Synonym>
+<Synonym>Toothless Mouth</Synonym>
+<Synonym>Edentulous Mouth</Synonym>
+<Description>Total lack of teeth through disease or extraction.</Description>
+<Source>MeSH</Source>
+</Record>

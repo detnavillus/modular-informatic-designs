@@ -1,0 +1,68 @@
+<Record>
+<Term>Anticoagulants</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Hematologic Agents</ParentTerm>
+<ParentTerm>Adjuvant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Anticoagulant Agent</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Therapeutic Uses/Hematologic Agents/Anticoagulants</ClassificationPath>
+<BroaderTerm>Therapeutic Uses</BroaderTerm>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Anticoagulants</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Hematologic Agents</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Anticoagulant Agent</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Anisindione</ChildTerm>
+<ChildTerm>Moxicoumone</ChildTerm>
+<ChildTerm>Bivalirudin</ChildTerm>
+<ChildTerm>Edetate Disodium Anhydrous</ChildTerm>
+<ChildTerm>Phenindione</ChildTerm>
+<ChildTerm>Sodium Citrate</ChildTerm>
+<ChildTerm>Apixaban</ChildTerm>
+<ChildTerm>Fluindione</ChildTerm>
+<ChildTerm>Phenprocoumon</ChildTerm>
+<ChildTerm>Etabenzarone</ChildTerm>
+<ChildTerm>Heparan Sulfate</ChildTerm>
+<ChildTerm>Warfarin</ChildTerm>
+<ChildTerm>Dicumarol</ChildTerm>
+<ChildTerm>Efegatran</ChildTerm>
+<ChildTerm>Melagatran</ChildTerm>
+<ChildTerm>Edetic Acid</ChildTerm>
+<ChildTerm>PI-88</ChildTerm>
+<ChildTerm>Flufosal</ChildTerm>
+<ChildTerm>Pentosan Polysulfate Sodium</ChildTerm>
+<ChildTerm>Fondaparinux Sodium</ChildTerm>
+<ChildTerm>Lepirudin</ChildTerm>
+<ChildTerm>Xylocoumarol</ChildTerm>
+<ChildTerm>Desirudin</ChildTerm>
+<ChildTerm>Heparin Calcium</ChildTerm>
+<ChildTerm>Dabigatran</ChildTerm>
+<ChildTerm>Argatroban</ChildTerm>
+<ChildTerm>Fondaparinux</ChildTerm>
+<ChildTerm>Domipizone</ChildTerm>
+<ChildTerm>Efegatran Sulfate</ChildTerm>
+<ChildTerm>Heparin</ChildTerm>
+<ChildTerm>Pentosan Polysulfate</ChildTerm>
+<ChildTerm>Fradafiban</ChildTerm>
+<ChildTerm>Warfarin Sodium</ChildTerm>
+<ChildTerm>Low Molecular Weight Heparin</ChildTerm>
+<ChildTerm>Defibrotide</ChildTerm>
+<ChildTerm>Beciparcil</ChildTerm>
+<ChildTerm>Recombinant Nematode Anticoagulant Protein c2</ChildTerm>
+<ChildTerm>Heparin Sodium</ChildTerm>
+<ChildTerm>Fluindarol</ChildTerm>
+<ChildTerm>Coumarin</ChildTerm>
+<Synonym>anticoagulant</Synonym>
+<Synonym>Anticoagulants</Synonym>
+<Synonym>blood thinner</Synonym>
+<Synonym>Anticoagulant Agent</Synonym>
+<Synonym>Anticoagulant Drugs</Synonym>
+<Synonym>Anticoagulant Agents</Synonym>
+<Description>Agents that prevent blood clotting. Naturally occurring agents in the blood are included only when they are used as drugs.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

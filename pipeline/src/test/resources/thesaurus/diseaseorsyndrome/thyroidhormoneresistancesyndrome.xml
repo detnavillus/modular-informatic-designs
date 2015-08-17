@@ -1,0 +1,18 @@
+<Record>
+<Term>Thyroid Hormone Resistance Syndrome</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Hyperthyroxinemia</ParentTerm>
+<ClassificationPath>Endocrine System Diseases/Thyroid Diseases/Hyperthyroxinemia/Thyroid Hormone Resistance Syndrome</ClassificationPath>
+<BroaderTerm>Hyperthyroxinemia</BroaderTerm>
+<BroaderTerm>Thyroid Diseases</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Thyroid Hormone Resistance Syndrome</BroaderTerm>
+<Synonym>Thyroid Hormone Resistance Syndrome</Synonym>
+<Synonym>Generalized Thyroid Hormone Resistance</Synonym>
+<Synonym>Refetoff Syndrome</Synonym>
+<Synonym>Thyroid Hormone Resistance</Synonym>
+<Synonym>Refetoff-DeWind-DeGroot Syndrome</Synonym>
+<Synonym>Refetoff DeWind DeGroot Syndrome</Synonym>
+<Description>An inherited autosomal recessive trait, characterized by peripheral resistance to THYROID HORMONES and the resulting elevation in serum levels of THYROXINE and TRIIODOTHYRONINE. This syndrome is caused by mutations of gene THRB encoding the THYROID HORMONE RECEPTORS BETA in target cells. HYPOTHYROIDISM in these patients is partly overcome by the increased thyroid hormone levels.</Description>
+<Source>MeSH</Source>
+</Record>

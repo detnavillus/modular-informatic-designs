@@ -1,0 +1,16 @@
+<Record>
+<Term>Prostate Cancer Vaccine ONY-P1</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Antineoplastic Agent/Prostate Cancer Vaccine ONY-P1</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antineoplastic Agent</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Prostate Cancer Vaccine ONY-P1</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>ONY-P1</Synonym>
+<Synonym>Onyvax-P</Synonym>
+<Synonym>Prostate Cancer Vaccine ONY-P1</Synonym>
+<Description>A cell-based vaccine derived from prostate cancer with potential immunopotentiating and antineoplastic activities. Prostate cancer vaccine ONY-P1 is derived from three irradiated allogeneic prostate cancer cell lines that represent different stages of prostate cancer and express a broad range of prostate and prostate cancer antigens. Upon administration, this vaccine may stimulate a host immune response against prostate cancer cells; in the vaccination schedule, the first two vaccinations are co-administered with bacillus Calmette-Guerin (BCG) as an adjuvant.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

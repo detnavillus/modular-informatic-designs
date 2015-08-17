@@ -1,0 +1,24 @@
+<Record>
+<Term>Medrysone</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Therapeutic Glucocorticoid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunosuppressant/Therapeutic Corticosteroid/Therapeutic Glucocorticoid/Medrysone</ClassificationPath>
+<BroaderTerm>Medrysone</BroaderTerm>
+<BroaderTerm>Immunosuppressant</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Therapeutic Corticosteroid</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Therapeutic Glucocorticoid</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Medrysone</Synonym>
+<Synonym>Hms</Synonym>
+<Synonym>HMS</Synonym>
+<Synonym>MEDRYSONE</Synonym>
+<Synonym>11-beta-Hydroxy-6-alpha-methylpregn-4-ene-3,20-dione</Synonym>
+<Synonym>6-alpha-Methyl-11-beta-hydroxyprogesterone</Synonym>
+<Description>A topical, synthetic glucocorticoid with metabolic, anti-inflammatory and anti-allergic properties. Medrysone exerts its effect by interacting with specific intracellular glucocorticoid receptors and subsequently binds to DNA to modify gene expression. This results in an induction of the synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators. Consequently, an overall reduction in chronic inflammation and autoimmune reactions is accomplished.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

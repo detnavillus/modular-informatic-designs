@@ -1,0 +1,18 @@
+<Record>
+<Term>D-Serine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Non-Essential Amino Acid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid/Non-Essential Amino Acid/D-Serine</ClassificationPath>
+<BroaderTerm>Amino Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>D-Serine</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Non-Essential Amino Acid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>D-Serine</Synonym>
+<Synonym>SERINE, D-</Synonym>
+<Description>A non-essential amino acid and dextro isomer of serine with antipsychotic activity. D-serine is a selective full agonist at the glycine site of N-methyl-D-aspartate (NMDA)-type glutamate receptor. Hypofunction of NMDA type of neurotransmission is believed to play a major role in pathophysiology of schizophrenia, therefore, administration of D-serine and subsequent activation of NMDA receptors may alleviate psychotic tendencies.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

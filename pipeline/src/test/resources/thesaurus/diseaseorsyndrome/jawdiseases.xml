@@ -1,0 +1,23 @@
+<Record>
+<Term>Jaw Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Stomatognathic Diseases</ParentTerm>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases/Jaw Diseases</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Jaw Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<BroaderTerm>Jaw Diseases</BroaderTerm>
+<ChildTerm>Jaw Neoplasms</ChildTerm>
+<ChildTerm>Jaw Abnormalities</ChildTerm>
+<ChildTerm>Maxillary Diseases</ChildTerm>
+<ChildTerm>Jaw Cysts</ChildTerm>
+<ChildTerm>Cherubism</ChildTerm>
+<ChildTerm>Mandibular Diseases</ChildTerm>
+<ChildTerm>Jaw, Edentulous</ChildTerm>
+<ChildTerm>Periapical Diseases</ChildTerm>
+<ChildTerm>Granuloma, Giant Cell</ChildTerm>
+<Synonym>Jaw Disease</Synonym>
+<Synonym>Jaw Diseases</Synonym>
+<Source>MeSH</Source>
+</Record>

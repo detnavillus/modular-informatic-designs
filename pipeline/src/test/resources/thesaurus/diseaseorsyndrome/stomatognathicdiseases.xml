@@ -1,0 +1,20 @@
+<Record>
+<Term>Stomatognathic Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>MeSH</ParentTerm>
+<ClassificationPath>Stomatognathic Diseases</ClassificationPath>
+<BroaderTerm>Stomatognathic Diseases</BroaderTerm>
+<ChildTerm>Jaw Diseases</ChildTerm>
+<ChildTerm>Mouth Diseases</ChildTerm>
+<ChildTerm>Tooth Diseases</ChildTerm>
+<ChildTerm>Stomatognathic System Abnormalities</ChildTerm>
+<ChildTerm>Pharyngeal Diseases</ChildTerm>
+<ChildTerm>Temporomandibular Joint Disorders</ChildTerm>
+<Synonym>Stomatognathic Diseases</Synonym>
+<Synonym>Stomatognathic Disease</Synonym>
+<Synonym>Mouth and Tooth Diseases</Synonym>
+<Synonym>Dental Diseases</Synonym>
+<Synonym>Dental Disease</Synonym>
+<Description>General or unspecified diseases of the stomatognathic system, comprising the mouth, teeth, jaws, and pharynx.</Description>
+<Source>MeSH</Source>
+</Record>

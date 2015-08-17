@@ -1,0 +1,38 @@
+<Record>
+<Term>X-Linked Mental Retardation</Term>
+<SemanticType>Mental or Behavioral Dysfunction</SemanticType>
+<ParentTerm>Mental Retardation</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Heredodegenerative Disorders, Nervous System</ParentTerm>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Heredodegenerative Disorders, Nervous System/Mental Retardation, X-Linked</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Mental Retardation, X-Linked</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neurologic Manifestations/Neurobehavioral Manifestations/Mental Retardation/Mental Retardation, X-Linked</ClassificationPath>
+<BroaderTerm>Neurobehavioral Manifestations</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Neurologic Manifestations</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Mental Retardation</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Mental Retardation, X-Linked</BroaderTerm>
+<BroaderTerm>Heredodegenerative Disorders, Nervous System</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<ChildTerm>Glycogen Storage Disease Type IIb</ChildTerm>
+<ChildTerm>Classical Lissencephalies and Subcortical Band Heterotopias</ChildTerm>
+<ChildTerm>Menkes Kinky Hair Syndrome</ChildTerm>
+<ChildTerm>Fragile X Syndrome</ChildTerm>
+<ChildTerm>Mucopolysaccharidosis II</ChildTerm>
+<ChildTerm>Adrenoleukodystrophy</ChildTerm>
+<ChildTerm>Lesch-Nyhan Syndrome</ChildTerm>
+<ChildTerm>Pyruvate Dehydrogenase Complex Deficiency Disease</ChildTerm>
+<ChildTerm>Rett Syndrome</ChildTerm>
+<ChildTerm>Coffin-Lowry Syndrome</ChildTerm>
+<Synonym>X-Linked Mental Retardation</Synonym>
+<Synonym>X Linked Mental Retardation</Synonym>
+<Synonym>X-Linked Mental Retardation Disorders</Synonym>
+<Synonym>X-Linked Mental Retardation Syndromes</Synonym>
+<Synonym>X Linked Mental Retardation Disorders</Synonym>
+<Synonym>X Linked Mental Retardation Syndromes</Synonym>
+<Synonym>X-Linked Mental Retardations</Synonym>
+<Description>A class of genetic disorders resulting in mental retardation that is associated either with mutations of GENES located on the X CHROMOSOME or aberrations in the structure of the X chromosome (SEX CHROMOSOME ABERRATIONS).</Description>
+<Source>MeSH</Source>
+</Record>

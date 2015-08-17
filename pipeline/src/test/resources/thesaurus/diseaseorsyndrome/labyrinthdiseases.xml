@@ -1,0 +1,19 @@
+<Record>
+<Term>Labyrinth Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Ear Diseases</ParentTerm>
+<ClassificationPath>Otorhinolaryngologic Diseases/Ear Diseases/Labyrinth Diseases</ClassificationPath>
+<BroaderTerm>Ear Diseases</BroaderTerm>
+<BroaderTerm>Otorhinolaryngologic Diseases</BroaderTerm>
+<BroaderTerm>Labyrinth Diseases</BroaderTerm>
+<ChildTerm>Vestibular Diseases</ChildTerm>
+<ChildTerm>Cochlear Diseases</ChildTerm>
+<ChildTerm>Endolymphatic Hydrops</ChildTerm>
+<ChildTerm>Labyrinthitis</ChildTerm>
+<Synonym>Labyrinth Diseases</Synonym>
+<Synonym>Labyrinth Disease</Synonym>
+<Synonym>Inner Ear Disease</Synonym>
+<Synonym>Inner Ear Diseases</Synonym>
+<Description>Pathological processes of the inner ear (LABYRINTH) which contains the essential apparatus of hearing (COCHLEA) and balance (SEMICIRCULAR CANALS).</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,24 @@
+<Record>
+<Term>Equine Infectious Anemia</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Horse Diseases</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ParentTerm>Lentivirus Infections</ParentTerm>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Retroviridae Infections/Lentivirus Infections/Equine Infectious Anemia</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Equine Infectious Anemia</ClassificationPath>
+<ClassificationPath>Animal Diseases/Horse Diseases/Equine Infectious Anemia</ClassificationPath>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Retroviridae Infections</BroaderTerm>
+<BroaderTerm>Horse Diseases</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<BroaderTerm>Equine Infectious Anemia</BroaderTerm>
+<BroaderTerm>Lentivirus Infections</BroaderTerm>
+<Synonym>Swamp Fever</Synonym>
+<Synonym>Equine Infectious Anemias</Synonym>
+<Synonym>Swamp Fevers</Synonym>
+<Synonym>Equine Infectious Anemia</Synonym>
+<Description>Viral disease of horses caused by the equine infectious anemia virus (EIAV; INFECTIOUS ANEMIA VIRUS, EQUINE). It is characterized by intermittent fever, weakness, and anemia. Chronic infection consists of acute episodes with remissions.</Description>
+<Source>MeSH</Source>
+</Record>

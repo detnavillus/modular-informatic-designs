@@ -1,0 +1,21 @@
+<Record>
+<Term>Ceforanide</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Cephalosporin Antibiotic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anti-Infective Agent/Antibiotic/Cephalosporin Antibiotic/Ceforanide</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Antibiotic</BroaderTerm>
+<BroaderTerm>Cephalosporin Antibiotic</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Ceforanide</BroaderTerm>
+<BroaderTerm>Anti-Infective Agent</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>CEFORANIDE</Synonym>
+<Synonym>(6R-trans)-7-(((2-(Aminomethyl)phenyl)acetyl)amino)-3-(((1-(carboxymethyl)-1H-tetrazol-5-yl)thio)methyl)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic Acid</Synonym>
+<Synonym>Ceforanide</Synonym>
+<Synonym>Precef</Synonym>
+<Description>A semi-synthetic, broad-spectrum, beta-lactam, second-generation cephalosporin antibiotic with bactericidal activity. Ceforanide causes inhibition of bacterial cell wall synthesis by inactivating penicillin binding proteins (PBPs) thereby interfering with the final transpeptidation step required for cross-linking of peptidoglycan units which are a component of the cell wall. This results in a reduction of cell wall stability and causes cell lysis.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

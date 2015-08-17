@@ -1,0 +1,51 @@
+<Record>
+<Term>Sodium Chloride Symporter Inhibitors</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Chemical Viewed Functionally</SemanticType>
+<ParentTerm>Membrane Transport Modulators</ParentTerm>
+<ParentTerm>Diuretic</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Adjuvant/Diuretic/Thiazide Diuretic</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Pharmacologic Actions/Molecular Mechanisms of Pharmacological Action/Membrane Transport Modulators/Sodium Chloride Symporter Inhibitors</ClassificationPath>
+<BroaderTerm>Pharmacologic Actions</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Thiazide Diuretic</BroaderTerm>
+<BroaderTerm>Sodium Chloride Symporter Inhibitors</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Membrane Transport Modulators</BroaderTerm>
+<BroaderTerm>Adjuvant</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Molecular Mechanisms of Pharmacological Action</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Diuretic</BroaderTerm>
+<ChildTerm>Indapamide</ChildTerm>
+<ChildTerm>Bemetizide</ChildTerm>
+<ChildTerm>Metolazone</ChildTerm>
+<ChildTerm>Cyclothiazide</ChildTerm>
+<ChildTerm>Sumetizide</ChildTerm>
+<ChildTerm>Hydroflumethiazide</ChildTerm>
+<ChildTerm>Bendroflumethiazide</ChildTerm>
+<ChildTerm>Paraflutizide</ChildTerm>
+<ChildTerm>Quincarbate</ChildTerm>
+<ChildTerm>Meticrane</ChildTerm>
+<ChildTerm>Benzthiazide</ChildTerm>
+<ChildTerm>Penflutizide</ChildTerm>
+<ChildTerm>Fenquizone</ChildTerm>
+<ChildTerm>Chlorothiazide</ChildTerm>
+<ChildTerm>Chlorthalidone</ChildTerm>
+<ChildTerm>Methyclothiazide</ChildTerm>
+<ChildTerm>Trichlormethiazide</ChildTerm>
+<ChildTerm>Chlorothiazide Sodium</ChildTerm>
+<ChildTerm>Polythiazide</ChildTerm>
+<ChildTerm>Quinethazone</ChildTerm>
+<ChildTerm>Hydrochlorothiazide</ChildTerm>
+<Synonym>Thiazide Sensitive NaCl Cotransporter Inhibitors</Synonym>
+<Synonym>Thiazide Diuretic</Synonym>
+<Synonym>Sodium Chloride Symporter Inhibitors</Synonym>
+<Synonym>Potassium Depleting Diuretics</Synonym>
+<Synonym>Sodium Chloride Cotransporter Inhibitors</Synonym>
+<Synonym>Benzothiadiazine Diuretics</Synonym>
+<Synonym>Thiazide Diuretics</Synonym>
+<Description>Agents that inhibit SODIUM CHLORIDE SYMPORTERS. They act as DIURETICS. Excess use is associated with HYPOKALEMIA.Diuretics characterized as analogs of 1,2,4-benzothiadiazine-1,1-dioxide. All have a common mechanism of action and differ primarily in the dose required to produce a given effect. They act directly on the kidney to increase the excretion of sodium chloride and water and also increase excretion of potassium ions.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

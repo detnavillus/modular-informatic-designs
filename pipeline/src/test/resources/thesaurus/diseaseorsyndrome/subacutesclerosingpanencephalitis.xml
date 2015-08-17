@@ -1,0 +1,38 @@
+<Record>
+<Term>Subacute Sclerosing Panencephalitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Measles</ParentTerm>
+<ParentTerm>Encephalitis, Viral</ParentTerm>
+<ParentTerm>Slow Virus Diseases</ParentTerm>
+<ClassificationPath>Virus Diseases/Encephalitis, Viral/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Encephalitis/Encephalitis, Viral/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/RNA Virus Infections/Mononegavirales Infections/Paramyxoviridae Infections/Morbillivirus Infections/Measles/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Central Nervous System Infections/Central Nervous System Viral Diseases/Encephalitis/Encephalitis, Viral/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<ClassificationPath>Virus Diseases/Slow Virus Diseases/Subacute Sclerosing Panencephalitis</ClassificationPath>
+<BroaderTerm>Measles</BroaderTerm>
+<BroaderTerm>Virus Diseases</BroaderTerm>
+<BroaderTerm>Encephalitis, Viral</BroaderTerm>
+<BroaderTerm>Encephalitis</BroaderTerm>
+<BroaderTerm>Paramyxoviridae Infections</BroaderTerm>
+<BroaderTerm>Morbillivirus Infections</BroaderTerm>
+<BroaderTerm>Slow Virus Diseases</BroaderTerm>
+<BroaderTerm>RNA Virus Infections</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Central Nervous System Infections</BroaderTerm>
+<BroaderTerm>Subacute Sclerosing Panencephalitis</BroaderTerm>
+<BroaderTerm>Central Nervous System Viral Diseases</BroaderTerm>
+<BroaderTerm>Mononegavirales Infections</BroaderTerm>
+<Synonym>SSPE</Synonym>
+<Synonym>Subacute Sclerosing Panencephalitides</Synonym>
+<Synonym>Van Bogaert Leukoencephalitis</Synonym>
+<Synonym>Subacute Sclerosing Leukoencephalitides</Synonym>
+<Synonym>Van Bogaert's Leukoencephalitis</Synonym>
+<Synonym>Subacute Sclerosing Leukoencephalitis</Synonym>
+<Synonym>Subacute Sclerosing Panencephalitis</Synonym>
+<Synonym>Van Bogaerts Leukoencephalitis</Synonym>
+<Synonym>Measles Inclusion Body Encephalitis</Synonym>
+<Description>A rare, slowly progressive encephalitis caused by chronic infection with the MEASLES VIRUS. The condition occurs primarily in children and young adults, approximately 2-8 years after the initial infection. A gradual decline in intellectual abilities and behavioral alterations are followed by progressive MYOCLONUS; MUSCLE SPASTICITY; SEIZURES; DEMENTIA; autonomic dysfunction; and ATAXIA. DEATH usually occurs 1-3 years after disease onset. Pathologic features include perivascular cuffing, eosinophilic cytoplasmic inclusions, neurophagia, and fibrous gliosis. It is caused by the SSPE virus, which is a defective variant of MEASLES VIRUS. (From Adams et al., Principles of Neurology, 6th ed, pp767-8)</Description>
+<Source>MeSH</Source>
+</Record>

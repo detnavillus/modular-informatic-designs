@@ -1,0 +1,19 @@
+<Record>
+<Term>TRICOM</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Immunologic Factor</SemanticType>
+<SemanticType>Gene or Genome</SemanticType>
+<ParentTerm>Immunostimulant</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Immunostimulant/TRICOM</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>TRICOM</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Immunostimulant</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>B7-1, ICAM-1, LFA-3</Synonym>
+<Synonym>B7-1, intercellular adhesion molecule-1, and leukocyte function-associated antigen-3</Synonym>
+<Synonym>TRICOM</Synonym>
+<Description>TRIad of COstimulatory Molecules (B7-1, ICAM-1 and LFA-3).  An immunostimulant.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

@@ -1,0 +1,28 @@
+<Record>
+<Term>Lipoatrophic Diabetes Mellitus</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Diabetes Mellitus</ParentTerm>
+<ParentTerm>Diabetes Mellitus, Type 2</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Endocrine Disorder/Glucose Metabolism Disorder/Diabetes Mellitus/Lipoatrophic Diabetes Mellitus</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Glucose Metabolism Disorders/Diabetes Mellitus/Diabetes Mellitus, Type 2/Diabetes Mellitus, Lipoatrophic</ClassificationPath>
+<ClassificationPath>Endocrine System Diseases/Diabetes Mellitus/Diabetes Mellitus, Type 2/Diabetes Mellitus, Lipoatrophic</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Endocrine Disorder</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus, Lipoatrophic</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Diabetes Mellitus, Type 2</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorder</BroaderTerm>
+<BroaderTerm>Lipoatrophic Diabetes Mellitus</BroaderTerm>
+<BroaderTerm>Endocrine System Diseases</BroaderTerm>
+<BroaderTerm>Glucose Metabolism Disorders</BroaderTerm>
+<Synonym>Lipoatrophic Diabetes Mellitus</Synonym>
+<Description>A type of diabetes mellitus that is characterized by severe INSULIN RESISTANCE and LIPODYSTROPHY. The latter may be generalized, partial, acquired, or congenital (LIPODYSTROPHY, CONGENITAL GENERALIZED).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

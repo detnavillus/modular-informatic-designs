@@ -1,0 +1,17 @@
+<Record>
+<Term>Ventricular Outflow Obstruction</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Heart Diseases</ParentTerm>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Ventricular Outflow Obstruction</ClassificationPath>
+<BroaderTerm>Ventricular Outflow Obstruction</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<ChildTerm>Aortic Valve Stenosis</ChildTerm>
+<ChildTerm>Pulmonary Valve Stenosis</ChildTerm>
+<Synonym>Ventricular Outflow Obstruction</Synonym>
+<Synonym>Ventricular Outflow Obstructions</Synonym>
+<Synonym>Left Ventricular Outflow Obstruction</Synonym>
+<Synonym>Right Ventricular Outflow Obstruction</Synonym>
+<Description>Occlusion of the outflow tract in either the LEFT VENTRICLE or the RIGHT VENTRICLE of the heart. This may result from CONGENITAL HEART DEFECTS, predisposing heart diseases, complications of surgery, or HEART NEOPLASMS.</Description>
+<Source>MeSH</Source>
+</Record>

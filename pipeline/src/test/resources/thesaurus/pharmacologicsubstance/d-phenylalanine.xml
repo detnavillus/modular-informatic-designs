@@ -1,0 +1,17 @@
+<Record>
+<Term>D-Phenylalanine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Amino Acid</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Amino Acid, Peptide, or Protein/Amino Acid/D-Phenylalanine</ClassificationPath>
+<BroaderTerm>Amino Acid</BroaderTerm>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>D-Phenylalanine</BroaderTerm>
+<BroaderTerm>Amino Acid, Peptide, or Protein</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>D-Phenylalanine</Synonym>
+<Synonym>PHENYLALANINE,D-</Synonym>
+<Description>The synthetic dextro isomer of phenylalanine, an essential amino acid with anti-depressant and analgesic activities. D-Phenylalanine is converted into tyrosine and tyrosine in turn is converted into L-dopa, norepinephrine, and epinephrine, three key neurotransmitters. As a result this agent is associated with elevated levels of the neurotransmitters dopamine and norepinephrine in the brain, which may alleviate symptoms of depression. In addition, as an inhibitor of enkephalinase, which metabolizes endorphins, D-phenylalanine may be used to treat chronic pain through blocking the break down of endorphins (natural pain killers).</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

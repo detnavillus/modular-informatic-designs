@@ -1,0 +1,27 @@
+<Record>
+<Term>Fungal Lung Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Respiratory Tract Infections</ParentTerm>
+<ParentTerm>Lung Diseases</ParentTerm>
+<ParentTerm>Mycoses</ParentTerm>
+<ClassificationPath>Respiratory Tract Diseases/Lung Diseases/Lung Diseases, Fungal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Mycoses/Lung Diseases, Fungal</ClassificationPath>
+<ClassificationPath>Respiratory Tract Diseases/Respiratory Tract Infections/Lung Diseases, Fungal</ClassificationPath>
+<BroaderTerm>Respiratory Tract Diseases</BroaderTerm>
+<BroaderTerm>Respiratory Tract Infections</BroaderTerm>
+<BroaderTerm>Lung Diseases, Fungal</BroaderTerm>
+<BroaderTerm>Lung Diseases</BroaderTerm>
+<BroaderTerm>Mycoses</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<ChildTerm>Pulmonary Aspergillosis</ChildTerm>
+<ChildTerm>Pneumonia, Pneumocystis</ChildTerm>
+<ChildTerm>Aspergillosis, Allergic Bronchopulmonary</ChildTerm>
+<Synonym>Fungal Lung Disease</Synonym>
+<Synonym>Fungal Lung Diseases</Synonym>
+<Synonym>Pulmonary Fungal Disease</Synonym>
+<Synonym>Pulmonary Fungal Diseases</Synonym>
+<Synonym>Pulmonary Fungal Infections</Synonym>
+<Synonym>Pulmonary Fungal Infection</Synonym>
+<Description>Pulmonary diseases caused by fungal infections, usually through hematogenous spread.</Description>
+<Source>MeSH</Source>
+</Record>

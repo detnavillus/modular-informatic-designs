@@ -1,0 +1,48 @@
+<Record>
+<Term>Transient Ischemic Attack</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cerebrovascular Disorder</ParentTerm>
+<ParentTerm>Brain Ischemia</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Cardiovascular Disorder/Vascular Disorder/Non-Neoplastic Vascular Disorder/Cerebrovascular Disorder/Transient Ischemic Attack</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Central Nervous System Diseases/Brain Diseases/Cerebrovascular Disorders/Brain Ischemia/Ischemic Attack, Transient</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Vascular Diseases/Cerebrovascular Disorders/Brain Ischemia/Ischemic Attack, Transient</ClassificationPath>
+<BroaderTerm>Vascular Diseases</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Vascular Disorder</BroaderTerm>
+<BroaderTerm>Transient Ischemic Attack</BroaderTerm>
+<BroaderTerm>Cardiovascular Disorder</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorders</BroaderTerm>
+<BroaderTerm>Brain Ischemia</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Central Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Cerebrovascular Disorder</BroaderTerm>
+<BroaderTerm>Ischemic Attack, Transient</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Vascular Disorder</BroaderTerm>
+<BroaderTerm>Brain Diseases</BroaderTerm>
+<Synonym>Posterior Circulation Transient Ischemic Attack</Synonym>
+<Synonym>Transient Brainstem Ischemia</Synonym>
+<Synonym>Ischemic attack, transient</Synonym>
+<Synonym>Brain Stem Transient Ischemic Attack</Synonym>
+<Synonym>Vertebrobasilar Circulation Transient Ischemic Attack</Synonym>
+<Synonym>TIA (Transient Ischemic Attack)</Synonym>
+<Synonym>Transient Ischemic Attack</Synonym>
+<Synonym>Transient Cerebral Ischemias</Synonym>
+<Synonym>Attack, transient ischemic</Synonym>
+<Synonym>Transient Ischemic Attacks</Synonym>
+<Synonym>Anterior Circulation Transient Ischemic Attack</Synonym>
+<Synonym>TIAs (Transient Ischemic Attack)</Synonym>
+<Synonym>Brain TIA</Synonym>
+<Synonym>Brainstem Transient Ischemic Attack</Synonym>
+<Synonym>Carotid Circulation Transient Ischemic Attack</Synonym>
+<Synonym>TIA</Synonym>
+<Synonym>Crescendo Transient Ischemic Attacks</Synonym>
+<Synonym>Transient Cerebral Ischemia</Synonym>
+<Description>A brief attack (from a few minutes to an hour) of cerebral dysfunction of vascular origin, with no persistent neurological deficit.</Description>
+<Description>Brief reversible episodes of focal, nonconvulsive ischemic dysfunction of the brain having a duration of less than 24 hours, and usually less than one hour, caused by transient thrombotic or embolic blood vessel occlusion or stenosis. Events may be classified by arterial distribution, temporal pattern, or etiology (e.g., embolic vs. thrombotic). (From Adams et al., Principles of Neurology, 6th ed, pp814-6)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,34 @@
+<Record>
+<Term>Alcoholic Cardiomyopathy</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Cardiomyopathies</ParentTerm>
+<ParentTerm>Cardiomyopathy</ParentTerm>
+<ParentTerm>Alcohol-Induced Disorders</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Respiratory and Thoracic Disorder/Thoracic Disorder/Non-Neoplastic Thoracic Disorder/Non-Neoplastic Heart Disorder/Myocardial Disorder/Cardiomyopathy/Alcoholic Cardiomyopathy</ClassificationPath>
+<ClassificationPath>Disorders of Environmental Origin/Substance-Related Disorders/Alcohol-Related Disorders/Alcohol-Induced Disorders/Cardiomyopathy, Alcoholic</ClassificationPath>
+<ClassificationPath>Cardiovascular Diseases/Heart Diseases/Cardiomyopathies/Cardiomyopathy, Alcoholic</ClassificationPath>
+<BroaderTerm>Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Disorders of Environmental Origin</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Heart Diseases</BroaderTerm>
+<BroaderTerm>Cardiovascular Diseases</BroaderTerm>
+<BroaderTerm>Myocardial Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Cardiomyopathies</BroaderTerm>
+<BroaderTerm>Cardiomyopathy, Alcoholic</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Heart Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Cardiomyopathy</BroaderTerm>
+<BroaderTerm>Alcohol-Induced Disorders</BroaderTerm>
+<BroaderTerm>Alcohol-Related Disorders</BroaderTerm>
+<BroaderTerm>Respiratory and Thoracic Disorder</BroaderTerm>
+<BroaderTerm>Substance-Related Disorders</BroaderTerm>
+<BroaderTerm>Alcoholic Cardiomyopathy</BroaderTerm>
+<Synonym>Alcoholic Cardiomyopathy</Synonym>
+<Description>A dilated cardiomyopathy which is associated with consumption of large amounts of alcohol over a period of years.</Description>
+<Description>Disease of CARDIAC MUSCLE resulting from chronic excessive alcohol consumption. Myocardial damage can be caused by: (1) a toxic effect of alcohol; (2) malnutrition in alcoholics such as THIAMINE DEFICIENCY; or (3) toxic effect of additives in alcoholic beverages such as COBALT. This disease is usually manifested by DYSPNEA and palpitations with CARDIOMEGALY and congestive heart failure (HEART FAILURE).</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

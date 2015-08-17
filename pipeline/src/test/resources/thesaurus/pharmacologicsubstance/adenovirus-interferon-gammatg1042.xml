@@ -1,0 +1,19 @@
+<Record>
+<Term>Adenovirus-Interferon-Gamma TG1042</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Adenovirus Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Recombinant Viral Vaccine/Adenovirus Vaccine/Adenovirus-Interferon-Gamma TG1042</ClassificationPath>
+<BroaderTerm>Adenovirus Vaccine</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Adenovirus-Interferon-Gamma TG1042</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Recombinant Viral Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>Ad-IFNg</Synonym>
+<Synonym>Adenovirus-Interferon-Gamma TG1042</Synonym>
+<Synonym>TG1042</Synonym>
+<Description>A replication-defective adenoviral vector encoding human interferon-gamma (IFN-g) cDNA with potential antineoplastic and immunoregulatory activities. Upon intratumoral administration, the prolonged expression of IFN-g by adenovirus-interferon-gamma TG1042 promotes a T helper type 1 (Th1-type) immune response and inhibits the Th2-mediated cytokine production observed in many cutaneous lymphomas. IFN-g also mediates interleukin-12 (IL-12) production by antigen-presenting cells (APCs); activates macrophages, cytotoxic T-cells, and natural killer (NK) cells; upregulates major histocompatibility complex (MHC) molecules; and stimulates antibody-dependent cellular cytotoxicity (ADCC). Altogether, these IFN-g-mediated effects may result in an inhibition of tumor cell proliferation and tumor cell death.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

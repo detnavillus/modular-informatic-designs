@@ -1,0 +1,44 @@
+<Record>
+<Term>Chorioamnionitis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Fetal Diseases</ParentTerm>
+<ParentTerm>Placental Non-Neoplastic Disorder</ParentTerm>
+<ParentTerm>Placenta Diseases</ParentTerm>
+<ParentTerm>Fetal Membranes, Premature Rupture</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Placenta Disorder/Placental Non-Neoplastic Disorder/Chorioamnionitis,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Infectious Disorder/Infectious Disorder by Site/Chorioamnionitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Placenta Diseases/Chorioamnionitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Obstetric Labor Complications/Fetal Membranes, Premature Rupture/Chorioamnionitis</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Pregnancy Complications/Fetal Diseases/Chorioamnionitis</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Fetal Diseases/Chorioamnionitis</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Placenta Disorder</BroaderTerm>
+<BroaderTerm>Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Chorioamnionitis</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Infectious Disorder</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Infectious Disorder by Site</BroaderTerm>
+<BroaderTerm>Fetal Diseases</BroaderTerm>
+<BroaderTerm>Placental Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Chorioamnionitis,</BroaderTerm>
+<BroaderTerm>Obstetric Labor Complications</BroaderTerm>
+<BroaderTerm>Placenta Diseases</BroaderTerm>
+<BroaderTerm>Fetal Membranes, Premature Rupture</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<Synonym>Amnionitis</Synonym>
+<Synonym>Funisitis</Synonym>
+<Synonym>Amnionitides</Synonym>
+<Synonym>Chorioamnionitis</Synonym>
+<Synonym>Chorioamnionitides</Synonym>
+<Synonym>Funisitides</Synonym>
+<Description>INFLAMMATION of the placental membranes (CHORION; AMNION) and connected tissues such as fetal BLOOD VESSELS and UMBILICAL CORD. It is often associated with intrauterine ascending infections during PREGNANCY.Inflammation of the fetal UMBILICAL CORD.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

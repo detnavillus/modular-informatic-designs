@@ -1,0 +1,28 @@
+<Record>
+<Term>Equine Strongyle Infections</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Helminthiasis, Animal</ParentTerm>
+<ParentTerm>Horse Diseases</ParentTerm>
+<ParentTerm>Strongylida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Helminthiasis, Animal/Strongyle Infections, Equine</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Strongyle Infections, Equine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Parasitic Diseases, Animal/Helminthiasis, Animal/Strongyle Infections, Equine</ClassificationPath>
+<ClassificationPath>Animal Diseases/Horse Diseases/Strongyle Infections, Equine</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Strongylida Infections/Strongyle Infections, Equine</ClassificationPath>
+<BroaderTerm>Strongyle Infections, Equine</BroaderTerm>
+<BroaderTerm>Parasitic Diseases, Animal</BroaderTerm>
+<BroaderTerm>Helminthiasis, Animal</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Strongylida Infections</BroaderTerm>
+<BroaderTerm>Horse Diseases</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<Synonym>Equine Strongyloses</Synonym>
+<Synonym>Equine Strongyle Infection</Synonym>
+<Synonym>Equine Strongylosis</Synonym>
+<Synonym>Equine Strongyle Infections</Synonym>
+<Description>Infection of horses with parasitic nematodes of the superfamily STRONGYLOIDEA. Characteristics include the development of hemorrhagic nodules on the abdominal peritoneum.</Description>
+<Source>MeSH</Source>
+</Record>

@@ -1,0 +1,38 @@
+<Record>
+<Term>Calcium Carbonate</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Inorganic Chemical</SemanticType>
+<ParentTerm>Dietary Supplement</ParentTerm>
+<ParentTerm>Carbonates</ParentTerm>
+<ParentTerm>Minerals</ParentTerm>
+<ParentTerm>Calcium Compounds</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Dietary Supplement/Calcium Carbonate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Calcium Compounds/Calcium Carbonate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Carbon Compounds, Inorganic/Carbonic Acid/Carbonates/Calcium Carbonate</ClassificationPath>
+<ClassificationPath>Inorganic Chemicals/Minerals/Calcium Carbonate</ClassificationPath>
+<BroaderTerm>Dietary Supplement</BroaderTerm>
+<BroaderTerm>Carbonic Acid</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Carbonates</BroaderTerm>
+<BroaderTerm>Inorganic Chemicals</BroaderTerm>
+<BroaderTerm>Minerals</BroaderTerm>
+<BroaderTerm>Calcium Carbonate</BroaderTerm>
+<BroaderTerm>Calcium Compounds</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Carbon Compounds, Inorganic</BroaderTerm>
+<Synonym>Calcium Milk</Synonym>
+<Synonym>Aragonite</Synonym>
+<Synonym>Limestone</Synonym>
+<Synonym>Milk of Calcium</Synonym>
+<Synonym>Vaterite</Synonym>
+<Synonym>Calcite</Synonym>
+<Synonym>Calcium Carbonate</Synonym>
+<Synonym>CALCIUM CARBONATE</Synonym>
+<Synonym>Marble</Synonym>
+<Synonym>calcium carbonate</Synonym>
+<Synonym>Chalk</Synonym>
+<Description>The carbonic salt of calcium (CaCO3). Calcium carbonate is used therapeutically as a phosphate buffer in hemodialysis, as an antacid in gastric hyperacidity for temporary relief of indigestion and heartburn, and as a calcium supplement for preventing and treating osteoporosis. (NCI04)</Description>
+<Description>Carbonic acid calcium salt (CaCO3). An odorless, tasteless powder or crystal that occurs in nature. It is used therapeutically as a phosphate buffer in hemodialysis patients and as a calcium supplement.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

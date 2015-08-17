@@ -1,0 +1,18 @@
+<Record>
+<Term>Cat Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Animal Diseases</ParentTerm>
+<ClassificationPath>Animal Diseases/Cat Diseases</ClassificationPath>
+<BroaderTerm>Cat Diseases</BroaderTerm>
+<BroaderTerm>Animal Diseases</BroaderTerm>
+<ChildTerm>Feline Acquired Immunodeficiency Syndrome</ChildTerm>
+<ChildTerm>Leukemia, Feline</ChildTerm>
+<ChildTerm>Feline Infectious Peritonitis</ChildTerm>
+<ChildTerm>Feline Panleukopenia</ChildTerm>
+<Synonym>Cat Diseases</Synonym>
+<Synonym>Cat Disease</Synonym>
+<Synonym>Feline Diseases</Synonym>
+<Synonym>Feline Disease</Synonym>
+<Description>Diseases of the domestic cat (Felis catus or F. domesticus). This term does not include diseases of the so-called big cats such as CHEETAHS; LIONS; tigers, cougars, panthers, leopards, and other Felidae for which the heading CARNIVORA is used.</Description>
+<Source>MeSH</Source>
+</Record>

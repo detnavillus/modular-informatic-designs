@@ -1,0 +1,30 @@
+<Record>
+<Term>Hyperkalemic Periodic Paralysis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Paralyses, Familial Periodic</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Muscular Diseases/Paralyses, Familial Periodic/Paralysis, Hyperkalemic Periodic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Paralyses, Familial Periodic/Paralysis, Hyperkalemic Periodic</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Neuromuscular Diseases/Muscular Diseases/Paralyses, Familial Periodic/Paralysis, Hyperkalemic Periodic</ClassificationPath>
+<ClassificationPath>Nutritional and Metabolic Diseases/Metabolic Diseases/Metabolism, Inborn Errors/Metal Metabolism, Inborn Errors/Paralyses, Familial Periodic/Paralysis, Hyperkalemic Periodic</ClassificationPath>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Muscular Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Metal Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Nutritional and Metabolic Diseases</BroaderTerm>
+<BroaderTerm>Metabolism, Inborn Errors</BroaderTerm>
+<BroaderTerm>Paralysis, Hyperkalemic Periodic</BroaderTerm>
+<BroaderTerm>Neuromuscular Diseases</BroaderTerm>
+<BroaderTerm>Paralyses, Familial Periodic</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<Synonym>Primary Hyperkalemic Periodic Paralysis</Synonym>
+<Synonym>Hyperkalemic Periodic Paralyses</Synonym>
+<Synonym>Myotonic Periodic Paralysis</Synonym>
+<Synonym>Adynamia Episodica Hereditaria</Synonym>
+<Synonym>Myotonic Periodic Paralyses</Synonym>
+<Synonym>Familial Hyperkalemic Periodic Paralysis</Synonym>
+<Synonym>Hyperkalemic Periodic Paralysis</Synonym>
+<Description>An autosomal dominant familial disorder which presents in infancy or childhood and is characterized by episodes of weakness associated with hyperkalemia. During attacks, muscles of the lower extremities are initially affected, followed by the lower trunk and arms. Episodes last from 15-60 minutes and typically occur after a period of rest following exercise. A defect in skeletal muscle sodium channels has been identified as the cause of this condition. Normokalemic periodic paralysis is a closely related disorder marked by a lack of alterations in potassium levels during attacks of weakness. (Adams et al., Principles of Neurology, 6th ed, p1481)</Description>
+<Source>MeSH</Source>
+</Record>

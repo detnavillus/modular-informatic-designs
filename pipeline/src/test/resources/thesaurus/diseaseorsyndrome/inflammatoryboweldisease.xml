@@ -1,0 +1,41 @@
+<Record>
+<Term>Inflammatory Bowel Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Acute Enteritis of the Mouse Intestinal Tract</ParentTerm>
+<ParentTerm>Intestinal Precancerous Condition</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Gastrointestinal Disorder/Intestinal Disorder/Intestinal Precancerous Condition/Inflammatory Bowel Disease,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Gastrointestinal Disorder/Non-Neoplastic Intestinal Disorder/Enteritis/Inflammatory Bowel Disease</ClassificationPath>
+<ClassificationPath>EO_Findings_and_Disorders_Kind/Experimental Organism Diagnosis/Mouse Pathologic Diagnoses/Mouse Cancer-Related Conditions/Mouse Noncancerous Conditions/Inflammatory Diseases of the Mouse Intestinal Tract/Acute Enteritis of the Mouse Intestinal Tract/Acute Ulcerative Enteritis of the Mouse Intestinal Tract</ClassificationPath>
+<BroaderTerm>Enteritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Mouse Pathologic Diagnoses</BroaderTerm>
+<BroaderTerm>Experimental Organism Diagnosis</BroaderTerm>
+<BroaderTerm>Acute Ulcerative Enteritis of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Mouse Noncancerous Conditions</BroaderTerm>
+<BroaderTerm>Intestinal Precancerous Condition</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Gastrointestinal Disorder</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Mouse Cancer-Related Conditions</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Acute Enteritis of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Inflammatory Bowel Disease,</BroaderTerm>
+<BroaderTerm>EO_Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Intestinal Disorder</BroaderTerm>
+<BroaderTerm>Inflammatory Diseases of the Mouse Intestinal Tract</BroaderTerm>
+<BroaderTerm>Gastrointestinal Disorder</BroaderTerm>
+<ChildTerm>Colitis of Indeterminate Type</ChildTerm>
+<ChildTerm>Ulcerative Colitis</ChildTerm>
+<ChildTerm>Crohn Disease</ChildTerm>
+<Synonym>Acute Ulcerative Enteritis</Synonym>
+<Synonym>Inflammatory Bowel Disease</Synonym>
+<Synonym>inflammatory bowel disease</Synonym>
+<Synonym>Acute Ulcerative Enteritis of the Mouse Intestinal Tract</Synonym>
+<Synonym>IBD</Synonym>
+<Description>Representing a spectrum of small and large bowel inflammatory diseases of unknown etiology.  It includes Crohn's disease, ulcerative colitis, and colitis of indeterminate type. --2003</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

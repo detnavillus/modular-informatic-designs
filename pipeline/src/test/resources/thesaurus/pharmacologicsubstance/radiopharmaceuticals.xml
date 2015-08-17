@@ -1,0 +1,30 @@
+<Record>
+<Term>Radiopharmaceuticals</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Indicator, Reagent, or Diagnostic Aid</SemanticType>
+<ParentTerm>Pharmacologic Substance</ParentTerm>
+<ParentTerm>Indicators and Reagents</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound</ClassificationPath>
+<ClassificationPath>Chemical Actions and Uses/Specialty Uses of Chemicals/Laboratory Chemicals/Indicators and Reagents/Radiopharmaceuticals</ClassificationPath>
+<BroaderTerm>Specialty Uses of Chemicals</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Radiopharmaceuticals</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Laboratory Chemicals</BroaderTerm>
+<BroaderTerm>Indicators and Reagents</BroaderTerm>
+<BroaderTerm>Chemical Actions and Uses</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Radioimmunoconjugate</ChildTerm>
+<ChildTerm>Radioconjugate</ChildTerm>
+<ChildTerm>Radium-223-Based Radiopharmaceutical</ChildTerm>
+<Synonym>radioactive drugs</Synonym>
+<Synonym>Radiopharmaceutical Compound</Synonym>
+<Synonym>Radiopharmaceutical</Synonym>
+<Synonym>Radiopharmaceuticals</Synonym>
+<Synonym>Radiochemical</Synonym>
+<Synonym>radiopharmaceuticals</Synonym>
+<Description>Compounds that are used in medicine as sources of radiation for radiotherapy and for diagnostic purposes. They have numerous uses in research and industry. (Martindale, The Extra Pharmacopoeia, 30th ed, p1161)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

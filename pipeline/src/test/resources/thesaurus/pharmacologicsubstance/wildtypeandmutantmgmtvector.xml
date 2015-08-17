@@ -1,0 +1,20 @@
+<Record>
+<Term>Wild Type and Mutant MGMT Vector</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Retroviral Vector</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Drug or Chemical by Structure/Organic Chemical/Nucleic Acids, Nucleosides, and Nucleotides/Nucleic Acids/DNA/Cloning Vector/Viral Vector/Retroviral Vector/Wild Type and Mutant MGMT Vector</ClassificationPath>
+<BroaderTerm>Drug or Chemical by Structure</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>DNA</BroaderTerm>
+<BroaderTerm>Retroviral Vector</BroaderTerm>
+<BroaderTerm>Nucleic Acids, Nucleosides, and Nucleotides</BroaderTerm>
+<BroaderTerm>Wild Type and Mutant MGMT Vector</BroaderTerm>
+<BroaderTerm>Nucleic Acids</BroaderTerm>
+<BroaderTerm>Viral Vector</BroaderTerm>
+<BroaderTerm>Organic Chemical</BroaderTerm>
+<BroaderTerm>Cloning Vector</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Wild Type and Mutant MGMT Vector</Synonym>
+<Description>Wild Type and Mutant MGMT Vectors are genetic carrier vehicles containing an in vivo selection marker derived from natural or mutant O-6 methylguanine-DNA methyltransferase (MGMT) and are used in gene therapy and biomedical research for selection of specific traits in targeted cells, such as genes that confer resistance to chemotherapeutic agents. Mutant MGMTs resistant to the MGMT inactivator O-6-benzylguanine (BG) are potent markers for in vivo selection in irradiated and non-myelo ablated mouse models using BG plus alkylating agents to drive selection. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

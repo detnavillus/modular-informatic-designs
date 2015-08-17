@@ -1,0 +1,23 @@
+<Record>
+<Term>Anisakiasis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Intestinal Diseases, Parasitic</ParentTerm>
+<ParentTerm>Ascaridida Infections</ParentTerm>
+<ClassificationPath>Parasitic Diseases/Helminthiasis/Nematode Infections/Secernentea Infections/Ascaridida Infections/Anisakiasis</ClassificationPath>
+<ClassificationPath>Parasitic Diseases/Intestinal Diseases, Parasitic/Anisakiasis</ClassificationPath>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Intestinal Diseases/Intestinal Diseases, Parasitic/Anisakiasis</ClassificationPath>
+<BroaderTerm>Intestinal Diseases, Parasitic</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Nematode Infections</BroaderTerm>
+<BroaderTerm>Anisakiasis</BroaderTerm>
+<BroaderTerm>Secernentea Infections</BroaderTerm>
+<BroaderTerm>Helminthiasis</BroaderTerm>
+<BroaderTerm>Intestinal Diseases</BroaderTerm>
+<BroaderTerm>Parasitic Diseases</BroaderTerm>
+<BroaderTerm>Ascaridida Infections</BroaderTerm>
+<Synonym>Anisakiasis</Synonym>
+<Synonym>Anisakiases</Synonym>
+<Description>Infection with roundworms of the genus ANISAKIS. Human infection results from the consumption of fish harboring roundworm larvae. The worms may cause acute NAUSEA; VOMITING; or penetrate into the wall of the DIGESTIVE TRACT where they give rise to EOSINOPHILIC GRANULOMA in the STOMACH; INTESTINES; or the OMENTUM.</Description>
+<Source>MeSH</Source>
+</Record>

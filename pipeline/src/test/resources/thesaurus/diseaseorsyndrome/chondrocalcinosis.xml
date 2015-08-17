@@ -1,0 +1,26 @@
+<Record>
+<Term>Chondrocalcinosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis</ParentTerm>
+<ParentTerm>Non-Neoplastic Bone Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Non-Neoplastic Bone Disorder/Chondrocalcinosis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Chondrocalcinosis</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Bone Disorder</BroaderTerm>
+<BroaderTerm>Chondrocalcinosis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<Synonym>Pseudogout</Synonym>
+<Synonym>Chondrocalcinoses</Synonym>
+<Synonym>Calcium Pyrophosphate Dihydrate Deposition</Synonym>
+<Synonym>Chondrocalcinosis</Synonym>
+<Description>Presence of calcium salts, especially calcium pyrophosphate, in the cartilaginous structures of one or more joints. When accompanied by attacks of goutlike symptoms, it is called pseudogout. (Dorland, 27th ed)</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

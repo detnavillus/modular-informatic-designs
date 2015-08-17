@@ -25,58 +25,42 @@ public class TestTaxonomyMethods extends TestCase
             
     TaxonomyNode child3 = new TaxonomyNode( "child3" );
     rootNode.addChildNode( child3 );
-    System.out.println( rootNode.getValue( ) );
-            
-    System.out.println( "\n ------------ getDescendants( ) --------------------- " );
+    assertEquals( rootNode.getValue( ), "{\"children\":[{\"name\":\"child1\",\"path\":[\"/root/child1\"]},{\"name\":\"child2\",\"path\":[\"/root/child2\"]},{\"name\":\"child3\",\"path\":[\"/root/child3\"]}]}");
+
     List<ITaxonomyNode> descendants = rootNode.getDescendants();
-    for (int i = 0; i < descendants.size(); i++)
-    {
-      ITaxonomyNode descend = descendants.get( i );
-      System.out.println( descend.getValue() );
-    }
-            
-    System.out.println( "\n ------------- getParents( ) ------------------------ " );
+    assertEquals( descendants.size( ), 3 );
+
+    assertEquals( descendants.get( 0 ).getValue( ), "{\"name\":\"child1\",\"path\":[\"/root/child1\"]}" );
+    assertEquals( descendants.get( 1 ).getValue( ), "{\"name\":\"child2\",\"path\":[\"/root/child2\"]}" );
+    assertEquals( descendants.get( 2 ).getValue( ), "{\"name\":\"child3\",\"path\":[\"/root/child3\"]}" );
+      
     List<ITaxonomyNode> parents = child3.getParents( );
-    for (int i = 0; i < parents.size(); i++)
-    {
-      ITaxonomyNode parent = parents.get( i );
-      System.out.println( parent.getValue() );
-    }
+    assertEquals( parents.size( ), 1 );
+    assertEquals( parents.get( 0 ).getName( ), "root" );
             
     TaxonomyNode child4 = new TaxonomyNode( "child4" );
     child3.addChildNode( child4 );
-    System.out.println( rootNode.getValue( ) );
+    assertEquals( rootNode.getValue( ), "{\"children\":[{\"name\":\"child1\",\"path\":[\"/root/child1\"]},{\"name\":\"child2\",\"path\":[\"/root/child2\"]},{\"name\":\"child3\",\"path\":[\"/root/child3\"],\"children\":[{\"name\":\"child4\",\"path\":[\"/root/child3/child4\"]}]}]}" );
             
-    System.out.println( "\n ------------- getAncestors( ) ----------------------- " );
+
     List<ITaxonomyNode> ancestors = child4.getAncestors( );
-    for (int i = 0; i < ancestors.size(); i++)
-    {
-      ITaxonomyNode ancestor = ancestors.get( i );
-      System.out.println( ancestor.getValue() );
-    }
-            
-    System.out.println( "\n ------------- getPaths( ) --------------------------- " );
+    assertEquals( ancestors.size( ), 2 );
+    assertEquals( ancestors.get( 0 ).getName( ), "child3" );
+    assertEquals( ancestors.get( 1 ).getName( ), "root" );
+
     List<String> paths = child4.getPaths( );
-    if (paths != null)
-    {
-      for (int i = 0; i < paths.size(); i++)
-      {
-        System.out.println( paths.get( i ) );
-      }
-    }
-            
-    System.out.println( "\n -------------- getRootNode( ) ----------------------- " );
+    assertEquals( paths.size( ), 1 );
+    assertEquals( paths.get( 0 ), "/root/child3/child4" );
+
     ITaxonomyNode root = child4.getRootNode( );
-    System.out.println( root.getName( ) );
+    assertEquals( root.getName( ), "root" );
       
-    System.out.println( "\n ------------- isAncestor( ) --------------------------- " );
     boolean rootIsAncestor = child4.isAncestor( root );
-    System.out.println( "rootIsAncestor is of child4 = " + rootIsAncestor );
-            
-    System.out.println( "\n ------------- isDescendant( ) --------------------------- " );
+    assertTrue( rootIsAncestor );
+      
     boolean child4IsDescendant = root.isDescendant( child4 );
-    System.out.println( "child4 Is Descendant is of root = " + child4IsDescendant );
-    System.out.println( "child4 Is Descendant is of child2 = " + child2.isDescendant( child4 ) );
+    assertTrue( child4IsDescendant );
+    assertFalse( child2.isDescendant( child4 ) );
   }
 
 }

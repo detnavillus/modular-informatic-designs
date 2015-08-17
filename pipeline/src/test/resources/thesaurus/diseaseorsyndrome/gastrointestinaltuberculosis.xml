@@ -1,0 +1,20 @@
+<Record>
+<Term>Gastrointestinal Tuberculosis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Tuberculosis</ParentTerm>
+<ParentTerm>Gastrointestinal Diseases</ParentTerm>
+<ClassificationPath>Digestive System Diseases/Gastrointestinal Diseases/Tuberculosis, Gastrointestinal</ClassificationPath>
+<ClassificationPath>Bacterial Infections and Mycoses/Bacterial Infections/Gram-Positive Bacterial Infections/Actinomycetales Infections/Mycobacterium Infections/Tuberculosis/Tuberculosis, Gastrointestinal</ClassificationPath>
+<BroaderTerm>Tuberculosis</BroaderTerm>
+<BroaderTerm>Mycobacterium Infections</BroaderTerm>
+<BroaderTerm>Gastrointestinal Diseases</BroaderTerm>
+<BroaderTerm>Bacterial Infections</BroaderTerm>
+<BroaderTerm>Digestive System Diseases</BroaderTerm>
+<BroaderTerm>Tuberculosis, Gastrointestinal</BroaderTerm>
+<BroaderTerm>Gram-Positive Bacterial Infections</BroaderTerm>
+<BroaderTerm>Actinomycetales Infections</BroaderTerm>
+<BroaderTerm>Bacterial Infections and Mycoses</BroaderTerm>
+<Synonym>Gastrointestinal Tuberculosis</Synonym>
+<Description>TUBERCULOSIS that involves any region of the GASTROINTESTINAL TRACT, mostly in the distal ILEUM and the CECUM. In most cases, MYCOBACTERIUM TUBERCULOSIS is the pathogen. Clinical features include ABDOMINAL PAIN; FEVER; and palpable mass in the ileocecal area.</Description>
+<Source>MeSH</Source>
+</Record>

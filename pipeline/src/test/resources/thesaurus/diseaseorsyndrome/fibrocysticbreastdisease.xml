@@ -1,0 +1,50 @@
+<Record>
+<Term>Fibrocystic Breast Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Breast Diseases</ParentTerm>
+<ParentTerm>Non-Neoplastic Breast Disorder</ParentTerm>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Breast Disorder/Breast Fibrocystic Change</ClassificationPath>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Breast Diseases/Fibrocystic Breast Disease</ClassificationPath>
+<BroaderTerm>Breast Fibrocystic Change</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Breast Diseases</BroaderTerm>
+<BroaderTerm>Fibrocystic Breast Disease</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Breast Disorder</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Breast Fibrocystic Change, Proliferative Type</ChildTerm>
+<ChildTerm>Breast Fibrocystic Change, Non-Proliferative Type</ChildTerm>
+<Synonym>Fibrocystic Mastopathy</Synonym>
+<Synonym>Fibrocystic Disease</Synonym>
+<Synonym>Diffuse Cystic Mastopathy</Synonym>
+<Synonym>Fibrocystic Breast Disease</Synonym>
+<Synonym>Cystic Disease of Breast</Synonym>
+<Synonym>Cystic Breast Disease</Synonym>
+<Synonym>Breast Fibrocystic Change</Synonym>
+<Synonym>Adenosis of Breast</Synonym>
+<Synonym>Breast Fibrocystic Changes</Synonym>
+<Synonym>Fibrocystic Change of the Breast</Synonym>
+<Synonym>Fibrocystic Changes of Breast</Synonym>
+<Synonym>Breast Cystic Disease</Synonym>
+<Synonym>Breast Fibrocystic Disease</Synonym>
+<Synonym>Breast Dysplasia</Synonym>
+<Synonym>Microglandular Adenoses</Synonym>
+<Synonym>Fibrocystic Breast</Synonym>
+<Synonym>Fibrocystic Disease of the Breast</Synonym>
+<Synonym>Breast Cystic Diseases</Synonym>
+<Synonym>Microglandular Adenosis</Synonym>
+<Synonym>Fibrocystic Change of Breast</Synonym>
+<Synonym>Mammary Dysplasia</Synonym>
+<Synonym>Fibrocystic Disease of Breast</Synonym>
+<Synonym>Chronic Cystic Mastitis</Synonym>
+<Synonym>Cystic Disease of the Breast</Synonym>
+<Synonym>Breast Adenosis</Synonym>
+<Description>A common and benign breast disease characterized by varying degree of fibrocystic changes in the breast tissue. There are three major patterns of morphological changes, including FIBROSIS, formation of CYSTS, and proliferation of glandular tissue (adenosis). The fibrocystic breast has a dense irregular, lumpy, bumpy consistency.A benign lesion of the BREAST, characterized by a proliferation of disorganized small glands lined by EPITHELIAL CELLS without apparent myoepithelial cells. These glands usually have enlarged lumens, and lie in adipose or fibrous tissue.</Description>
+<Description>Fibrosis associated with cyst formation in the breast parenchyma. -- 2003</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

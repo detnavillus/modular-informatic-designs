@@ -1,0 +1,27 @@
+<Record>
+<Term>Preservative Excipient</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Pharmaceutical Excipient</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Industrial Product/Industrial Aid/Pharmaceutical Excipient/Preservative Excipient</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Preservative Excipient</BroaderTerm>
+<BroaderTerm>Industrial Product</BroaderTerm>
+<BroaderTerm>Pharmaceutical Excipient</BroaderTerm>
+<BroaderTerm>Industrial Aid</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<ChildTerm>Trisodium Citrate Dihydrate</ChildTerm>
+<ChildTerm>Benzoic Acid</ChildTerm>
+<ChildTerm>Chlorobutanol</ChildTerm>
+<ChildTerm>Sodium Bisulfite</ChildTerm>
+<ChildTerm>Sodium Citrate Anhydrous</ChildTerm>
+<ChildTerm>Imidurea</ChildTerm>
+<ChildTerm>Thimerosal</ChildTerm>
+<ChildTerm>Maleic Acid</ChildTerm>
+<ChildTerm>Octabenzone</ChildTerm>
+<ChildTerm>Sodium Benzoate</ChildTerm>
+<Synonym>Drug Preservative</Synonym>
+<Synonym>Preservative</Synonym>
+<Synonym>Preservative Excipient</Synonym>
+<Description>Chemicals that are added to drug products to prolong shelf life and maintain sterility. Protection of formulations, especially aqueous solutions, against microbial growth requires use of either antibacterial or antifungal preservatives. Generally, such agents are active against either bacteria or fungi but a few are active against both. The antimicrobials include but not limited to chlorobutanol, benzyl alcohol, sodium benzoate, sorbic acid, and phenol. The antioxidizing agents include butylated hydroxytolune, hydroxyanisole, propyl gallate, and sulfites. The necessary addition of preservatives for both safety and economy sometimes has been associated with significant adverse effects in certain patient populations.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

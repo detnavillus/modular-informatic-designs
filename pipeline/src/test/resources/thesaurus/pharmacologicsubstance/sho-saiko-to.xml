@@ -1,0 +1,20 @@
+<Record>
+<Term>Sho-Saiko-To</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Plant Product</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Drug, Natural Product/Antineoplastic Plant Product/Sho-Saiko-To</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Plant Product</BroaderTerm>
+<BroaderTerm>Sho-Saiko-To</BroaderTerm>
+<BroaderTerm>Drug, Natural Product</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Keisho-To</Synonym>
+<Synonym>Minor Bupleurum Formula</Synonym>
+<Synonym>Sho-Saiko-To</Synonym>
+<Synonym>TJ-9</Synonym>
+<Synonym>Xiao Chai Hu Tang</Synonym>
+<Synonym>Xiao-Chai-Hu-Tang</Synonym>
+<Description>A botanical formulation with potential chemopreventive activities. Sho-Saiko-to, an herbal mixture, contains seven herbal extracts whose mechanism of action if not fully understood. There is evidence of antiproliferative effects against hepatocellular carcinoma in vitro. Other effects of this agent described in animal models include the prevention of liver injury and hepatocyte-regenerating activity. Antitumor effects associated with this herbal product may include induction of apoptosis, cell cycle arrest at the G0/G1 phase, and activation of an immune response, characterized by the release of cytokines as well as activation of effector cells, such as macrophages and natural killer cells.</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

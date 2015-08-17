@@ -1,0 +1,15 @@
+<Record>
+<Term>M A 131I Osteogenic Sarcoma</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Radioimmunoconjugate</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Radiopharmaceutical Compound/Radioimmunoconjugate/M A 131I Osteogenic Sarcoma</ClassificationPath>
+<BroaderTerm>Radioimmunoconjugate</BroaderTerm>
+<BroaderTerm>Radiopharmaceutical Compound</BroaderTerm>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>M A 131I Osteogenic Sarcoma</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>M A 131I Osteogenic Sarcoma</Synonym>
+<Description>A radioimaging agent consisting of the 131 I-labeled murine monoclonal antibody 791T/36 which is directed against the tumor-associated antigen 791Tgp72. M A 131I Osteogenic Sarcoma binds to an antigen found in osteogenic sarcomas and colorectal and breast carcinomas, thereby enabling the scintigraphic visualization of primary and metastatic tumors that express 791Tgp72. (NCI04)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>

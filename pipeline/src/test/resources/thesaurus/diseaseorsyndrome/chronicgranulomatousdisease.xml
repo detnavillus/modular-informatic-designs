@@ -1,0 +1,34 @@
+<Record>
+<Term>Chronic Granulomatous Disease</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Phagocyte Bactericidal Dysfunction</ParentTerm>
+<ParentTerm>Genetic Diseases, X-Linked</ParentTerm>
+<ParentTerm>Congenital Disorder of Natural Immunity</ParentTerm>
+<ClassificationPath>Hemic and Lymphatic Diseases/Hematologic Diseases/Leukocyte Disorders/Phagocyte Bactericidal Dysfunction/Granulomatous Disease, Chronic</ClassificationPath>
+<ClassificationPath>Congenital, Hereditary, and Neonatal Diseases and Abnormalities/Genetic Diseases, Inborn/Genetic Diseases, X-Linked/Granulomatous Disease, Chronic</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Syndrome/Immunodeficiency Syndrome/Congenital Disorder of Natural Immunity/Chronic Granulomatous Disease</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Immunologic Deficiency Syndromes/Phagocyte Bactericidal Dysfunction/Granulomatous Disease, Chronic</ClassificationPath>
+<BroaderTerm>Granulomatous Disease, Chronic</BroaderTerm>
+<BroaderTerm>Genetic Diseases, Inborn</BroaderTerm>
+<BroaderTerm>Hemic and Lymphatic Diseases</BroaderTerm>
+<BroaderTerm>Phagocyte Bactericidal Dysfunction</BroaderTerm>
+<BroaderTerm>Syndrome</BroaderTerm>
+<BroaderTerm>Immunodeficiency Syndrome</BroaderTerm>
+<BroaderTerm>Genetic Diseases, X-Linked</BroaderTerm>
+<BroaderTerm>Immunologic Deficiency Syndromes</BroaderTerm>
+<BroaderTerm>Congenital Disorder of Natural Immunity</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Leukocyte Disorders</BroaderTerm>
+<BroaderTerm>Congenital, Hereditary, and Neonatal Diseases and Abnormalities</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Chronic Granulomatous Disease</BroaderTerm>
+<BroaderTerm>Hematologic Diseases</BroaderTerm>
+<Synonym>Chronic Granulomatous Disease</Synonym>
+<Synonym>CGD</Synonym>
+<Synonym>Chronic Granulomatous Diseases</Synonym>
+<Description>A recessive X-linked defect of leukocyte function in which phagocytic cells ingest but fail to digest bacteria, resulting in recurring bacterial infections with granuloma formation.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

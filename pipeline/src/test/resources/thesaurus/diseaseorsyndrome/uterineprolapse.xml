@@ -1,0 +1,42 @@
+<Record>
+<Term>Uterine Prolapse</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Uterine Non-Neoplastic Disorder</ParentTerm>
+<ParentTerm>Pelvic Organ Prolapse</ParentTerm>
+<ParentTerm>Uterine Diseases</ParentTerm>
+<ClassificationPath>Pathological Conditions, Signs and Symptoms/Pathological Conditions, Anatomical/Prolapse/Pelvic Organ Prolapse/Uterine Prolapse</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Genital Diseases, Female/Uterine Diseases/Uterine Prolapse</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Special Category/Congenital or Acquired Anatomic Abnormality/Prolapse/Uterine Prolapse,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Reproductive System Disorder/Female Reproductive System Disorder/Uterine Disorder/Uterine Non-Neoplastic Disorder/Uterine Prolapse</ClassificationPath>
+<BroaderTerm>Uterine Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Signs and Symptoms</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Special Category</BroaderTerm>
+<BroaderTerm>Prolapse</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Pathological Conditions, Anatomical</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Genital Diseases, Female</BroaderTerm>
+<BroaderTerm>Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Prolapse</BroaderTerm>
+<BroaderTerm>Uterine Disorder</BroaderTerm>
+<BroaderTerm>Pelvic Organ Prolapse</BroaderTerm>
+<BroaderTerm>Uterine Diseases</BroaderTerm>
+<BroaderTerm>Female Reproductive System Disorder</BroaderTerm>
+<BroaderTerm>Uterine Prolapse,</BroaderTerm>
+<BroaderTerm>Congenital or Acquired Anatomic Abnormality</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<ChildTerm>Second Degree Uterine Prolapse</ChildTerm>
+<ChildTerm>First Degree Uterine Prolapse</ChildTerm>
+<ChildTerm>Third Degree Uterine Prolapse</ChildTerm>
+<Synonym>Uterine Prolapses</Synonym>
+<Synonym>Vaginal Prolapse</Synonym>
+<Synonym>Uterine Prolapse</Synonym>
+<Synonym>Vaginal Prolapses</Synonym>
+<Description>Downward displacement of the UTERUS. It is classified in various degrees: in the first degree the UTERINE CERVIX is within the vaginal orifice; in the second degree the cervix is outside the orifice; in the third degree the entire uterus is outside the orifice.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

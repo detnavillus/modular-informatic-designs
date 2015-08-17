@@ -1,0 +1,20 @@
+<Record>
+<Term>Levobupivacaine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<SemanticType>Organic Chemical</SemanticType>
+<ParentTerm>Anesthetic Agent</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Anesthetic Agent/Levobupivacaine Hydrochloride</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Anesthetic Agent</BroaderTerm>
+<BroaderTerm>Levobupivacaine Hydrochloride</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<Synonym>Levobupivacaine</Synonym>
+<Synonym>Levobupivacaine hydrochloride</Synonym>
+<Synonym>Chirocaine</Synonym>
+<Synonym>Levobupivacaine Hydrochloride</Synonym>
+<Synonym>LEVOBUPIVACAINE HYDROCHLORIDE</Synonym>
+<Description>The hydrochloride salt of levobupivacaine, an amide derivative with anesthetic property. Levobupivacaine reversibly binds voltage-gated sodium channels to modulate ionic flux and prevent the initiation and transmission of nerve impulses (stabilizing neuronal membrane), thereby resulting in analgesia and anesthesia. In comparison with racemic bupivacaine, levobupivacaine is associated with less vasodilation and has a longer duration of action.</Description>
+<Source>FDA Registry</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

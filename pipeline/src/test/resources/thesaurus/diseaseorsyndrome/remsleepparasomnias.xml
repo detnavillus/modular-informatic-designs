@@ -1,0 +1,24 @@
+<Record>
+<Term>REM Sleep Parasomnias</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Parasomnias</ParentTerm>
+<ClassificationPath>Mental Disorders/Sleep Disorders/Parasomnias/REM Sleep Parasomnias</ClassificationPath>
+<ClassificationPath>Nervous System Diseases/Sleep Disorders/Parasomnias/REM Sleep Parasomnias</ClassificationPath>
+<BroaderTerm>Parasomnias</BroaderTerm>
+<BroaderTerm>REM Sleep Parasomnias</BroaderTerm>
+<BroaderTerm>Nervous System Diseases</BroaderTerm>
+<BroaderTerm>Mental Disorders</BroaderTerm>
+<BroaderTerm>Sleep Disorders</BroaderTerm>
+<ChildTerm>Sleep Paralysis</ChildTerm>
+<ChildTerm>REM Sleep Behavior Disorder</ChildTerm>
+<Synonym>Sleep-Related Painful Erection</Synonym>
+<Synonym>REM Sleep Parasomnia</Synonym>
+<Synonym>Sleep-Related Painful Erections</Synonym>
+<Synonym>REM Sleep Parasomnias</Synonym>
+<Synonym>REM Sleep Related Sinus Arrest</Synonym>
+<Synonym>Rapid Eye Movement Sleep Parasomnias</Synonym>
+<Synonym>REM Sleep-Related Sinus Arrest</Synonym>
+<Synonym>Sleep Related Painful Erections</Synonym>
+<Description>Abnormal behavioral or physiologic events that are associated with REM sleep, including REM SLEEP BEHAVIOR DISORDER.</Description>
+<Source>MeSH</Source>
+</Record>

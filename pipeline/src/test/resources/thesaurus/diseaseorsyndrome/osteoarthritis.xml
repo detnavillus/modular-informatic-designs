@@ -1,0 +1,36 @@
+<Record>
+<Term>Osteoarthritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Arthritis</ParentTerm>
+<ParentTerm>Rheumatic Diseases</ParentTerm>
+<ClassificationPath>Musculoskeletal Diseases/Rheumatic Diseases/Osteoarthritis</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Joint Diseases/Arthritis/Osteoarthritis</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Connective and Soft Tissue Disorder/Arthropathy/Arthritis/Osteoarthritis</ClassificationPath>
+<BroaderTerm>Arthritis</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>Rheumatic Diseases</BroaderTerm>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Arthropathy</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Joint Diseases</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Connective and Soft Tissue Disorder</BroaderTerm>
+<BroaderTerm>Osteoarthritis</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<ChildTerm>Osteoarthritis, Knee</ChildTerm>
+<ChildTerm>Hip Osteoarthritis</ChildTerm>
+<ChildTerm>Osteoarthritis, Spine</ChildTerm>
+<ChildTerm>Osteoarthritis, Hip</ChildTerm>
+<Synonym>Osteoarthroses</Synonym>
+<Synonym>Osteoarthrosis</Synonym>
+<Synonym>Degenerative Arthritides</Synonym>
+<Synonym>Degenerative Arthritis</Synonym>
+<Synonym>Osteoarthrosis Deformans</Synonym>
+<Synonym>Osteoarthritis</Synonym>
+<Synonym>Osteoarthritides</Synonym>
+<Description>A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans.</Description>
+<Description>A noninflammatory degenerative joint disease occurring chiefly in older persons, characterised by degeneration of the articular cartilage, hypertrophy of bone at the margins and changes in the synovial membrane. It is accompanied by pain and stiffness, particularly after prolonged activity.</Description>
+<Source>NCI Thesaurus</Source>
+<Source>MeSH</Source>
+</Record>

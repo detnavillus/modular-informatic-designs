@@ -1,0 +1,23 @@
+<Record>
+<Term>Foot Diseases</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Musculoskeletal Diseases</ParentTerm>
+<ParentTerm>Skin Diseases</ParentTerm>
+<ClassificationPath>Skin and Connective Tissue Diseases/Skin Diseases/Foot Diseases</ClassificationPath>
+<ClassificationPath>Musculoskeletal Diseases/Foot Diseases</ClassificationPath>
+<BroaderTerm>Musculoskeletal Diseases</BroaderTerm>
+<BroaderTerm>Foot Diseases</BroaderTerm>
+<BroaderTerm>Skin Diseases</BroaderTerm>
+<BroaderTerm>Skin and Connective Tissue Diseases</BroaderTerm>
+<ChildTerm>Posterior Tibial Tendon Dysfunction</ChildTerm>
+<ChildTerm>Metatarsalgia</ChildTerm>
+<ChildTerm>Heel Spur</ChildTerm>
+<ChildTerm>Foot Ulcer</ChildTerm>
+<ChildTerm>Foot Dermatoses</ChildTerm>
+<ChildTerm>Fasciitis, Plantar</ChildTerm>
+<ChildTerm>Immersion Foot</ChildTerm>
+<Synonym>Foot Disease</Synonym>
+<Synonym>Foot Diseases</Synonym>
+<Description>Anatomical and functional disorders affecting the foot.</Description>
+<Source>MeSH</Source>
+</Record>

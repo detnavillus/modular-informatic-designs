@@ -1,0 +1,53 @@
+<Record>
+<Term>Cataract</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<SemanticType>Finding</SemanticType>
+<ParentTerm>Lens Diseases</ParentTerm>
+<ParentTerm>Adverse Event Associated with Ocular and Visual Systems</ParentTerm>
+<ParentTerm>Non-Neoplastic Eye Disorder</ParentTerm>
+<ClassificationPath>Eye Diseases/Lens Diseases/Cataract</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Finding/Finding by Cause/Adverse Event/Adverse Event by CTCAE Category/Adverse Event Associated with Ocular and Visual Systems/Cataract Adverse Event</ClassificationPath>
+<ClassificationPath>Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Non-Neoplastic Disorder/Non-Neoplastic Disorder by Site/Non-Neoplastic Eye Disorder/Cataract,/NCIThesaurus/Findings_and_Disorders_Kind/Disease, Disorder or Finding/Disease or Disorder/Disorder by Site/Eye Disorder/Lens Disorder/Cataract</ClassificationPath>
+<BroaderTerm>Non-Neoplastic Disorder by Site</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Disorder</BroaderTerm>
+<BroaderTerm>NCIThesaurus</BroaderTerm>
+<BroaderTerm>Eye Disorder</BroaderTerm>
+<BroaderTerm>Disorder by Site</BroaderTerm>
+<BroaderTerm>Lens Disorder</BroaderTerm>
+<BroaderTerm>Adverse Event Associated with Ocular and Visual Systems</BroaderTerm>
+<BroaderTerm>Cataract</BroaderTerm>
+<BroaderTerm>Non-Neoplastic Eye Disorder</BroaderTerm>
+<BroaderTerm>Finding by Cause</BroaderTerm>
+<BroaderTerm>Cataract,</BroaderTerm>
+<BroaderTerm>Eye Diseases</BroaderTerm>
+<BroaderTerm>Findings_and_Disorders_Kind</BroaderTerm>
+<BroaderTerm>Disease, Disorder or Finding</BroaderTerm>
+<BroaderTerm>Adverse Event by CTCAE Category</BroaderTerm>
+<BroaderTerm>Cataract Adverse Event</BroaderTerm>
+<BroaderTerm>Lens Diseases</BroaderTerm>
+<BroaderTerm>Disease or Disorder</BroaderTerm>
+<BroaderTerm>Finding</BroaderTerm>
+<BroaderTerm>Adverse Event</BroaderTerm>
+<ChildTerm>Radiation-Induced Cataract</ChildTerm>
+<ChildTerm>Myotonic Cataract</ChildTerm>
+<ChildTerm>Induced Cataract</ChildTerm>
+<ChildTerm>Senile Cataract</ChildTerm>
+<ChildTerm>Tetanic Cataract</ChildTerm>
+<ChildTerm>Juvenile Cataract</ChildTerm>
+<ChildTerm>CTCAE Grade 2 Cataract</ChildTerm>
+<ChildTerm>CTCAE Grade 1 Cataract</ChildTerm>
+<ChildTerm>CTCAE Grade 3 Cataract</ChildTerm>
+<Synonym>Pseudoaphakia</Synonym>
+<Synonym>Cataract Adverse Event</Synonym>
+<Synonym>Lens Opacities</Synonym>
+<Synonym>Pseudoaphakias</Synonym>
+<Synonym>Membranous Cataract</Synonym>
+<Synonym>Membranous Cataracts</Synonym>
+<Synonym>Cataract</Synonym>
+<Synonym>Lens Opacity</Synonym>
+<Synonym>Cataracts</Synonym>
+<Description>Partial or complete opacity of the crystalline lens of one or both eyes that decreases visual acuity and eventually results in blindness.  Some cataracts appear in infancy or in childhood, but most develop in older individuals. (Diagnostic Surgical Pathology, 3rd ed.)</Description>
+<Description>Partial or complete opacity on or in the lens or capsule of one or both eyes, impairing vision or causing blindness. The many kinds of cataract are classified by their morphology (size, shape, location) or etiology (cause and time of occurrence). (Dorland, 27th ed)</Description>
+<Source>MeSH</Source>
+<Source>NCI Thesaurus</Source>
+</Record>

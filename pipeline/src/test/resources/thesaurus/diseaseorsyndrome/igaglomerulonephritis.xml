@@ -1,0 +1,28 @@
+<Record>
+<Term>IGA Glomerulonephritis</Term>
+<SemanticType>Disease or Syndrome</SemanticType>
+<ParentTerm>Glomerulonephritis</ParentTerm>
+<ParentTerm>Autoimmune Diseases</ParentTerm>
+<ClassificationPath>Male Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulonephritis, IGA</ClassificationPath>
+<ClassificationPath>Female Urogenital Diseases and Pregnancy Complications/Female Urogenital Diseases/Urologic Diseases/Kidney Diseases/Nephritis/Glomerulonephritis/Glomerulonephritis, IGA</ClassificationPath>
+<ClassificationPath>Immune System Diseases/Autoimmune Diseases/Glomerulonephritis, IGA</ClassificationPath>
+<BroaderTerm>Glomerulonephritis, IGA</BroaderTerm>
+<BroaderTerm>Nephritis</BroaderTerm>
+<BroaderTerm>Urologic Diseases</BroaderTerm>
+<BroaderTerm>Male Urogenital Diseases</BroaderTerm>
+<BroaderTerm>Immune System Diseases</BroaderTerm>
+<BroaderTerm>Kidney Diseases</BroaderTerm>
+<BroaderTerm>Glomerulonephritis</BroaderTerm>
+<BroaderTerm>Autoimmune Diseases</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases and Pregnancy Complications</BroaderTerm>
+<BroaderTerm>Female Urogenital Diseases</BroaderTerm>
+<Synonym>IGA Glomerulonephritis</Synonym>
+<Synonym>Berger's Disease</Synonym>
+<Synonym>Immunoglobulin A Nephropathy</Synonym>
+<Synonym>Berger Disease</Synonym>
+<Synonym>IGA Glomerulonephritides</Synonym>
+<Synonym>IGA Nephropathy</Synonym>
+<Synonym>Bergers Disease</Synonym>
+<Description>A chronic form of glomerulonephritis characterized by deposits of predominantly IMMUNOGLOBULIN A in the mesangial area (GLOMERULAR MESANGIUM). Deposits of COMPLEMENT C3 and IMMUNOGLOBULIN G are also often found. Clinical features may progress from asymptomatic HEMATURIA to END-STAGE KIDNEY DISEASE.</Description>
+<Source>MeSH</Source>
+</Record>

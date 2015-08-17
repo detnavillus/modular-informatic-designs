@@ -1,0 +1,17 @@
+<Record>
+<Term>GM.CD40L Cell Vaccine</Term>
+<SemanticType>Pharmacologic Substance</SemanticType>
+<ParentTerm>Antineoplastic Vaccine</ParentTerm>
+<ClassificationPath>Chemicals_and_Drugs_Kind/Drug, Food, Chemical or Biomedical Material/Pharmacologic Substance/Biological Response Modifier/Vaccine/Antineoplastic Vaccine/GM.CD40L Cell Vaccine</ClassificationPath>
+<BroaderTerm>Chemicals_and_Drugs_Kind</BroaderTerm>
+<BroaderTerm>Pharmacologic Substance</BroaderTerm>
+<BroaderTerm>Antineoplastic Vaccine</BroaderTerm>
+<BroaderTerm>GM.CD40L Cell Vaccine</BroaderTerm>
+<BroaderTerm>Biological Response Modifier</BroaderTerm>
+<BroaderTerm>Drug, Food, Chemical or Biomedical Material</BroaderTerm>
+<BroaderTerm>Vaccine</BroaderTerm>
+<Synonym>GM.CD40L</Synonym>
+<Synonym>GM.CD40L Cell Vaccine</Synonym>
+<Description>A cell-based vaccine composed of irradiated tumor cells transduced with granulocyte-macrophage colony-stimulating factor (GM-CSF) and CD40-ligand (CD40L) genes. Upon administration, this vaccine may stimulate an anti-tumoral dendritic cell-mediated host immune response. (NCI05)</Description>
+<Source>NCI Thesaurus</Source>
+</Record>
