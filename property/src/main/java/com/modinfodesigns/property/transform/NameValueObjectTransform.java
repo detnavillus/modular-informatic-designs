@@ -67,7 +67,9 @@ public class NameValueObjectTransform implements IPropertyTransform
       IProperty valueProp = ((IPropertyHolder)input).getProperty( valueProperty );
       if ( nameProp != null  && valueProp != null)
       {
-        return new StringProperty( nameProp.getValue( ), valueProp.getValue( ) );
+        IProperty outputProp = valueProp.copy( );
+        outputProp.setName( nameProp.getValue( ) );
+        return outputProp;
       }
     }
 		
@@ -77,7 +79,7 @@ public class NameValueObjectTransform implements IPropertyTransform
   @Override
   public void startTransform( IProperty input,
                               IPropertyTransformListener transformListener )
-         throws PropertyTransformException
+                              throws PropertyTransformException
   {
         
   }

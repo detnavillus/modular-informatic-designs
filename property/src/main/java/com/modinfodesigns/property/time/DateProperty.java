@@ -37,7 +37,7 @@ public class DateProperty extends StringProperty implements IExposeInternalPrope
   private static HashMap<String,String> computables;
 	
   private static String[] commonFormats = { "MM/dd/yyyy", "MM/dd/yyyy hh:mm:ss",
-                                            "yyyy/MM/dd", "MMM dd, yyyy", "MMMM dd, yyyy" };
+                                            "yyyy/MM/dd", "MMM dd, yyyy", "MMMM dd, yyyy, yyyy/MM/dd hh:mm:ss" };
 	
   private String name;
 	

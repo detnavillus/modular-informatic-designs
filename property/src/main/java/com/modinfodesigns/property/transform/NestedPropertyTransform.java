@@ -5,6 +5,9 @@ import com.modinfodesigns.property.IPropertyHolder;
 
 import java.util.ArrayList;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * Applies one or more transforms to a nested property. 
  * 
@@ -12,6 +15,8 @@ import java.util.ArrayList;
  */
 public class NestedPropertyTransform implements IPropertyHolderTransform
 {
+  private transient static final Logger LOG = LoggerFactory.getLogger( NestedPropertyTransform.class );
+    
   private String nestedProperty;  // nested IPropertyHolder
 	
   private ArrayList<IPropertyTransform> propTransforms;
@@ -30,6 +35,8 @@ public class NestedPropertyTransform implements IPropertyHolderTransform
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
+    LOG.info( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
+      
     if (propTransforms == null) return input;
 		
     if (input instanceof IPropertyHolder)
@@ -51,6 +58,8 @@ public class NestedPropertyTransform implements IPropertyHolderTransform
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
+    LOG.info( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
+      
     IProperty nestedProp = input.getProperty( nestedProperty );
     if ( nestedProp != null )
     {

@@ -43,4 +43,12 @@ public class TestJSONParser extends TestCase
     IProperty output = jsonParser.transform( strprop );
     assertEquals( output.getValue( IProperty.XML_FORMAT ), "<DataObject><Property type=\"com.modinfodesigns.property.quantity.IntegerProperty\" ><Name>Sender_Internal</Name><Value>1</Value></Property></DataObject>" );
   }
+    
+  public void testStringListProperty( ) throws PropertyTransformException
+  {
+    JSONParserTransform jsonParser = new JSONParserTransform( );
+    StringProperty strprop = new StringProperty( "json", "{\"Type\":[\"text\", \"Subject\"]}" );
+    IProperty output = jsonParser.transform( strprop );
+    assertEquals( output.getValue( IProperty.JSON_FORMAT ), "{\"Type\":\"[\"text\",\"Subject\"]\"}" );
+  }
 }

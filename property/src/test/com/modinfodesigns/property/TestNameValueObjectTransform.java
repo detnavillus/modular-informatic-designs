@@ -5,6 +5,8 @@ import com.modinfodesigns.property.DataObject;
 import com.modinfodesigns.property.PropertyList;
 import com.modinfodesigns.property.string.StringProperty;
 
+import com.modinfodesigns.property.transform.json.JSONParserTransform;
+
 import junit.framework.TestCase;
 
 public class TestNameValueObjectTransform extends TestCase
@@ -120,4 +122,41 @@ public class TestNameValueObjectTransform extends TestCase
       
     assertEquals( parent.getValue( ), "{\"NE_PER\":\"Andrew\",\"NE_LOC\":\"New York\",\"NE_ORG\":\"Microsoft\"}" );
   }
+    
+  public void testWJSONParser( ) throws PropertyTransformException {
+    DataObject dobj = new JSONParserTransform( ).createDataObject( nested_objects );
+    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":\"[{\"Type\":\"Subject\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"},{\"Type\":\"Body\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",\"0.63170637467462465\"]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\"}]\"}" );
+    
+    NestedPropertyTransform npt = new NestedPropertyTransform( );
+    npt.setNestedProperty( "Content" );
+    npt.addPropertyTransform( new NameValueObjectTransform( "Type", "Paragraphs" ) );
+    npt.transformPropertyHolder( dobj );
+
+    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":{\"Body\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",\"0.63170637467462465\"]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\",\"Subject\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"}}" );
+  }
+    
+    
+  private static String nested_objects = "{\"Content\": ["
+                                       + "    {"
+                                       + "      \"Type\": \"Subject\","
+                                       + "      \"Paragraphs\": ["
+                                       + "        {"
+                                       + "          \"Content\": \"RE: Hello Ben\","
+                                       + "          \"html\": \"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\","
+                                       + "          \"Type\": [\"text\", \"Subject\"]"
+                                       + "        }"
+                                       + "      ]"
+                                       + "    },"
+                                       + "    {"
+                                       + "      \"Type\": \"Body\","
+                                       + "      \"Paragraphs\": ["
+                                       + "        {"
+                                       + "          \"Content\": \"I am doing well.\","
+                                       + "          \"html\": \"I am doing well.\","
+                                       + "          \"Type\": [\"text\", \"default\", \"text\", 0.63170637467462465]"
+                                       + "        }"
+                                       + "      ]"
+                                       + "    }"
+                                       + "  ]"
+                                       + "}";
 }

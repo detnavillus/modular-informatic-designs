@@ -7,6 +7,9 @@ import com.modinfodesigns.property.PropertyList;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * Enables one or more IPropertyTransforms to be applied to an IPropertyHolder property in sequence.
  * 
@@ -15,6 +18,8 @@ import java.util.Iterator;
 
 public class SequentialPropertyTransform extends BasePropertyTransform implements IPropertyHolderTransform
 {
+  private transient static final Logger LOG = LoggerFactory.getLogger( SequentialPropertyTransform.class );
+    
   private String[] inputPropertyList;
   private String outputPropertyName;
    
@@ -29,6 +34,7 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
+    LOG.info( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
     if (propTransforms == null)
     {
       throw new PropertyTransformException( "No Property Transforms defined" );
@@ -47,14 +53,20 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
+    LOG.info( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
+      
     IProperty inputProp = getInputProperty( input );
 
     IProperty outputProperty = transform( inputProp );
 		
     if (outputProperty != null)
     {
+      LOG.info( "Got output property " + outputProperty.getClass().getName( ) + " val = " + outputProperty.getValue( ) );
       if (outputPropertyName != null) outputProperty.setName( outputPropertyName );
       input.setProperty( outputProperty );
+    }
+    else {
+      LOG.info( "No Output Property created!" );
     }
 		
     return input;
@@ -91,6 +103,7 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
 	
   public void setInputProperty( String inputProperty )
   {
+    LOG.info( "setInputProperty : " + inputProperty );
     inputPropertyList = new String[1];
     inputPropertyList[0] = inputProperty;
   }

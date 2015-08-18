@@ -95,8 +95,7 @@ public class TestGetDelegateProperties extends TestCase
     dobjd.setName( "Comics" );
     holder.addProperty( dobjd );
       
-    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"Comics\":{\"stooges\":\"[{\"name\":\"stooges\",\"value\":\"Larry\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"stooges\",\"value\":\"Moe\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"stooges\",\"value\":\"Curley\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"stooges\",\"value\":\"Shemp\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"}]\"}}" );
-      
+    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"Comics\":{\"stooges\":\"[\"Larry\",\"Moe\",\"Curley\",\"Shemp\"]\"}}" );
     GetDelegateProperties gdp = new GetDelegateProperties( );
     gdp.setDelegateField( "Comics" );
     gdp.setSourceField( "stooges" );
@@ -113,7 +112,8 @@ public class TestGetDelegateProperties extends TestCase
     }
 
     holder.removeProperty( "Comics" );
-    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"the_stooges\":\"[{\"name\":\"the_stooges\",\"value\":\"Larry\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"the_stooges\",\"value\":\"Moe\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"the_stooges\",\"value\":\"Curley\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"the_stooges\",\"value\":\"Shemp\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"}]\"}" );
+    
+    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"the_stooges\":\"[\"Larry\",\"Moe\",\"Curley\",\"Shemp\"]\"}");
   }
     
   public void testGetPropertyListWithExcludes( )
@@ -153,6 +153,6 @@ public class TestGetDelegateProperties extends TestCase
     }
       
     holder.removeProperty( "Comics" );
-    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"the_stooges\":\"[{\"name\":\"the_stooges\",\"value\":\"Larry\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"the_stooges\",\"value\":\"Moe\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"},{\"name\":\"the_stooges\",\"value\":\"Curley\",\"type\":\"com.modinfodesigns.property.string.StringProperty\"}]\"}" );
+    assertEquals( holder.getValue( IProperty.JSON_FORMAT ), "{\"the_stooges\":\"[\"Larry\",\"Moe\",\"Curley\"]\"}" );
   }
 }

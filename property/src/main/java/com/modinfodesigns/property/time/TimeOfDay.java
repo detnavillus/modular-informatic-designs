@@ -35,6 +35,7 @@ public class TimeOfDay implements IProperty, IExposeInternalProperties
 		
     // get time zones ...
     internalProps.add( timeZoneDesc );
+    // EDT, CDT, MDT, PDF, EST, CST, MST, GMT
 		
     return internalProps;
   }
@@ -72,6 +73,9 @@ public class TimeOfDay implements IProperty, IExposeInternalProperties
   @Override
   public void setValue(String value, String format) throws PropertyValidationException
   {
+      // set hour, minute, second, milliseconds
+      
+      
 
   }
 

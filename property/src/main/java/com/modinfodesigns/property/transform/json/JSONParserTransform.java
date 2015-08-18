@@ -233,6 +233,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
         if (rest.trim().startsWith( "\"" ))
         {
           String restRest = rest.substring( 1 );
+
           if (restRest.trim().startsWith( ":" ))
           {
             if (rest.indexOf( "," ) > 0)
@@ -244,7 +245,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
               valStr = "\"" + valStr + rest;
             }
           }
-                    
+          // currStr = currStr.substring( 1 );
           LOG.debug( "Found pair value: '" + valStr + "'" );
         }
       }
@@ -264,8 +265,9 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       LOG.debug( "valStr: '" + valStr + "'" );
       valueList.add( valStr );
       currStr = currStr.substring( currStr.indexOf( valStr ) + valStr.length() );
-
+      if (currStr.startsWith ( "\"," )) currStr = currStr.substring( 1 );
       LOG.debug( "currStr = '" + currStr + "'" );
+        
       // ... once we have the value, check for a comma - strip it and move on ...
       if (currStr.trim().indexOf( "," ) == 0)
       {

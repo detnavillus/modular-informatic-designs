@@ -311,9 +311,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
         }
         else
         {
-          sbr.append( "{" ).append( "\"name\":\"" ).append( prop.getName( ) )
-             .append( "\",\"value\":\"" ).append( prop.getValue( ) )
-             .append( "\",\"type\":\"" ).append( prop.getType( ) ).append( "\"}" );
+          sbr.append( prop.getValue( IProperty.JSON_VALUE ));
         }
         if (i < (isz - 1)) sbr.append( "," );
       }
