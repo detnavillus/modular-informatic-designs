@@ -9,8 +9,13 @@ import java.util.Set;
 import java.util.Iterator;
 import java.util.Map;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class StringMethods
 {
+  private static final Pattern numberPat = Pattern.compile("[+-]?((\\d+(\\.\\d*)?)|(\\.\\d+))");
+    
   public static String getDelimitedString( String[] strings, String delimiter )
   {
     return getDelimitedString( strings, delimiter, false );
@@ -285,6 +290,12 @@ public class StringMethods
     }
     	
     return true;
+  }
+    
+  public static boolean isNumber( String string )
+  {
+    Matcher m = numberPat.matcher( string );
+    return m.matches( );
   }
     
   public static List<String> getStrings( String str, char startCh, char endCh )

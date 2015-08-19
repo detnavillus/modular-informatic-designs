@@ -125,14 +125,14 @@ public class TestNameValueObjectTransform extends TestCase
     
   public void testWJSONParser( ) throws PropertyTransformException {
     DataObject dobj = new JSONParserTransform( ).createDataObject( nested_objects );
-    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":\"[{\"Type\":\"Subject\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"},{\"Type\":\"Body\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",\"0.63170637467462465\"]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\"}]\"}" );
+    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":\"[{\"Type\":\"Subject\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"},{\"Type\":\"Body\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",0.6317063746746246]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\"}]\"}" );
     
     NestedPropertyTransform npt = new NestedPropertyTransform( );
     npt.setNestedProperty( "Content" );
     npt.addPropertyTransform( new NameValueObjectTransform( "Type", "Paragraphs" ) );
     npt.transformPropertyHolder( dobj );
 
-    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":{\"Body\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",\"0.63170637467462465\"]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\",\"Subject\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"}}" );
+    assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":{\"Body\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",0.6317063746746246]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\",\"Subject\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"}}" );
   }
     
     
@@ -153,7 +153,7 @@ public class TestNameValueObjectTransform extends TestCase
                                        + "        {"
                                        + "          \"Content\": \"I am doing well.\","
                                        + "          \"html\": \"I am doing well.\","
-                                       + "          \"Type\": [\"text\", \"default\", \"text\", 0.63170637467462465]"
+                                       + "          \"Type\": [\"text\", \"default\", \"text\", 0.6317063746746246]"
                                        + "        }"
                                        + "      ]"
                                        + "    }"

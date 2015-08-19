@@ -4,12 +4,14 @@ import com.modinfodesigns.property.DataObject;
 import com.modinfodesigns.property.IDataObjectBuilder;
 import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.PropertyList;
+import com.modinfodesigns.property.BooleanProperty;
 
 import com.modinfodesigns.property.string.StringProperty;
 import com.modinfodesigns.property.transform.BasePropertyTransform;
 import com.modinfodesigns.property.transform.PropertyTransformException;
 import com.modinfodesigns.property.transform.string.StringTransform;
 import com.modinfodesigns.property.quantity.IntegerProperty;
+import com.modinfodesigns.property.quantity.ScalarQuantity;
 
 import com.modinfodesigns.utils.StringMethods;
 
@@ -99,13 +101,22 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     if (value instanceof String)
     {
       String valStr = (String)value;
+      valStr = valStr.trim( );
       if (StringMethods.isInteger( valStr ))
       {
         return new IntegerProperty( name, Integer.parseInt( valStr ) );
       }
+      else if (StringMethods.isNumber( valStr ))
+      {
+        return new ScalarQuantity( name, valStr );
+      }
+      else if (valStr.equalsIgnoreCase( "true" ) || valStr.equalsIgnoreCase( "false" ))
+      {
+        return new BooleanProperty( name, valStr );
+      }
       else
       {
-        return new StringProperty( name, (String)value );
+        return new StringProperty( name, valStr );
       }
     }
     else if (value instanceof Integer )
@@ -426,7 +437,19 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
               // check if Integer, etc...
               if (valOb instanceof String)
               {
-                dobj.addProperty( new StringProperty( name, (String)valOb));
+                String valSt = (String)valOb;
+                if (StringMethods.isNumber( valSt ))
+                {
+                  dobj.addProperty( new ScalarQuantity( name, valSt ) );
+                }
+                else if (valSt.equalsIgnoreCase( "true" ) || valSt.equalsIgnoreCase( "false" ))
+                {
+                  dobj.addProperty( new BooleanProperty( name, valSt ) );
+                }
+                else
+                {
+                  dobj.addProperty( new StringProperty( name, valSt ) );
+                }
               }
               else if (valOb instanceof Integer)
               {
