@@ -10,6 +10,15 @@ import com.modinfodesigns.property.PropertyValidationException;
 
 // Has Intrinsic Property: Number of revolutions (IntegerProperty)
 // should convert - angles to positive ?
+// handle minutes and seconds
+// {N|S} or   {E|W}
+// formats like: {N|S} d° m.m′   N 12° 20.736'
+//               d° m' s" {N|S}  12° 20' 44" N
+//               [-]d.d          12.3456 or -98.7654
+
+// Decimal Degrees = Degrees + ((Minutes / 60) + (Seconds / 3600))
+// fractional part = 60 minutes  minutes = fraction * 60 seconds = fractional part of minutes * 60
+
 
 public class Angle implements IQuantity, IComputableProperties
 {
@@ -17,6 +26,8 @@ public class Angle implements IQuantity, IComputableProperties
 	
   private String name;
   private double radians;
+    
+  private char degSymbol = '°';
     
   private static double TwoPI = 2.0 * Math.PI;
     
@@ -69,6 +80,14 @@ public class Angle implements IQuantity, IComputableProperties
       double degrees = (radians / TwoPI) * 360.0;
       return Double.toString( degrees );
     }
+    else if (format.equals( "{N|S} d° m.m′" ))
+    {
+        double degrees = (radians / TwoPI) * 360.0;
+        
+    }
+    else if (format.equals( "d° m' s\" {N|S}"))
+    {
+    }
 		
     return null;
   }
@@ -86,6 +105,7 @@ public class Angle implements IQuantity, IComputableProperties
       double degrees = Double.parseDouble( value );
       this.radians = (degrees / 360.0) * TwoPI;
     }
+    
   }
 
   @Override

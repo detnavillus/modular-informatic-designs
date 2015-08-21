@@ -12,6 +12,13 @@ import com.modinfodesigns.property.transform.PropertyTransformException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * Takes an algebraic expression where the variable names are property names and computes
+ * a value from the IQuantity properties contained in an IPropertyHolder
+ *
+ * @author Ted Sullivan
+ */
+
 public class ExpressionCalculator implements IPropertyHolderTransform
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( ExpressionCalculator.class );

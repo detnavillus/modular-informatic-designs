@@ -43,6 +43,12 @@
   <property name="dest.dir.search-core.test" location="${classes.dir}/test/search-core" />
   <property name="res.dir.search-core"       location="${test.dir.search-core}/resources" />
   
+  <property name="src.dir.search-lucene"  location="${basedir}/search-lucene/${src.dir}" />
+  <property name="test.dir.search-luene"  location="${basedir}/search-lucene/${test.dir}" />
+  <property name="dest.dir.search-lucene" location="${classes.dir}/search-lucene" />
+  <property name="dest.dir.search-lucene.test" location="${classes.dir}/test/search-lucene" />
+  <property name="res.dir.search-lucene"       location="${test.dir.search-lucene}/resources" />
+  
   <property name="src.dir.taxo"  location="${basedir}/ontology/${src.dir}" />
   <property name="test.dir.taxo" location="${basedir}/ontology/${test.dir}" />
   <property name="dest.dir.taxo" location="${classes.dir}/ontology" />
@@ -155,7 +161,22 @@
     </javac>
   </target>
   
-  <target name="compile-all" depends="compile-app,compile-property,compile-network,compile-search-core,compile-ontology,compile-pipeline" />
+  <target name="compile-search-lucene" depends="compile-pipeline" >
+    <mkdir dir="${dest.dir.search-lucene}"/>
+    <javac srcdir="${src.dir.search-lucene}" destdir="${dest.dir.search-lucene}" includeantruntime="false" >
+      <classpath>
+        <fileset dir="${ivy.lib.dir}" includes="compile/*.jar" />
+        <pathelement location="${dest.dir.app}" />
+        <pathelement location="${dest.dir.prop}" />
+        <pathelement location="${dest.dir.net}" />
+        <pathelement location="${dest.dir.perst}" />
+        <pathelement location="${dest.dir.search-core}" />
+        <pathelement location="${dest.dir.pipe}" />
+      </classpath>
+    </javac>
+  </target>
+  
+  <target name="compile-all" depends="compile-app,compile-property,compile-network,compile-search-core,compile-ontology,compile-pipeline,compile-search-lucene" />
   
   <target name="compile-app-test" depends="compile-app" >
     <mkdir dir="${dest.dir.app.test}"/>
@@ -357,6 +378,12 @@
     </junit>
   </target>
   
+  <target name="compile-search-lucene-test" depends="compile-search-lucene" >
+  </target>
+  
+  <target name="test-search-lucene" depends="compile-search-lucene-test" >
+  </target>
+  
   <target name="build-app-jar" depends="test-app" >
     <jar jarfile="${dist.dir}/${dist.name}-app-core-${version.number}.jar" basedir="${dest.dir.app}"/>
   </target>
@@ -378,10 +405,14 @@
   </target>
   
   <target name="build-pipeline-jar" depends="test-pipeline" >
-    <jar jarfile="${dist.dir}/${dist.name}-pipeline-${version.number}.jar" basedir="${dest.dir.taxo}"/>
+    <jar jarfile="${dist.dir}/${dist.name}-pipeline-${version.number}.jar" basedir="${dest.dir.pipe}"/>
   </target>
   
-  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-ontology-jar,build-pipeline-jar" />
+  <target name="build-search-lucene-jar" depends="test-search-lucene" >
+    <jar jarfile="${dist.dir}/${dist.name}-search-lucene-${version.number}.jar" basedir="${dest.dir.search-lucene}"/>
+  </target>
+  
+  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-ontology-jar,build-pipeline-jar,build-search-lucene-jar" />
   <!-- ,build-search-core-jar,build-ontology-jar,build-pipeline-jar" /> -->
   
   <!-- Ivy -->

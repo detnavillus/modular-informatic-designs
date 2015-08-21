@@ -8,7 +8,8 @@ import com.modinfodesigns.property.quantity.IQuantity;
 import com.modinfodesigns.property.quantity.QuantityOperationException;
 
 /**
- * A computed quantity uses a calculator expression to derive a property from a set of properties held in an IPropertyHolder object.
+ * A computed quantity uses a calculator expression to derive a property from a 
+ * set of IQuantity properties held in an IPropertyHolder object.
  * 
  * @author Ted Sullivan
  */
