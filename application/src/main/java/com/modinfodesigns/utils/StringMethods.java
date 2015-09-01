@@ -280,6 +280,8 @@ public class StringMethods
     
   public static boolean isInteger( String string )
   {
+    if (string == null || string.length() == 0) return false;
+      
     for (int i = 0; i < string.length(); i++)
     {
       char fc = string.charAt( i );
@@ -294,6 +296,8 @@ public class StringMethods
     
   public static boolean isNumber( String string )
   {
+    if (string == null || string.length() == 0) return false;
+
     Matcher m = numberPat.matcher( string );
     return m.matches( );
   }

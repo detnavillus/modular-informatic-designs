@@ -85,6 +85,7 @@ public class XMLParserTransform extends BasePropertyTransform implements IDataOb
   {
     DataObjectCreator doc = new DataObjectCreator( );
     formatDataObjectCreator( doc, xmlReader );
+    LOG.info( "returning DataObject" );
     return doc.getDataObject( );
   }
     
@@ -201,6 +202,8 @@ public class XMLParserTransform extends BasePropertyTransform implements IDataOb
     {
       String charSt = new String( ch, start, length );
       LOG.debug( "characters: " + charSt );
+      if (charSt.trim().length() == 0) return;
+
       StringListProperty slp = (StringListProperty)currObject.getProperty( "text" );
       if (slp == null)
       {

@@ -44,6 +44,12 @@ public class TaxonomyDataSource implements IDataObjectSource
     
   private HashSet<String> uniqueNodes;
     
+    
+  public TaxonomyDataSource(  )
+  {
+    LOG.info( "Creating TaxonomyDataSource ..." );
+  }
+    
   public void setTaxonomyBuilder( ITaxonomyBuilder taxoBuilder )
   {
     this.taxoBuilder = taxoBuilder;
@@ -140,6 +146,7 @@ public class TaxonomyDataSource implements IDataObjectSource
         {
           for (IPropertyHolderTransform dataTransform : dataTransforms )
           {
+            System.out.println( "Running Data Transform: " + dataTransform );
             for (Iterator<DataObject> dit = nodeList.getData( ); dit.hasNext(); )
             {
               DataObject dobj = dit.next();
@@ -152,6 +159,7 @@ public class TaxonomyDataSource implements IDataObjectSource
                 // Oh damn!
               }
             }
+            System.out.println( "Data Transform DONE." );
           }
         }
                 

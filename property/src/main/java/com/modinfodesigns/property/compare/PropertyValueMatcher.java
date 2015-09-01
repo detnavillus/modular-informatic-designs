@@ -32,6 +32,14 @@ public class PropertyValueMatcher implements IPropertyHolderMatcher
     LOG.debug( "setPropertyMatcher( ) " + matcher );
     this.compareMatcher = matcher;
   }
+    
+  public void setValue( String value )
+  {
+    StringPropertyMatcher strMatcher = new StringPropertyMatcher( );
+    strMatcher.setValue( value );
+    strMatcher.setMode( "EQUALS" );
+    this.compareMatcher = strMatcher;
+  }
 
   @Override
   public boolean equals( IUserCredentials user, IProperty property )
@@ -45,9 +53,13 @@ public class PropertyValueMatcher implements IPropertyHolderMatcher
   @Override
   public boolean equals( IUserCredentials user, IPropertyHolder propHolder )
   {
+    if (propHolder == null) return false;
+      
     LOG.debug( "equals " + propHolder.getValue( ) );
     IProperty prop = propHolder.getProperty( propertyName );
 		
+    if (prop == null) return false;
+      
     LOG.debug( "Comparing property: " + propertyName + " = " + prop.getValue( ) + " with " + compareMatcher );
     boolean matches = (prop != null && compareMatcher.equals( user, prop ));
     LOG.debug( "Matches = " + matches );

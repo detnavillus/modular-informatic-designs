@@ -73,10 +73,11 @@ public class TestMappedProperty extends TestCase
     // ====================================================
     DataObject dobj = new DataObject( );
     dobj.setProperty( new StringProperty( "uno", "The First Property" ));
-        
+      System.out.println( dobj.getValue( ) );
     MappedProperty.create( "one", "uno", dobj );
     MappedProperty.create( "uno", "one", dobj );
-        
+    
+
     assertEquals( dobj.getValue( ), "{\"uno\":\"The First Property\"}" );
     IProperty oneProp = dobj.getProperty( "one" );
     IProperty unoProp = dobj.getProperty( "uno" );

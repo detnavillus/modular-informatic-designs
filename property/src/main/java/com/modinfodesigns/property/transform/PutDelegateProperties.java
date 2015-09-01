@@ -4,7 +4,10 @@ import com.modinfodesigns.property.DataObject;
 import com.modinfodesigns.property.DataObjectDelegate;
 import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.IPropertyHolder;
+import com.modinfodesigns.property.PropertyList;
 import com.modinfodesigns.property.string.StringProperty;
+
+import java.util.Iterator;
 
 public class PutDelegateProperties implements IPropertyHolderTransform
 {
@@ -37,6 +40,10 @@ public class PutDelegateProperties implements IPropertyHolderTransform
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
+    if (input instanceof IPropertyHolder )
+    {
+      return transformPropertyHolder( (IPropertyHolder)input );
+    }
     return input;
   }
     
@@ -44,6 +51,7 @@ public class PutDelegateProperties implements IPropertyHolderTransform
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input )
                                                   throws PropertyTransformException
   {
+    System.out.println( "PutDelegateProperties:transformPropertyHolder" );
     IProperty targetProp = null;
       
     if (sourceField.equals( "name" ))
@@ -58,23 +66,49 @@ public class PutDelegateProperties implements IPropertyHolderTransform
     }
       
     IProperty delegateProp = input.getProperty( delegateField );
-    if (!(delegateProp instanceof DataObject))
+    System.out.println( "  delegateProp " + delegateProp );
+    if (delegateProp instanceof DataObject )
     {
-      throw new PropertyTransformException( "Input property is not a DataObjectDelegate Instance!" );
+        addProperty( targetProp, (DataObject)delegateProp );
+    }
+    else if (delegateProp instanceof PropertyList )
+    {
+      PropertyList pl = (PropertyList)delegateProp;
+      Iterator<IProperty> propIt = pl.getProperties( );
+      while (propIt.hasNext( ) )
+      {
+        IProperty prp = propIt.next( );
+        if (prp instanceof DataObject )
+        {
+          addProperty( targetProp, (DataObject)prp );
+        }
+      }
+    }
+    else
+    {
+      System.out.println( "Could not add " + targetProp );
     }
       
-    DataObject delegate = (DataObject)delegateProp;
-      
+    return input;
+  }
+    
+  private void addProperty( IProperty targetProp, DataObject delegate )
+  {
+    if (delegate.getProxyObject( ) != null)
+    {
+      delegate = delegate.getProxyObject( );
+    }
+        
     if (multiValue)
     {
+      System.out.println( "PutDelegateProperties addProperty " + targetProp.getName( ) + " = " + targetProp.getValue( ) );
       delegate.addProperty( targetProp );
     }
     else
     {
+      System.out.println( "PutDelegateProperties setProperty " + targetProp.getName( ) + " = " + targetProp.getValue( ) );
       delegate.setProperty( targetProp );
     }
-      
-    return input;
   }
     
   @Override

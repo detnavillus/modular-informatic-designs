@@ -7,21 +7,23 @@ import com.modinfodesigns.property.DataObject;
 import com.modinfodesigns.property.DataObjectDelegate;
 import com.modinfodesigns.property.PropertyList;
 import com.modinfodesigns.property.IProperty;
+import com.modinfodesigns.property.string.StringProperty;
 
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.ArrayList;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
 {
-  private transient static final Logger Log = LoggerFactory.getLogger( RDFOWLOntologyBuilder.class );
+  private transient static final Logger LOG = LoggerFactory.getLogger( RDFOWLOntologyBuilder.class );
     
   @Override
   public ITaxonomyNode buildTaxonomy( DataObject context )
   {
-    Log.debug( "buildTaxonomy: " + context.getValue( IProperty.JSON_FORMAT ) );
+    LOG.info( "buildTaxonomy: " );
       
     // pass 1 set ID = rdf:about
     HashMap<String,TaxonomyNode> nodeMap = new HashMap<String,TaxonomyNode>( );
@@ -58,15 +60,23 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
         IProperty childProp = childPropIt.next( );
         if (childProp instanceof DataObject)
         {
-          DataObject childOb = (DataObject)childProp;
-          if (!childOb.getName().equals( "rdfs:subClassOf" ) && !childOb.getName().equals( "rdf:type" ))
+          resolveChildObject( (DataObject)childProp, node, nodeMap );
+        }
+        else if (childProp instanceof PropertyList )
+        {
+          Iterator<IProperty> plprops = ((PropertyList)childProp).getProperties( );
+          ArrayList<DataObject> plDobjs = new ArrayList<DataObject>( );
+          while (plprops.hasNext( ) )
           {
-            IProperty rdfResource = childOb.getProperty( "rdf:resource" );
-            if ( rdfResource != null )
+            IProperty listProp = plprops.next( );
+            if (listProp instanceof DataObject )
             {
-              System.out.println( "resolving " + childOb.getName( ) );
-              resolveResource( childOb, rdfResource, node, nodeMap );
+                plDobjs.add( (DataObject)listProp );
             }
+          }
+          for (DataObject childobj : plDobjs )
+          {
+            resolveChildObject( childobj, node, nodeMap );
           }
         }
       }
@@ -82,47 +92,81 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
         }
         catch (TaxonomyException te )
         {
-          Log.error( "Error: can't add " + node.getName( ) + "!!!" );
+          LOG.error( "Error: can't add " + node.getName( ) + "!!!" );
         }
       }
     }
       
+    System.out.println( "buildTaxonomy DONE!" );
     return rootNode;
+  }
+    
+  private void resolveChildObject( DataObject childOb, TaxonomyNode node, HashMap<String,TaxonomyNode> nodeMap )
+  {
+    if (!childOb.getName().equals( "rdfs:subClassOf" ) && !childOb.getName().equals( "rdf:type" ))
+    {
+      IProperty rdfResource = childOb.getProperty( "rdf:resource" );
+      if ( rdfResource != null )
+      {
+        System.out.println( "resolving " + childOb.getName( ) );
+        resolveResource( childOb, rdfResource, node, nodeMap );
+      }
+    }
   }
     
   private void addObjects( PropertyList objects, HashMap<String,TaxonomyNode> nodeMap )
   {
-
+    LOG.debug( "addObjects: " + objects );
     Iterator<IProperty> props = objects.getProperties( );
     while (props.hasNext( ) )
     {
-      DataObject dobj = (DataObject)props.next( );
-      Log.debug( "\n\n" + dobj.getValue( )  );
-      TaxonomyNode taxoNode = TaxonomyNode.createTaxonomyNode( dobj );
+      IProperty theProp = props.next( );
+      if (theProp instanceof PropertyList ) {
+        LOG.debug( "addObjects got a Property List!" );
+      }
+      else if (theProp instanceof DataObject ) {
+        DataObject dobj = (DataObject)theProp;
+        LOG.debug( "\n\n" + dobj.getValue( )  );
+        TaxonomyNode taxoNode = TaxonomyNode.createTaxonomyNode( dobj );
         
-      IProperty idProp = dobj.getProperty( "rdf:about" );
-      if (idProp != null)
-      {
-        taxoNode.setID( idProp.getValue( ) );
-        nodeMap.put( taxoNode.getID( ), taxoNode );
-                
-        IProperty nameProp = dobj.getProperty( "rdfs:label" );
-        if (nameProp != null)
+        IProperty idProp = dobj.getProperty( "rdf:about" );
+        if (idProp != null)
         {
-          // get the StringListProperty "text"
-          DataObject nameObj = (DataObject)nameProp;
-          IProperty name = nameObj.getProperty( "text" );
-          taxoNode.setName( name.getValue( ) );
+          LOG.info( "Adding " + idProp.getValue( ) );
+          taxoNode.setID( idProp.getValue( ) );
+          nodeMap.put( taxoNode.getID( ), taxoNode );
+                
+          IProperty nameProp = dobj.getProperty( "rdfs:label" );
+          if (nameProp != null)
+          {
+            if (nameProp instanceof PropertyList) {
+                LOG.debug( " Name is a List!" );
+                PropertyList nameL = (PropertyList)nameProp;
+                Iterator<IProperty> nameLit = nameL.getProperties( );
+                while (nameLit.hasNext( ) ) {
+                    IProperty aName = nameLit.next( );
+                    System.out.println( "  has name" + aName.getValue( ) );
+                }
+            }
+            else if (nameProp instanceof DataObject ){
+              LOG.debug( "Adding nameProp: " + nameProp );
+              // get the StringListProperty "text"
+              DataObject nameObj = (DataObject)nameProp;
+              IProperty name = nameObj.getProperty( "text" );
+              LOG.debug( "setting name = " + name.getValue( ) );
+              taxoNode.setName( name.getValue( ) );
+            }
+          }
         }
       }
     }
       
-    Log.debug( "addObjects - DONE!" );
+    LOG.debug( "addObjects - DONE!" );
   }
     
   private void addParents( IProperty objects, TaxonomyNode childNode, HashMap<String,TaxonomyNode> nodeMap )
   {
-    Log.debug( "addParents " + objects + ", " + childNode + "," + nodeMap );
+    LOG.debug( "addParents " + objects + ", " + childNode + "," + nodeMap );
     try
     {
       if (objects instanceof PropertyList)
@@ -137,7 +181,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
           if (propID != null )
           {
             TaxonomyNode parentNode = nodeMap.get( propID );
-            Log.debug( "propID = " + propID + " parentNode = " + parentNode );
+            LOG.debug( "propID = " + propID + " parentNode = " + parentNode );
             parentNode.addChildNode( childNode );
           }
         }
@@ -146,7 +190,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
       {
         // System.out.println( "Its a DataObject : " + objects.getValue( ) );
         String propID = ((DataObject)objects).getProperty( "rdf:resource" ).getValue( );
-        Log.debug( "propID = " + propID );
+        LOG.debug( "propID = " + propID );
         if (propID != null)
         {
           TaxonomyNode parentNode = nodeMap.get( propID );
@@ -156,19 +200,33 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     }
     catch ( TaxonomyException te )
     {
-      Log.error( "Error: can't add " + objects.getName( ) + "!!!" );
+      LOG.error( "Error: can't add " + objects.getName( ) + "!!!" );
     }
   }
 
   private void resolveResource( DataObject obj, IProperty resourceProp, TaxonomyNode taxoNode, HashMap<String,TaxonomyNode> nodeMap )
   {
-    String propID = resourceProp.getValue( );
+    if (resourceProp == null) {
+      LOG.error( "resourceProp is NULL!" );
+      return;
+    }
+    String propID = (resourceProp instanceof StringProperty) ? resourceProp.getValue( ) : null;
+    if (propID == null) return;
+    
+    LOG.debug( taxoNode + ": resolveResource: " + propID + " object name = " + obj.getName( ) );
     TaxonomyNode refNode = nodeMap.get( propID );
-    taxoNode.removeDataObject( refNode.getID( ) );
-    DataObjectDelegate delegate = new DataObjectDelegate( refNode );
-    delegate.setName( obj.getName( ) );
-    // need to set its ID to ref.getID( ) ???
-    taxoNode.addProperty( delegate );
+    if (refNode != null && refNode.getID( ) != null ) {
+      taxoNode.removeDataObject( refNode.getID( ) );
+      LOG.debug( "adding delegate" );
+      DataObjectDelegate delegate = new DataObjectDelegate( refNode );
+      delegate.setName( obj.getName( ) );
+      // need to set its ID to ref.getID( ) ???
+        System.out.println( "taxo node " + taxoNode.getName( ) + " add delegate " + delegate.getName( )  + " = " + obj.getName( ) );
+      taxoNode.addProperty( delegate );
+    }
+    else {
+      System.out.println( "Cannot resolve resource: " + propID );
+    }
   }
         
 }

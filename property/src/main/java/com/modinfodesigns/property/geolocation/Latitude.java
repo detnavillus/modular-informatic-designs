@@ -26,7 +26,7 @@ public class Latitude implements IQuantity
 
   private static double TwoPI = 2.0 * Math.PI;
     
-  public static String[] VALID_UNITS = { "degrees", "radians" };
+  public static String[] VALID_UNITS = { "degrees", "radians", "N|S degrees", "degrees N|S" };
     
   private String defaultUnits = "degrees";
     
@@ -77,6 +77,18 @@ public class Latitude implements IQuantity
     if (format == null || format.equals( "radians" ))
     {
       return Double.toString( (degrees / 360.0) * TwoPI );
+    }
+    else if (format.equals( "N|S degrees" ) || format.equals( "NS degrees" ) || format.equals( "N/S degrees" ))
+    {
+      StringBuilder strb = new StringBuilder( );
+      strb.append( (degrees >= 0.0) ? "N " : "S " ).append( Double.toString( degrees ));
+      return strb.toString( );
+    }
+    else if (format.equals( "degrees N|S" ) || format.equals( "degrees NS" ) | format.equals( "degrees N/S" ))
+    {
+      StringBuilder strb = new StringBuilder( );
+      strb.append( Double.toString( degrees )).append( (degrees >= 0.0) ? " N" : " S" );
+      return strb.toString( );
     }
     else if (format.equals( "{N|S} d° m.m′" ))
     {
@@ -130,7 +142,25 @@ public class Latitude implements IQuantity
       {
         this.degrees = Double.parseDouble( value );
       }
-     // else if its a funky pattern ...
+      // could use regex here
+      else if (format.equals( "N|S degrees" ) || format.equals( "NS degrees") || format.equals( "N/S degrees"))
+      {
+        String[] parts = format.split( " " );
+        this.degrees = Double.parseDouble( parts[1] );
+        if (parts[0].equalsIgnoreCase( "S" ))
+        {
+          this.degrees = -this.degrees;
+        }
+      }
+      else if (format.equals( "degrees N|S" ) || format.equals( "degrees NS") || format.equals( "degrees N/S" ))
+      {
+        String[] parts = format.split( " " );
+        this.degrees = Double.parseDouble( parts[0] );
+        if (parts[1].equalsIgnoreCase( "S" ))
+        {
+          this.degrees = -this.degrees;
+        }
+      }
         
       if (this.degrees > 90.0 || this.degrees < -90.0 )
       {

@@ -35,7 +35,7 @@ public class NestedPropertyTransform implements IPropertyHolderTransform
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
-    LOG.info( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
+    LOG.debug( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
       
     if (propTransforms == null) return input;
 		
@@ -58,7 +58,7 @@ public class NestedPropertyTransform implements IPropertyHolderTransform
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
-    LOG.info( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
+    LOG.debug( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
       
     IProperty nestedProp = input.getProperty( nestedProperty );
     if ( nestedProp != null )

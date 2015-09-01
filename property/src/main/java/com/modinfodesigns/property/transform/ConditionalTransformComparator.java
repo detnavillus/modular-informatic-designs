@@ -25,8 +25,10 @@ public class ConditionalTransformComparator
   private IPropertyMatcher propMatcher;
 	
   private ArrayList<IPropertyTransform> propTransforms;
+  private ArrayList<IPropertyTransform> notMatchedTransforms;
 	
   private ArrayList<IPropertyHolderTransform> propHolderTransforms;
+  private ArrayList<IPropertyHolderTransform> notMatchedDataTransforms;
 	
   private IPropertyHolderMatcher propHolderMatcher;
 
@@ -36,10 +38,21 @@ public class ConditionalTransformComparator
     if (propTransforms == null) propTransforms = new ArrayList<IPropertyTransform>( );
     this.propTransforms.add( propTransform );
   }
+    
+  public void addNotMatchedTransform( IPropertyTransform notMatchedTransform )
+  {
+    if (notMatchedTransforms == null) notMatchedTransforms = new ArrayList<IPropertyTransform>( );
+    notMatchedTransforms.add( notMatchedTransform );
+  }
 		
   public List<IPropertyTransform> getPropertyTransforms( )
   {
     return this.propTransforms;
+  }
+
+  public List<IPropertyTransform> getNotMatchedTransforms( )
+  {
+    return this.notMatchedTransforms;
   }
 	
   public void addDataTransform( IPropertyHolderTransform propTransform )
@@ -47,10 +60,23 @@ public class ConditionalTransformComparator
     if (propHolderTransforms == null) propHolderTransforms = new ArrayList<IPropertyHolderTransform>( );
     this.propHolderTransforms.add( propTransform );
   }
+    
+  public void addNotMatchedDataTransform( IPropertyHolderTransform notMatchedDataTransform )
+  {
+      System.out.println( "Adding not matched data transform " + notMatchedDataTransform );
+    if (notMatchedDataTransforms == null) notMatchedDataTransforms = new ArrayList<IPropertyHolderTransform>( );
+    notMatchedDataTransforms.add( notMatchedDataTransform );
+  }
 		
   public List<IPropertyHolderTransform> getDataTransforms( )
   {
     return this.propHolderTransforms;
+  }
+
+  public List<IPropertyHolderTransform> getNotMatchedDataTransforms( )
+  {
+    
+    return this.notMatchedDataTransforms;
   }
 		
   public void setPropertyMatcher( IPropertyMatcher propertyMatcher )

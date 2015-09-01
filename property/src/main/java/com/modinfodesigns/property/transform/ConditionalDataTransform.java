@@ -57,6 +57,7 @@ public class ConditionalDataTransform extends ConditionalPropertyTransform imple
         List<IPropertyHolderTransform> pts = ct.getDataTransforms( );
         if (pts != null)
         {
+          System.out.println( "matches - applying Property Transforms" );
           for (int t = 0; t < pts.size(); t++)
           {
             IPropertyHolderTransform pt = pts.get( t );
@@ -75,7 +76,22 @@ public class ConditionalDataTransform extends ConditionalPropertyTransform imple
       }
       else
       {
-        LOG.debug( "propertyHolderMatcher " + propHolderMatcher + " does NOT match!"  );
+        System.out.println( "propertyHolderMatcher " + propHolderMatcher + " does NOT match!"  );
+        List<IPropertyHolderTransform> nts = ct.getNotMatchedDataTransforms( );
+        if (nts != null)
+        {
+          System.out.println( "Applying not matched data transforms" );
+          for (int t = 0; t < nts.size(); t++)
+          {
+            IPropertyHolderTransform pt = nts.get( t );
+            input = pt.transformPropertyHolder( input );
+          }
+              
+          if (mode.equals( "FIRST_ONLY" ))
+          {
+            return input;
+          }
+        }
       }
     }
 		

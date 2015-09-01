@@ -9,8 +9,12 @@ import com.modinfodesigns.property.string.StringProperty;
 
 import com.modinfodesigns.ontology.ITaxonomyNode;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.HashSet;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * Creates the set of paths contained by a TaxonomyNode and creates a
@@ -48,6 +52,8 @@ import java.util.HashSet;
 
 public class TaxonomyPathRollupAggregator implements IPropertyHolderTransform
 {
+  private transient static final Logger LOG = LoggerFactory.getLogger( TaxonomyPathRollupAggregator.class );
+    
   private String pathSeparator = "/";
     
   private String fieldSuffix = "_Type";
@@ -56,6 +62,10 @@ public class TaxonomyPathRollupAggregator implements IPropertyHolderTransform
   private boolean onlyParentNodes = false;
     
   private boolean skipRootNode = true;
+    
+  private List<String> excludedNodes;
+    
+    private List<String> includeLeafNodesFor;
     
   public void setFieldSuffix( String fieldSuffix )
   {
@@ -75,6 +85,24 @@ public class TaxonomyPathRollupAggregator implements IPropertyHolderTransform
   public void setSkipRootNode( boolean skipRootNode )
   {
     this.skipRootNode = skipRootNode;
+  }
+    
+  public void addExcludedNode( String excludedNode )
+  {
+    if (excludedNodes == null) excludedNodes = new ArrayList<String>( );
+    excludedNodes.add( excludedNode );
+  }
+    
+  public void setExcludedNode( String excludedNode )
+  {
+    addExcludedNode( excludedNode );
+  }
+    
+  public void addIncludeLeafNodesFor( String includeLeafNodes )
+  {
+    System.out.println( "addIncludeLeafNodesFor " + includeLeafNodes );
+    if (this.includeLeafNodesFor == null) this.includeLeafNodesFor = new ArrayList<String>( );
+    this.includeLeafNodesFor.add( includeLeafNodes );
   }
     
   @Override
@@ -106,6 +134,7 @@ public class TaxonomyPathRollupAggregator implements IPropertyHolderTransform
     
   private void transformTaxo( ITaxonomyNode taxoNode )
   {
+    LOG.debug( "TaxonomyPathRollupAggregator: transformTaxo" );
     List<String> paths = taxoNode.getPaths( );
         
     if (paths != null)
@@ -113,12 +142,26 @@ public class TaxonomyPathRollupAggregator implements IPropertyHolderTransform
       for (String path : paths )
       {
         String[] segments = path.split( pathSeparator );
-        int rootSeg = (skipRootNode) ? 1 : 0;
-        if (segments.length < rootSeg + 1 ) return;
+        int rootSeg = (skipRootNode) ? 2 : 1;
+          
         String pathName = segments[ rootSeg ] + fieldSuffix;
-        for (int i = rootSeg + 1; i < segments.length; i++ )
+        pathName = pathName.replaceAll( " ", "_" );
+        
+        // Figure out whether to skip Leaf Nodes for this path
+        boolean skipLeafNodes = !( includeLeafNodesFor != null && includeLeafNodesFor.contains( pathName ));
+        System.out.println( "skipLeafNodes for " + pathName + " = " + skipLeafNodes );
+        int endSeg = (skipLeafNodes) ? segments.length - 1 : segments.length;
+        if (endSeg < rootSeg + 1 ) return;
+          
+        LOG.debug( segments[0] );
+
+        for (int i = rootSeg + 1; i < endSeg; i++ )
         {
-          taxoNode.addProperty( new StringProperty( pathName, segments[i] ) );
+          if (excludedNodes == null || !excludedNodes.contains( segments[i] ))
+          {
+            LOG.debug( " add: " + pathName + " = " + segments[i] );
+            taxoNode.addProperty( new StringProperty( pathName, segments[i] ) );
+          }
         }
       }
     }

@@ -17,6 +17,7 @@ public class SetPropertyTransform extends BasePropertyTransform implements IProp
 	
   public void setProperty( IProperty property )
   {
+    System.out.println( "setProperty " + property + " " + property.getValue( ) );
     this.newProperty = property;
   }
 	
@@ -41,6 +42,7 @@ public class SetPropertyTransform extends BasePropertyTransform implements IProp
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
+    System.out.println( "SetPropertyTransform.transformPropertyHolder..." );
     if (newProperty != null)
     {
       if (isAdd)
@@ -49,6 +51,7 @@ public class SetPropertyTransform extends BasePropertyTransform implements IProp
       }
       else
       {
+        System.out.println( "setProperty: " + newProperty.getName( ) + " = " + newProperty.getValue( ) );
         input.setProperty( newProperty.copy() );
       }
     }

@@ -48,6 +48,7 @@ public abstract class XMLTaxonomyBuilder implements ITaxonomyBuilder
     {
       return taxonomyXML;
     }
+    LOG.info( "Reading " + taxonomyFile );
     return FileMethods.readFile( taxonomyFile );
   }
 }

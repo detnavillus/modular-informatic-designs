@@ -34,7 +34,7 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
-    LOG.info( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
+    LOG.debug( "transform " + input.getValue( IProperty.JSON_FORMAT ) );
     if (propTransforms == null)
     {
       throw new PropertyTransformException( "No Property Transforms defined" );
@@ -53,7 +53,7 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
   @Override
   public IPropertyHolder transformPropertyHolder( IPropertyHolder input ) throws PropertyTransformException
   {
-    LOG.info( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
+    LOG.debug( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
       
     IProperty inputProp = getInputProperty( input );
 
@@ -61,12 +61,12 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
 		
     if (outputProperty != null)
     {
-      LOG.info( "Got output property " + outputProperty.getClass().getName( ) + " val = " + outputProperty.getValue( ) );
+      LOG.debug( "Got output property " + outputProperty.getClass().getName( ) + " val = " + outputProperty.getValue( ) );
       if (outputPropertyName != null) outputProperty.setName( outputPropertyName );
       input.setProperty( outputProperty );
     }
     else {
-      LOG.info( "No Output Property created!" );
+      LOG.error( "No Output Property created for " + outputPropertyName );
     }
 		
     return input;
@@ -103,7 +103,7 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
 	
   public void setInputProperty( String inputProperty )
   {
-    LOG.info( "setInputProperty : " + inputProperty );
+    LOG.debug( "setInputProperty : " + inputProperty );
     inputPropertyList = new String[1];
     inputPropertyList[0] = inputProperty;
   }

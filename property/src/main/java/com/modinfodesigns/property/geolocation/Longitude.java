@@ -76,6 +76,18 @@ public class Longitude implements IQuantity
     {
       return Double.toString( (degrees / 360.0) * TwoPI );
     }
+    else if (format.equals( "E|W degrees" ) || format.equals( "EW degrees" ) || format.equals( "E/W degrees"))
+    {
+        StringBuilder strb = new StringBuilder( );
+        strb.append( (degrees >= 0.0) ? "E " : "W " ).append( Double.toString( degrees ));
+        return strb.toString( );
+    }
+    else if (format.equals( "degrees E|W" ) || format.equals( "degrees EW" ) || format.equals( "degrees E/W"))
+    {
+        StringBuilder strb = new StringBuilder( );
+        strb.append( Double.toString( degrees )).append( (degrees >= 0.0) ? " E" : " W" );
+        return strb.toString( );
+    }
     else if (format.equals( "{E|W} d° m.m′" ))
     {
       // calculate minutes in decimal
@@ -128,7 +140,25 @@ public class Longitude implements IQuantity
       {
         this.degrees = Double.parseDouble( value );
       }
-            
+      else if (format.equals( "E|W degrees" ) || format.equals( "EW degrees") || format.equals( "E/W degrees"))
+      {
+        String[] parts = format.split( " " );
+        this.degrees = Double.parseDouble( parts[1] );
+        if (parts[0].equalsIgnoreCase( "W" ))
+        {
+          this.degrees = -this.degrees;
+        }
+      }
+      else if (format.equals( "degrees E|W" ) || format.equals( "degrees EW") || format.equals( "degrees E/W"))
+      {
+        String[] parts = format.split( " " );
+        this.degrees = Double.parseDouble( parts[0] );
+        if (parts[1].equalsIgnoreCase( "W" ))
+        {
+          this.degrees = -this.degrees;
+        }
+      }
+
       if (this.degrees > 180.0 || this.degrees < -180.0 )
       {
         throw new PropertyValidationException( "Degrees must be between -180.0 and 180.0" );

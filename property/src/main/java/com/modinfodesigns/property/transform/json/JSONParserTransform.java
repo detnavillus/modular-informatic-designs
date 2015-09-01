@@ -114,7 +114,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       {
         return new BooleanProperty( name, valStr );
       }
-      else
+      else if (valStr.length() > 0)
       {
         return new StringProperty( name, valStr );
       }
@@ -132,8 +132,11 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       for (int i = 0; i < values.size(); i++)
       {
         IProperty prop = transformString( values.get(i) );
-        prop.setName( name );
-        pl.addProperty( prop );
+        if (prop != null)
+        {
+          prop.setName( name );
+          pl.addProperty( prop );
+        }
       }
             
       return pl;
@@ -387,8 +390,11 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
         {
           valStr = findMatching( valStr, "{", "}" );
           IProperty prop = transformString( valStr );
-          prop.setName( name );
-          dobj.addProperty( prop );
+          if (prop != null)
+          {
+            prop.setName( name );
+            dobj.addProperty( prop );
+          }
         }
         // if value starts with [ find matching ] value is an Array - make it a PropertyList
         // wouldn't be found by getValue( ) if it has a trailing comma ...
@@ -405,8 +411,11 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
           for (int i = 0; i < jsonArray.size( ); i++)
           {
             IProperty prop = transformString( jsonArray.get( i ) );
-            prop.setName( name );
-            pl.addProperty( prop );
+            if (prop != null)
+            {
+              prop.setName( name );
+              pl.addProperty( prop );
+            }
           }
                     
           dobj.addProperty( pl );
@@ -485,8 +494,11 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
         for (int i = 0, isz = values.size( ); i < isz; i++)
         {
           IProperty prop = transformString( values.get(i) );
-          prop.setName( name );
-          pl.addProperty( prop );
+          if (prop != null)
+          {
+            prop.setName( name );
+            pl.addProperty( prop );
+          }
         }
                 
         dobj.addProperty( pl );

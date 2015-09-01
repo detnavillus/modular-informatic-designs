@@ -1,0 +1,17 @@
+<ConfigurationXML>
+
+  <Transform class="com.modinfodesigns.transform.CopyPropertyTransform"
+             name="FooBarCopy" 
+             copyFrom="foobar" 
+             copyTo="bazbat" >
+
+    <PropertyTransform class="com.modinfodesigns.transform.string.StringPropertyTransform" >
+      <StringTransform class="com.modinfodesigns.transform.string.ConcatenateStringTransform" />
+    </PropertyTransform>
+
+    <PropertyTransform class="com.modinfodesigns.transform.xml.XMLPropertyTransform" />
+
+  </Transform>
+
+
+</ConfigurationXML>

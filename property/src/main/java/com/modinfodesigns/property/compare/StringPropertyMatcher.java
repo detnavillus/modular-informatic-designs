@@ -53,10 +53,10 @@ public class StringPropertyMatcher implements IPropertyMatcher
     if (property instanceof StringProperty)
     {
       String propValue = ((StringProperty)property).getValue();
-      LOG.debug( "Prop value = '" + propValue + "'" );
-      LOG.debug( "compareValue = '" + compareValue + "'" );
+      System.out.println( "Prop value = '" + propValue + "'" );
+      System.out.println( "compareValue = '" + compareValue + "'" );
     		
-      if (mode.equals( "EQUALS" ))
+      if (mode == null || mode.equals( "EQUALS" ))
       {
         return (caseSensitive) ? propValue.equals( compareValue ) : propValue.equalsIgnoreCase( compareValue );
       }

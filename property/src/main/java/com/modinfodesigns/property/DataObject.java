@@ -17,6 +17,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -203,8 +204,18 @@ public class DataObject implements IPropertyHolder
   @Override
   public String getValue( String format )
   {
-    if (proxyObject != null) return proxyObject.getValue( format );
-    	
+    HashSet<String> dobjs = new HashSet<String>( );
+    dobjs.add( this.toString( ) );
+      
+    if (proxyObject != null)
+    {
+      return proxyObject.getValue( format, dobjs );
+    }
+    return doGetValue( format, dobjs );
+  }
+    
+  protected String doGetValue( String format, Set<String> dobjs )
+  {
     if (format == null || format.equals( IProperty.JSON_FORMAT ) || format.equals( IProperty.JSON_VALUE ))
     {
       StringBuilder sbr = new StringBuilder( );
@@ -243,14 +254,23 @@ public class DataObject implements IPropertyHolder
             chObj.jsonNameLabel = this.jsonNameLabel;
                 		
             sbr.append( "\"" ).append( chObj.getName() ).append( "\":" )
-               .append( chObj.getValue( IProperty.JSON_FORMAT ));
+               .append( chObj.getValue( IProperty.JSON_FORMAT, dobjs ));
     				    
             chObj.jsonNameLabel = chLabel;
           }
           else
           {
             sbr.append( "\"" ).append( prop.getName() ).append( "\":" );
-            String propVal = prop.getValue( IProperty.JSON_VALUE );
+            String propVal = null;
+            if (prop instanceof PropertyList)
+            {
+              PropertyList pl = (PropertyList)prop;
+              propVal = pl.getValue( IProperty.JSON_VALUE, dobjs );
+            }
+            else
+            {
+              propVal = prop.getValue( IProperty.JSON_VALUE );
+            }
             if (propVal == null) propVal = "";
     				    
             if (!propVal.startsWith( "\"")  && !propVal.endsWith( "\"" ) )
@@ -288,7 +308,7 @@ public class DataObject implements IPropertyHolder
       {
         if ((value instanceof IntrinsicPropertyDelegate) == false)
         {
-          sbr.append( value.getValue( format ));
+          sbr.append( getValue( value, format, dobjs ));
         }
       }
             
@@ -319,17 +339,82 @@ public class DataObject implements IPropertyHolder
       IProperty nestedProp = getProperty( format );
       if (nestedProp != null)
       {
-        return nestedProp.getValue( );
+        return getValue( nestedProp, dobjs );
       }
         
       return null;
     }
   }
     
+  private String getValue( IProperty prop, String format, Set<String> dobjs )
+  {
+    if (format == null) return getValue( prop, dobjs );
+
+    if (prop instanceof DataObject)
+    {
+      DataObject dob = (DataObject)prop;
+      return  dob.getValue( format, dobjs );
+    }
+    else if (prop instanceof PropertyList )
+    {
+      PropertyList pl = (PropertyList)prop;
+      return pl.getValue( format, dobjs );
+    }
+    else
+    {
+      return prop.getValue( format );
+    }
+  }
+    
+  private String getValue( IProperty prop, Set<String> dobjs )
+  {
+    if (prop instanceof DataObject)
+    {
+      DataObject dob = (DataObject)prop;
+      return  dob.getValue( dobjs );
+    }
+    else if (prop instanceof PropertyList )
+    {
+      PropertyList pl = (PropertyList)prop;
+      return pl.getValue( dobjs );
+    }
+    else
+    {
+      return prop.getValue(  );
+    }
+  }
+    
+  String getValue( String format, Set<String> dobjs )
+  {
+    if (dobjs.contains( this.toString() ) )
+    {
+      return "@" + getName( );
+    }
+    dobjs.add( this.toString( ) );
+    return doGetValue( format, dobjs );
+  }
+        
+  String getValue( Set<String> dobjs )
+  {
+    if (dobjs.contains( this.toString() ) )
+    {
+      return "@" + getName( );
+    }
+    dobjs.add( this.toString( ) );
+    return doGetValue( null, dobjs );
+  }
+    
   // Treats [pname] or ['pname'] as getProperty( "pname" ).getValue( )
   public String getReferencedValue( String query )
   {
-    if (proxyObject != null) return proxyObject.getReferencedValue( query );
+    HashSet<String> dobjs = new HashSet<String>( );
+    dobjs.add( this.toString( ) );
+    return getReferencedValue( query, dobjs );
+  }
+
+  protected String getReferencedValue( String query, Set<String> dobjs )
+  {
+    if (proxyObject != null) return proxyObject.getReferencedValue( query, dobjs );
     	
     if (query == null) return null;
             
@@ -341,8 +426,7 @@ public class DataObject implements IPropertyHolder
     {
       format = new String( query.substring( query.indexOf( "]" ) + 1 )).trim( );
     }
-        
-    return (format != null) ? prop.getValue( format ) : prop.getValue( );
+    return getValue( prop, format, dobjs );
   }
 
   @Override

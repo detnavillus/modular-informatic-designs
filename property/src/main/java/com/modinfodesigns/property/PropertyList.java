@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Set;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -266,11 +267,21 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
   @Override
   public String getValue()
   {
-    return getValue( IProperty.XML_FORMAT );
+    return getValue( IProperty.XML_FORMAT, null );
   }
 
   @Override
   public String getValue( String format )
+  {
+    return getValue( format, null );
+  }
+    
+  public String getValue( Set<String> dobjs )
+  {
+    return getValue( (String)null, dobjs );
+  }
+    
+  public String getValue( String format, Set<String> dobjs )
   {
     LOG.debug( "getValue( " + format + " )" );
         
@@ -286,7 +297,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
       for (int i = 0, isz = propList.size( ); i < isz; i++)
       {
         IProperty prop = propList.get( i );
-        sbr.append( prop.getValue( format ));
+        sbr.append( getValue( prop, format, dobjs ));
       }
       sbr.append( "</PropertyList>" );
       return sbr.toString( );
@@ -295,7 +306,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
     {
       StringBuilder sbr = new StringBuilder( );
       sbr.append( "\"" ).append( name ).append( "\":" );
-      sbr.append( getValue( IProperty.JSON_VALUE ) );
+      sbr.append( getValue( IProperty.JSON_VALUE, dobjs ) );
       return sbr.toString( );
     }
     else if (format.equals( IProperty.JSON_VALUE ))
@@ -307,11 +318,11 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
         IProperty prop = propList.get( i );
         if (prop instanceof DataObject)
         {
-          sbr.append( prop.getValue( IProperty.JSON_FORMAT ));
+          sbr.append( getValue( prop, IProperty.JSON_FORMAT, dobjs ));
         }
         else
         {
-          sbr.append( prop.getValue( IProperty.JSON_VALUE ));
+          sbr.append( getValue( prop, IProperty.JSON_VALUE, dobjs ));
         }
         if (i < (isz - 1)) sbr.append( "," );
       }
@@ -325,7 +336,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
       for (int i = 0, isz = propList.size( ); i < isz; i++)
       {
         IProperty prop = propList.get( i );
-        sbr.append( prop.getName() ).append( nameValueDelimiter).append( prop.getValue( ));
+        sbr.append( prop.getName() ).append( nameValueDelimiter).append( getValue( prop, dobjs ));
         if (i < (isz - 1)) sbr.append( propertyDelimiter );
       }
       return sbr.toString( );
@@ -338,7 +349,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
       for (int i = 0, isz = propList.size( ); i < isz; i++)
       {
         IProperty prop = propList.get( i );
-        sbr.append( prop.getName() ).append( nameValueDelimiter ).append( prop.getValue( ));
+        sbr.append( prop.getName() ).append( nameValueDelimiter ).append( getValue( prop, dobjs ));
         if (i < (isz - 1)) sbr.append( delimiter );
       }
         
@@ -352,7 +363,7 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
       for (int i = 0, isz = propList.size( ); i < isz; i++)
       {
         IProperty prop = propList.get( i );
-        sbr.append( prop.getValue( ));
+        sbr.append( getValue( prop, dobjs));
         if (i < (isz - 1)) sbr.append( delimiter );
       }
         
@@ -361,6 +372,46 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
         
     return null;
   }
+    
+  String getValue( IProperty prop, String format, Set<String> dobjs )
+  {
+    if (format == null) return getValue( prop, dobjs );
+        
+    if (prop instanceof DataObject)
+    {
+      DataObject dob = (DataObject)prop;
+      return  (dobjs != null) ? dob.getValue( format, dobjs ) : dob.getValue( format );
+    }
+    else if (prop instanceof PropertyList )
+    {
+      PropertyList pl = (PropertyList)prop;
+      return pl.getValue( format, dobjs );
+    }
+    else
+    {
+      return prop.getValue( format );
+    }
+  }
+
+    
+  String getValue( IProperty prop, Set<String> dobjs )
+  {
+    if (prop instanceof DataObject)
+    {
+      DataObject dob = (DataObject)prop;
+      return  (dobjs != null) ? dob.getValue( ) : dob.getValue( dobjs );
+    }
+    else if (prop instanceof PropertyList )
+    {
+      PropertyList pl = (PropertyList)prop;
+      return pl.getValue( dobjs );
+    }
+    else
+    {
+      return prop.getValue(  );
+    }
+  }
+
     
   public int size( )
   {

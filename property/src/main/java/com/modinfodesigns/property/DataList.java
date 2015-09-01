@@ -128,6 +128,17 @@ public class DataList extends DataObject implements IDataList
         sbr.append( " ID=\"" ).append( StringTransform.escapeXML( getID( ) )).append( "\"" );
       }
       sbr.append( ">" );
+        
+      for (Iterator<IProperty> propIt = getProperties(); propIt.hasNext( ); )
+      {
+        IProperty prop = propIt.next();
+        
+        if ((prop instanceof IntrinsicPropertyDelegate) == false &&
+            (prop instanceof IFunctionProperty) == false)
+        {
+          sbr.append( prop.getValue( format ));
+        }
+      }
 			
       for (Iterator<DataObject> daIt = getData( ); daIt.hasNext(); )
       {

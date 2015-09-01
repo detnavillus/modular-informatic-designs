@@ -6,6 +6,7 @@ import com.modinfodesigns.property.IPropertyHolder;
 import com.modinfodesigns.property.DataObject;
 
 import com.modinfodesigns.property.transform.string.IDataListRenderer;
+import com.modinfodesigns.property.transform.string.IPropertyHolderRenderer;
 import com.modinfodesigns.property.string.StringProperty;
 
 import com.modinfodesigns.utils.FileMethods;
@@ -44,6 +45,8 @@ public class FileDataProcessor implements IDataObjectProcessor
     
   private IDataListRenderer dataListRenderer;
     
+  private IPropertyHolderRenderer dataRenderer;
+    
   private String name;
     
   public void setName( String name )
@@ -76,6 +79,11 @@ public class FileDataProcessor implements IDataObjectProcessor
   {
     this.dataListRenderer = dataListRenderer;
   }
+   
+  public void addDataRenderer( IPropertyHolderRenderer dataRenderer )
+  {
+    this.dataRenderer = dataRenderer;
+  }
     
   public void setOutputFormat( String format )
   {
@@ -97,6 +105,16 @@ public class FileDataProcessor implements IDataObjectProcessor
       String fileName = getFileName( (DataObject)data );
       FileMethods.writeFile( fileName, xml );
     }
+    else if (dataRenderer != null)
+    {
+      for ( Iterator<DataObject> dit = data.getData(); dit.hasNext(); )
+      {
+        DataObject dobj = dit.next();
+        String xml = dataRenderer.renderPropertyHolder( dobj );
+        String fileName = getFileName( dobj );
+        FileMethods.writeFile( fileName, xml );
+      }
+    }
     else
     {
       for ( Iterator<DataObject> dit = data.getData(); dit.hasNext(); )
@@ -106,6 +124,7 @@ public class FileDataProcessor implements IDataObjectProcessor
         String fileName = getFileName( dobj );
         LOG.debug( "Saving file: " + fileName );
         String xml = dobj.getValue( format );
+        System.out.println( fileName + ":    " + xml );
         FileMethods.writeFile( fileName, xml );
       }
     }
@@ -128,8 +147,9 @@ public class FileDataProcessor implements IDataObjectProcessor
     {
       fileName = DEFAULT_FILE_PREFIX  + Integer.toString( fileNum++ );
     }
-	    
-    fileName = new String( outputDirectory + "/" + fileName + ".xml" );
+      
+    String outputPath = FileMethods.resolveRelativePath( outputDirectory );
+    fileName = new String( outputPath + "/" + fileName + ".xml" );
 	    
     if (fileNameOutputProperty != null && dobj.getProperty( fileNameOutputProperty ) == null)
     {

@@ -412,7 +412,7 @@
     <jar jarfile="${dist.dir}/${dist.name}-search-lucene-${version.number}.jar" basedir="${dest.dir.search-lucene}"/>
   </target>
   
-  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-ontology-jar,build-pipeline-jar,build-search-lucene-jar" />
+  <target name="dist" depends="build-app-jar,build-prop-jar,build-net-jar,build-ontology-jar,build-pipeline-jar,build-search-core-jar,build-search-lucene-jar" />
   <!-- ,build-search-core-jar,build-ontology-jar,build-pipeline-jar" /> -->
   
   <!-- Ivy -->

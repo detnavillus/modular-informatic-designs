@@ -53,7 +53,9 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
   private static final String[] INTERFACE_NAME_MAP = { "DataSource",              "com.modinfodesigns.pipeline.source.IDataObjectSource",
                                                        "DataProcessor",           "com.modinfodesigns.pipeline.process.IDataObjectProcessor",
                                                        "DataTransform",           "com.modinfodesigns.property.transform.IPropertyHolderTransform",
+                                                       "NotMatchedDataTransform", "com.modinfodesigns.property.transform.IPropertyHolderTransform",
                                                        "DataSourceFactory",       "com.modinfodesigns.app.persistence.database.IDataSourceFactory",
+                                                       "DataRenderer",            "com.modinfodesigns.property.transform.string.IPropertyHolderRenderer",
                                                        "DataListRenderer",        "com.modinfodesigns.property.transform.string.IDataListRenderer",
                                                        "ControllerAction",        "com.modinfodesigns.app.property.controller.IControllerAction",
                                                        "ContentStreamFilter",     "com.modinfodesigns.network.io.IContentStreamFilter",
@@ -78,7 +80,7 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
                                                        "ResultTransform",         "com.modinfodesigns.app.search.model.transform.IResultTransform",
                                                        "AjaxHandler",             "com.modinfodesigns.app.search.controller.IAjaxHandler",
                                                        "RequestHandler",          "com.modinfodesigns.network.http.IHttpRequestHandler",
-                                                       "TaxonomyBuilder",         "com.modinfodesigns.ontology.ITaxonomyBuilder",
+                                                       "TaxonomyBuilder",         "com.modinfodesigns.ontology.builder.ITaxonomyBuilder",
                                                        "TaxonomyRenderer",        "com.modinfodesigns.app.ontology.userInterface.ITaxonomyRenderer"
  };
     
@@ -152,6 +154,7 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
     	
     for (int i = 0, isz = INTERFACE_NAME_MAP.length; i < isz; i += 2)
     {
+      LOG.debug( "Adding Interface Mapping " + INTERFACE_NAME_MAP[i] + " -> " + INTERFACE_NAME_MAP[i+1] );
       interfaceClassMap.put( INTERFACE_NAME_MAP[i], INTERFACE_NAME_MAP[i+1] );
     }
         
@@ -187,6 +190,12 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
     
   protected Object createObject( Element elem )
   {
+    System.out.println( "createObject " + elem.getTagName( ) );
+    if (elem.getTagName( ).equals( "Property" ))
+    {
+        return createProperty( elem );
+    }
+      
     if (elem.getTagName().equals( "ClassNameMapping" ))
     {
       return null; // Not an error ...
@@ -387,6 +396,7 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
     
   protected IProperty createProperty( Element elem )
   {
+    System.out.println( "createProperty " + elem.getTagName( ) );
     String propName = elem.getAttribute( "name" );
     String propValue = elem.getAttribute( "value" );
     String propFormat = elem.getAttribute( "format" );
@@ -428,10 +438,10 @@ public class ModInfoObjectFactory extends BaseObjectFactory implements ServletCo
     
   private boolean executeMethod( Object targetOb, Object paramOb, String methodName, String paramType )
   {
-    LOG.debug( "executeMethod\r\n    " + targetOb
-                                       + "\r\n    " + paramOb
-                                       + "\r\n    " + methodName
-                                       + "\r\n    " + paramType );
+    System.out.println( "\nexecuteMethod\n    " + targetOb
+                                       + "\n    " + paramOb
+                                       + "\n    " + methodName
+                                       + "\n    " + ((paramType != null) ? paramType : "") + "\n" );
     if (targetOb == null || paramOb == null || methodName == null )
     {
       LOG.debug( "Cannot execute method!" );

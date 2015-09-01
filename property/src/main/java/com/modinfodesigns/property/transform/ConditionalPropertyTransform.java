@@ -51,19 +51,38 @@ public class ConditionalPropertyTransform extends BasePropertyTransform implemen
       IPropertyMatcher propMatcher = ct.getPropertyMatcher( );
 
       LOG.debug( "Testing PropertyMatcher " + propMatcher );
-      if (propMatcher != null && propMatcher.equals( user, input ) )
+      if (propMatcher != null )
       {
-        List<IPropertyTransform> pts = ct.getPropertyTransforms( );
-        if (pts != null)
+        if ( propMatcher.equals( user, input ) )
         {
-          for (int t = 0; t < pts.size(); t++)
+          List<IPropertyTransform> pts = ct.getPropertyTransforms( );
+          if (pts != null)
           {
-            IPropertyTransform pt = pts.get( t );
-            input = pt.transform( input );
+            for (int t = 0; t < pts.size(); t++)
+            {
+              IPropertyTransform pt = pts.get( t );
+              input = pt.transform( input );
+            }
+            if (mode.equals( "FIRST_ONLY" ))
+            {
+              return input;
+            }
           }
-          if (mode.equals( "FIRST_ONLY" ))
+        }
+        else
+        {
+          List<IPropertyTransform> nts = ct.getNotMatchedTransforms( );
+          if (nts != null)
           {
-            return input;
+            for (int t = 0; t < nts.size(); t++)
+            {
+              IPropertyTransform pt = nts.get( t );
+              input = pt.transform( input );
+            }
+            if (mode.equals( "FIRST_ONLY" ))
+            {
+              return input;
+            }
           }
         }
       }

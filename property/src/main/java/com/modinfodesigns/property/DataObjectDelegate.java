@@ -23,5 +23,13 @@ public class DataObjectDelegate extends DataObject
   {
     return this.delegate;
   }
+    
+    // get/set LocalProperty ...
+    // synchronize
+    // disable proxy
+    // call super.getProperty
+    // reset proxy
+    
+    
 
 }

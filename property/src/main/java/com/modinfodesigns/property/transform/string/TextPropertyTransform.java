@@ -18,7 +18,7 @@ public class TextPropertyTransform implements IPropertyTransform
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
-    LOG.info( "transform  val: " + input.getValue( ) + " class: " + input.getClass().getName( ) );
+    LOG.debug( "transform  val: " + input.getValue( ) + " class: " + input.getClass().getName( ) );
     try
     {
       TextProperty textProp = new TextProperty( );

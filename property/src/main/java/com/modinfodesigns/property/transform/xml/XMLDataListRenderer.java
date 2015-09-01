@@ -4,6 +4,10 @@ import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.IPropertyHolder;
 import com.modinfodesigns.property.IDataList;
 import com.modinfodesigns.property.DataObject;
+import com.modinfodesigns.property.IntrinsicPropertyDelegate;
+import com.modinfodesigns.property.string.StringProperty;
+import com.modinfodesigns.property.string.StringListProperty;
+import com.modinfodesigns.property.PropertyList;
 
 import com.modinfodesigns.property.transform.string.IDataListRenderer;
 import com.modinfodesigns.property.transform.string.IPropertyHolderRenderer;
@@ -13,6 +17,7 @@ import com.modinfodesigns.utils.StringMethods;
 
 import java.util.Iterator;
 import java.util.HashMap;
+import java.util.HashSet;
 
 /**
  * Renders a DataList as an XML String.
@@ -30,7 +35,17 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private String fieldNameTag = "Name";
   private String valueTag     = "Value";
   private String typeTag      = "Type";
+    
+  private boolean noIntrinsicProperties = true;
 	
+  private boolean renderIDAsProperty = true;
+    
+  private boolean renderNameAsProperty = true;
+    
+  private boolean renderType = false;
+    
+  private HashSet<String> excludedFields;
+    
   // Need a map for property name --> format
   private HashMap<String,String> propFormatMap;
 	
@@ -64,6 +79,12 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
     this.outputSchema = outputSchema;
   }
     
+  public void addExcludedField( String excludedField )
+  {
+    if (excludedFields == null) excludedFields = new HashSet<String>( );
+    excludedFields.add( excludedField );
+  }
+    
   @Override
   public String renderProperty( IProperty property )
   {
@@ -74,9 +95,30 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
 	
   public void renderProperty( IProperty prop, StringBuilder strbuilder)
   {
-    if (prop instanceof IPropertyHolder )
+    if (excludedFields != null && excludedFields.contains( prop.getName( ) ))
     {
-      strbuilder.append( renderPropertyHolder( (IPropertyHolder)prop ) );
+      return;
+    }
+      
+    if (prop instanceof PropertyList)
+    {
+      PropertyList pl = (PropertyList)prop;
+      Iterator<IProperty> propIt = pl.getProperties( );
+      while( propIt.hasNext( ) )
+      {
+        IProperty listProp = propIt.next( );
+        renderProperty( listProp, strbuilder );
+      }
+    }
+    else if (prop instanceof StringListProperty )
+    {
+      StringListProperty slp = (StringListProperty)prop;
+      String[] values = slp.getStringList( );
+      for (int i = 0; i < values.length; i++)
+      {
+        StringProperty tProp = new StringProperty( prop.getName( ), values[i] );
+        renderProperty( tProp, strbuilder );
+      }
     }
     else
     {
@@ -99,18 +141,31 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   @Override
   public String renderPropertyHolder( IPropertyHolder propHolder )
   {
-    if (propHolder instanceof IDataList)
-    {
-      return renderDataList( (IDataList)propHolder );
-    }
-
     StringBuilder strbuilder = new StringBuilder( );
     strbuilder.append( "<" ).append( rootTag ).append( ">" );
+      
+    if ( renderNameAsProperty )
+    {
+      StringProperty nameProp = new StringProperty( "name", propHolder.getName( ) );
+      renderProperty( nameProp, strbuilder );
+    }
+    if ( renderIDAsProperty )
+    {
+      String id = propHolder.getID( );
+      if ( id != null )
+      {
+        StringProperty idProp = new StringProperty( "id", id );
+        renderProperty( idProp, strbuilder );
+      }
+    }
     Iterator<IProperty> propIt = propHolder.getProperties( );
     while( propIt != null && propIt.hasNext() )
     {
       IProperty prop = propIt.next();
-      renderProperty( prop, strbuilder );
+      if (!noIntrinsicProperties || !(prop instanceof IntrinsicPropertyDelegate) )
+      {
+        renderProperty( prop, strbuilder );
+      }
     }
 
     strbuilder.append( "</").append( rootTag ).append( ">" );
@@ -136,7 +191,7 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
     String format = (propFormatMap != null) ? propFormatMap.get( prop.getName( ) ) : null;
     String propValue = (format != null) ? prop.getValue( format ) : prop.getValue( );
     strbuilder.append( "<" ).append( valueTag ).append( ">" )
-              .append( propValue )
+              .append( fixForTextValue( propValue ) )
               .append( "</" ).append( valueTag ).append( ">" );
     
     strbuilder.append( "</" ).append( fieldTag ).append( ">" );
@@ -149,23 +204,32 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private void renderFieldTypeAttributesXML( IProperty prop, StringBuilder strbuilder )
   {
     strbuilder.append( "<" ).append( fieldTag ).append( " name=\"" )
-              .append( prop.getName( ) ).append( "\" type=\"" )
-              .append( prop.getType() ).append( "\">" );
+              .append( prop.getName( ) ).append( "\"" );
+    if ( renderType )
+    {
+      strbuilder.append( " type=\"" ).append( prop.getType() ).append( "\"" );
+    }
+    strbuilder.append( ">" );
       
     String format = (propFormatMap != null) ? propFormatMap.get( prop.getName( ) ) : null;
     String propValue = (format != null) ? prop.getValue( format ) : prop.getValue( );
-    strbuilder.append( propValue )
+    strbuilder.append( fixForTextValue( propValue ) )
               .append( "</" ).append( fieldTag ).append( ">" );
   }
 	
   private void renderTagNameIsFieldXML( IProperty prop, StringBuilder strbuilder )
   {
-    strbuilder.append( "<" ).append( fixForTagName( prop.getName( ) ) ).append( " type=\"" )
-              .append( prop.getType() ).append( "\">" );
+    strbuilder.append( "<" ).append( fixForTagName( prop.getName( ) ) );
+    if ( renderType )
+    {
+      strbuilder.append( " type=\"" )
+               .append( prop.getType() ).append( "\"" );
+    }
+    strbuilder.append( ">" );
 
     String format = (propFormatMap != null) ? propFormatMap.get( prop.getName( ) ) : null;
     String propValue = (format != null) ? prop.getValue( format ) : prop.getValue( );
-    strbuilder.append( propValue )
+    strbuilder.append( fixForTextValue( propValue ))
               .append( "</" ).append( fixForTagName( prop.getName( ) ) ).append( ">" );
   }
 	
@@ -282,6 +346,13 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
     pName = StringTransform.replaceSubstring( pName, " ", "_"  );
     
     return pName;
+  }
+    
+  private String fixForTextValue( String text )
+  {
+    String fixedString = text;
+    fixedString = StringTransform.replaceSubstring( fixedString, "&", "&amp;" );
+    return fixedString;
   }
 
 }

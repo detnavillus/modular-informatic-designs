@@ -251,21 +251,25 @@ public class Distance implements IQuantity
     }
     else if (another instanceof Distance)
     {
-      Area area = new Area( );
-      // do the math
-        
-			
-     return area;
+      double area = distance * another.getQuantity( );
+      return new Area( "area", area );
     }
     else if (another instanceof Area)
     {
-      Volume volume = new Volume( );
-			
-      return volume;
+      double volume = distance * another.getQuantity( "square-meters" );
+      return new Volume( "volume", volume );
     }
     else if (another instanceof RatioQuantity)
     {
       // if denominator is distance, convert to Numerator * distance ratio
+        IQuantity denom = ((RatioQuantity)another).getDenominator( );
+        if (denom instanceof Distance )
+        {
+            Distance denomDst = (Distance)denom;
+            ScalarQuantity ratio = new ScalarQuantity( "denom", distance * denomDst.distance );
+            IQuantity numerator =((RatioQuantity)another).getNumerator( );
+            return numerator.multiply( ratio );
+        }
     }
 		
     return new ProductQuantity( (IQuantity)this.copy( ), (IQuantity)another.copy( ));
