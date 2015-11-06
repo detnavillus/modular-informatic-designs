@@ -20,6 +20,15 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( RDFOWLOntologyBuilder.class );
     
+  private ArrayList<String> copyParentPropertyList;
+    
+  public void addParentPropertyToCopy( String parentPropertyToCopy )
+  {
+    System.out.println( "addParentPropertyToCopy = " + parentPropertyToCopy );
+    if (copyParentPropertyList == null) copyParentPropertyList = new ArrayList<String>( );
+    copyParentPropertyList.add( parentPropertyToCopy );
+  }
+    
   @Override
   public ITaxonomyNode buildTaxonomy( DataObject context )
   {
@@ -183,6 +192,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
             TaxonomyNode parentNode = nodeMap.get( propID );
             LOG.debug( "propID = " + propID + " parentNode = " + parentNode );
             parentNode.addChildNode( childNode );
+            copyParentProperties( parentNode, childNode );
           }
         }
       }
@@ -195,12 +205,75 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
         {
           TaxonomyNode parentNode = nodeMap.get( propID );
           parentNode.addChildNode( childNode );
+          copyParentProperties( parentNode, childNode );
         }
       }
     }
     catch ( TaxonomyException te )
     {
       LOG.error( "Error: can't add " + objects.getName( ) + "!!!" );
+    }
+  }
+    
+  private void copyParentProperties( TaxonomyNode parentNode, TaxonomyNode childNode )
+  {
+    if ( copyParentPropertyList != null )
+    {
+      for ( String propToCopy : copyParentPropertyList )
+      {
+        String parentProp = propToCopy;
+        String childProp = parentProp;
+        if (propToCopy.indexOf( ":" ) > 0)
+        {
+            parentProp = propToCopy.substring( 0, propToCopy.indexOf( ":" ));
+            childProp  = propToCopy.substring( propToCopy.indexOf( ":" ) + 1 );
+        }
+
+        IProperty pProp = parentNode.getProperty( parentProp );
+        if ( pProp != null )
+        {
+          if (pProp instanceof PropertyList)
+          {
+            PropertyList pl = (PropertyList)pProp;
+            Iterator<IProperty> plit = pl.getProperties( );
+            while (plit != null && plit.hasNext( ) )
+            {
+              IProperty pp = plit.next( );
+ 
+              if (pp instanceof DataObject && childProp.indexOf( ":" ) > 0)
+              {
+                String chPropName = childProp.substring( 0, childProp.indexOf( ":" ));
+                String innerProp = childProp.substring( childProp.indexOf(":") + 1 );
+                DataObject innerOb = (DataObject)pp;
+                IProperty targetProp = innerOb.getProperty( innerProp );
+                System.out.println( "Adding child property " + chPropName + " = " + targetProp.getValue( ) );
+                childNode.addProperty( new StringProperty( chPropName, targetProp.getValue( ) ) );
+              }
+              else if (pp instanceof DataObject && ((DataObject)pp).getProperty( "text" ) != null )
+              {
+                DataObject innerOb = (DataObject)pp;
+                IProperty targetProp = innerOb.getProperty( "text" );
+                System.out.println( "Adding child property " + childProp + " = " + targetProp.getValue( ) );
+                childNode.addProperty( new StringProperty( childProp, targetProp.getValue( ) ) );
+              }
+              else
+              {
+                IProperty cp = pp.copy( );
+                cp.setName( childProp );
+                childNode.addProperty( cp );
+                System.out.println( "Adding child property " + cp.getName() + " = " + cp.getValue( ) );
+              }
+            }
+          }
+          else
+          {
+            IProperty cProp = pProp.copy( );
+            cProp.setName( childProp );
+            childNode.setProperty( cProp );
+            System.out.println( "Setting child property " + cProp.getName( ) + " = " + cProp.getValue( ) );
+          }
+        }
+      }
     }
   }
 

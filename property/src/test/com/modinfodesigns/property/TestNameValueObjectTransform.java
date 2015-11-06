@@ -123,7 +123,7 @@ public class TestNameValueObjectTransform extends TestCase
     //assertEquals( parent.getValue( ), "{\"NE_PER\":\"Andrew\",\"NE_LOC\":\"New York\",\"NE_ORG\":\"Microsoft\"}" );
   }
     
-  public void testWJSONParser( ) throws PropertyTransformException {
+ /* public void testWJSONParser( ) throws PropertyTransformException {
     DataObject dobj = new JSONParserTransform( ).createDataObject( nested_objects );
     //assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":\"[{\"Type\":\"Subject\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"},{\"Type\":\"Body\",\"Paragraphs\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",0.6317063746746246]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\"}]\"}" );
     
@@ -133,7 +133,7 @@ public class TestNameValueObjectTransform extends TestCase
     npt.transformPropertyHolder( dobj );
 
     //assertEquals( dobj.getValue( IProperty.JSON_FORMAT ), "{\"Content\":{\"Body\":\"[{\"Type\":\"[\"text\",\"default\",\"text\",0.6317063746746246]\",\"Content\":\"I am doing well.\",\"html\":\"I am doing well.\"}]\",\"Subject\":\"[{\"Type\":\"[\"text\",\"Subject\"]\",\"Content\":\"RE: Hello Ben\",\"html\":\"RE: Hello <span class=\\\"NE PER\\\" title=\\\"NE PER\\\">BEN</span>\"}]\"}}" );
-  }
+  } */
     
     
   private static String nested_objects = "{\"Content\": ["

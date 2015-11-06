@@ -19,7 +19,7 @@ public class StringListProperty implements IProperty, IPropertySet, IComputableP
 {
   private String name;
     
-  private String delimiter = ";";
+  protected String delimiter = ",";
     
     
   private ArrayList<String> strings = new ArrayList<String>( );
@@ -203,7 +203,7 @@ public class StringListProperty implements IProperty, IPropertySet, IComputableP
     strings.clear( );
     for (int i = 0; i < stringList.length; i++)
     {
-      strings.add( stringList[i] );
+      addString( stringList[i] );
     }
   }
 	
@@ -248,14 +248,19 @@ public class StringListProperty implements IProperty, IPropertySet, IComputableP
       doSetValue( value, format );
     }
   }
+    
+  protected void clearList( )
+  {
+    strings.clear( );
+  }
 	
   private void doSetValue( String value, String useDelimiter )
   {
-    strings.clear( );
+    clearList( );
     String[] stringArray = StringTransform.getStringArray( value, useDelimiter );
     for (int i = 0; i < stringArray.length; i++)
     {
-      strings.add( stringArray[i] );
+      addString( stringArray[i] );
     }
   }
 	

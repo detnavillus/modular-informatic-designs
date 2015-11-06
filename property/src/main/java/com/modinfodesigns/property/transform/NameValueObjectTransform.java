@@ -7,6 +7,7 @@ import com.modinfodesigns.property.PropertyList;
 import com.modinfodesigns.property.string.StringProperty;
 
 import java.util.Iterator;
+import java.util.HashSet;
 
 /**
  * Translates a nested DataObject with a name and value field into a String Property
@@ -22,6 +23,8 @@ public class NameValueObjectTransform implements IPropertyTransform
   private String valueProperty;
 
   private boolean replacePropertyList = true;
+    
+  private HashSet<String> valueList;
     
   public NameValueObjectTransform( ) {  }
     
@@ -41,6 +44,15 @@ public class NameValueObjectTransform implements IPropertyTransform
     this.valueProperty = valueProperty;
   }
 	
+  public void setValueList( String valueList )
+  {
+    String[] valueArray = valueList.split( "," );
+    this.valueList = new HashSet<String>( );
+      
+    for (int i = 0; i < valueArray.length; i++ ) {
+      this.valueList.add( valueArray[i] );
+    }
+  }
 
     
   @Override
@@ -67,9 +79,29 @@ public class NameValueObjectTransform implements IPropertyTransform
       IProperty valueProp = ((IPropertyHolder)input).getProperty( valueProperty );
       if ( nameProp != null  && valueProp != null)
       {
-        IProperty outputProp = valueProp.copy( );
-        outputProp.setName( nameProp.getValue( ) );
-        return outputProp;
+        if (nameProp instanceof PropertyList )
+        {
+          if (valueList != null)
+          {
+            Iterator<IProperty> nameIt = ((PropertyList)nameProp).getProperties( );
+            while (nameIt.hasNext() )
+            {
+              IProperty nameP = nameIt.next( );
+              if (valueList.contains( nameP.getValue( ) ) )
+              {
+                IProperty outputProp = valueProp.copy( );
+                outputProp.setName( nameP.getValue( ) );
+                return outputProp;
+              }
+            }
+          }
+        }
+        else
+        {
+          IProperty outputProp = valueProp.copy( );
+          outputProp.setName( nameProp.getValue( ) );
+          return outputProp;
+        }
       }
     }
 		

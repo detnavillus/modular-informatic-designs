@@ -140,16 +140,16 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
     
   public boolean containsProperty( IProperty property )
   {
-    if (property == null)
+    if (property == null || propList == null)
     {
       return false;
     }
-                
+
     for (Iterator<IProperty> propIt = getProperties(); propIt.hasNext(); )
     {
       IProperty aProp = propIt.next();
-        
-      if ( aProp.getName( ).equals( property.getName( )) && aProp.getClass( ).equals( property.getClass( ))
+
+      if ( aProp != null && aProp.getName( ).equals( property.getName( )) && aProp.getClass( ).equals( property.getClass( ))
         && aProp.getValue( ).equals( property.getValue( ) ))
       {
         return true;
@@ -305,7 +305,10 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
     else if (format.equals( IProperty.JSON_FORMAT ))
     {
       StringBuilder sbr = new StringBuilder( );
-      sbr.append( "\"" ).append( name ).append( "\":" );
+      if (name != null)
+      {
+        sbr.append( "\"" ).append( name ).append( "\":" );
+      }
       sbr.append( getValue( IProperty.JSON_VALUE, dobjs ) );
       return sbr.toString( );
     }

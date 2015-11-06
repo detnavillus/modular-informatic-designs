@@ -273,10 +273,10 @@ public class DataObject implements IPropertyHolder
             }
             if (propVal == null) propVal = "";
     				    
-            if (!propVal.startsWith( "\"")  && !propVal.endsWith( "\"" ) )
+            /*if (!propVal.startsWith( "\"")  && !propVal.endsWith( "\"" ) )
             {
               propVal = "\"" + propVal + "\"";
-            }
+            }*/
     				    
             sbr.append( propVal );
           }
@@ -501,16 +501,16 @@ public class DataObject implements IPropertyHolder
         
     if ( nestedDelimiter != null && name.indexOf( nestedDelimiter ) >= 0)
     {
-      String pName = name;
+      String pName = (name.startsWith( "/" )) ? new String( name.substring( nestedDelimiter.length() ) ) : name;
             
-      if ( name.indexOf( nestedDelimiter ) == 0 )
+      if ( pName.indexOf( nestedDelimiter ) < 1 )
       {
-        pName = new String( name.substring( nestedDelimiter.length() ));
+        return getProperty( pName );
       }
       else
       {
         String localName = new String( pName.substring( 0, pName.indexOf( nestedDelimiter )));
-        String subPath   = new String( name.substring( name.indexOf( nestedDelimiter ) + nestedDelimiter.length()));
+        String subPath   = new String( pName.substring( pName.indexOf( nestedDelimiter ) + nestedDelimiter.length()));
                 
         // could check if subPath is .name or .type or is an Intrinsic Property ...
                 
@@ -588,6 +588,23 @@ public class DataObject implements IPropertyHolder
     {
       DataObject nestedObj = (DataObject)prop;
       return nestedObj.getProperty( subPath );
+    }
+    else if (prop != null && prop instanceof PropertyList )
+    {
+      PropertyList pL = (PropertyList)prop;
+      PropertyList outList = new PropertyList( );
+      Iterator<IProperty> propIt = pL.getProperties( );
+      while (propIt != null && propIt.hasNext( ) ) {
+        IProperty plProp = propIt.next( );
+        if (plProp != null && plProp instanceof DataObject) {
+          IProperty nestedProp = ((DataObject)plProp).getProperty( subPath );
+          if (nestedProp != null)
+          {
+            outList.addProperty( nestedProp );
+          }
+        }
+      }
+      return outList;
     }
         
     return prop;
@@ -838,6 +855,8 @@ public class DataObject implements IPropertyHolder
     if (propMap != null) propMap.remove( propName );
   }
     
+
+    
   /**
    * Removes a child or descendent DataObject property with the specified ID.
    *
@@ -899,6 +918,26 @@ public class DataObject implements IPropertyHolder
       removeProperty( propToRemove );
     }
     	
+  }
+    
+  public void removeProperties( )
+  {
+    if (proxyObject != null)
+    {
+      proxyObject.removeProperties( );
+      return;
+    }
+      
+    Iterator<IProperty> propIt = getProperties( );
+    while (propIt != null && propIt.hasNext( ) ) {
+      IProperty prop = propIt.next( );
+      if (prop instanceof DataObject) {
+        DataObject dobj = (DataObject)prop;
+        dobj.removeProperties( );
+      }
+    }
+
+    propMap.clear( );
   }
 
   /**

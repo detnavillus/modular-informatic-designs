@@ -22,6 +22,6 @@ public class TestComplexJSONParser extends TestCase
     StringProperty strprop = new StringProperty( "json", jsonString );
 		
     IProperty output = jsonParser.transform( strprop );
-    System.out.println( output.getValue( IProperty.XML_FORMAT ) );
+    System.out.println( output.getValue( ) );
   }
 }

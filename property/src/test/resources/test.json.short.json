@@ -1,0 +1,24 @@
+{ 
+  "Content": [ 
+    {
+      "Type": "Body", 
+      "Paragraphs": [
+        {
+          "Content": "I am doing well.", 
+          "html": "I am doing well.", 
+          "Type": [0.63170637467462465, "text", "default", "text"]
+        }, 
+        {
+          "Content": "How are you?", 
+          "html": "How are you?",
+          "Type": ["text", "default", "text", 0.15315684871854013]
+        }, 
+        {
+          "Content": "This information is highly confidential.",
+          "html": "This information is highly confidential.",
+          "Type": ["disclaimer", 0.92515532063948593]
+        }
+      ]
+    }
+  ]
+}

@@ -41,10 +41,10 @@ public class TestDataObjectPath extends TestCase
     assertEquals( pathProp.getValue( ), "45" );
 		
     pathProp = dList.getProperty( "root[0]/children[0]/grandkid1" );
-    assertEquals( pathProp.getValue( ), "{\"age\":\"45\"}" );
+    assertEquals( pathProp.getValue( ), "{\"age\":45}" );
 		
     pathProp = dList.getProperty( "root[0]" );
-    assertEquals( pathProp.getValue( ), "{\"objects\":[{\"grandkid1\":{\"age\":\"45\"}}]}" );
+    assertEquals( pathProp.getValue( ), "{\"objects\":[{\"grandkid1\":{\"age\":45}}]}" );
   }
     
   public void testSetByPathAlone( ) throws PropertyValidationException

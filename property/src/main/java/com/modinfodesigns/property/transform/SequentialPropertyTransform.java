@@ -56,19 +56,30 @@ public class SequentialPropertyTransform extends BasePropertyTransform implement
     LOG.debug( "transformPropertyHolder " + input.getValue( IProperty.JSON_FORMAT ) );
       
     IProperty inputProp = getInputProperty( input );
-
-    IProperty outputProperty = transform( inputProp );
-		
-    if (outputProperty != null)
+      
+    if (inputProp != null)
     {
-      LOG.debug( "Got output property " + outputProperty.getClass().getName( ) + " val = " + outputProperty.getValue( ) );
-      if (outputPropertyName != null) outputProperty.setName( outputPropertyName );
-      input.setProperty( outputProperty );
-    }
-    else {
-      LOG.error( "No Output Property created for " + outputPropertyName );
-    }
+      IProperty outputProperty = transform( inputProp );
 		
+      if (outputProperty != null)
+      {
+        LOG.debug( "Got output property " + outputProperty.getClass().getName( ) + " val = " + outputProperty.getValue( ) );
+        if (outputPropertyName != null) outputProperty.setName( outputPropertyName );
+        input.setProperty( outputProperty );
+      }
+      else
+      {
+        LOG.info( "No Output Property created for " + outputPropertyName );
+      }
+	}
+    else
+    {
+      LOG.info( "Input Property was NULL for input properties: " );
+      for (int i = 0; i < inputPropertyList.length; i++ ) {
+        LOG.info( inputPropertyList[i] );
+      }
+    }
+      
     return input;
   }
 	

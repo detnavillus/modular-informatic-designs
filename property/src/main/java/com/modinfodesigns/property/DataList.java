@@ -197,15 +197,14 @@ public class DataList extends DataObject implements IDataList
       // internals from JSON string.
       // ================================================
       JSONParserTransform jsonParserXform = new JSONParserTransform( );
-      ArrayList<String> jsonStrings = jsonParserXform.getJsonArray( value );
-      if (jsonStrings != null)
+      ArrayList<IProperty> jsonProps = jsonParserXform.getJsonArray( value );
+      if (jsonProps != null)
       {
-        for (String jsonString : jsonStrings )
+        for (IProperty prop : jsonProps )
         {
-          DataObject dobj = jsonParserXform.createDataObject( jsonString );
-          if (dobj != null)
+          if (prop instanceof DataObject)
           {
-            addDataObject( dobj );
+            addDataObject( (DataObject)prop );
           }
         }
       }

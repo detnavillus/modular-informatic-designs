@@ -352,6 +352,7 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   {
     String fixedString = text;
     fixedString = StringTransform.replaceSubstring( fixedString, "&", "&amp;" );
+    fixedString = StringTransform.replaceSubstring( fixedString, ",',", "'" );
     return fixedString;
   }
 

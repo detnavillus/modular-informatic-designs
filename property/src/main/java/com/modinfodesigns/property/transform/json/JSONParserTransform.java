@@ -11,6 +11,7 @@ import com.modinfodesigns.property.transform.BasePropertyTransform;
 import com.modinfodesigns.property.transform.PropertyTransformException;
 import com.modinfodesigns.property.transform.string.StringTransform;
 import com.modinfodesigns.property.quantity.IntegerProperty;
+import com.modinfodesigns.property.quantity.LongProperty;
 import com.modinfodesigns.property.quantity.ScalarQuantity;
 
 import com.modinfodesigns.utils.StringMethods;
@@ -39,6 +40,8 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
   private String idLabel   = DataObject.OBJECT_ID_PARAM;
   private String schemaLabel = DataObject.SCHEMA_PARAM;
     
+  private boolean detectNumbers = false;
+    
     
   public void setDataObjectClass( String dataObjectClass )
   {
@@ -60,12 +63,23 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     this.schemaLabel = schemaLabel;
   }
     
+  public void setDetectNumbers( String detectNumbers )
+  {
+    this.detectNumbers = detectNumbers.equalsIgnoreCase( "true" );
+  }
+    
     
   @Override
   public IProperty transform( IProperty input ) throws PropertyTransformException
   {
     String jsonString = input.getValue( );
-    IProperty jsonObject = transformString( jsonString );
+    LOG.debug( "jsonString == " + jsonString );
+    
+    if (jsonString == null) return input;
+    MarkedCharArray mca = new MarkedCharArray( );
+    mca.charArray = jsonString.toCharArray( );
+
+    IProperty jsonObject = transformString( mca.trim( ) );
     if (jsonObject == null)
     {
       throw new PropertyTransformException( "Could not parse jsonString " );
@@ -74,39 +88,77 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     return jsonObject;
   }
 
-  private IProperty transformString( String jsonString )
+  private IProperty transformString( MarkedCharArray mca )
   {
-    LOG.debug( "transformString: '" + jsonString + "'" );
-        
-    // if the JSON String starts with  "{" and ends with "}" - its a data object
-    if (jsonString.trim().startsWith( "{" ) && jsonString.trim().endsWith( "}"))
+    LOG.debug( "transformString '" + mca.getString(  ) + "'" );
+    if (mca == null || mca.atEnd( ) ) return null;
+      
+    if ( mca.trim().startsWith( '{' ))
     {
-      String innerStr = new String( jsonString.substring( jsonString.indexOf( "{" ) + 1, jsonString.lastIndexOf( "}" )) );
-      return createDataObject( innerStr );
+      return createDataObject( mca );
     }
     else
     {
-      return createProperty( jsonString );
+      return createProperty( mca );
     }
   }
     
   @SuppressWarnings("unchecked")
   public IProperty createProperty( String jsonString )
   {
-    LOG.debug( "createProperty: '" + jsonString + "'" );
-        
-    String name = (jsonString.indexOf( ":" ) > 0) ? getName( jsonString ) : "";
-    Object value = getValue( jsonString );
-        
+    MarkedCharArray mca = new MarkedCharArray( );
+    mca.charArray = jsonString.toCharArray( );
+      
+    return createProperty( mca );
+  }
+    
+  @SuppressWarnings("unchecked")
+  public IProperty createProperty( MarkedCharArray mca )
+  {
+    LOG.debug( "createProperty '" + mca.getString( ) + "'" );
+    String name = "";
+    int nextEnd = mca.getNextPos( ']' );
+    int nextColon = mca.getNextPos( ':' );
+
+    if ((nextEnd > 0 && nextColon > 0 && nextColon < nextEnd ) || (nextEnd < 0 && nextColon > 0)){
+      name = getName( mca );
+    }
+
+    LOG.debug( "Got name = '" + name  + "'" );
+    LOG.debug( "currPos = " + mca.currPos + " length = " + mca.charArray.length );
+    LOG.debug( "getValue from '" + mca.getString( ) + "'" );
+    Object value = getValue( mca );
+    if (value == null) return null;
+      
+    if (value instanceof DataObject)
+    {
+        DataObject dob = (DataObject)value;
+        if (name != null && name.length() > 0) dob.setName( name );
+        return dob;
+    }
     if (value instanceof String)
     {
       String valStr = (String)value;
       valStr = valStr.trim( );
-      if (StringMethods.isInteger( valStr ))
+
+      if (detectNumbers && StringMethods.isInteger( valStr ))
       {
-        return new IntegerProperty( name, Integer.parseInt( valStr ) );
+        LongProperty longProp = null;
+        try
+        {
+          longProp = new LongProperty( name, Long.parseLong( valStr ));
+          if (longProp.getLongValue() >= (long)Integer.MIN_VALUE && longProp.getLongValue() <= (long)Integer.MAX_VALUE)
+          {
+            return new IntegerProperty( name, Integer.parseInt( valStr ));
+          }
+          return longProp;
+        }
+        catch ( NumberFormatException nfe )
+        {
+          return new StringProperty( name, valStr );
+        }
       }
-      else if (StringMethods.isNumber( valStr ))
+      else if (detectNumbers && StringMethods.isNumber( valStr ))
       {
         return new ScalarQuantity( name, valStr );
       }
@@ -119,191 +171,151 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
         return new StringProperty( name, valStr );
       }
     }
-    else if (value instanceof Integer )
-    {
-      return new IntegerProperty( name, (Integer)value );
-    }
-    // ...
     else if (value instanceof ArrayList )
     {
       PropertyList pl = new PropertyList( );
       pl.setName( name );
-      ArrayList<String> values = (ArrayList<String>)value;
+      ArrayList<IProperty> values = (ArrayList<IProperty>)value;
       for (int i = 0; i < values.size(); i++)
       {
-        IProperty prop = transformString( values.get(i) );
+        IProperty prop = values.get(i);
         if (prop != null)
         {
           prop.setName( name );
           pl.addProperty( prop );
         }
       }
-            
+          
       return pl;
     }
-        
+      
     return null;
   }
     
-    
-  private String getName( String jsonString )
-  {
-    if (jsonString == null || jsonString.indexOf( ":" ) < 0)
-    {
-      return null;
-    }
-        
-    LOG.debug( "getName: " + jsonString );
-    String name = jsonString.substring( 0, jsonString.indexOf( ":" ));
-        
-    LOG.debug( "name " + name );
-        
-    // strip quotes from name ...
-    if (name.trim().startsWith( "\""))
-    {
-      name = StringTransform.replaceSubstring( name, "\"", "" );
-    }
-        
-    LOG.debug( "returning '" + name.trim() + "'" );
-    return (name != null) ? name.trim() : null;
-  }
-    
+  private String getName( MarkedCharArray mca ) {
+    int nextColon = mca.getNextPos( ':' );
+    String name = "";
 
-  private Object getValue( String pJsonString )
-  {
-    LOG.debug( "getValue: '" + pJsonString + "'" );
-        
-    if (pJsonString == null || pJsonString.indexOf( ":" ) < 0)
-    {
-      return (StringTransform.isInteger( pJsonString.trim() ) ) ? new Integer( pJsonString.trim() ) : pJsonString;
-    }
-        
-    String jsonString = pJsonString.trim();
-    if (jsonString.startsWith( "{" ))
-    {
-      String objStr = findMatching( jsonString, "{", "}" );
-      return createDataObject( objStr );
-    }
-        
-    String value = (jsonString.indexOf( ":" ) > 0) ? new String( jsonString.substring( jsonString.indexOf( ":" ) + 1 ) ) : jsonString;
-    LOG.debug( "value = '" + value.trim() + "'");
-        
-    if (value.trim().startsWith( "[" ) )
-    {
-      String trimmed = value.trim();
-      String arrayStr = findMatching( trimmed, "[", "]" );
-      LOG.debug( "Matching array: " + arrayStr );
-            
-      return getJsonArray( new String( arrayStr.substring( 1, arrayStr.lastIndexOf( "]" ) ) ) );
-    }
-    else if (value.trim().startsWith( "{" ))
-    {
-      String objString = findMatching( value.trim( ), "{", "}" );
-      DataObject dobj = createDataObject( objString );
-      String name = getName( jsonString.substring( 1 ) );
-      dobj.setName( name );
-      return dobj;
-    }
-    else if (value.trim().startsWith( "\"" ))
-    {
-      LOG.debug( "value = '" + value + "'" );
-      String matching = findMatching( value.trim(), "\"", "\"" );
-      LOG.debug( "matching = '" + matching + "'" );
-      return matching;
-    }
-    else if (StringTransform.isInteger( value.trim() ))
-    {
-      LOG.debug( "Integer!" );
-      return new Integer( value.trim( ) );
-    }
-        
-    if (value != null && value.trim().endsWith( "}" )) value = value.trim().substring( 0, value.lastIndexOf( "}" ));
-    LOG.debug( "returning: '" + value.trim( ) + "'" );
-        
-    return (value != null) ? value.trim() : null;
-  }
-    
-  public ArrayList<String> getJsonArray( String jsonArray )
-  {
-    LOG.debug( "getJsonArray '" + jsonArray + "'" );
-        
-    // parse the JSON array into objects or arrays or values
-    // read each character
-    ArrayList<String> valueList = new ArrayList<String>( );
-    String currStr = jsonArray.trim( );
-    while (currStr.trim().length() > 0 )
-    {
-      currStr = currStr.trim( );
-      LOG.debug( "start loop: curStr = '" + currStr + "'" );
-      String valStr = currStr;
-      if (currStr.startsWith( "\"" ))
-      {
-        valStr = findMatching( new String( currStr.substring( 1 )), "\"" );
-        LOG.debug( "quoted: '" + valStr + "'" );
-        // if valStr is followed by a ":" now, - its a property, else its just
-        // a string
-        String rest = new String( currStr.substring( valStr.length() + 1 ));
-        LOG.debug( "the rest: '" + rest + "'" );
-        if (rest.trim().startsWith( "\"" ))
-        {
-          String restRest = rest.substring( 1 );
-
-          if (restRest.trim().startsWith( ":" ))
-          {
-            if (rest.indexOf( "," ) > 0)
-            {
-              valStr = "\"" + valStr + new String( rest.substring( 0, rest.indexOf( "," )));
-            }
-            else
-            {
-              valStr = "\"" + valStr + rest;
-            }
-          }
-          // currStr = currStr.substring( 1 );
-          LOG.debug( "Found pair value: '" + valStr + "'" );
+    if (nextColon > mca.currPos && nextColon < mca.charArray.length-1) {
+      name = mca.getString( mca.currPos, nextColon );
+      mca.currPos = nextColon + 1;
+      
+      if (name != null && name.trim().startsWith( "\"" )) {
+        name = name.trim( );
+        name = name.substring( 1 );
+        if (name.indexOf( "\"" ) > 0) {
+          name = name.substring( 0, name.indexOf( "\"" ));
         }
       }
-      else if (currStr.startsWith( "{" ))
-      {
-        valStr = findMatching( valStr, "{", "}" );
-      }
-      else if (currStr.startsWith( "[" ))
-      {
-        valStr = findMatching( valStr, "[", "]" );
-      }
-      else
-      {
-        valStr = (currStr.indexOf( "," ) > 0) ? new String( currStr.substring(0, currStr.indexOf( "," ))) : currStr;
-      }
-            
-      LOG.debug( "valStr: '" + valStr + "'" );
-      valueList.add( valStr );
-      currStr = currStr.substring( currStr.indexOf( valStr ) + valStr.length() );
-      if (currStr.startsWith ( "\"," )) currStr = currStr.substring( 1 );
-      LOG.debug( "currStr = '" + currStr + "'" );
-        
-      // ... once we have the value, check for a comma - strip it and move on ...
-      if (currStr.trim().indexOf( "," ) == 0)
-      {
-        currStr = new String( currStr.substring( currStr.indexOf( "," ) + 1 ) );
-      }
-      else
-      {
-        currStr = "";
-      }
-            
-      LOG.debug( "currStr '" + currStr + "'" );
     }
+
+    return name;
+  }
+    
+  private Object getValue( MarkedCharArray mca  )
+  {
+    if (mca.atEnd( ) ) return null;
+    LOG.debug( "getValue '" + mca.getString( ) + "'" );
+    Object theObj = null;
         
-    LOG.debug( "Returning Value List..." );
+    mca.trim();
+    if (mca.startsWith( '{' ))
+    {
+      theObj = createDataObject( mca );
+    }
+    else if (mca.startsWith( '[' ))
+    {
+      theObj = getJsonArray( mca );
+    }
+    else if ( mca.startsWith( '\"' ))
+    {
+      ++mca.currPos;
+      int nextQuote = mca.getNextPos( '\"' );
+      String value = mca.getString( mca.currPos, nextQuote );
+      mca.currPos = nextQuote + 1;
+      theObj = value;
+    }
+    else
+    {
+      int nextBrace = mca.getNextPos( '}' );
+      int nextClose = mca.getNextPos( ']' );
+      int nextComma = mca.getNextPos( ',' );
+      if (nextClose > 0 && (nextComma < 0 || nextClose < nextComma )) {
+        if (nextBrace > 0 && nextBrace < nextClose ) {
+          String val = mca.getString( mca.currPos, nextBrace );
+          mca.currPos = nextBrace;
+          theObj = val;
+        }
+        else  {
+          String val = mca.getString( mca.currPos, nextClose );
+          mca.currPos = nextClose;
+          theObj = val;
+        }
+      }
+      else {
+        if (nextBrace > 0 && (nextComma < 0 || nextBrace < nextComma )) {
+          String val = mca.getString( mca.currPos, nextBrace );
+          mca.currPos = nextBrace;
+          theObj = val;
+        }
+        else {
+          if (nextComma > 0) {
+            String val = mca.getString( mca.currPos, nextComma );
+            mca.currPos = nextComma + 1;
+            theObj = val;
+          }
+        }
+      }
+    }
+    
+    if (mca.trim().startsWith( ',' )) ++mca.currPos;
+    return theObj;
+  }
+    
+  public ArrayList<IProperty> getJsonArray( String jsonString )
+  {
+    MarkedCharArray mca = new MarkedCharArray( );
+    mca.charArray = jsonString.toCharArray( );
+      
+    return getJsonArray( mca );
+  }
+    
+  private ArrayList<IProperty> getJsonArray( MarkedCharArray mca )
+  {
+    LOG.debug( "getJsonArray: '" + mca.getString( ) + "'" );
+      
+    if (mca.trim().startsWith( '[' )) mca.incrementPos( );
+    ArrayList<IProperty> valueList = new ArrayList<IProperty>( );
+    mca.trim( );
+      
+    while ( !mca.atEnd( ) && !mca.startsWith( ']' ) )
+    {
+      IProperty prop = transformString( mca );
+      LOG.debug( "adding property " + prop.getValue( ) );
+      valueList.add( prop );
+      mca.trim( );
+      if (mca.startsWith( ',' ) ) mca.incrementPos( );
+    }
+
+    if (!mca.atEnd( ) && mca.trim().startsWith( ']' ) ) mca.incrementPos( );
+    if (!mca.atEnd( ) && mca.startsWith( ',' )) mca.incrementPos( );
+      
     return valueList;
   }
     
   @Override
-  public DataObject createDataObject( String propString )
+  public DataObject createDataObject( String jsonString )
   {
-    LOG.debug( "createDataObject: '" + propString + "'" );
-        
+    if (jsonString == null) return null;
+
+    MarkedCharArray mca = new MarkedCharArray( );
+    mca.charArray = jsonString.toCharArray( );
+    return createDataObject( mca );
+  }
+    
+  private DataObject createDataObject( MarkedCharArray mca )
+  {
+    LOG.debug( "createDataObject '" + mca.getString( ) + "'" );
     // ===========================================================
     // get the set of name: value pairs
     // start in name, once hit colon we are in value,
@@ -319,15 +331,17 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       }
       catch (Exception e )
       {
-        LOG.error( "Could not create Data Object class '" + dataObjectClass + "'" );
-        LOG.debug( "Could not create Data Object class '" + dataObjectClass + "'" );
+        //LOG.error( "Could not create Data Object class '" + dataObjectClass + "'" );
+        //LOG.debug( "Could not create Data Object class '" + dataObjectClass + "'" );
       }
     }
         
     if (dobj == null) dobj = new DataObject( );
     
-    formatDataObject( dobj, propString );
-        
+    formatDataObject( dobj, mca );
+      
+    LOG.debug( "got data Object: " + dobj.getValue( IProperty.JSON_FORMAT ) );
+      
     IProperty proxyProp = dobj.getProperty( "proxyObject" );
     // create the Proxy Object ...
     if ( proxyProp != null )
@@ -347,233 +361,90 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     return dobj;
   }
     
-  public void formatDataObject( DataObject dobj, String pJsonString )
+  public void formatDataObject( DataObject dobj, String jsonString )
   {
-    String jsonString = pJsonString;
-        
-    if (pJsonString.trim().startsWith( "{" ) && pJsonString.trim().endsWith( "}"))
-    {
-      String trimmed = pJsonString.trim();
-      jsonString = new String( trimmed.substring( trimmed.indexOf( "{" ) + 1, trimmed.lastIndexOf( "}" ) ) );
-    }
-        
-    String currProp = jsonString;
-    if (hasName( jsonString ))
-    {
-      LOG.debug( "hasName!" );
-      String objName = getName( jsonString );
-      dobj.setName( objName );
-    
-      currProp = jsonString.substring( jsonString.indexOf( ":" ) + 1 );
-      currProp = new String( currProp.substring( currProp.indexOf( "{" ) + 1, currProp.lastIndexOf( "}" )) );
-    }
-        
-    while( currProp.trim().length() > 0)
-    {
-      LOG.debug( "currProp = '" + currProp + "'" );
-            
-      String name = (currProp.trim().startsWith( "{" ) ) ? "" : getName( currProp );
-      Object value = getValue( currProp );
-
-      if (value instanceof String)
-      {
-        String valStr = ((String)value).trim( );
-        // if value starts with " find matching " value is a String
-        if (valStr.startsWith( "\"" ))
-        {
-          valStr = findMatching( new String( valStr.substring( 1 ) ), "\"" );
-          LOG.debug( "creating String property: " + name + " = " + valStr );
-          dobj.addProperty( new StringProperty( name, valStr ));
-        }
-        // if value starts with { find matching } value is an Object
-        else if (valStr.startsWith( "{" ))
-        {
-          valStr = findMatching( valStr, "{", "}" );
-          IProperty prop = transformString( valStr );
-          if (prop != null)
-          {
-            prop.setName( name );
-            dobj.addProperty( prop );
-          }
-        }
-        // if value starts with [ find matching ] value is an Array - make it a PropertyList
-        // wouldn't be found by getValue( ) if it has a trailing comma ...
-        else if (valStr.startsWith( "[" ))
-        {
-          LOG.debug( "Creating PropertyList for " + name );
-                    
-          valStr = findMatching( valStr, "[", "]" ).trim( );
-          String trimmed = valStr.trim();
-          ArrayList<String> jsonArray = getJsonArray( new String( trimmed.substring( 1, trimmed.indexOf( "]" ) ) ) );
-
-          PropertyList pl = new PropertyList( );
-          pl.setName( name );
-          for (int i = 0; i < jsonArray.size( ); i++)
-          {
-            IProperty prop = transformString( jsonArray.get( i ) );
-            if (prop != null)
-            {
-              prop.setName( name );
-              pl.addProperty( prop );
-            }
-          }
-                    
-          dobj.addProperty( pl );
-        }
-        else
-        {
-          // find the comma or not, create a property from the valStr
-          if (valStr.indexOf( "," ) > 0)
-          {
-            valStr = new String( valStr.substring( 0, valStr.indexOf( "," ) ) ).trim( );
-            LOG.debug( "valStr = '" + valStr + "'" );
-            if (nameLabel != null && name.equals( nameLabel ))
-            {
-              dobj.setName( valStr );
-            }
-            else if (idLabel != null && name.equals( idLabel ))
-            {
-              dobj.setID( valStr );
-            }
-            else if (schemaLabel != null && name.equals( schemaLabel ))
-            {
-              dobj.setDataObjectSchema( valStr );
-            }
-            else
-            {
-              Object valOb = getValue( valStr );
-              LOG.debug( "getting value for '" + valStr + "'" );
-              // check if Integer, etc...
-              if (valOb instanceof String)
-              {
-                String valSt = (String)valOb;
-                if (StringMethods.isNumber( valSt ))
-                {
-                  dobj.addProperty( new ScalarQuantity( name, valSt ) );
-                }
-                else if (valSt.equalsIgnoreCase( "true" ) || valSt.equalsIgnoreCase( "false" ))
-                {
-                  dobj.addProperty( new BooleanProperty( name, valSt ) );
-                }
-                else
-                {
-                  dobj.addProperty( new StringProperty( name, valSt ) );
-                }
-              }
-              else if (valOb instanceof Integer)
-              {
-                dobj.addProperty( new IntegerProperty( name, (Integer)valOb ));
-              }
-            }
-          }
-        }
-                
-        // ... once we have the value, check for a comma - strip it and move on ...
-        currProp = currProp.substring( currProp.indexOf( valStr ) + valStr.length() );
-        LOG.debug( "currProp is now '" + currProp + "'" );
-        if (currProp.indexOf( "," ) >= 0)
-        {
-          currProp = new String( currProp.substring( currProp.indexOf( "," ) + 1 ) );
-        }
-        else
-        {
-          currProp = "";
-        }
-      }
-      else if (value instanceof Integer )
-      {
-        dobj.addProperty( new IntegerProperty( name, (Integer)value ));
-        currProp = "";
-      }
-      else if (value instanceof ArrayList )
-      {
-        PropertyList pl = new PropertyList( );
-        pl.setName( name );
-        @SuppressWarnings("unchecked")
-        ArrayList<String> values = (ArrayList<String>)value;
-        for (int i = 0, isz = values.size( ); i < isz; i++)
-        {
-          IProperty prop = transformString( values.get(i) );
-          if (prop != null)
-          {
-            prop.setName( name );
-            pl.addProperty( prop );
-          }
-        }
-                
-        dobj.addProperty( pl );
-                
-        String arrayStr = findMatching( currProp.trim(), "[", "]" );
-        currProp = new String( currProp.substring( currProp.indexOf( arrayStr ) + arrayStr.length() ) );
-        if (currProp.indexOf( "," ) >= 0)
-        {
-          currProp = new String( currProp.substring( currProp.indexOf( "," ) + 1 ) );
-        }
-        else
-        {
-          currProp = "";
-        }
-      }
-      else if (value instanceof DataObject )
-      {
-        DataObject nestedObj = (DataObject)value;
-        if (name != null && name.trim().length() > 0)
-        {
-          nestedObj.setName( name );
-          currProp = new String( currProp.substring( currProp.indexOf( "{" ) - 1 ) );
-        }
-        dobj.addProperty( nestedObj );
-                
-        String dobjStr = findMatching( currProp.trim(), "{", "}" );
-        currProp = new String( currProp.substring( currProp.indexOf( dobjStr ) + dobjStr.length() ) );
-        if (currProp.indexOf( "," ) >= 0)
-        {
-          currProp = new String( currProp.substring( currProp.indexOf( "," ) + 1 ) );
-        }
-        else
-        {
-          currProp = "";
-        }
-      }
-    }
+    MarkedCharArray mca = new MarkedCharArray( );
+    mca.charArray = jsonString.toCharArray( );
+    formatDataObject( dobj, mca );
   }
     
-  private boolean hasName( String jsonString )
+  private void formatDataObject( DataObject dobj, MarkedCharArray mca )
   {
-    int firstColon = jsonString.indexOf( ":" );
-    int firstBrace = jsonString.indexOf( "{" );
-    if (firstColon > 0)
-    {
-      String value = new String( jsonString.substring( firstColon + 1 ));
-      if (value != null && value.trim().startsWith( "{"))
-      {
-        return (firstBrace < 0 || firstBrace > firstColon);
-      }
-    }
-        
-    return false;
-  }
+    // System.out.println( "formatDataObject " + mca.getString( ) );
+    if (mca.trim().startsWith( '{' )) mca.incrementPos( );
 
-  private String findMatching( String input, String endChar )
-  {
-    char endCh = endChar.charAt( 0 );
+    while (!mca.atEnd( ) && !mca.startsWith( '}' ) )
+    {
+      IProperty prop = transformString( mca );
+      if (prop != null)
+      {
+        // System.out.println( "daobj adding property " +  prop.getName( ) + " = " + prop.getValue( ) );
+        dobj.addProperty( prop );
+        mca.trim( );
+
+        if (mca.startsWith( ',' )) mca.incrementPos( );
+      }
+      else
+      {
+        ++mca.currPos;
+      }
+
+      if (!mca.atEnd( ) && mca.startsWith( ',' )) mca.incrementPos( );
+    }
+
+    if (!mca.atEnd( ) && mca.trim().startsWith( '}' ) ) mca.incrementPos( );
+    if (!mca.atEnd( ) && mca.startsWith( ',' )) mca.incrementPos( );
+
+  }
+    
+  class MarkedCharArray {
+    char[] charArray;
+    int currPos = 0;
       
-    int i = 0;
-    boolean escaped = false;
-    while ( i < input.length() )
-    {
-      if      (escaped) escaped = false;
-      else if (input.charAt( i ) == '\\' )      escaped = true;
-      else if (input.charAt( i ) == endCh )   break;
-      ++i;
+    boolean atEnd( ) {
+      return (currPos >= charArray.length);
     }
       
-    String result = new String( input.substring( 0, i ) );
-    return result;
-  }
+    MarkedCharArray trim( ) {
+      while ( currPos < charArray.length ) {
+        if (charArray[currPos] != ' ' && charArray[currPos] != '\n' && charArray[currPos] != '\r' ) return this;
+        if (currPos < charArray.length) ++currPos;
+      }
+      return this;
+    }
+      
+    boolean startsWith( char character ) {
+      return ( !atEnd() && charArray[currPos] == character);
+    }
+      
+    void incrementPos( ) {
+      ++currPos;
+      if (currPos == charArray.length) --currPos;
+    }
+      
+    int getNextPos( char character ) {
+      int nextPos = currPos;
+      boolean escaped = false;
+      while (nextPos < (int)charArray.length ) {
+        if (!escaped && charArray[nextPos] == character ) {
+          break;
+        }
+        if      (escaped) escaped = false;
+        else if (charArray[nextPos] == '\\' )     escaped = true;
+        ++nextPos;
+      }
+      return (nextPos < charArray.length) ? nextPos : -1;
+    }
+      
+    String getString( int startPos, int endPos ) {
+      if (startPos >= 0 && endPos <= charArray.length && endPos > startPos ) {
+        return new String( charArray, startPos, endPos-startPos );
+      }
+      return "";
+    }
     
-  private String findMatching( String input, String start, String end )
-  {
-    return StringTransform.findNestedExpression( input, start, end );
+    String getString( ) {
+      return (currPos < charArray.length) ? getString( currPos, charArray.length ) : "";
+    }
   }
 }
