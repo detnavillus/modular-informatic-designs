@@ -4,6 +4,7 @@ import com.modinfodesigns.property.IDataList;
 import com.modinfodesigns.property.IProperty;
 import com.modinfodesigns.property.IPropertyHolder;
 import com.modinfodesigns.property.DataObject;
+import com.modinfodesigns.property.DataList;
 
 import com.modinfodesigns.property.transform.string.IDataListRenderer;
 import com.modinfodesigns.property.transform.string.IPropertyHolderRenderer;
@@ -46,6 +47,8 @@ public class FileDataProcessor implements IDataObjectProcessor
   private IDataListRenderer dataListRenderer;
     
   private IPropertyHolderRenderer dataRenderer;
+    
+  private Integer pageSize;
     
   private String name;
     
@@ -90,6 +93,10 @@ public class FileDataProcessor implements IDataObjectProcessor
     this.format = format;
   }
     
+  public void setPageSize( String pageSize ) {
+    this.pageSize = new Integer( pageSize );
+  }
+    
   /**
    * Convert the DataList to a string and store in file provided.
    *
@@ -101,9 +108,33 @@ public class FileDataProcessor implements IDataObjectProcessor
 		
     if (dataListRenderer != null)
     {
-      String xml = dataListRenderer.renderDataList( data );
-      String fileName = getFileName( (DataObject)data );
-      FileMethods.writeFile( fileName, xml );
+      if (pageSize == null)
+      {
+        String xml = dataListRenderer.renderDataList( data );
+        String fileName = getFileName( (DataObject)data );
+        FileMethods.writeFile( fileName, xml );
+      }
+      else
+      {
+        DataList tempList = new DataList( );
+        for ( Iterator<DataObject> dit = data.getData(); dit.hasNext(); )
+        {
+          tempList.addDataObject( dit.next() );
+          if (tempList.size() == pageSize.intValue())
+          {
+            String xml = dataListRenderer.renderDataList( tempList );
+            String fileName = getFileName( (DataObject)tempList );
+            FileMethods.writeFile( fileName, xml );
+            tempList.clearDataList();
+          }
+        }
+        if (tempList.size() > 0)
+        {
+          String xml = dataListRenderer.renderDataList( tempList );
+          String fileName = getFileName( (DataObject)tempList );
+          FileMethods.writeFile( fileName, xml );
+        }
+      }
     }
     else if (dataRenderer != null)
     {

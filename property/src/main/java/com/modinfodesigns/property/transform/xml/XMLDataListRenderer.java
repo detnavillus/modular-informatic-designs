@@ -36,6 +36,8 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private String valueTag     = "Value";
   private String typeTag      = "Type";
     
+  private String nameProperty = "name";
+    
   private boolean noIntrinsicProperties = true;
 	
   private boolean renderIDAsProperty = true;
@@ -48,6 +50,11 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
     
   // Need a map for property name --> format
   private HashMap<String,String> propFormatMap;
+    
+  public void setRootTag( String rootTag )
+  {
+    this.rootTag = rootTag;
+  }
 	
   public void setRecordTag( String recordTag )
   {
@@ -73,6 +80,12 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   {
     this.typeTag = typeTag;
   }
+    
+  public void setNameProperty( String nameProperty )
+  {
+    this.nameProperty = nameProperty;
+  }
+
 	
   public void setOutputType( String outputSchema )
   {
@@ -95,7 +108,8 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
 	
   public void renderProperty( IProperty prop, StringBuilder strbuilder)
   {
-    if (excludedFields != null && excludedFields.contains( prop.getName( ) ))
+    System.out.println( "renderProperty " + prop.getClass().getName( ) );
+    if ( excluded( prop ))
     {
       return;
     }
@@ -120,6 +134,23 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
         renderProperty( tProp, strbuilder );
       }
     }
+    else if (prop instanceof DataObject)
+    {
+        System.out.println( "Rendering DataObject" );
+        DataObject dob = (DataObject)prop;
+        if ( outputSchema.equals( XMLConstants.FIELD_TYPE_ATTRIBUTES_STYLE ))
+        {
+            renderFieldTypeAttributes( dob, strbuilder);
+        }
+        else if ( outputSchema.equals( XMLConstants.TAGNAME_IS_FIELD_STYLE ))
+        {
+            renderTagNameIsField( dob, strbuilder );
+        }
+        else
+        {
+            renderFieldTag( dob, strbuilder );
+        }
+    }
     else
     {
       if ( outputSchema.equals( XMLConstants.FIELD_TYPE_ATTRIBUTES_STYLE ))
@@ -141,12 +172,14 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   @Override
   public String renderPropertyHolder( IPropertyHolder propHolder )
   {
+    System.out.println( "renderPropertyHolder" );
     StringBuilder strbuilder = new StringBuilder( );
     strbuilder.append( "<" ).append( rootTag ).append( ">" );
+    strbuilder.append( "<" ).append( recordTag ).append( ">" );
       
     if ( renderNameAsProperty )
     {
-      StringProperty nameProp = new StringProperty( "name", propHolder.getName( ) );
+      StringProperty nameProp = new StringProperty( nameProperty, propHolder.getName( ) );
       renderProperty( nameProp, strbuilder );
     }
     if ( renderIDAsProperty )
@@ -167,7 +200,7 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
         renderProperty( prop, strbuilder );
       }
     }
-
+    strbuilder.append( "</" ).append( recordTag ).append( ">" );
     strbuilder.append( "</").append( rootTag ).append( ">" );
     return strbuilder.toString( );
   }
@@ -270,17 +303,84 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
   private void renderFieldTypeAttributes( DataObject dobj, StringBuilder strbuilder )
   {
     strbuilder.append( "<" ).append( recordTag ).append( ">" );
+    if ( renderNameAsProperty )
+    {
+      StringProperty nameProp = new StringProperty( nameProperty, dobj.getName( ) );
+      renderFieldTypeAttributesXML( nameProp, strbuilder );
+    }
+    if ( renderIDAsProperty )
+    {
+      String id = dobj.getID( );
+      if ( id != null )
+      {
+        StringProperty idProp = new StringProperty( "id", id );
+        renderFieldTypeAttributesXML( idProp, strbuilder );
+      }
+    }
+      
     Iterator<String> pIt = dobj.getPropertyNames();
     while( pIt != null && pIt.hasNext())
     {
       String propName = pIt.next();
-      IProperty prop = dobj.getProperty( propName );
-      renderFieldTypeAttributesXML( prop, strbuilder );
+      if (!excluded( dobj.getProperty( propName ) ))
+      {
+        System.out.println( "rendering property: " + propName );
+        IProperty prop = dobj.getProperty( propName );
+        if (prop instanceof PropertyList)
+        {
+          PropertyList pl = (PropertyList)prop;
+          Iterator<IProperty> propIt = pl.getProperties( );
+          while( propIt.hasNext( ) )
+          {
+            IProperty listProp = propIt.next( );
+            if (listProp instanceof DataObject )
+            {
+                renderFieldTypeDataObject( prop.getName(), (DataObject)listProp, strbuilder );
+            }
+            else
+            {
+              renderFieldTypeAttributesXML( listProp, strbuilder );
+            }
+          }
+        }
+        else if (prop instanceof StringListProperty )
+        {
+          StringListProperty slp = (StringListProperty)prop;
+          String[] values = slp.getStringList( );
+          for (int i = 0; i < values.length; i++)
+          {
+            StringProperty tProp = new StringProperty( prop.getName( ), values[i] );
+            renderFieldTypeAttributesXML( tProp, strbuilder );
+          }
+        }
+        // ????
+        else if (prop instanceof DataObject )
+        {
+          renderFieldTypeDataObject( prop.getName( ), (DataObject)prop, strbuilder );
+        }
+        else
+        {
+          renderFieldTypeAttributesXML( prop, strbuilder );
+        }
+      }
     }
 		
     strbuilder.append( "</" ).append( recordTag ).append( ">" );
   }
 
+  private void renderFieldTypeDataObject( String propName, DataObject chObject, StringBuilder strbuilder )
+  {
+    Iterator<IProperty> dpIt = chObject.getProperties( );
+    while( dpIt != null && dpIt.hasNext() )
+    {
+      IProperty chprop = dpIt.next();
+      if (!noIntrinsicProperties || !(chprop instanceof IntrinsicPropertyDelegate) )
+      {
+        StringProperty tProp = new StringProperty( propName, chprop.getValue( ) );
+        renderFieldTypeAttributesXML( tProp, strbuilder );
+      }
+    }
+  }
 	
   // ==============================================================
   // Render Field Tag Value Tag Style
@@ -354,6 +454,16 @@ public class XMLDataListRenderer implements IPropertyHolderRenderer, IDataListRe
     fixedString = StringTransform.replaceSubstring( fixedString, "&", "&amp;" );
     fixedString = StringTransform.replaceSubstring( fixedString, ",',", "'" );
     return fixedString;
+  }
+    
+  private boolean excluded( IProperty prop )
+  {
+    if (noIntrinsicProperties && ((prop instanceof IntrinsicPropertyDelegate) || prop.getName().indexOf( "." ) > 0) )
+    {
+        return true;
+    }
+    
+    return (excludedFields != null && excludedFields.contains( prop.getName( ) ));
   }
 
 }

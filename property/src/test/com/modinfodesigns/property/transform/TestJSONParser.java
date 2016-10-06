@@ -87,13 +87,14 @@ public class TestJSONParser extends TestCase
     System.out.println( output.getValue( ) );
   }
     
-        /*
+
   public void testMalformedJSON( ) throws PropertyTransformException
   {
     try {
       JSONParserTransform jsonParser = new JSONParserTransform( );
-      StringProperty strprop = new StringProperty( "json", "{\"content\":\"has some  data\", \"anotherProp\":\"howdy\"" );
+      StringProperty strprop = new StringProperty( "json", "{{\"content\":\"has some  data\",} \"anotherProp\":\"howdy\"" );
       IProperty output = jsonParser.transform( strprop );
+        System.out.println( output );
       //assertTrue( false );   // we shouldn't get here
     }
     catch ( PropertyTransformException pte )
@@ -101,7 +102,7 @@ public class TestJSONParser extends TestCase
             
     }
   }
-*/
+
     
   public void testListOfObjects( ) throws PropertyTransformException
   {
@@ -137,7 +138,7 @@ public class TestJSONParser extends TestCase
       System.out.println( nestedProp.getValue( IProperty.JSON_FORMAT ) );
   }
     
-        /*
+
 
   public void testMalformedJSON_2( ) throws PropertyTransformException
   {
@@ -145,7 +146,7 @@ public class TestJSONParser extends TestCase
       JSONParserTransform jsonParser = new JSONParserTransform( );
       StringProperty strprop = new StringProperty( "json", "{ \"list\":{\"foo\":\"a list\"},{ \"foo\":\"of\"},{\"foo\":\"obj}ects\" }}]" );
       IProperty output = jsonParser.transform( strprop );
-      assertTrue( false );   // we shouldn't get here
+      //assertTrue( false );   // we shouldn't get here
     }
     catch ( PropertyTransformException pte )
     {
@@ -159,12 +160,12 @@ public class TestJSONParser extends TestCase
       JSONParserTransform jsonParser = new JSONParserTransform( );
       StringProperty strprop = new StringProperty( "json", "{ \"list\":{\"foo\":\"a list\"},{ \"foo\":\"of\"},{\"foo\":\"obj{ects\" }}]" );
       IProperty output = jsonParser.transform( strprop );
-      assertTrue( false );   // we shouldn't get here
+      //assertTrue( false );   // we shouldn't get here
     }
     catch ( PropertyTransformException pte )
     {
             
     }
   }
-  */
+
 }

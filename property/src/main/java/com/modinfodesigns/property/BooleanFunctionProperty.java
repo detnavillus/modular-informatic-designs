@@ -12,6 +12,7 @@ import com.modinfodesigns.security.IUserCredentials;
 import java.lang.reflect.Method;
 
 import java.util.List;
+import java.util.Iterator;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,7 +21,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( BooleanFunctionProperty.class );
 
-  private static String[] compareOps = { "=", "==", "EQ", "<", "LT", ">", "GT", "!=", "NE", "<=", "LE", ">=", "GE", "starts-with", "ends-with", "contains" };
+  private static String[] compareOps = { "=", "==", "EQ", "<", "LT", ">", "GT", "!=", "NE", "<=", "LE", ">=", "GE", "starts-with", "ends-with", "contains", "matches" };
         
   private static String[] boolOps = { " AND ", " OR ", " AND NOT ", "&&", "||" };
     
@@ -28,7 +29,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
   private static final String AND_NOT = " ANDNOT ";
   private static final String OR = " OR ";
     
-  private static final String EQU = "EQU";
+  private static final String EQU = "EQ";
   private static final String LT  = "LT";
   private static final String GT  = "GT";
   private static final String NE  = "NE";
@@ -39,6 +40,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
   private static final String STARTS_WITH = "starts-with";
   private static final String ENDS_WITH = "ends-with";
   private static final String CONTAINS  = "contains";
+  private static final String MATCHES   = "matches";
     
   private IFunctionProperty leftSide;
   private String operator;
@@ -59,7 +61,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
   @Override
   public void setFunction(String function)
   {
-    LOG.debug( "setFunction: " + function );
+    System.out.println( "setFunction: " + function );
     this.booleanExpression = function;
     parse( function );
   }
@@ -70,7 +72,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
   // -----------------------------------------------------------------------------
   private void parse( String booleanExpression )
   {
-    LOG.debug( "Parsing: " + booleanExpression );
+    System.out.println( "BooleanFunctionProperty Parsing: " + booleanExpression );
         
     // Create Left Side, operator and Right side
     // for compound expressions, roll current
@@ -78,51 +80,93 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
     String trimmed = booleanExpression.trim( );
     if (trimmed.startsWith( "(" ) && trimmed.endsWith( ")" ))
     {
-      trimmed = new String( trimmed.substring( 1, trimmed.length() - 1 ));
+      if ( trimmed.indexOf( ")" ) == trimmed.lastIndexOf( ")" ) )
+      {
+        trimmed = new String( trimmed.substring( 1, trimmed.length() - 1 ));
+      }
     }
         
     if (trimmed.startsWith( "(" ))
     {
+      System.out.println( "trimmed: " + trimmed );
       int matchingBrace = getMatchingBrace( trimmed, 0 );
+      String boolOp = getNextOp( trimmed, boolOps );
+      System.out.println( "boolOp = '" + boolOp + "'" );
+      if ( trimmed.lastIndexOf( boolOp ) > matchingBrace )
+      {
+        System.out.println( "the problem case" );
+        String leftExpr = trimmed.substring( 1, matchingBrace );
+        String restOfIt = trimmed.substring( matchingBrace + 1 );
+        System.out.println( "restOfIt is '" + restOfIt + "'" );
+        restOfIt = restOfIt.substring( boolOp.length() );
+        System.out.println( "Got leftExpr = " + leftExpr + ", rightExpr = " + restOfIt );
         
-      String innerExpr = trimmed.substring( 1, matchingBrace );
-      String restOfIt = trimmed.substring( matchingBrace + 1 );
-      LOG.debug( "Got innerExpr = " + innerExpr + ", rest = " + restOfIt );
-            
-      BooleanFunctionProperty leftProp = new BooleanFunctionProperty( );
-      leftProp.setFunction( innerExpr );
-      this.leftSide = leftProp;
+        BooleanFunctionProperty leftProp = new BooleanFunctionProperty( );
+        leftProp.setFunction( leftExpr );
+        this.leftSide = leftProp;
+          
+        BooleanFunctionProperty rightProp = new BooleanFunctionProperty( );
+        rightProp.setFunction( restOfIt );
+        operator = translate( boolOp );
+        this.rightSide = rightProp;
+        System.out.println( "problem case done." );
+      }
+      else
+      {
+        System.out.println( "the old case" );
+        String innerExpr = trimmed.substring( 1, matchingBrace );
+        String restOfIt = trimmed.substring( matchingBrace + 1 );
+        System.out.println( "Got innerExpr = " + innerExpr + ", rest = " + restOfIt );
+        if (restOfIt.trim().length() > 0)
+        {
+          BooleanFunctionProperty leftProp = new BooleanFunctionProperty( );
+          leftProp.setFunction( innerExpr );
+          this.leftSide = leftProp;
         
-      String nextBoolOp = getNextOp( restOfIt, boolOps );
-      LOG.debug( "got rest bool op = '" + operator + "'" );
+          String nextBoolOp = getNextOp( restOfIt, boolOps );
+          System.out.println( "got rest bool op = '" + operator + "'" );
             
-      operator = translate( nextBoolOp );
+          operator = translate( nextBoolOp );
             
-      restOfIt = restOfIt.substring( restOfIt.indexOf( nextBoolOp ) + nextBoolOp.length( ) );
+          restOfIt = restOfIt.substring( restOfIt.indexOf( nextBoolOp ) + nextBoolOp.length( ) );
             
-      BooleanFunctionProperty rightProp = new BooleanFunctionProperty( );
-      rightProp.setFunction( restOfIt );
-      this.rightSide = rightProp;
+          BooleanFunctionProperty rightProp = new BooleanFunctionProperty( );
+          rightProp.setFunction( restOfIt );
+          this.rightSide = rightProp;
+        }
+        else
+        {
+          parse( innerExpr );
+        }
+      }
     }
     else
     {
       String nextCompareOp = getNextOp( trimmed, compareOps );
       if (nextCompareOp != null)
       {
-        LOG.debug( "Got Comparator OP = " + nextCompareOp );
+        System.out.println( "Got Comparator OP = " + nextCompareOp );
                 
         String leftExpr = new String( trimmed.substring( 0, trimmed.indexOf( nextCompareOp )).trim( ) );
         String rightExpr = new String( trimmed.substring( trimmed.indexOf( nextCompareOp ) + nextCompareOp.length( )).trim( ) );
-        LOG.debug( "Got leftExpr = " + leftExpr + ", rightExpr = " + rightExpr );
-            
+        
+        System.out.println( "creating FunctionProperty for '" + leftExpr + "'" );
         leftSide = new PathFunctionProperty(  );
         leftSide.setFunction( leftExpr );
         operator = translate( nextCompareOp );
-        
+          
+        if (rightExpr.trim().startsWith( "(" ))
+        {
+          String rTrimmed = rightExpr.trim( );
+          int matchingBrace = getMatchingBrace( rTrimmed, 0 );
+          rightExpr = rightExpr.substring( 1, matchingBrace );
+        }
+        System.out.println( "Got leftExpr = " + leftExpr + ", rightExpr = " + rightExpr );
+          
         String nextBoolOp = getNextOp( rightExpr, boolOps );
         if (nextBoolOp != null)
         {
-          LOG.debug( "Got Boolean OP '" + nextBoolOp + "'" );
+          System.out.println( "Got Boolean OP '" + nextBoolOp + "'" );
                     
           // -----------------------------------------------------------------------------------------------------
           // if right side contains boolean operator, get up to boolean operator as
@@ -133,34 +177,102 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
           // -----------------------------------------------------------------------------------------------------
           String myRight = new String( rightExpr.substring( 0, rightExpr.indexOf( nextBoolOp )).trim( ) );
           rightSide = getProperty( myRight );
-          LOG.debug( "got myRight = " + myRight );
-                
-          BooleanFunctionProperty leftBoolProp = new BooleanFunctionProperty( );
-          leftBoolProp.leftSide = this.leftSide;
-          leftBoolProp.operator = this.operator;
-          leftBoolProp.rightSide = this.rightSide;
-          leftBoolProp.booleanExpression = leftSide.getFunction( ) + " " + operator + " " + rightSide;
-                
-          String rightBooleanExpr = new String( rightExpr.substring( rightExpr.indexOf( nextBoolOp ) + nextBoolOp.length() ).trim( ) );
-          LOG.debug( "got rightBooleanExpr = " + rightBooleanExpr );
-          BooleanFunctionProperty rightBoolProp = new BooleanFunctionProperty( );
-          rightBoolProp.setFunction( rightBooleanExpr );
+          System.out.println( "got myRight = " + myRight );
+          if ( rightSide instanceof BooleanFunctionProperty ) {
+            System.out.println( "right side is a Boolean Function" );
+            BooleanFunctionProperty boolProp = new BooleanFunctionProperty( );
+            boolProp.leftSide = (BooleanFunctionProperty)rightSide;
+              
+            String rightBooleanExpr = new String( rightExpr.substring( rightExpr.indexOf( nextBoolOp ) + nextBoolOp.length() ).trim( ) );
+            System.out.println( "got rightBooleanExpr = " + rightBooleanExpr );
+            BooleanFunctionProperty rightBoolProp = new BooleanFunctionProperty( );
+            rightBoolProp.setFunction( rightBooleanExpr );
+            boolProp.booleanExpression = new String( ((BooleanFunctionProperty)rightSide).getFunction( ) + " " + nextBoolOp + " " + rightBoolProp.getFunction( ) );
+            boolProp.rightSide = rightBoolProp;
+            boolProp.operator = translate( nextBoolOp );
+              
+            this.rightSide = boolProp;
+          }
+          else
+          {
+            System.out.println( "right side is a Property rightExpr = '" + rightExpr + "' leftExpr is " + leftExpr );
+            if (myRight.startsWith( "\"") || myRight.startsWith( "'" ))
+            {
+                System.out.println( "Its a VALUE!" );
+            }
             
-          this.leftSide = leftBoolProp;
-          this.operator = translate( nextBoolOp );
-          this.rightSide = rightBoolProp;
+            BooleanFunctionProperty leftBoolProp = new BooleanFunctionProperty( );
+            leftBoolProp.leftSide = this.leftSide;
+            leftBoolProp.operator = this.operator;
+            leftBoolProp.rightSide = this.rightSide;
+            leftBoolProp.booleanExpression = leftSide.getFunction( ) + " " + operator + " " + rightSide;
+
+            /*String rightBooleanExpr = (rightExpr.indexOf( nextBoolOp ) > 0)
+                                    ? rightExpr
+                                    : new String( rightExpr.substring( rightExpr.indexOf( nextBoolOp ) + nextBoolOp.length() ).trim( ) ); */
+            String rightBooleanExpr =new String( rightExpr.substring( rightExpr.indexOf( nextBoolOp ) + nextBoolOp.length() ).trim( ) );
+            System.out.println( "got rightBooleanExpr = " + rightBooleanExpr );
+            BooleanFunctionProperty rightBoolProp = new BooleanFunctionProperty( );
+            rightBoolProp.setFunction( rightBooleanExpr );
+            
+            this.leftSide = leftBoolProp;
+            this.operator = translate( nextBoolOp );
+            this.rightSide = rightBoolProp;
+          }
         }
         else
         {
-          rightSide = getProperty( rightExpr );
-          LOG.debug( "set rightSide to " + rightSide );
+          if (operator.equals( "contains" ) && isFunction( rightExpr )) {
+            rightSide = new BooleanFunctionProperty( );
+            System.out.println( "setting BooleanFunctionProperty to " + rightExpr );
+            ((BooleanFunctionProperty)rightSide).setFunction( rightExpr );
+          }
+          else
+          {
+            rightSide = getProperty( rightExpr );
+            System.out.println( "setting rightSide expression " + rightExpr + " to " + rightSide );
+          }
+        
+          System.out.println( "setting rightSide expression " + rightExpr + " to " + rightSide );
+        }
+      }
+      else
+      {
+        String nextBoolOp = getNextOp( booleanExpression, boolOps );
+        if (nextBoolOp != null)
+        {
+          System.out.println( "Value OP Value pattern" );
+          String leftVal = booleanExpression.substring( 0, booleanExpression.indexOf( nextBoolOp ));
+          String rightVal = booleanExpression.substring( booleanExpression.indexOf( nextBoolOp ) + nextBoolOp.length( ) );
+          System.out.println( "leftVal = " + leftVal + " rightVal = " + rightVal );
+          this.leftSide = new PropertyWrapperFunction( new StringProperty( "value", leftVal ));
+          this.operator = nextBoolOp;
+          this.rightSide = new StringProperty( "value", rightVal );
+        }
+        else
+        {
+          System.out.println( "Just a Single Value!" );
+          this.leftSide = new PropertyWrapperFunction( new StringProperty( "value", booleanExpression ));
+          this.operator = EQU;
+          this.rightSide = new StringProperty( "value", booleanExpression );
         }
       }
     }
   }
     
+  private boolean isFunction( String expression )
+  {
+    for (int i = 0; i < compareOps.length; i++ ) {
+      String padded = " " + compareOps[i] + " ";
+      if (expression.indexOf( padded ) > 0) return true;
+    }
+
+    return false;
+  }
+    
   private String getNextOp( String booleanExpression, String[] opsArray )
   {
+    LOG.debug( "getNextOp " + booleanExpression );
     int lowestIndex = -1;
     String firstOp = null;
         
@@ -168,14 +280,22 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
     {
       if ( booleanExpression.indexOf( opsArray[i] ) >= 0 )
       {
-        int itsNdx = booleanExpression.indexOf( opsArray[i] );
+        LOG.debug( "Checking op " + opsArray[i] );
+        int itsNdx = booleanExpression.lastIndexOf( opsArray[i] );
 
         // need to do it this way so that >= will replace > if it is there
         // and <= will replace < if it is there
-        if (lowestIndex < 0 || itsNdx <= lowestIndex )
+        if (itsNdx > 0 && (lowestIndex < 0 || itsNdx <= lowestIndex ))
         {
-          lowestIndex = itsNdx;
-          firstOp = opsArray[i];
+          boolean startsWithParen = booleanExpression.startsWith( "(" );
+          if ((startsWithParen && booleanExpression.indexOf( ")" ) < itsNdx ) ||
+              (startsWithParen && booleanExpression.length() == (booleanExpression.indexOf( ")" ) - 1)) ||
+              (!startsWithParen))
+          {
+            lowestIndex = itsNdx;
+            firstOp = opsArray[i];
+            LOG.debug( "setting OP = " + firstOp );
+          }
         }
       }
     }
@@ -185,6 +305,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
     
   private String translate( String compareOp )
   {
+    System.out.println( "translate " + compareOp );
     if (compareOp.equals( "=" ) || compareOp.equals( "==" )) return EQU;
     else if (compareOp.equals( "<" )) return LT;
     else if (compareOp.equals( "<=" )) return LTE;
@@ -200,6 +321,14 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
     
   private IProperty getProperty( String strValue )
   {
+    if (isFunction( strValue ))
+    {
+      LOG.debug( "'" + strValue + "' IsFunction!" );
+      BooleanFunctionProperty boolFunProp = new BooleanFunctionProperty( );
+      boolFunProp.setFunction( strValue );
+      return boolFunProp;
+    }
+      
     if (StringMethods.isInteger( strValue ))
     {
       return new IntegerProperty( "right", strValue );
@@ -257,6 +386,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
     }
         
     LOG.debug( "getProperty: " + strValue );
+
     return new StringProperty( "right", strValue );
   }
 
@@ -355,7 +485,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
   @Override
   public boolean equals(IUserCredentials user, IPropertyHolder propHolder)
   {
-    LOG.debug( "equals ( IPropertyHolder )" );
+    System.out.println( "equals ( IPropertyHolder )" );
 
     IPropertyHolder temp = this.propHolder;
     this.propHolder = propHolder;
@@ -485,6 +615,7 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
       }
       else if (operator.equals( LTE ) || operator.equals( GTE ))
       {
+        LOG.debug( "Testing LTE operator" );
         IProperty leftProp = leftSide.execute( );
         if (leftProp instanceof IQuantity && rightSide instanceof IQuantity )
         {
@@ -493,11 +624,12 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
             IQuantity leftQuan = (IQuantity)leftProp;
             IQuantity rightQuan = (IQuantity)rightSide;
                         
-            return (operator.equals( LT )) ? (leftQuan.getQuantity() <= rightQuan.getQuantity( ))
-                                           : (leftQuan.getQuantity() >= rightQuan.getQuantity( ) );
+            return (operator.equals( LTE )) ? (leftQuan.getQuantity() <= rightQuan.getQuantity( ))
+                                            : (leftQuan.getQuantity() >= rightQuan.getQuantity( ) );
           }
           else
           {
+            LOG.debug( "not same type - returning false " );
             return false;
           }
         }
@@ -520,11 +652,12 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
         }
         else
         {
+          LOG.debug( "LTE: Comparing String values " );
           String leftVal = leftProp.getValue( );
           String rightVal = rightSide.getValue( );
                     
-          return (operator.equals( LT) ) ? (leftVal.compareTo( rightVal ) <= 0)
-                                         : (leftVal.compareTo( rightVal ) >= 0);
+          return (operator.equals( LTE ) ) ? (leftVal.compareTo( rightVal ) <= 0)
+                                           : (leftVal.compareTo( rightVal ) >= 0);
         }
       }
       else if (operator.equals( STARTS_WITH ))
@@ -546,16 +679,148 @@ public class BooleanFunctionProperty extends BooleanProperty implements IFunctio
       }
       else if (operator.equals( CONTAINS ))
       {
+        // if prop is instance of PropertyList - contains means that
+        // it has a property in its list that matches
+        
         // if prop is instance of IRangeProperty
-        String leftVal = leftSide.getValue( );
-        String rightVal = rightSide.getValue( );
-                
-        return leftVal.contains( rightVal );
+        IProperty leftProp = leftSide.execute( );
+        if (leftProp instanceof PropertyList)
+        {
+          PropertyList pl = (PropertyList)leftProp;
+          System.out.println( "CONTAINS: Checking in a PropertyList " + pl.getValue( ) );
+          if (rightSide instanceof BooleanFunctionProperty)
+          {
+            BooleanFunctionProperty rightBoolFun = (BooleanFunctionProperty)rightSide;
+            return propertyListContains( pl, rightBoolFun );
+          }
+          else
+          {
+            Iterator<IProperty> propIt = pl.getProperties( );
+            while ( propIt.hasNext( ) )
+            {
+              IProperty nested = propIt.next( );
+              if (equals( nested, rightSide ))
+              {
+                System.out.println( "MATCHES" );
+                return true;
+              }
+            }
+            return false;
+          }
+        }
+        else if (leftProp instanceof IRangeProperty )
+        {
+          // value must be in ranges
+        }
+        else
+        {
+          if (rightSide instanceof BooleanFunctionProperty )
+          {
+            BooleanFunctionProperty rightBoolFun = (BooleanFunctionProperty)rightSide;
+            return rightBoolFun.equals( (IUserCredentials)null, leftProp );
+          }
+          else
+          {
+            String leftVal = leftProp.getValue( );
+            String rightVal = rightSide.getValue( );
+            return leftVal.contains( rightVal );
+          }
+        }
+      }
+      else if (operator.equals( MATCHES ))
+      {
+        // if its a string - then use match OR regex if it is that ...
+        // if the left hand prop is a PropertyList - each property must match
+        IProperty leftProp = leftSide.execute( );
+        if ( leftProp instanceof PropertyList )
+        {
+          PropertyList pl = (PropertyList)leftProp;
+          if (rightSide instanceof BooleanFunctionProperty)
+          {
+            BooleanFunctionProperty rightBoolFun = (BooleanFunctionProperty)rightSide;
+            return propertyListMatches( pl, rightBoolFun );
+          }
+          else
+          {
+            Iterator<IProperty> propIt = pl.getProperties( );
+            while ( propIt.hasNext( ) )
+            {
+              IProperty nested = propIt.next( );
+              if (!equals( nested, rightSide ))
+              {
+                LOG.debug( "NOT ALL MATCH!" );
+                return false;
+              }
+            }
+            LOG.debug( "ALL MATCH!" );
+            return true;
+          }
+        }
+        else
+        {
+          String leftVal = leftProp.getValue( );
+          String rightVal = rightSide.getValue( );
+            
+          return leftVal.matches( rightVal );
+        }
       }
     }
     
     LOG.debug( "Not mapping to any operator - returning false" );
     return false;
+  }
+    
+  private boolean propertyListContains( PropertyList pl, BooleanFunctionProperty boolProp )
+  {
+    Iterator<IProperty> propIt = pl.getProperties( );
+    while ( propIt.hasNext( ) )
+    {
+      IProperty nested = propIt.next( );
+      if ( nested instanceof PropertyList )
+      {
+        PropertyList nestedList = (PropertyList)nested;
+        boolean contains = propertyListContains( nestedList, boolProp );
+        if (contains) return true;
+      }
+      else
+      {
+        System.out.println( "testing " + nested.getValue( ) );
+        if (boolProp.equals( (IUserCredentials)null, nested ))
+        {
+          System.out.println( "MATCHES" );
+          return true;
+        }
+      }
+    }
+
+    System.out.println( "NONE MATCHES" );
+    return false;
+  }
+    
+  private boolean propertyListMatches( PropertyList pl, BooleanFunctionProperty boolProp )
+  {
+    Iterator<IProperty> propIt = pl.getProperties( );
+    while ( propIt.hasNext( ) )
+    {
+      IProperty nested = propIt.next( );
+      if ( nested instanceof PropertyList )
+      {
+          PropertyList nestedList = (PropertyList)nested;
+          boolean matches = propertyListMatches( nestedList, boolProp );
+          if (!matches) return false;
+      }
+      else
+      {
+        if (!boolProp.equals( (IUserCredentials)null, nested ))
+        {
+          LOG.debug( "NOT ALL MATCH!" );
+          return false;
+        }
+      }
+    }
+      
+    LOG.debug( "ALL MATCH!" );
+    return true;
   }
     
   private boolean equals( IProperty leftProp, IProperty rightProp )

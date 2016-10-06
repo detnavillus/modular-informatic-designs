@@ -26,6 +26,8 @@ import java.util.Date;
 
 import com.modinfodesigns.property.transform.string.StringTransform;
 
+import java.io.Serializable;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -39,7 +41,7 @@ import org.slf4j.LoggerFactory;
  * @author Ted Sullivan
  */
 
-public class DataObject implements IPropertyHolder
+public class DataObject implements IPropertyHolder, Serializable
 {
   private transient static final Logger LOG = LoggerFactory.getLogger( DataObject.class );
 

@@ -22,6 +22,8 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     
   private ArrayList<String> copyParentPropertyList;
     
+  private boolean resolveChildNamesOnly = false;
+    
   public void addParentPropertyToCopy( String parentPropertyToCopy )
   {
     System.out.println( "addParentPropertyToCopy = " + parentPropertyToCopy );
@@ -29,10 +31,15 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     copyParentPropertyList.add( parentPropertyToCopy );
   }
     
+  public void setResolveChildNamesOnly( String resolveChildNamesOnly )
+  {
+    this.resolveChildNamesOnly = resolveChildNamesOnly.equalsIgnoreCase( "true" );
+  }
+    
   @Override
   public ITaxonomyNode buildTaxonomy( DataObject context )
   {
-    LOG.info( "buildTaxonomy: " );
+    System.out.println( "buildTaxonomy: " );
       
     // pass 1 set ID = rdf:about
     HashMap<String,TaxonomyNode> nodeMap = new HashMap<String,TaxonomyNode>( );
@@ -48,6 +55,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     PropertyList owlIndividuals = (PropertyList)context.getProperty( "owl:NamedIndividual" );
     addObjects( owlIndividuals, nodeMap );
       
+    System.out.println( "Building hierarchy" );
     // pass 2: build hierarchy with rdfs:subclassof and rdf:type
     // resolve links of rdf:resource
     for (TaxonomyNode node : nodeMap.values( ) )
@@ -64,29 +72,63 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
       // lookup the DataObject set it as the DataObjectDelegate object for this property
       // rdf:resource
       Iterator<IProperty> childPropIt = node.getProperties( );
+      HashMap<String,ArrayList<DataObject>> childrenToResolve = new HashMap<String,ArrayList<DataObject>>( );
+        
       while (childPropIt != null && childPropIt.hasNext( ) )
       {
         IProperty childProp = childPropIt.next( );
+          
         if (childProp instanceof DataObject)
         {
-          resolveChildObject( (DataObject)childProp, node, nodeMap );
+          DataObject childOb = (DataObject)childProp;
+          if (!childOb.getName().equals( "rdfs:subClassOf" ) && !childOb.getName().equals( "rdf:type" ))
+          {
+            IProperty rdfResource = childOb.getProperty( "rdf:resource" );
+            if ( rdfResource != null )
+            {
+              ArrayList<DataObject> propObjs = new ArrayList<DataObject>( );
+              childrenToResolve.put( childProp.getName(), propObjs );
+              propObjs.add( childOb );
+            }
+          }
         }
         else if (childProp instanceof PropertyList )
         {
           Iterator<IProperty> plprops = ((PropertyList)childProp).getProperties( );
-          ArrayList<DataObject> plDobjs = new ArrayList<DataObject>( );
+
           while (plprops.hasNext( ) )
           {
             IProperty listProp = plprops.next( );
             if (listProp instanceof DataObject )
             {
-                plDobjs.add( (DataObject)listProp );
+              DataObject childOb = (DataObject)listProp;
+              if (!childOb.getName().equals( "rdfs:subClassOf" ) && !childOb.getName().equals( "rdf:type" ))
+              {
+                IProperty rdfResource = childOb.getProperty( "rdf:resource" );
+                if ( rdfResource != null )
+                {
+                  ArrayList<DataObject> propObjs = childrenToResolve.get( childProp.getName( ) );
+                  if ( propObjs == null )
+                  {
+                    propObjs = new ArrayList<DataObject>( );
+                    childrenToResolve.put( childProp.getName(), propObjs );
+                  }
+                  propObjs.add( childOb );
+                }
+              }
             }
           }
-          for (DataObject childobj : plDobjs )
-          {
-            resolveChildObject( childobj, node, nodeMap );
-          }
+        }
+      }
+        
+      System.out.println( "Resolving children now ..." );
+      for (String propName : childrenToResolve.keySet() )
+      {
+        // node.removeProperty( propName );
+        ArrayList<DataObject> childObjs = childrenToResolve.get( propName );
+        for (DataObject childOb : childObjs)
+        {
+          resolveChildObject( childOb, node, nodeMap );
         }
       }
     }
@@ -125,7 +167,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     
   private void addObjects( PropertyList objects, HashMap<String,TaxonomyNode> nodeMap )
   {
-    LOG.debug( "addObjects: " + objects );
+    System.out.println( "addObjects: " + objects );
     Iterator<IProperty> props = objects.getProperties( );
     while (props.hasNext( ) )
     {
@@ -141,7 +183,7 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
         IProperty idProp = dobj.getProperty( "rdf:about" );
         if (idProp != null)
         {
-          LOG.info( "Adding " + idProp.getValue( ) );
+          System.out.println( "Adding " + idProp.getValue( ) );
           taxoNode.setID( idProp.getValue( ) );
           nodeMap.put( taxoNode.getID( ), taxoNode );
                 
@@ -149,28 +191,32 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
           if (nameProp != null)
           {
             if (nameProp instanceof PropertyList) {
-                LOG.debug( " Name is a List!" );
-                PropertyList nameL = (PropertyList)nameProp;
-                Iterator<IProperty> nameLit = nameL.getProperties( );
-                while (nameLit.hasNext( ) ) {
-                    IProperty aName = nameLit.next( );
-                    System.out.println( "  has name" + aName.getValue( ) );
-                }
+              System.out.println( " Name is a List!" );
+              PropertyList nameL = (PropertyList)nameProp;
+              Iterator<IProperty> nameLit = nameL.getProperties( );
+              while (nameLit.hasNext( ) ) {
+                IProperty aName = nameLit.next( );
+                System.out.println( "  has name" + aName.getValue( ) );
+              }
             }
             else if (nameProp instanceof DataObject ){
-              LOG.debug( "Adding nameProp: " + nameProp );
+              System.out.println( "Adding nameProp: " + nameProp );
               // get the StringListProperty "text"
               DataObject nameObj = (DataObject)nameProp;
               IProperty name = nameObj.getProperty( "text" );
-              LOG.debug( "setting name = " + name.getValue( ) );
-              taxoNode.setName( name.getValue( ) );
+              String nameVal = name.getValue( );
+              // fix ampersands  ,&, -> &
+              nameVal = nameVal.replace( ",&,", "&" );
+              nameVal = nameVal.replace( ",',", "'" );
+              System.out.println( "setting name = " + nameVal );
+              taxoNode.setName( nameVal );
             }
           }
         }
       }
     }
       
-    LOG.debug( "addObjects - DONE!" );
+    System.out.println( "addObjects - DONE!" );
   }
     
   private void addParents( IProperty objects, TaxonomyNode childNode, HashMap<String,TaxonomyNode> nodeMap )
@@ -286,16 +332,26 @@ public class RDFOWLOntologyBuilder extends XMLTaxonomyBuilder
     String propID = (resourceProp instanceof StringProperty) ? resourceProp.getValue( ) : null;
     if (propID == null) return;
     
-    LOG.debug( taxoNode + ": resolveResource: " + propID + " object name = " + obj.getName( ) );
+    System.out.println( taxoNode + ": resolveResource: " + propID + " object name = " + obj.getName( ) );
     TaxonomyNode refNode = nodeMap.get( propID );
     if (refNode != null && refNode.getID( ) != null ) {
       taxoNode.removeDataObject( refNode.getID( ) );
-      LOG.debug( "adding delegate" );
-      DataObjectDelegate delegate = new DataObjectDelegate( refNode );
-      delegate.setName( obj.getName( ) );
-      // need to set its ID to ref.getID( ) ???
+        
+      if (!resolveChildNamesOnly )
+      {
+        LOG.debug( "adding delegate" );
+        DataObjectDelegate delegate = new DataObjectDelegate( refNode );
+        delegate.setName( obj.getName( ) );
+        // need to set its ID to ref.getID( ) ???
         System.out.println( "taxo node " + taxoNode.getName( ) + " add delegate " + delegate.getName( )  + " = " + obj.getName( ) );
-      taxoNode.addProperty( delegate );
+        taxoNode.addProperty( delegate );
+      }
+      else
+      {
+        StringProperty resProp = new StringProperty( obj.getName( ) + "_name", refNode.getName( ) );
+        System.out.println( "taxo node " + taxoNode.getName( ) + " add res Prop " + resProp.getName( )  + " = " + obj.getName( ) );
+        taxoNode.addProperty( resProp );
+      }
     }
     else {
       System.out.println( "Cannot resolve resource: " + propID );

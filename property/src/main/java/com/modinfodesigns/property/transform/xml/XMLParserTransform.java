@@ -201,8 +201,12 @@ public class XMLParserTransform extends BasePropertyTransform implements IDataOb
     public void characters(char[] ch, int start, int length)
     {
       String charSt = new String( ch, start, length );
-      LOG.debug( "characters: " + charSt );
       if (charSt.trim().length() == 0) return;
+        
+      LOG.debug( "characters: " + charSt );
+      if (charSt.indexOf( "&" ) >= 0) {
+        LOG.debug( "got ampersand st: '" + charSt + "'" );
+      }
 
       StringListProperty slp = (StringListProperty)currObject.getProperty( "text" );
       if (slp == null)

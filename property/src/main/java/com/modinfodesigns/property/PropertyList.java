@@ -140,19 +140,22 @@ public class PropertyList implements IProperty, IPropertySet, IComputablePropert
     
   public boolean containsProperty( IProperty property )
   {
-    if (property == null || propList == null)
+    if (property == null || propList == null || property.getName() == null || property.getValue() == null)
     {
       return false;
     }
-
-    for (Iterator<IProperty> propIt = getProperties(); propIt.hasNext(); )
+      
+    Iterator<IProperty> propIt = getProperties();
+    while( propIt != null && propIt.hasNext() )
     {
       IProperty aProp = propIt.next();
+      if (aProp != null && aProp.getName( ) != null && aProp.getValue( ) != null ) {
 
-      if ( aProp != null && aProp.getName( ).equals( property.getName( )) && aProp.getClass( ).equals( property.getClass( ))
-        && aProp.getValue( ).equals( property.getValue( ) ))
-      {
-        return true;
+        if ( aProp.getName( ).equals( property.getName( )) && aProp.getClass( ).equals( property.getClass( ))
+          && aProp.getValue( ).equals( property.getValue( ) ))
+        {
+          return true;
+        }
       }
     }
         

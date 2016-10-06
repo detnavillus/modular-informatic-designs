@@ -46,6 +46,12 @@ public class PropertyValueMatcher implements IPropertyHolderMatcher
   {
     if (property == null ) return false;
     LOG.debug( "equals " + property.getValue( ) );
+      
+    // check if IPropertyHolder ...
+    if (property instanceof IPropertyHolder )
+    {
+      return equals( user, (IPropertyHolder)property );
+    }
 		
     return compareMatcher.equals(  user, property );
   }

@@ -90,8 +90,13 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
 
   private IProperty transformString( MarkedCharArray mca )
   {
-    LOG.debug( "transformString '" + mca.getString(  ) + "'" );
+    LOG.debug( "transformString " + mca.getString( mca.currPos, mca.currPos + 50 ));
     if (mca == null || mca.atEnd( ) ) return null;
+      
+    // deal with malformed JSON
+    while (mca.trim().startsWith( '}' ) || mca.startsWith( ',' ) || mca.startsWith( ']' )) {
+      mca.incrementPos( );
+    }
       
     if ( mca.trim().startsWith( '{' ))
     {
@@ -115,7 +120,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
   @SuppressWarnings("unchecked")
   public IProperty createProperty( MarkedCharArray mca )
   {
-    LOG.debug( "createProperty '" + mca.getString( ) + "'" );
+    LOG.debug( "createProperty " + mca.getString( mca.currPos, mca.currPos + 20 ) );
     String name = "";
     int nextEnd = mca.getNextPos( ']' );
     int nextColon = mca.getNextPos( ':' );
@@ -126,7 +131,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
 
     LOG.debug( "Got name = '" + name  + "'" );
     LOG.debug( "currPos = " + mca.currPos + " length = " + mca.charArray.length );
-    LOG.debug( "getValue from '" + mca.getString( ) + "'" );
+
     Object value = getValue( mca );
     if (value == null) return null;
       
@@ -214,8 +219,8 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     
   private Object getValue( MarkedCharArray mca  )
   {
+    LOG.debug( "getValue " + mca.getString( mca.currPos, mca.currPos + 50 ));
     if (mca.atEnd( ) ) return null;
-    LOG.debug( "getValue '" + mca.getString( ) + "'" );
     Object theObj = null;
         
     mca.trim();
@@ -240,13 +245,16 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       int nextBrace = mca.getNextPos( '}' );
       int nextClose = mca.getNextPos( ']' );
       int nextComma = mca.getNextPos( ',' );
+      LOG.debug( "nextComma = " + nextComma + " nextClose = " + nextClose + " nextBrace = " + nextBrace );
       if (nextClose > 0 && (nextComma < 0 || nextClose < nextComma )) {
         if (nextBrace > 0 && nextBrace < nextClose ) {
+          LOG.debug( "In next Brace nextBrace = " + nextBrace + " nextClose = " + nextClose );
           String val = mca.getString( mca.currPos, nextBrace );
           mca.currPos = nextBrace;
           theObj = val;
         }
         else  {
+          LOG.debug( "nextClose" );
           String val = mca.getString( mca.currPos, nextClose );
           mca.currPos = nextClose;
           theObj = val;
@@ -266,9 +274,12 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
           }
         }
       }
+        
+      LOG.debug( "char at curr pos = " + mca.getString( mca.currPos, mca.currPos ) );
     }
     
-    if (mca.trim().startsWith( ',' )) ++mca.currPos;
+    if (mca.trim().startsWith( ',' )) mca.incrementPos( );
+    LOG.debug( "Got value " + theObj );
     return theObj;
   }
     
@@ -282,17 +293,19 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     
   private ArrayList<IProperty> getJsonArray( MarkedCharArray mca )
   {
-    LOG.debug( "getJsonArray: '" + mca.getString( ) + "'" );
+    LOG.debug( "getJsonArray" );
       
     if (mca.trim().startsWith( '[' )) mca.incrementPos( );
     ArrayList<IProperty> valueList = new ArrayList<IProperty>( );
     mca.trim( );
       
-    while ( !mca.atEnd( ) && !mca.startsWith( ']' ) )
+    while ( !mca.atEnd( ) && !mca.trim().startsWith( ']' ) )
     {
       IProperty prop = transformString( mca );
-      LOG.debug( "adding property " + prop.getValue( ) );
-      valueList.add( prop );
+      if (prop != null) {
+        LOG.debug( "adding property " + prop.getValue( ) );
+        valueList.add( prop );
+      }
       mca.trim( );
       if (mca.startsWith( ',' ) ) mca.incrementPos( );
     }
@@ -315,7 +328,6 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     
   private DataObject createDataObject( MarkedCharArray mca )
   {
-    LOG.debug( "createDataObject '" + mca.getString( ) + "'" );
     // ===========================================================
     // get the set of name: value pairs
     // start in name, once hit colon we are in value,
@@ -339,8 +351,6 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     if (dobj == null) dobj = new DataObject( );
     
     formatDataObject( dobj, mca );
-      
-    LOG.debug( "got data Object: " + dobj.getValue( IProperty.JSON_FORMAT ) );
       
     IProperty proxyProp = dobj.getProperty( "proxyObject" );
     // create the Proxy Object ...
@@ -370,15 +380,15 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
     
   private void formatDataObject( DataObject dobj, MarkedCharArray mca )
   {
-    // System.out.println( "formatDataObject " + mca.getString( ) );
     if (mca.trim().startsWith( '{' )) mca.incrementPos( );
 
-    while (!mca.atEnd( ) && !mca.startsWith( '}' ) )
+    while (!mca.atEnd( ) && !mca.trim().startsWith( '}' ) )
     {
+      LOG.debug( "format data object ..." );
       IProperty prop = transformString( mca );
       if (prop != null)
       {
-        // System.out.println( "daobj adding property " +  prop.getName( ) + " = " + prop.getValue( ) );
+        LOG.debug( "daobj adding property " +  prop.getName( ) + " = " + prop.getValue( ) );
         dobj.addProperty( prop );
         mca.trim( );
 
@@ -386,7 +396,7 @@ public class JSONParserTransform extends BasePropertyTransform implements IDataO
       }
       else
       {
-        ++mca.currPos;
+        mca.incrementPos( );
       }
 
       if (!mca.atEnd( ) && mca.startsWith( ',' )) mca.incrementPos( );
